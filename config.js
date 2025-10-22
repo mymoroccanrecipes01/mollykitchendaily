@@ -1,0 +1,9 @@
+globalThis.facebookURL = "#";
+globalThis.PinterestURL = "#";
+globalThis.twitterURL = "#";
+globalThis.redditURL = "#";
+globalThis.siteUrl = 'https://www.mollykitchendaily.com';
+globalThis.homepageTitle = 'molly kitchen daily';
+globalThis.homepageTagline = 'Des recettes simples pour tous les jours';
+globalThis.email = 'contact@mollykitchendaily.com';
+globalThis.copyright = '2023 - 2024 molly kitchen daily. All rights reserved.';
