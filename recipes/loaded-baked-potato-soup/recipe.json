@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1761235148_306",
+    "slug": "loaded-baked-potato-soup",
+    "title": "Loaded Baked Potato Soup",
+    "promptIMG": "Loaded Baked Potato Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in the creamy, savory goodness of Loaded Baked Potato Soup, a comforting bowl that brings the flavors of a classic baked potato to life. Topped with crispy bacon, melty cheese, and fresh green onions, this soup is perfect for chilly evenings or as a hearty starter for any meal.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 large russet potatoes, diced",
+        "6 strips bacon",
+        "1 cup heavy cream",
+        "2 cups chicken broth",
+        "Cheddar cheese, for topping",
+        "Sour cream, for topping",
+        "Green onions, for topping"
+    ],
+    "instructions": [
+        "Cook bacon in a large pot until crispy, then set aside on paper towels to drain.",
+        "In the same pot, sauté the diced potatoes in the bacon fat until slightly softened.",
+        "Add chicken broth to the pot and bring to a simmer; cook for about 20 minutes until potatoes are tender.",
+        "Mash some of the potatoes in the pot for a thicker texture, then stir in the heavy cream.",
+        "Serve hot, topped with crumbled bacon, shredded cheddar cheese, a dollop of sour cream, and sliced green onions."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For the best flavor, use freshly cooked bacon and reserve some of the fat for sautéing the potatoes. Adjust the thickness of the soup by mashing more or fewer potatoes to your liking.",
+    "structured_content": [
+        {
+            "content": "<p>Experience the warmth and satisfaction of a bowl of Loaded Baked Potato Soup. This dish combines the rich flavors of baked potatoes with the creamy texture of a soup, making it a perfect comfort food for any occasion.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 45 minutes<\/li><li>Rich and creamy texture that satisfies<\/li><li>Perfect for cozy nights in or as a starter for gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup reminds me of family gatherings where we would gather around the table, sharing stories and laughter over a warm bowl of comfort. It's a dish that brings everyone together.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Russet potatoes are ideal for this soup due to their starchy texture, which helps create a creamy base.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> The bacon adds a smoky flavor that enhances the overall taste of the soup.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream gives the soup its luxurious texture, while cheddar cheese and sour cream add richness and tang.<\/li><li><strong>Equipment needed:<\/strong> A large pot for cooking and a potato masher for achieving the desired consistency.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of ingredients for Loaded Baked Potato Soup, including diced potatoes and crispy bacon",
+                "url": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_1.webp",
+                "fileName": "loaded-baked-potato-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Dice the potatoes and cook the bacon until crispy. Reserve the bacon fat for sautéing.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>In the pot with bacon fat, sauté the potatoes, add broth, and simmer until tender. Mash some potatoes for thickness.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Stir in heavy cream and serve topped with bacon, cheese, sour cream, and green onions.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of Loaded Baked Potato Soup, showcasing the simmering potatoes and broth",
+                "url": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_2.webp",
+                "fileName": "loaded-baked-potato-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the bacon until very crispy for the best texture.<\/li><li>Avoid over-mashing the potatoes to keep some chunks for texture.<\/li><li>The soup is ready when the potatoes are tender and the cream is heated through.<\/li><li>Store leftovers in the fridge for up to 3 days; reheat gently on the stove.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this soup with friends on a cold winter night is always a joy. It’s a dish that warms not just the body, but the heart.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, consider adding garlic or onion powder to the soup. Fresh herbs like chives or parsley can also brighten the flavors.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This soup pairs wonderfully with a crisp salad or crusty bread. A glass of white wine or a light beer complements the flavors beautifully.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, omit the bacon and use vegetable broth. You can also add broccoli or cheese for a twist on the classic recipe.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated Loaded Baked Potato Soup with toppings, showcasing its creamy texture and garnishes",
+                "url": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_3.webp",
+                "fileName": "loaded-baked-potato-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, use high-quality bacon and fresh ingredients.<\/li><li>Prep your ingredients ahead of time for a smoother cooking experience.<\/li><li>Keep an eye on the simmering time to prevent overcooking the potatoes.<\/li><li>Garnish with additional cheese and herbs for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, satisfying, and sure to impress anyone who tries it. Enjoy the process of making this delicious soup!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "loaded-baked-potato-soup_image_1.webp",
+            "filePath": "recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_1.webp",
+            "relativePath": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "loaded-baked-potato-soup_image_2.webp",
+            "filePath": "recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_2.webp",
+            "relativePath": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "loaded-baked-potato-soup_image_3.webp",
+            "filePath": "recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_3.webp",
+            "relativePath": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "loaded-baked-potato-soup_image_4.webp",
+            "filePath": "recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_4.webp",
+            "relativePath": "loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "loaded-baked-potato-soup_image_1.webp",
+    "image_path": "recipes\/loaded-baked-potato-soup\/images\/loaded-baked-potato-soup_image_1.webp",
+    "image_dir": "loaded-baked-potato-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T17:59:08+02:00",
+    "updatedAt": "2025-10-23T17:59:08+02:00"
+}

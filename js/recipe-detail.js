@@ -109,7 +109,7 @@ class RecipeDetailLoader {
                 overflow: hidden;
                 border-radius: 12px;
             }
-
+                
             .image-container img {
                 display: block;
                 width: 100%;
@@ -153,6 +153,7 @@ class RecipeDetailLoader {
                 opacity: ;
                 transform: translateY(0);
             }
+                
 
             .image-container:hover img {
                 transform: scale(1.02);
@@ -1337,7 +1338,7 @@ class RecipeDetailLoader {
         const recipesHTML = this.recentRecipes.map(recipe => `
             <div class="mini-recipe" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer;">
                 ${this.wrapImageWithPinterestButton(
-                    `<img src="${recipe.image}" alt="${recipe.title}">`,
+                    `<img class="" src="${recipe.image}" alt="${recipe.title}">`,
                     recipe.title,
                     recipe.description,
                     recipe.image
@@ -1586,8 +1587,11 @@ class RecipeDetailLoader {
             return '';
         }
 
-        return structuredContent.map(section => {
+        let index = 0;
+        return structuredContent.map((section) => {
             let html = '';
+            
+            
 
             // Main content
             if (section.content) {
@@ -1614,11 +1618,11 @@ class RecipeDetailLoader {
                 const imageUrl = section.upload.url.startsWith('./recipes/') ? 
                     section.upload.url : 
                     `./recipes/${section.upload.url}`;
-                
+                index += 1;
                 html += `
-                    <div class="content-image">
+                    <div class="content-image recipe-position-image-${index}">
                         ${this.wrapImageWithPinterestButton(
-                            `<img src="${imageUrl}" alt="${section.upload.context || 'Recipe image'}" 
+                            `<img class="" src="${imageUrl}" alt="${section.upload.context || 'Recipe image'}" 
                                  onerror="this.style.display='none'">`,
                             section.upload.context || 'Recipe Step',
                             'Step by step cooking guide',

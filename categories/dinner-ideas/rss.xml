@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinner-ideas Recipes - RSS Feed</title>
+    <link>http://www.mollykitchendaily.com/base.html</link>
+    <description>Fresh dinner-ideas recipes and cooking inspiration</description>
+    <language>en-US</language>
+    <copyright>© 2025 www.mollykitchendaily.com</copyright>
+    <managingEditor>info@mollykitchendaily.com</managingEditor>
+    <webMaster>webmaster@mollykitchendaily.com</webMaster>
+    <pubDate>Thu, 23 Oct 2025 19:17:07 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 19:17:07 +0200</lastBuildDate>
+    <category>dinner-ideas</category>
+    <generator>Recipes - RSS Feed www.mollykitchendaily.com</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://www.mollykitchendaily.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.mollykitchendaily.com/base.html/images/logo.png</url>
+      <title>dinner-ideas Recipes - RSS Feed</title>
+      <link>http://www.mollykitchendaily.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Pasta Aglio e Olio</title>
+      <link>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=pasta-aglio-e-olio</link>
+      <description>Indulge in the simplicity and bold flavors of Pasta Aglio e Olio, a classic Italian dish that comes together in just minutes. With garlic, olive oil, and a hint of spice, this dish is perfect for a quick weeknight dinner or a cozy gathering with friends.</description>
+      <pubDate>Thu, 23 Oct 2025 18:08:10 +0200</pubDate>
+      <guid isPermaLink="true">http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=pasta-aglio-e-olio</guid>
+      <category>cat_1761230383_494</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.mollykitchendaily.com/recipes/pasta-aglio-e-olio/images/pasta-aglio-e-olio_image_4.webp" alt="Pasta Aglio e Olio" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 30 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 4</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>400g spaghetti</li><li>6 cloves garlic, minced</li><li>100ml olive oil</li><li>dried red chili flakes</li><li>fresh parsley, chopped</li><li>salt and pepper to taste</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Cook the spaghetti in salted boiling water according to package instructions until al dente.</li><li>In a large skillet, heat the olive oil over medium heat and sauté the minced garlic until fragrant but not browned.</li><li>Add the dried chili flakes and chopped parsley to the skillet, stirring to combine.</li><li>Drain the spaghetti and add it to the skillet, tossing well to coat the pasta in the garlic oil mixture.</li><li>Season with salt and pepper to taste, then serve immediately.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230383494 #easyrecipe #quickrecipe #30minutemeals #recipe #cooking #foodie #homemade #delicious #spaghetti #cloves #olive</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.mollykitchendaily.com/recipes/pasta-aglio-e-olio/images/pasta-aglio-e-olio_image_4.webp" medium="image" type="image/webp">
+        <media:title>Pasta Aglio e Olio</media:title>
+        <media:description>Indulge in the simplicity and bold flavors of Pasta Aglio e Olio, a classic Italian dish that comes together in just minutes. With garlic, olive oil, and a hint of spice, this dish is perfect for a quick weeknight dinner or a cozy gathering with friends.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230383494, easyrecipe, quickrecipe, 30minutemeals, recipe, cooking, foodie, homemade, delicious, spaghetti, cloves, olive</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,168 @@
+{
+    "id": "text_recipe_1761239811_629",
+    "slug": "matzo-ball-soup",
+    "title": "Matzo Ball Soup",
+    "promptIMG": "Matzo Ball Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Warm, comforting, and filled with rich flavors, Matzo Ball Soup is the perfect dish to nourish both body and soul. This classic recipe combines fluffy matzo balls with a savory chicken broth and fresh vegetables, making it a beloved favorite for any occasion.",
+    "category_id": "1",
+    "author_id": "author_001",
+    "ingredients": [
+        "4 eggs",
+        "1 cup matzo meal",
+        "1\/4 cup oil or schmaltz",
+        "1\/4 cup seltzer water",
+        "salt",
+        "8 cups chicken broth",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "1 onion, chopped",
+        "fresh dill, for garnish",
+        "fresh parsley, for garnish",
+        "cooked chicken (optional)"
+    ],
+    "instructions": [
+        "In a bowl, mix together the eggs, oil, seltzer water, and salt until well combined.",
+        "Stir in the matzo meal and refrigerate the mixture for 30 minutes.",
+        "With wet hands, form the mixture into balls.",
+        "In a large pot, bring salted water to a boil and gently add the matzo balls, cooking for 30-40 minutes.",
+        "Meanwhile, in another pot, simmer the chicken broth with the diced carrots, celery, and onion until the vegetables are tender.",
+        "Once the matzo balls are cooked, add them to the soup and garnish with fresh dill and parsley before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 90,
+    "total_time": 105,
+    "servings": 4,
+    "difficulty": "medium",
+    "tips": "For perfectly fluffy matzo balls, ensure your mixture is well chilled before forming them into balls, and avoid overcooking them in the water.",
+    "structured_content": [
+        {
+            "content": "<p>This Matzo Ball Soup is a heartwarming dish that brings comfort and nostalgia with every spoonful. The fluffy matzo balls float in a rich, savory broth filled with tender vegetables, making it a perfect meal for chilly days or family gatherings.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1.5 hours<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy dinners or holiday celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and leftovers<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup reminds me of my childhood, where my grandmother would make it every Friday night. The aroma would fill the house, and we would eagerly await the first bowl, a tradition that brings warmth and love to our family gatherings.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Matzo meal is essential for the texture of the balls; look for a fine grind for best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Fresh dill and parsley add brightness to the soup; use fresh herbs for the best flavor.<\/li><li><strong>Supporting ingredients:<\/strong> The vegetables add depth and sweetness to the broth, enhancing the overall flavor.<\/li><li><strong>Equipment needed:<\/strong> A large pot for boiling and simmering, and a mixing bowl for preparing the matzo balls.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh ingredients for Matzo Ball Soup, showcasing the key components for a comforting dish.",
+                "url": "matzo-ball-soup\/images\/matzo-ball-soup_image_1.webp",
+                "fileName": "matzo-ball-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Mix the eggs, oil, seltzer, and salt in a bowl, then stir in the matzo meal. Chill for 30 minutes.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Form the mixture into balls and boil in salted water for 30-40 minutes. Simultaneously, simmer the broth with vegetables until tender.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Add the matzo balls to the soup and garnish with fresh herbs before serving.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual of the cooking process for Matzo Ball Soup, highlighting the transformation of ingredients into a comforting dish.",
+                "url": "matzo-ball-soup\/images\/matzo-ball-soup_image_2.webp",
+                "fileName": "matzo-ball-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Ensure the water is at a gentle boil to prevent the matzo balls from breaking apart.<\/li><li>A common mistake is overcooking the matzo balls; keep an eye on them!<\/li><li>They are ready when they float to the top and are firm to the touch.<\/li><li>Store leftovers in the fridge, but add fresh broth when reheating to keep them moist.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this soup with loved ones during the holidays has become a cherished tradition in my family. Each bowl is filled with warmth and memories, making it a dish that truly brings us together.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, add a pinch of cayenne pepper or a splash of lemon juice to brighten the flavors. You can also experiment with different herbs like thyme or rosemary for a unique twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This soup pairs beautifully with crusty bread or a light salad. For a complete meal, serve it alongside roasted chicken or a simple vegetable dish.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute matzo meal with ground almonds or gluten-free breadcrumbs. You can also make it vegan by using vegetable broth and omitting the eggs, using flaxseed meal as a binder instead.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of Matzo Ball Soup, showcasing the fluffy matzo balls and vibrant vegetables.",
+                "url": "matzo-ball-soup\/images\/matzo-ball-soup_image_3.webp",
+                "fileName": "matzo-ball-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, let the matzo ball mixture rest longer for fluffier balls.<\/li><li>Use homemade broth for maximum flavor and richness.<\/li><li>Timing is key; prepare your ingredients ahead to streamline the cooking process.<\/li><li>Garnish generously for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this Matzo Ball Soup! It's a delightful dish that not only warms the body but also the heart, perfect for sharing with family and friends.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230166_734"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "matzo-ball-soup_image_1.webp",
+            "filePath": "recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_1.webp",
+            "relativePath": "matzo-ball-soup\/images\/matzo-ball-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "matzo-ball-soup_image_2.webp",
+            "filePath": "recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_2.webp",
+            "relativePath": "matzo-ball-soup\/images\/matzo-ball-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "matzo-ball-soup_image_3.webp",
+            "filePath": "recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_3.webp",
+            "relativePath": "matzo-ball-soup\/images\/matzo-ball-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "matzo-ball-soup_image_4.webp",
+            "filePath": "recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_4.webp",
+            "relativePath": "matzo-ball-soup\/images\/matzo-ball-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "matzo-ball-soup_image_1.webp",
+    "image_path": "recipes\/matzo-ball-soup\/images\/matzo-ball-soup_image_1.webp",
+    "image_dir": "matzo-ball-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-23T19:16:51+02:00",
+    "updatedAt": "2025-10-23T19:16:51+02:00"
+}

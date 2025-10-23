@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>breakfast-brunch Recipes - RSS Feed</title>
+    <link>http://www.mollykitchendaily.com/base.html</link>
+    <description>Fresh breakfast-brunch recipes and cooking inspiration</description>
+    <language>en-US</language>
+    <copyright>© 2025 www.mollykitchendaily.com</copyright>
+    <managingEditor>info@mollykitchendaily.com</managingEditor>
+    <webMaster>webmaster@mollykitchendaily.com</webMaster>
+    <pubDate>Thu, 23 Oct 2025 19:17:07 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 19:17:07 +0200</lastBuildDate>
+    <category>breakfast-brunch</category>
+    <generator>Recipes - RSS Feed www.mollykitchendaily.com</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://www.mollykitchendaily.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.mollykitchendaily.com/base.html/images/logo.png</url>
+      <title>breakfast-brunch Recipes - RSS Feed</title>
+      <link>http://www.mollykitchendaily.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Fluffy Pancakes</title>
+      <link>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=fluffy-pancakes</link>
+      <description>Indulge in these fluffy pancakes that are perfect for breakfast or brunch. With a golden exterior and soft, airy interior, they are sure to delight everyone at the table.</description>
+      <pubDate>Thu, 23 Oct 2025 17:47:20 +0200</pubDate>
+      <guid isPermaLink="true">http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=fluffy-pancakes</guid>
+      <category>cat_1761230422_512</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.mollykitchendaily.com/recipes/fluffy-pancakes/images/fluffy-pancakes_image_4.webp" alt="Fluffy Pancakes" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 15 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 20 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 35 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 8</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Easy</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>250 grams all-purpose flour</li><li>2 eggs</li><li>300 milliliters milk</li><li>50 grams melted butter</li><li>2 tablespoons sugar</li><li>1 packet baking powder</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>In a large bowl, mix the dry ingredients: flour, sugar, and baking powder.</li><li>In another bowl, whisk together the eggs, milk, and melted butter.</li><li>Pour the wet ingredients into the dry ingredients and mix until just combined.</li><li>Let the batter rest for 10 minutes.</li><li>Heat a skillet over medium heat and pour in a ladle of batter.</li><li>Cook for 2 minutes on each side until golden brown.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761230422512 #easyrecipe #1hourmeals #recipe #cooking #foodie #homemade #delicious #allpurpose #milliliters</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.mollykitchendaily.com/recipes/fluffy-pancakes/images/fluffy-pancakes_image_4.webp" medium="image" type="image/webp">
+        <media:title>Fluffy Pancakes</media:title>
+        <media:description>Indulge in these fluffy pancakes that are perfect for breakfast or brunch. With a golden exterior and soft, airy interior, they are sure to delight everyone at the table.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761230422512, easyrecipe, 1hourmeals, recipe, cooking, foodie, homemade, delicious, allpurpose, milliliters</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>
