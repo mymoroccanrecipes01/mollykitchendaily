@@ -1,23 +1,10 @@
 [
   {
     "id": "author_001",
-    "name": "Chef Maria Rodriguez",
-    "description": "Spécialiste de la cuisine méditerranéenne avec plus de 15 ans d'expérience. Auteure de 3 livres de cuisine et formatrice culinaire.",
-    "imagePath": "authors/chef.webp",
-    "active": false
-  },
-  {
-    "id": "author_002", 
-    "name": "Pierre Dubois",
-    "description": "Chef pâtissier français formé dans les meilleures écoles parisiennes. Expert en desserts traditionnels et modernes.",
-    "imagePath": "authors/chef.webp",
-    "active": false
-  },
-  {
-    "id": "author_003",
-    "name": "Sarah Chen",
-    "description": "Nutritionniste et chef spécialisée dans la cuisine asiatique fusion. Adepte des recettes saines et équilibrées.",
-    "imagePath": "authors/images/1756751493143-96tarlbr.avif",
+    "name": "Molly Dupont",
+    "description": "Passionate home cook and food blogger sharing simple, delicious recipes for everyday meals. Join me on a culinary journey filled with flavor and love!",
+    "imagePath": "authors/images/molly_dupont.jpg",
     "active": true
   }
+
 ]
