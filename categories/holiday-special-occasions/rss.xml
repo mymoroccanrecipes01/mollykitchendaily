@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>holiday-special-occasions Recipes - RSS Feed</title>
+    <link>http://www.mollykitchendaily.com/base.html</link>
+    <description>Fresh holiday-special-occasions recipes and cooking inspiration</description>
+    <language>en-US</language>
+    <copyright>© 2025 www.mollykitchendaily.com</copyright>
+    <managingEditor>info@mollykitchendaily.com</managingEditor>
+    <webMaster>webmaster@mollykitchendaily.com</webMaster>
+    <pubDate>Fri, 24 Oct 2025 17:34:56 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 17:34:56 +0200</lastBuildDate>
+    <category>holiday-special-occasions</category>
+    <generator>Recipes - RSS Feed www.mollykitchendaily.com</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://www.mollykitchendaily.com/base.html/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.mollykitchendaily.com/base.html/images/logo.png</url>
+      <title>holiday-special-occasions Recipes - RSS Feed</title>
+      <link>http://www.mollykitchendaily.com/base.html</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>Sufganiyot (Jelly Doughnuts)</title>
+      <link>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=sufganiyot-jelly-doughnuts</link>
+      <description>Indulge in the sweet, fluffy delight of Sufganiyot, the perfect treat for any occasion. These jelly-filled doughnuts are a festive favorite that will bring joy to your table and smiles to your loved ones.</description>
+      <pubDate>Fri, 24 Oct 2025 17:13:50 +0200</pubDate>
+      <guid isPermaLink="true">http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=sufganiyot-jelly-doughnuts</guid>
+      <category>cat_1761229712_965</category>
+      <dc:creator>author_001</dc:creator>
+      <content:encoded><![CDATA[<div class="recipe-content" style="font-family: Arial, sans-serif; max-width: 600px;"><img src="http://www.mollykitchendaily.com/recipes/sufganiyot-jelly-doughnuts/images/sufganiyot-jelly-doughnuts_image_4.webp" alt="Sufganiyot (Jelly Doughnuts)" style="width:100%;max-width:600px;height:auto;border-radius:8px;margin-bottom:20px;"><div style="background:#f8f9fa;padding:15px;border-radius:8px;margin-bottom:20px;"><p style="margin:5px 0;"><strong>⏱️ Prep Time:</strong> 120 minutes</p><p style="margin:5px 0;"><strong>🍳 Cook Time:</strong> 10 minutes</p><p style="margin:5px 0;"><strong>⏰ Total Time:</strong> 130 minutes</p><p style="margin:5px 0;"><strong>🍽️ Servings:</strong> 12</p><p style="margin:5px 0;"><strong>📊 Difficulty:</strong> Medium</p></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">🥘 Ingredients</h3><ul style="line-height:1.8;"><li>3 1/2 cups flour</li><li>1/4 cup sugar</li><li>2 1/4 tsp active dry yeast</li><li>3/4 cup warm milk</li><li>2 eggs</li><li>1/4 cup butter, melted</li><li>Jelly or jam for filling</li><li>Powdered sugar for dusting</li><li>Oil for frying</li></ul></div><div style="margin-bottom:30px;"><h3 style="color:#E60023;border-bottom:2px solid #E60023;padding-bottom:5px;">👩‍🍳 Instructions</h3><ol style="line-height:1.8;"><li>Mix yeast with warm milk and sugar, let foam for 10 minutes.</li><li>Add flour, eggs, and melted butter; knead until smooth.</li><li>Let dough rise for 1 hour until doubled in size.</li><li>Roll out dough and cut into circles; let rise for another 30 minutes.</li><li>Deep fry at 350°F (175°C) until golden, about 2-3 minutes per side.</li><li>Cool, then inject with jelly using a piping bag.</li><li>Dust generously with powdered sugar before serving.</li></ol></div><div style="background:#fff3f3;padding:15px;border-radius:8px;border-left:4px solid #E60023;"><p><strong>📌 Pinterest Tags:</strong> #cat1761229712965 #mediumrecipe #recipe #cooking #foodie #homemade #delicious #flour #sugar #active</p></div><div style="text-align:center;margin-top:30px;padding:20px;background:#E60023;color:white;border-radius:8px;"><p style="margin:0;"><strong>📌 Save this recipe to Pinterest!</strong></p><p style="margin:5px 0 0 0;">Perfect for meal planning and sharing with friends</p></div></div>]]></content:encoded>
+      <media:content url="http://www.mollykitchendaily.com/recipes/sufganiyot-jelly-doughnuts/images/sufganiyot-jelly-doughnuts_image_4.webp" medium="image" type="image/webp">
+        <media:title>Sufganiyot (Jelly Doughnuts)</media:title>
+        <media:description>Indulge in the sweet, fluffy delight of Sufganiyot, the perfect treat for any occasion. These jelly-filled doughnuts are a festive favorite that will bring joy to your table and smiles to your loved ones.</media:description>
+      </media:content>
+      <media:group>
+        <media:category>recipe</media:category>
+        <media:keywords>cat1761229712965, mediumrecipe, recipe, cooking, foodie, homemade, delicious, flour, sugar, active</media:keywords>
+      </media:group>
+    </item>
+  </channel>
+</rss>
