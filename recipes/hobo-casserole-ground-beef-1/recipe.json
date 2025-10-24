@@ -1,0 +1,163 @@
+{
+    "id": "text_recipe_1761265670_844",
+    "slug": "hobo-casserole-ground-beef-1",
+    "title": "Hobo Casserole Ground Beef",
+    "promptIMG": "Hobo Casserole Ground Beef, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Hobo Casserole is a comforting and hearty dish that combines layers of savory ground beef, tender potatoes, and melted cheese. Perfect for a weeknight dinner, it’s easy to prepare and sure to satisfy the whole family.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound ground beef",
+        "4 medium potatoes, sliced",
+        "1 cup shredded cheese",
+        "1 onion, chopped",
+        "2 cups mixed vegetables",
+        "1 can cream of mushroom soup",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a skillet, brown the ground beef and onion over medium heat until fully cooked.",
+        "Layer half of the sliced potatoes in a greased casserole dish.",
+        "Spread the cooked ground beef mixture over the potatoes.",
+        "Add the mixed vegetables on top of the beef.",
+        "Spread the remaining potatoes over the vegetables.",
+        "Pour the cream of mushroom soup over the top and season with salt and pepper.",
+        "Cover with aluminum foil and bake for 40 minutes.",
+        "Remove the foil, sprinkle cheese on top, and bake for an additional 10 minutes until the cheese is melted and bubbly."
+    ],
+    "prep_time": 15,
+    "cook_time": 50,
+    "total_time": 65,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For a richer flavor, consider adding garlic or your favorite herbs to the beef mixture. Ensure the potatoes are sliced evenly for consistent cooking.",
+    "structured_content": [
+        {
+            "content": "<p>This Hobo Casserole is a delightful blend of flavors and textures that will warm your heart and fill your belly. With layers of ground beef, potatoes, and gooey cheese, it's a dish that brings comfort and satisfaction to any dinner table.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for feeding a crowd with minimal effort<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this casserole for my family. The aroma filled the kitchen, and everyone gathered around the table, eager to dig in. It quickly became a favorite, and now it’s a staple in our household.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Ground beef is the star here, providing a savory base that pairs perfectly with the potatoes.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Salt and pepper enhance the natural flavors, while the cream of mushroom soup adds creaminess.<\/li><li><strong>Supporting ingredients:<\/strong> Potatoes provide heartiness, and mixed vegetables add color and nutrition.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a casserole dish are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A colorful array of ingredients for Hobo Casserole, showcasing fresh vegetables and ground beef, perfect for a hearty meal.",
+                "url": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_1.webp",
+                "fileName": "hobo-casserole-ground-beef-1_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your oven and browning the ground beef with onions in a skillet.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Layer the ingredients in the casserole dish as instructed, ensuring even distribution for optimal cooking.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>After baking, add cheese and allow it to melt for a deliciously gooey topping.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process of Hobo Casserole, capturing the layers of ingredients coming together in the oven.",
+                "url": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_2.webp",
+                "fileName": "hobo-casserole-ground-beef-1_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the beef thoroughly to avoid any food safety issues.<\/li><li>A common mistake is not covering the casserole initially, which can lead to dry potatoes.<\/li><li>The dish is ready when the potatoes are tender and the cheese is bubbly.<\/li><li>Leftovers can be stored in the fridge for up to 3 days and reheated easily.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This casserole is not just a meal; it's a way to bring family together. I love serving it on cozy nights, sharing stories and laughter over a warm dish that feels like home.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding herbs like thyme or rosemary for an aromatic twist, or swap the ground beef for turkey for a lighter option.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This dish pairs wonderfully with a fresh green salad and crusty bread, making it a complete meal.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, ensure your cream of mushroom soup is gluten-free, or make your own. You can also substitute the beef with lentils for a vegetarian option.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated Hobo Casserole, showcasing its delicious layers and melted cheese, ready to serve.",
+                "url": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_3.webp",
+                "fileName": "hobo-casserole-ground-beef-1_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a meat thermometer to ensure the beef reaches a safe temperature.<\/li><li>Let the casserole rest for a few minutes before serving to allow it to set.<\/li><li>For a crispy top, broil for a minute after baking.<\/li><li>Garnish with fresh herbs for a pop of color and flavor.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's easy, satisfying, and perfect for any night of the week. You'll feel accomplished serving a dish that everyone will love.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "hobo-casserole-ground-beef-1_image_1.webp",
+            "filePath": "recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_1.webp",
+            "relativePath": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hobo-casserole-ground-beef-1_image_2.webp",
+            "filePath": "recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_2.webp",
+            "relativePath": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "hobo-casserole-ground-beef-1_image_3.webp",
+            "filePath": "recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_3.webp",
+            "relativePath": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "hobo-casserole-ground-beef-1_image_4.webp",
+            "filePath": "recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_4.webp",
+            "relativePath": "hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "hobo-casserole-ground-beef-1_image_1.webp",
+    "image_path": "recipes\/hobo-casserole-ground-beef-1\/images\/hobo-casserole-ground-beef-1_image_1.webp",
+    "image_dir": "hobo-casserole-ground-beef-1\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T02:27:50+02:00",
+    "updatedAt": "2025-10-24T02:27:50+02:00"
+}

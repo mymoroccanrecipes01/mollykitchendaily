@@ -1080,7 +1080,8 @@ class RecipeDetailLoader {
                 description: recipe.description || 'Délicieuse recette à découvrir',
                 created_date: recipe.createdAt || recipe.updatedAt,
                 category_id: recipe.category_id,
-                category: recipe.category
+                category: recipe.category,
+                isOnline: recipe.isOnline
             }));
 
            // // console.log('Recent recipes loaded:', this.recentRecipes.length);
@@ -1220,6 +1221,7 @@ class RecipeDetailLoader {
                 mainImage: this.getMainImage(recipeData, folderName),
                 createdAt: recipeData.createdAt,
                 updatedAt: recipeData.updatedAt,
+                isOnline: recipeData.isOnline,
                 ...recipeData
             };
             
@@ -1253,7 +1255,8 @@ class RecipeDetailLoader {
                             image: recipeData.mainImage,
                             description: recipeData.description || 'Délicieuse recette à découvrir',
                             category: recipeData.category,
-                            category_id: recipeData.category_id
+                            category_id: recipeData.category_id,
+                            isOnline: recipeData.isOnline
                         });
 
                         if (defaultRecipes.length >= 5) break;
@@ -1334,15 +1337,15 @@ class RecipeDetailLoader {
                 </div>
             `;
         }
-
+console.log(this.recentRecipes);
         const recipesHTML = this.recentRecipes.map(recipe => `
-            <div class="mini-recipe" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer;">
+            <div class="mini-recipe" onclick="loadRecipe('${recipe.slug}')" style="cursor: pointer; ${!recipe.isOnline ? ' display:none;' : ''}">
                 ${this.wrapImageWithPinterestButton(
                     `<img class="" src="${recipe.image}" alt="${recipe.title}">`,
                     recipe.title,
                     recipe.description,
                     recipe.image
-                )}
+                )}            
                 <div class="recent-recipe-info">
                     <div class="recipe-title">${recipe.title}</div>
                     <div class="recipe-title">${recipe.description || 'Delicious recipe'}</div>

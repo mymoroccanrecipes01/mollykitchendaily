@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=home</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipes</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;bruschetta-with-tomato-and-basil</loc>
     <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-hamburger-potato-casserole</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-hamburger-rice-casserole</loc>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -43,6 +55,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;fried-apples</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;gratin-dauphinois</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -61,14 +79,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hamburger-stew</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;herb-roasted-chicken-with-vegetables</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hobo-casserole-ground-beef</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hobo-casserole-ground-beef-1</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;honey-glazed-ham</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;italian-sausage-bow-tie-pasta</loc>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -80,7 +122,13 @@
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;matzo-ball-soup</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;mongolian-ground-beef-noodles</loc>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -99,6 +147,18 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;sufganiyot-jelly-doughnuts</loc>
     <lastmod>2025-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;sweet-pepper-sausage-pasta</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;ultimate-cheesy-ground-beef-roll</loc>
+    <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
