@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1761329579_788",
+    "slug": "garlic-shrimp",
+    "title": "Garlic Shrimp",
+    "promptIMG": "Garlic shrimp, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This garlic shrimp recipe is quick, easy, and bursting with flavor, perfect for a weeknight dinner or a special occasion. With just a few simple ingredients, you can create a dish that feels gourmet and satisfying.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil",
+        "4 cloves garlic minced",
+        "1 teaspoon red pepper flakes",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "Heat olive oil in large skillet over medium heat.",
+        "Add minced garlic and red pepper flakes, sauté for 1 minute until fragrant.",
+        "Add shrimp and cook 2-3 minutes per side until pink and opaque.",
+        "Season with salt and pepper to taste.",
+        "Garnish with fresh parsley before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh garlic and adjust the red pepper flakes to your spice preference.",
+    "structured_content": [
+        {
+            "content": "<p>This garlic shrimp dish is a delightful combination of succulent shrimp and aromatic garlic, making it a favorite for seafood lovers. The simplicity of the ingredients allows the natural flavors to shine, creating a dish that's both comforting and impressive.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be served over pasta or rice for a complete meal<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this garlic shrimp for my friends; they couldn't believe how easy it was to prepare yet how delicious it turned out. It quickly became a go-to recipe for gatherings and casual dinners alike.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp work best for this recipe, ensuring a tender and juicy texture. Make sure they are peeled and deveined for convenience.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic is essential for that aromatic flavor, and red pepper flakes add a nice kick. Look for fresh garlic for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> Olive oil provides a rich base for cooking and enhances the overall flavor.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking and to allow the shrimp to sear properly.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh shrimp and garlic ready for cooking, showcasing the key ingredients for this dish.",
+                "url": "garlic-shrimp\/images\/garlic-shrimp_image_1.webp",
+                "fileName": "garlic-shrimp_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by peeling and deveining the shrimp if not already done. Mince the garlic and measure out the olive oil and red pepper flakes.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the olive oil in a skillet over medium heat, add garlic and red pepper flakes, then the shrimp. Cook until pink and opaque, about 2-3 minutes per side.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Season with salt and pepper, garnish with parsley, and serve immediately for the best flavor.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of garlic shrimp, highlighting the sizzling shrimp in the skillet.",
+                "url": "garlic-shrimp\/images\/garlic-shrimp_image_2.webp",
+                "fileName": "garlic-shrimp_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook shrimp just until they turn pink to avoid overcooking.<\/li><li>Avoid burning the garlic; add it to the oil only when it's hot.<\/li><li>When shrimp curl into a C shape, they are perfectly cooked.<\/li><li>Leftovers can be stored in the fridge for up to 2 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is special to me because it reminds me of summer evenings spent with friends, enjoying good food and laughter. Sharing this garlic shrimp brings back those joyful memories.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra flavor kick, consider adding lemon juice or zest before serving. Fresh herbs like basil or cilantro can also enhance the dish beautifully.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This garlic shrimp pairs wonderfully with a side of crusty bread, a fresh salad, or over a bed of pasta. A chilled white wine complements the flavors perfectly.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, serve the shrimp over quinoa or rice. You can also substitute shrimp with scallops or chicken for different variations.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "An elegant presentation of garlic shrimp on a plate, garnished with parsley and served with a side of pasta.",
+                "url": "garlic-shrimp\/images\/garlic-shrimp_image_3.webp",
+                "fileName": "garlic-shrimp_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a high-quality olive oil for the best flavor.<\/li><li>Let the shrimp sit at room temperature for 15 minutes before cooking for even cooking.<\/li><li>Timing is key; don't overcrowd the skillet to ensure proper searing.<\/li><li>Plate beautifully with a sprinkle of parsley for an impressive appearance.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this garlic shrimp recipe! It's simple, quick, and incredibly satisfying. You'll impress your family and friends with your culinary skills!<\/p>"
+        },
+        {
+            "category_id": "cat_1761230072_178"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "garlic-shrimp_image_1.webp",
+            "filePath": "recipes\/garlic-shrimp\/images\/garlic-shrimp_image_1.webp",
+            "relativePath": "garlic-shrimp\/images\/garlic-shrimp_image_1.webp",
+            "originalUrl": "http:\/\/192.168.8.102\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "garlic-shrimp_image_2.webp",
+            "filePath": "recipes\/garlic-shrimp\/images\/garlic-shrimp_image_2.webp",
+            "relativePath": "garlic-shrimp\/images\/garlic-shrimp_image_2.webp",
+            "originalUrl": "http:\/\/192.168.8.102\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "garlic-shrimp_image_3.webp",
+            "filePath": "recipes\/garlic-shrimp\/images\/garlic-shrimp_image_3.webp",
+            "relativePath": "garlic-shrimp\/images\/garlic-shrimp_image_3.webp",
+            "originalUrl": "http:\/\/192.168.8.102\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "garlic-shrimp_image_4.webp",
+            "filePath": "recipes\/garlic-shrimp\/images\/garlic-shrimp_image_4.webp",
+            "relativePath": "garlic-shrimp\/images\/garlic-shrimp_image_4.webp",
+            "originalUrl": "http:\/\/192.168.8.102\/SitePinterset\/mollykitchendaily-main\/recipes\/garlic-shrimp\/images\/garlic-shrimp_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "garlic-shrimp_image_1.webp",
+    "image_path": "recipes\/garlic-shrimp\/images\/garlic-shrimp_image_1.webp",
+    "image_dir": "garlic-shrimp\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-24T20:12:59+02:00",
+    "updatedAt": "2025-10-24T20:12:59+02:00"
+}
