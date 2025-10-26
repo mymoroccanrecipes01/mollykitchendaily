@@ -1,0 +1,27 @@
+{
+    "session_id": "session_68fe0dc38e3f73.36615197",
+    "created_at": 1761480131,
+    "status": "initialized",
+    "total_sources": 2,
+    "processed": 0,
+    "sources": [
+        {
+            "index": 0,
+            "text": "Test source 1",
+            "status": "pending",
+            "result": null,
+            "error": null,
+            "started_at": null,
+            "completed_at": null
+        },
+        {
+            "index": 1,
+            "text": "Test source 2",
+            "status": "pending",
+            "result": null,
+            "error": null,
+            "started_at": null,
+            "completed_at": null
+        }
+    ]
+}

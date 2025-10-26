@@ -1,0 +1,55 @@
+{
+    "session_id": "session_68fe0f9e227725.88807417",
+    "created_at": 1761480606,
+    "status": "completed",
+    "total_sources": 3,
+    "processed": 3,
+    "sources": [
+        {
+            "index": 0,
+            "text": "Easy Classic Chili Recipe That Always Hits the Spot 1hr 0min \u00b7 Gluten free \u00b7 4 servings This easy classic chili recipe is bold, hearty, and perfect for cozy nights\u2014great for classic beef chili cravings, simple weeknight chili ideas, and one-pot chili recipes everyone loves",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "easy-classic-chili",
+                "title": "Easy Classic Chili",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761480606,
+            "completed_at": 1761480652
+        },
+        {
+            "index": 1,
+            "text": "18     recipe ideas  Save Explore Visit site SortPin.com 1,963 18 0 1,079 0 63 1 M  Spicy Steak Chili 1 rating \u00b7 1hr 15min \u00b7 Gluten free \u00b7 8 servings Spicy Steak Chili is a hearty chili loaded with beef, onions, beans, and spicy flavors! With tender steak and a definite kick, this chili will be a hot (literally) option for your chili recipes. And, it\u2019s a delicious option to serve during game days!",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "spicy-steak-chili",
+                "title": "Spicy Steak Chili",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761480655,
+            "completed_at": 1761480698
+        },
+        {
+            "index": 2,
+            "text": "Award Winning Short Rib and Chorizo Chili Packed with tender beef short rib, bold Mexican chorizo, fire-roasted tomatoes, and just the right mix of spices, this chili is a fan favorite and an award winner. It\u2019s a flavorful take on my traditional chili recipe! So comforting, so good - just what everyone needs for the perfect weekend or weeknight dinner.",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "award-winning-short-rib-and-chorizo-chili",
+                "title": "Award Winning Short Rib and Chorizo Chili",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761480702,
+            "completed_at": 1761480752
+        }
+    ],
+    "completed_at": 1761480752
+}
