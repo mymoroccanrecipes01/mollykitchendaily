@@ -1,0 +1,147 @@
+{
+    "session_id": "session_68fea2a4796490.08517283",
+    "created_at": 1761518244,
+    "status": "initialized",
+    "total_sources": 10,
+    "processed": 8,
+    "sources": [
+        {
+            "index": 0,
+            "text": "Best Ground Beef Stovetop Chili 45 min Try our Best Ground Beef Stovetop Chili recipe for a hearty, flavorful meal that's easy to make for dinner.",
+            "status": "processing",
+            "result": null,
+            "error": null,
+            "started_at": 1761518244,
+            "completed_at": null
+        },
+        {
+            "index": 1,
+            "text": "Best Chili Recipe The best chili recipe you'll ever eat is right here! My beef chili is made with ground beef, beans, diced tomatoes, and a homemade chili seasoning. By: Lee Funke  Prep: 15minutes mins  Cook: 30minutes mins  Total: 45minutes mins Servings: 6 Three bowls of the best chili, served with tortilla chips. Save Pin Print email me this recipe Plus, enjoy weekly doses of recipe inspiration! Email * email... Send Recipe Ingredients  1x 2x 3x  \u25a21 lb. ground beef, I used 85\/15 \u25a21\/2 medium yellow onion, finely diced \u25a21 tablespoon minced garlic \u25a21 15-oz. can pinto beans, drained and rinsed \u25a21 15-oz. can kidney beans, drained and rinsed \u25a21 15-oz. can tomato sauce \u25a21 15-oz. can diced tomatoes \u25a23 tablespoons tomato paste \u25a21 tablespoon maple syrup \u25a23 tablespoons chili powder \u25a22 teaspoons garlic powder \u25a22 teaspoons ground cumin \u25a21\/2 teaspoon smoked paprika \u25a21\/2 teaspoons salt \u25a21\/4 teaspoon ground pepper \u25a21 cup beef broth, chicken broth or water works, too Optional Toppings \u25a2shredded cheddar cheese  \u25a2Fritos \u25a2green onion Instructions    First, heat a large stockpot over medium\/high heat. Then, add ground beef, yellow onion, and minced garlic and saut\u00e9 for 7-10 minutes or until beef is fully browned. beef and onions in pot.  Next, add pinto beans, kidney beans, tomato sauce, diced tomatoes, tomato paste, and maple syrup to the pot and stir to combine. Add spices and 1 cup of broth and stir to combine. Bring beef chili to a boil, then reduce heat to low and let simmer for 10-15 minutes to thicken. Best chili with spoon.  Top with your favorite toppings and enjoy! Four bowls of the best chili with cheese and tortilla chips. Tips & Notes Slow Cooker Directions: partially cook the beef on the stove. Then, transfer all ingredients in your slow cooker and mix. Cook on low for around 4 hours. Check out my slow cooker chili recipe. Instant Pot Directions: add all ingredients to the Instant Pot and mix. Cover and cook on high pressure for 5 minutes. Check out my Instant Pot chili recipe. Meat: feel free to swap the ground beef for ground turkey, chicken, bison, or a plant-based ground. I\u2019ve tested this recipe with each meat option listed here. You may need to add a little oil when browning because these alternatives have a lower fat content. Nutrition information is for 6 servings and does not include toppings. Watch It   \u25ba Nutrition Calories: 367 kcal, Carbohydrates: 38 g, Protein: 24 g, Fat: 14 g, Fiber: 11 g, Sugar: 11 g Nutrition information is automatically calculated, so should only be used as an approximation.",
+            "status": "processing",
+            "result": null,
+            "error": null,
+            "started_at": 1761518368,
+            "completed_at": null
+        },
+        {
+            "index": 2,
+            "text": "Halloween Mini Pizzas - Spooky & Perfect for a Halloween party \ud83c\udf83\ud83c\udf55 25 min \u00b7 8 servings Spooky & fun Halloween Mini Pizzas \u2014 the ultimate kid-friendly snack for your Halloween party! Easy to make, customizable toppings, and perfect for festive gatherings",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "halloween-mini-pizzas",
+                "title": "Halloween Mini Pizzas",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518499,
+            "completed_at": 1761518597
+        },
+        {
+            "index": 3,
+            "text": "Halloween Mini Pizzas | Spooky Snack Board Ideas & Party Food 27 min \u00b7 4 servings Transform ordinary mini pizzas into adorable Halloween Themed Healthy Snacks perfect for Spooky Snack Board Ideas! These easy treats work beautifully for Halloween Sleepover Snack Ideas, Summerween Party Food, and Halloween Tea Party Food. Kids love decorating olive spiders, mozzarella mummies, and pepper jack-o'-lanterns. Ready in just 27 minutes for any Halloween Sleepover fun!",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "halloween-mini-pizzas-1",
+                "title": "Halloween Mini Pizzas",
+                "images_count": 3,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518600,
+            "completed_at": 1761518711
+        },
+        {
+            "index": 4,
+            "text": "Easy Halloween Food Appetizers Need easy Halloween food appetizers for your party? These recipes are simple to make and perfect for a spooky celebration. From eerie starters to ghoulish nibbles, you\u2019ll find everything you need. Click to explore the full list and save these ideas!",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "easy-halloween-food-appetizers",
+                "title": "Easy Halloween Food Appetizers",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518715,
+            "completed_at": 1761518811
+        },
+        {
+            "index": 5,
+            "text": "Halloween Pizza Ideas: 7 Fun Recipes \u2013 Kayden Lewis Halloween Pizza Ideas: 7 Fun Recipes \u2013 Kayden Lewis",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "halloween-pizza-ideas",
+                "title": "Halloween Pizza Ideas",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518814,
+            "completed_at": 1761518905
+        },
+        {
+            "index": 6,
+            "text": "Cheesy Eyeballs Rule the Best Halloween Skewers Playfully spooky Cheesy Eyeballs bring Halloween Eyeball Appetizers to life with creamy cheese and candy eyes. These Halloween Skewers Ideas make perfect Halloween Finger Foods, blending Healthy Halloween Snacks with a quirky Halloween Food Design that transforms any Halloween Food Platter into a cheeky Spooky Food Appetizer showcase.",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "cheesy-eyeballs-halloween-skewers",
+                "title": "Cheesy Eyeballs Halloween Skewers",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518908,
+            "completed_at": 1761518991
+        },
+        {
+            "index": 7,
+            "text": "Bloody Spaghetti with Mozzarella Eyeballs , Halloween Pasta Recipe 90 ratings \u00b7 35 min \u00b7 Vegetarian \u00b7 4 servings Looking for a spooky Halloween dinner that\u2019s fun, creepy, and totally delicious? Try this Bloody Spaghetti with Mozzarella Eyeballs! It\u2019s the perfect spooky Halloween pasta recipe for parties, kids, or family dinners. Easy to make and sure to shock and delight. Save this now for your Halloween meal plan!",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "bloody-spaghetti-with-mozzarella-eyeballs",
+                "title": "Bloody Spaghetti with Mozzarella Eyeballs",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761518994,
+            "completed_at": 1761519111
+        },
+        {
+            "index": 8,
+            "text": "Yummy Halloween Appetizers: Cheesy Breadstick Bones Recipe for Your Spooky Party 42 min \u00b7 10 servings Get in the Halloween spirit with these Cheesy Halloween Breadstick Bones! A perfect savory treat for your Halloween party, these fun Halloween food appetizers are sure to impress your guests. Easy to make and deliciously cheesy, pair them with marinara sauce for a delightful dip. Don\u2019t miss out on this Halloween themed food savory that adds a spooky twist to your table!",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "cheesy-breadstick-bones",
+                "title": "Cheesy Breadstick Bones",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761519114,
+            "completed_at": 1761519211
+        },
+        {
+            "index": 9,
+            "text": "Spooky Ghost Mac and Cheese \u2013 Ghoul-gheroni Halloween Recipe 45 min \u00b7 Vegetarian \u00b7 6 servings Turn classic mac and cheese into a spooky hit with this ghoul-gheroni and cheese recipe! Perfect for Halloween dinners, parties, or cozy nights in October, this dish features creamy pasta with ghost-shaped mozzarella on top. It\u2019s one of the easiest Halloween food ideas for dinner\u2014fun, flavorful, and sure to get everyone in the spirit.",
+            "status": "completed",
+            "result": {
+                "success": true,
+                "slug": "spooky-ghost-mac-and-cheese",
+                "title": "Spooky Ghost Mac and Cheese",
+                "images_count": 4,
+                "message": "Recette cr\u00e9\u00e9e avec succ\u00e8s"
+            },
+            "error": null,
+            "started_at": 1761519214,
+            "completed_at": 1761519307
+        }
+    ]
+}
