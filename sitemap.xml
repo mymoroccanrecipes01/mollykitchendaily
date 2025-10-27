@@ -2,445 +2,451 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=home</loc>
-    <lastmod>2025-10-26</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=award-winning-short-rib-and-chorizo-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipes</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;award-winning-short-rib-and-chorizo-chili</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=award-winning-turkey-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;award-winning-turkey-chili</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;best-chili</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;best-creamy-mushroom-soup-recipe-ever</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=best-chili</loc>
-    <lastmod>2025-10-26</lastmod>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;bloody-spaghetti-with-mozzarella-eyeballs</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=best-creamy-mushroom-soup-recipe-ever</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=bloody-spaghetti-with-mozzarella-eyeballs</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=bruschetta-with-tomato-and-basil</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;bruschetta-with-tomato-and-basil</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=candy-cane-cookies</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;candy-cane-cookies</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cheesy-breadstick-bones</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-breadstick-bones</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-eyeballs-halloween-skewers</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-hamburger-potato-casserole</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-hamburger-rice-casserole</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cheesy-pepperoni-roll-ups</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;chicken-enchiladas-with-sour-cream-white-sauce</loc>
+    <lastmod>2025-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;chili-colorado</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;christmas-fruit-cake</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cheesy-eyeballs-halloween-skewers</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cheesy-hamburger-potato-casserole</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cinnamon-sugar-air-fryer-banana-chips</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cheesy-hamburger-rice-casserole</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cheesy-pepperoni-roll-ups</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=chicken-enchiladas-with-sour-cream-white-sauce</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=chili-colorado</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=christmas-fruit-cake</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cinnamon-sugar-air-fryer-banana-chips</loc>
-    <lastmod>2025-10-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=classic-fried-chicken</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;classic-fried-chicken</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=cozy-autumn-wild-rice-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;cozy-autumn-wild-rice-soup</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=creamy-carrot-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;creamy-carrot-soup</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=creamy-vegetable-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;creamy-vegetable-soup</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=crescent-roll-pizza-bites</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crescent-roll-pizza-bites</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=crispy-air-fryer-apple-fries</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crispy-air-fryer-apple-fries</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=crispy-air-fryer-pizza-rolls</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crispy-air-fryer-pizza-rolls</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=crispy-air-fryer-pizza-rolls-1</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crispy-air-fryer-pizza-rolls-1</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=crumbl-christmas-sugar-cookies</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crumbl-christmas-sugar-cookies</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=dumplings-jiaozi</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;dumplings-jiaozi</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=easy-classic-chili-recipe</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-classic-chili-recipe</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=easy-crockpot-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-crockpot-chili</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-halloween-food-appetizers</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=easy-halloween-food-appetizers</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-honey-pepper-chicken-pasta</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=easy-honey-pepper-chicken-pasta</loc>
-    <lastmod>2025-10-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=easy-summer-tomato-and-eggplant-pie</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-summer-tomato-and-eggplant-pie</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=eddie-s-award-winning-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;eddie-s-award-winning-chili</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=effortless-crispy-orange-chicken</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;effortless-crispy-orange-chicken</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=fluffy-pancakes</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;fluffy-pancakes</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=fondant-au-chocolat</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;fondant-au-chocolat</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=fried-apples</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;fried-apples</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=garlic-butter-cheeseburger-rollups</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;garlic-butter-cheeseburger-rollups</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=garlic-butter-chicken-bites-with-creamy-pasta</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;garlic-butter-chicken-bites-with-creamy-pasta</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=garlic-shrimp</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;garlic-shrimp</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=gordon-ramsay-s-roasted-tomato-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;gordon-ramsay-s-roasted-tomato-soup</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=gratin-dauphinois</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;gratin-dauphinois</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=green-chili-stew-with-pork</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;green-chili-stew-with-pork</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=grilled-salmon-with-lemon-and-dill</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;grilled-salmon-with-lemon-and-dill</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=grilled-vegetable-quinoa-salad</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;grilled-vegetable-quinoa-salad</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=halloween-mini-pizzas</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;halloween-mini-pizzas</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=halloween-mini-pizzas-1</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;halloween-mini-pizzas-1</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=halloween-pizza-ideas</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;halloween-pizza-ideas</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=hamburger-stew</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hamburger-stew</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=herb-roasted-chicken-with-vegetables</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;herb-roasted-chicken-with-vegetables</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=hobo-casserole-ground-beef</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hobo-casserole-ground-beef</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=hobo-casserole-ground-beef-1</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;hobo-casserole-ground-beef-1</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=honey-glazed-ham</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;honey-glazed-ham</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=italian-sausage-bow-tie-pasta</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;italian-sausage-bow-tie-pasta</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=loaded-baked-potato-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;loaded-baked-potato-soup</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=matzo-ball-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;matzo-ball-soup</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=mongolian-ground-beef-noodles</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;mongolian-ground-beef-noodles</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=pad-thai</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;pad-thai</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=pasta-aglio-e-olio</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;pasta-aglio-e-olio</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=prize-winning-pumpkin-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;prize-winning-pumpkin-chili</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=rice-krispie-christmas-puddings</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;rice-krispie-christmas-puddings</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=santa-claus-macarons</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;santa-claus-macarons</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=seriously-the-best-vegetable-soup</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;seriously-the-best-vegetable-soup</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=shortbread-linzer-cookies-with-raspberry-jam</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;shortbread-linzer-cookies-with-raspberry-jam</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=spicy-steak-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;spicy-steak-chili</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=spooky-ghost-mac-and-cheese</loc>
-    <lastmod>2025-10-26</lastmod>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;spooky-ghost-mac-and-cheese</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=sufganiyot-jelly-doughnuts</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;sufganiyot-jelly-doughnuts</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=sweet-pepper-sausage-pasta</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;sweet-pepper-sausage-pasta</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=ultimate-cheesy-ground-beef-roll</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;ultimate-cheesy-ground-beef-roll</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=ultimate-quick-and-easy-chicken-enchiladas</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;ultimate-quick-and-easy-chicken-enchiladas</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=ultimate-quick-and-easy-chicken-enchiladas-1</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;ultimate-quick-and-easy-chicken-enchiladas-1</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=vegan-chickpea-curry</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;vegan-chickpea-curry</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=white-chicken-chili</loc>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;white-chicken-chili</loc>
     <lastmod>2025-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;recipe=world-s-best-chili</loc>
-    <lastmod>2025-10-26</lastmod>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;world-s-best-chili</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
