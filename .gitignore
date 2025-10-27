@@ -5,6 +5,7 @@
 tmpIMG/
 fonts/
 test/
+logs/
 *.log
 image1.png
 image2.png

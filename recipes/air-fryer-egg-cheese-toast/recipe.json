@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1761588911_718",
+    "slug": "air-fryer-egg-cheese-toast",
+    "title": "Air Fryer Egg & Cheese Toast",
+    "promptIMG": "Air Fryer Egg & Cheese Toast, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Start your day with this quick and delicious Air Fryer Egg & Cheese Toast! It's crispy, satisfying, and perfect for busy mornings or brunch cravings.",
+    "category_id": "cat_1761230422_512",
+    "author_id": "author_001",
+    "ingredients": [
+        "2 slices of bread",
+        "2 large eggs",
+        "2 slices of cheese",
+        "Salt and pepper to taste",
+        "Butter or oil for greasing"
+    ],
+    "instructions": [
+        "Preheat the air fryer to 350°F (175°C).",
+        "Grease the air fryer basket with butter or oil.",
+        "Place the slices of bread in the basket and crack an egg onto each slice.",
+        "Top each egg with a slice of cheese and season with salt and pepper.",
+        "Air fry for 5 minutes or until the egg is cooked to your liking."
+    ],
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tips": "For a perfectly runny yolk, keep an eye on the cooking time and adjust as needed.",
+    "structured_content": [
+        {
+            "content": "<p>This Air Fryer Egg & Cheese Toast is a delightful way to start your day. With its crispy edges and gooey cheese, it's a breakfast that satisfies both your hunger and your taste buds. Perfect for those rushed mornings or lazy brunches, this recipe is a must-try!<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for busy mornings or brunch gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with your favorite toppings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this toast; it was a hectic morning, and I needed something quick yet satisfying. The moment I took a bite, I knew I had found my go-to breakfast!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Bread works best when it's slightly thick, like sourdough or whole grain, for a sturdy base.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Salt and pepper enhance the flavors of the egg and cheese.<\/li><li><strong>Supporting ingredients:<\/strong> Cheese adds creaminess and richness; feel free to experiment with different types.<\/li><li><strong>Equipment needed:<\/strong> An air fryer is essential for achieving that perfect crispiness.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of the ingredients for Air Fryer Egg & Cheese Toast, showcasing freshness and simplicity.",
+                "url": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_1.webp",
+                "fileName": "air-fryer-egg-cheese-toast_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by preheating your air fryer and greasing the basket. This ensures your toast doesn't stick and cooks evenly.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Place the bread in the air fryer, crack the eggs on top, and add cheese. Cook until the eggs are set to your preference.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Once done, let it cool slightly before serving. You can garnish with herbs or hot sauce for an extra kick!<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Capturing the cooking process of Air Fryer Egg & Cheese Toast, highlighting the transformation of ingredients.",
+                "url": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_2.webp",
+                "fileName": "air-fryer-egg-cheese-toast_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the eggs until the whites are fully set for the best texture.<\/li><li>Avoid overcrowding the air fryer to ensure even cooking.<\/li><li>Check for doneness by gently shaking the basket; the eggs should be firm.<\/li><li>Store leftovers in the fridge and reheat in the air fryer for a quick meal.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This dish holds a special place in my heart as I often make it for my family on weekends. It's a simple yet delicious way to bring everyone together at the breakfast table.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add fresh herbs like chives or parsley for a burst of flavor, or try different cheeses such as cheddar or feta for a unique twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair this toast with a side of fresh fruit or a smoothie for a well-rounded breakfast. A cup of coffee or tea complements it perfectly!<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, use gluten-free bread. You can also make it vegan by substituting eggs with tofu and using vegan cheese.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated Air Fryer Egg & Cheese Toast, showcasing its crispy texture and delicious toppings.",
+                "url": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_3.webp",
+                "fileName": "air-fryer-egg-cheese-toast_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a perfectly crispy toast, use day-old bread.<\/li><li>Let the eggs come to room temperature before cooking for even results.<\/li><li>Monitor the cooking time closely to avoid overcooking.<\/li><li>Serve immediately for the best texture and flavor.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, quick, and incredibly satisfying. You'll be amazed at how easy it is to create a delicious breakfast that everyone will love.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "air-fryer-egg-cheese-toast_image_1.webp",
+            "filePath": "recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_1.webp",
+            "relativePath": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-egg-cheese-toast_image_2.webp",
+            "filePath": "recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_2.webp",
+            "relativePath": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "air-fryer-egg-cheese-toast_image_3.webp",
+            "filePath": "recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_3.webp",
+            "relativePath": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "air-fryer-egg-cheese-toast_image_4.webp",
+            "filePath": "recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_4.webp",
+            "relativePath": "air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "air-fryer-egg-cheese-toast_image_1.webp",
+    "image_path": "recipes\/air-fryer-egg-cheese-toast\/images\/air-fryer-egg-cheese-toast_image_1.webp",
+    "image_dir": "air-fryer-egg-cheese-toast\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-27T19:15:11+01:00",
+    "updatedAt": "2025-10-27T19:15:11+01:00"
+}

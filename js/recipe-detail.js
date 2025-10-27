@@ -1650,6 +1650,7 @@ console.log(this.recentRecipes);
             total_time,
             servings,
             difficulty,
+            type,
             ingredients = [],
             instructions = [],
             mainImage,
@@ -1664,12 +1665,15 @@ console.log(this.recentRecipes);
 
         return `
             <div class="recipe-summary-card">
+                <div class="metadata-item-img-card">                                                
+                    <img class="metadata-value" src="${mainImage}" alt="${title} Image" style="max-width: 145px; max-height: 145px; object-fit: cover; border-radius: 100%;">
+                </div>
                 <!-- Header with title and description -->
+
                 <div class="recipe-header">
                     <h1 class="recipe-main-title">${title}</h1>
                     <p class="recipe-description">${description || 'Delicious recipe perfect for all occasions.'}</p>
                 </div>
-
                 <!-- Timing information -->
                 <div class="timing-info">
                     <div class="timing-item">
@@ -1688,6 +1692,7 @@ console.log(this.recentRecipes);
                         <div class="timing-value">${totalTimeDisplay}</div>
                     </div>
                 </div>
+                
 
                 <!-- Recipe metadata -->
                 <div class="recipe-metadata">
@@ -1696,30 +1701,20 @@ console.log(this.recentRecipes);
                         <span class="metadata-label">Created By:</span>
                         <span class="metadata-value">${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}</span>
                     </div>
-                    <div class="metadata-item">
-                        <span class="metadata-icon">♨</span>
-                        <span class="metadata-label">Recipe Type:</span>
-                        <span class="metadata-value">Dessert</span>
-                    </div>
+
                     <div class="metadata-item">
                         <span class="metadata-icon">♨</span>
                         <span class="metadata-label">Difficulty Level:</span>
                         <span class="metadata-value">${difficultyDisplay}</span>
-                    </div>
-                    <div class="metadata-item">
-                        <span class="metadata-icon">♨</span>
-                        <span class="metadata-label">Type of Cuisine:</span>
-                        <span class="metadata-value">French</span>
-                    </div>
+                    </div>   
                     <div class="metadata-item">
                         <span class="metadata-icon">♨</span>
                         <span class="metadata-label">Serves:</span>
                         <span class="metadata-value">${servingsDisplay}</span>
                     </div>
-                    <div class="metadata-item">
-                        <span class="metadata-icon">♨</span>
-                        <span class="metadata-label">Dietary Options:</span>
-                        <span class="metadata-value">Vegetarian-Friendly</span>
+                    <div class="metadata-item">                        
+                        <span class="metadata-label"></span>
+                        <span class="metadata-value">${recipe.description || '-'}</span>
                     </div>
                 </div>
 
