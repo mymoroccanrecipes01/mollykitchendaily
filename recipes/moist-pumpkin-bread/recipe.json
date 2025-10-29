@@ -1,0 +1,165 @@
+{
+    "id": "text_recipe_1761758359_504",
+    "slug": "moist-pumpkin-bread",
+    "title": "Moist Pumpkin Bread",
+    "promptIMG": "Moist Pumpkin Bread, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in the warmth of fall with this moist pumpkin bread, infused with cozy spices. Perfect for gatherings or a comforting treat at home, this recipe will fill your kitchen with delightful aromas.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup pumpkin purée",
+        "1 cup all-purpose flour",
+        "1\/2 cup sugar",
+        "1\/2 teaspoon baking soda",
+        "1\/2 teaspoon baking powder",
+        "1 teaspoon cinnamon",
+        "1\/2 teaspoon nutmeg",
+        "1\/4 teaspoon salt",
+        "1\/2 cup vegetable oil",
+        "2 eggs"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C) and grease a loaf pan.",
+        "In a large bowl, mix together the pumpkin purée, sugar, and vegetable oil until well combined.",
+        "Add the eggs one at a time, mixing well after each addition.",
+        "In another bowl, whisk together the flour, baking soda, baking powder, cinnamon, nutmeg, and salt.",
+        "Gradually add the dry ingredients to the wet mixture, stirring until just combined.",
+        "Pour the batter into the prepared loaf pan and smooth the top.",
+        "Bake for 50 minutes or until a toothpick inserted into the center comes out clean.",
+        "Let the bread cool in the pan for 10 minutes before transferring to a wire rack."
+    ],
+    "prep_time": 15,
+    "cook_time": 50,
+    "total_time": 65,
+    "servings": 2,
+    "difficulty": "easy",
+    "tips": "For extra moisture, add a tablespoon of yogurt or sour cream to the batter. Ensure not to overmix to keep the bread fluffy.",
+    "structured_content": [
+        {
+            "content": "<p>This moist pumpkin bread is a delightful treat that captures the essence of fall. With warm spices and the rich flavor of pumpkin, it's perfect for cozy gatherings or a comforting snack at home.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Perfectly moist with a fluffy texture<\/li><li>Great for fall gatherings and cozy evenings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Can be easily doubled for larger gatherings<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Every fall, my family gathers around to enjoy this pumpkin bread. The aroma fills the house, and it always brings back fond memories of cozy evenings spent together.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Pumpkin purée adds moisture and flavor; use canned or homemade for best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Cinnamon and nutmeg provide that warm, comforting flavor typical of fall.<\/li><li><strong>Supporting ingredients:<\/strong> Sugar and oil contribute to the bread's moist texture and sweetness.<\/li><li><strong>Equipment needed:<\/strong> A loaf pan, mixing bowls, and a whisk are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully arranged display of the ingredients for pumpkin bread preparation, showcasing vibrant colors and textures.",
+                "url": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_1.webp",
+                "fileName": "moist-pumpkin-bread_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare your loaf pan. Mix wet ingredients thoroughly before adding dry ingredients.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour the batter into the pan and bake until golden brown and a toothpick comes out clean.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Allow the bread to cool before slicing; serve warm for the best experience.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A step-by-step visual guide showcasing the cooking process of the pumpkin bread, highlighting key moments.",
+                "url": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_2.webp",
+                "fileName": "moist-pumpkin-bread_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Use fresh pumpkin purée for a richer flavor.<\/li><li>Avoid overmixing to keep the bread light and fluffy.<\/li><li>Check for doneness with a toothpick; it should come out clean.<\/li><li>Store leftovers in an airtight container for up to a week.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this pumpkin bread with friends and family has become a cherished tradition. It’s a simple yet heartfelt way to bring everyone together during the fall season.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding chocolate chips or nuts for extra texture, or a dash of vanilla extract for added depth of flavor.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This pumpkin bread pairs beautifully with a warm cup of tea or coffee, and can be served with cream cheese frosting for an extra special treat.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute all-purpose flour with a gluten-free blend. You can also make it vegan by replacing eggs with flaxseed meal and using plant-based oil.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A stunning final presentation of the pumpkin bread, garnished and styled for a cozy fall setting.",
+                "url": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_3.webp",
+                "fileName": "moist-pumpkin-bread_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a bakery-quality loaf, let the bread cool completely before slicing.<\/li><li>Use room temperature ingredients for better mixing.<\/li><li>Timing is crucial; keep an eye on the bread towards the end of baking.<\/li><li>Garnish with a sprinkle of cinnamon sugar for an impressive touch.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the process of making this pumpkin bread, and let the warm spices and sweet aroma fill your home with joy. You’ll be proud to share this delightful treat with loved ones!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "moist-pumpkin-bread_image_1.webp",
+            "filePath": "recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_1.webp",
+            "relativePath": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-pumpkin-bread_image_2.webp",
+            "filePath": "recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_2.webp",
+            "relativePath": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "moist-pumpkin-bread_image_3.webp",
+            "filePath": "recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_3.webp",
+            "relativePath": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "moist-pumpkin-bread_image_4.webp",
+            "filePath": "recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_4.webp",
+            "relativePath": "moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "moist-pumpkin-bread_image_1.webp",
+    "image_path": "recipes\/moist-pumpkin-bread\/images\/moist-pumpkin-bread_image_1.webp",
+    "image_dir": "moist-pumpkin-bread\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-10-29T18:19:19+01:00",
+    "updatedAt": "2025-10-29T18:19:19+01:00"
+}
