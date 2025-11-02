@@ -1,0 +1,160 @@
+{
+    "id": "text_recipe_1762046881_857",
+    "slug": "easy-3-ingredient-peppermint-bark",
+    "title": "Easy 3-Ingredient Peppermint Bark",
+    "promptIMG": "Peppermint bark, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in the festive flavors of peppermint bark, a delightful treat that combines rich chocolate with refreshing peppermint. This easy recipe is perfect for gifting or enjoying during the holidays, bringing joy to every bite.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "12 ounces dark chocolate, chopped",
+        "12 ounces white chocolate, chopped",
+        "1 teaspoon peppermint extract",
+        "Crushed peppermint candies for topping"
+    ],
+    "instructions": [
+        "Melt dark chocolate in a microwave-safe bowl in 30-second intervals, stirring until smooth.",
+        "Spread melted dark chocolate evenly on a parchment-lined baking sheet.",
+        "Melt white chocolate in the same manner and stir in peppermint extract.",
+        "Drizzle white chocolate over dark chocolate and swirl with a knife.",
+        "Sprinkle crushed peppermint candies on top and refrigerate until set.",
+        "Break into pieces and enjoy!"
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 12,
+    "difficulty": "easy",
+    "tips": "For a perfect texture, ensure chocolates are melted gently and do not overheat. Use high-quality chocolate for the best flavor.",
+    "structured_content": [
+        {
+            "content": "<p>This peppermint bark recipe is a holiday favorite that combines the richness of chocolate with the refreshing taste of peppermint. It's incredibly easy to make and perfect for gifting, making it a delightful treat for friends and family.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes<\/li><li>Perfect for holiday gifting and celebrations<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Customizable with different toppings and flavors<\/li><li>Great for satisfying sweet cravings!<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember making peppermint bark with my family every holiday season. The smell of melting chocolate and the excitement of breaking it into pieces always brought us together, creating sweet memories that last a lifetime.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Dark and white chocolate work best for a beautiful contrast in flavors and colors. Use high-quality chocolate for the best results.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Peppermint extract enhances the flavor; look for pure extracts for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> Crushed peppermint candies add a festive crunch and visual appeal.<\/li><li><strong>Equipment needed:<\/strong> Microwave-safe bowls, a baking sheet, and parchment paper are essential for this recipe.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_1.webp",
+                "fileName": "easy-3-ingredient-peppermint-bark_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the chocolate into small pieces for even melting. Prepare a baking sheet lined with parchment paper.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the melting instructions carefully to avoid burning the chocolate. Swirl the white chocolate for a marbled effect.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Allow the bark to set completely before breaking it into pieces for a rustic look.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_2.webp",
+                "fileName": "easy-3-ingredient-peppermint-bark_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Be careful not to overheat the chocolate; it should be melted gently.<\/li><li>A common mistake is not allowing the bark to set completely before breaking it.<\/li><li>Look for a glossy finish on the chocolate to ensure it's properly melted.<\/li><li>Store in an airtight container to keep it fresh.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this peppermint bark with friends during the holidays always brings smiles and joy. It's a simple yet meaningful way to spread cheer and create lasting memories.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a sprinkle of sea salt for a sweet and salty contrast, or experiment with different extracts like almond or orange for a unique twist.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This peppermint bark pairs wonderfully with hot cocoa or coffee. Serve it on a festive platter for holiday gatherings or as a sweet treat in gift bags.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, ensure all ingredients are certified gluten-free. You can also try using dark chocolate with a higher cocoa content for a richer flavor.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_3.webp",
+                "fileName": "easy-3-ingredient-peppermint-bark_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a double boiler for melting chocolate if you're more comfortable with that method.<\/li><li>Chill the baking sheet before pouring the chocolate for quicker setting.<\/li><li>Timing is key; don't rush the cooling process for the best texture.<\/li><li>Arrange the bark in a decorative box for an impressive gift presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making this peppermint bark! It's a fun and rewarding experience that will fill your home with delightful holiday aromas and bring joy to everyone who tastes it.<\/p>"
+        },
+        {
+            "category_id": "cat_1761230294_638"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "easy-3-ingredient-peppermint-bark_image_1.webp",
+            "filePath": "recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_1.webp",
+            "relativePath": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-3-ingredient-peppermint-bark_image_2.webp",
+            "filePath": "recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_2.webp",
+            "relativePath": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "easy-3-ingredient-peppermint-bark_image_3.webp",
+            "filePath": "recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_3.webp",
+            "relativePath": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "easy-3-ingredient-peppermint-bark_image_4.webp",
+            "filePath": "recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_4.webp",
+            "relativePath": "easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "easy-3-ingredient-peppermint-bark_image_1.webp",
+    "image_path": "recipes\/easy-3-ingredient-peppermint-bark\/images\/easy-3-ingredient-peppermint-bark_image_1.webp",
+    "image_dir": "easy-3-ingredient-peppermint-bark\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:28:01+01:00",
+    "updatedAt": "2025-11-02T02:28:01+01:00"
+}

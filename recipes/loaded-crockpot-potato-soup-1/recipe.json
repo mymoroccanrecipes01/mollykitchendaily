@@ -1,0 +1,161 @@
+{
+    "id": "text_recipe_1762046977_841",
+    "slug": "loaded-crockpot-potato-soup-1",
+    "title": "Loaded Crockpot Potato Soup",
+    "promptIMG": "Loaded Crockpot Potato Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the creamy goodness of Loaded Crockpot Potato Soup, a comforting bowl of warmth that’s perfect for chilly days. With its rich flavors and hearty ingredients, this soup will quickly become a family favorite.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "6 large potatoes, peeled and diced",
+        "1 onion, chopped",
+        "4 cups chicken broth",
+        "1 cup heavy cream",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup bacon bits",
+        "Salt and pepper to taste",
+        "Chives for garnish"
+    ],
+    "instructions": [
+        "Place the diced potatoes, chopped onion, and chicken broth in the crockpot.",
+        "Cook on low for 6-8 hours or high for 3-4 hours until the potatoes are tender.",
+        "Mash the potatoes slightly with a fork or potato masher for a creamy texture.",
+        "Stir in the heavy cream, cheddar cheese, and bacon bits.",
+        "Season with salt and pepper to taste, and cook for an additional 30 minutes.",
+        "Serve hot, garnished with chives."
+    ],
+    "prep_time": 15,
+    "cook_time": 240,
+    "total_time": 255,
+    "servings": 6,
+    "difficulty": "easy",
+    "tips": "For an extra creamy texture, blend a portion of the soup before adding the cream and cheese.",
+    "structured_content": [
+        {
+            "content": "<p>This Loaded Crockpot Potato Soup is the ultimate comfort food, perfect for cozy nights in. The creamy texture and rich flavors will warm your soul and satisfy your cravings.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes of prep</li><li>Rich, creamy flavors that rival your favorite restaurant</li><li>Perfect for weeknight dinners or gatherings</li><li>Uses simple ingredients you likely have on hand</li><li>Customizable with your favorite toppings</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this soup for my family; the aroma filled the house and everyone gathered around the table, eager to dig in. It has since become a staple in our home.</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Potatoes are the star here; use starchy varieties like Russets for a creamy texture.</li><li><strong>Key seasonings/flavoring agents:</strong> Chicken broth adds depth; opt for low-sodium if preferred.</li><li><strong>Supporting ingredients:</strong> Heavy cream and cheddar cheese create that luscious, comforting flavor.</li><li><strong>Equipment needed:</strong> A crockpot is essential for this recipe, ensuring even cooking and rich flavors.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the ingredients prepared for the Loaded Crockpot Potato Soup.",
+                "url": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_1.webp",
+                "fileName": "loaded-crockpot-potato-soup-1_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Peel and dice the potatoes and chop the onion. Measure out the broth and cream.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Combine all ingredients in the crockpot and cook until potatoes are tender. Mash slightly for creaminess.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Add cream, cheese, and bacon bits before serving, garnishing with chives.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the cooking process of the Loaded Crockpot Potato Soup.",
+                "url": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_2.webp",
+                "fileName": "loaded-crockpot-potato-soup-1_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook on low for a longer, richer flavor.</li><li>Avoid over-mashing the potatoes to keep some texture.</li><li>Look for a creamy consistency before serving.</li><li>This soup stores well in the fridge and reheats beautifully.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This soup is perfect for sharing with loved ones, bringing everyone together for a warm, hearty meal that feels like a hug in a bowl.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add fresh herbs like thyme or rosemary for an aromatic twist, or sprinkle some paprika for a hint of spice.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair with crusty bread or a fresh salad for a complete meal. A glass of white wine complements the flavors beautifully.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, substitute vegetable broth and omit bacon. You can also add broccoli or corn for added nutrition.</p>"
+        },
+        {
+            "upload": {
+                "context": "A visual representation of the final plated Loaded Crockpot Potato Soup.",
+                "url": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_3.webp",
+                "fileName": "loaded-crockpot-potato-soup-1_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a gourmet touch, use truffle oil as a finishing drizzle.</li><li>Prep ingredients the night before for a quick start in the morning.</li><li>Timing is key; don’t rush the cooking process for the best flavor.</li><li>Garnish with extra cheese and bacon for an impressive presentation.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the process of making this Loaded Crockpot Potato Soup, and relish the joy it brings to your table. You’ll feel accomplished and satisfied with every spoonful!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "loaded-crockpot-potato-soup-1_image_1.webp",
+            "filePath": "recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_1.webp",
+            "relativePath": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "loaded-crockpot-potato-soup-1_image_2.webp",
+            "filePath": "recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_2.webp",
+            "relativePath": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "loaded-crockpot-potato-soup-1_image_3.webp",
+            "filePath": "recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_3.webp",
+            "relativePath": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "loaded-crockpot-potato-soup-1_image_4.webp",
+            "filePath": "recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_4.webp",
+            "relativePath": "loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "loaded-crockpot-potato-soup-1_image_1.webp",
+    "image_path": "recipes/loaded-crockpot-potato-soup-1/images/loaded-crockpot-potato-soup-1_image_1.webp",
+    "image_dir": "loaded-crockpot-potato-soup-1/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:29:37+01:00",
+    "updatedAt": "2025-11-02T02:29:37+01:00"
+}

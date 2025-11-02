@@ -1,0 +1,165 @@
+{
+    "id": "text_recipe_1762046595_932",
+    "slug": "melt-in-your-mouth-peppermint-sugar-cookies",
+    "title": "Melt-in-Your-Mouth Peppermint Sugar Cookies",
+    "promptIMG": "Melt-in-Your-Mouth Peppermint Sugar Cookies, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "These melt-in-your-mouth peppermint sugar cookies are the perfect blend of sweetness and minty freshness, making them a delightful treat for any occasion. With their soft texture and festive flavor, they are sure to become a holiday favorite!",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon peppermint extract",
+        "2 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup powdered sugar for dusting"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+        "In a large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the egg, vanilla extract, and peppermint extract until well combined.",
+        "In a separate bowl, whisk together the flour, baking powder, and salt.",
+        "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+        "Drop rounded tablespoons of dough onto the prepared baking sheet, spacing them about 2 inches apart.",
+        "Bake for 8-10 minutes or until the edges are lightly golden.",
+        "Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.",
+        "Once cooled, dust with powdered sugar before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "servings": 24,
+    "difficulty": "easy",
+    "tips": "For the best results, ensure your butter is at room temperature and do not overmix the dough to keep the cookies tender.",
+    "structured_content": [
+        {
+            "content": "<p>These peppermint sugar cookies are a delightful treat that brings the joy of the holiday season into your kitchen. Their soft, melt-in-your-mouth texture combined with a refreshing hint of peppermint makes them irresistible!</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Perfect for holiday gatherings or cookie exchanges</li><li>Uses simple ingredients you likely have on hand</li><li>Can be customized with different extracts or toppings</li><li>Great for making with kids or as a fun family activity</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember baking these cookies with my grandmother every holiday season. The smell of peppermint filled the house, and we would always sneak a few before they were even cooled!</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Unsalted butter is key for a rich flavor and tender texture. Make sure it’s softened for easy mixing.</li><li><strong>Key seasonings/flavoring agents:</strong> Peppermint extract adds a refreshing twist; look for pure extracts for the best flavor.</li><li><strong>Supporting ingredients:</strong> Granulated sugar sweetens the cookies, while powdered sugar gives a lovely finish.</li><li><strong>Equipment needed:</strong> Essential tools include mixing bowls, a baking sheet, and parchment paper for easy cleanup.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+                "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Start by preheating your oven and preparing your baking sheet. Cream the butter and sugar until fluffy for the best texture.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Drop the dough onto the baking sheet and bake until the edges are golden. Keep an eye on them to avoid overbaking.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Dust with powdered sugar once cooled to add a festive touch and extra sweetness.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_2.webp",
+                "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Chilling the dough for 30 minutes can enhance the flavors and make the cookies even more tender.</li><li>A common mistake is overbaking; keep an eye on them as they can go from perfect to overdone quickly.</li><li>Cookies are ready when the edges are lightly golden but the centers still look soft.</li><li>Store in an airtight container to keep them fresh for up to a week.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these cookies with friends and family has become a cherished tradition. They always bring smiles and joy, especially during the festive season!</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For a twist, try adding chocolate chips or crushed candy canes to the dough for added texture and flavor. You can also experiment with different extracts like almond or vanilla.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>These cookies pair wonderfully with a cup of hot cocoa or coffee. Serve them on a festive platter for holiday gatherings or as a sweet treat after dinner.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, substitute all-purpose flour with a gluten-free blend. You can also make these cookies vegan by using coconut oil instead of butter and a flax egg in place of the egg.</p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_3.webp",
+                "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Chill your dough for a bit before baking to help the cookies maintain their shape.</li><li>Use a cookie scoop for evenly sized cookies that bake uniformly.</li><li>Check for doneness a minute or two early to prevent overbaking.</li><li>Arrange cookies on a decorative plate for an impressive presentation.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making these cookies! They are simple, fun, and sure to bring joy to your kitchen and your loved ones.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+            "filePath": "recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+            "relativePath": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_2.webp",
+            "filePath": "recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_2.webp",
+            "relativePath": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_3.webp",
+            "filePath": "recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_3.webp",
+            "relativePath": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "melt-in-your-mouth-peppermint-sugar-cookies_image_4.webp",
+            "filePath": "recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_4.webp",
+            "relativePath": "melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+    "image_path": "recipes/melt-in-your-mouth-peppermint-sugar-cookies/images/melt-in-your-mouth-peppermint-sugar-cookies_image_1.webp",
+    "image_dir": "melt-in-your-mouth-peppermint-sugar-cookies/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:23:15+01:00",
+    "updatedAt": "2025-11-02T02:23:15+01:00"
+}
