@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=home</loc>
-    <lastmod>2025-11-01</lastmod>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipes</loc>
-    <lastmod>2025-11-01</lastmod>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;30-minute-sausage-tortellini-soup</loc>
-    <lastmod>2025-11-01</lastmod>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -85,6 +85,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;best-soft-gingerbread-cookies</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;best-white-bean-soup</loc>
     <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -99,6 +105,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;better-than-starbucks-peppermint-hot-cocoa-1</loc>
     <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;better-than-starbucks-rich-peppermint-hot-cocoa</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -271,6 +283,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;creamy-white-chicken-chili</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;crescent-roll-pizza-bites</loc>
     <lastmod>2025-10-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -439,6 +457,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;foolproof-pumpkin-pie-recipe-better-than-store-bought</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;french-onion-soup-casserole</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -477,6 +501,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;garlic-shrimp</loc>
     <lastmod>2025-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;genius-leftover-cranberry-sauce-hack-orange-cake</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -578,7 +608,7 @@
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;homemade-apple-pie-moonshine</loc>
-    <lastmod>2025-11-01</lastmod>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -667,6 +697,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;panera-copycat-creamy-broccoli-cheddar-soup</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;pasta-aglio-e-olio</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -675,6 +711,18 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;pecan-pie-cheesecake-bars</loc>
     <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;pecan-pie-cheesecake-bars-1</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;perfect-cut-out-sugar-cookies-for-christmas-decorating</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -741,6 +789,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;seriously-the-best-vegetable-soup</loc>
     <lastmod>2025-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;set-it-forget-it-chicken-noodle-soup</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -823,6 +877,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;stress-free-make-ahead-turkey-gravy</loc>
+    <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;stress-free-turkey-gravy</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -831,6 +891,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;stunning-red-velvet-crinkle-cookies</loc>
     <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;stunning-red-velvet-crinkle-cookies-1</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -903,6 +969,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;velvety-butternut-squash-soup</loc>
     <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;velvety-butternut-squash-soup-1</loc>
+    <lastmod>2025-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

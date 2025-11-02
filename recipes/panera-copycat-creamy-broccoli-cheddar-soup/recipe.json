@@ -1,0 +1,160 @@
+{
+    "id": "text_recipe_1762046508_906",
+    "slug": "panera-copycat-creamy-broccoli-cheddar-soup",
+    "title": "Panera Copycat: Creamy Broccoli Cheddar Soup",
+    "promptIMG": "Creamy Broccoli Cheddar Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the rich, velvety goodness of this creamy broccoli cheddar soup that captures the essence of your favorite café. Perfectly balanced flavors make it a comforting bowl of happiness that you can whip up in no time.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "4 cups broccoli florets",
+        "4 cups vegetable broth",
+        "1 cup heavy cream",
+        "2 cups shredded cheddar cheese",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+        "Stir in minced garlic and cook for an additional minute.",
+        "Add broccoli florets and vegetable broth. Bring to a boil, then reduce heat and simmer until broccoli is tender, about 15 minutes.",
+        "Use an immersion blender to puree the soup until smooth, or carefully transfer to a blender in batches.",
+        "Stir in heavy cream and shredded cheddar cheese until melted and combined. Season with salt and pepper to taste."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For an extra layer of flavor, consider adding a pinch of nutmeg or a splash of hot sauce to the soup.",
+    "structured_content": [
+        {
+            "content": "<p>This creamy broccoli cheddar soup is a comforting classic that brings warmth to any table. With its rich texture and cheesy flavor, it's perfect for chilly days or a cozy night in. The best part? You can make it at home in just a fraction of the time it takes to visit your favorite café!</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Restaurant-quality flavors at home</li><li>Perfect for weeknight dinners or entertaining</li><li>Uses simple ingredients you likely have on hand</li><li>Great for meal prep and leftovers!</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I tried broccoli cheddar soup at a local café. The creamy texture and cheesy goodness made it an instant favorite. Now, I can recreate that experience in my own kitchen, and it brings back such fond memories every time I make it!</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Fresh broccoli works best for vibrant color and flavor; make sure to cut it into small florets for even cooking.</li><li><strong>Key seasonings/flavoring agents:</strong> Garlic and onion add depth to the soup; choose fresh for the best taste.</li><li><strong>Supporting ingredients:</strong> Heavy cream gives the soup its luxurious texture, while cheddar cheese adds that signature flavor.</li><li><strong>Equipment needed:</strong> A large pot and an immersion blender (or regular blender) are essential for this recipe.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "A vibrant display of fresh broccoli, onions, and garlic prepared for the soup.",
+                "url": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+                "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Dice the onion and mince the garlic. Cut broccoli into small florets for quicker cooking.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Follow the steps to sauté, simmer, and blend the soup until smooth, ensuring to check for doneness of the broccoli.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Stir in cream and cheese, allowing them to melt and combine for a rich finish.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "The cooking process showing the soup simmering in the pot, with steam rising and ingredients blending together.",
+                "url": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_2.webp",
+                "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Blend the soup until smooth for the best texture; a few small chunks of broccoli can add a nice touch.</li><li>Avoid boiling the soup after adding cheese to prevent it from becoming grainy.</li><li>The soup is ready when it’s heated through and the cheese is fully melted.</li><li>Store leftovers in an airtight container in the fridge for up to 3 days; reheat gently on the stove.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This soup has become a staple in my home, especially during family gatherings. Sharing a warm bowl with loved ones creates a sense of togetherness that makes every meal special.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding some crushed red pepper flakes for a hint of heat, or a squeeze of lemon juice for brightness. Fresh herbs like thyme or parsley can also elevate the flavor profile.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This soup pairs wonderfully with a crusty bread for dipping or a light salad for a complete meal. A glass of white wine can also complement the flavors beautifully.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan version, substitute heavy cream with coconut milk and use a dairy-free cheese alternative. You can also add other vegetables like carrots or cauliflower for added nutrition.</p>"
+        },
+        {
+            "upload": {
+                "context": "The final plated dish of creamy broccoli cheddar soup garnished with fresh herbs and served with bread.",
+                "url": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_3.webp",
+                "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a smoother soup, blend in batches if using a regular blender.</li><li>Toast the cheese slightly before adding to enhance its flavor.</li><li>Keep an eye on the soup while blending to avoid splatters.</li><li>Garnish with extra cheese or herbs for an impressive presentation.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to dive into this creamy delight! Cooking this soup will not only fill your home with a wonderful aroma but also bring joy to your dining table.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+            "filePath": "recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+            "relativePath": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_2.webp",
+            "filePath": "recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_2.webp",
+            "relativePath": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_3.webp",
+            "filePath": "recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_3.webp",
+            "relativePath": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "panera-copycat-creamy-broccoli-cheddar-soup_image_4.webp",
+            "filePath": "recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_4.webp",
+            "relativePath": "panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+    "image_path": "recipes/panera-copycat-creamy-broccoli-cheddar-soup/images/panera-copycat-creamy-broccoli-cheddar-soup_image_1.webp",
+    "image_dir": "panera-copycat-creamy-broccoli-cheddar-soup/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:21:48+01:00",
+    "updatedAt": "2025-11-02T02:21:48+01:00"
+}

@@ -1,0 +1,165 @@
+{
+    "id": "text_recipe_1762046030_598",
+    "slug": "pecan-pie-cheesecake-bars-1",
+    "title": "Pecan Pie Cheesecake Bars",
+    "promptIMG": "Pecan Pie Cheesecake Bars, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Indulge in the best of both worlds with these Pecan Pie Cheesecake Bars, where creamy cheesecake meets the rich, nutty flavors of pecan pie. Perfect for any occasion, these bars are sure to impress your family and friends.",
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup graham cracker crumbs",
+        "1\/2 cup unsalted butter, melted",
+        "2 cups cream cheese, softened",
+        "1 cup sugar",
+        "3 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup pecans, chopped",
+        "1 cup corn syrup",
+        "1\/2 cup brown sugar"
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a bowl, mix graham cracker crumbs and melted butter until combined.",
+        "Press the mixture into the bottom of a greased 9x13 inch baking dish.",
+        "In a separate bowl, beat cream cheese and sugar until smooth.",
+        "Add eggs one at a time, mixing well after each addition, then stir in vanilla.",
+        "Pour the cream cheese mixture over the crust.",
+        "In another bowl, combine pecans, corn syrup, and brown sugar.",
+        "Spread the pecan mixture over the cheesecake layer.",
+        "Bake for 30-35 minutes until set. Let cool before slicing."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 12,
+    "difficulty": "medium",
+    "tips": "For the best texture, ensure the cream cheese is at room temperature before mixing. This will help achieve a smooth batter without lumps.",
+    "structured_content": [
+        {
+            "content": "<p>These Pecan Pie Cheesecake Bars are a delightful fusion of two beloved desserts, offering a creamy cheesecake base topped with a sweet, nutty pecan layer. Perfect for gatherings or a sweet treat at home, they are sure to satisfy any sweet tooth.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Combines the best flavors of cheesecake and pecan pie<\/li><li>Perfect for holiday gatherings and special occasions<\/li><li>Uses simple ingredients that are easy to find<\/li><li>Great for making ahead and serving later<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Growing up, my family would always make pecan pie for Thanksgiving, but I wanted to add a twist. These cheesecake bars were born from that desire, and they quickly became a family favorite!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Cream cheese is essential for the rich, creamy texture; make sure it's softened for easy mixing.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Vanilla extract adds depth to the cheesecake flavor; use pure vanilla for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> Pecans add crunch and a nutty flavor that complements the sweetness of the cheesecake.<\/li><li><strong>Equipment needed:<\/strong> A 9x13 inch baking dish is ideal for even baking and easy serving.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_1.webp",
+                "fileName": "pecan-pie-cheesecake-bars-1_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare the baking dish by greasing it. Mix the crust ingredients and press them into the dish.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Layer the cheesecake mixture over the crust, followed by the pecan topping, and bake until set.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Let the bars cool completely before slicing to ensure clean edges.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_2.webp",
+                "fileName": "pecan-pie-cheesecake-bars-1_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Bake until the center is just set; it will firm up as it cools.<\/li><li>Don't overmix the cream cheese to avoid a dense texture.<\/li><li>Look for a slight jiggle in the center to know it's ready.<\/li><li>Store leftovers in the refrigerator for up to 5 days.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these bars with friends at a gathering always brings joy. The smiles and compliments make the effort worthwhile, and it's a recipe I love passing down.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a pinch of cinnamon or nutmeg to the cheesecake mixture for a warm spice note. You can also drizzle caramel sauce on top for extra sweetness.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>These bars pair wonderfully with a scoop of vanilla ice cream or a dollop of whipped cream. Serve with coffee or a glass of dessert wine for a delightful finish.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, substitute the graham cracker crumbs with almond flour or gluten-free cookies. You can also experiment with different nuts, like walnuts or hazelnuts, for a unique twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_3.webp",
+                "fileName": "pecan-pie-cheesecake-bars-1_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Chill the bars for a few hours before serving for the best texture.<\/li><li>Use a hot knife to slice through the bars for clean cuts.<\/li><li>Keep an eye on the baking time to prevent overbaking.<\/li><li>Garnish with extra pecans for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try making these Pecan Pie Cheesecake Bars; they are easier than they seem and will surely impress anyone who tries them!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "pecan-pie-cheesecake-bars-1_image_1.webp",
+            "filePath": "recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_1.webp",
+            "relativePath": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pecan-pie-cheesecake-bars-1_image_2.webp",
+            "filePath": "recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_2.webp",
+            "relativePath": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "pecan-pie-cheesecake-bars-1_image_3.webp",
+            "filePath": "recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_3.webp",
+            "relativePath": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "pecan-pie-cheesecake-bars-1_image_4.webp",
+            "filePath": "recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_4.webp",
+            "relativePath": "pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "pecan-pie-cheesecake-bars-1_image_1.webp",
+    "image_path": "recipes\/pecan-pie-cheesecake-bars-1\/images\/pecan-pie-cheesecake-bars-1_image_1.webp",
+    "image_dir": "pecan-pie-cheesecake-bars-1\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:13:50+01:00",
+    "updatedAt": "2025-11-02T02:13:50+01:00"
+}
