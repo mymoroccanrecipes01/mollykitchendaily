@@ -1,0 +1,162 @@
+{
+    "id": "text_recipe_1762111539_371",
+    "slug": "marry-me-soup",
+    "title": "Marry Me Soup",
+    "promptIMG": "Marry Me Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "This creamy Marry Me Soup is a delightful blend of flavors that promises to impress anyone who tries it. With its rich texture and aromatic ingredients, it's perfect for cozy dinners or special occasions.",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil",
+        "1 cup heavy cream",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1 teaspoon thyme",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add chopped onion and minced garlic, sauté until translucent.",
+        "Pour in chicken broth and bring to a simmer.",
+        "Add shrimp and cook until pink, about 3-4 minutes.",
+        "Stir in heavy cream and thyme, season with salt and pepper.",
+        "Simmer for an additional 5 minutes, then serve hot, garnished with fresh parsley."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh shrimp and don't overcook them to maintain their tenderness.",
+    "structured_content": [
+        {
+            "content": "<p>This Marry Me Soup is not just a meal; it's an experience. The creamy texture combined with the succulent shrimp creates a dish that feels both indulgent and comforting. Perfect for impressing your loved ones, this soup is sure to become a favorite in your household.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for cozy dinners and special occasions<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Rich and creamy texture that warms the soul<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this soup for my partner. The look on their face when they took the first bite was priceless. It's become a staple in our home, always bringing us back to that special moment.<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh shrimp are best for this recipe; they add a sweet and briny flavor that elevates the soup.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Thyme adds an aromatic touch that complements the creaminess.<\/li><li><strong>Supporting ingredients:<\/strong> Onion and garlic provide a savory base, while heavy cream gives the soup its luxurious texture.<\/li><li><strong>Equipment needed:<\/strong> A large pot or Dutch oven is essential for cooking and simmering the soup.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "marry-me-soup\/images\/marry-me-soup_image_1.webp",
+                "fileName": "marry-me-soup_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Chop the onion and garlic, and peel and devein the shrimp. Measure out the cream and broth.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Follow the instructions step-by-step, ensuring to sauté the onion and garlic until translucent before adding the broth.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with fresh parsley before serving to add a pop of color and freshness.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "marry-me-soup\/images\/marry-me-soup_image_2.webp",
+                "fileName": "marry-me-soup_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the shrimp just until pink to avoid a rubbery texture.<\/li><li>A common mistake is overcooking the shrimp; keep an eye on them!<\/li><li>When the soup is creamy and heated through, it's ready to serve.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days; reheat gently.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This soup has brought so much joy to my family gatherings. Sharing it with friends and family always creates a warm atmosphere, filled with laughter and love.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding a splash of lemon juice for brightness or a pinch of red pepper flakes for a bit of heat. Fresh herbs like dill or basil can also enhance the flavor profile beautifully.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This soup pairs wonderfully with crusty bread or a light salad. A glass of white wine can elevate the dining experience even further.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, swap shrimp for mushrooms and use vegetable broth. You can also add spinach or kale for added nutrition and color.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "marry-me-soup\/images\/marry-me-soup_image_3.webp",
+                "fileName": "marry-me-soup_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For a velvety texture, blend the soup before adding the shrimp.<\/li><li>Use homemade broth for maximum flavor.<\/li><li>Timing is key; add the cream at the end to prevent curdling.<\/li><li>Serve in warm bowls to keep the soup hot longer.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this Marry Me Soup; it's a dish that brings people together. Enjoy the process of making it and the joy it brings to your table!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "marry-me-soup_image_1.webp",
+            "filePath": "recipes\/marry-me-soup\/images\/marry-me-soup_image_1.webp",
+            "relativePath": "marry-me-soup\/images\/marry-me-soup_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "marry-me-soup_image_2.webp",
+            "filePath": "recipes\/marry-me-soup\/images\/marry-me-soup_image_2.webp",
+            "relativePath": "marry-me-soup\/images\/marry-me-soup_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "marry-me-soup_image_3.webp",
+            "filePath": "recipes\/marry-me-soup\/images\/marry-me-soup_image_3.webp",
+            "relativePath": "marry-me-soup\/images\/marry-me-soup_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "marry-me-soup_image_4.webp",
+            "filePath": "recipes\/marry-me-soup\/images\/marry-me-soup_image_4.webp",
+            "relativePath": "marry-me-soup\/images\/marry-me-soup_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/marry-me-soup\/images\/marry-me-soup_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "marry-me-soup_image_1.webp",
+    "image_path": "recipes\/marry-me-soup\/images\/marry-me-soup_image_1.webp",
+    "image_dir": "marry-me-soup\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:25:39+01:00",
+    "updatedAt": "2025-11-02T20:25:39+01:00"
+}

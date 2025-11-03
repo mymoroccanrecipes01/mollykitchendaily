@@ -1,0 +1,157 @@
+{
+    "id": "text_recipe_1762110246_662",
+    "slug": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy",
+    "title": "Korean-Inspired Gochujang Caramel Popcorn (Sweet & Spicy!)",
+    "promptIMG": "Korean-Inspired Gochujang Caramel Popcorn, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in the irresistible combination of sweet and spicy with this Korean-inspired gochujang caramel popcorn. Perfect for movie nights or as a unique snack at gatherings, this recipe will elevate your popcorn game to a whole new level!",
+    "category_id": "cat_1761230749_334",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 cup popcorn kernels",
+        "1 cup sugar",
+        "1/4 cup unsalted butter",
+        "1/4 cup gochujang",
+        "1/2 teaspoon salt"
+    ],
+    "instructions": [
+        "Pop the popcorn kernels using an air popper or stovetop method and set aside in a large bowl.",
+        "In a saucepan, combine sugar, butter, gochujang, and salt over medium heat, stirring until the mixture comes to a boil.",
+        "Let the caramel boil for 4-5 minutes without stirring until it turns a deep amber color.",
+        "Pour the caramel over the popped popcorn and stir well to coat evenly.",
+        "Spread the coated popcorn onto a baking sheet lined with parchment paper and let it cool before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For a crunchier texture, bake the coated popcorn in a preheated oven at 250°F for 30 minutes, stirring every 10 minutes.",
+    "structured_content": [
+        {
+            "content": "<p>This Korean-inspired gochujang caramel popcorn is a delightful twist on a classic snack. The combination of sweet caramel and spicy gochujang creates a flavor explosion that is both unique and addictive. Perfect for sharing or enjoying solo, this recipe is sure to impress!</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Unique sweet and spicy flavor profile</li><li>Perfect for movie nights or parties</li><li>Uses simple ingredients you likely have on hand</li><li>Great for satisfying sweet cravings with a kick</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I first discovered this recipe at a friend's gathering, where the popcorn disappeared within minutes. The blend of flavors was so captivating that I had to recreate it at home, and now it's a staple for any occasion!</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Popcorn kernels are the base of this snack; using fresh kernels ensures maximum fluffiness.</li><li><strong>Key seasonings/flavoring agents:</strong> Gochujang adds a unique heat and depth; look for a good quality brand for the best flavor.</li><li><strong>Supporting ingredients:</strong> Sugar and butter create the caramel that binds everything together, giving it a sweet crunch.</li><li><strong>Equipment needed:</strong> A large bowl for mixing, a saucepan for the caramel, and a baking sheet for cooling.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+                "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Start by popping the popcorn kernels; if using stovetop, heat oil in a pot and add kernels until they pop.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Combine sugar, butter, gochujang, and salt in a saucepan, boil until amber, then pour over popcorn.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Let the popcorn cool on a baking sheet, breaking apart any clumps for even coating.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_2.webp",
+                "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Watch the caramel closely to prevent burning; the color change is key.</li><li>A common mistake is stirring the caramel while it boils; let it sit for perfect texture.</li><li>Popcorn is ready when it’s fully coated and cooled, ensuring it’s crispy.</li><li>Store in an airtight container for up to a week for best freshness.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This popcorn has become a favorite among my friends and family. Sharing it during movie nights has created wonderful memories, and I love seeing their reactions to the unique flavor!</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, consider adding a sprinkle of sesame seeds or chopped peanuts for added texture and flavor. You can also experiment with different types of chili paste for varying heat levels.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This popcorn pairs wonderfully with a refreshing drink like iced tea or lemonade. Serve it in fun bowls for parties or as a snack during game nights!</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegan version, substitute butter with coconut oil and use a plant-based sweetener. You can also try adding dried fruit for a sweet contrast to the spice.</p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_3.webp",
+                "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a candy thermometer to ensure the caramel reaches the right temperature for perfect texture.</li><li>Let the popcorn cool completely before storing to maintain its crunch.</li><li>Timing is crucial; have everything ready before starting the caramel to avoid overcooking.</li><li>For an impressive presentation, serve in clear containers to showcase the popcorn's vibrant color.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! The joy of making your own snacks is unmatched, and this gochujang caramel popcorn will surely become a beloved favorite!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+            "filePath": "recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+            "relativePath": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_2.webp",
+            "filePath": "recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_2.webp",
+            "relativePath": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_3.webp",
+            "filePath": "recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_3.webp",
+            "relativePath": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_4.webp",
+            "filePath": "recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_4.webp",
+            "relativePath": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+    "image_path": "recipes/korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images/korean-inspired-gochujang-caramel-popcorn-sweet-spicy_image_1.webp",
+    "image_dir": "korean-inspired-gochujang-caramel-popcorn-sweet-spicy/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T20:04:06+01:00",
+    "updatedAt": "2025-11-02T20:04:06+01:00"
+}
