@@ -1,0 +1,159 @@
+{
+    "id": "text_recipe_1762204446_519",
+    "slug": "lemon-garlic-shrimp-and-asparagus",
+    "title": "Lemon Garlic Shrimp and Asparagus",
+    "promptIMG": "Lemon Garlic Shrimp and Asparagus, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Lemon Garlic Shrimp and Asparagus dish is a quick and flavorful meal that brings the taste of the coast right to your kitchen. With succulent shrimp and tender asparagus, it's a delightful combination that will impress your family and friends.",
+    "category_id": "cat_1761230072_178",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil",
+        "2 cloves garlic minced",
+        "1 bunch asparagus trimmed",
+        "1 lemon juiced",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Add minced garlic and sauté for about 30 seconds until fragrant.",
+        "Add shrimp and cook for 2-3 minutes per side until they turn pink.",
+        "Add asparagus and lemon juice, season with salt and pepper, and cook for an additional 5-7 minutes until asparagus is tender.",
+        "Garnish with fresh parsley before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For the best flavor, use fresh shrimp and adjust the garlic according to your taste preference.",
+    "structured_content": [
+        {
+            "content": "<p>This Lemon Garlic Shrimp and Asparagus recipe is a perfect blend of flavors that will transport you to a sunny seaside. The bright citrus notes from the lemon combined with the savory garlic create a mouthwatering dish that is both satisfying and light.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes</li><li>Restaurant-quality flavors at home</li><li>Perfect for weeknight dinners or entertaining</li><li>Uses simple ingredients you likely have on hand</li><li>Healthy and packed with nutrients</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the aroma filled the kitchen, and everyone gathered around the table, eager to dig in. It has since become a staple in our home, especially during the warmer months.</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Fresh shrimp are best for this recipe; look for shrimp that are firm and have a mild scent.</li><li><strong>Key seasonings/flavoring agents:</strong> Fresh garlic adds depth, while lemon juice brightens the dish.</li><li><strong>Supporting ingredients:</strong> Asparagus adds a nice crunch and color, making the dish visually appealing.</li><li><strong>Equipment needed:</strong> A large skillet is essential for even cooking.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "Ingredients preparation for Lemon Garlic Shrimp and Asparagus, showcasing fresh shrimp and vibrant asparagus.",
+                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+                "fileName": "lemon-garlic-shrimp-and-asparagus_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Start by peeling and deveining the shrimp, and trim the asparagus. Mince the garlic and juice the lemon.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Heat olive oil in a skillet, sauté garlic, then add shrimp and cook until pink. Finally, add asparagus and lemon juice, cooking until tender.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Garnish with fresh parsley for a pop of color and flavor.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of Lemon Garlic Shrimp and Asparagus, highlighting the vibrant colors and textures.",
+                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+                "fileName": "lemon-garlic-shrimp-and-asparagus_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook shrimp just until pink to avoid overcooking.</li><li>Avoid burning the garlic, as it can turn bitter.</li><li>Asparagus should be bright green and tender-crisp when done.</li><li>Store leftovers in an airtight container in the fridge for up to 2 days.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This dish is not just a meal; it's a way to bring loved ones together. I love serving it during family gatherings, where everyone enjoys the fresh flavors and the joy of sharing a home-cooked meal.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>For an extra kick, consider adding red pepper flakes or a splash of white wine during cooking. Fresh herbs like basil or dill can also enhance the flavor profile.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>This dish pairs beautifully with a light salad or over a bed of rice or pasta. A chilled glass of white wine complements the flavors perfectly.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, serve it over quinoa. You can also substitute shrimp with chicken or tofu for a different protein source.</p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated dish of Lemon Garlic Shrimp and Asparagus, showcasing the vibrant colors and garnishing.",
+                "url": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+                "fileName": "lemon-garlic-shrimp-and-asparagus_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a high-quality olive oil for the best flavor.</li><li>Prep all ingredients before starting to cook for a seamless experience.</li><li>Keep an eye on the shrimp; they cook quickly!</li><li>Plate beautifully to impress your guests.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try this recipe! It's simple, quick, and delivers a burst of flavor that will leave you and your guests feeling satisfied and happy.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "lemon-garlic-shrimp-and-asparagus_image_1.webp",
+            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "lemon-garlic-shrimp-and-asparagus_image_2.webp",
+            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "lemon-garlic-shrimp-and-asparagus_image_3.webp",
+            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "lemon-garlic-shrimp-and-asparagus_image_4.webp",
+            "filePath": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_4.webp",
+            "relativePath": "lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "lemon-garlic-shrimp-and-asparagus_image_1.webp",
+    "image_path": "recipes/lemon-garlic-shrimp-and-asparagus/images/lemon-garlic-shrimp-and-asparagus_image_1.webp",
+    "image_dir": "lemon-garlic-shrimp-and-asparagus/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-03T22:14:06+01:00",
+    "updatedAt": "2025-11-03T22:14:06+01:00"
+}
