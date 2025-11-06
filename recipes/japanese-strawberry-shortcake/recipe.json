@@ -3,15 +3,15 @@
     "slug": "japanese-strawberry-shortcake",
     "title": "Japanese Strawberry Shortcake",
     "promptIMG": "Japanese Strawberry Shortcake, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Indulge in the light and fluffy delight of Japanese Strawberry Shortcake, a perfect blend of sweet sponge cake and fresh strawberries. This cake is not just a treat; it's a celebration of flavors that will impress your family and friends.",
-    "category_id": "1",
+    "category_id": "cat_1761230294_638",
     "author_id": "author_001",
     "ingredients": [
         "1 cup all-purpose flour",
         "1 cup sugar",
         "4 large eggs",
-        "1/2 cup heavy cream",
+        "1\/2 cup heavy cream",
         "1 teaspoon vanilla extract",
         "Fresh strawberries for decoration"
     ],
@@ -32,27 +32,27 @@
     "tips": "For the best results, ensure your eggs are at room temperature before beating, and whip the cream until it's just firm to avoid over-whipping.",
     "structured_content": [
         {
-            "content": "<p>This Japanese Strawberry Shortcake is a delightful dessert that combines the lightness of a sponge cake with the sweetness of fresh strawberries. It's perfect for any celebration or a sweet treat after dinner.</p>"
+            "content": "<p>This Japanese Strawberry Shortcake is a delightful dessert that combines the lightness of a sponge cake with the sweetness of fresh strawberries. It's perfect for any celebration or a sweet treat after dinner.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 1 hour</li><li>Restaurant-quality flavors at home</li><li>Perfect for special occasions and gatherings</li><li>Uses simple ingredients you likely have on hand</li><li>Light and refreshing, perfect for warm weather</li></ul>"
+                "content": "<ul><li>Quick and easy to make in under 1 hour<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for special occasions and gatherings<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Light and refreshing, perfect for warm weather<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, my family would make this cake for birthdays and special occasions. The combination of fluffy cake and fresh strawberries always brings back fond memories of celebration and joy.</p>"
+            "content": "<p>Growing up, my family would make this cake for birthdays and special occasions. The combination of fluffy cake and fresh strawberries always brings back fond memories of celebration and joy.<\/p>"
         },
         {
             "headline": "Gather Your Ingredients"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:</strong> All-purpose flour gives the cake its structure and lightness; sift it for a fluffier texture.</li><li><strong>Key seasonings/flavoring agents:</strong> Vanilla extract adds a warm flavor that complements the strawberries.</li><li><strong>Supporting ingredients:</strong> Heavy cream is essential for the filling and topping, providing richness.</li><li><strong>Equipment needed:</strong> A mixing bowl, whisk, and a cake pan are essential for this recipe.</li></ul>"
+            "content": "<ul><li><strong>Main ingredient:<\/strong> All-purpose flour gives the cake its structure and lightness; sift it for a fluffier texture.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Vanilla extract adds a warm flavor that complements the strawberries.<\/li><li><strong>Supporting ingredients:<\/strong> Heavy cream is essential for the filling and topping, providing richness.<\/li><li><strong>Equipment needed:<\/strong> A mixing bowl, whisk, and a cake pan are essential for this recipe.<\/li><\/ul>"
         },
         {
             "upload": {
                 "context": "A beautifully arranged display of the ingredients for Japanese Strawberry Shortcake, showcasing the freshness of strawberries and the simplicity of the other ingredients.",
-                "url": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_1.webp",
+                "url": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_1.webp",
                 "fileName": "japanese-strawberry-shortcake_image_1.webp",
                 "type": "main"
             }
@@ -61,12 +61,12 @@
             "headline": "How to Make It"
         },
         {
-            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Preheat your oven and prepare your cake pan. Beat eggs and sugar until fluffy, then fold in the flour.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Pour the batter into the pan and bake until golden brown. Allow to cool before assembling.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Spread whipped cream between layers and on top, then decorate with fresh strawberries for a beautiful presentation.</dd></dl>"
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Preheat your oven and prepare your cake pan. Beat eggs and sugar until fluffy, then fold in the flour.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Pour the batter into the pan and bake until golden brown. Allow to cool before assembling.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Spread whipped cream between layers and on top, then decorate with fresh strawberries for a beautiful presentation.<\/dd><\/dl>"
         },
         {
             "upload": {
                 "context": "An engaging visual of the cooking process, highlighting the mixing and baking stages of the Japanese Strawberry Shortcake.",
-                "url": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_2.webp",
+                "url": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_2.webp",
                 "fileName": "japanese-strawberry-shortcake_image_2.webp",
                 "type": "process"
             }
@@ -74,34 +74,34 @@
         {
             "note": {
                 "label": "You Must Know",
-                "content": "<ul><li>Ensure your oven is fully preheated for even baking.</li><li>A common mistake is overmixing the batter, which can lead to a dense cake.</li><li>The cake is ready when a toothpick inserted in the center comes out clean.</li><li>Store leftovers in the refrigerator for up to 2 days.</li></ul>"
+                "content": "<ul><li>Ensure your oven is fully preheated for even baking.<\/li><li>A common mistake is overmixing the batter, which can lead to a dense cake.<\/li><li>The cake is ready when a toothpick inserted in the center comes out clean.<\/li><li>Store leftovers in the refrigerator for up to 2 days.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This cake is a favorite among my friends and family, and sharing it during gatherings always brings smiles and compliments. It's a dish that creates lasting memories.</p>"
+            "content": "<p>This cake is a favorite among my friends and family, and sharing it during gatherings always brings smiles and compliments. It's a dish that creates lasting memories.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding a splash of lemon zest to the whipped cream for a citrusy twist, or try using different berries for decoration.</p>"
+            "content": "<p>Consider adding a splash of lemon zest to the whipped cream for a citrusy twist, or try using different berries for decoration.<\/p>"
         },
         {
             "headline": "Serving Suggestions"
         },
         {
-            "content": "<p>This cake pairs beautifully with a cup of green tea or a glass of sparkling wine. Serve it alongside a fresh fruit salad for a refreshing dessert.</p>"
+            "content": "<p>This cake pairs beautifully with a cup of green tea or a glass of sparkling wine. Serve it alongside a fresh fruit salad for a refreshing dessert.<\/p>"
         },
         {
             "headline": "Creative Variations"
         },
         {
-            "content": "<p>For a gluten-free option, substitute the all-purpose flour with a gluten-free blend. You can also make a vegan version using aquafaba instead of eggs and coconut cream for the filling.</p>"
+            "content": "<p>For a gluten-free option, substitute the all-purpose flour with a gluten-free blend. You can also make a vegan version using aquafaba instead of eggs and coconut cream for the filling.<\/p>"
         },
         {
             "upload": {
                 "context": "A stunning image of the final plated Japanese Strawberry Shortcake, showcasing its layers and fresh strawberry decoration.",
-                "url": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_3.webp",
+                "url": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_3.webp",
                 "fileName": "japanese-strawberry-shortcake_image_3.webp",
                 "type": "final"
             }
@@ -109,11 +109,11 @@
         {
             "note": {
                 "label": "Pro Tips",
-                "content": "<ul><li>Use a serrated knife to slice the cake evenly.</li><li>Chill your mixing bowl and beaters before whipping cream for better results.</li><li>Timing is key; don’t let the cake cool too long before assembling.</li><li>Garnish with mint leaves for an impressive touch.</li></ul>"
+                "content": "<ul><li>Use a serrated knife to slice the cake evenly.<\/li><li>Chill your mixing bowl and beaters before whipping cream for better results.<\/li><li>Timing is key; don’t let the cake cool too long before assembling.<\/li><li>Garnish with mint leaves for an impressive touch.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Don't be afraid to try making this cake; it's easier than it looks! You'll feel a sense of accomplishment and joy when you see the smiles it brings.</p>"
+            "content": "<p>Don't be afraid to try making this cake; it's easier than it looks! You'll feel a sense of accomplishment and joy when you see the smiles it brings.<\/p>"
         },
         {
             "category_id": "cat_1761230294_638"
@@ -122,40 +122,40 @@
     "images": [
         {
             "fileName": "japanese-strawberry-shortcake_image_1.webp",
-            "filePath": "recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_1.webp",
-            "relativePath": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_1.webp",
+            "relativePath": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "japanese-strawberry-shortcake_image_2.webp",
-            "filePath": "recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_2.webp",
-            "relativePath": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_2.webp",
+            "relativePath": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2,
             "type": "process"
         },
         {
             "fileName": "japanese-strawberry-shortcake_image_3.webp",
-            "filePath": "recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_3.webp",
-            "relativePath": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_3.webp",
+            "relativePath": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3,
             "type": "final"
         },
         {
             "fileName": "japanese-strawberry-shortcake_image_4.webp",
-            "filePath": "recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_4.webp",
-            "relativePath": "japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_4.webp",
+            "filePath": "recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_4.webp",
+            "relativePath": "japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "japanese-strawberry-shortcake_image_1.webp",
-    "image_path": "recipes/japanese-strawberry-shortcake/images/japanese-strawberry-shortcake_image_1.webp",
-    "image_dir": "japanese-strawberry-shortcake/images",
+    "image_path": "recipes\/japanese-strawberry-shortcake\/images\/japanese-strawberry-shortcake_image_1.webp",
+    "image_dir": "japanese-strawberry-shortcake\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-03T22:25:07+01:00",
