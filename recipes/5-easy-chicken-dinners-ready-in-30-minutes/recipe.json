@@ -1,0 +1,151 @@
+{
+    "id": "text_recipe_1762462146_109",
+    "slug": "5-easy-chicken-dinners-ready-in-30-minutes",
+    "title": "5 Easy Chicken Dinners Ready in 30 Minutes",
+    "promptIMG": "Chicken dinners, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": true,
+    "description": "Discover the joy of cooking with these five easy chicken dinners that come together in just 30 minutes. Perfect for busy weeknights, these recipes are packed with flavor and sure to impress your family.",
+    "category_id": "cat_1761229889_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound chicken breast, cut into strips",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon paprika",
+        "Salt and pepper to taste"
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium heat.",
+        "Season chicken strips with garlic powder, paprika, salt, and pepper.",
+        "Add chicken to the skillet and cook for 5-7 minutes, stirring occasionally, until cooked through and golden brown."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfectly cooked chicken, ensure the skillet is hot before adding the meat and avoid overcrowding the pan.",
+    "structured_content": [
+        {
+            "content": "<p>These chicken dinners are not only quick but also bursting with flavor, making them a go-to for any home cook. The simplicity of the ingredients allows the natural taste of the chicken to shine through, while the spices add a delightful kick.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep or feeding a crowd<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>I'll never forget the first time I made these chicken dinners for my family. They were skeptical at first, but the aroma that filled the kitchen had them eagerly waiting at the table. It turned into a family favorite!<\/p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breast is lean and cooks quickly, making it ideal for fast meals. Cut into strips for even cooking.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Garlic powder and paprika add depth and warmth to the dish.<\/li><li><strong>Supporting ingredients:<\/strong> Olive oil helps achieve a nice sear and adds healthy fats.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking and browning.<\/li><\/ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of chicken strips and seasoning.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by cutting the chicken into strips and seasoning them well with garlic powder, paprika, salt, and pepper.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the skillet and add olive oil. Once hot, add the seasoned chicken strips and cook until golden brown and cooked through, about 5-7 minutes.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Serve immediately with your choice of sides, garnished with fresh herbs if desired.<\/dd><\/dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking chicken strips in the skillet.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook chicken until it reaches an internal temperature of 165°F for safety.<\/li><li>Avoid overcrowding the skillet to ensure even cooking.<\/li><li>Look for a golden brown color to indicate the chicken is cooked properly.<\/li><li>Leftovers can be stored in the fridge for up to 3 days and reheated easily.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these quick chicken dinners with friends has become a tradition in my home. It's a simple way to bring everyone together, and the smiles around the table make it all worthwhile.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Consider adding fresh herbs like parsley or cilantro for a burst of freshness. A squeeze of lemon juice at the end can also brighten the dish beautifully.<\/p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Pair these chicken dinners with a fresh salad, rice, or roasted vegetables for a complete meal. A glass of white wine complements the flavors perfectly.<\/p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free option, ensure your seasonings are certified gluten-free. You can also swap chicken for tofu or tempeh for a vegetarian twist.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated chicken dinner with sides.",
+                "url": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+                "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, let the chicken rest for a few minutes after cooking before slicing.<\/li><li>Marinate the chicken for 30 minutes before cooking for extra flavor.<\/li><li>Use a meat thermometer to avoid overcooking.<\/li><li>Plate beautifully with a drizzle of sauce for an impressive presentation.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Don't hesitate to try these easy chicken dinners! With just a few ingredients and a little time, you can create something truly delicious that will impress everyone at your table.<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "filePath": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "relativePath": "5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+    "image_path": "recipes\/5-easy-chicken-dinners-ready-in-30-minutes\/images\/5-easy-chicken-dinners-ready-in-30-minutes_image_1.webp",
+    "image_dir": "5-easy-chicken-dinners-ready-in-30-minutes\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-06T21:49:06+01:00",
+    "updatedAt": "2025-11-06T21:49:06+01:00"
+}
