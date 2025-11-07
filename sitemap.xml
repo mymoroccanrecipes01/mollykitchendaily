@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=home</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipes</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -459,6 +459,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-3-ingredient-peppermint-bark</loc>
     <lastmod>2025-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-air-fryer-shrimp-1</loc>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1221,6 +1227,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;tanghulu-fruit-candy</loc>
     <lastmod>2025-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;tender-instant-pot-chicken-dinners-in-minutes</loc>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
