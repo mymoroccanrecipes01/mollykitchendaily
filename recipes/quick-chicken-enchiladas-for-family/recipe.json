@@ -3,7 +3,7 @@
     "slug": "quick-chicken-enchiladas-for-family",
     "title": "Quick Chicken Enchiladas for Family",
     "promptIMG": "Simple Chicken Enchiladas, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
+    "isOnline": true,
     "description": "Treat your family to these irresistible Simple Weeknight Chicken Enchiladas! Packed with juicy chicken and melted cheese, they deliver restaurant-quality flavor. Try them tonight for a comforting meal everyone will love!",
     "category_id": "cat_1761230383_494",
     "author_id": "author_001",
@@ -154,6 +154,6 @@
     "image_dir": "quick-chicken-enchiladas-for-family\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-11-07T19:12:08+01:00",
-    "updatedAt": "2025-11-07T19:12:08+01:00"
+    "createdAt": "2025-11-07T23:09:59+01:00",
+    "updatedAt": "2025-11-07T23:09:59+01:00"
 }
