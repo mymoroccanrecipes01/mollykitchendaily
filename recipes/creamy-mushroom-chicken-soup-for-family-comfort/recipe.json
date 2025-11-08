@@ -1,0 +1,160 @@
+{
+    "id": "recipe_1762554986_444",
+    "slug": "creamy-mushroom-chicken-soup-for-family-comfort",
+    "title": "Creamy Mushroom Chicken Soup for Family Comfort",
+    "promptIMG": "Creamy Mushroom Chicken Soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "Indulge in this creamy mushroom chicken soup that warms the heart. Packed with flavors and gluten-free, it's perfect for family dinners. Try it tonight for a comforting meal everyone will love!",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound chicken breast, diced",
+        "2 cups mushrooms, sliced",
+        "1 cup wild rice, rinsed",
+        "4 cups chicken broth",
+        "1 cup heavy cream",
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "In a large pot, heat olive oil over medium heat. Add onions and garlic, sauté until translucent.",
+        "Add diced chicken and cook until browned.",
+        "Stir in mushrooms and cook until softened.",
+        "Add wild rice and chicken broth, bring to a boil, then reduce heat and simmer for 25 minutes.",
+        "Stir in heavy cream, season with salt and pepper, and cook for an additional 5 minutes.",
+        "Serve hot, garnished with fresh parsley."
+    ],
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "servings": 6,
+    "difficulty": "medium",
+    "tips": "For the best flavor, use homemade chicken broth and fresh mushrooms. Adjust the thickness by adding more or less cream.",
+    "structured_content": [
+        {
+            "content": "<p>This Creamy Mushroom Chicken and Wild Rice Soup is the ultimate comfort food, perfect for chilly evenings. The rich flavors of mushrooms and tender chicken create a delightful harmony that warms the soul.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 50 minutes</li><li>Gluten-free and packed with wholesome ingredients</li><li>Perfect for cozy family dinners or gatherings</li><li>Uses simple ingredients you likely have on hand</li><li>Rich and creamy texture that everyone will adore</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This soup reminds me of family gatherings where we would all sit around the table, sharing stories and laughter, making it a cherished recipe in our home.</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Chicken breast adds protein and heartiness; use fresh for best results.</li><li><strong>Key seasonings/flavoring agents:</strong> Garlic and onion enhance the flavor profile; choose fresh for maximum impact.</li><li><strong>Supporting ingredients:</strong> Wild rice provides a nutty texture, while mushrooms add depth and earthiness.</li><li><strong>Equipment needed:</strong> A large pot for cooking and a sharp knife for chopping.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "Preparation of ingredients for the creamy mushroom chicken soup, showcasing the fresh vegetables and chicken.",
+                "url": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+                "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Chop onions, garlic, and mushrooms. Dice chicken into bite-sized pieces. Rinse wild rice under cold water.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Follow the step-by-step instructions to create a flavorful base before adding the rice and broth.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Stir in cream for richness and garnish with parsley for a fresh touch.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of the creamy mushroom chicken soup, highlighting the bubbling pot and ingredients melding together.",
+                "url": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_2.webp",
+                "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook the chicken until it's no longer pink to ensure it's safe to eat.</li><li>Avoid overcooking the mushrooms to retain their texture.</li><li>The soup is ready when the rice is tender and the flavors meld beautifully.</li><li>Store leftovers in an airtight container and reheat gently on the stove.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this soup with loved ones brings back memories of warmth and togetherness, making it a staple in our family traditions.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a splash of lemon juice for brightness or sprinkle in some thyme for an aromatic twist that elevates the dish.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve with crusty bread or a fresh salad for a complete meal that satisfies all appetites.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a vegetarian version, substitute chicken with chickpeas and use vegetable broth. You can also add spinach for extra nutrition.</p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated creamy mushroom chicken soup, showcasing its creamy texture and garnished with parsley.",
+                "url": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_3.webp",
+                "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>For restaurant-quality results, sear the chicken before adding other ingredients.</li><li>Use homemade broth for a richer flavor.</li><li>Keep an eye on the rice to prevent it from becoming mushy.</li><li>Garnish with a drizzle of cream for an impressive presentation.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the process of making this soup and the joy it brings to your table. You’ll find that cooking can be a delightful experience filled with love and warmth.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+            "filePath": "recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+            "relativePath": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_2.webp",
+            "filePath": "recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_2.webp",
+            "relativePath": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_3.webp",
+            "filePath": "recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_3.webp",
+            "relativePath": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "creamy-mushroom-chicken-soup-for-family-comfort_image_4.webp",
+            "filePath": "recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_4.webp",
+            "relativePath": "creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+    "image_path": "recipes/creamy-mushroom-chicken-soup-for-family-comfort/images/creamy-mushroom-chicken-soup-for-family-comfort_image_1.webp",
+    "image_dir": "creamy-mushroom-chicken-soup-for-family-comfort/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-07T23:36:26+01:00",
+    "updatedAt": "2025-11-07T23:36:26+01:00"
+}
