@@ -903,7 +903,7 @@ createRecipeHTML(recipe) {
             
             <div class="entry__footer">
                 <a class="entry__footer-link" href="${recipeUrl}" title="${title}">
-                    Voir la recette
+                    View the recipe
                 </a>
             </div>
         </div>
@@ -917,7 +917,7 @@ createRecipeHTML(recipe) {
     showNoRecipes() {
         this.recipesContainer.innerHTML = `
             <div class="no-recipes">
-                <h3>Aucune recette trouvée</h3>
+                <h3>Sorry, no recipes found</h3>
                 <p>Vérifiez que vos dossiers de recettes contiennent bien des fichiers <code>recipe.json</code></p>
                 <p><strong>Astuce :</strong> Créez un fichier <code>recipes/index.json</code> avec la liste de vos dossiers :</p>
                 <pre style="background: #f8f9fa; padding: 12px; border-radius: 4px; font-size: 0.9em; margin-top: 12px;">["cattle-ranch-casserole", "slow-cooker-cowboy-casserole"]</pre>
