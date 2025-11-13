@@ -918,8 +918,8 @@ createRecipeHTML(recipe) {
         this.recipesContainer.innerHTML = `
             <div class="no-recipes">
                 <h3>Sorry, no recipes found</h3>
-                <p>Vérifiez que vos dossiers de recettes contiennent bien des fichiers <code>recipe.json</code></p>
-                <p><strong>Astuce :</strong> Créez un fichier <code>recipes/index.json</code> avec la liste de vos dossiers :</p>
+                <p>Please make sure your recipe folders contain <code>recipe.json</code> files.</p>
+                <p><strong>Tip:</strong> Create a <code>recipes/index.json</code> file with the list of your folders:</p>
                 <pre style="background: #f8f9fa; padding: 12px; border-radius: 4px; font-size: 0.9em; margin-top: 12px;">["cattle-ranch-casserole", "slow-cooker-cowboy-casserole"]</pre>
             </div>
         `;
