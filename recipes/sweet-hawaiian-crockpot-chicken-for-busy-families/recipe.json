@@ -1,0 +1,154 @@
+{
+    "id": "recipe_1763051928_602",
+    "slug": "sweet-hawaiian-crockpot-chicken-for-busy-families",
+    "title": "Sweet Hawaiian Crockpot Chicken for Busy Families",
+    "promptIMG": "Sweet Hawaiian Crockpot Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "This Sweet Hawaiian Crockpot Chicken is a tropical delight that brings the family together. With its tender chicken and sweet pineapple blend, it's a dish everyone will love. Try it tonight for an unforgettable meal!",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound chicken breast",
+        "1 cup pineapple chunks",
+        "1/2 cup soy sauce",
+        "1/4 cup brown sugar",
+        "1 tablespoon garlic minced",
+        "1 tablespoon ginger minced"
+    ],
+    "instructions": [
+        "Place chicken breasts in the crockpot.",
+        "Add pineapple chunks, soy sauce, brown sugar, garlic, and ginger.",
+        "Cover and cook on low for 4-6 hours or until chicken is tender.",
+        "Shred the chicken and mix well with the sauce before serving."
+    ],
+    "prep_time": 15,
+    "cook_time": 240,
+    "total_time": 255,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfect results, ensure the chicken is fully submerged in the sauce for even cooking.",
+    "structured_content": [
+        {
+            "content": "<p>This Sweet Hawaiian Crockpot Chicken recipe is a delightful blend of tropical flavors that will transport your taste buds to paradise. The tender chicken, combined with sweet pineapple and savory soy sauce, creates a mouthwatering dish that is both comforting and satisfying.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes of prep</li><li>Deliciously sweet and savory flavors that everyone loves</li><li>Perfect for busy weeknight dinners</li><li>Uses simple ingredients you likely have on hand</li><li>Gluten-free option available with tamari sauce</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made this dish for my family; the aroma filled the house, and everyone gathered around the table, eager to dig in. It's become a staple in our home, especially on hectic days.</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Chicken breast works best for its tenderness and ability to absorb flavors.</li><li><strong>Key seasonings/flavoring agents:</strong> Soy sauce adds depth, while pineapple brings sweetness.</li><li><strong>Supporting ingredients:</strong> Garlic and ginger enhance the overall flavor profile.</li><li><strong>Equipment needed:</strong> A reliable crockpot for even cooking.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "Ingredients preparation for Sweet Hawaiian Crockpot Chicken.",
+                "url": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+                "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Start by placing the chicken breasts in the crockpot. Add the pineapple chunks, soy sauce, brown sugar, minced garlic, and ginger. Stir to combine.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Cover the crockpot and cook on low for 4-6 hours. Check for doneness; the chicken should be tender and easy to shred.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Once cooked, shred the chicken and mix it well with the sauce before serving over rice or with your favorite sides.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "Cooking process of Sweet Hawaiian Crockpot Chicken.",
+                "url": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_2.webp",
+                "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Cook on low for the best flavor infusion.</li><li>Avoid overcooking to keep the chicken moist.</li><li>Look for the chicken to shred easily as a sign it's done.</li><li>Store leftovers in an airtight container in the fridge for up to 3 days.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>This dish has become a family favorite, often requested for gatherings and celebrations. Sharing it with loved ones makes it even more special.</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add a splash of lime juice for a zesty kick or toss in some bell peppers for added crunch and color.</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>Serve over fluffy rice, alongside steamed vegetables, or with a fresh salad for a complete meal.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a gluten-free version, substitute soy sauce with tamari. You can also use tofu for a vegetarian option while maintaining the same delicious flavors.</p>"
+        },
+        {
+            "upload": {
+                "context": "Final plated dish of Sweet Hawaiian Crockpot Chicken.",
+                "url": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_3.webp",
+                "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a meat thermometer to ensure chicken reaches 165°F for safety.</li><li>Marinate chicken in the sauce overnight for deeper flavor.</li><li>Serve with fresh herbs for a pop of color and flavor.</li><li>Garnish with sesame seeds for an elegant touch.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the process of making this dish and the joy it brings to your table. Cooking should be a fun and rewarding experience!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+            "filePath": "recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+            "relativePath": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_2.webp",
+            "filePath": "recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_2.webp",
+            "relativePath": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_3.webp",
+            "filePath": "recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_3.webp",
+            "relativePath": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_4.webp",
+            "filePath": "recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_4.webp",
+            "relativePath": "sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+    "image_path": "recipes/sweet-hawaiian-crockpot-chicken-for-busy-families/images/sweet-hawaiian-crockpot-chicken-for-busy-families_image_1.webp",
+    "image_dir": "sweet-hawaiian-crockpot-chicken-for-busy-families/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-13T17:38:48+01:00",
+    "updatedAt": "2025-11-13T17:38:48+01:00"
+}
