@@ -1517,6 +1517,197 @@ console.log(this.recentRecipes);
         }
     }
 
+
+    // Méthode pour ajouter les meta tags dynamiques pour chaque recette
+addRecipeMetaTags(recipe) {
+    // Supprimer les anciens meta tags dynamiques
+    document.querySelectorAll('meta[data-dynamic="true"]').forEach(meta => meta.remove());
+    document.querySelectorAll('script[data-dynamic="true"]').forEach(script => script.remove());
+
+    const currentUrl = window.location.href;
+    const fullImageUrl = recipe.mainImage.startsWith('http') ? 
+        recipe.mainImage : 
+        `${window.location.origin}/${recipe.mainImage.replace('./', '')}`;
+
+    // Meta Tags de base
+    const metaTags = [
+        // Description
+        { name: 'description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        
+        // Open Graph
+        { property: 'og:title', content: recipe.title },
+        { property: 'og:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { property: 'og:image', content: fullImageUrl },
+        { property: 'og:url', content: currentUrl },
+        { property: 'og:type', content: 'article' },
+        
+        // Twitter Card
+        { name: 'twitter:title', content: recipe.title },
+        { name: 'twitter:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { name: 'twitter:image', content: fullImageUrl },
+        
+        // Pinterest
+        { property: 'pinterest:description', content: recipe.description || `Delicious ${recipe.title} recipe` },
+        { name: 'pinterest', content: 'nopin', attr: recipe.mainImage ? null : 'nopin' }
+    ];
+
+    // Ajouter les meta tags
+    metaTags.forEach(tag => {
+        const meta = document.createElement('meta');
+        meta.setAttribute('data-dynamic', 'true');
+        
+        if (tag.property) {
+            meta.setAttribute('property', tag.property);
+        } else if (tag.name) {
+            meta.setAttribute('name', tag.name);
+        }
+        
+        if (tag.content) {
+            meta.setAttribute('content', tag.content);
+        }
+        
+        document.head.appendChild(meta);
+    });
+
+    // Mettre à jour le canonical URL
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) {
+        canonical = document.createElement('link');
+        canonical.rel = 'canonical';
+        document.head.appendChild(canonical);
+    }
+    canonical.href = currentUrl;
+
+    // Ajouter Schema.org JSON-LD pour Recipe
+    this.addRecipeSchemaLD(recipe, fullImageUrl, currentUrl);
+    this.addBreadcrumbSchema(recipe); 
+}
+
+// Méthode pour ajouter Schema.org Recipe
+addRecipeSchemaLD(recipe, fullImageUrl, currentUrl) {
+    // Supprimer l'ancien script s'il existe
+    const existingScript = document.querySelector('script[type="application/ld+json"][data-recipe="true"]');
+    if (existingScript) {
+        existingScript.remove();
+    }
+
+    const schemaData = {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": recipe.title,
+        "image": [fullImageUrl],
+        "author": {
+            "@type": "Person",
+            "name": this.activeAuthor?.name || "House Chef"
+        },
+        "datePublished": recipe.createdAt || new Date().toISOString(),
+        "description": recipe.description || `Delicious ${recipe.title} recipe`,
+        "prepTime": recipe.prep_time ? `PT${recipe.prep_time}M` : "PT15M",
+        "cookTime": recipe.cook_time ? `PT${recipe.cook_time}M` : "PT30M",
+        "totalTime": recipe.total_time ? `PT${recipe.total_time}M` : `PT${(recipe.prep_time || 15) + (recipe.cook_time || 30)}M`,
+        "recipeYield": recipe.servings || "4 servings",
+        "recipeCategory": recipe.category || "Main Dish",
+        "recipeCuisine": recipe.cuisine || "American",
+        "keywords": this.generateKeywords(recipe),
+        "recipeIngredient": recipe.ingredients || [],
+        "recipeInstructions": (recipe.instructions || []).map((instruction, index) => ({
+            "@type": "HowToStep",
+            "name": `Step ${index + 1}`,
+            "text": instruction,
+            "position": index + 1
+        })),
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": recipe.rating || "4.5",
+            "ratingCount": recipe.ratingCount || "10"
+        },
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "servingSize": recipe.servings || "1 serving"
+        },
+        "url": currentUrl
+    };
+
+    // Ajouter video si disponible
+    if (recipe.video) {
+        schemaData.video = {
+            "@type": "VideoObject",
+            "name": recipe.title,
+            "description": recipe.description,
+            "thumbnailUrl": fullImageUrl,
+            "contentUrl": recipe.video
+        };
+    }
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.setAttribute('data-recipe', 'true');
+    script.setAttribute('data-dynamic', 'true');
+    script.textContent = JSON.stringify(schemaData, null, 2);
+    document.head.appendChild(script);
+}
+
+// Méthode pour générer keywords
+generateKeywords(recipe) {
+    const keywords = [];
+    
+    if (recipe.category) keywords.push(recipe.category);
+    if (recipe.difficulty) keywords.push(recipe.difficulty);
+    if (recipe.type) keywords.push(recipe.type);
+    
+    // Ajouter ingredients principaux
+    if (recipe.ingredients && recipe.ingredients.length > 0) {
+        recipe.ingredients.slice(0, 3).forEach(ingredient => {
+            const mainIngredient = ingredient.split(' ').find(word => word.length > 4);
+            if (mainIngredient) keywords.push(mainIngredient.toLowerCase());
+        });
+    }
+    
+    keywords.push('recipe', 'cooking', 'food');
+    
+    return keywords.join(', ');
+}
+
+
+addBreadcrumbSchema(recipe) {
+    const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": window.location.origin
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Recipes",
+                "item": `${window.location.origin}?page=recipes`
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": recipe.category || "Category",
+                "item": `${window.location.origin}?page=recipes-category&category=${recipe.category_id || ''}`
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "name": recipe.title
+            }
+        ]
+    };
+
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.setAttribute('data-breadcrumb', 'true');
+    script.setAttribute('data-dynamic', 'true');
+    script.textContent = JSON.stringify(breadcrumbSchema, null, 2);
+    document.head.appendChild(script);
+}
+
     // Créer une recette de fallback en cas d'erreur
     createFallbackRecipe(recipeSlug) {
        // // console.log('🆘 Creating fallback recipe for:', recipeSlug);
@@ -1784,7 +1975,7 @@ console.log(this.recentRecipes);
            // console.error('Container not available to display recipe');
             return;
         }
-
+        this.addRecipeMetaTags(recipe);
         // Ajouter les styles Pinterest et RSS
         this.addPinterestStyles();
         this.addRSSStyles();
