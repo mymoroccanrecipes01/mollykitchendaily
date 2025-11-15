@@ -510,7 +510,7 @@ class RecipeLoader {
                     animation: spin 1s linear infinite;
                     margin: 0 auto 10px;
                 "></div>
-                <p>Chargement de plus de recettes...</p>
+                <p>Loading more ...</p>
             </div>
             <style>
                 @keyframes spin {
@@ -975,7 +975,7 @@ class PageLoadWatcher {
             const container = document.getElementById('items');
             const hasContent = container && container.innerHTML && !container.innerHTML.includes('Chargement des recettes');
             
-            if (container && !hasContent) {
+            if (container) {
                 this.initializeRecipeLoader();
             } else if (this.attempts >= this.maxAttempts) {
                 // console.warn('Arrêt de la surveillance après', this.maxAttempts, 'tentatives');
