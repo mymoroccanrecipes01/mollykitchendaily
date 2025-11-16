@@ -1,0 +1,152 @@
+{
+    "id": "recipe_1763313253_724",
+    "slug": "quick-pickled-onions-for-tasty-meals",
+    "title": "Quick Pickled Onions for Tasty Meals",
+    "promptIMG": "Pickled onions, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline": false,
+    "description": "These quick pickled onions add a tangy crunch to any dish! With just a few ingredients, they transform meals into something special. Try them on your next burger or salad!",
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 large red onion, thinly sliced",
+        "1 cup vinegar (white or apple cider)",
+        "1 tablespoon sugar",
+        "1 teaspoon salt",
+        "1 cup water"
+    ],
+    "instructions": [
+        "In a bowl, combine vinegar, sugar, salt, and water; stir until dissolved.",
+        "Add the sliced onions to the mixture, ensuring they are fully submerged.",
+        "Let sit for at least 15 minutes before serving, or refrigerate for up to two weeks."
+    ],
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 3,
+    "difficulty": "easy",
+    "tips": "For the best flavor, let the onions pickle for a few hours before using. Experiment with different vinegars for unique tastes.",
+    "structured_content": [
+        {
+            "content": "<p>These quick pickled onions are a vibrant and tangy addition to your meals. Their bright color and crisp texture elevate everything from burgers to salads, making them a must-have condiment in your kitchen.</p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and easy to make in under 15 minutes</li><li>Brightens up any dish with a tangy crunch</li><li>Perfect for weeknight dinners or entertaining</li><li>Uses simple ingredients you likely have on hand</li><li>Stays fresh in the fridge for up to two weeks</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I remember the first time I made these pickled onions for a summer barbecue. They were a hit, adding a burst of flavor to every bite!</p>"
+        },
+        {
+            "headline": "Gather Your Ingredients"
+        },
+        {
+            "content": "<ul><li><strong>Main ingredient:</strong> Red onions are perfect for pickling due to their mild flavor and vibrant color.</li><li><strong>Key seasonings/flavoring agents:</strong> Vinegar adds acidity, while sugar balances the flavors.</li><li><strong>Supporting ingredients:</strong> Water dilutes the vinegar for a milder taste.</li><li><strong>Equipment needed:</strong> A bowl for mixing and a jar for storage.</li></ul>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the ingredients preparation.",
+                "url": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
+                "fileName": "quick-pickled-onions-for-tasty-meals_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Preparation:</strong></dt><dd>Thinly slice the red onion and set aside.</dd><dt><strong>Cooking/Baking Process:</strong></dt><dd>Mix vinegar, sugar, salt, and water in a bowl until dissolved, then add onions.</dd><dt><strong>Finishing Touches:</strong></dt><dd>Let sit for at least 15 minutes before serving.</dd></dl>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the cooking process.",
+                "url": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_2.webp",
+                "fileName": "quick-pickled-onions-for-tasty-meals_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "You Must Know",
+                "content": "<ul><li>Letting the onions sit longer enhances their flavor.</li><li>Avoid over-salting the mixture, as it can overpower the taste.</li><li>Onions are ready when they turn a vibrant pink color.</li><li>Store in the fridge for up to two weeks.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing these pickled onions with friends at gatherings has become a cherished tradition. They always spark joy and compliments!</p>"
+        },
+        {
+            "headline": "Flavor Boosters"
+        },
+        {
+            "content": "<p>Add spices like peppercorns or garlic for an extra kick. Experiment with different vinegars for unique flavors!</p>"
+        },
+        {
+            "headline": "Serving Suggestions"
+        },
+        {
+            "content": "<p>These pickled onions pair wonderfully with tacos, sandwiches, or as a topping on grilled meats.</p>"
+        },
+        {
+            "headline": "Creative Variations"
+        },
+        {
+            "content": "<p>For a spicy twist, add sliced jalapeños to the pickling mixture. For a sweeter version, increase the sugar.</p>"
+        },
+        {
+            "upload": {
+                "context": "A short description for the alt image of the final plated dish or variation.",
+                "url": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_3.webp",
+                "fileName": "quick-pickled-onions-for-tasty-meals_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Tips",
+                "content": "<ul><li>Use a mandoline for perfectly thin onion slices.</li><li>Let the mixture cool before adding onions for a milder flavor.</li><li>Store in a glass jar for best preservation.</li><li>Garnish with fresh herbs for an impressive look.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Enjoy the satisfaction of making these quick pickled onions at home. They’re sure to impress your family and friends!</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "quick-pickled-onions-for-tasty-meals_image_1.webp",
+            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "quick-pickled-onions-for-tasty-meals_image_2.webp",
+            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_2.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "quick-pickled-onions-for-tasty-meals_image_3.webp",
+            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_3.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "quick-pickled-onions-for-tasty-meals_image_4.webp",
+            "filePath": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_4.webp",
+            "relativePath": "quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "quick-pickled-onions-for-tasty-meals_image_1.webp",
+    "image_path": "recipes/quick-pickled-onions-for-tasty-meals/images/quick-pickled-onions-for-tasty-meals_image_1.webp",
+    "image_dir": "quick-pickled-onions-for-tasty-meals/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-16T18:14:13+01:00",
+    "updatedAt": "2025-11-16T18:14:13+01:00"
+}
