@@ -1,0 +1,159 @@
+{
+    "id": "recipe_1764113146_567",
+    "slug": "creamy-restaurant-style-mushroom-soup-30-minute-recipe",
+    "title": "Creamy Restaurant-Style Mushroom Soup (30-Minute Recipe)",
+    "promptIMG": "Professional food photography prompt: \"Creamy mushroom soup, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "Indulge in this creamy mushroom soup ready in just 30 minutes! Rich, savory flavors make it a comforting favorite. Perfect for cozy dinners!",
+    "category_id": "cat_1761230166_734",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound fresh mushrooms, sliced",
+        "1 medium onion, diced",
+        "2 cloves garlic, minced",
+        "4 cups vegetable broth",
+        "1 cup heavy cream",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+    ],
+    "instructions": [
+        "In a large pot, heat the olive oil over medium heat. Add the diced onion and sauté for 3-4 minutes until translucent.",
+        "Add the minced garlic and sliced mushrooms to the pot. Cook for 5-7 minutes, stirring occasionally, until the mushrooms are golden brown and have released their moisture.",
+        "Pour in the vegetable broth and add the dried thyme. Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+        "Using an immersion blender, blend the soup until smooth. Alternatively, transfer to a blender in batches. Return to the pot.",
+        "Stir in the heavy cream and season with salt and pepper. Heat through for another 5 minutes, ensuring not to boil.",
+        "Serve hot, garnished with fresh parsley."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "Easy",
+    "tips": "To achieve the best flavor, use a variety of mushrooms such as cremini, shiitake, and button mushrooms. This blend adds depth to the soup. Avoid overcooking the mushrooms initially, as they should retain some texture. For storage, keep the soup in an airtight container in the fridge for up to 3 days. Reheat gently on the stove to maintain creaminess. If you want a thicker soup, blend more of the mixture. For a lighter version, substitute heavy cream with coconut milk or a non-dairy alternative.",
+    "structured_content": [
+        {
+            "content": "<p>Enjoy a bowl of creamy restaurant-style mushroom soup that warms the soul! This dish is rich and savory, with tender mushrooms and a silky texture that makes it irresistible. Perfect for chilly evenings or as a starter for a special dinner, this soup is sure to impress your family and friends. With just a few simple ingredients, you can create a comforting meal that feels gourmet.<\/p>"
+        },
+        {
+            "note": {
+                "label": "Why You'll Love This Recipe",
+                "content": "<ul><li>Quick and ready in 30 minutes or less - perfect for busy weeknights.<\/li><li>Restaurant-quality flavors achieved at home with simple techniques.<\/li><li>Perfect for cozy dinners or entertaining guests.<\/li><li>Uses simple ingredients you likely have in your pantry.<\/li><li>Kid-approved and a great way to sneak in veggies.<\/li><li>Versatile enough to customize with your favorite herbs and spices.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>This creamy mushroom soup holds a special place in my heart. I remember the first time I made it for my family; the aroma filled the kitchen, and everyone gathered around the table, eager to taste. It quickly became a favorite, especially on cold winter nights. The best part? It’s so easy to whip up, making it a go-to recipe for gatherings. I love how it brings everyone together, sharing stories and laughter over a warm bowl of soup.<\/p>"
+        },
+        {
+            "headline": "Essential Ingredients & Smart Substitutions"
+        },
+        {
+            "content": "<p>When making this creamy mushroom soup, the main ingredient is, of course, mushrooms. Choose fresh, firm mushrooms for the best flavor and texture. Look for varieties like cremini or shiitake for a deeper taste. Key seasonings include garlic and thyme, which enhance the umami flavor of the mushrooms. Supporting ingredients like heavy cream add richness, while vegetable broth provides a savory base. For dietary needs, you can substitute heavy cream with coconut milk for a dairy-free option or use a gluten-free broth. Essential tools include a sharp knife for slicing mushrooms and an immersion blender for a smooth finish.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Fresh mushrooms, onion, garlic, and cream arranged on a wooden cutting board, ready for creamy mushroom soup preparation.",
+                "url": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+                "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "Step-by-Step Cooking Instructions"
+        },
+        {
+            "content": "<p>Before cooking, gather all your ingredients and chop the vegetables. This mise en place will streamline your cooking process. Preheat your pot over medium heat to ensure even cooking. The cooking process involves sautéing the onions and mushrooms until golden, then simmering in broth to develop flavors. Watch for bubbling as a sign of readiness. For finishing touches, blend the soup until smooth and stir in the cream for a luxurious texture. Serve hot, garnished with parsley for a pop of color.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "Stirring creamy mushroom soup in a large pot on the stovetop, with steam rising and mushrooms visible.",
+                "url": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_2.webp",
+                "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_2.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Critical Tips You Must Know",
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Maintain medium heat while sautéing to avoid burning the garlic and onions, which can create bitterness.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t overcrowd the pot when cooking mushrooms; this can cause them to steam instead of brown.<\/li><li><strong>Perfect doneness indicator:<\/strong> The soup should be bubbling gently when ready to blend; this indicates the flavors have melded.<\/li><li><strong>Storage & reheating:<\/strong> Store in an airtight container for up to 3 days. Reheat on the stove over low heat to maintain creaminess.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Sharing this creamy mushroom soup with loved ones is always a joy. I remember serving it at a family gathering, and the compliments kept coming! Everyone enjoyed the rich flavors and creamy texture, and it sparked conversations about favorite recipes. There’s something special about gathering around the table, sharing a delicious meal, and creating memories together. This soup has become a staple in our home, and I hope it brings as much joy to your table as it does to mine.<\/p>"
+        },
+        {
+            "headline": "Flavor Boosters & Customization Ideas"
+        },
+        {
+            "content": "<p>To elevate your creamy mushroom soup, consider adding fresh herbs like thyme, rosemary, or parsley. Thyme enhances the earthy flavors, while rosemary adds a fragrant touch. For a kick, try incorporating a pinch of red pepper flakes or smoked paprika. You can also upgrade the dish by adding crispy bacon or sautéed leeks for additional depth. If you want to change the cooking technique, try roasting the mushrooms for a more intense flavor or adding a splash of white wine for acidity.<\/p>"
+        },
+        {
+            "headline": "Perfect Pairings & Serving Suggestions"
+        },
+        {
+            "content": "<p>For a complete meal, serve this creamy mushroom soup with crusty bread or a fresh green salad. A light arugula salad with lemon vinaigrette pairs beautifully, balancing the richness of the soup. For beverages, consider a crisp white wine like Sauvignon Blanc or a light beer. This soup is perfect for casual dinners, date nights, or even holiday gatherings. For presentation, drizzle a bit of cream on top and sprinkle with fresh parsley to make it visually appealing. Serve hot for the best experience, and it’s just as delightful as leftovers!<\/p>"
+        },
+        {
+            "headline": "Creative Variations to Try"
+        },
+        {
+            "content": "<p>If you're looking to adapt this recipe, try making it gluten-free by ensuring your broth is certified gluten-free. For a vegan version, substitute the heavy cream with cashew cream or coconut milk, and use vegetable broth. To spice things up, consider adding a dash of curry powder for an exotic twist. You can also swap out the mushrooms for other vegetables like cauliflower or zucchini, adjusting the cooking time as needed. These variations keep the spirit of the original while offering exciting new flavors.<\/p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated bowl of creamy mushroom soup garnished with parsley and served with crusty bread on a rustic table.",
+                "url": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_3.webp",
+                "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_3.webp",
+                "type": "main"
+            }
+        },
+        {
+            "note": {
+                "label": "Pro Chef Secrets",
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Sauté mushrooms in batches to achieve a perfect golden brown without steaming.<\/li><li><strong>Ingredient prep secret:<\/strong> Allow mushrooms to sit after slicing to enhance their flavor before cooking.<\/li><li><strong>Timing strategy:<\/strong> Prep ingredients ahead of time to streamline the cooking process and reduce stress.<\/li><li><strong>Presentation hack:<\/strong> Use a swirl of cream on top and a sprinkle of herbs for an elegant finish.<\/li><\/ul>"
+            }
+        },
+        {
+            "content": "<p>Making this creamy restaurant-style mushroom soup is a rewarding experience that anyone can achieve! With its rich flavors and comforting texture, it's bound to become a favorite in your home. Don't be afraid to experiment with flavors and make it your own. I encourage you to try this recipe, and I’d love to hear your thoughts! Share your experience in the comments or post your photos on social media with #MushroomSoupDelight. Enjoy your cooking adventure!<\/p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+            "filePath": "recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+            "relativePath": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_2.webp",
+            "filePath": "recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_2.webp",
+            "relativePath": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_3.webp",
+            "filePath": "recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_3.webp",
+            "relativePath": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_mollykitchendaily-main_image_4.webp",
+            "relativePath": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+    "image_path": "recipes\/creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images\/creamy-restaurant-style-mushroom-soup-30-minute-recipe_image_1.webp",
+    "image_dir": "creamy-restaurant-style-mushroom-soup-30-minute-recipe\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-26T00:34:55+01:00",
+    "updatedAt": "2025-11-26T00:34:55+01:00"
+}
