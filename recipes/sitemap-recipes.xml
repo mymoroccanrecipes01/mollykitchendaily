@@ -757,6 +757,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-deviled-eggs-recipe-perfect-appetizer</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-family-chicken-enchiladas-for-dinner</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -789,6 +795,12 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-homemade-apple-crisp</loc>
     <lastmod>2025-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;easy-homemade-deviled-eggs-recipe</loc>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1755,6 +1767,18 @@
   <url>
     <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;spicy-steak-chili</loc>
     <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;spooky-deviled-eggs-for-halloween</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.mollykitchendaily.com/base.html?page=recipe-detail&amp;spooky-deviled-eggs-for-halloween-parties</loc>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
