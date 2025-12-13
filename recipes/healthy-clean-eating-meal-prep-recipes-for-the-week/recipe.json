@@ -1,126 +1,127 @@
 {
-    "id": "recipe_1765646244_856",
-    "slug": "healthy-clean-eating-meal-prep-recipes-for-the-week",
-    "title": "Healthy Clean Eating Meal Prep Recipes for the Week",
-    "promptIMG": "Professional food photography prompt: \"Healthy meal prep containers filled with colorful vegetables, lean proteins, and grains, professionally arranged on a wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#cleaneating #mealprep #healthyrecipes #quickmeals #easyrecipes",
+    "title": "Healthy Meal Prep Recipes for Busy Weekdays",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"healthy meal prep bowls filled with colorful veggies, lean proteins, and grains, beautifully arranged on a wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": false,
-    "description": "Transform your week with these healthy clean eating meal prep recipes! Packed with vibrant veggies, lean proteins, and wholesome grains, these meals are perfect for busy lifestyles. Enjoy nutritious lunches and dinners that keep you energized. Pin this collection for a week of deliciousness!",
-    "category_id": "cat_1761230636_499",
-    "author_id": "author_001",
+    "description": "Ready to transform your week? These meal prep recipes are loaded with vibrant veggies, lean proteins, and wholesome grains. Great for busy lifestyles, they keep you energized and satisfied. Perfect for lunches or dinners, you won't want to miss this! Save this collection for your next meal prep day!",
+    "hashtags": "#mealprep #healthyrecipes #quickmeals #cleaneating #lunchideas",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
     "ingredients": [
-        "1 cup quinoa, rinsed",
-        "2 cups water",
-        "2 chicken breasts, grilled and sliced",
-        "1 cup broccoli florets, steamed",
-        "1 cup bell peppers, diced",
-        "1 cup cherry tomatoes, halved",
-        "1 avocado, sliced",
+        "2 cups quinoa, rinsed",
+        "1 pound chicken breast, diced",
+        "1 bell pepper, chopped",
+        "1 zucchini, sliced",
+        "1 cup broccoli florets",
         "1 tablespoon olive oil",
-        "Salt and pepper to taste",
         "1 teaspoon garlic powder",
-        "1 teaspoon paprika"
+        "Salt and pepper to taste",
+        "1 teaspoon paprika",
+        "1 lemon, juiced"
     ],
     "instructions": [
-        "In a medium saucepan, bring 2 cups of water to a boil. Add 1 cup of rinsed quinoa, reduce heat to low, cover, and simmer for 15 minutes until water is absorbed.",
-        "While quinoa is cooking, grill the chicken breasts until fully cooked, about 6-7 minutes per side. Slice and set aside.",
-        "Steam the broccoli florets until bright green and tender, about 5 minutes.",
-        "In meal prep containers, divide the cooked quinoa evenly. Top with sliced chicken, steamed broccoli, diced bell peppers, halved cherry tomatoes, and avocado slices.",
-        "Drizzle with olive oil and season with salt, pepper, garlic powder, and paprika. Seal containers and refrigerate.",
-        "Enjoy your healthy meals throughout the week!"
+        "Start by cooking the quinoa. In a saucepan, combine 2 cups of water and the quinoa. Bring to a boil, then reduce heat and simmer for about 15 minutes until fluffy.",
+        "While the quinoa cooks, heat olive oil in a large skillet over medium heat. Add the diced chicken, seasoning it with garlic powder, paprika, salt, and pepper. Cook for about 7-10 minutes until golden and fully cooked.",
+        "Next, toss in the chopped bell pepper, zucchini, and broccoli. Stir-fry for another 5-7 minutes until the veggies are tender but still vibrant.",
+        "Once everything is cooked, combine the quinoa with the chicken and veggies in the skillet. Squeeze fresh lemon juice over the mixture and stir well to combine all the flavors.",
+        "Divide the meal into four meal prep containers. Let cool before sealing and refrigerating. These will keep well for up to four days.",
+        "When ready to eat, simply reheat in the microwave for about 2-3 minutes until warmed through."
     ],
-    "prep_time": 30,
-    "cook_time": 120,
-    "total_time": 150,
-    "servings": 4,
-    "difficulty": "Easy",
-    "tips": "To achieve perfect quinoa, always rinse it before cooking to remove bitterness. For maximum flavor, marinate the chicken in olive oil, garlic, and herbs before grilling. Avoid overcooking the broccoli; it should be tender yet crisp. Store meal prep containers in the fridge for up to 4 days. When reheating, add a splash of water to keep the quinoa moist.",
+    "tips": "Here are some tips to make your meal prep even smoother: \n\n1. **Batch Cooking:** Cook a larger quantity of quinoa or chicken to use in different meals throughout the week. This saves time and effort. \n2. **Storage Containers:** Invest in good quality meal prep containers. I love using glass ones because they keep food fresh and are microwave-safe. \n3. **Flavor Variations:** Don't hesitate to switch up the veggies based on what's in season or on sale. I often use asparagus or spinach! \n4. **Spice It Up:** If you like a kick, add some chili flakes or hot sauce when cooking the chicken. It adds a nice zing! \n5. **Freezing Tips:** If you want to prep for longer, these meals freeze well. Just make sure to let them cool completely before freezing to avoid ice crystals.",
+    "category_id": "cat_1761230636_499",
+    "image_keywords": [
+        "appetizing",
+        "healthy",
+        "meal prep",
+        "colorful",
+        "nutritious"
+    ],
     "structured_content": [
         {
-            "content": "<p>Meal prepping is a game-changer for maintaining a healthy lifestyle! This clean eating meal prep recipe is not only nutritious but also incredibly easy to prepare. Imagine opening your fridge to find colorful containers filled with vibrant veggies, lean proteins, and wholesome grains, ready to fuel your day. Perfect for busy individuals, these meals save time and ensure you stay on track with your health goals. Whether you're looking to lose weight, gain muscle, or simply eat better, this meal prep will make your week deliciously satisfying!</p>"
+            "content": "<p>So I've made this meal prep recipe a few times, and honestly, it’s a lifesaver! The vibrant colors of the veggies and the juicy chicken make it so appealing. Plus, it’s super easy to throw together. You get a balanced meal that’s not only good for you but also keeps you feeling full and satisfied throughout the day. Seriously, you’ll want to keep this in your weekly rotation!</p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 2 hours or less - perfect for busy lifestyles</li><li>Restaurant-quality flavors achieved at home with simple techniques</li><li>Perfect for meal prep, family dinners, or healthy lunches</li><li>Uses simple ingredients you likely have in your pantry</li><li>Budget-friendly and customizable to your taste</li><li>Great for portion control and maintaining a balanced diet</li></ul>"
+                "content": "<ul><li>30 minutes from start to finish. That's it!</li><li>Loaded with nutrients to keep you energized.</li><li>My kids actually ask for seconds (no joke!).</li><li>You probably have most ingredients at home.</li><li>Leftovers taste even better the next day!</li><li>Great for meal prep - just grab and go!</li></ul>"
             }
         },
         {
-            "content": "<p>This clean eating meal prep recipe holds a special place in my heart. I discovered it during a busy week when I needed healthy meals on the go. Preparing these colorful containers became a fun Sunday ritual, and I loved sharing them with my family. The joy of opening the fridge and seeing a week’s worth of nutritious meals ready to go is unmatched. It’s not just about eating healthy; it’s about enjoying the process and feeling accomplished!</p>"
+            "content": "<p>I remember the first time I tried meal prepping. I was overwhelmed, but then I discovered this recipe. It became my go-to! I love how I can mix and match ingredients based on what I have. Plus, it saves me so much time during the week. Now, I can just grab a container and head out the door. It’s like having a home-cooked meal ready whenever I need it!</p>"
+        },
+        {
+            "content": "<p>My first attempt at meal prepping? Total disaster. I forgot to season the chicken and it turned out bland. Now I know that seasoning is key - it makes all the difference. Trust me, don’t skip that step!</p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>Here’s a detailed guide about the ingredients:</p><ul><li><strong>Quinoa:</strong> This protein-packed grain is a fantastic base for meal prep. Look for organic, non-GMO varieties for the best quality. Rinse it thoroughly to remove any bitterness.</li><li><strong>Chicken:</strong> Opt for free-range or organic chicken breasts for superior flavor and quality. Grilling adds a smoky taste that enhances the dish.</li><li><strong>Vegetables:</strong> Fresh, seasonal vegetables like broccoli and bell peppers provide essential nutrients and vibrant colors. Steam them lightly to retain their crunch.</li><li><strong>Smart substitutions:</strong> For a vegan option, replace chicken with chickpeas or tofu. For gluten-free, ensure the quinoa is certified gluten-free.</li><li><strong>Equipment needed:</strong> A medium saucepan for cooking quinoa, a grill or skillet for chicken, and meal prep containers for storage.</li></ul>"
+            "content": "<p><ul><li><strong>Main ingredient (protein/base):</strong> Chicken breast is lean and cooks quickly, making it ideal for meal prep. Look for organic or free-range options for better flavor and quality.</li><li><strong>Key seasonings/aromatics:</strong> Garlic powder and paprika add depth to the chicken. I often use smoked paprika for a unique twist.</li><li><strong>Supporting ingredients:</strong> Quinoa serves as a great base, providing protein and fiber. Rinse it well before cooking to remove any bitterness.</li><li><strong>Smart substitutions:</strong> You can swap chicken for turkey or tofu for a vegetarian option. Both work well with the same seasonings.</li><li><strong>Equipment needed:</strong> A good skillet is essential for even cooking. I use my trusty non-stick pan for easy cleanup.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for clean eating meal prep, including quinoa, chicken, and colorful vegetables arranged on a kitchen counter.",
-                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp",
-                "fileName": "healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp",
-                "type": "main"
+                "context": "Fresh ingredients including quinoa, chicken, and vibrant veggies arranged on a wooden cutting board for meal prep.",
+                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before diving into cooking, let’s prepare:</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Start by rinsing the quinoa under cold water. Measure out all ingredients and chop vegetables. Preheat your grill or skillet for the chicken. This organization will save you time!</dd><dt><strong>Cooking process:</strong></dt><dd>Cook the quinoa according to package instructions, usually about 15 minutes. Grill the chicken until it reaches an internal temperature of 165°F, about 12-14 minutes total.</dd><dt><strong>Finishing touches:</strong></dt><dd>Once everything is cooked, assemble your meal prep containers. Layer the ingredients beautifully for an appetizing presentation. Drizzle with olive oil and season before sealing.</dd></dl>"
+            "content": "<p><dl><dt><strong>Preparation phase:</strong></dt><dd>Start by rinsing the quinoa under cold water. Measure out 2 cups of water for cooking. While that’s happening, chop your veggies and dice the chicken. This should take about 10 minutes. You can even prep these the night before!</dd><dt><strong>Cooking process:</strong></dt><dd>Once your quinoa is simmering, heat your skillet over medium heat. Add olive oil and then the chicken. Cook until it’s golden brown, about 7-10 minutes. Then, toss in your veggies and stir-fry until they’re just tender.</dd><dt><strong>Finishing touches:</strong></dt><dd>Combine everything in the skillet, squeeze some lemon juice, and mix well. Divide into containers and let cool before sealing. This makes for easy grab-and-go meals!</dd></dl></p>"
         },
         {
             "upload": {
-                "context": "Grilling chicken breasts on a hot grill, with visible grill marks and juicy texture.",
-                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_2.webp",
-                "fileName": "healthy-clean-eating-meal-prep-recipes-for-the-week_image_2.webp",
-                "type": "main"
+                "context": "Cooking chicken and veggies in a skillet on the stovetop, vibrant colors popping as they sauté together.",
+                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Ensure your chicken reaches an internal temperature of 165°F for safety and optimal juiciness.</li><li><strong>Common mistake to avoid:</strong> Overcooking the quinoa can make it mushy. Keep an eye on it and fluff with a fork once done.</li><li><strong>Perfect doneness indicator:</strong> Chicken should be golden brown with juices running clear when cut.</li><li><strong>Storage & reheating:</strong> Use airtight containers for storage. Quinoa and chicken can be reheated in the microwave for 1-2 minutes, adding a splash of water to keep it moist.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:</strong> Keep the skillet at medium heat. Too high and the chicken will burn before cooking through. Use a meat thermometer to ensure it reaches 165°F.</li><li><strong>Common mistake to avoid:</strong> Not seasoning enough. It’s easy to forget, but seasoning is what brings the dish to life. Always taste as you go!</li><li><strong>Perfect doneness indicator:</strong> Look for golden brown edges on the chicken and vibrant colors in the veggies. They should be tender but still crisp.</li><li><strong>Storage & reheating:</strong> Use airtight containers for storage. Reheat in the microwave for 2-3 minutes, or until heated through. Enjoy within four days for best quality.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing these meal prep containers with friends and family brings me so much joy! Watching them enjoy the healthy meals I prepared is incredibly rewarding. The compliments and requests for the recipe make all the effort worthwhile. It’s a wonderful feeling to gather around the table, sharing delicious food and laughter. Cooking is not just about nourishment; it’s about creating memories and connections with loved ones.</p>"
+            "content": "<p>Sharing this meal prep with friends is always a hit! I love seeing their faces light up when they taste it. The combination of flavors and textures makes it a crowd favorite. Plus, it’s so easy to customize based on what everyone likes. It’s become a staple at our gatherings, and I can’t wait for you to try it!</p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Here are some ways to enhance and customize your meal prep:</p><ul><li>Add fresh herbs like cilantro or parsley for a burst of flavor. Chop and sprinkle them just before serving.</li><li>Incorporate spices like cumin or chili powder for a warm, earthy flavor. Use about 1 teaspoon to start.</li><li>Upgrade with premium ingredients like feta cheese or avocado oil for richer taste.</li><li>Try roasting vegetables instead of steaming for a deeper flavor profile.</li></ul><p>Feel free to mix and match these suggestions to suit your taste!</p>"
+            "content": "<p><ul><li><strong>Herbs:</strong> Fresh parsley adds a pop of color and freshness. Toss it in just before serving for a bright finish.</li><li><strong>Spices:</strong> Cumin gives a warm, earthy flavor. Use about 1 teaspoon for a subtle kick.</li><li><strong>Upgrades:</strong> Consider adding avocado for creaminess or feta cheese for a tangy twist. Both enhance the dish beautifully.</li><li><strong>Technique variations:</strong> Try grilling the chicken for a smoky flavor or roasting the veggies for added sweetness. Each method brings something unique!</li></ul></p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To complement your clean eating meal prep, consider these serving suggestions:</p><ul><li><strong>Side dishes:</strong> Pair with a light salad or roasted sweet potatoes for added nutrients and flavor.</li><li><strong>Beverage pairings:</strong> Enjoy with herbal tea or sparkling water with lemon for a refreshing drink.</li><li><strong>Bread options:</strong> Serve with whole grain pita or brown rice for extra fiber.</li><li><strong>Occasion ideas:</strong> Perfect for busy weeknights, meal prep Sundays, or healthy lunchboxes.</li><li><strong>Presentation tips:</strong> Garnish with fresh herbs or a drizzle of balsamic glaze for an appealing look.</li><li><strong>Temperature serving note:</strong> Serve warm or at room temperature; great for leftovers!</li></ul>"
+            "content": "<p><ul><li><strong>Side dishes:</strong> A simple green salad pairs well, adding crunch and freshness. You could also serve with roasted sweet potatoes for a hearty option.</li><li><strong>Beverage pairings:</strong> A refreshing iced tea or sparkling water with lemon complements the meal nicely.</li><li><strong>Bread/starch options:</strong> Whole grain bread or pita can be great for scooping up the chicken and veggies.</li><li><strong>Occasion ideas:</strong> This dish shines at meal prep Sundays or as a quick lunch option during busy workweeks.</li><li><strong>Presentation tips:</strong> Layer the quinoa, chicken, and veggies in clear containers for a visually appealing meal prep display.</li><li><strong>Temperature serving note:</strong> Serve warm for the best flavor, but it’s also delicious cold!</li></ul></p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations to keep your meal prep fresh:</p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):</strong> Use brown rice or cauliflower rice instead of quinoa for a gluten-free option.</li><li><strong>Dietary adaptation 2 (Vegan):</strong> Substitute chicken with chickpeas or lentils for a plant-based protein source.</li><li><strong>Flavor variation (Mediterranean):</strong> Add olives and feta cheese for a Mediterranean twist that’s bursting with flavor.</li><li><strong>Protein swap:</strong> Use salmon instead of chicken for a rich, omega-3 packed meal.</li></ul><p>These variations can help you enjoy this recipe in new ways!</p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> This recipe is naturally gluten-free! Just ensure your quinoa is certified gluten-free if needed.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Swap chicken for chickpeas or tempeh for a hearty plant-based option. Both soak up flavors beautifully.</li><li><strong>Flavor variation (e.g., Spicy, Mediterranean):</strong> Add some red pepper flakes for heat, or toss in olives and feta for a Mediterranean twist.</li><li><strong>Protein/ingredient swap:</strong> Use shrimp instead of chicken for a quick-cooking protein that pairs well with the veggies.</li></ul></p>"
         },
         {
             "upload": {
-                "context": "Beautifully plated meal prep containers filled with quinoa, grilled chicken, and colorful vegetables, ready to serve.",
-                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_3.webp",
-                "fileName": "healthy-clean-eating-meal-prep-recipes-for-the-week_image_3.webp",
-                "type": "main"
+                "context": "Colorful meal prep containers filled with quinoa, chicken, and vibrant veggies, ready for the week ahead.",
+                "url": "healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> Marinating chicken in olive oil and spices before grilling enhances flavor and tenderness.</li><li><strong>Ingredient prep secret:</strong> Let quinoa rest after cooking to absorb moisture and fluff up perfectly.</li><li><strong>Timing strategy:</strong> Prep vegetables while quinoa cooks to maximize efficiency.</li><li><strong>Presentation hack:</strong> Use clear containers to showcase the colorful layers of your meal prep.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:</strong> Searing the chicken at a higher temperature first locks in moisture. Just be careful not to overcrowd the pan!</li><li><strong>Ingredient prep secret:</strong> Marinate the chicken in lemon juice and spices for at least 30 minutes before cooking for extra flavor.</li><li><strong>Timing strategy:</strong> Cook quinoa while prepping the chicken and veggies. This saves time and keeps everything moving smoothly.</li><li><strong>Presentation hack:</strong> Use a ring mold to stack the quinoa and veggies for a restaurant-style presentation.</li></ul>"
             }
         },
         {
-            "content": "<p>These healthy clean eating meal prep recipes are not just meals; they’re a lifestyle choice! With simple ingredients and easy preparation, you can enjoy nutritious meals that keep you energized throughout the week. Embrace the satisfaction of mastering meal prep and watch how it transforms your eating habits. I invite you to try this recipe, share your experience in the comments, and don’t forget to post your beautiful meal prep photos on social media with the hashtag #cleaneating. Enjoy your journey to healthier eating!</p>"
+            "content": "<p>Honestly, you’re gonna love how easy this meal prep is! It’s a great way to stay on track with healthy eating without sacrificing flavor. Plus, you can make it your own with different ingredients and spices. I’d love to hear how yours turns out, so feel free to share your experiences in the comments or tag me on social media. Happy cooking!</p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp",
@@ -152,11 +153,13 @@
             "type": "template"
         }
     ],
+    "slug": "healthy-clean-eating-meal-prep-recipes-for-the-week",
+    "id": "recipe_1765646244_856",
     "image": "healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp",
     "image_path": "recipes/healthy-clean-eating-meal-prep-recipes-for-the-week/images/healthy-clean-eating-meal-prep-recipes-for-the-week_image_1.webp",
     "image_dir": "healthy-clean-eating-meal-prep-recipes-for-the-week/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-12-13T18:17:24+01:00",
-    "updatedAt": "2025-12-13T18:17:24+01:00"
+    "updatedAt": "2025-12-13T21:52:29+01:00"
 }
