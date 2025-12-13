@@ -1,126 +1,127 @@
 {
-    "id": "recipe_1765061785_156",
-    "slug": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food",
-    "title": "Creamy Tini's Macaroni and Cheese (Easy Comfort Food!)",
-    "promptIMG": "Professional food photography prompt: \"Tini's Macaroni and Cheese, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#tinismacaroniandcheese #comfortfood #easydinner #vegetarian #cheesylovers",
+    "title": "Creamy Macaroni and Cheese That Everyone Will Love",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Creamy macaroni and cheese, beautifully plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Indulge in the creamy goodness of Tini's Macaroni and Cheese, a dish that promises cheesy bliss in every bite! Made with a rich cheese sauce and perfectly cooked pasta, it's perfect for weeknight dinners or special gatherings. Save this viral recipe for your next meal!",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "description": "Creamy macaroni and cheese ready in just 30 minutes! Loaded with rich cheese sauce and perfectly cooked pasta. Great for family dinners or cozy nights in. Try this recipe and make it a staple in your home!",
+    "hashtags": "#macaroniandcheese #comfortfood #easyrecipes #quickdinner #cheesylove",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
     "ingredients": [
-        "1 pound elbow macaroni",
-        "4 tablespoons unsalted butter",
-        "1\/4 cup all-purpose flour",
-        "4 cups whole milk",
+        "8 ounces elbow macaroni",
         "2 cups shredded sharp cheddar cheese",
-        "1 cup shredded mozzarella cheese",
-        "1 teaspoon garlic powder",
-        "1 teaspoon onion powder",
+        "1 cup milk (whole or 2% works best)",
+        "2 tablespoons unsalted butter",
+        "2 tablespoons all-purpose flour",
+        "1\/2 teaspoon garlic powder",
+        "1\/2 teaspoon onion powder",
         "Salt and pepper to taste",
-        "1\/2 cup breadcrumbs (optional for topping)"
+        "1\/4 cup breadcrumbs (optional for topping)"
     ],
     "instructions": [
-        "Preheat your oven to 350°F (175°C).",
-        "Cook the elbow macaroni according to package instructions until al dente, then drain and set aside.",
-        "In a large saucepan, melt the butter over medium heat. Stir in the flour and cook for about 1 minute until bubbly.",
-        "Gradually whisk in the milk, stirring constantly until the mixture thickens, about 5-7 minutes.",
-        "Remove from heat and stir in the cheddar cheese, mozzarella cheese, garlic powder, onion powder, salt, and pepper until smooth.",
-        "Combine the cheese sauce with the cooked macaroni, mixing well. Pour into a greased baking dish and top with breadcrumbs if desired.",
-        "Bake for 25-30 minutes until bubbly and golden brown on top."
+        "Start by boiling a large pot of salted water. Add the elbow macaroni and cook according to package instructions until al dente. Drain and set aside.",
+        "In the same pot, melt the butter over medium heat. Once melted, whisk in the flour and cook for about 1 minute until bubbly.",
+        "Gradually pour in the milk while whisking continuously to prevent lumps. Keep stirring until the mixture thickens, about 3-5 minutes.",
+        "Add the shredded cheddar cheese, garlic powder, onion powder, salt, and pepper. Stir until the cheese melts and the sauce is smooth.",
+        "Combine the cooked macaroni with the cheese sauce, mixing well to coat every piece. If you like a crispy topping, transfer to a baking dish, sprinkle breadcrumbs on top, and broil for 2-3 minutes until golden.",
+        "Serve hot and enjoy your creamy macaroni and cheese!"
     ],
-    "prep_time": 15,
-    "cook_time": 45,
-    "total_time": 60,
-    "servings": 8,
-    "difficulty": "Easy",
-    "tips": "For perfect results, ensure your cheese is freshly shredded for better melting. Avoid overcooking the pasta to prevent mushiness. If making ahead, store the mac and cheese in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) until warmed through. For a flavor boost, try adding cooked bacon or sautéed vegetables. Always taste and adjust seasoning before baking to ensure maximum flavor.",
+    "tips": "Here are some tips to make your macaroni and cheese even better: \n\n1. Use high-quality cheese like Tillamook for a richer flavor. The better the cheese, the better the dish! \n2. If you want to add some extra flavor, try mixing in cooked bacon or sautéed vegetables. My kids love it with broccoli! \n3. Be careful not to overcook the pasta; it should be al dente since it will continue to cook in the cheese sauce. \n4. If you have leftovers, store them in an airtight container in the fridge for up to 3 days. Reheat gently on the stovetop with a splash of milk to bring back the creaminess. \n5. My secret? A pinch of cayenne pepper adds a nice kick without being too spicy. Trust me, it’s a game changer!",
+    "category_id": "cat_1761230594_885",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "creamy",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>Experience the ultimate comfort food with Tini's Macaroni and Cheese! This creamy, cheesy delight is perfect for cheese lovers and is sure to satisfy your cravings. With its velvety cheese sauce enveloping perfectly cooked pasta, every bite is a taste of bliss. Whether you're serving it as a side dish or the star of the meal, this recipe is a crowd-pleaser that will have everyone coming back for seconds. Ideal for busy weeknights or special occasions, Tini's Mac and Cheese is a must-try!<\/p>"
+            "content": "<p>So I've made this creamy macaroni and cheese a bunch of times, and let me tell you, it always hits the spot! The aroma of melting cheese fills the kitchen, and when you take that first bite, it’s like a warm hug. The pasta is perfectly tender, and the cheese sauce is rich and smooth, making it a comforting dish that’s hard to resist. Seriously, it’s a classic that everyone loves, and it's super easy to whip up!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in under an hour - perfect for busy weeknights!<\/li><li>Restaurant-quality flavors achieved at home with simple techniques.<\/li><li>Perfect for family dinners, potlucks, or cozy nights in.<\/li><li>Uses simple ingredients you likely have in your pantry.<\/li><li>Kid-approved and guaranteed to impress cheese lovers!<\/li><li>Can be customized with your favorite add-ins for extra flavor.<\/li><\/ul>"
+                "content": "<ul><li>30 minutes from start to finish. That's it.<\/li><li>Tastes like you spent hours but you didn't.<\/li><li>My picky kid actually finished it (I was shocked!).<\/li><li>You probably have everything already.<\/li><li>Leftovers? Even better the next day.<\/li><li>Freezes great for meal prep.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This Tini's Macaroni and Cheese recipe holds a special place in my heart. I remember the first time I made it for my family; the smiles on their faces as they took their first bites were priceless. It's become a staple in our household, perfect for gatherings and cozy nights in. The creamy texture and cheesy goodness always bring back fond memories of family dinners. I love how easy it is to whip up, making it a go-to recipe for any occasion!<\/p>"
+            "content": "<p>I remember the first time I tried making macaroni and cheese from scratch. I was in college, and all I had was some pasta and a block of cheese. I melted the cheese with milk, and it was a total game changer! I started experimenting with different cheeses and spices, and now I can’t imagine a family gathering without it. It’s a dish that brings everyone together, and I love seeing my kids enjoy it just like I did back then.<\/p>"
+        },
+        {
+            "content": "<p>My first try? Complete fail. I forgot to add enough salt to the pasta water and ended up with bland mac and cheese. Now I know that seasoning the water is key because it really enhances the flavor of the pasta. Don't skip that step!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When it comes to Tini's Macaroni and Cheese, the quality of your ingredients makes all the difference:<\/p><ul><li><strong>Main ingredient (pasta):<\/strong> Elbow macaroni is the classic choice for this dish, providing the perfect shape to hold the creamy cheese sauce. Look for high-quality pasta for the best texture.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic powder and onion powder add depth to the cheese sauce, enhancing the overall flavor. Opt for fresh spices for a more vibrant taste.<\/li><li><strong>Supporting ingredients:<\/strong> The combination of sharp cheddar and mozzarella cheeses creates a rich, gooey texture. For a twist, try adding Gruyère or fontina cheese.<\/li><li><strong>Smart substitutions:<\/strong> For a gluten-free option, use gluten-free pasta. For a vegan version, substitute the cheese with a plant-based cheese alternative and use almond milk.<\/li><li><strong>Equipment needed:<\/strong> A large saucepan for the cheese sauce and a baking dish for the final bake are essential for this recipe.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (pasta):<\/strong> Elbow macaroni is a classic choice for mac and cheese. It holds the cheese sauce well, making each bite satisfying. Look for brands that are made from durum wheat for the best texture.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic and onion powder add depth to the cheese sauce. I always use fresh spices when I can, as they really amp up the flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Milk and butter create a creamy base for the sauce. I prefer using whole milk for richness, but 2% works too. Just make sure to whisk well to avoid lumps.<\/li><li><strong>Smart substitutions:<\/strong> You can swap out cheddar for Gruyère or even a mix of cheeses for a different flavor profile. If you're out of milk, try using cream for an even richer sauce!<\/li><li><strong>Equipment needed:<\/strong> A good pot is essential for boiling pasta, and a whisk is a must for making the cheese sauce smooth.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for Tini's Macaroni and Cheese, including elbow macaroni, cheese, and spices, neatly arranged on a kitchen counter.",
-                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp",
-                "fileName": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp",
-                "type": "main"
+                "context": "Fresh ingredients for creamy macaroni and cheese, including pasta, cheese, and spices, arranged on a wooden countertop.",
+                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before diving into cooking Tini's Macaroni and Cheese, let's prepare:<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering all your ingredients and measuring them out. Preheat your oven to 350°F (175°C) to ensure it's ready for baking. Cook the elbow macaroni according to package instructions until al dente, then drain and set aside.<\/dd><dt><strong>Cooking\/Baking process:<\/strong><\/dt><dd>In a large saucepan, melt the butter over medium heat and whisk in the flour to create a roux. Gradually add the milk, stirring until thickened. Remove from heat and stir in the cheeses and seasonings until smooth. Combine with the macaroni and transfer to a baking dish.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Top with breadcrumbs if desired, then bake for 25-30 minutes until bubbly and golden brown. Let it cool slightly before serving for the best texture.<\/dd><\/dl>"
+            "content": "<p>Preparation phase: Start by gathering all your ingredients. Measure out the pasta, cheese, and spices. You can even shred the cheese ahead of time to save some minutes later. Boil a large pot of water while you prep.<\/p><dl><dt><strong>Cooking process:<\/strong><\/dt><dd>Once the water is boiling, add the macaroni and cook until al dente. While that's happening, make your cheese sauce in another pot. Melt the butter, whisk in the flour, and gradually add the milk, stirring until thickened. Then, add the cheese and spices.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Combine the pasta with the cheese sauce and mix well. If you want a crispy topping, sprinkle breadcrumbs and broil for a few minutes until golden. Serve hot!<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Stirring the creamy cheese sauce for Tini's Macaroni and Cheese in a large saucepan on the stovetop.",
-                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_2.webp",
-                "fileName": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_2.webp",
-                "type": "main"
+                "context": "Stirring creamy cheese sauce in a pot while preparing macaroni and cheese on the stovetop.",
+                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Maintain medium heat when making the cheese sauce to prevent burning. Use a thermometer to ensure the sauce reaches a simmer without boiling.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the pasta can lead to a mushy texture. Always cook it al dente, as it will continue to cook in the oven.<\/li><li><strong>Perfect doneness indicator:<\/strong> The mac and cheese is perfectly cooked when the top is golden brown and the sauce is bubbling around the edges.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) for best results, adding a splash of milk to restore creaminess.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your milk is at room temperature before adding it to the sauce. This helps it blend smoothly without clumping.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the pasta is a frequent error. It should be firm to the bite since it will cook more in the cheese sauce.<\/li><li><strong>Perfect doneness indicator:<\/strong> The sauce should be thick enough to coat the back of a spoon. If it’s too runny, let it simmer a bit longer.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat on the stovetop with a splash of milk to restore creaminess.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing Tini's Macaroni and Cheese with family and friends is always a joy. The laughter and compliments around the table make the effort worthwhile. It's a dish that brings everyone together, and I love seeing their faces light up with each cheesy bite. Whether it's a casual dinner or a festive gathering, this mac and cheese has become a beloved favorite that sparks warmth and connection.<\/p>"
+            "content": "<p>Sharing this creamy macaroni and cheese with family is always a joy. I love watching everyone dig in, and the smiles on their faces say it all. The kids always ask for seconds, and I can’t help but feel proud knowing I made something they enjoy. It’s not just a meal; it’s a moment of togetherness that I cherish.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Elevate your Tini's Macaroni and Cheese with these flavor boosters:<\/p><ul><li>Fresh herbs like parsley or chives can be added for a burst of freshness. Stir them in just before serving for vibrant color and flavor.<\/li><li>Spices such as smoked paprika or cayenne pepper can add a delightful kick. Start with 1\/4 teaspoon and adjust to your taste.<\/li><li>Upgrade your cheese by incorporating a mix of aged cheddar and blue cheese for a gourmet twist.<\/li><li>Experiment with cooking techniques by grilling the mac and cheese for a smoky flavor or adding it to a cast-iron skillet for a crispy bottom.<\/li><\/ul><p>These enhancements can make your dish even more exciting while keeping the essence of the original recipe!<\/p>"
+            "content": "<p>Want to take your mac and cheese to the next level? Here are some ideas: <ul><li><strong>Herbs:<\/strong> Fresh thyme or parsley can brighten the dish. Add them right before serving for a pop of color and flavor.<\/li><li><strong>Spices:<\/strong> A dash of smoked paprika adds a nice depth. Start with 1\/4 teaspoon and adjust to taste.<\/li><li><strong>Upgrades:<\/strong> Try adding cooked lobster or crab for a luxurious twist. It’s a fun way to impress guests!<\/li><li><strong>Technique variations:<\/strong> For a baked version, mix in the pasta and sauce, top with cheese, and bake until bubbly and golden.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To serve Tini's Macaroni and Cheese successfully, consider these pairings:<\/p><ul><li><strong>Side dishes:<\/strong> A fresh green salad with a tangy vinaigrette complements the richness of the mac and cheese, adding a refreshing contrast.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine, like Sauvignon Blanc, pairs beautifully with the creamy cheese, enhancing the overall dining experience.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with crusty garlic bread for a comforting meal.<\/li><li><strong>Occasion ideas:<\/strong> This dish is perfect for casual family dinners, potlucks, or holiday gatherings, making it a versatile choice.<\/li><li><strong>Presentation tips:<\/strong> Garnish with fresh herbs or a sprinkle of paprika for a pop of color that makes the dish visually appealing.<\/li><li><strong>Temperature serving note:<\/strong> Serve hot for the best flavor and texture, and it's equally delicious as leftovers!<\/li><\/ul>"
+            "content": "<p>Looking for what to serve with your creamy mac and cheese? Here are some ideas: <ul><li><strong>Side dishes:<\/strong> A simple green salad with a tangy vinaigrette balances the richness of the mac and cheese.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine or sparkling water complements the dish nicely.<\/li><li><strong>Bread\/starch options:<\/strong> Garlic bread or crusty rolls are great for soaking up the cheese sauce.<\/li><li><strong>Occasion ideas:<\/strong> This dish shines at family gatherings or cozy movie nights.<\/li><li><strong>Presentation tips:<\/strong> Serve in individual bowls for a fun touch, and sprinkle with fresh herbs for color.<\/li><li><strong>Temperature serving note:<\/strong> Serve hot for the best experience; the cheese sauce is at its creamiest!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these creative variations of Tini's Macaroni and Cheese:<\/p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use gluten-free elbow pasta and ensure all other ingredients are gluten-free for a delicious alternative.<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Substitute the cheese with a plant-based cheese alternative and use almond or oat milk for a creamy texture.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños or a splash of hot sauce for a spicy kick that will excite your taste buds.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Incorporate cooked chicken or shrimp for a heartier meal, adjusting the baking time as needed.<\/li><\/ul><p>These variations allow you to enjoy Tini's Macaroni and Cheese in new and exciting ways!<\/p>"
+            "content": "<p>Want to mix things up? Here are some variations to try: <ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use gluten-free pasta for a similar texture. Just make sure to adjust cooking times as needed.<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Substitute with cashew cream and nutritional yeast for a cheesy flavor without dairy.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños or a splash of hot sauce for a kick!<\/li><li><strong>Protein swap:<\/strong> Swap out the elbow macaroni for whole grain pasta for added fiber.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated serving of Tini's Macaroni and Cheese, garnished with fresh herbs and served in a rustic bowl.",
-                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_3.webp",
-                "fileName": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_3.webp",
-                "type": "main"
+                "context": "Creamy macaroni and cheese served in a rustic bowl, garnished with fresh herbs, on a wooden table.",
+                "url": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a richer flavor, toast the breadcrumbs in a bit of butter before adding them on top of the mac and cheese.<\/li><li><strong>Ingredient prep secret:<\/strong> Grate your cheese fresh rather than using pre-shredded cheese for better melting and flavor.<\/li><li><strong>Timing strategy:<\/strong> Prep the cheese sauce while the pasta cooks to streamline the process and save time.<\/li><li><strong>Presentation hack:<\/strong> Use a large serving dish and sprinkle with fresh herbs for a professional touch that impresses guests.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a silky sauce, blend in a bit of cream cheese with the cheddar. It adds a nice creaminess!<\/li><li><strong>Ingredient prep secret:<\/strong> Grate your cheese fresh instead of using pre-shredded. It melts better and has more flavor.<\/li><li><strong>Timing strategy:<\/strong> Start your cheese sauce while the pasta cooks. This way, everything comes together perfectly.<\/li><li><strong>Presentation hack:<\/strong> Use a torch to lightly brown the top if you bake it. It gives a nice color and texture!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Making Tini's Macaroni and Cheese is a rewarding experience that anyone can master! With its creamy texture and cheesy flavor, this dish is sure to become a favorite in your home. Don't hesitate to experiment with flavors and ingredients to make it your own. I encourage you to share your experience, rate the recipe, and post photos on social media with the hashtag #tinismacaroniandcheese. Enjoy every delicious bite of this comforting dish!<\/p>"
+            "content": "<p>Honestly, this creamy macaroni and cheese is a dish worth making. It’s comforting, easy to prepare, and brings everyone together. I hope you give it a try and share your experience in the comments. Don’t forget to pin this recipe for later – you’ll want to make it again!<\/p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp",
@@ -152,11 +153,13 @@
             "type": "template"
         }
     ],
+    "slug": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food",
+    "id": "recipe_1765061785_156",
     "image": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp",
     "image_path": "recipes\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images\/creamy-tini-s-macaroni-and-cheese-easy-comfort-food_image_1.webp",
     "image_dir": "creamy-tini-s-macaroni-and-cheese-easy-comfort-food\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-09T17:49:56+01:00",
-    "updatedAt": "2025-12-09T17:49:56+01:00"
+    "createdAt": "2025-12-13T22:03:41+01:00",
+    "updatedAt": "2025-12-13T22:03:41+01:00"
 }

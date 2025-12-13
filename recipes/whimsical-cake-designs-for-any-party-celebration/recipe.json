@@ -1,161 +1,166 @@
 {
-    "id": "recipe_1765645347_154",
-    "slug": "whimsical-cake-designs-for-any-party-celebration",
-    "title": "Whimsical Cake Designs for Any Party Celebration",
-    "promptIMG": "Professional food photography prompt: \"whimsical cake designs, professionally plated on a decorative cake stand, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#whimsicalcakes #partyideas #funbaking #cakeart #celebrationcakes",
-    "isOnline": false,
-    "description": "Discover 15 whimsical cake designs that will make any party unforgettable! From vibrant colors to fun shapes, these cakes are perfect for birthdays, celebrations, or just because. Get inspired and create your own masterpiece. Save this collection for your next baking adventure!",
-    "category_id": "cat_1761230294_638",
-    "author_id": "author_001",
-    "ingredients": [
-        "2 cups all-purpose flour",
-        "1 ½ cups granulated sugar",
-        "1 cup unsalted butter, softened",
-        "4 large eggs",
-        "1 cup milk",
-        "2 teaspoons baking powder",
-        "1 teaspoon vanilla extract",
-        "Food coloring (various colors)",
-        "Fondant for decorations",
-        "Sprinkles and edible glitter"
-    ],
-    "instructions": [
-        "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
-        "In a large mixing bowl, cream together the softened butter and sugar until light and fluffy. This should take about 3-5 minutes.",
-        "Add the eggs one at a time, mixing well after each addition. Then stir in the vanilla extract.",
-        "In a separate bowl, whisk together the flour, baking powder, and salt. Gradually add this dry mixture to the wet ingredients, alternating with the milk. Mix until just combined.",
-        "Divide the batter into separate bowls if you want to color them. Add food coloring and mix until you achieve your desired shades.",
-        "Pour the batter into the prepared cake pans and bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean."
-    ],
+    "title": "Whimsical Cake Designs to Brighten Any Celebration",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"whimsical cake designs, beautifully decorated with vibrant colors and fun shapes, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic cake textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "Get ready to create some seriously fun cake designs! These whimsical cakes are bursting with color and creativity, making them ideal for birthdays or any celebration. With easy-to-follow ideas and tips, you’ll be inspired to bake and decorate your own masterpiece. Save this for your next baking adventure!",
+    "hashtags": "#whimsicalcakes #cakeideas #bakingfun #celebrationcakes #partyplanning",
+    "difficulty": "Medium",
     "prep_time": 30,
     "cook_time": 60,
-    "total_time": 90,
     "servings": 12,
-    "difficulty": "Medium",
-    "tips": "To achieve the best results, ensure all ingredients are at room temperature before starting. When mixing the batter, avoid over-mixing to keep the cake light and fluffy. For a moist cake, do not open the oven door until the minimum baking time has passed. If using fondant, ensure your cake is completely cooled before applying it to prevent melting. Store any leftover cake in an airtight container at room temperature for up to 3 days.",
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1 ½ cups granulated sugar",
+        "1 cup unsalted butter, softened (I use Kerrygold)",
+        "4 large eggs",
+        "1 cup whole milk",
+        "3 ½ teaspoons baking powder",
+        "1 teaspoon vanilla extract",
+        "Food coloring (various colors for decoration)",
+        "Fondant for shaping and detailing",
+        "Buttercream frosting (homemade or store-bought)"
+    ],
+    "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour your cake pans. I use 9-inch round pans for a classic look.",
+        "In a large mixing bowl, cream together the butter and sugar until light and fluffy. This should take about 5 minutes. Trust me, it makes a difference!",
+        "Add the eggs one at a time, mixing well after each addition. Then stir in the vanilla extract.",
+        "In another bowl, combine the flour and baking powder. Gradually add this dry mixture to the wet ingredients, alternating with the milk. Mix until just combined.",
+        "Divide the batter evenly between the prepared pans and smooth the tops. Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean.",
+        "Let the cakes cool in the pans for 10 minutes before transferring them to wire racks to cool completely. This step is crucial for a good texture!"
+    ],
+    "tips": "When it comes to cake decorating, there are a few things to keep in mind. First, make sure your cakes are completely cool before frosting; otherwise, the frosting will melt. I often chill my cakes for about 30 minutes in the fridge to help with this. Also, if you're using fondant, roll it out on a surface dusted with powdered sugar to prevent sticking. For vibrant colors, gel food coloring works best; it won’t alter the cake's texture as much as liquid colors. And don't be afraid to experiment with different shapes and designs! If you mess up, just cover it with more frosting or decorations. Lastly, always have fun with it—baking should be enjoyable!",
+    "image_keywords": [
+        "colorful",
+        "fun",
+        "creative",
+        "celebration",
+        "baking",
+        "party"
+    ],
     "structured_content": [
         {
-            "content": "<p>These whimsical cake designs are not just desserts; they are the centerpiece of any celebration! Bursting with vibrant colors and playful shapes, each cake tells a story and brings joy to the table. Perfect for birthdays, baby showers, or any festive occasion, these cakes are sure to impress your guests. With a mix of classic flavors and imaginative designs, you’ll find inspiration for your next baking adventure.</p>"
+            "content": "<p>So I've made these whimsical cakes a few times, and let me tell you, they really bring a party to life! The vibrant colors and playful designs make them a hit with kids and adults alike. Imagine a cake shaped like a unicorn or a rainbow—everyone will want a slice! Plus, the process of decorating is just as fun as eating the cake itself.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in under 2 hours - perfect for last-minute celebrations</li><li>Impressive designs that look professional but are achievable at home</li><li>Great for birthdays, anniversaries, or simply to brighten someone's day</li><li>Uses simple ingredients that are easy to find</li><li>Kid-approved fun with colorful decorations and sprinkles</li><li>Customizable for any theme or occasion</li></ul>"
+                "content": "<ul><li>30 minutes of prep time. That’s it!<\/li><li>Looks like a bakery masterpiece (but you made it yourself!)<\/li><li>Kids love helping with the decorating (seriously, it’s a blast!)<\/li><li>Great for any occasion, not just birthdays.<\/li><li>Leftovers? They disappear fast!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Growing up, cakes were always the highlight of our family gatherings. I remember the excitement of helping my mom bake and decorate cakes for birthdays and special occasions. Each cake was a canvas for creativity, and I loved experimenting with colors and designs. This collection of whimsical cake ideas brings back those cherished memories and inspires me to create new ones with my family. Whether it's a simple party or a grand celebration, these cakes are sure to bring smiles and joy.</p>"
+            "content": "<p>I remember the first time I attempted a whimsical cake. It was for my niece's birthday, and I was so nervous! I spent hours decorating, and when she saw it, her eyes lit up. That moment made all the effort worth it. Now, I love making these cakes for every celebration, and they always bring smiles to the table.<\/p>"
+        },
+        {
+            "content": "<p>My first attempt at a whimsical cake? Total disaster. I forgot to grease the pans, and the cakes stuck like glue. It was a mess! Now I know that prepping the pans is key, or you’ll end up with crumbles instead of beautiful layers.<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When it comes to baking the perfect cake, the ingredients play a crucial role:</p><ul><li><strong>Main ingredient (flour):</strong> All-purpose flour provides the structure needed for a fluffy cake. Look for a brand that is finely milled for the best texture.</li><li><strong>Key seasonings/aromatics:</strong> Vanilla extract adds warmth and depth of flavor. Opt for pure vanilla for the best results.</li><li><strong>Supporting ingredients:</strong> Butter adds richness and moisture. Ensure it's softened for easy mixing.</li><li><strong>Smart substitutions:</strong> For a gluten-free option, use a gluten-free flour blend. For a dairy-free cake, substitute milk with almond or oat milk.</li><li><strong>Equipment needed:</strong> Essential tools include mixing bowls, a whisk, measuring cups, and cake pans.</li></ul>"
+            "content": "<p><strong>Main ingredient (cake base):<\/strong> Using all-purpose flour gives the cake a nice structure. Look for a brand like King Arthur for consistent results. I always sift it to avoid lumps. <strong>Key seasonings\/aromatics:<\/strong> Vanilla extract adds a warm flavor that really enhances the cake. I prefer pure vanilla for the best taste. <strong>Supporting ingredients:<\/strong> Butter adds richness and moisture. I use Kerrygold for its creamy texture. <strong>Smart substitutions:<\/strong> If you're out of eggs, unsweetened applesauce can work in a pinch. Just use 1\/4 cup for each egg. <strong>Equipment needed:<\/strong> A good stand mixer like KitchenAid makes mixing a breeze, and a set of quality cake pans is essential for even baking.<\/p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for whimsical cake designs neatly arranged on a kitchen counter, ready for baking.",
-                "url": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-                "fileName": "whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-                "type": "main"
+                "context": "Colorful cake ingredients arranged on a marble countertop, showcasing flour, sugar, butter, and vibrant food coloring.",
+                "url": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start baking, let's prepare:</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Gather all your ingredients and tools. Preheat your oven to 350°F (175°C). Grease and flour your cake pans. Measure out your ingredients to streamline the process.</dd><dt><strong>Cooking/Baking process:</strong></dt><dd>Mix your batter as instructed, ensuring not to over-mix. Pour into pans and bake until golden brown and a toothpick comes out clean. Expect about 25-30 minutes of baking time.</dd><dt><strong>Finishing touches:</strong></dt><dd>Once cooled, frost and decorate your cake as desired. Use fondant for a smooth finish and add sprinkles for fun!</dd></dl>"
+            "content": "<p>Preparation phase: Start by gathering all your ingredients. Preheat your oven to 350°F (175°C) and grease your cake pans. I like to measure everything out first to keep things organized. You can even bake the cakes a day ahead and store them in the fridge.<\/p><dl><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your batter is ready, pour it into the pans and bake for 25-30 minutes. You’ll know they’re done when they spring back when touched lightly. Let them cool completely before frosting.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After cooling, frost with buttercream and decorate with fondant shapes or sprinkles. Get creative! I love adding edible glitter for a fun touch.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Action shot of mixing colorful cake batter in a large bowl with a whisk, vibrant colors visible.",
-                "url": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_2.webp",
-                "fileName": "whimsical-cake-designs-for-any-party-celebration_image_2.webp",
-                "type": "main"
+                "context": "Spreading colorful frosting on a freshly baked cake with a spatula, creating a vibrant layer of buttercream.",
+                "url": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Ensure your oven is preheated to the correct temperature for even baking. Use an oven thermometer to check accuracy.</li><li><strong>Common mistake to avoid:</strong> Avoid opening the oven door too early, as this can cause the cake to collapse.</li><li><strong>Perfect doneness indicator:</strong> Look for a golden brown top and a toothpick that comes out clean when inserted in the center.</li><li><strong>Storage & reheating:</strong> Store leftover cake in an airtight container at room temperature for up to 3 days. For longer storage, freeze slices wrapped tightly in plastic wrap.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Always bake at the right temperature. An oven thermometer can help ensure accuracy. Too hot, and the cake might burn; too cool, and it won’t rise properly.<\/li><li><strong>Common mistake to avoid:<\/strong> Overmixing the batter can lead to a dense cake. Mix just until combined for a light texture.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a golden top and a toothpick that comes out clean. That’s your cue!<\/li><li><strong>Storage & reheating:<\/strong> Store leftover cake in an airtight container in the fridge for up to 3 days. You can freeze slices for up to a month—just wrap them tightly!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing a whimsical cake with friends and family is one of life's simple joys. Watching their faces light up as they take the first bite is priceless. Whether it's a birthday celebration or a casual gathering, these cakes create lasting memories. The laughter, compliments, and requests for the recipe make every effort worthwhile. Baking is not just about the cake; it's about the love and happiness shared around the table.</p>"
+            "content": "<p>Sharing these whimsical cakes with friends and family is always a joy. I remember the laughter and excitement when I brought one to a gathering. Everyone gathered around, taking pictures and eagerly waiting for a slice. The bright colors and fun shapes made it a centerpiece, and the compliments kept coming. It’s moments like these that make baking so rewarding!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Elevate your whimsical cakes with these fun ideas:</p><ul><li>Fresh herbs like mint or basil can add a surprising twist. Add them to your frosting for a refreshing flavor.</li><li>Spice additions like cinnamon or nutmeg can enhance the cake's warmth. Use about 1 teaspoon for a subtle hint.</li><li>Ingredient upgrades like premium chocolate or gourmet sprinkles can take your cake to the next level.</li><li>Technique variations such as layering different flavors or using a drip technique can change the character of your cake.</li></ul><p>Feel free to experiment and make these cakes your own!</p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh mint can add a refreshing twist. Just chop it finely and mix it into your frosting for a unique flavor.<\/li><li><strong>Spices:<\/strong> A hint of cinnamon can warm up the flavor profile—just a pinch in the batter works wonders.<\/li><li><strong>Upgrades:<\/strong> Consider adding layers of fruit preserves between the cake layers for an extra burst of flavor.<\/li><li><strong>Technique variations:<\/strong> Try a layered cake with different flavors for each tier—chocolate, vanilla, and lemon all work well together!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To serve your whimsical cake successfully:</p><ul><li><strong>Side dishes:</strong> Pair with fresh fruit salad or a scoop of ice cream for a delightful contrast.</li><li><strong>Beverage pairings:</strong> Serve with sparkling lemonade or a light white wine to complement the sweetness.</li><li><strong>Bread/starch options:</strong> Consider offering a selection of cookies or pastries for a dessert table.</li><li><strong>Occasion ideas:</strong> These cakes shine at birthday parties, bridal showers, or holiday gatherings.</li><li><strong>Presentation tips:</strong> Use colorful plates and garnishes to enhance the visual appeal.</li><li><strong>Temperature serving note:</strong> Serve at room temperature for the best flavor and texture.</li></ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Pair with fresh fruit salad for a light contrast. Berries and melons are especially refreshing.<\/li><li><strong>Beverage pairings:<\/strong> A chilled glass of lemonade or iced tea complements the sweetness of the cake beautifully.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with light pastries or croissants for a brunch gathering.<\/li><li><strong>Occasion ideas:<\/strong> These cakes shine at birthdays, baby showers, or even casual get-togethers.<\/li><li><strong>Presentation tips:<\/strong> Use a cake stand to elevate your creation and add decorative sprinkles around the base for a fun touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve at room temperature for the best flavor and texture.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations:</p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use a gluten-free flour blend and ensure all other ingredients are gluten-free.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute eggs with flaxseed meal and use plant-based milk and butter.</li><li><strong>Flavor variation (e.g., Chocolate):</strong> Add cocoa powder to the batter for a rich chocolate cake.</li><li><strong>Protein/ingredient swap:</strong> Use yogurt instead of butter for a lighter cake with a tangy flavor.</li></ul><p>These variations allow you to cater to different dietary needs while keeping the spirit of the original recipe.</p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use a gluten-free flour blend for a similar texture. Brands like Bob's Red Mill work well.<\/li><li><strong>Dietary adaptation 2 (Vegan):<\/strong> Swap eggs for flaxseed meal mixed with water and use plant-based butter for a dairy-free version.<\/li><li><strong>Flavor variation (Chocolate):<\/strong> Add cocoa powder to the batter for a rich chocolate cake. Adjust sugar as needed.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Try adding nuts or chocolate chips for added texture and flavor.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Final beautifully plated whimsical cake with colorful decorations and sprinkles, ready to serve at a party.",
-                "url": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_3.webp",
-                "fileName": "whimsical-cake-designs-for-any-party-celebration_image_3.webp",
-                "type": "main"
+                "context": "Final whimsical cake beautifully decorated with vibrant colors and fun shapes, ready to be served at a celebration.",
+                "url": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> Use a simple syrup to brush on the cake layers for added moisture and flavor.</li><li><strong>Ingredient prep secret:</strong> Bring eggs and butter to room temperature for better mixing and texture.</li><li><strong>Timing strategy:</strong> Prepare your frosting and decorations while the cake is baking to save time.</li><li><strong>Presentation hack:</strong> Use a cake turntable for even frosting and a professional finish.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Use a bench scraper for smooth frosting—it's a game changer for a polished look.<\/li><li><strong>Ingredient prep secret:<\/strong> Let your butter come to room temperature before mixing; it incorporates better and gives a fluffier texture.<\/li><li><strong>Timing strategy:<\/strong> Bake one day ahead and frost the next for easier decorating.<\/li><li><strong>Presentation hack:<\/strong> Use edible flowers for a stunning garnish that adds color and elegance.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These whimsical cake designs are not just a treat for the taste buds but also a feast for the eyes! With a little creativity and the right techniques, you can create stunning cakes that will wow your guests. Remember, baking is about having fun and expressing yourself. Don't be afraid to experiment and make this recipe your own. I encourage you to try these whimsical cake designs and share your creations with friends and family. Happy baking!</p>"
+            "content": "<p>In the end, making these whimsical cakes is all about creativity and fun. They’re a great way to express yourself and bring joy to others. I hope you give it a shot and share your creations with friends and family. Don’t forget to rate this recipe and let me know how it turns out!<\/p>"
         }
     ],
+    "category_id": "cat_1761230294_638",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-            "filePath": "recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-            "relativePath": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
+            "relativePath": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "whimsical-cake-designs-for-any-party-celebration_image_2.webp",
-            "filePath": "recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_2.webp",
-            "relativePath": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_2.webp",
+            "relativePath": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "whimsical-cake-designs-for-any-party-celebration_image_3.webp",
-            "filePath": "recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_3.webp",
-            "relativePath": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_3.webp",
+            "relativePath": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
-            "relativePath": "whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
+            "relativePath": "whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_mollykitchendaily-main_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "whimsical-cake-designs-for-any-party-celebration",
+    "id": "recipe_1765645347_154",
     "image": "whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-    "image_path": "recipes/whimsical-cake-designs-for-any-party-celebration/images/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
-    "image_dir": "whimsical-cake-designs-for-any-party-celebration/images",
+    "image_path": "recipes\/whimsical-cake-designs-for-any-party-celebration\/images\/whimsical-cake-designs-for-any-party-celebration_image_1.webp",
+    "image_dir": "whimsical-cake-designs-for-any-party-celebration\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T18:02:27+01:00",
-    "updatedAt": "2025-12-13T18:02:27+01:00"
+    "createdAt": "2025-12-13T22:04:02+01:00",
+    "updatedAt": "2025-12-13T22:04:02+01:00"
 }

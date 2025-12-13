@@ -1,161 +1,172 @@
 {
-    "id": "recipe_1765643954_745",
-    "slug": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth",
-    "title": "Delicious Cherry Dessert Recipes to Satisfy Your Sweet Tooth",
-    "promptIMG": "Professional food photography prompt: \"Cherry desserts, beautifully plated on elegant dessert plates, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#cherrydesserts #dessertrecipes #easyrecipes #summerbaking #fruitdesserts",
-    "isOnline": false,
-    "description": "Indulge in these 15 cherry dessert recipes that are perfect for any occasion! From pies to tarts, each recipe highlights the sweet and tart flavors of fresh cherries. Perfect for summer gatherings or cozy family dinners. Save your favorites and impress your guests!",
-    "category_id": "cat_1761230294_638",
-    "author_id": "author_001",
+    "title": "15 Cherry Dessert Recipes to Try This Summer",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"15 cherry dessert recipes, beautifully arranged on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, summer-themed background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "Get ready to dig into these 15 cherry dessert recipes that celebrate the sweet and tart flavors of fresh cherries! From pies to tarts, there's something for everyone. Great for summer gatherings or cozy family dinners. Save this collection for your next dessert adventure!",
+    "hashtags": "#cherrydesserts #summerrecipes #easyrecipes #dessertideas #cherryrecipes",
+    "difficulty": "Easy",
+    "prep_time": 20,
+    "cook_time": 30,
+    "servings": 8,
     "ingredients": [
         "2 cups fresh cherries, pitted and halved",
         "1 cup granulated sugar",
-        "1/2 cup all-purpose flour",
-        "1/4 cup unsalted butter, melted",
-        "1 teaspoon vanilla extract",
-        "1/2 teaspoon almond extract",
-        "1/4 teaspoon salt",
-        "1 tablespoon cornstarch",
         "1 tablespoon lemon juice",
-        "1 pre-made pie crust or tart shell"
+        "1 teaspoon vanilla extract",
+        "2 tablespoons cornstarch",
+        "1 pre-made pie crust or tart shell",
+        "1 tablespoon butter, cut into small pieces",
+        "1 egg, beaten (for egg wash)",
+        "Powdered sugar for dusting"
     ],
     "instructions": [
         "Preheat your oven to 375°F (190°C).",
-        "In a large bowl, combine the pitted cherries, sugar, cornstarch, lemon juice, and salt. Toss until the cherries are well coated.",
-        "Pour the cherry mixture into the prepared pie crust, spreading it evenly.",
-        "In a separate bowl, mix the melted butter, flour, vanilla extract, and almond extract until crumbly. Sprinkle this mixture over the cherries.",
-        "Bake in the preheated oven for 25-30 minutes, or until the topping is golden brown and the cherries are bubbling.",
-        "Allow to cool for at least 10 minutes before serving."
+        "In a medium bowl, combine the pitted cherries, granulated sugar, lemon juice, vanilla extract, and cornstarch. Stir until the cherries are well coated.",
+        "Roll out the pie crust and fit it into a pie dish. Pour the cherry mixture into the crust and dot with butter pieces.",
+        "Cover with a second layer of crust, sealing the edges. Cut slits in the top to allow steam to escape. Brush the top with the beaten egg.",
+        "Bake for 25-30 minutes or until the crust is golden brown and the filling is bubbling.",
+        "Let it cool slightly before serving. Dust with powdered sugar before slicing."
     ],
-    "prep_time": 20,
-    "cook_time": 30,
-    "total_time": 50,
-    "servings": 8,
-    "difficulty": "Medium",
-    "tips": "To achieve the best results, use fresh, ripe cherries for maximum flavor. If using frozen cherries, thaw and drain excess liquid to avoid a watery filling. Always pre-bake the crust for a few minutes if using a store-bought crust to prevent sogginess. For a richer flavor, consider adding a splash of bourbon or brandy to the cherry mixture. Store leftovers in an airtight container in the refrigerator for up to 3 days, and reheat in the oven for best texture.",
+    "tips": "When making cherry desserts, always choose fresh, ripe cherries for the best flavor. I usually go for Bing cherries, but Rainier cherries work well too. If you're short on time, using a pre-made crust saves a lot of hassle. And remember, if your filling seems too runny, a little extra cornstarch can help thicken it up. For a twist, try adding almond extract instead of vanilla for a nutty flavor. Lastly, serve your cherry dessert with a scoop of vanilla ice cream for a delightful contrast!",
+    "category_id": "cat_1761230294_638",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>Cherry desserts are a delightful way to celebrate the sweet and tart flavors of this beloved fruit. These 15 cherry dessert recipes will not only satisfy your sweet tooth but also impress your guests with their vibrant colors and delicious taste. Whether you're making a classic cherry pie or a refreshing cherry sorbet, each recipe is designed to highlight the natural beauty and flavor of cherries. Perfect for summer gatherings, family dinners, or simply indulging yourself, these desserts are sure to become favorites in your home.</p>"
+            "content": "<p>Cherry desserts are a summer staple that brings a burst of flavor to any gathering. The sweet and tart notes of fresh cherries create a delightful balance that pairs beautifully with buttery crusts and creamy toppings. Whether you're baking a pie or a tart, the vibrant red cherries add a pop of color and a juicy texture that makes each bite irresistible. Trust me, once you try these recipes, you'll want to make them again and again!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in under an hour - perfect for last-minute gatherings.</li><li>Uses fresh cherries for a burst of flavor and nutrition.</li><li>Ideal for summer picnics, family dinners, or holiday celebrations.</li><li>Simple ingredients that are easy to find at your local grocery store.</li><li>Versatile recipes that can be adapted for gluten-free or vegan diets.</li></ul>"
+                "content": "<ul><li>30 minutes from start to finish. That's it.<\/li><li>Fresh cherries make this a summer hit!<\/li><li>My kids can't get enough of this (no joke!).<\/li><li>Perfect for potlucks or family dinners.<\/li><li>Leftovers? They taste even better the next day.<\/li><li>Easy to customize with your favorite fruits!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I discovered my love for cherry desserts during summer family gatherings at my grandmother's house. She would always whip up her famous cherry pie, filling the kitchen with the sweet aroma of baked cherries and buttery crust. Each bite was a reminder of those warm, sunny days spent with loved ones. Now, I love making these cherry desserts for my friends and family, creating new memories while enjoying the delicious flavors of cherries. It's a recipe that brings everyone together!</p>"
+            "content": "<p>I remember the first time I made a cherry pie. It was a hot summer day, and I had just picked a basket of cherries from a local farm. The aroma of the baking pie filled the kitchen, and my family gathered around, eagerly waiting for a slice. That moment of sharing something homemade, with laughter and stories, made it special. Now, I always make this recipe for summer gatherings, and it never fails to bring back those warm memories.<\/p>"
+        },
+        {
+            "content": "<p>Cherry desserts are a summer staple that brings a burst of flavor to any gathering. The sweet and tart notes of fresh cherries create a delightful balance that pairs beautifully with buttery crusts and creamy toppings. Whether you're baking a pie or a tart, the vibrant red cherries add a pop of color and a juicy texture that makes each bite irresistible. Trust me, once you try these recipes, you'll want to make them again and again!<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>My first try at making a cherry pie? Total disaster. I used frozen cherries instead of fresh, and the filling turned out watery and bland. Now I know that fresh cherries are key because they hold their shape and flavor much better. So, always go for fresh when you can!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When it comes to cherry desserts, the main ingredient is, of course, the cherries. Look for fresh, ripe cherries that are firm and juicy, as they will provide the best flavor and texture. For key seasonings, granulated sugar is essential for balancing the tartness of the cherries, while vanilla and almond extracts add depth to the flavor profile. If you're looking for smart substitutions, consider using frozen cherries if fresh ones are unavailable, just be sure to thaw and drain them well. For those with dietary restrictions, a gluten-free flour blend can easily replace all-purpose flour, and a dairy-free butter substitute can be used for a vegan version. Essential tools include a mixing bowl, measuring cups, and a pie dish for baking.</p>"
+            "content": "<p><ul><li><strong>Main ingredient (cherries):<\/strong> Fresh cherries are essential for this recipe. Look for ones that are firm and plump. They should have a deep red color. When prepping, make sure to pit them carefully to avoid any bitter bites.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Lemon juice brightens the flavor of the cherries, while vanilla adds warmth. I often use pure vanilla extract for the best taste.<\/li><li><strong>Supporting ingredients:<\/strong> The pie crust provides a flaky base that complements the juicy filling. I prefer using a store-bought crust for convenience, but homemade is always a treat!<\/li><li><strong>Smart substitutions:<\/strong> If you don’t have cherries, try blueberries or peaches for a different twist. You can also use almond extract instead of vanilla for a unique flavor.<\/li><li><strong>Equipment needed:<\/strong> A good pie dish is crucial for even baking. I love my ceramic pie dish for its heat retention and beautiful presentation.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Fresh cherries, sugar, flour, and other ingredients neatly arranged on a kitchen counter, ready for dessert preparation.",
-                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-                "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-                "type": "main"
+                "context": "Fresh cherries, sugar, and pie crust ingredients beautifully arranged on a wooden countertop for dessert preparation",
+                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start baking, make sure to gather all your ingredients and tools. Preheat your oven to 375°F (190°C) and prepare your pie crust by placing it in a pie dish. Wash and pit the cherries, then slice them in half. In a large mixing bowl, combine the cherries with sugar, cornstarch, and lemon juice, allowing the mixture to sit for a few minutes to release the juices. While the cherries are marinating, mix the melted butter with flour and extracts to create a crumbly topping. Once the oven is preheated, pour the cherry mixture into the crust, sprinkle the topping over it, and bake until golden brown and bubbly.</p>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by preheating your oven to 375°F (190°C). While it heats, wash and pit your cherries. This part can be a bit messy, so keep a towel handy! Measure out your sugar and cornstarch, and roll out your pie crust to fit your dish.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Once your oven is ready, fill the crust with the cherry mixture. Bake for 25-30 minutes until the crust is golden and the filling is bubbling. You’ll know it’s done when the edges are beautifully browned.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Let the pie cool for about 15 minutes before slicing. This helps the filling set up a bit. Serve with a dusting of powdered sugar for a nice touch!<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
-                "context": "Stirring the cherry mixture in a bowl, preparing for baking.",
-                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
-                "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
-                "type": "main"
+                "context": "Stirring cherry filling in a bowl with a wooden spoon, preparing for pie assembly",
+                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Baking at the right temperature is crucial for achieving a perfectly baked dessert. Ensure your oven is fully preheated to 375°F (190°C) before placing your pie inside.</li><li><strong>Common mistake to avoid:</strong> One frequent error is overfilling the pie crust, which can lead to a messy overflow. Stick to the recommended measurements for the cherry filling.</li><li><strong>Perfect doneness indicator:</strong> The dessert is perfectly cooked when the topping is golden brown and the cherry juices are bubbling around the edges.</li><li><strong>Storage & reheating:</strong> Store any leftovers in an airtight container in the refrigerator for up to 3 days. Reheat in the oven at 350°F (175°C) for about 10-15 minutes to restore its texture.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your oven is properly preheated. An oven thermometer can help ensure accuracy. This matters because uneven baking can lead to soggy crusts.<\/li><li><strong>Common mistake to avoid:<\/strong> Don't skip the cornstarch! It thickens the filling and prevents it from being too runny. If you forget, your pie will be a soupy mess.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a golden crust and bubbling filling. The filling should be visibly thickened and not watery.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat slices in the oven at 350°F (175°C) for about 10 minutes for best results.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing cherry desserts with family and friends brings a sense of joy and warmth to any gathering. I remember serving my cherry pie at a summer barbecue, and the compliments just kept coming! Everyone loved the sweet and tart flavors, and it quickly became the highlight of the meal. Watching my loved ones enjoy something I made with care is one of the most rewarding experiences. It’s these moments that make cooking special, and I hope this recipe brings the same joy to your table!</p>"
+            "content": "<p>Sharing a slice of cherry pie with family is one of my favorite moments. The smiles and compliments that follow are priceless. I remember serving it at a family gathering, and everyone was asking for seconds. The sweet aroma filled the room, and it felt like a warm hug. It's these little moments that make cooking so rewarding. I hope you enjoy making this cherry dessert as much as I do!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate your cherry desserts, consider adding fresh herbs like mint or basil for a refreshing twist. A sprinkle of cinnamon or nutmeg can enhance the warmth of the flavors, while a dash of lemon zest brightens the overall taste. For a richer dessert, try adding a layer of cream cheese or mascarpone under the cherry filling. If you want to experiment with techniques, consider grilling the cherries for a smoky flavor or using a crumble topping instead of a pie crust for a different texture. These enhancements can make your cherry desserts even more delightful!</p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh mint can add a refreshing touch. Just chop it finely and sprinkle on top before serving.<\/li><li><strong>Spices:<\/strong> A pinch of cinnamon or nutmeg can enhance the cherry flavor. Start with 1\/4 teaspoon and adjust to taste.<\/li><li><strong>Upgrades:<\/strong> Consider adding a crumble topping made with oats and brown sugar for added texture. It’s a game changer!<\/li><li><strong>Technique variations:<\/strong> Try grilling the cherries before adding them to the pie for a smoky flavor. Or, make mini tarts for individual servings.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>When serving cherry desserts, consider pairing them with a scoop of vanilla ice cream or a dollop of whipped cream for a classic touch. A light salad with goat cheese and walnuts can complement the sweetness of the cherries beautifully. For beverages, a chilled rosé or a refreshing lemonade works well to balance the flavors. This dessert is perfect for casual dinners, summer picnics, or holiday celebrations. To make your presentation pop, serve the pie with fresh cherries on top and a sprinkle of powdered sugar for an elegant finish. Serve warm for the best experience!</p>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a scoop of vanilla ice cream or whipped cream for a classic pairing.<\/li><li><strong>Beverage pairings:<\/strong> A glass of sweet iced tea or a light rosé wine complements the tartness beautifully.<\/li><li><strong>Bread\/starch options:<\/strong> Pair with buttery biscuits or scones for a delightful brunch.<\/li><li><strong>Occasion ideas:<\/strong> This pie is great for summer picnics, birthday celebrations, or just a cozy night in.<\/li><li><strong>Presentation tips:<\/strong> Garnish with fresh mint leaves or a sprinkle of powdered sugar for a polished look.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm or at room temperature for the best flavor experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>If you're looking to adapt this recipe, consider making it gluten-free by using a gluten-free pie crust and flour blend. For a vegan version, substitute the butter with coconut oil and use a plant-based milk in the filling. You can also switch up the flavor profile by adding spices like cardamom for a unique twist. If you're feeling adventurous, try swapping cherries for other fruits like blueberries or peaches, adjusting the sugar accordingly to maintain the right balance of sweetness. These variations allow you to enjoy the spirit of the original recipe while catering to different dietary needs.</p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use a gluten-free pie crust for a delicious alternative. Brands like Bob's Red Mill offer great options.<\/li><li><strong>Dietary adaptation 2 (Vegan):<\/strong> Substitute butter with coconut oil and use a vegan pie crust. This keeps it light and plant-based.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add a dash of cayenne pepper to the filling for a surprising kick!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap cherries for raspberries or blackberries for a different berry pie experience.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated cherry dessert, garnished with fresh cherries and mint leaves, ready to serve.",
-                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
-                "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
-                "type": "main"
+                "context": "Freshly baked cherry pie, golden brown and garnished with mint leaves, served on a rustic wooden table",
+                "url": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> A professional tip is to macerate the cherries with sugar for at least 30 minutes before baking. This enhances their flavor and helps create a delicious syrup.</li><li><strong>Ingredient prep secret:</strong> Always wash and dry your cherries thoroughly before using them to prevent excess moisture in the filling.</li><li><strong>Timing strategy:</strong> Prepare your crust and filling ahead of time to streamline the baking process. This allows you to focus on perfecting the baking.</li><li><strong>Presentation hack:</strong> Use a sharp knife to slice the pie for clean edges, and serve with a sprinkle of fresh herbs for a pop of color.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Always chill your pie crust before rolling it out. This helps keep it flaky and prevents shrinking.<\/li><li><strong>Ingredient prep secret:<\/strong> Toss your cherries with a bit of sugar and let them sit for 10 minutes before using. This draws out their juices and enhances the flavor.<\/li><li><strong>Timing strategy:<\/strong> If you're making this for a gathering, bake it the day before. It tastes even better after sitting overnight!<\/li><li><strong>Presentation hack:<\/strong> Use a sharp knife to create decorative slits in the crust for a beautiful finish.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These cherry dessert recipes are not only delicious but also a wonderful way to create lasting memories with your loved ones. With simple ingredients and straightforward instructions, you'll find that making these desserts is both enjoyable and rewarding. Don't hesitate to experiment with flavors and presentations to make them your own! I encourage you to try these recipes, share your experiences, and let the sweet taste of cherries bring joy to your gatherings. Happy baking!</p>"
+            "content": "<p>Making cherry desserts is a fun way to celebrate summer flavors. Each recipe brings a unique twist to the table, and I can't wait for you to try them all. Remember, cooking is about enjoying the process and sharing with loved ones. So, gather your ingredients, roll up your sleeves, and get ready to create something delicious. I’d love to hear how your cherry dessert turns out, so don’t forget to share your experience!<\/p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-            "filePath": "recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
+            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
-            "filePath": "recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
-            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
+            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
-            "filePath": "recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
-            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
+            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
-            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
+            "relativePath": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_mollykitchendaily-main_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth",
+    "id": "recipe_1765643954_745",
     "image": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-    "image_path": "recipes/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
-    "image_dir": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth/images",
+    "image_path": "recipes\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images\/delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth_image_1.webp",
+    "image_dir": "delicious-cherry-dessert-recipes-to-satisfy-your-sweet-tooth\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T17:39:14+01:00",
-    "updatedAt": "2025-12-13T17:39:14+01:00"
+    "createdAt": "2025-12-13T22:03:48+01:00",
+    "updatedAt": "2025-12-13T22:03:48+01:00"
 }

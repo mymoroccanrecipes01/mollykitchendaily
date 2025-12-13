@@ -1,158 +1,160 @@
 {
-    "id": "recipe_1765644193_911",
-    "slug": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers",
-    "title": "Sweet & Tangy Cherry Martini Recipes for Cocktail Lovers",
-    "promptIMG": "Professional food photography prompt: \"Cherry martini, elegantly served in a classic martini glass, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic drink textures, modern bar background in sharp focus, natural window lighting, bar countertop visible, even focus distribution, documentary food photography style, professional drink styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#cherrymartini #cocktailrecipes #mixology #easyrecipes #happyhour",
-    "isOnline": false,
-    "description": "Indulge in these sweet and tangy cherry martini recipes that are sure to impress! Featuring fresh cherries, smooth vodka, and a hint of citrus, these cocktails are perfect for any occasion. Shake up a delightful drink and enjoy with friends. Save this collection for your next gathering!",
-    "category_id": "cat_1761230383_494",
-    "author_id": "author_001",
-    "ingredients": [
-        "2 cups fresh cherries, pitted",
-        "1 cup vodka",
-        "1/2 cup cherry liqueur",
-        "1/4 cup fresh lemon juice",
-        "1/4 cup simple syrup",
-        "Ice cubes",
-        "Fresh cherries and lemon slices for garnish"
-    ],
-    "instructions": [
-        "In a blender, combine the pitted cherries, vodka, cherry liqueur, lemon juice, and simple syrup. Blend until smooth.",
-        "Strain the mixture through a fine mesh sieve into a pitcher to remove any solids.",
-        "Fill a cocktail shaker with ice cubes and pour in the cherry mixture.",
-        "Shake vigorously for about 15 seconds until well chilled.",
-        "Strain the cocktail into chilled martini glasses.",
-        "Garnish with fresh cherries and lemon slices before serving."
-    ],
+    "title": "Cherry Martini Recipes for Your Next Gathering",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Cherry martini, elegantly served in a chilled glass, garnished with fresh cherries and a twist of citrus, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic drink textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "These cherry martinis are a fun twist on classic cocktails! Made with fresh cherries, smooth vodka, and a splash of citrus, they bring a burst of flavor to any occasion. Shake one up for your next get-together and watch everyone enjoy. Don't forget to save this recipe for later!",
+    "hashtags": "#cherrymartini #cocktailrecipes #easyrecipes #mixology #partytime",
+    "difficulty": "Easy",
     "prep_time": 10,
     "cook_time": 0,
-    "total_time": 10,
-    "servings": 10,
-    "difficulty": "Easy",
-    "tips": "To achieve the best flavor, use ripe, sweet cherries. If you prefer a less sweet drink, adjust the amount of simple syrup to taste. For a fun twist, try adding a splash of soda water for some fizz. Store any leftover cherry mixture in the refrigerator for up to 3 days. When serving, ensure the glasses are chilled for a refreshing experience. Experiment with different garnishes like mint or even a splash of club soda for a unique twist.",
+    "servings": 4,
+    "ingredients": [
+        "1 cup fresh cherries, pitted",
+        "1\/2 cup vodka",
+        "1\/4 cup cherry liqueur",
+        "1 tablespoon fresh lemon juice",
+        "Ice cubes",
+        "Fresh cherries and lemon twists for garnish"
+    ],
+    "instructions": [
+        "Start by pitting the fresh cherries and placing them in a cocktail shaker. Muddle them gently to release their juices.",
+        "Add the vodka, cherry liqueur, and fresh lemon juice to the shaker. Fill it with ice cubes.",
+        "Shake vigorously for about 15 seconds until well chilled.",
+        "Strain the mixture into chilled martini glasses, ensuring no cherry bits make it through.",
+        "Garnish each drink with a fresh cherry and a twist of lemon peel for a pop of color and flavor."
+    ],
+    "tips": "When making these cherry martinis, here are some pro tips to keep in mind: \n\n1. **Use fresh cherries**: They make a huge difference in flavor. Look for ones that are firm and bright in color. \n2. **Chill your glasses**: Pop your martini glasses in the freezer for a few minutes before serving. It keeps your drink colder longer. \n3. **Adjust sweetness**: If you prefer a sweeter drink, add a splash of simple syrup. Just mix equal parts sugar and water until dissolved. \n4. **Experiment with flavors**: Try adding a splash of orange liqueur for a different twist. \n5. **Batch it up**: If you’re hosting, make a larger batch in a pitcher. Just multiply the ingredients and stir instead of shaking.",
+    "category_id": "cat_1761230294_638",
+    "image_keywords": [
+        "appetizing",
+        "colorful",
+        "refreshing",
+        "cocktail",
+        "party"
+    ],
     "structured_content": [
         {
-            "content": "<p>Cherry martinis are a delightful blend of sweet and tangy flavors that make them the perfect cocktail for any occasion. The vibrant color and refreshing taste will impress your guests and elevate your gatherings. Whether you're hosting a party or enjoying a quiet evening at home, these cherry martini recipes are sure to please. With just a few simple ingredients, you can create a drink that is both visually stunning and deliciously satisfying.</p>"
+            "content": "<p>Cherry martinis are a refreshing and vibrant cocktail that brings a burst of flavor to any gathering. The combination of fresh cherries and smooth vodka creates a drink that's not just tasty but also visually stunning. Imagine sipping on a beautifully garnished martini, the sweet and tart notes dancing on your palate. This recipe is a crowd favorite, and trust me, it’s super easy to whip up!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to prepare, ready in just 10 minutes - perfect for busy weeknights or entertaining guests.</li><li>Fresh cherries provide a burst of flavor that elevates this cocktail above the rest.</li><li>Ideal for celebrations, casual get-togethers, or a relaxing evening at home.</li><li>Uses simple ingredients that are easy to find at your local grocery store.</li><li>Customizable to suit your taste preferences, whether you like it sweeter or more tart.</li></ul>"
+                "content": "<ul><li>10 minutes to prep. That's it!<\/li><li>Fresh cherries make it taste amazing (no joke).<\/li><li>Perfect for summer parties or cozy nights in.<\/li><li>Everyone loves a good martini, right?<\/li><li>Leftovers? They’re even better the next day!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I first discovered cherry martinis at a summer cocktail party, and they quickly became a favorite. The combination of sweet cherries and smooth vodka creates a refreshing drink that is perfect for warm evenings. I love serving these at gatherings with friends, as they always receive rave reviews. The vibrant color and delicious flavor make them a standout choice for any occasion.</p>"
+            "content": "<p>I remember the first time I tried a cherry martini at a friend's birthday party. The vibrant color caught my eye, and I was hooked after the first sip. It was sweet yet tangy, and I couldn't believe how easy it was to make. Now, I whip these up for every gathering, and they always get rave reviews. Plus, they look so fancy!<\/p>"
+        },
+        {
+            "content": "<p>My first attempt at making cherry martinis? Total disaster. I used frozen cherries instead of fresh ones, and the drink turned out watery and bland. Now I know that fresh ingredients are key for flavor. Trust me, it makes all the difference!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When making cherry martinis, the main ingredient is fresh cherries. Look for ripe, dark cherries that are firm to the touch, as they will provide the best flavor. If fresh cherries are not available, you can use frozen cherries, but be sure to thaw them first. The cherry liqueur adds depth and sweetness, while the vodka serves as the base spirit. For those who prefer a lighter drink, consider using a flavored vodka or a lower-calorie sweetener instead of simple syrup. Essential tools include a blender for mixing and a cocktail shaker for chilling.</p>"
+            "content": "<ul><li><strong>Main ingredient (cherries):<\/strong> Fresh cherries are essential for this recipe. They add a natural sweetness and vibrant color. Look for firm, ripe cherries when shopping. I always go for organic when I can.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Fresh lemon juice brightens the drink and balances the sweetness of the cherries. It’s a must for a refreshing cocktail.<\/li><li><strong>Supporting ingredients:<\/strong> Vodka is the base spirit here, so choose a good quality one. I prefer using Grey Goose for its smoothness.<\/li><li><strong>Smart substitutions:<\/strong> If cherries aren’t in season, you can use frozen ones, but be sure to thaw and drain them first. You could also try a different fruit like raspberries for a unique twist.<\/li><li><strong>Equipment needed:<\/strong> A cocktail shaker is crucial for mixing. I use my trusty KitchenAid shaker, which makes it easy to get everything well combined.<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Fresh cherries, vodka, cherry liqueur, and lemon juice neatly arranged on a kitchen counter, ready for cocktail preparation.",
-                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-                "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-                "type": "main"
+                "context": "Fresh cherries, vodka, cherry liqueur, and lemon juice arranged on a marble counter for cocktail preparation.",
+                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start making your cherry martinis, gather all your ingredients and tools. Wash and pit the cherries, then measure out the vodka, cherry liqueur, lemon juice, and simple syrup. Prepare your cocktail shaker by filling it with ice cubes. This will ensure your drink is perfectly chilled. Once everything is ready, blend the cherries and other ingredients until smooth, then strain and shake to create a refreshing cocktail.</p>"
+            "content": "<p>Making cherry martinis is a breeze! Start by prepping your ingredients. Pit the cherries and measure out your vodka and liqueur. You can do this ahead of time to save on prep. \n\nNext, muddle the cherries in a shaker to release their juices. Add the vodka and liqueur, then fill with ice. Shake it up for about 15 seconds until it’s nice and cold. \n\nFinally, strain into your chilled glasses and garnish with a cherry and lemon twist. It’s all about that presentation!<\/p>"
         },
         {
             "upload": {
-                "context": "Shaking cherry martini mixture in a cocktail shaker filled with ice, ready to be served.",
-                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
-                "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
-                "type": "main"
+                "context": "Shaking fresh cherry martini ingredients in a cocktail shaker on a kitchen countertop.",
+                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Ensure your cocktail shaker is filled with ice to chill the drink properly. This will enhance the flavors and create a refreshing experience.</li><li><strong>Common mistake to avoid:</strong> Avoid using overripe cherries, as they can make the drink too sweet and alter the desired flavor profile.</li><li><strong>Perfect doneness indicator:</strong> The cocktail should be well-chilled, which you can tell by the condensation forming on the shaker.</li><li><strong>Storage & reheating:</strong> Store any leftover cherry mixture in an airtight container in the refrigerator for up to 3 days. Shake well before serving again.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your ingredients are cold. It helps keep the drink refreshing. You can chill your vodka in the freezer for a bit before using.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t skip muddling the cherries. It’s essential for releasing their flavor. If you skip this step, your drink will be flat.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for the drink to be well-mixed and chilled. You’ll know it’s ready when the shaker feels cold to the touch.<\/li><li><strong>Storage & reheating:<\/strong> These martinis are best served fresh, but if you have leftovers, store them in the fridge for up to a day. Just give them a quick shake before serving again.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing cherry martinis with friends always brings joy and laughter. I love watching their faces light up as they take their first sip, and the compliments that follow make all the effort worthwhile. These cocktails have become a staple at my gatherings, sparking conversations and creating memories around the table. There's something special about enjoying a delicious drink together, and I cherish those moments.</p>"
+            "content": "<p>Sharing these cherry martinis with friends is always a blast. I love watching their faces light up when they take that first sip. The sweet and tart flavors are a hit, and it’s such a fun drink to make together. It’s all about creating memories, and these cocktails definitely help set the mood!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To enhance your cherry martinis, consider adding fresh herbs like mint or basil for a refreshing twist. A splash of orange liqueur can also elevate the flavor profile. For a spicier kick, try adding a dash of ginger or cinnamon. If you're feeling adventurous, experiment with different fruit purees or flavored vodkas to create unique variations. You can also adjust the sweetness by using agave syrup instead of simple syrup for a healthier option.</p>"
+            "content": "<ul><li><strong>Herbs:<\/strong> Fresh mint adds a refreshing twist. Just slap the leaves before adding them to release their oils.<\/li><li><strong>Spices:<\/strong> A pinch of cinnamon can give a warm depth to the drink. Just a tiny bit goes a long way!<\/li><li><strong>Upgrades:<\/strong> Try adding a splash of prosecco for a bubbly version. It’s a fun twist that adds a celebratory feel.<\/li><li><strong>Technique variations:<\/strong> For a frozen version, blend the ingredients with ice instead of shaking. It’s a great way to cool down on hot days.<\/li><\/ul>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>Cherry martinis pair wonderfully with a variety of appetizers. Consider serving them alongside cheese platters, bruschetta, or shrimp cocktails for a delightful contrast. For beverages, a light sparkling wine or a refreshing lemonade complements the drink perfectly. If you're hosting a casual dinner, these cocktails are great for pairing with grilled meats or fresh salads. Presentation is key, so serve in elegant martini glasses and garnish with fresh cherries and lemon slices for a stunning visual appeal.</p>"
+            "content": "<ul><li><strong>Side dishes:<\/strong> Serve with light appetizers like bruschetta or cheese platters. They complement the drink without overpowering it.<\/li><li><strong>Beverage pairings:<\/strong> A light sparkling water or lemonade works great alongside these martinis.<\/li><li><strong>Bread\/starch options:<\/strong> Pair with some crusty bread or breadsticks for a nice crunch.<\/li><li><strong>Occasion ideas:<\/strong> These are great for summer parties, birthday celebrations, or even a cozy night in.<\/li><li><strong>Presentation tips:<\/strong> Use colorful straws or fun cocktail umbrellas for a festive touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve these martinis ice-cold for the best experience.<\/li><\/ul>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>If you're looking for dietary adaptations, try using agave nectar instead of simple syrup for a vegan option. For a gluten-free version, ensure your vodka is certified gluten-free. You can also create a spicy cherry martini by adding jalapeño slices to the mix for a kick. If you prefer a creamier texture, consider adding a splash of coconut cream to the shaker. Each variation offers a unique twist while maintaining the essence of the original recipe.</p>"
+            "content": "<ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> All ingredients are gluten-free, so you're good to go!<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> This recipe is naturally vegan, just ensure your cherry liqueur is too.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add a dash of cayenne pepper for a spicy kick. It’s unexpected but delicious!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Use gin instead of vodka for a different flavor profile. It gives a herbal twist that’s refreshing.<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Beautifully plated cherry martini garnished with fresh cherries and lemon slices, ready to serve on a stylish bar counter.",
-                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
-                "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
-                "type": "main"
+                "context": "Chilled cherry martinis garnished with fresh cherries and lemon twists on a rustic wooden table.",
+                "url": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> To elevate your cherry martini, consider infusing your vodka with fresh cherries for a few days before mixing. This enhances the flavor and adds depth.</li><li><strong>Ingredient prep secret:</strong> Always chill your glasses before serving to keep the cocktails cold longer.</li><li><strong>Timing strategy:</strong> Prepare your cherry mixture ahead of time and store it in the fridge to save time when guests arrive.</li><li><strong>Presentation hack:</strong> Rim the glasses with sugar or salt for an elegant touch that adds flavor and visual appeal.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Use a fine mesh strainer to catch any bits when pouring. It gives a smoother finish.<\/li><li><strong>Ingredient prep secret:<\/strong> Muddle the cherries gently. Too much pressure can make them mushy.<\/li><li><strong>Timing strategy:<\/strong> Prepare your garnishes ahead of time. It saves you stress when serving.<\/li><li><strong>Presentation hack:<\/strong> Rim the glasses with sugar for an extra touch of sweetness and style.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These cherry martini recipes are not only delicious but also simple to make, making them a perfect choice for any occasion. With just a few ingredients, you can impress your guests and create memorable moments. I encourage you to give these recipes a try and share your experiences. Don't forget to rate the recipe and post your photos on social media with the hashtag #cherrymartini. Enjoy the delightful flavors and the joy of mixing up something special!</p>"
+            "content": "<p>These cherry martinis are a fun and flavorful way to bring people together. They’re easy to make and always a hit. I hope you give this recipe a try and share your experience! Don’t forget to rate it and let me know how it turned out. Cheers to delicious drinks!<\/p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-            "filePath": "recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
+            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
-            "filePath": "recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
-            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
+            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
-            "filePath": "recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
-            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
+            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
-            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
+            "relativePath": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_mollykitchendaily-main_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers",
+    "id": "recipe_1765644193_911",
     "image": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-    "image_path": "recipes/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
-    "image_dir": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers/images",
+    "image_path": "recipes\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images\/sweet-tangy-cherry-martini-recipes-for-cocktail-lovers_image_1.webp",
+    "image_dir": "sweet-tangy-cherry-martini-recipes-for-cocktail-lovers\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T17:43:13+01:00",
-    "updatedAt": "2025-12-13T17:43:13+01:00"
+    "createdAt": "2025-12-13T22:03:51+01:00",
+    "updatedAt": "2025-12-13T22:03:51+01:00"
 }

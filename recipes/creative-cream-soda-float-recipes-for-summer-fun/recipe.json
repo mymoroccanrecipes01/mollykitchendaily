@@ -1,157 +1,163 @@
 {
-    "id": "recipe_1765644510_410",
-    "slug": "creative-cream-soda-float-recipes-for-summer-fun",
-    "title": "Creative Cream Soda Float Recipes for Summer Fun",
-    "promptIMG": "Professional food photography prompt: \"homemade cream soda float, professionally plated in a tall glass with a scoop of ice cream, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#creamsodafloats #sodafloatrecipes #summerdesserts #easyrecipes #refreshingdrinks",
-    "isOnline": false,
-    "description": "Beat the heat with these creative cream soda float recipes! Made with fizzy cream soda and your favorite ice cream flavors, these floats are perfect for summer gatherings or a refreshing treat. Try these delicious combinations and enjoy a nostalgic dessert experience. Save this recipe for your next sunny day!",
-    "category_id": "cat_1761230294_638",
-    "author_id": "author_001",
-    "ingredients": [
-        "2 cups cream soda, chilled",
-        "4 scoops vanilla ice cream",
-        "1/2 cup whipped cream, for topping",
-        "1/4 cup chocolate syrup, for drizzling",
-        "1/4 cup maraschino cherries, for garnish",
-        "Optional: flavored syrups (strawberry, raspberry, etc.)"
-    ],
-    "instructions": [
-        "In a tall glass, add one scoop of vanilla ice cream.",
-        "Slowly pour cream soda over the ice cream until the glass is about three-quarters full.",
-        "Add a drizzle of chocolate syrup on top of the ice cream.",
-        "Top with whipped cream and a maraschino cherry.",
-        "Repeat for additional servings, experimenting with flavored syrups as desired.",
-        "Serve immediately with a straw and a spoon."
-    ],
+    "title": "Refreshing Cream Soda Floats for Summer Fun",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Cream soda floats, beautifully served in tall glasses with scoops of ice cream, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "Beat the heat with these refreshing cream soda floats! Made with fizzy cream soda and your favorite ice cream flavors, they’re a fun treat for hot days. Great for summer gatherings or just a cool afternoon snack. Save this recipe for your next sunny day!",
+    "hashtags": "#creamsodafloats #summerdrinks #refreshingdesserts #easyrecipes #nostalgicflavors",
+    "difficulty": "Easy",
     "prep_time": 10,
     "cook_time": 0,
-    "total_time": 10,
     "servings": 4,
-    "difficulty": "Easy",
-    "tips": "To achieve the perfect cream soda float, use chilled ingredients to prevent the ice cream from melting too quickly. For added flavor, consider using flavored syrups or different ice cream varieties. Avoid pouring the soda too quickly to prevent excessive fizzing. If making ahead, prepare the components separately and assemble just before serving to maintain texture. Store any leftover floats in the freezer, but consume within a day for best quality.",
+    "ingredients": [
+        "4 cups cream soda, chilled",
+        "4 scoops of your favorite ice cream (vanilla, root beer, or chocolate work great)",
+        "Whipped cream for topping",
+        "Maraschino cherries for garnish",
+        "Sprinkles (optional)"
+    ],
+    "instructions": [
+        "Grab four tall glasses and fill each with chilled cream soda, about three-quarters full.",
+        "Add a generous scoop of ice cream to each glass, letting it float on top of the soda.",
+        "Top with a dollop of whipped cream for that extra touch.",
+        "Garnish with a maraschino cherry and sprinkles if you’re feeling fancy.",
+        "Serve immediately with a straw and a spoon for the ultimate experience!"
+    ],
+    "tips": "When making cream soda floats, here are some tips to keep in mind: \n1. Use chilled cream soda to prevent the ice cream from melting too quickly. It keeps the float refreshing and bubbly. \n2. Experiment with different ice cream flavors to find your favorite combo. I love mixing vanilla with a splash of root beer soda! \n3. If you want a thicker float, use less soda and more ice cream. It’s all about your preference! \n4. For a fun twist, try adding flavored syrups or fruit purees to the soda before adding ice cream. It adds a unique flavor dimension. \n5. Make it a party! Set up a float bar with various sodas and ice cream flavors for guests to create their own combinations. It’s a hit every time!",
+    "category_id": "cat_1761230294_638",
+    "image_keywords": [
+        "refreshing",
+        "colorful",
+        "summer",
+        "fun",
+        "nostalgic",
+        "homemade"
+    ],
     "structured_content": [
         {
-            "content": "<p>Indulge in the nostalgic delight of homemade cream soda floats, a perfect treat for warm summer days! With their fizzy sweetness and creamy texture, these floats are not just a drink; they are a celebration in a glass. Imagine the sound of fizz as you pour the cream soda over a generous scoop of vanilla ice cream, creating a delightful contrast of flavors and temperatures. This recipe allows you to get creative with various ice cream flavors and toppings, making it a versatile dessert for any occasion. Whether you're hosting a backyard barbecue or enjoying a quiet afternoon, these floats are sure to bring smiles and refreshment!</p>"
+            "content": "<p>So I've made these cream soda floats a bunch of times and they never get old! The fizzy cream soda paired with your favorite ice cream is just a classic combo that screams summer. Imagine the sound of soda fizzing as you pour it over a scoop of creamy ice cream. It’s like a mini party in a glass! Plus, you can customize it however you want, which makes it even better.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 10 minutes - perfect for hot summer days!</li><li>Customize with your favorite ice cream flavors and toppings for endless variations.</li><li>Ideal for family gatherings, parties, or a fun treat after dinner.</li><li>Uses simple ingredients that are easy to find at any grocery store.</li><li>Perfect for kids and adults alike, making it a crowd-pleaser!</li><li>Refreshing and indulgent, these floats are a delightful way to cool off.</li></ul>"
+                "content": "<ul><li>30 minutes start to finish. That's it.<\/li><li>Kids love it (trust me, mine go nuts for floats!).<\/li><li>You probably have everything you need already.<\/li><li>Great for hot days when you need something cool.<\/li><li>Can be made in bulk for parties or gatherings.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Every summer, my family and I would gather around the kitchen table, excitedly creating our own versions of cream soda floats. It became a cherished tradition, with each person adding their unique twist to the classic recipe. I remember the laughter and joy as we experimented with different ice cream flavors and toppings. This recipe brings back those sweet memories, and I love sharing it with friends and family. It's not just a dessert; it's a way to connect and create new memories together!</p>"
+            "content": "<p>I remember the first time I had a cream soda float. It was at a summer fair, and I was instantly hooked. The sweet fizz, the cold ice cream... it was pure bliss! Now, I make these floats for my family during hot days, and it brings back those fun memories. Everyone gathers around, and we share laughs while sipping on these tasty treats. It’s a little slice of summer joy!<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>My first attempt at making these? Total disaster. I poured the soda too quickly and ended up with a huge mess. The ice cream melted before I could even enjoy it! Now I know to pour slowly and let the fizz settle before adding more. It makes all the difference!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>To make the perfect cream soda float, you'll need:</p><ul><li><strong>Cream soda:</strong> Look for high-quality, naturally flavored cream soda for the best taste. The sweetness and carbonation create a delightful fizz that pairs perfectly with ice cream.</li><li><strong>Vanilla ice cream:</strong> A classic choice, but feel free to experiment with other flavors like chocolate, strawberry, or even mint for a unique twist.</li><li><strong>Whipped cream:</strong> Adds a light, airy texture that complements the richness of the ice cream.</li><li><strong>Chocolate syrup:</strong> A delicious drizzle that enhances the flavor, but you can also use caramel or fruit syrups for a different taste.</li><li><strong>Smart substitutions:</strong> For a dairy-free option, use coconut milk ice cream and a non-dairy cream soda. For a lower-sugar version, opt for sugar-free soda and ice cream.</li><li><strong>Equipment needed:</strong> Tall glasses for serving, a spoon for scooping, and a straw for sipping.</li></ul>"
+            "content": "<p><strong>Main ingredient (cream soda):<\/strong> Look for a good quality cream soda that’s not overly sweet. I prefer brands like A&W or Barq's for their rich flavor. It really enhances the float experience. <strong>Key seasonings\/aromatics:<\/strong> You can add a splash of vanilla extract for an extra flavor kick. It complements the ice cream beautifully. <strong>Supporting ingredients:<\/strong> Whipped cream adds a nice creamy texture on top. I usually go for the canned version for convenience. <strong>Smart substitutions:<\/strong> If you want a lighter option, try using sparkling water with a splash of vanilla syrup instead of cream soda. It’s refreshing and still delicious!<\/p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for homemade cream soda floats, including cream soda, vanilla ice cream, and toppings, arranged on a kitchen counter.",
-                "url": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-                "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-                "type": "main"
+                "context": "Fresh cream soda, ice cream scoops, and toppings arranged on a countertop ready for float preparation.",
+                "url": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before diving into the fun of making cream soda floats, it's important to prepare your ingredients:</p><dl><dt><strong>Preparation phase:</strong></dt><dd>Gather all your ingredients and chill the cream soda in the refrigerator. Scoop the ice cream into balls and set them aside on a plate. This will make assembly quick and easy.</dd><dt><strong>Cooking/Baking process:</strong></dt><dd>There’s no cooking involved, just the joy of assembling! Pour the chilled cream soda slowly over the ice cream to create a beautiful fizzing effect.</dd><dt><strong>Finishing touches:</strong></dt><dd>Top with whipped cream, drizzle with chocolate syrup, and add a cherry on top for that classic look. Serve immediately for the best experience!</dd></dl>"
+            "content": "<p>Preparation phase: Start by gathering your ingredients. Chill the cream soda in the fridge for about an hour before serving. This helps keep the ice cream from melting too fast. <strong>Cooking process:<\/strong> Pour the cream soda into glasses slowly to avoid overflow. Add the ice cream gently on top. You’ll see it fizz and bubble, which is part of the fun! <strong>Finishing touches:<\/strong> Top with whipped cream and a cherry for that classic look. Serve immediately for the best experience!<\/p>"
         },
         {
             "upload": {
-                "context": "Pouring cream soda over a scoop of vanilla ice cream in a tall glass, creating a fizzy float.",
-                "url": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
-                "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
-                "type": "main"
+                "context": "Pouring cream soda over a scoop of ice cream in a tall glass, creating a bubbly float.",
+                "url": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:</strong> Ensure your cream soda is well-chilled to maintain the fizz and prevent the ice cream from melting too quickly.</li><li><strong>Common mistake to avoid:</strong> Pouring the soda too quickly can cause excessive fizzing and overflow. Pour slowly to control the fizz.</li><li><strong>Perfect doneness indicator:</strong> The float is ready when the ice cream is just starting to melt and the soda is bubbling beautifully.</li><li><strong>Storage & reheating:</strong> Cream soda floats are best enjoyed fresh. If you have leftovers, store the components separately in the fridge and assemble just before serving.</li></ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your cream soda is really cold. It helps maintain the float's structure and keeps it refreshing.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t rush the pouring! If you pour too fast, you’ll end up with a messy overflow.<\/li><li><strong>Perfect doneness indicator:<\/strong> You’ll know it’s ready when the ice cream starts to float and the soda bubbles around it.<\/li><li><strong>Storage & reheating:<\/strong> These floats are best enjoyed fresh. If you have leftovers, store the soda and ice cream separately in the fridge and freezer, respectively.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing cream soda floats with loved ones is one of life's simple joys. I remember serving these at family gatherings, where everyone would gather around, laughing and enjoying their creations. The smiles on their faces as they took their first sips were priceless. It's a treat that brings people together, sparking conversations and creating lasting memories. Whether it's a hot summer day or a cozy evening, these floats are a delightful way to celebrate togetherness and the joy of good food.</p>"
+            "content": "<p>Sharing these floats with friends is always a blast! Everyone loves customizing their own, and it sparks fun conversations. I love seeing the kids' faces light up when they take their first sip. It’s those little moments that make summer special. Plus, the colors are so vibrant and inviting, they just scream, 'Let’s have fun!' I can’t wait to hear how yours turn out!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Elevate your cream soda floats with these fun ideas:</p><ul><li>Fresh herbs like mint or basil can add a refreshing twist. Add a sprig on top for a pop of color and flavor.</li><li>Spices like cinnamon or nutmeg can enhance the flavor profile. Sprinkle a pinch on top of the whipped cream for a warm touch.</li><li>Upgrade your ice cream with gourmet options like salted caramel or coffee for a richer experience.</li><li>Try different techniques like blending the soda and ice cream for a creamy shake instead of a float.</li></ul><p>Feel free to mix and match these ideas to create your perfect float!</p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh mint adds a cool twist. Just a few leaves muddled into the soda before adding ice cream can elevate the flavor.<\/li><li><strong>Spices:<\/strong> A sprinkle of cinnamon can add warmth and depth. Just a pinch goes a long way!<\/li><li><strong>Upgrades:<\/strong> Try using gourmet ice creams like salted caramel or coffee for a more sophisticated float.<\/li><li><strong>Technique variations:<\/strong> Blend the soda and ice cream together for a creamy shake version instead of a float!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To make your cream soda float experience even better, consider these pairings:</p><ul><li><strong>Side dishes:</strong> Serve with light snacks like popcorn or fruit skewers for a refreshing contrast.</li><li><strong>Beverage pairings:</strong> Pair with iced tea or lemonade for a complete summer refreshment experience.</li><li><strong>Bread/starch options:</strong> Light cookies or brownies can complement the sweetness of the float.</li><li><strong>Occasion ideas:</strong> Perfect for summer barbecues, birthday parties, or casual family dinners.</li><li><strong>Presentation tips:</strong> Use colorful straws and fun glasses to make the floats visually appealing.</li><li><strong>Temperature serving note:</strong> Serve immediately for the best flavor and texture, as the ice cream will melt into the soda.</li></ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with light snacks like popcorn or pretzels for a fun contrast to the sweetness.<\/li><li><strong>Beverage pairings:<\/strong> I love pairing these floats with iced tea or lemonade for a refreshing combo.<\/li><li><strong>Bread\/starch options:<\/strong> A slice of lemon pound cake goes great on the side!<\/li><li><strong>Occasion ideas:<\/strong> These floats are a hit at birthday parties or summer barbecues. Everyone can get creative!<\/li><li><strong>Presentation tips:<\/strong> Use clear glasses to show off the layers. Add colorful straws for a fun touch.<\/li><li><strong>Temperature serving note:<\/strong> Serve immediately after preparation for the best experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these exciting variations of cream soda floats:</p><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):</strong> Use gluten-free cream soda and ice cream to ensure everyone can enjoy this treat.</li><li><strong>Dietary adaptation 2 (e.g., Vegan/Dairy-Free):</strong> Substitute with coconut cream soda and dairy-free ice cream for a delicious vegan option.</li><li><strong>Flavor variation (e.g., Tropical):</strong> Use coconut cream soda and pineapple ice cream for a tropical twist that transports you to the beach.</li><li><strong>Protein/ingredient swap:</strong> Swap vanilla ice cream for a protein-packed Greek yogurt for a healthier version.</li></ul><p>These variations allow you to enjoy cream soda floats in new and exciting ways!</p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> All ingredients are naturally gluten-free, so no swaps needed!<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Use coconut or almond milk ice cream for a dairy-free version.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add a dash of cayenne pepper to the cream soda for a spicy kick!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap out the ice cream for frozen yogurt for a lighter treat.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated cream soda float with whipped cream and a cherry on top, ready to serve.",
-                "url": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
-                "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
-                "type": "main"
+                "context": "Final plated cream soda floats garnished with whipped cream and cherries on a sunny table.",
+                "url": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:</strong> For a professional touch, consider making your own cream soda by mixing sparkling water with flavored syrup. This allows for complete control over sweetness and flavor.</li><li><strong>Ingredient prep secret:</strong> Scoop ice cream ahead of time and freeze the scoops on a tray to maintain shape and temperature during assembly.</li><li><strong>Timing strategy:</strong> Prepare all ingredients in advance and assemble the floats just before serving to keep everything fresh and bubbly.</li><li><strong>Presentation hack:</strong> Rim the glasses with chocolate syrup and dip in crushed nuts or sprinkles for an eye-catching look.</li></ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a frosty glass, chill your glasses in the freezer for about 10 minutes before serving.<\/li><li><strong>Ingredient prep secret:<\/strong> Use a melon baller for perfectly round scoops of ice cream.<\/li><li><strong>Timing strategy:<\/strong> Prepare all your ingredients ahead of time so you can serve them quickly when guests arrive.<\/li><li><strong>Presentation hack:<\/strong> Drizzle chocolate or caramel sauce inside the glass before pouring in the soda for a beautiful effect.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>These homemade cream soda floats are not only easy to make but also a delightful way to bring joy to any occasion. With endless possibilities for customization, you're sure to find a combination that everyone will love. Enjoy the satisfaction of creating a treat that not only tastes amazing but also sparks happiness and nostalgia. Don't forget to share your experiences and photos with us! We can't wait to see your delicious creations. Now, go ahead and make these delightful cream soda floats!</p>"
+            "content": "<p>These cream soda floats are a must-try for any summer gathering! They’re easy to make, fun to customize, and bring back those nostalgic vibes. I hope you give this recipe a shot and share your creations with me. Don’t forget to rate it and let me know how it turned out. Enjoy your refreshing treat!<\/p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-            "filePath": "recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
+            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
             "order": 1
         },
         {
             "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
-            "filePath": "recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
-            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
+            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
             "order": 2
         },
         {
             "fileName": "creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
-            "filePath": "recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
-            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
+            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
             "order": 3
         },
         {
             "fileName": "creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
-            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
+            "relativePath": "creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_mollykitchendaily-main_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
+    "slug": "creative-cream-soda-float-recipes-for-summer-fun",
+    "id": "recipe_1765644510_410",
     "image": "creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-    "image_path": "recipes/creative-cream-soda-float-recipes-for-summer-fun/images/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
-    "image_dir": "creative-cream-soda-float-recipes-for-summer-fun/images",
+    "image_path": "recipes\/creative-cream-soda-float-recipes-for-summer-fun\/images\/creative-cream-soda-float-recipes-for-summer-fun_image_1.webp",
+    "image_dir": "creative-cream-soda-float-recipes-for-summer-fun\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T17:48:30+01:00",
-    "updatedAt": "2025-12-13T17:48:30+01:00"
+    "createdAt": "2025-12-13T22:03:58+01:00",
+    "updatedAt": "2025-12-13T22:03:58+01:00"
 }

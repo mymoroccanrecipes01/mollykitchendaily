@@ -1,116 +1,125 @@
 {
-    "id": "recipe_1765060658_835",
-    "slug": "quick-easy-pepper-jelly-cream-cheese-dip",
-    "title": "Quick & Easy Pepper Jelly Cream Cheese Dip",
-    "promptIMG": "Professional food photography prompt: \"pepper jelly cream cheese dip, professionally plated on a rustic wooden board with crackers and phyllo cups, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Sweet and Spicy Pepper Jelly Cream Cheese Dip",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Sweet and Spicy Pepper Jelly Cream Cheese Dip, served in a colorful bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Indulge in this quick and easy pepper jelly cream cheese dip that's perfect for any gathering! Featuring a delightful blend of sweet and spicy pepper jelly with smooth cream cheese, this appetizer is sure to impress your guests. Serve it with crunchy crackers or in bite-sized phyllo cups for a fun twist. Pin this recipe for your next get-together! 🎉",
-    "category_id": "cat_1761230221_583",
-    "author_id": "author_001",
-    "ingredients": [
-        "8 ounces cream cheese, softened",
-        "1\/2 cup pepper jelly",
-        "1\/4 cup chopped fresh herbs (like cilantro or parsley)",
-        "1 package of crackers or phyllo cups for serving"
-    ],
-    "instructions": [
-        "In a mixing bowl, combine the softened cream cheese and pepper jelly until smooth and well blended.",
-        "Fold in the chopped fresh herbs for added flavor and freshness.",
-        "Transfer the mixture to a serving bowl or spread it into phyllo cups for individual servings.",
-        "Serve immediately with crackers or refrigerate for up to 1 hour before serving to allow flavors to meld."
-    ],
+    "description": "This sweet and spicy pepper jelly cream cheese dip is a must-try! With a blend of creamy cheese and zesty pepper jelly, it’s a hit at any gathering. Serve it with crunchy crackers or in phyllo cups for a fun twist. Save this recipe for your next party!",
+    "hashtags": "#pepperjellydip #appetizersnacks #easyrecipes #partyfood #creamcheesedip",
+    "difficulty": "Easy",
     "prep_time": 10,
     "cook_time": 0,
-    "total_time": 10,
     "servings": 8,
-    "difficulty": "Easy",
-    "tips": "To achieve the best flavor, use high-quality pepper jelly and allow the cream cheese to soften at room temperature for easier mixing. Avoid overmixing to maintain a creamy texture. If using phyllo cups, bake them according to package instructions for a crispy base. Store any leftovers in an airtight container in the refrigerator for up to 3 days. For a spicier kick, consider adding a dash of hot sauce to the cream cheese mixture.",
+    "ingredients": [
+        "8 ounces cream cheese, softened",
+        "1 cup sweet and spicy pepper jelly",
+        "1 tablespoon chopped fresh chives (optional)",
+        "Crackers or phyllo cups for serving"
+    ],
+    "instructions": [
+        "Start by letting the cream cheese sit at room temperature for about 10 minutes to soften it up. This makes mixing easier.",
+        "In a mixing bowl, combine the softened cream cheese and pepper jelly. Use a hand mixer or a spatula to blend until smooth and creamy.",
+        "If you want a little extra flavor, fold in the chopped chives at this point.",
+        "Transfer the dip to a serving bowl and smooth the top with a spatula. You can drizzle a bit more pepper jelly on top for a nice presentation.",
+        "Serve immediately with your favorite crackers or fill phyllo cups for a fun appetizer. Enjoy!"
+    ],
+    "tips": "When making this dip, remember that the cream cheese needs to be soft for the best texture. I usually let it sit out for about 10 minutes before mixing. If you want to add a little kick, consider using a spicier pepper jelly. You can also experiment with different toppings like crushed nuts or fresh herbs. If you have leftovers, store them in an airtight container in the fridge for up to three days. Just give it a quick stir before serving again. And trust me, this dip tastes even better the next day as the flavors meld together!",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>This Quick Pepper Jelly Cream Cheese Dip is a delightful blend of sweet and spicy flavors, perfect for any occasion. The creamy texture of the cheese pairs beautifully with the vibrant pepper jelly, creating a dish that is both visually appealing and delicious. Whether you're hosting a party or simply enjoying a cozy night in, this dip is sure to be a hit with family and friends. Serve it with crunchy crackers or in crispy phyllo cups for a fun twist that everyone will love!<\/p>"
+            "content": "<p>So I've made this dip a few times and every time it disappears fast! The combination of creamy cheese and sweet, spicy jelly creates a flavor explosion that’s hard to resist. It’s super easy to whip up, making it a go-to for any gathering. I love how the vibrant colors of the jelly pop against the creamy backdrop, making it look as good as it tastes!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 10 minutes - perfect for last-minute gatherings!<\/li><li>Combines sweet and spicy flavors that everyone enjoys.<\/li><li>Ideal for casual get-togethers, game nights, or as a simple snack.<\/li><li>Uses ingredients you likely have on hand, making it budget-friendly.<\/li><li>Versatile serving options with crackers or phyllo cups.<\/li><\/ul>"
+                "content": "<ul><li>10 minutes to make. Seriously, that’s it!<\/li><li>Tastes like you spent hours but you didn’t.<\/li><li>My friends can’t get enough of it (no joke!).<\/li><li>Chances are you have everything already.<\/li><li>Leftovers? They’re even better the next day.<\/li><li>Great for parties or just a cozy night in.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I discovered this Quick Pepper Jelly Cream Cheese Dip during a family gathering, and it quickly became a favorite. The combination of sweet pepper jelly and creamy cheese is simply irresistible! I love how easy it is to whip up, making it my go-to recipe for unexpected guests. Every time I serve it, I get requests for the recipe, and it always brings smiles to the table!<\/p>"
+            "content": "<p>I remember the first time I tried this dip at a friend's party. It was gone in seconds! I had to get the recipe, and now it’s my go-to for gatherings. The blend of sweet and spicy is just right, and it pairs perfectly with crunchy crackers. Every time I make it, I think of that fun night, and it always brings a smile to my face.<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>First time I made this dip, I thought I could skip softening the cream cheese. DISASTER. It turned out lumpy and not at all creamy. Now I know that letting it sit out for a bit makes all the difference because it blends so much better!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><strong>Main ingredient (cream cheese):<\/strong> Cream cheese is the base of this dip, providing a rich and creamy texture. Look for full-fat varieties for the best flavor. Allow it to soften at room temperature for easier mixing.<\/p><ul><li><strong>Key seasonings\/aromatics:<\/strong> Pepper jelly adds a sweet heat that balances the creaminess of the cheese. Choose a brand that matches your spice preference.<\/li><li><strong>Supporting ingredients:<\/strong> Fresh herbs like cilantro or parsley enhance the flavor and add a pop of color. Chop them finely for even distribution.<\/li><li><strong>Smart substitutions:<\/strong> For a dairy-free version, use vegan cream cheese. To make it gluten-free, serve with gluten-free crackers.<\/li><li><strong>Equipment needed:<\/strong> Mixing bowl and spatula for easy preparation.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (cream cheese):<\/strong> Cream cheese is key for that smooth texture. Look for full-fat varieties for the best flavor. I always use Philadelphia cream cheese because it blends perfectly.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> The pepper jelly adds a sweet and spicy kick. I prefer using homemade jelly when I can, but store-bought works just fine too!<\/li><li><strong>Supporting ingredients:<\/strong> Crackers or phyllo cups provide a nice crunch. I love using whole grain crackers for a bit of nuttiness.<\/li><li><strong>Smart substitutions:<\/strong> You can swap the cream cheese for Greek yogurt for a lighter version, or try a dairy-free cream cheese if you're avoiding dairy.<\/li><li><strong>Equipment needed:<\/strong> A good mixing bowl and a hand mixer make this dip super easy to prepare. I use my KitchenAid mixer for a smooth blend.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Fresh cream cheese, pepper jelly, and herbs neatly arranged on a kitchen counter, ready for dip preparation.",
-                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp",
-                "fileName": "quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp",
-                "type": "main"
+                "context": "Fresh cream cheese, pepper jelly, and chives arranged on a marble countertop for dip preparation.",
+                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start cooking, gather all your ingredients and allow the cream cheese to soften. This will make mixing much easier. Prepare your serving dishes, whether it's a bowl for the dip or phyllo cups. Make sure to have your crackers ready for serving.<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Chop the fresh herbs and measure out the cream cheese and pepper jelly. This should take about 5 minutes. Having everything prepped will streamline the process.<\/dd><dt><strong>Cooking\/Baking process:<\/strong><\/dt><dd>This dip requires no cooking! Simply mix the ingredients together until smooth. Expect a creamy consistency and a vibrant color from the pepper jelly.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Transfer the dip to a serving bowl or fill phyllo cups. Garnish with additional herbs if desired for an appealing presentation.<\/dd><\/dl>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by gathering all your ingredients. Let the cream cheese sit out for about 10 minutes to soften. This is key for a smooth dip. You can also chop the chives if you're using them.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Mix the cream cheese and pepper jelly together until smooth. This should take just a couple of minutes. You’ll know it’s ready when it’s creamy and well combined.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Transfer the dip to a serving bowl, and if you like, drizzle a bit more jelly on top for flair. Serve it with your favorite crackers or in phyllo cups!<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
-                "context": "Mixing creamy pepper jelly dip in a bowl with a spatula, showcasing the vibrant colors of the ingredients.",
-                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_2.webp",
-                "fileName": "quick-easy-pepper-jelly-cream-cheese-dip_image_2.webp",
-                "type": "main"
+                "context": "Mixing sweet and spicy pepper jelly cream cheese dip in a bowl with a spatula.",
+                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Ensure your cream cheese is at room temperature for easy mixing. Cold cream cheese can result in a lumpy dip.<\/li><li><strong>Common mistake to avoid:<\/strong> Overmixing can lead to a runny texture. Mix just until combined for the best results.<\/li><li><strong>Perfect doneness indicator:<\/strong> This dip is ready when it's smooth and well combined, with no lumps remaining.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the refrigerator for up to 3 days. No need to reheat; it can be enjoyed cold!<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your cream cheese is at room temperature. This helps it blend smoothly with the jelly.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t skip softening the cream cheese! It’ll make your dip lumpy.<\/li><li><strong>Perfect doneness indicator:<\/strong> You’ll know it’s ready when it’s smooth and creamy, with no lumps.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to three days. Just give it a stir before serving again.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this Quick Pepper Jelly Cream Cheese Dip with friends and family is always a joy. Watching their faces light up with delight as they take their first bite is incredibly rewarding. It's a dish that sparks conversation and laughter around the table, creating memories that last a lifetime. I love hearing their compliments and seeing them come back for seconds!<\/p>"
+            "content": "<p>Sharing this dip with friends is always a joy! I love watching their faces light up as they take that first bite. The combination of flavors is a crowd favorite, and it sparks so many conversations. It’s the kind of dish that brings people together, and I can’t wait to hear how you enjoy it!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To elevate this dip, consider adding:<\/p><ul><li>Fresh herbs like basil or chives for a different flavor profile. Add them just before serving for maximum freshness.<\/li><li>A pinch of cayenne pepper for an extra kick. Start with 1\/4 teaspoon and adjust to taste.<\/li><li>Crumbled feta or goat cheese for a tangy twist that complements the sweetness of the jelly.<\/li><li>For a smoky flavor, mix in some smoked paprika or chipotle powder.<\/li><\/ul><p>Feel free to experiment with these suggestions to make the dip your own!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh cilantro can add a nice twist. Just chop it finely and mix it in for a fresh flavor.<\/li><li><strong>Spices:<\/strong> A pinch of cayenne pepper can kick up the heat if you like it spicy. Start with just a little and adjust to your taste.<\/li><li><strong>Upgrades:<\/strong> Consider adding some crumbled bacon on top for a savory crunch. It pairs beautifully with the sweet jelly.<\/li><li><strong>Technique variations:<\/strong> Try baking the dip in the oven for a warm version. Just heat it at 350°F for about 15 minutes until bubbly.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>This dip pairs wonderfully with:<\/p><ul><li><strong>Side dishes:<\/strong> Crunchy vegetable sticks like carrots and celery for a fresh contrast.<\/li><li><strong>Beverage pairings:<\/strong> A light white wine or sparkling water with lime complements the flavors beautifully.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with toasted baguette slices for a gourmet touch.<\/li><li><strong>Occasion ideas:<\/strong> Perfect for casual gatherings, game nights, or holiday parties.<\/li><li><strong>Presentation tips:<\/strong> Serve in a colorful bowl and garnish with fresh herbs for an inviting look.<\/li><li><strong>Temperature serving note:<\/strong> Best served chilled or at room temperature for optimal flavor.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a variety of crackers, or even fresh veggies for a healthier option. I love pairing it with whole grain crackers for added texture.<\/li><li><strong>Beverage pairings:<\/strong> A crisp white wine or sparkling water complements the dip nicely. The bubbles help cleanse the palate!<\/li><li><strong>Bread\/starch options:<\/strong> Pita chips are a great alternative for dipping. They add a nice crunch.<\/li><li><strong>Occasion ideas:<\/strong> This dip shines at parties, game days, or even cozy nights in with friends.<\/li><li><strong>Presentation tips:<\/strong> Garnish with extra chives or a drizzle of pepper jelly for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Serve chilled for the best flavor experience.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>For a twist on this classic dip, try:<\/p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use gluten-free crackers or serve with fresh vegetables instead.<\/li><li><strong>Dietary adaptation 2 (Vegan):<\/strong> Substitute with vegan cream cheese and ensure the pepper jelly is also vegan-friendly.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños or a splash of hot sauce for a spicy kick.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Mix in shredded chicken for a heartier dip that’s perfect for parties.<\/li><\/ul><p>These variations keep the spirit of the original while offering exciting new flavors!<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use gluten-free crackers or veggies for dipping. It works just as well!<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Substitute cream cheese with a vegan cream cheese alternative for a dairy-free version.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños for an extra kick. It changes the flavor profile beautifully!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap in goat cheese for a tangy twist that pairs well with the jelly.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "A beautifully plated pepper jelly cream cheese dip garnished with fresh herbs, served with crackers and phyllo cups on a rustic wooden table.",
-                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_3.webp",
-                "fileName": "quick-easy-pepper-jelly-cream-cheese-dip_image_3.webp",
-                "type": "main"
+                "context": "Colorful bowl of sweet and spicy pepper jelly cream cheese dip garnished with chives, served with crackers.",
+                "url": "quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Mixing cream cheese with a hand mixer can create an ultra-smooth texture that elevates the dip.<\/li><li><strong>Ingredient prep secret:<\/strong> Let your cream cheese sit out for at least 30 minutes before using to achieve the best consistency.<\/li><li><strong>Timing strategy:<\/strong> Prepare the dip ahead of time and refrigerate to allow flavors to meld, making your hosting duties easier.<\/li><li><strong>Presentation hack:<\/strong> Use a piping bag to fill phyllo cups for a professional-looking presentation.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a smoother texture, use a food processor to blend the cream cheese and jelly.<\/li><li><strong>Ingredient prep secret:<\/strong> If you want a more intense flavor, try using homemade pepper jelly.<\/li><li><strong>Timing strategy:<\/strong> Make this dip a few hours ahead of time to let the flavors meld together.<\/li><li><strong>Presentation hack:<\/strong> Serve in a hollowed-out bell pepper for a fun and colorful presentation!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This Quick Pepper Jelly Cream Cheese Dip is not only easy to make but also a guaranteed crowd-pleaser. Its delightful combination of flavors will impress your guests and make you feel like a culinary star. Don't hesitate to try this recipe; it's perfect for any occasion! Share your experience in the comments and let us know how you enjoyed it. We can't wait to see your creations on social media! #pepperjellydip<\/p>"
+            "content": "<p>Honestly, this sweet and spicy pepper jelly cream cheese dip is a total win! It’s quick, easy, and always a hit. I can’t wait for you to try it and see how much everyone loves it. Don’t forget to share your experience in the comments or snap a photo and tag me on social media!<\/p>"
         }
     ],
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp",
@@ -142,11 +151,13 @@
             "type": "template"
         }
     ],
+    "slug": "quick-easy-pepper-jelly-cream-cheese-dip",
+    "id": "recipe_1765060658_835",
     "image": "quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp",
     "image_path": "recipes\/quick-easy-pepper-jelly-cream-cheese-dip\/images\/quick-easy-pepper-jelly-cream-cheese-dip_image_1.webp",
     "image_dir": "quick-easy-pepper-jelly-cream-cheese-dip\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-11T18:51:23+01:00",
-    "updatedAt": "2025-12-11T18:51:23+01:00"
+    "createdAt": "2025-12-13T22:03:47+01:00",
+    "updatedAt": "2025-12-13T22:03:47+01:00"
 }

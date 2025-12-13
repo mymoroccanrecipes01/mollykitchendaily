@@ -1,121 +1,127 @@
 {
-    "id": "recipe_1765126062_731",
-    "slug": "easy-corn-casserole-recipe-make-ahead",
-    "title": "Easy Corn Casserole Recipe (Make Ahead!)",
-    "promptIMG": "Professional food photography prompt: \"corn casserole, professionally plated on a rustic wooden table, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "hashtags": "#corncasserole #comfortfood #easyrecipes #sidedishes #americancuisine",
+    "title": "Creamy Corn Casserole Recipe for Family Gatherings",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Creamy corn casserole, baked in a rustic dish, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Indulge in this creamy, easy corn casserole that’s perfect for family gatherings! Made with Jiffy mix, creamed corn, and cheddar cheese, it’s a crowd-pleaser. Make it ahead of time for effortless entertaining. Save this recipe for your next potluck! 🌽",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "description": "This creamy corn casserole is a must-try for your next family gathering! With Jiffy mix, sweet creamed corn, and melty cheddar cheese, it’s a dish everyone will love. Great for potlucks or holiday dinners. Save this recipe for effortless entertaining!",
+    "hashtags": "#creamycorncasserole #comfortfood #easyrecipes #familydinner #potluck",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 45,
+    "servings": 6,
     "ingredients": [
-        "14.75 oz. creamed corn",
-        "15.25 oz. whole kernel sweet corn, drained",
-        "8.5 oz. Jiffy corn muffin mix",
-        "8 oz. sour cream",
-        "1 stick butter, melted",
-        "1 cup cheddar cheese, shredded"
+        "1 box Jiffy corn muffin mix",
+        "1 can (15 oz) creamed corn",
+        "1 can (15 oz) whole kernel corn, drained",
+        "1 cup sour cream",
+        "1 cup shredded cheddar cheese",
+        "1\/4 cup melted butter",
+        "1\/2 teaspoon salt",
+        "1\/2 teaspoon black pepper"
     ],
     "instructions": [
-        "Preheat your oven to 350°F (175°C).",
-        "In a large bowl, combine the creamed corn, whole kernel corn, Jiffy mix, sour cream, and melted butter. Mix until well combined.",
-        "Pour the mixture into a greased 9 x 13 casserole dish or a 10-inch cast iron skillet.",
-        "Bake uncovered for 45 minutes, then remove from the oven and sprinkle the shredded cheddar cheese on top.",
-        "Return to the oven and bake for an additional 10-15 minutes, until the cheese is melted and the top is golden brown.",
-        "Let the casserole stand for 5 minutes before serving."
+        "Preheat your oven to 350°F (175°C). Grease a 9x13 inch baking dish.",
+        "In a large bowl, combine the Jiffy mix, creamed corn, whole kernel corn, sour cream, melted butter, salt, and pepper. Mix until well combined.",
+        "Fold in half of the shredded cheddar cheese, saving the rest for topping.",
+        "Pour the mixture into the prepared baking dish and spread it evenly.",
+        "Sprinkle the remaining cheddar cheese on top.",
+        "Bake for 45 minutes or until the casserole is golden and set in the center. Let it cool for a few minutes before serving."
     ],
-    "prep_time": 5,
-    "cook_time": 55,
-    "total_time": 60,
-    "servings": 6,
-    "difficulty": "Easy",
-    "tips": "To achieve the best results with this corn casserole, consider these professional tips: \n- Ensure the whole kernel corn is well-drained to prevent excess moisture, which can make the casserole soggy. \n- Use room temperature ingredients for a smoother mix; this helps the casserole bake evenly. \n- Avoid overbaking; check for doneness when the top is golden brown and the center is firm. \n- For storage, keep leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 300°F (150°C) for 10-15 minutes to maintain texture. \n- If you want to add a flavor boost, consider mixing in some diced jalapeños or bell peppers for a bit of heat and color.",
+    "tips": "When making this casserole, I always recommend using fresh ingredients for the best flavor. If you want a bit of a kick, try adding some diced jalapeños or green chilies. You can also swap out the cheddar for pepper jack cheese for a spicier version. For a creamier texture, consider adding an extra dollop of sour cream. And if you have leftovers, they reheat beautifully in the oven or microwave. Just make sure to cover it to keep it moist!",
+    "category_id": "cat_1761230594_885",
+    "image_keywords": [
+        "appetizing",
+        "delicious",
+        "homemade",
+        "fresh",
+        "colorful",
+        "comforting",
+        "family-friendly"
+    ],
     "structured_content": [
         {
-            "content": "<p>Experience the comforting warmth of Paula Deen's easy corn casserole, a dish that brings together the sweetness of corn and the richness of cheese in every bite. This casserole is not only simple to make but also perfect for family gatherings, potlucks, or holiday dinners. With its creamy texture and golden top, it’s sure to be a hit at your table. The combination of creamed corn and Jiffy mix creates a delightful base that pairs beautifully with the melted cheddar cheese, making it a satisfying side dish that everyone will love.<\/p>"
+            "content": "<p>So I've made this creamy corn casserole a bunch of times, and trust me, it’s a hit every time! The aroma of sweet corn baking fills the kitchen, and the texture is so comforting. It’s got a lovely golden top with melted cheese that just pulls apart. Seriously, it’s the kind of dish that makes you feel right at home.<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 1 hour - perfect for busy weeknights or gatherings.<\/li><li>Restaurant-quality flavors achieved at home with simple techniques.<\/li><li>Perfect for family dinners, potlucks, or holiday celebrations.<\/li><li>Uses simple ingredients you likely have in your pantry.<\/li><li>Make-ahead option allows for easy entertaining.<\/li><li>Comforting and satisfying, it's a dish that brings everyone together.<\/li><\/ul>"
+                "content": "<ul><li>30 minutes prep time. That's it.<\/li><li>Tastes like you spent hours but you didn't!<\/li><li>My family devoured it (no leftovers!).<\/li><li>All ingredients are pantry staples (trust me).<\/li><li>Freezes well for later (if you have any left).<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This corn casserole holds a special place in my heart as it reminds me of family gatherings during the holidays. I remember my grandmother making it every Thanksgiving, filling the house with its delicious aroma. It was always the first dish to disappear from the table! I love how easy it is to prepare, allowing me to spend more time with loved ones instead of being stuck in the kitchen. This recipe has become a staple in my home, and I can’t wait for you to experience the joy it brings!<\/p>"
+            "content": "<p>I remember the first time I tried this corn casserole at a family reunion. My aunt brought it, and everyone was raving about it. I had to get the recipe, and now I make it for every gathering. It’s become a staple in our family, and I love seeing everyone’s faces light up when they take a bite.<\/p>"
+        },
+        {
+            "content": "<p>My first attempt at this casserole? Total disaster. I accidentally used expired sour cream, and it was a mess. Now I always check the dates before I start cooking. Fresh ingredients make a huge difference!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p>When making this corn casserole, here’s a closer look at the key ingredients:<\/p><ul><li><strong>Creamed corn:<\/strong> This ingredient adds moisture and sweetness. Look for a brand without added sugars for the best flavor.<\/li><li><strong>Jiffy corn muffin mix:<\/strong> This mix is the backbone of the casserole, providing structure and a hint of sweetness. It’s essential not to prepare it beforehand; just use the dry mix.<\/li><li><strong>Sour cream:<\/strong> Adds creaminess and tang. You can substitute with Greek yogurt for a healthier option.<\/li><li><strong>Cheddar cheese:<\/strong> Provides a rich, melty topping. Feel free to experiment with sharp or mild cheddar based on your preference.<\/li><li><strong>Smart substitutions:<\/strong> For a gluten-free version, use a gluten-free corn muffin mix. For a dairy-free option, try using a plant-based sour cream and cheese.<\/li><li><strong>Equipment needed:<\/strong> A large mixing bowl, a greased casserole dish or cast iron skillet, and an oven thermometer for accurate baking.<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Main ingredient (base):<\/strong> The Jiffy corn muffin mix is key here. It gives the casserole a fluffy texture. Look for the classic blue box in the baking aisle.<\/li><li><strong>Key seasonings:<\/strong> Salt and pepper are essential for enhancing the flavors. I usually go for sea salt for a bit more depth.<\/li><li><strong>Supporting ingredients:<\/strong> The combination of creamed corn and whole kernel corn adds moisture and sweetness. Make sure to drain the whole kernel corn well.<\/li><li><strong>Smart substitutions:<\/strong> If you’re out of sour cream, Greek yogurt works great. And for a cheesy twist, try adding some crumbled feta on top.<\/li><li><strong>Equipment needed:<\/strong> A good mixing bowl is essential for combining everything. I love my KitchenAid mixing bowl for its size and ease of use.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients for corn casserole, including creamed corn, whole kernel corn, Jiffy mix, sour cream, and cheddar cheese arranged neatly on a kitchen counter, ready for cooking.",
-                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_1.webp",
-                "fileName": "easy-corn-casserole-recipe-make-ahead_image_1.webp",
-                "type": "main"
+                "context": "Ingredients for creamy corn casserole including Jiffy mix, corn, and cheese arranged on a countertop.",
+                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before diving into the cooking process, let’s prepare:<\/p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by preheating your oven to 350°F (175°C). Gather all your ingredients and measure them out. Drain the whole kernel corn to avoid excess moisture. This step is crucial for achieving the perfect texture.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Combine all ingredients in a large bowl, mixing until just combined. Pour the mixture into the greased dish and bake. Expect the casserole to bubble and the top to turn golden brown as it cooks.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once baked, let the casserole rest for 5 minutes before serving. This allows the flavors to meld and makes it easier to slice and serve.<\/dd><\/dl>"
+            "content": "<p><dl><dt><strong>Preparation phase:<\/strong><\/dt><dd>Start by preheating your oven to 350°F (175°C). Grease your baking dish so nothing sticks. While the oven heats, gather and measure all your ingredients. You can mix the dry ingredients ahead of time if you want to save a few minutes later.<\/dd><dt><strong>Cooking process:<\/strong><\/dt><dd>Combine everything in a large bowl and mix until it’s all blended well. Pour it into your baking dish and sprinkle cheese on top. Bake for about 45 minutes until it’s golden and bubbly.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>Once it’s done, let it sit for a few minutes before serving. This helps it set a bit more. Serve it warm, and maybe add a sprinkle of fresh herbs for a pop of color!<\/dd><\/dl><\/p>"
         },
         {
             "upload": {
-                "context": "Stirring the corn mixture in a large bowl, preparing to bake the corn casserole in a greased dish.",
-                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_2.webp",
-                "fileName": "easy-corn-casserole-recipe-make-ahead_image_2.webp",
-                "type": "main"
+                "context": "Stirring the corn casserole mixture in a large bowl with a wooden spoon before baking.",
+                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Bake at 350°F (175°C) for optimal results; this temperature allows the casserole to cook evenly without burning.<\/li><li><strong>Common mistake to avoid:<\/strong> Not draining the whole kernel corn can lead to a watery casserole. Always ensure it’s well-drained before mixing.<\/li><li><strong>Perfect doneness indicator:<\/strong> The casserole is done when the top is golden brown and the center is firm to the touch.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 300°F (150°C) for 10-15 minutes to maintain texture.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Make sure your oven is fully preheated. This ensures even cooking. A good way to check is to use an oven thermometer.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t skip draining the whole kernel corn. It can make the casserole too watery.<\/li><li><strong>Perfect doneness indicator:<\/strong> Look for a golden top and a slight jiggle in the center. It should be set but not dry.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Reheat in the oven at 350°F (175°C) for about 15-20 minutes.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this corn casserole with friends and family is always a joy. I love watching their faces light up as they take the first bite, and hearing their compliments makes all the effort worthwhile. It’s a dish that brings everyone together, sparking conversations and laughter around the table. Whether it’s a holiday meal or a casual dinner, this casserole never fails to impress. I hope it becomes a beloved recipe in your home as it has in mine!<\/p>"
+            "content": "<p>Sharing this casserole with friends and family is always a joy. The smiles when they take that first bite? Priceless. I love serving it at gatherings, and it always sparks conversations about family recipes and traditions. It’s more than just food; it’s about the memories we create together.<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>Here are some ways to enhance and customize your corn casserole:<\/p><ul><li>Fresh herbs like chives or parsley can be added for a pop of color and flavor. Stir them in just before baking.<\/li><li>Spices such as paprika or cayenne pepper can add a nice kick; start with 1\/4 teaspoon and adjust to taste.<\/li><li>Consider upgrading to a blend of cheeses, like Monterey Jack or pepper jack, for added flavor complexity.<\/li><li>For a different texture, try adding cooked bacon or diced jalapeños for a spicy twist.<\/li><\/ul><p>These suggestions are optional but can elevate your dish to new heights!<\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh parsley or chives can add a nice touch. Sprinkle them on right before serving for a fresh flavor.<\/li><li><strong>Spices:<\/strong> A pinch of cayenne pepper can give a subtle kick. Start with 1\/4 teaspoon and adjust to your taste.<\/li><li><strong>Upgrades:<\/strong> Try adding cooked bacon or sausage for a savory twist. It adds depth and richness.<\/li><li><strong>Technique variations:<\/strong> You can also make this in a slow cooker. Just mix everything and cook on low for 4 hours.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To serve this corn casserole successfully, consider these pairings:<\/p><ul><li><strong>Side dishes:<\/strong> Pair with a fresh green salad for a light contrast, or serve alongside roasted vegetables for a hearty meal.<\/li><li><strong>Beverage pairings:<\/strong> A chilled white wine, like Sauvignon Blanc, complements the richness of the casserole beautifully.<\/li><li><strong>Bread options:<\/strong> Serve with crusty bread or cornbread to soak up the delicious flavors.<\/li><li><strong>Occasion ideas:<\/strong> This casserole shines at potlucks, holiday dinners, or casual family gatherings.<\/li><li><strong>Presentation tips:<\/strong> Garnish with fresh herbs or a sprinkle of paprika for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Serve warm for the best flavor and texture, and it’s great for leftovers!<\/li><\/ul>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> This casserole pairs well with grilled chicken or a fresh salad. The lightness of the salad balances the richness of the casserole.<\/li><li><strong>Beverage pairings:<\/strong> A chilled glass of white wine or iced tea complements the flavors nicely.<\/li><li><strong>Bread\/starch options:<\/strong> Serve with crusty bread or cornbread for a hearty meal.<\/li><li><strong>Occasion ideas:<\/strong> Great for potlucks, family reunions, or holiday dinners. It’s a dish that brings everyone together.<\/li><li><strong>Presentation tips:<\/strong> Serve in the baking dish for a rustic look. Garnish with fresh herbs for color.<\/li><li><strong>Temperature serving note:<\/strong> Best served warm, but it’s still tasty at room temperature.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Here are some exciting variations to keep your corn casserole fresh:<\/p><ul><li><strong>Gluten-Free:<\/strong> Use a gluten-free corn muffin mix to maintain the same texture without gluten.<\/li><li><strong>Vegan\/Dairy-Free:<\/strong> Substitute sour cream with coconut yogurt and use dairy-free cheese for a plant-based version.<\/li><li><strong>Spicy Variation:<\/strong> Add diced green chilies or jalapeños for a spicy kick that will please heat lovers.<\/li><li><strong>Protein Swap:<\/strong> Incorporate cooked chicken or turkey for a heartier dish that can serve as a main course.<\/li><\/ul><p>These variations allow you to customize the dish while keeping its comforting essence!<\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Use a gluten-free corn muffin mix instead of Jiffy. It works just as well!<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Substitute sour cream with coconut yogurt and use dairy-free cheese for a vegan version.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños or a splash of hot sauce for a spicy kick.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap out the cheddar for a mix of mozzarella and parmesan for a different cheesy flavor.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Final beautifully plated corn casserole garnished with fresh herbs, served in a rustic dish on a wooden table, ready to enjoy.",
-                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_3.webp",
-                "fileName": "easy-corn-casserole-recipe-make-ahead_image_3.webp",
-                "type": "main"
+                "context": "Final plated creamy corn casserole garnished with fresh herbs on a rustic wooden table.",
+                "url": "easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a deeper flavor, consider toasting the corn muffin mix in a dry skillet for a few minutes before adding it to the mixture.<\/li><li><strong>Ingredient prep secret:<\/strong> Let your butter cool slightly before mixing it in; this prevents cooking the eggs in the sour cream.<\/li><li><strong>Timing strategy:<\/strong> Prepare the casserole a day in advance and let it sit in the fridge overnight for the flavors to meld.<\/li><li><strong>Presentation hack:<\/strong> Use a ring mold to serve individual portions for a restaurant-style presentation.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For an extra crispy top, broil the casserole for the last 2-3 minutes of baking.<\/li><li><strong>Ingredient prep secret:<\/strong> Grate your cheese fresh instead of using pre-shredded. It melts better!<\/li><li><strong>Timing strategy:<\/strong> If you’re making this for a crowd, prep it ahead of time and just pop it in the oven when guests arrive.<\/li><li><strong>Presentation hack:<\/strong> Use a large spoon to serve, and let guests help themselves for a casual feel.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This easy corn casserole is not only delicious but also a breeze to make, making it a perfect addition to your recipe collection. With its creamy texture and cheesy topping, it’s sure to impress your family and friends. You can master this dish with confidence, and it will quickly become a go-to favorite for any occasion. Don’t forget to share your experience and photos on social media with the hashtag #corncasserole. Enjoy making this delightful dish!<\/p>"
+            "content": "<p>Honestly, this creamy corn casserole is a dish you’ll want to keep in your recipe box. It’s easy to make, and the flavors are just right for any gathering. I encourage you to give it a try and share your thoughts in the comments. Don’t forget to save this recipe for your next family dinner!<\/p>"
         }
     ],
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "easy-corn-casserole-recipe-make-ahead_image_1.webp",
@@ -147,11 +153,13 @@
             "type": "template"
         }
     ],
+    "slug": "easy-corn-casserole-recipe-make-ahead",
+    "id": "recipe_1765126062_731",
     "image": "easy-corn-casserole-recipe-make-ahead_image_1.webp",
     "image_path": "recipes\/easy-corn-casserole-recipe-make-ahead\/images\/easy-corn-casserole-recipe-make-ahead_image_1.webp",
     "image_dir": "easy-corn-casserole-recipe-make-ahead\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-09T17:49:52+01:00",
-    "updatedAt": "2025-12-09T17:49:52+01:00"
+    "createdAt": "2025-12-13T22:03:40+01:00",
+    "updatedAt": "2025-12-13T22:03:40+01:00"
 }

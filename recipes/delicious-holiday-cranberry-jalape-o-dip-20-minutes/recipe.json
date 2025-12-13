@@ -1,122 +1,127 @@
 {
-    "id": "recipe_1765060366_437",
-    "slug": "delicious-holiday-cranberry-jalape-o-dip-20-minutes",
-    "title": "Delicious Holiday Cranberry Jalapeño Dip (20 Minutes!)",
-    "promptIMG": "Professional food photography prompt: \"Cranberry jalapeño dip, professionally plated in a festive bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "Cranberry Jalapeño Dip for Festive Gatherings",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Cranberry jalapeño dip, served in a rustic bowl with tortilla chips, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "This holiday cranberry jalapeño dip is a must-try! A perfect blend of tart cranberries and spicy jalapeños creates a delightful appetizer. Ideal for festive gatherings or cozy nights in. Save this recipe for your next celebration! 🎉",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
+    "description": "This cranberry jalapeño dip is a must-try for your next get-together! With a zesty kick from jalapeños and the sweetness of cranberries, it’s a hit at any gathering. Serve it with crispy tortilla chips for a fun snack. Save this recipe for your next celebration!",
+    "hashtags": "#cranberryjalapeno #appetizerrecipes #easyrecipes #holidaydips #festivefood",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 6,
     "ingredients": [
-        "2 cups fresh cranberries, rinsed and drained",
-        "1\/2 cup fresh jalapeños, seeded and chopped",
-        "1 cup sugar",
+        "1 cup fresh cranberries, rinsed",
+        "1-2 jalapeños, seeds removed and finely chopped (adjust to taste)",
         "1\/2 cup cream cheese, softened",
-        "1\/2 cup sour cream",
-        "1\/4 teaspoon salt",
+        "1\/4 cup sour cream",
         "1 tablespoon lime juice",
-        "1\/4 cup chopped fresh cilantro"
+        "1 tablespoon honey or maple syrup",
+        "Salt to taste",
+        "Tortilla chips for serving"
     ],
     "instructions": [
-        "In a medium saucepan, combine cranberries, jalapeños, and sugar. Cook over medium heat until cranberries burst and mixture thickens, about 10 minutes.",
-        "Remove from heat and let cool slightly.",
-        "In a mixing bowl, combine cream cheese, sour cream, salt, and lime juice. Mix until smooth.",
-        "Fold in the cooled cranberry mixture and cilantro until well combined.",
-        "Transfer to a serving bowl and refrigerate for at least 30 minutes before serving.",
-        "Serve with tortilla chips or crackers."
+        "In a mixing bowl, combine the cranberries and chopped jalapeños. Use a fork to mash them slightly, releasing some juices.",
+        "Add the softened cream cheese and sour cream to the bowl. Mix until well combined and creamy.",
+        "Stir in the lime juice and honey, adjusting sweetness to your liking. Season with salt to taste.",
+        "Transfer the dip to a serving bowl and chill in the fridge for about 30 minutes to let the flavors meld.",
+        "Serve with tortilla chips and enjoy the tangy, spicy goodness!"
     ],
-    "prep_time": 10,
-    "cook_time": 10,
-    "total_time": 20,
-    "servings": 32,
-    "difficulty": "Easy",
-    "tips": "To achieve the best flavor, use fresh cranberries and adjust jalapeño levels based on your spice preference. Avoid overcooking the cranberries to maintain their texture. Store leftovers in an airtight container in the fridge for up to 3 days. For a creamier dip, consider adding more cream cheese. Always taste and adjust seasoning before serving to ensure the perfect balance.",
+    "tips": "When making this dip, consider using fresh cranberries for the best flavor. If you can’t find them, frozen cranberries work too, just thaw them first. For a milder dip, use only one jalapeño or remove all the seeds. If you want a creamier texture, add more cream cheese or sour cream. I like to let it chill for at least 30 minutes; it really helps the flavors come together. And trust me, this dip gets even better the next day, so don’t hesitate to make it ahead of time!",
+    "image_keywords": [
+        "appetizing",
+        "colorful",
+        "fresh",
+        "homemade",
+        "comforting"
+    ],
     "structured_content": [
         {
-            "content": "<p>This holiday cranberry jalapeño dip is a festive delight that perfectly balances tartness and spice. The burst of fresh cranberries combined with the heat of jalapeños creates a unique flavor that will have your guests coming back for more. It's not just a dip; it's a conversation starter at any gathering. The vibrant colors and creamy texture make it visually appealing, and the best part? It comes together in just 20 minutes! Perfect for holiday parties, family gatherings, or cozy nights in, this dip is sure to impress.<\/p>"
+            "content": "<p>So I've made this cranberry jalapeño dip a few times and it never fails to impress! The tartness of fresh cranberries paired with the spicy kick of jalapeños creates a flavor explosion that’s just right for any gathering. The creamy base makes it smooth and easy to scoop with chips, and the colors are just stunning. Seriously, it’s a treat for both the eyes and the taste buds!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in just 20 minutes - perfect for last-minute gatherings.<\/li><li>Combines sweet and spicy flavors for a unique taste experience.<\/li><li>Ideal for holiday parties, potlucks, or cozy evenings at home.<\/li><li>Uses simple ingredients that are easy to find.<\/li><li>Vegetarian and gluten-free, making it suitable for various dietary needs.<\/li><li>Can be made ahead of time for stress-free entertaining.<\/li><\/ul>"
+                "content": "<ul><li>10 minutes to whip up. That's it.<\/li><li>Sweet and spicy combo that surprises everyone.<\/li><li>My friends always ask for the recipe (no joke).<\/li><li>Great for holiday parties or just a cozy night in.<\/li><li>Leftovers? They’re even better the next day!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I discovered this cranberry jalapeño dip at a holiday party years ago, and it quickly became a favorite among my friends and family. The combination of tart cranberries and spicy jalapeños is simply irresistible! I love making it for gatherings because it’s always a hit, and people are often surprised by how easy it is to prepare. It brings back memories of laughter and joy shared around the table, making it a cherished recipe in my collection.<\/p>"
+            "content": "<p>I remember the first time I tried a cranberry jalapeño dip at a friend's holiday party. It was such a unique flavor, and I couldn't stop eating it! I decided to recreate it at home, and after a few tweaks, I found the right balance of sweet and spicy. Now, it’s a staple at my gatherings. Everyone loves it, and it always sparks conversations!<\/p>"
+        },
+        {
+            "headline": "What I Learned The Hard Way"
+        },
+        {
+            "content": "<p>My first attempt at this dip? Total disaster. I used way too many jalapeños and it was so spicy that no one could enjoy it. Now I know to start with one and taste as I go. It’s all about finding that sweet spot between the heat and the sweetness of the cranberries.<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><strong>Main ingredient (cranberries):<\/strong> Fresh cranberries are essential for their tartness and texture. Look for firm, bright berries without blemishes. Frozen cranberries can be used but may alter the texture slightly.<br><strong>Key seasonings\/aromatics:<\/strong> Jalapeños add a spicy kick; adjust the amount based on your heat preference. Fresh cilantro enhances the flavor with its aromatic freshness.<br><strong>Supporting ingredients:<\/strong> Cream cheese and sour cream provide a creamy base that balances the tartness of the cranberries.<br><strong>Smart substitutions:<\/strong> For a dairy-free version, substitute cream cheese and sour cream with vegan alternatives. For a sweeter dip, consider adding a touch of honey or maple syrup.<br><strong>Equipment needed:<\/strong> A medium saucepan for cooking and a mixing bowl for combining ingredients are essential for this recipe.<\/p>"
+            "content": "<p><strong>Main ingredient (cranberries):<\/strong> Fresh cranberries are key for this dip. They bring a tartness that balances the heat. When shopping, look for bright, firm berries. If you can’t find fresh, frozen works too, just thaw them first.<\/p><p><strong>Key seasonings\/aromatics:<\/strong> The jalapeños add a spicy kick. I usually remove the seeds for less heat, but if you like it fiery, leave them in. Lime juice brightens the flavors and adds a refreshing zing.<\/p><p><strong>Supporting ingredients:<\/strong> Cream cheese and sour cream give the dip its creamy texture. I prefer using Organic Valley sour cream for its richness. Honey or maple syrup adds a touch of sweetness to balance the tartness.<\/p><p><strong>Smart substitutions:<\/strong> You can swap cream cheese for Greek yogurt for a lighter version. If you want a vegan option, use cashew cream instead. Both will change the texture slightly but still taste great!<\/p><p><strong>Equipment needed:<\/strong> A sturdy mixing bowl is essential for combining everything. I use my KitchenAid mixer for a super smooth texture.<\/p>"
         },
         {
             "upload": {
-                "context": "Fresh cranberries, jalapeños, cream cheese, and cilantro arranged on a kitchen counter, ready for dip preparation",
-                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp",
-                "fileName": "delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp",
-                "type": "main"
+                "context": "Fresh cranberries, jalapeños, cream cheese, and other ingredients arranged on a wooden countertop for dip preparation.",
+                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp"
             }
         },
         {
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Before you start cooking, gather all your ingredients and equipment. Rinse the cranberries and chop the jalapeños. Measure out your sugar and prepare your mixing bowl with cream cheese and sour cream. This mise en place will make the cooking process smooth and efficient.<br><strong>Preparation phase:<\/strong> In a medium saucepan, combine the cranberries, jalapeños, and sugar. Cook over medium heat, stirring occasionally, until the cranberries burst and the mixture thickens, about 10 minutes.<br><strong>Cooking\/Baking process:<\/strong> Once the mixture is thickened, remove it from heat and let it cool slightly. This cooling step is crucial for the flavors to meld together.<br><strong>Finishing touches:<\/strong> After cooling, mix in the cream cheese, sour cream, and cilantro. Transfer to a serving bowl and refrigerate for at least 30 minutes to allow the flavors to develop.<\/p>"
+            "content": "<p>Preparation phase: Start by rinsing the cranberries and removing the stems. Chop the jalapeños, adjusting the amount based on your heat preference. It’s a good idea to wear gloves when handling them. You can prep this dip ahead of time, just store it in the fridge until you’re ready to serve.<\/p><p>Cooking process: There’s no cooking involved here! Just mix everything together in a bowl until smooth. You’ll want to taste and adjust the seasoning as you go. It’s all about finding that balance of flavors.<\/p><p>Finishing touches: Once mixed, transfer the dip to a serving bowl and chill it for at least 30 minutes. This helps the flavors meld together beautifully. Serve it with crispy tortilla chips for the best experience!<\/p>"
         },
         {
             "upload": {
-                "context": "Stirring the cranberry jalapeño mixture in a saucepan on the stovetop, showcasing vibrant colors and textures",
-                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_2.webp",
-                "fileName": "delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_2.webp",
-                "type": "main"
+                "context": "Mixing creamy cranberry jalapeño dip in a bowl with a spatula, ready to serve.",
+                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Cook the cranberry mixture over medium heat to ensure even cooking and prevent burning. Stir regularly to avoid sticking.<\/li><li><strong>Common mistake to avoid:<\/strong> Avoid overcooking the cranberries; they should burst but not turn mushy. Keep an eye on them during cooking.<\/li><li><strong>Perfect doneness indicator:<\/strong> The mixture is ready when the cranberries have burst and the sauce has thickened to a syrupy consistency.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. This dip is best served cold, so no reheating is necessary.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> This dip is best served chilled, so make sure to let it sit in the fridge for at least 30 minutes before serving. It helps the flavors blend nicely.<\/li><li><strong>Common mistake to avoid:<\/strong> Adding too many jalapeños at once can overwhelm the dip. Start with one and taste as you mix!<\/li><li><strong>Perfect doneness indicator:<\/strong> Since there’s no cooking, just look for a smooth, creamy texture without lumps. It should be easy to scoop with chips.<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container in the fridge for up to 3 days. Just give it a stir before serving again.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this cranberry jalapeño dip with friends and family brings so much joy. Watching their faces light up with delight as they take their first bite is incredibly rewarding. It's become a staple at my holiday gatherings, sparking laughter and conversation around the table. The vibrant colors and delicious flavors create an inviting atmosphere, making every occasion feel special. I love hearing requests for the recipe, knowing that this dip has made a lasting impression on everyone who tries it.<\/p>"
+            "content": "<p>Sharing this cranberry jalapeño dip with friends is always a joy! I love seeing their faces light up when they take that first bite. The combination of flavors sparks conversations and laughter, making it a highlight of any gathering. It’s not just a dip; it’s a way to bring people together over good food and great company!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p>To enhance your cranberry jalapeño dip, consider these options:<br><ul><li><strong>Fresh herbs:<\/strong> Add chopped green onions or chives for a mild onion flavor. Cilantro can be increased for more freshness.<\/li><li><strong>Spice additions:<\/strong> A pinch of cayenne pepper can elevate the heat level. Start with 1\/4 teaspoon and adjust to taste.<\/li><li><strong>Ingredient upgrades:<\/strong> Incorporate crumbled feta cheese for a tangy twist or diced avocado for creaminess.<\/li><li><strong>Technique variations:<\/strong> Try roasting the jalapeños before adding them for a smoky flavor, or blend the dip for a smoother texture.<\/li><\/ul><\/p>"
+            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh cilantro adds a nice touch. Chop it finely and mix it in right before serving for a burst of freshness.<\/li><li><strong>Spices:<\/strong> A pinch of cumin can enhance the flavor profile, giving it a warm, earthy note. Just a dash will do!<\/li><li><strong>Upgrades:<\/strong> Consider adding crumbled feta for a tangy twist or some diced avocado for creaminess. Both elevate the dip's texture.<\/li><li><strong>Technique variations:<\/strong> You can roast the jalapeños for a smoky flavor. Just char them on a grill or stovetop before chopping.<\/li><\/ul><\/p>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p>To serve this dip successfully, consider these suggestions:<br><ul><li><strong>Side dishes:<\/strong> Pair with tortilla chips for crunch, or serve with fresh vegetable sticks for a healthier option.<\/li><li><strong>Beverage pairings:<\/strong> A light white wine, like Sauvignon Blanc, complements the dip's flavors beautifully. For non-alcoholic options, try sparkling water with lime.<\/li><li><strong>Bread\/starch options:<\/strong> Offer slices of toasted baguette or pita chips for dipping.<\/li><li><strong>Occasion ideas:<\/strong> This dip is perfect for holiday parties, game day gatherings, or casual get-togethers with friends.<\/li><li><strong>Presentation tips:<\/strong> Garnish the dip with additional cilantro or jalapeño slices for a pop of color. Serve in a festive bowl to enhance the holiday spirit.<\/li><li><strong>Temperature serving note:<\/strong> This dip is best served chilled, making it ideal for make-ahead entertaining.<\/li><\/ul><\/p>"
+            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with crispy tortilla chips for the classic combo. Veggie sticks like carrots and cucumbers also work well for a fresh crunch.<\/li><li><strong>Beverage pairings:<\/strong> A chilled white wine or a light beer complements the dip nicely. I love a good Sauvignon Blanc with it!<\/li><li><strong>Bread\/starch options:<\/strong> Pita chips or toasted baguette slices are great alternatives to tortilla chips.<\/li><li><strong>Occasion ideas:<\/strong> This dip shines at holiday parties, game nights, or even casual get-togethers with friends.<\/li><li><strong>Presentation tips:<\/strong> Garnish with a sprinkle of chopped cilantro or a few whole cranberries on top for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Always serve chilled for the best flavor experience!<\/li><\/ul><\/p>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p>Explore these variations to keep the recipe exciting:<br><ul><li><strong>Dietary adaptation 1 (e.g., Gluten-Free):<\/strong> This recipe is naturally gluten-free, making it accessible for all guests.<\/li><li><strong>Dietary adaptation 2 (e.g., Vegan\/Dairy-Free):<\/strong> Substitute cream cheese and sour cream with vegan alternatives like cashew cream or coconut yogurt for a dairy-free version.<\/li><li><strong>Flavor variation (e.g., Spicy, Mediterranean):<\/strong> Add roasted red peppers for a Mediterranean twist, or increase the jalapeños for a spicier kick.<\/li><li><strong>Protein\/ingredient swap:<\/strong> Incorporate diced cooked chicken or turkey for a heartier dip that’s perfect for gatherings.<\/li><\/ul><\/p>"
+            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> This dip is naturally gluten-free! Just ensure your chips are also gluten-free.<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> Use cashew cream instead of cream cheese and coconut yogurt for a dairy-free version.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add a dash of hot sauce for an extra kick if you love heat!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Mix in some shredded chicken for a heartier dip that’s great for gatherings.<\/li><\/ul><\/p>"
         },
         {
             "upload": {
-                "context": "Beautifully plated cranberry jalapeño dip garnished with cilantro and served with tortilla chips on a festive table setting",
-                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_3.webp",
-                "fileName": "delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_3.webp",
-                "type": "main"
+                "context": "Bowl of cranberry jalapeño dip garnished with cilantro and served with tortilla chips on a festive table.",
+                "url": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> To enhance flavors, consider toasting the jalapeños before adding them to the dip. This brings out their natural sweetness and adds depth.<\/li><li><strong>Ingredient prep secret:<\/strong> Always taste your jalapeños before using them; some can be spicier than others. Adjust the quantity based on your heat tolerance.<\/li><li><strong>Timing strategy:<\/strong> Prepare the dip a day in advance to allow the flavors to meld together, making it even more delicious.<\/li><li><strong>Presentation hack:<\/strong> Serve the dip in a hollowed-out bell pepper for a unique and festive presentation.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> For a smoother dip, blend everything in a food processor instead of mixing by hand.<\/li><li><strong>Ingredient prep secret:<\/strong> Let the cream cheese sit out for a bit to soften before mixing; it makes blending easier.<\/li><li><strong>Timing strategy:<\/strong> Make this dip a day ahead; the flavors deepen overnight!<\/li><li><strong>Presentation hack:<\/strong> Use a colorful bowl to make the dip pop on the table – it draws people in!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>This holiday cranberry jalapeño dip is a delightful addition to any gathering. With its vibrant colors and delicious flavors, it's sure to impress your guests. The best part is how easy it is to make, even for novice cooks! You'll feel accomplished serving this dish, and it's bound to become a favorite in your recipe repertoire. Don't forget to share your experience and photos on social media with the hashtag #cranberryjalapeno. Enjoy making this delicious dip!<\/p>"
+            "content": "<p>Trust me, this cranberry jalapeño dip is worth making! It’s quick, easy, and brings a burst of flavor that everyone loves. I’d love to hear how yours turns out, so feel free to share your experience in the comments or post a pic on social media. Enjoy this tasty dip at your next gathering!<\/p>"
         }
     ],
+    "category_id": "cat_1761230221_583",
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp",
@@ -148,11 +153,13 @@
             "type": "template"
         }
     ],
+    "slug": "delicious-holiday-cranberry-jalape-o-dip-20-minutes",
+    "id": "recipe_1765060366_437",
     "image": "delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp",
     "image_path": "recipes\/delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images\/delicious-holiday-cranberry-jalape-o-dip-20-minutes_image_1.webp",
     "image_dir": "delicious-holiday-cranberry-jalape-o-dip-20-minutes\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-11T18:51:21+01:00",
-    "updatedAt": "2025-12-11T18:51:21+01:00"
+    "createdAt": "2025-12-13T22:03:50+01:00",
+    "updatedAt": "2025-12-13T22:03:50+01:00"
 }
