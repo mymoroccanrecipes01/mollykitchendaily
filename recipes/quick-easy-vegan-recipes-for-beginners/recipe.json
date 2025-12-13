@@ -1,69 +1,65 @@
 {
-    "title": "25 Quick Vegan Recipes for Beginners",
-    "voice": "Enthusiastic Friend",
-    "promptIMG": "Professional food photography prompt: \"25 quick vegan recipes, beautifully arranged on a wooden table, natural food photography, vibrant colors, sharp focus, fresh ingredients, modern kitchen background, natural lighting, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "title": "25 Quick and Easy Vegan Meals for Busy Weeknights",
+    "voice": "VOICE B - Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"A colorful array of fresh vegetables, grains, and legumes beautifully arranged on a rustic wooden table, showcasing vibrant plant-based dishes, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
     "isOnline": true,
-    "description": "Looking for quick vegan meals? These 25 recipes are packed with fresh veggies and bold flavors! From stir-fries to hearty salads, there's something for everyone. Great for busy weeknights or meal prep. Try these and enjoy delicious plant-based goodness!",
-    "hashtags": "#veganrecipes #easymeals #plantbased #quickdinner #healthyfood",
+    "description": "Need quick vegan meal ideas? These 25 recipes are packed with fresh veggies and bold flavors! Perfect for busy weeknights or meal prep. Try these and enjoy delicious plant-based goodness! Save this for later!",
+    "hashtags": "#quickveganmeals #veganrecipes #healthyfood #plantbased #easyrecipes",
     "difficulty": "Easy",
-    "prep_time": 10,
+    "prep_time": 15,
     "cook_time": 30,
     "servings": 4,
     "ingredients": [
-        "2 cups quinoa, rinsed",
+        "2 cups mixed fresh vegetables (like bell peppers, broccoli, and carrots), chopped",
+        "1 cup cooked quinoa or brown rice",
         "1 can black beans, drained and rinsed",
-        "1 cup corn kernels, fresh or frozen",
-        "1 red bell pepper, diced",
-        "1 avocado, diced",
-        "1 lime, juiced",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced",
         "1 teaspoon cumin",
         "Salt and pepper to taste",
-        "Fresh cilantro for garnish"
+        "Fresh herbs for garnish (like cilantro or parsley)"
     ],
     "instructions": [
-        "Start by cooking the quinoa according to package instructions. Usually, it takes about 15 minutes to become fluffy.",
-        "While the quinoa cooks, prepare the veggies. Dice the bell pepper and avocado, and set them aside.",
-        "In a large bowl, combine the cooked quinoa, black beans, corn, and diced bell pepper. Mix well.",
-        "Add lime juice, cumin, and season with salt and pepper. Stir everything together until well combined.",
-        "Finally, top with diced avocado and fresh cilantro before serving. Enjoy it warm or chilled!"
+        "Heat olive oil in a large skillet over medium heat. Toss in garlic and sauté for about 30 seconds until fragrant.",
+        "Add the mixed vegetables to the skillet. Cook for about 5-7 minutes, stirring occasionally until they’re tender but still vibrant.",
+        "Stir in the cooked quinoa or brown rice, black beans, cumin, salt, and pepper. Mix well and cook for another 5 minutes until everything is heated through.",
+        "Taste and adjust seasoning if needed. If you want a kick, add some chili flakes!",
+        "Serve hot, garnished with fresh herbs. Enjoy it straight from the skillet or plate it up for a fancy touch!"
     ],
-    "tips": "When making vegan meals, always taste as you go. It helps you adjust flavors to your liking. I use organic quinoa for better quality and flavor. If you want to add some heat, consider tossing in jalapeños or a dash of hot sauce. Also, don't skip the lime juice; it brightens up the dish! Leftovers can be stored in the fridge for up to 3 days, and they taste even better the next day. Just give it a good stir before serving.",
+    "tips": "When it comes to quick vegan meals, prep is key! Chop your veggies ahead of time and store them in the fridge. I love using a mix of seasonal veggies for freshness. If you’re short on time, frozen veggies work great too! My secret? Always keep canned beans on hand for a protein boost. And don't forget to taste as you go - it makes a world of difference! For leftovers, store in an airtight container in the fridge for up to 3 days. Reheat on the stove for best results, adding a splash of water to keep it moist.",
     "image_keywords": [
-        "vibrant",
+        "colorful",
         "fresh",
         "vegan",
-        "colorful",
         "healthy",
-        "plant-based"
+        "quick",
+        "easy"
     ],
     "structured_content": [
         {
-            "content": "<p>So I've made these vegan recipes a few times and they never disappoint! Each dish bursts with fresh flavors and is super easy to whip up. You’ll find everything from zesty salads to hearty bowls that are not only satisfying but also packed with nutrients. Seriously, you won’t miss the meat!<\/p>"
+            "content": "<p>So I've made these quick vegan meals a bunch of times and honestly, they never disappoint! Packed with fresh veggies and bold flavors, they’re super satisfying. Whether you’re in a rush or just want something healthy, these meals are like a hug in a bowl. Seriously, you’ll feel good about what you’re eating!<\/p>"
         },
         {
             "note": {
                 "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>30 minutes from start to finish. That's it.<\/li><li>Fills you up without weighing you down.<\/li><li>My kids actually ask for seconds (no joke!).<\/li><li>Most ingredients are pantry staples.<\/li><li>Leftovers? They taste even better the next day!<\/li><\/ul>"
+                "content": "<ul><li>30 minutes from start to finish. That's it.<\/li><li>Tastes like you spent hours but you didn't (trust me).<\/li><li>My picky friend actually loved it (shocking, right?).<\/li><li>You probably have most ingredients already!<\/li><li>Leftovers? Even better the next day!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I tried cooking vegan meals. I was nervous but excited! I stumbled upon a simple quinoa salad recipe that changed everything. It was colorful, fresh, and so easy to make. Now, I love experimenting with different ingredients and flavors. This collection of recipes is what I wish I had back then!<\/p>"
+            "content": "<p>I remember the first time I tried a quick vegan meal. I was at a friend's house, and she whipped up this colorful stir-fry in no time. I was blown away by how good it tasted! Now, I make it all the time for my family. It’s become a staple in our house, and I love how easy it is to customize with whatever veggies I have on hand.<\/p>"
         },
         {
-            "headline": "What I Learned The Hard Way"
-        },
-        {
-            "content": "<p>My first attempt at making quinoa? Total disaster. I forgot to rinse it and ended up with a bitter taste. Now I know rinsing is crucial because it removes the saponins that can make it taste off. Trust me, always rinse your quinoa!<\/p>"
+            "content": "<p>My first attempt at this recipe? Total disaster. I forgot to drain the black beans and ended up with a soupy mess. Now I know that draining and rinsing is key to keeping the dish from getting soggy. Lesson learned!<\/p>"
         },
         {
             "headline": "Essential Ingredients & Smart Substitutions"
         },
         {
-            "content": "<p><strong>Main ingredient (quinoa):<\/strong> Quinoa is a fantastic base for vegan dishes. Look for organic varieties for the best flavor. Rinse it well before cooking to avoid bitterness. <strong>Key seasonings\/aromatics:<\/strong> Cumin adds a warm, earthy flavor that complements the beans perfectly. I like to use McCormick cumin for its robust taste. <strong>Supporting ingredients:<\/strong> Fresh veggies like bell peppers and avocados not only add color but also provide essential nutrients. Dice them just before serving for the best texture. <strong>Smart substitutions:<\/strong> If you don’t have quinoa, try brown rice or farro. They’ll give a different texture but still work well. <strong>Equipment needed:<\/strong> A good pot for cooking quinoa is essential. I recommend using a non-stick pot for easy cleanup.<\/p>"
+            "content": "<ul><li><strong>Main ingredient (protein\/base):<\/strong> Quinoa or brown rice works best here because they add a nice texture and are packed with nutrients. Look for organic options if possible, and cook them according to package instructions for best results.<\/li><li><strong>Key seasonings\/aromatics:<\/strong> Garlic and cumin are essential for building flavor. I always use fresh garlic (it makes a huge difference!) and ground cumin adds a warm, earthy note.<\/li><li><strong>Supporting ingredients:<\/strong> Fresh veggies are crucial for color and crunch. I love using whatever's in season, but frozen veggies can save time too. Just toss them in frozen!<\/li><li><strong>Smart substitutions:<\/strong> If you don’t have quinoa, try bulgur or couscous. For a gluten-free option, brown rice is a great alternative. You can even swap black beans for chickpeas!<\/li><li><strong>Equipment needed:<\/strong> A good skillet is a must. I use my trusty non-stick pan for easy cooking and cleanup. A sharp knife makes chopping veggies a breeze!<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "Fresh ingredients including quinoa, black beans, corn, and vibrant veggies arranged on a wooden countertop for vegan recipe preparation.",
+                "context": "Fresh vegetables, quinoa, and black beans arranged on a wooden cutting board, ready for a quick vegan meal.",
                 "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_1.webp"
             }
         },
@@ -71,55 +67,55 @@
             "headline": "Step-by-Step Cooking Instructions"
         },
         {
-            "content": "<p>Preparation phase: Start by rinsing your quinoa under cold water for a minute. This step is key! Then, measure out the right amount and set it aside. While it cooks, chop your veggies. It’s a good idea to prep everything before you start cooking. Cooking process: Bring water to a boil, add quinoa, and reduce heat to a simmer. Cook until fluffy, about 15 minutes. You’ll know it’s done when the grains look like little spirals. Finishing touches: Once everything is mixed, serve it in bowls and top with avocado and cilantro. It looks so inviting!<\/p>"
+            "content": "<p>Preparation phase: Start by chopping all your veggies and measuring out your grains. I usually do this while my quinoa is cooking. It saves time! You can even prep everything the night before if you’re really in a hurry.<\/p><dl><dt><strong>Cooking process:<\/strong><\/dt><dd>Once everything is prepped, heat your skillet and sauté the garlic first. It takes just a minute to get that aroma going. Then, add your veggies and cook until they’re tender but still have a bite to them.<\/dd><dt><strong>Finishing touches:<\/strong><\/dt><dd>After mixing in the grains and beans, let it all heat through. I like to serve it hot, garnished with fresh herbs for that pop of flavor!<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Stirring a colorful quinoa salad in a large bowl, showcasing fresh ingredients and vibrant colors on a kitchen countertop.",
+                "context": "Stirring vibrant vegetables and quinoa in a non-stick skillet on a gas stovetop, creating a colorful vegan meal.",
                 "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_2.webp"
             }
         },
         {
             "note": {
                 "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Cook quinoa at a simmer, not a boil. It prevents mushiness. Check it after 15 minutes.<\/li><li><strong>Common mistake to avoid:<\/strong> Not rinsing quinoa leads to bitterness. Always rinse it!<\/li><li><strong>Perfect doneness indicator:<\/strong> Quinoa is done when it’s fluffy and the grains have spiraled out. You’ll see little tails!<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container for up to 3 days. Reheat in the microwave for a quick meal.<\/li><\/ul>"
+                "content": "<ul><li><strong>Temperature precision:<\/strong> Cook on medium heat to avoid burning. If it's too hot, your veggies can char instead of sautéing.<\/li><li><strong>Common mistake to avoid:<\/strong> Don’t overcrowd the pan! It leads to steaming instead of sautéing. Give your veggies room to breathe.<\/li><li><strong>Perfect doneness indicator:<\/strong> Veggies should be bright and tender-crisp. You’ll know they’re done when they’re vibrant and smell amazing!<\/li><li><strong>Storage & reheating:<\/strong> Store leftovers in an airtight container for up to 3 days. Reheat on the stove with a splash of water to keep it moist.<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Sharing this dish with friends is always a joy! I remember the first time I served it at a gathering. Everyone loved how fresh and vibrant it looked. The compliments kept coming, and I felt so proud. It’s a dish that brings people together, and the best part? It’s super easy to make!<\/p>"
+            "content": "<p>Sharing this dish with friends is always a joy. I remember the first time I served it at a gathering. Everyone was raving about how fresh and flavorful it was! It’s such a hit, and I love seeing people enjoy something that’s healthy and delicious. Plus, it’s so easy to make, I can whip it up while chatting with friends!<\/p>"
         },
         {
             "headline": "Flavor Boosters & Customization Ideas"
         },
         {
-            "content": "<p><ul><li><strong>Herbs:<\/strong> Fresh cilantro adds a bright flavor. Toss it in right before serving for freshness.<\/li><li><strong>Spices:<\/strong> A pinch of smoked paprika can give a nice depth. Just a little goes a long way!<\/li><li><strong>Upgrades:<\/strong> Add roasted sweet potatoes for a sweet twist. They pair beautifully with the quinoa.<\/li><li><strong>Technique variations:<\/strong> Try grilling the veggies for a smoky flavor. It changes the whole dish!<\/li><\/ul><\/p>"
+            "content": "<ul><li><strong>Herbs:<\/strong> Fresh cilantro adds a zesty kick. Toss it in right before serving for a burst of flavor.<\/li><li><strong>Spices:<\/strong> A pinch of smoked paprika can elevate the dish with a subtle smokiness. Just a little goes a long way!<\/li><li><strong>Upgrades:<\/strong> Add avocado slices for creaminess or a sprinkle of nutritional yeast for a cheesy flavor without dairy.<\/li><li><strong>Technique variations:<\/strong> Try roasting the veggies instead of sautéing for a deeper flavor. Just toss them in olive oil and roast at 400°F until tender!<\/li><\/ul>"
         },
         {
             "headline": "Perfect Pairings & Serving Suggestions"
         },
         {
-            "content": "<p><ul><li><strong>Side dishes:<\/strong> Serve with a light cucumber salad for a refreshing contrast.<\/li><li><strong>Beverage pairings:<\/strong> A chilled lemonade complements the meal nicely.<\/li><li><strong>Bread\/starch options:<\/strong> Warm pita bread is great for scooping up the salad.<\/li><li><strong>Occasion ideas:<\/strong> This dish is ideal for summer picnics or casual dinners.<\/li><li><strong>Presentation tips:<\/strong> Serve in clear bowls to showcase the colorful layers.<\/li><li><strong>Temperature serving note:<\/strong> It’s great warm or chilled, depending on your preference.<\/li><\/ul><\/p>"
+            "content": "<ul><li><strong>Side dishes:<\/strong> Serve with a simple green salad for a refreshing contrast. A side of roasted sweet potatoes works great too!<\/li><li><strong>Beverage pairings:<\/strong> A chilled herbal iced tea complements the meal perfectly. Or go for a light white wine if you’re feeling fancy!<\/li><li><strong>Bread\/starch options:<\/strong> Crusty whole grain bread is perfect for mopping up any leftovers. You can also serve it over a bed of greens.<\/li><li><strong>Occasion ideas:<\/strong> This dish shines at casual get-togethers or meal prep Sundays. It’s versatile enough for any occasion!<\/li><li><strong>Presentation tips:<\/strong> Serve in a colorful bowl and sprinkle with fresh herbs for that Instagram-worthy touch!<\/li><li><strong>Temperature serving note:<\/strong> Best served warm, but it’s also tasty at room temperature!<\/li><\/ul>"
         },
         {
             "headline": "Creative Variations to Try"
         },
         {
-            "content": "<p><ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> This recipe is naturally gluten-free, so you’re all set!<\/li><li><strong>Dietary adaptation 2 (Vegan):<\/strong> It’s already vegan, but you can add nutritional yeast for a cheesy flavor.<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños for a kick!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Swap black beans for chickpeas for a different texture.<\/li><\/ul><\/p>"
+            "content": "<ul><li><strong>Dietary adaptation 1 (Gluten-Free):<\/strong> Swap quinoa for rice or millet to keep it gluten-free. Both options work beautifully!<\/li><li><strong>Dietary adaptation 2 (Vegan\/Dairy-Free):<\/strong> This recipe is already vegan, but you could add a drizzle of tahini for extra creaminess!<\/li><li><strong>Flavor variation (Spicy):<\/strong> Add diced jalapeños for a spicy kick. Just a few will do the trick!<\/li><li><strong>Protein\/ingredient swap:<\/strong> Use lentils instead of beans for a different texture and flavor. They cook quickly and are super nutritious!<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A vibrant bowl of quinoa salad topped with fresh avocado and cilantro, beautifully presented on a rustic table.",
+                "context": "A vibrant bowl of quinoa and vegetable stir-fry garnished with fresh herbs, ready to serve on a rustic table.",
                 "url": "quick-easy-vegan-recipes-for-beginners\/images\/quick-easy-vegan-recipes-for-beginners_image_3.webp"
             }
         },
         {
             "note": {
                 "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Toasting quinoa before cooking enhances its nutty flavor. Just a minute in the dry pot does wonders!<\/li><li><strong>Ingredient prep secret:<\/strong> Use a sharp knife for chopping veggies. It makes a world of difference.<\/li><li><strong>Timing strategy:<\/strong> Cook quinoa while prepping veggies to save time.<\/li><li><strong>Presentation hack:<\/strong> Layer ingredients in a clear bowl for a stunning display.<\/li><\/ul>"
+                "content": "<ul><li><strong>Restaurant technique:<\/strong> Sautéing at the right temperature is key. Too hot, and you’ll burn your garlic; too low, and your veggies will steam.<\/li><li><strong>Ingredient prep secret:<\/strong> Always chop your veggies uniformly for even cooking. It makes a big difference!<\/li><li><strong>Timing strategy:<\/strong> Prep your grains while you chop veggies. It saves time and keeps everything moving smoothly.<\/li><li><strong>Presentation hack:<\/strong> Use a ring mold to plate for a fancy look. It’s an easy way to impress!<\/li><\/ul>"
             }
         },
         {
-            "content": "<p>Honestly, these recipes are a game changer for anyone wanting to explore vegan cooking. They’re simple, quick, and full of flavor. I encourage you to try them out and share your thoughts! Don’t forget to pin this collection for later. You’ll love having these quick vegan recipes at your fingertips!<\/p>"
+            "content": "<p>Honestly, you’ve gotta try these quick vegan meals! They’re not just easy to make, but they’re also packed with flavor and nutrients. I can’t wait for you to share your experiences. Don’t forget to rate this recipe and let me know how it turned out for you. Happy cooking!<\/p>"
         }
     ],
     "category_id": "cat_1761230636_499",
@@ -162,6 +158,6 @@
     "image_dir": "quick-easy-vegan-recipes-for-beginners\/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2025-12-13T22:04:03+01:00",
-    "updatedAt": "2025-12-13T22:04:03+01:00"
+    "createdAt": "2025-12-13T22:39:30+01:00",
+    "updatedAt": "2025-12-13T22:39:30+01:00"
 }
