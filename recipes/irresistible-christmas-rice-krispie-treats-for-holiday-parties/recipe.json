@@ -1,160 +1,181 @@
 {
-    "title":  "Festive Rice Krispie Treats for Holiday Cheer",
-    "voice":  "Enthusiastic Friend",
-    "promptIMG":  "Professional food photography prompt: \"Festive Rice Krispie Treats, beautifully arranged on a colorful holiday-themed plate, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline":  true,
-    "description":  "These festive Rice Krispie Treats are a must-try for your holiday gatherings! Made with gooey marshmallows and crispy rice cereal, they’re a fun treat for kids and adults alike. Great for parties or cozy nights in, you’ll want to save this recipe for your celebrations!",
-    "hashtags":  "#festivericekrispietreats #holidayrecipes #easyrecipes #dessertideas #familyfun",
-    "difficulty":  "Easy",
-    "prep_time":  10,
-    "cook_time":  5,
-    "servings":  12,
-    "ingredients":  [
-                        "3 tablespoons unsalted butter, plus extra for greasing",
-                        "1 package (10 oz) mini marshmallows",
-                        "6 cups crispy rice cereal",
-                        "1 teaspoon vanilla extract",
-                        "Sprinkles for decoration (optional)"
-                    ],
-    "instructions":  [
-                         "Start by greasing a 9x13 inch baking dish with butter. This helps the treats come out easily later.",
-                         "In a large saucepan, melt the butter over low heat. Once melted, add the marshmallows and stir until completely melted and smooth.",
-                         "Remove the saucepan from heat and stir in the vanilla extract. Then, quickly add the crispy rice cereal and mix until well combined.",
-                         "Press the mixture into the prepared baking dish using a buttered spatula or your hands (lightly greased to prevent sticking). Make sure it\u0027s packed tightly.",
-                         "Let the treats cool for about 30 minutes before cutting into squares. If you want, sprinkle some festive decorations on top before serving."
-                     ],
-    "tips":  "Here\u0027s the thing: Here are some pro tips to make your Rice Krispie Treats even better! First, use fresh marshmallows for the best texture. If you want a richer flavor, try adding a pinch of salt to the melted marshmallow mixture. For a fun twist, mix in some chocolate chips or peanut butter for extra flavor. When pressing the mixture into the pan, dampen your hands slightly to avoid sticking. And if you have leftovers (which is rare!), store them in an airtight container at room temperature for up to 3 days. You can also freeze them for up to a month, just make sure to wrap them well!",
-    "category_id":  "cat_1761230294_638",
-    "image_keywords":  [
-                           "festive",
-                           "colorful",
-                           "treats",
-                           "holiday",
-                           "fun",
-                           "family-friendly"
-                       ],
-    "structured_content":  [
-                               {
-                                   "content":  "\u003cp\u003eSo I\u0027ve made these Rice Krispie Treats a bunch of times, and trust me, they’re a hit every single time! The gooey marshmallows mixed with crispy rice cereal create a texture that’s just so satisfying. Plus, they’re super easy to whip up, making them a go-to for holiday gatherings. I love how you can customize them with sprinkles or even chocolate chips for a little extra flair. Seriously, they just scream festive fun!\u003c/p\u003e"
-                               },
-                               {
-                                   "note":  {
-                                                "label":  "Why This Works",
-                                                "content":  "\u003cul\u003e\u003cli\u003e10 minutes to prep. That’s it!\u003c/li\u003e\u003cli\u003eKids love helping out with this one (trust me!)\u003c/li\u003e\u003cli\u003egreat for parties or cozy nights in.\u003c/li\u003e\u003cli\u003eLeftovers? They disappear fast!\u003c/li\u003e\u003cli\u003eSuper easy to customize with your favorite mix-ins.\u003c/li\u003e\u003c/ul\u003e"
-                                            }
-                               },
-                               {
-                                   "content":  "\u003cp\u003eFirst time I made these treats for a holiday party. Everyone was raving about them, and I felt like a superstar! It was such a simple recipe, but the joy on everyone’s faces made it feel special. Now, I make them every year, and they’ve become a tradition in my family. It’s a fun way to get everyone involved, and we always end up laughing and having a great time in the kitchen.\u003c/p\u003e"
-                               },
-                               {
-                                   "content":  "\u003cp\u003eMy first attempt at these treats? Total disaster! I thought I could skip the butter and just use the marshmallows. Big mistake! They ended up sticking to everything and were a gooey mess. Now I know that butter is essential for both flavor and preventing sticking.\u003c/p\u003e"
-                               },
-                               {
-                                   "headline":  "What Goes In and What You Can Swap"
-                               },
-                               {
-                                   "content":  "\u003cp\u003e\u003cstrong\u003eMain ingredient (cereal):\u003c/strong\u003e The crispy rice cereal is key here. It gives the treats their signature crunch. Look for a brand that’s fresh and airy for the best results. I usually go for Kellogg\u0027s because it holds up well in the mix.\u003c/p\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/aromatics:\u003c/strong\u003e Vanilla extract adds a nice depth of flavor. I prefer using pure vanilla extract for a richer taste. Just a teaspoon goes a long way!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e The butter is crucial for richness and helps everything stick together. I always use Kerrygold butter for its creamy texture.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSmart substitutions:\u003c/strong\u003e If you want a chocolatey twist, try using cocoa rice cereal instead of the regular kind. You can also swap in almond butter for a nutty flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A large saucepan is essential for melting the marshmallows, and a spatula helps with mixing and pressing the treats into the pan.\u003c/li\u003e\u003c/p\u003e"
-                               },
-                               {
-                                   "upload":  {
-                                                  "context":  "A colorful array of Rice Krispie Treat ingredients including marshmallows, cereal, and butter arranged on a festive kitchen counter.",
-                                                  "url":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp"
-                                              }
-                               },
-                               {
-                                   "headline":  "How to Actually Make This"
-                               },
-                               {
-                                   "content":  "\u003cp\u003e\u003cstrong\u003ePreparation phase:\u003c/strong\u003e Start by gathering all your ingredients. Measure out the cereal and butter, and have your marshmallows ready to go. It’s best to have everything prepped so you can work quickly once the butter melts.\u003c/p\u003e\u003cstrong\u003eCooking process:\u003c/strong\u003e Melt the butter over low heat, stirring continuously until it’s completely melted. Then, add the marshmallows and keep stirring until they’re smooth and gooey. This should take about 5 minutes. You’ll know it’s ready when it’s all melted together and looks shiny.\u003c/p\u003e\u003cstrong\u003eFinishing touches:\u003c/strong\u003e Once everything is mixed, quickly transfer it to the greased baking dish. Press it down firmly to ensure it holds together well. Let it cool for about 30 minutes before cutting into squares.\u003c/p\u003e"
-                               },
-                               {
-                                   "upload":  {
-                                                  "context":  "Stirring melted marshmallows and butter in a large saucepan on the stovetop, creating a gooey mixture for Rice Krispie Treats.",
-                                                  "url":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp"
-                                              }
-                               },
-                               {
-                                   "note":  {
-                                                "label":  "Don\u0027t Mess This Up",
-                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eTemperature precision:\u003c/strong\u003e Keep the heat low when melting the butter and marshmallows. Too high, and you risk burning the mixture. Stir continuously to ensure even melting.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eCommon mistake to avoid:\u003c/strong\u003e Don’t skip greasing the pan! It’s crucial for easy removal. If you forget, you’ll be left with a sticky mess.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePerfect doneness indicator:\u003c/strong\u003e The mixture should be smooth and glossy before adding the cereal. If it looks grainy, keep stirring until it’s fully melted.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eStorage \u0026 reheating:\u003c/strong\u003e Store in an airtight container at room temperature for up to 3 days. If you want to freeze them, wrap them tightly in plastic wrap and store in a freezer bag for up to a month.\u003c/li\u003e\u003c/ul\u003e"
-                                            }
-                               },
-                               {
-                                   "content":  "\u003cp\u003eSharing these Rice Krispie Treats with friends and family is always a joy! Watching everyone’s faces light up as they take their first bite is priceless. The combination of gooey marshmallows and crispy cereal creates a nostalgic treat that brings back childhood memories. It’s a simple recipe, but it sparks so much happiness. I love serving them on a festive plate, and they always disappear quickly!\u003c/p\u003e"
-                               },
-                               {
-                                   "headline":  "Ways to Make It Better"
-                               },
-                               {
-                                   "content":  "\u003cp\u003eWant to take your Rice Krispie Treats to the next level? Here are some ideas! \u003cul\u003e\u003cli\u003e\u003cstrong\u003eHerbs:\u003c/strong\u003e While not typical, a sprinkle of cinnamon can add a warm spice. Just a pinch goes a long way!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSpices:\u003c/strong\u003e A dash of nutmeg can give a cozy flavor. Start with 1/4 teaspoon and adjust to taste.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eUpgrades:\u003c/strong\u003e Try mixing in mini chocolate chips or M\u0026M\u0027s for a fun twist. You can also drizzle melted chocolate on top for extra sweetness.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTechnique variations:\u003c/strong\u003e Instead of pressing them into a pan, try forming them into balls for a fun, portable treat. You can also layer them with chocolate for a more indulgent dessert.\u003c/li\u003e\u003c/ul\u003e\u003c/p\u003e"
-                               },
-                               {
-                                   "headline":  "What to Serve With This"
-                               },
-                               {
-                                   "content":  "\u003cp\u003eLooking for what to serve with these treats? Here are some ideas! \u003cul\u003e\u003cli\u003e\u003cstrong\u003eSide dishes:\u003c/strong\u003e Pair them with hot cocoa for a cozy treat. The warmth of the drink complements the sweetness perfectly.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBeverage pairings:\u003c/strong\u003e A glass of milk is classic, but try pairing them with a spiced apple cider for a festive touch.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBread/starch options:\u003c/strong\u003e Serve with gingerbread cookies for a holiday-themed dessert platter.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eOccasion ideas:\u003c/strong\u003e These treats are great for holiday parties, school events, or just a fun family night in.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation tips:\u003c/strong\u003e Use a colorful plate and add some festive sprinkles on top for a fun touch. You can also wrap them in cellophane for gift-giving.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTemperature serving note:\u003c/strong\u003e Serve at room temperature for the best texture.\u003c/li\u003e\u003c/ul\u003e\u003c/p\u003e"
-                               },
-                               {
-                                   "headline":  "Different Ways to Make It"
-                               },
-                               {
-                                   "content":  "\u003cp\u003eWant to mix things up? Here are some creative variations to try! \u003cul\u003e\u003cli\u003e\u003cstrong\u003eDietary adaptation 1 (Gluten-Free):\u003c/strong\u003e Use gluten-free crispy rice cereal to make these treats suitable for everyone.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eDietary adaptation 2 (Vegan/Dairy-Free):\u003c/strong\u003e Substitute the butter with coconut oil and use vegan marshmallows for a dairy-free version.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eFlavor variation (Chocolate):\u003c/strong\u003e Add cocoa powder to the melted marshmallows for a chocolatey treat. Use about 1/4 cup for a rich flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eProtein/ingredient swap:\u003c/strong\u003e Swap out the rice cereal for puffed quinoa for a nutty flavor and added protein.\u003c/li\u003e\u003c/ul\u003e\u003c/p\u003e"
-                               },
-                               {
-                                   "upload":  {
-                                                  "context":  "A beautifully plated Rice Krispie Treat, garnished with colorful sprinkles, set on a festive table for the holidays.",
-                                                  "url":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp"
-                                              }
-                               },
-                               {
-                                   "note":  {
-                                                "label":  "Tricks I\u0027ve Learned",
-                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eRestaurant technique:\u003c/strong\u003e For a gourmet touch, try toasting the rice cereal in the oven for a few minutes before mixing. It enhances the flavor!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eIngredient prep secret:\u003c/strong\u003e Always use fresh marshmallows for the best results. Stale marshmallows can lead to a tough texture.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTiming strategy:\u003c/strong\u003e Work quickly once the marshmallows are melted. The mixture can set fast, so have everything ready to go!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation hack:\u003c/strong\u003e Use cookie cutters to shape the treats into festive designs. It’s a fun way to make them more appealing!\u003c/li\u003e\u003c/ul\u003e"
-                                            }
-                               },
-                               {
-                                   "content":  "\u003cp\u003eIn the end, these Rice Krispie Treats are a fun and easy way to bring some holiday spirit into your home. They’re quick to make and always a hit with everyone. I hope you give this recipe a try and enjoy making memories with your loved ones. Don’t forget to share your experience in the comments or post photos on social media. Happy holidays!\u003c/p\u003e"
-                               }
-                           ],
-    "author_id":  "author_001",
-    "images":  [
-                   {
-                       "fileName":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
-                       "filePath":  "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
-                       "relativePath":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
-                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
-                       "order":  1
-                   },
-                   {
-                       "fileName":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
-                       "filePath":  "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
-                       "relativePath":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
-                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
-                       "order":  2
-                   },
-                   {
-                       "fileName":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
-                       "filePath":  "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
-                       "relativePath":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
-                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
-                       "order":  3
-                   },
-                   {
-                       "fileName":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
-                       "filePath":  "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
-                       "relativePath":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
-                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
-                       "order":  4,
-                       "type":  "template"
-                   }
-               ],
-    "slug":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties",
-    "id":  "recipe_1765299279_244",
-    "image":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
-    "image_path":  "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
-    "image_dir":  "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images",
-    "generated_from_text":  true,
-    "has_rich_structure":  true,
-    "createdAt":  "2025-12-13T22:03:45+01:00",
-    "updatedAt":  "2025-12-13T22:03:45+01:00"
+    "title": "Festive Rice Krispie Treats for Holiday Cheer",
+    "voice": "Enthusiastic Friend",
+    "promptIMG": "Professional food photography prompt: \"Festive Rice Krispie Treats, beautifully arranged on a colorful holiday-themed plate, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "These festive Rice Krispie Treats are a must-try for your holiday gatherings! Made with gooey marshmallows and crispy rice cereal, they’re a fun treat for kids and adults alike. Great for parties or cozy nights in, you’ll want to save this recipe for your celebrations!",
+    "hashtags": "#festivericekrispietreats #holidayrecipes #easyrecipes #dessertideas #familyfun",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 5,
+    "servings": 12,
+    "ingredients": [
+        "3 tablespoons unsalted butter, plus extra for greasing",
+        "1 package (10 oz) mini marshmallows",
+        "6 cups crispy rice cereal",
+        "1 teaspoon vanilla extract",
+        "Sprinkles for decoration (optional)"
+    ],
+    "instructions": [
+        "Start by greasing a 9x13 inch baking dish with butter. This helps the treats come out easily later.",
+        "In a large saucepan, melt the butter over low heat. Once melted, add the marshmallows and stir until completely melted and smooth.",
+        "Remove the saucepan from heat and stir in the vanilla extract. Then, quickly add the crispy rice cereal and mix until well combined.",
+        "Press the mixture into the prepared baking dish using a buttered spatula or your hands (lightly greased to prevent sticking). Make sure it's packed tightly.",
+        "Let the treats cool for about 30 minutes before cutting into squares. If you want, sprinkle some festive decorations on top before serving."
+    ],
+    "tips": "Here’s the thing: Here are some pro tips to make your Rice Krispie Treats even better! First, use fresh marshmallows for the best texture. If you want a richer flavor, try adding a pinch of salt to the melted marshmallow mixture. For a fun twist, mix in some chocolate chips or peanut butter for extra flavor. When pressing the mixture into the pan, dampen your hands slightly to avoid sticking. And if you have leftovers (which is rare!), store them in an airtight container at room temperature for up to 3 days. You can also freeze them for up to a month, just make sure to wrap them well!",
+    "category_id": "cat_1761230294_638",
+    "image_keywords": [
+        "festive",
+        "colorful",
+        "treats",
+        "holiday",
+        "fun",
+        "family-friendly"
+    ],
+    "structured_content": [
+        {
+            "content": "<p>I make these Festive Rice Krispie Treats every holiday season. Sometimes even before the holidays start. They are quick, easy, and honestly kind of hard to mess up. It is just cereal, marshmallows, butter, and a little vanilla. That is it. No oven. No waiting around. Perfect for a busy weeknight or when kids suddenly ask for dessert.</p>"
+        },
+        {
+            "content": "<p>The best part about Festive Rice Krispie Treats is how normal they feel. Nothing fancy here. Just a classic treat that somehow always makes people happy. I bring them to family dinner, school events, and random get togethers. They disappear fast every single time.</p>"
+        },
+        {
+            "note": {
+                "label": "Why This Works",
+                "content": "<ul><li>It is fast. Like really fast.</li><li>No baking needed at all.</li><li>Kids can help without stress.</li><li>Easy to change with whatever you have.</li><li>Perfect for weeknight dessert or parties.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>The first time I made these, my kids looked at the pan like it was weird. Five minutes later, half the pan was gone. Now they ask for them by name. Festive Rice Krispie Treats are kind of our lazy holiday tradition. No complaints here.</p>"
+        },
+        {
+            "content": "<p>I usually make these when I need something quick for dinner night dessert. Or when someone texts and says they are coming over in an hour. This recipe saves me every time. It feels like cheating but no one cares.</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<p><strong>Crispy rice cereal:</strong> This is the base. Any brand works. Just make sure it is fresh. Stale cereal makes sad treats.</p><p><strong>Mini marshmallows:</strong> These melt easier than big ones. Fresh is important here. Old marshmallows do weird things.</p><p><strong>Butter:</strong> Do not skip it. It adds flavor and stops sticking. Unsalted is best.</p><p><strong>Vanilla:</strong> Not required but it helps. Takes like 30 seconds and helps a lot.</p><p><strong>Sprinkles:</strong> Totally optional. Kids love them. Adults pretend they do not but still eat them.</p>"
+        },
+        {
+            "content": "<p>You do not need fancy tools. Just a pot, a spoon, and a pan. If you have parchment paper, cool. If not, butter works fine. Keep it simple.</p>"
+        },
+        {
+            "upload": {
+                "context": "A colorful array of Rice Krispie Treat ingredients including marshmallows, cereal, and butter arranged on a festive kitchen counter.",
+                "url": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<p><strong>Prep:</strong> Grease your pan. Do this first. Trust me. Measure everything out so you are not rushing later.</p><p><strong>Cook:</strong> Melt butter on low heat. Add marshmallows. Stir until smooth. Keep heat low. Rushing ruins texture.</p><p><strong>Done:</strong> Stir in vanilla and cereal. Mix fast. Press into pan. Let it sit. Cut when cool.</p>"
+        },
+        {
+            "content": "<p>Do not press too hard. Light pressure is enough. If you pack it like concrete, the treats turn tough. Soft is better.</p>"
+        },
+        {
+            "upload": {
+                "context": "Stirring melted marshmallows and butter in a large saucepan on the stovetop, creating a gooey mixture for Rice Krispie Treats.",
+                "url": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp"
+            }
+        },
+        {
+            "note": {
+                "label": "Don't Forget",
+                "content": "<ul><li>Low heat always.</li><li>Grease your hands.</li><li>Work fast once melted.</li><li>Let them cool before cutting.</li><li>Room temp storage works best.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>I once tried to rush this and turned the heat up. Big mistake. Burnt marshmallows smell bad and taste worse. Learned my lesson.</p>"
+        },
+        {
+            "content": "<p>Leftovers rarely last long. If they do, keep them covered on the counter. Do not refrigerate. They get hard and sad.</p>"
+        },
+        {
+            "headline": "Making It Taste Better"
+        },
+        {
+            "content": "<p>If you want more flavor, add a pinch of salt. Sounds strange but it works. I do it every time now.</p><p>You can also mix in chocolate chips once the pot is off the heat. If it is too hot, they melt too much.</p><p>Sometimes I drizzle melted chocolate on top. Not needed but nice for holidays.</p>"
+        },
+        {
+            "headline": "What to Eat With It"
+        },
+        {
+            "content": "<p>These go great with milk. Obvious but true. Hot cocoa is also a win.</p><p>I serve them after dinner or during family movie night. Easy win for weeknight dessert.</p><p>They also work on dessert tables with cookies and brownies.</p>"
+        },
+        {
+            "headline": "Different Ways to Do It"
+        },
+        {
+            "content": "<p>You can make these gluten free by using the right cereal. Easy swap.</p><p>For dairy free, use vegan butter and marshmallows. Texture changes a bit but still good.</p><p>You can also shape them into balls. Messy but fun.</p>"
+        },
+        {
+            "upload": {
+                "context": "A beautifully plated Rice Krispie Treat, garnished with colorful sprinkles, set on a festive table for the holidays.",
+                "url": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp"
+            }
+        },
+        {
+            "note": {
+                "label": "Extra Stuff",
+                "content": "<ul><li>Fresh marshmallows matter.</li><li>Low heat always wins.</li><li>Do not overmix.</li><li>Sprinkles last longer if added last.</li><li>Cut with a buttered knife.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>These are great for meal prep desserts. Make them the night before and forget about it.</p>"
+        },
+        {
+            "content": "<p>If you are short on time, skip sprinkles and just cut and serve. Still good. Still gone fast.</p>"
+        },
+        {
+            "content": "<p>Festive Rice Krispie Treats are not fancy food. They are comfort food. They remind people of being kids.</p>"
+        },
+        {
+            "content": "<p>If you need a quick, easy, fast dessert for family dinner or a holiday table, this is it. Make them once and you will keep making them.</p>"
+        }
+    ],
+    "author_id": "author_001",
+    "images": [
+        {
+            "fileName": "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
+            "filePath": "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
+            "relativePath": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
+            "filePath": "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
+            "relativePath": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
+            "filePath": "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
+            "relativePath": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
+            "filePath": "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
+            "relativePath": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_mollykitchendaily-main_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "slug": "irresistible-christmas-rice-krispie-treats-for-holiday-parties",
+    "id": "recipe_1765299279_244",
+    "image": "irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
+    "image_path": "recipes/irresistible-christmas-rice-krispie-treats-for-holiday-parties/images/irresistible-christmas-rice-krispie-treats-for-holiday-parties_image_1.webp",
+    "image_dir": "irresistible-christmas-rice-krispie-treats-for-holiday-parties/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-12-13T22:03:45+01:00",
+    "updatedAt": "2025-12-13T22:03:45+01:00"
 }
