@@ -1,0 +1,159 @@
+{
+    "id":  "recipe_1763051111_154",
+    "slug":  "best-vegan-vegetable-soup-for-healthy-families",
+    "title":  "Best Vegan Vegetable Soup for Healthy Families",
+    "promptIMG":  "Vegetable soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline":  true,
+    "description":  "This vegetable soup is a comforting bowl of health, great for chilly evenings. Packed with vibrant veggies, it’s a nourishing delight that is comforting. for a wholesome family meal!",
+    "category_id":  "cat_1761230166_734",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "4 cups vegetable broth",
+                        "2 cups chopped carrots",
+                        "2 cups chopped celery",
+                        "1 cup diced potatoes",
+                        "1 cup chopped onions",
+                        "2 cups chopped tomatoes",
+                        "2 cloves garlic, minced",
+                        "1 teaspoon dried thyme",
+                        "1 teaspoon dried basil",
+                        "Salt and pepper to taste"
+                    ],
+    "instructions":  [
+                         "In a large pot, heat the vegetable broth over medium heat.",
+                         "Add the onions and garlic, sauté for 3-4 minutes until softened.",
+                         "Stir in the carrots, celery, and potatoes, cooking for another 5 minutes.",
+                         "Add the tomatoes, thyme, basil, salt, and pepper, and bring to a boil.",
+                         "Reduce heat and simmer for 25 minutes until vegetables are tender."
+                     ],
+    "prep_time":  15,
+    "cook_time":  35,
+    "total_time":  50,
+    "servings":  8,
+    "difficulty":  "easy",
+    "tips":  "Here\u0027s the thing: For the best flavor, use fresh herbs and seasonal vegetables. Adjust seasoning to your taste for a personalized touch.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eThis vegetable soup is a delightful blend of fresh, healthy ingredients that come together to create a warm and comforting dish. It\u0027s not only easy to make but also packed with nutrients, making it a perfect choice for a light dinner during the colder months.\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eTakes about 50 minutes\u003c/li\u003e\u003cli\u003eLoaded with nutritious vegetables\u003c/li\u003e\u003cli\u003egreat for cozy weeknight dinners\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have on hand\u003c/li\u003e\u003cli\u003eVegan and gluten-free for dietary needs\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eGrowing up, my family always made a big pot of vegetable soup during the fall. It was a time for gathering around the table, sharing stories, and enjoying the warmth of home-cooked meals.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What You Need"
+                               },
+                               {
+                                   "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient:\u003c/strong\u003e Fresh vegetables work best; choose seasonal varieties for optimal flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/flavoring agents:\u003c/strong\u003e Dried herbs like thyme and basil enhance the soup\u0027s aroma and taste.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Potatoes add heartiness, while tomatoes provide a rich base.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A large pot for cooking and a sharp knife for chopping.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Preparation of fresh vegetables for the soup, showcasing vibrant colors and textures.",
+                                                  "url":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+                                                  "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eChop all vegetables into bite-sized pieces for even cooking. Mince the garlic to release its flavor.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking Process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eFollow the steps to sauté and simmer, ensuring the vegetables are tender but not mushy.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing Touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eAdjust seasoning to taste and serve hot, garnished with fresh herbs if desired.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Cooking process of the vegetable soup, highlighting the bubbling broth and vibrant veggies.",
+                                                  "url":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
+                                                  "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003eSimmering the soup allows the flavors to meld beautifully.\u003c/li\u003e\u003cli\u003eAvoid overcooking the vegetables to maintain their texture.\u003c/li\u003e\u003cli\u003eWhen the potatoes are fork-tender, the soup is ready.\u003c/li\u003e\u003cli\u003eStore leftovers in the fridge for up to 3 days; reheat gently.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis soup is a staple in my home, often shared with friends and family during gatherings. Its warmth and flavor make it special around the dinner table.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eAdd a splash of lemon juice or a dash of hot sauce for an extra kick. Fresh herbs like parsley or cilantro can elevate the flavor profile even further.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eServe with crusty bread or a side salad for a complete meal. Pair with a light white wine for a cozy dinner experience.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFor a heartier version, add beans or lentils. Swap out vegetables based on what you have on hand for a unique twist each time.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Final plated vegetable soup, showcasing its vibrant colors and inviting presentation.",
+                                                  "url":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
+                                                  "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003eFor a richer flavor, roast the vegetables before adding them to the soup.\u003c/li\u003e\u003cli\u003eUse homemade vegetable broth for maximum taste.\u003c/li\u003e\u003cli\u003eTiming is key; add delicate greens like spinach towards the end of cooking.\u003c/li\u003e\u003cli\u003eGarnish with fresh herbs for an impressive finish.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eEnjoy the process of making this soup and the joy it brings to your table. It\u0027s a simple yet satisfying dish that anyone can master!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+                       "filePath":  "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+                       "relativePath":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
+                       "filePath":  "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
+                       "relativePath":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
+                       "filePath":  "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
+                       "relativePath":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+                       "filePath":  "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+                       "relativePath":  "best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+    "image_path":  "recipes/best-vegan-vegetable-soup-for-healthy-families/images/best-vegan-vegetable-soup-for-healthy-families_image_1.webp",
+    "image_dir":  "best-vegan-vegetable-soup-for-healthy-families/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-14T17:46:25+01:00",
+    "updatedAt":  "2025-11-14T17:46:25+01:00"
+}

@@ -1,0 +1,156 @@
+{
+    "id":  "recipe_1763051006_492",
+    "slug":  "flavorful-vegan-white-bean-soup-for-healthy-families",
+    "title":  "Flavorful Vegan White Bean Soup for Healthy Families",
+    "promptIMG":  "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"white bean soup, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline":  true,
+    "description":  "This vegan white bean soup is not only delicious but also budget-friendly! Packed with flavor and nutrients, it\u0027s great for a cozy family dinner. and enjoy a comforting bowl of goodness!",
+    "category_id":  "cat_1761230166_734",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "2 cans white beans, drained and rinsed",
+                        "1 tablespoon olive oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "4 cups vegetable broth",
+                        "1 teaspoon thyme",
+                        "Salt and pepper to taste"
+                    ],
+    "instructions":  [
+                         "Heat olive oil in a large pot over medium heat.",
+                         "Add chopped onion and garlic, sauté until translucent.",
+                         "Stir in the white beans, vegetable broth, thyme, salt, and pepper.",
+                         "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+                         "Use an immersion blender to puree the soup to desired consistency."
+                     ],
+    "prep_time":  15,
+    "cook_time":  30,
+    "total_time":  45,
+    "servings":  4,
+    "difficulty":  "easy",
+    "tips":  "Here\u0027s the thing: For perfect results, ensure the beans are well-rinsed and adjust seasoning to your taste. A splash of lemon juice can brighten the flavors.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eThis white bean soup is a comforting dish that is comforting. With its creamy texture and rich flavors, it\u0027s a perfect meal for any day of the week.\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eTakes about 30 minutes\u003c/li\u003e\u003cli\u003eRestaurant-style flavors at home\u003c/li\u003e\u003cli\u003egreat for weeknight dinners\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have on hand\u003c/li\u003e\u003cli\u003eNutritious and filling without breaking the bank\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eI remember making this soup on a chilly evening, and it quickly became a family favorite. The aroma filled the house, and everyone gathered around the table to enjoy it together.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What You Need"
+                               },
+                               {
+                                   "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient:\u003c/strong\u003e White beans are creamy and provide protein; canned beans save time.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/flavoring agents:\u003c/strong\u003e Thyme adds a lovely earthy flavor; fresh herbs can elevate the dish.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Onion and garlic enhance the base flavor, making it aromatic.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A large pot and immersion blender for easy preparation.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                                                  "url":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+                                                  "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eChop onion and mince garlic before starting to ensure a smooth cooking process.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking Process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eFollow the steps to sauté, simmer, and blend the soup for a creamy texture.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing Touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eAdjust seasoning and serve hot, garnished with fresh herbs if desired.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "based in Source Text, write a short description for the alt image of the cooking process.",
+                                                  "url":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_2.webp",
+                                                  "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003eSimmering too long can make the beans mushy; aim for a tender texture.\u003c/li\u003e\u003cli\u003eDon\u0027t skip the rinsing step; it removes excess sodium from canned beans.\u003c/li\u003e\u003cli\u003eWhen the soup is hot and fragrant, it\u0027s ready to serve.\u003c/li\u003e\u003cli\u003eStore leftovers in the fridge for up to 3 days and reheat gently.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis soup has been a staple in our home, often shared with friends during gatherings. It\u0027s a dish that everyone loves it, creating warm memories.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eEnhance your soup with a sprinkle of smoked paprika, a dash of hot sauce, or fresh lemon juice for brightness.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eServe with crusty bread, a side salad, or a light white wine for a complete meal.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFor a heartier version, add chopped kale or spinach. You can also use different beans like chickpeas for a twist.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                                                  "url":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_3.webp",
+                                                  "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003eBlend only half the soup for a chunky texture.\u003c/li\u003e\u003cli\u003eUse homemade broth for deeper flavor.\u003c/li\u003e\u003cli\u003eTiming is key; sauté until fragrant but not browned.\u003c/li\u003e\u003cli\u003eGarnish with fresh herbs for a pop of color and flavor.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eEnjoy making this soup with your loved ones, and relish the satisfaction of creating a delicious, wholesome meal together!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+                       "filePath":  "recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+                       "relativePath":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_2.webp",
+                       "filePath":  "recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_2.webp",
+                       "relativePath":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_3.webp",
+                       "filePath":  "recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_3.webp",
+                       "relativePath":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_4.webp",
+                       "filePath":  "recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_4.webp",
+                       "relativePath":  "flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+    "image_path":  "recipes/flavorful-vegan-white-bean-soup-for-healthy-families/images/flavorful-vegan-white-bean-soup-for-healthy-families_image_1.webp",
+    "image_dir":  "flavorful-vegan-white-bean-soup-for-healthy-families/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-14T17:46:23+01:00",
+    "updatedAt":  "2025-11-14T17:46:23+01:00"
+}

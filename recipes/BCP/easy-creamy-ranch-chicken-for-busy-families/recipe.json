@@ -26,7 +26,7 @@
     "total_time": 45,
     "servings": 4,
     "difficulty": "easy",
-    "tips": "For perfectly cooked chicken, use a meat thermometer to ensure it reaches 165°F.",
+    "tips": "For perfectly cooked chicken, use a meat thermometer to ensure it reaches 165Â°F.",
     "structured_content": [
         {
             "content": "<p>This Easy Creamy Ranch Chicken is a delightful dish that combines the rich flavors of ranch seasoning and cream cheese, creating a comforting meal that feels like a warm hug. Perfect for busy weeknights, this recipe is not only simple but also incredibly satisfying!<\/p>"
@@ -71,7 +71,7 @@
         {
             "note": {
                 "label": "You Must Know",
-                "content": "<ul><li>Cook chicken until it reaches an internal temperature of 165°F for safety.<\/li><li>Avoid overcooking the chicken to keep it tender and juicy.<\/li><li>Look for a creamy texture when the cream cheese is fully melted.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "content": "<ul><li>Cook chicken until it reaches an internal temperature of 165Â°F for safety.<\/li><li>Avoid overcooking the chicken to keep it tender and juicy.<\/li><li>Look for a creamy texture when the cream cheese is fully melted.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
             }
         },
         {
@@ -81,7 +81,7 @@
             "headline": "Flavor Boosters"
         },
         {
-            "content": "<p>Consider adding fresh herbs like parsley or chives for a pop of color and flavor. You can also mix in some sautéed vegetables for added nutrition.<\/p>"
+            "content": "<p>Consider adding fresh herbs like parsley or chives for a pop of color and flavor. You can also mix in some sautÃ©ed vegetables for added nutrition.<\/p>"
         },
         {
             "headline": "Serving Suggestions"

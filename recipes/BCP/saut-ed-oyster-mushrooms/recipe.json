@@ -1,10 +1,10 @@
 {
     "id": "text_recipe_1761680416_562",
     "slug": "saut-ed-oyster-mushrooms",
-    "title": "Sautéed Oyster Mushrooms",
-    "promptIMG": "Sautéed oyster mushrooms, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "SautÃ©ed Oyster Mushrooms",
+    "promptIMG": "SautÃ©ed oyster mushrooms, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
     "isOnline": true,
-    "description": "These sautéed oyster mushrooms are a quick and delicious side dish that bursts with flavor. With an Asian-inspired glaze, they are not only nutritious but also incredibly easy to prepare in just 15 minutes.",
+    "description": "These sautÃ©ed oyster mushrooms are a quick and delicious side dish that bursts with flavor. With an Asian-inspired glaze, they are not only nutritious but also incredibly easy to prepare in just 15 minutes.",
     "category_id": "cat_1761230072_178",
     "author_id": "author_001",
     "ingredients": [
@@ -17,7 +17,7 @@
     ],
     "instructions": [
         "Heat sesame oil in a large skillet over medium heat.",
-        "Add garlic and ginger, sauté for 1 minute until fragrant.",
+        "Add garlic and ginger, sautÃ© for 1 minute until fragrant.",
         "Add oyster mushrooms and soy sauce, cook for 5-7 minutes until mushrooms are tender.",
         "Garnish with chopped green onions before serving."
     ],
@@ -29,7 +29,7 @@
     "tips": "For the best flavor, use fresh oyster mushrooms and adjust the soy sauce to your taste preference.",
     "structured_content": [
         {
-            "content": "<p>These sautéed oyster mushrooms are a delightful addition to any meal, bringing a rich umami flavor that elevates your dining experience. The quick cooking time and simple ingredients make this dish a go-to for busy weeknights.<\/p>"
+            "content": "<p>These sautÃ©ed oyster mushrooms are a delightful addition to any meal, bringing a rich umami flavor that elevates your dining experience. The quick cooking time and simple ingredients make this dish a go-to for busy weeknights.<\/p>"
         },
         {
             "note": {
@@ -38,7 +38,7 @@
             }
         },
         {
-            "content": "<p>Growing up, my family often enjoyed mushrooms sautéed in various sauces, but this Asian-inspired version quickly became a favorite. The aroma fills the kitchen, and the taste is simply irresistible.<\/p>"
+            "content": "<p>Growing up, my family often enjoyed mushrooms sautÃ©ed in various sauces, but this Asian-inspired version quickly became a favorite. The aroma fills the kitchen, and the taste is simply irresistible.<\/p>"
         },
         {
             "headline": "Gather Your Ingredients"
@@ -48,7 +48,7 @@
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh oyster mushrooms and ingredients ready for sautéing, showcasing their natural beauty and freshness.",
+                "context": "A vibrant display of fresh oyster mushrooms and ingredients ready for sautÃ©ing, showcasing their natural beauty and freshness.",
                 "url": "saut-ed-oyster-mushrooms\/images\/saut-ed-oyster-mushrooms_image_1.webp",
                 "fileName": "saut-ed-oyster-mushrooms_image_1.webp",
                 "type": "main"
@@ -58,11 +58,11 @@
             "headline": "How to Make It"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Clean and slice the oyster mushrooms. Mince the garlic and grate the ginger.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the skillet, sauté garlic and ginger, then add mushrooms and soy sauce, cooking until tender.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with green onions for a fresh finish.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Clean and slice the oyster mushrooms. Mince the garlic and grate the ginger.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat the skillet, sautÃ© garlic and ginger, then add mushrooms and soy sauce, cooking until tender.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with green onions for a fresh finish.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Capturing the sizzling process of sautéing oyster mushrooms in a skillet, highlighting the vibrant colors and textures.",
+                "context": "Capturing the sizzling process of sautÃ©ing oyster mushrooms in a skillet, highlighting the vibrant colors and textures.",
                 "url": "saut-ed-oyster-mushrooms\/images\/saut-ed-oyster-mushrooms_image_2.webp",
                 "fileName": "saut-ed-oyster-mushrooms_image_2.webp",
                 "type": "process"
@@ -75,7 +75,7 @@
             }
         },
         {
-            "content": "<p>Sharing these sautéed mushrooms with friends at dinner parties has always been a joy. Their delightful flavor and ease of preparation make them a hit every time.<\/p>"
+            "content": "<p>Sharing these sautÃ©ed mushrooms with friends at dinner parties has always been a joy. Their delightful flavor and ease of preparation make them a hit every time.<\/p>"
         },
         {
             "headline": "Flavor Boosters"
@@ -97,7 +97,7 @@
         },
         {
             "upload": {
-                "context": "A beautifully plated dish of sautéed oyster mushrooms, garnished with green onions, showcasing its vibrant colors and textures.",
+                "context": "A beautifully plated dish of sautÃ©ed oyster mushrooms, garnished with green onions, showcasing its vibrant colors and textures.",
                 "url": "saut-ed-oyster-mushrooms\/images\/saut-ed-oyster-mushrooms_image_3.webp",
                 "fileName": "saut-ed-oyster-mushrooms_image_3.webp",
                 "type": "final"

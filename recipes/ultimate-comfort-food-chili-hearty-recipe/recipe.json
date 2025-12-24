@@ -1,165 +1,165 @@
 {
-    "id": "recipe_1764111617_207",
-    "slug": "ultimate-comfort-food-chili-hearty-recipe",
-    "title": "Ultimate Comfort Food Chili (Hearty Recipe)",
-    "promptIMG": "Professional food photography prompt: \"chili, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
-    "isOnline": true,
-    "description": "Warm up with this hearty chili recipe, perfect for chilly nights! Packed with flavor and easy to make, it's a family favorite. Try it tonight!",
-    "category_id": "cat_1761230594_885",
-    "author_id": "author_001",
-    "ingredients": [
-        "2 tablespoons olive oil",
-        "1 onion, diced",
-        "2 cloves garlic, minced",
-        "1 pound ground beef",
-        "1 can (15 oz) kidney beans, drained and rinsed",
-        "1 can (15 oz) black beans, drained and rinsed",
-        "1 can (28 oz) crushed tomatoes",
-        "2 tablespoons chili powder",
-        "1 teaspoon cumin",
-        "1 teaspoon smoked paprika",
-        "Salt and pepper to taste",
-        "1 cup beef broth",
-        "1 bell pepper, diced",
-        "1 jalapeño, diced (optional)",
-        "Fresh cilantro for garnish"
-    ],
-    "instructions": [
-        "In a large pot, heat the olive oil over medium heat. Add the diced onion and sauté for 3-4 minutes until translucent.",
-        "Stir in the minced garlic and cook for an additional 1 minute until fragrant.",
-        "Add the ground beef to the pot, breaking it up with a spoon. Cook until browned, about 5-7 minutes. Drain excess fat if necessary.",
-        "Mix in the kidney beans, black beans, crushed tomatoes, chili powder, cumin, smoked paprika, salt, and pepper. Stir well to combine.",
-        "Pour in the beef broth and add the diced bell pepper and jalapeño. Bring the mixture to a boil, then reduce heat to low and simmer uncovered for 30-40 minutes, stirring occasionally.",
-        "Taste and adjust seasoning if necessary. Serve hot, garnished with fresh cilantro."
-    ],
-    "prep_time": 15,
-    "cook_time": 60,
-    "total_time": 75,
-    "servings": 6,
-    "difficulty": "Easy",
-    "tips": "To achieve the best flavor, use high-quality ground beef and allow the chili to simmer for longer if time permits. This enhances the depth of flavor. Avoid overcooking the garlic to prevent bitterness. For maximum flavor, consider using homemade beef broth. Store leftovers in an airtight container in the refrigerator for up to 4 days, or freeze for up to 3 months. Reheat gently on the stove or in the microwave, adding a splash of water if needed to maintain consistency.",
-    "structured_content": [
-        {
-            "content": "<p>Chili is the ultimate comfort food, perfect for warming up on a cold day. This hearty chili recipe is packed with rich flavors and textures that will satisfy your cravings. With tender ground beef, creamy beans, and a medley of spices, each bite is a burst of savory goodness. Whether you're serving it for a family dinner or a cozy night in, this chili is sure to become a favorite. It's easy to make and even easier to enjoy!<\/p>"
-        },
-        {
-            "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and ready in 1 hour or less - perfect for busy weeknights<\/li><li>Restaurant-quality flavors achieved at home with simple techniques<\/li><li>Perfect for family dinners or game day gatherings<\/li><li>Uses simple ingredients you likely have in your pantry<\/li><li>Budget-friendly and a crowd-pleaser<\/li><li>Can be easily customized to suit your taste<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>This chili recipe holds a special place in my heart. I remember the first time I made it for my family; the aroma filled the house, and everyone gathered around the table, eager to dig in. It has become a staple for our weekend meals, and I love how it brings us all together. Each time I make it, I think of those cozy evenings spent laughing and sharing stories over a warm bowl of chili.<\/p>"
-        },
-        {
-            "headline": "Essential Ingredients & Smart Substitutions"
-        },
-        {
-            "content": "<p>When making chili, the choice of protein is crucial. <strong>Ground beef<\/strong> is traditional, providing a rich flavor and hearty texture. Look for 80\/20 ground beef for the best balance of flavor and moisture. <strong>Key seasonings<\/strong> like chili powder and cumin are essential for depth; consider using fresh spices for a more vibrant taste. <strong>Supporting ingredients<\/strong> like beans add creaminess and protein, while tomatoes provide acidity and balance. For dietary needs, you can substitute ground turkey or lentils for a lighter option. <strong>Equipment needed<\/strong> includes a large pot for simmering and a wooden spoon for stirring.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Fresh ingredients for chili including ground beef, beans, tomatoes, and spices arranged on a wooden cutting board, ready for cooking.",
-                "url": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-                "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-                "type": "main"
-            }
-        },
-        {
-            "headline": "Step-by-Step Cooking Instructions"
-        },
-        {
-            "content": "<p>Before you start cooking, gather all your ingredients and prepare them. <strong>Preparation phase:<\/strong> Dice the onion, garlic, bell pepper, and jalapeño. Measure out your spices and have your canned ingredients ready. This will streamline your cooking process. <strong>Cooking process:<\/strong> Heat the oil, sauté the onion and garlic, then brown the beef. Add the remaining ingredients and let it simmer. Expect a delightful aroma as it cooks. <strong>Finishing touches:<\/strong> Once the chili is thickened and flavors melded, serve it hot with fresh cilantro on top for a burst of freshness.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Stirring the chili in a large pot on the stovetop, showcasing the rich, bubbling mixture with vibrant colors.",
-                "url": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
-                "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "Critical Tips You Must Know",
-                "content": "<ul><li><strong>Temperature precision:<\/strong> Simmering on low heat allows flavors to develop. Aim for a gentle bubble, not a rolling boil.<\/li><li><strong>Common mistake to avoid:<\/strong> Overcooking the garlic can lead to bitterness; add it just before the beef is browned.<\/li><li><strong>Perfect doneness indicator:<\/strong> The chili should be thick and bubbling, with a rich aroma.<\/li><li><strong>Storage & reheating:<\/strong> Store in airtight containers for up to 4 days in the fridge or freeze for 3 months. Reheat gently on the stove.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing this chili with friends and family brings so much joy. I love watching their faces light up with the first bite, and the compliments never stop! It's a dish that sparks conversation and laughter around the table. Each bowl is filled with warmth and comfort, making it a favorite for gatherings. The satisfaction of serving something homemade and delicious is truly heartwarming.<\/p>"
-        },
-        {
-            "headline": "Flavor Boosters & Customization Ideas"
-        },
-        {
-            "content": "<p>Enhance your chili with these ideas: <ul><li><strong>Fresh herbs:<\/strong> Add chopped cilantro or parsley at the end for freshness.<\/li><li><strong>Spice additions:<\/strong> Consider adding cayenne pepper for heat or smoked paprika for depth.<\/li><li><strong>Ingredient upgrades:<\/strong> Top with shredded cheese, sour cream, or avocado for creaminess.<\/li><li><strong>Technique variations:<\/strong> Try slow cooking for deeper flavors or grilling the meat for a smoky taste.<\/li><\/ul>These suggestions can elevate your chili experience!<\/p>"
-        },
-        {
-            "headline": "Perfect Pairings & Serving Suggestions"
-        },
-        {
-            "content": "<p>To serve your chili perfectly: <ul><li><strong>Side dishes:<\/strong> Cornbread is a classic pairing, adding sweetness and texture. A fresh green salad balances the richness.<\/li><li><strong>Beverage pairings:<\/strong> A cold beer or a fruity red wine complements the spices beautifully.<\/li><li><strong>Bread options:<\/strong> Serve with crusty bread for dipping or tortilla chips for crunch.<\/li><li><strong>Occasion ideas:<\/strong> This chili is perfect for casual dinners, game day, or cozy family gatherings.<\/li><li><strong>Presentation tips:<\/strong> Serve in colorful bowls and garnish with cilantro and a wedge of lime for a pop of color.<\/li><li><strong>Temperature serving note:<\/strong> Serve hot, and it’s great for leftovers!<\/li><\/ul><\/p>"
-        },
-        {
-            "headline": "Creative Variations to Try"
-        },
-        {
-            "content": "<p>Explore these variations: <ul><li><strong>Gluten-Free:<\/strong> Use gluten-free broth and ensure all canned ingredients are certified gluten-free.<\/li><li><strong>Vegan:<\/strong> Substitute ground beef with lentils or mushrooms and use vegetable broth.<\/li><li><strong>Flavor variation:<\/strong> For a spicy kick, add diced chipotle peppers in adobo sauce.<\/li><li><strong>Protein swap:<\/strong> Try shredded chicken or turkey for a lighter version.<\/li><\/ul>These adaptations keep the spirit of the original while catering to different diets!<\/p>"
-        },
-        {
-            "upload": {
-                "context": "A steaming bowl of chili topped with fresh cilantro and served with crusty bread on a rustic table, ready to enjoy.",
-                "url": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
-                "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Chef Secrets",
-                "content": "<ul><li><strong>Restaurant technique:<\/strong> Toasting spices before adding them enhances their flavor and aroma.<\/li><li><strong>Ingredient prep secret:<\/strong> Let your meat come to room temperature before cooking for even browning.<\/li><li><strong>Timing strategy:<\/strong> Prepare your ingredients ahead of time to streamline the cooking process.<\/li><li><strong>Presentation hack:<\/strong> Use a squeeze of lime juice on top before serving for a fresh finish.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Making this ultimate comfort food chili is a rewarding experience that anyone can achieve. The rich flavors and hearty ingredients come together beautifully, making it a dish you'll be proud to serve. Don't hesitate to experiment and make it your own! I encourage you to share your experience in the comments, rate the recipe, and post your photos on social media with our hashtag. Enjoy making this delicious chili!<\/p>"
-        }
-    ],
-    "images": [
-        {
-            "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-            "filePath": "recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-            "relativePath": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
-            "order": 1
-        },
-        {
-            "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
-            "filePath": "recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
-            "relativePath": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
-            "order": 2
-        },
-        {
-            "fileName": "ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
-            "filePath": "recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
-            "relativePath": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
-            "order": 3
-        },
-        {
-            "fileName": "ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
-            "filePath": "recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
-            "relativePath": "ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
-            "order": 4,
-            "type": "template"
-        }
-    ],
-    "image": "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-    "image_path": "recipes\/ultimate-comfort-food-chili-hearty-recipe\/images\/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
-    "image_dir": "ultimate-comfort-food-chili-hearty-recipe\/images",
-    "generated_from_text": true,
-    "has_rich_structure": true,
-    "createdAt": "2025-11-26T00:18:50+01:00",
-    "updatedAt": "2025-11-26T00:18:50+01:00"
+    "id":  "recipe_1764111617_207",
+    "slug":  "ultimate-comfort-food-chili-hearty-recipe",
+    "title":  "Ultimate Comfort Food Chili (Hearty Recipe)",
+    "promptIMG":  "Professional food photography prompt: \"chili, professionally plated in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline":  true,
+    "description":  "Warm up with this hearty chili recipe, great for chilly nights! Packed with flavor and easy to make, it's a family favorite.",
+    "category_id":  "cat_1761230594_885",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "2 tablespoons olive oil",
+                        "1 onion, diced",
+                        "2 cloves garlic, minced",
+                        "1 pound ground beef",
+                        "1 can (15 oz) kidney beans, drained and rinsed",
+                        "1 can (15 oz) black beans, drained and rinsed",
+                        "1 can (28 oz) crushed tomatoes",
+                        "2 tablespoons chili powder",
+                        "1 teaspoon cumin",
+                        "1 teaspoon smoked paprika",
+                        "Salt and pepper to taste",
+                        "1 cup beef broth",
+                        "1 bell pepper, diced",
+                        "1 jalapeño, diced (optional)",
+                        "Fresh cilantro for garnish"
+                    ],
+    "instructions":  [
+                         "In a large pot, heat the olive oil over medium heat. Add the diced onion and sauté for 3-4 minutes until translucent.",
+                         "Stir in the minced garlic and cook for an additional 1 minute until fragrant.",
+                         "Add the ground beef to the pot, breaking it up with a spoon. Cook until browned, about 5-7 minutes. Drain excess fat if necessary.",
+                         "Mix in the kidney beans, black beans, crushed tomatoes, chili powder, cumin, smoked paprika, salt, and pepper. Stir well to combine.",
+                         "Pour in the beef broth and add the diced bell pepper and jalapeño. Bring the mixture to a boil, then reduce heat to low and simmer uncovered for 30-40 minutes, stirring occasionally.",
+                         "Taste and adjust seasoning if necessary. Serve hot, garnished with fresh cilantro."
+                     ],
+    "prep_time":  15,
+    "cook_time":  60,
+    "total_time":  75,
+    "servings":  6,
+    "difficulty":  "Easy",
+    "tips":  "Here's the thing: To achieve the best flavor, use high-quality ground beef and allow the chili to simmer for longer if time permits. This enhances the depth of flavor. Avoid overcooking the garlic to prevent bitterness. For maximum flavor, consider using homemade beef broth. Store leftovers in an airtight container in the refrigerator for up to 4 days, or freeze for up to 3 months. Reheat gently on the stove or in the microwave, adding a splash of water if needed to maintain consistency.",
+    "structured_content":  [
+                               {
+                                   "content":  "<p>So I made chili last weekend and remembered why I love this recipe so much. It's just one of those things that makes the house smell amazing and fills everyone up. My husband ate two bowls before he even said anything. That's how you know it's good.</p><p>This isn't fancy chili. It's the kind you make when it's cold outside and you want something warm. Ground beef, beans, tomatoes, spices. Nothing complicated. Takes maybe an hour total and most of that is just letting it bubble on the stove.</p><p>What I like about it is you can make a big pot and eat it all week. Or freeze half for later when you don't feel like cooking. We usually have it with cornbread but honestly it's fine by itself too.</p>"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "<ul><li>Ready in about an hour which is pretty fast for chili</li><li>Uses basic stuff you probably already have</li><li>Feeds a bunch of people without costing much</li><li>Tastes better the next day if you have leftovers</li><li>Easy to adjust if you like it spicier or milder</li></ul>"
+                                            }
+                               },
+                               {
+                                   "content":  "<p>First time I made this my kids looked at the beans and made faces. They thought it was going to be weird. But then they tried it and now they ask for it. My daughter even takes it for lunch sometimes in a thermos. She's 12 and usually won't eat anything I make so that's saying something.</p>"
+                               },
+                               {
+                                   "headline":  "What Goes In and What You Can Swap"
+                               },
+                               {
+                                   "content":  "<p>The main thing is the ground beef. I get the 80/20 kind because it has enough fat to taste good but not so much that you're draining a ton off. You could use ground turkey if you want but it won't taste the same. Just being honest.</p><p>For beans I use both kidney and black beans. One can of each. You could do all one kind if that's what you have. Nobody's going to know the difference really. Just drain them good and rinse them or the chili gets too thick and weird.</p><p>The spices are chili powder, cumin, and smoked paprika. The smoked paprika is optional but it adds something nice. Makes it taste a little deeper. Don't skip the cumin though. That's important.</p><p>You need a big pot. Like a dutch oven or soup pot. Something that holds at least 5 quarts. And a wooden spoon for stirring. That's basically it for equipment.</p>"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Fresh ingredients for chili including ground beef, beans, tomatoes, and spices arranged on a wooden cutting board, ready for cooking.",
+                                                  "url":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+                                                  "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "<p>Before you start cooking get everything ready. Chop your onion, bell pepper, and jalapeño if you're using it. Mince the garlic. Open all your cans. Measure out the spices. This part takes maybe 10 minutes and makes everything easier later.</p><p>Heat the oil in your pot on medium. Throw in the onion and let it cook for a few minutes until it looks kinda see through. Add the garlic and stir it around for like a minute. Don't let it burn or it gets bitter and gross.</p><p>Now add the ground beef. Break it up with your spoon as it cooks. You want it all brown with no pink left. Takes maybe 5 or 7 minutes. If there's a lot of grease in the pot you can drain some off but I usually don't bother.</p><p>Dump in both kinds of beans, the crushed tomatoes, all your spices, the broth, and the peppers. Stir it all together. Turn the heat up until it starts bubbling then turn it way down to low. Let it simmer for 30 to 40 minutes. Stir it every now and then so nothing sticks to the bottom.</p><p>That's it. When it's thick and smells amazing it's done. Taste it and add more salt if you need to. Put some cilantro on top if you have it.</p>"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Stirring the chili in a large pot on the stovetop, showcasing the rich, bubbling mixture with vibrant colors.",
+                                                  "url":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
+                                                  "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don't Mess This Up",
+                                                "content":  "<ul><li>Keep it on low when it's simmering. You want little bubbles not big crazy ones.</li><li>Add the garlic after the onion cooks a bit. If you add it too early it burns.</li><li>You'll know it's done when it's thick and not watery. Should take 30 minutes at least.</li><li>Keep leftovers in a container with a lid in the fridge. Good for 4 days. Freezes great too for like 3 months.</li><li>When you reheat it add a little water if it got too thick in the fridge.</li></ul>"
+                                            }
+                               },
+                               {
+                                   "content":  "<p>Last time we had people over for dinner I made a double batch of this. Everyone kept going back for more. One of my friends asked for the recipe and then texted me later saying her husband loved it. That made me feel pretty good I'm not gonna lie.</p>"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "<p>So here's what you can add to make it even better. Fresh cilantro on top is really good. Makes it taste fresher. You could also use green onions if you don't like cilantro.</p><p>If you want it spicier just add more jalapeño or throw in some cayenne pepper. Like a quarter teaspoon at a time. You can always add more but you can't take it out once it's in there.</p><p>Toppings are where it's at though. Shredded cheese is obvious. Sour cream cools it down if it's too spicy. Avocado or guacamole is really good too. My husband likes to crush tortilla chips on top for crunch. Whatever you're into basically.</p>"
+                               },
+                               {
+                                   "headline":  "What to Eat With It"
+                               },
+                               {
+                                   "content":  "<p>Cornbread is the classic thing to serve with chili. The sweet bread with the spicy chili just works. You can make it from scratch or use a box mix. Nobody cares as long as it's warm with butter.</p><p>I usually make a simple salad too. Just lettuce and tomatoes with ranch. Helps balance out how heavy the chili is. Green beans on the side are good too if you want a vegetable.</p><p>For drinks we do beer if it's the weekend. Or just water. Iced tea works too. Nothing fancy needed. And serve it in regular bowls. It doesn't need to look perfect. Just hot and ready to eat.</p>"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "<p>If you need it to be gluten free just check that your broth and canned stuff don't have any wheat in them. Most don't but some brands do weird things so just look at the labels.</p><p>For vegan chili skip the beef and use lentils instead. Or mushrooms chopped up small. Use vegetable broth instead of beef broth. It's different but still good in its own way.</p><p>You could also use ground turkey or chicken instead of beef. It'll be lighter and not as rich. Sometimes I do half beef and half turkey to save money and it still tastes fine.</p>"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A steaming bowl of chili topped with fresh cilantro and served with crusty bread on a rustic table, ready to enjoy.",
+                                                  "url":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
+                                                  "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I've Learned",
+                                                "content":  "<ul><li>If you toast the chili powder in the pot for like 30 seconds before adding the liquid it tastes better. Just don't burn it.</li><li>Let the meat sit out for 15 minutes before cooking so it browns better instead of steaming.</li><li>Chop everything before you start cooking. Makes it way less stressful.</li><li>Squeeze lime juice on top right before eating. Really wakes up the flavors.</li></ul>"
+                                            }
+                               },
+                               {
+                                   "content":  "<p>Making chili like this is pretty easy once you do it a couple times. It's one of those recipes where you can't really mess it up too bad. If it's a little different each time that's fine. Still tastes good.</p><p>Try it out and see what you think. You can change it around to fit what you like. Add more spice or less. Use different beans. Whatever works for you. Let me know how it goes if you make it.</p>"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+                       "filePath":  "recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+                       "relativePath":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
+                       "filePath":  "recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
+                       "relativePath":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
+                       "filePath":  "recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
+                       "relativePath":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
+                       "filePath":  "recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
+                       "relativePath":  "ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_mollykitchendaily-main_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+    "image_path":  "recipes/ultimate-comfort-food-chili-hearty-recipe/images/ultimate-comfort-food-chili-hearty-recipe_image_1.webp",
+    "image_dir":  "ultimate-comfort-food-chili-hearty-recipe/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-26T00:18:50+01:00",
+    "updatedAt":  "2025-11-26T00:18:50+01:00"
 }

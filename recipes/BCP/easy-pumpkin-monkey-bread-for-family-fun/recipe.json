@@ -1,0 +1,157 @@
+{
+    "id":  "recipe_1762890439_145",
+    "slug":  "easy-pumpkin-monkey-bread-for-family-fun",
+    "title":  "Easy Pumpkin Monkey Bread for Family Fun",
+    "promptIMG":  "Easy Pumpkin Monkey Bread, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline":  true,
+    "description":  "try this delightful pumpkin monkey bread that’s great for family gatherings. With its sticky caramel glaze and warm spices, it’s a treat everyone will love. Try it today for a cozy dessert experience!",
+    "category_id":  "cat_1761230294_638",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "2 cups pumpkin puree",
+                        "1 cup brown sugar",
+                        "1 teaspoon cinnamon",
+                        "2 cans refrigerated biscuit dough",
+                        "1/2 cup butter, melted",
+                        "1/2 cup chopped nuts (optional)",
+                        "1 cup caramel sauce"
+                    ],
+    "instructions":  [
+                         "Preheat the oven to 350°F (175°C).",
+                         "In a bowl, mix pumpkin puree, brown sugar, and cinnamon.",
+                         "Cut biscuit dough into quarters and toss in the pumpkin mixture.",
+                         "Layer the dough pieces in a greased bundt pan, adding nuts if desired.",
+                         "Drizzle melted butter over the top and bake for 30 minutes.",
+                         "Let cool slightly, then invert onto a plate and drizzle with caramel sauce."
+                     ],
+    "prep_time":  15,
+    "cook_time":  30,
+    "total_time":  45,
+    "servings":  4,
+    "difficulty":  "easy",
+    "tips":  "Here\u0027s the thing: For perfect results, ensure the dough is evenly coated in the pumpkin mixture and watch closely while baking to avoid overcooking.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eThis Easy Pumpkin Monkey Bread is a delightful twist on a classic favorite, bringing together the warm flavors of pumpkin and spices in a fun, pull-apart bread. great for cozy family gatherings, it’s sure to become a seasonal staple!\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eTakes about 1 hour\u003c/li\u003e\u003cli\u003ePerfectly spiced with pumpkin and cinnamon\u003c/li\u003e\u003cli\u003eGreat for family breakfasts or dessert\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have on hand\u003c/li\u003e\u003cli\u003eFun to share and enjoy together!\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eI remember making this pumpkin monkey bread with my family during the fall. The warm aroma filled the house, and it became a tradition that brought us all together around the kitchen table.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What You Need"
+                               },
+                               {
+                                   "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient:\u003c/strong\u003e Pumpkin puree adds moisture and flavor, making this bread irresistibly soft.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/flavoring agents:\u003c/strong\u003e Cinnamon enhances the warmth and sweetness of the dish.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Biscuit dough provides a fluffy base, while caramel sauce adds a decadent finish.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A bundt pan is essential for the classic monkey bread shape.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the ingredients preparation.",
+                                                  "url":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+                                                  "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003ePreheat your oven and prepare your bundt pan with cooking spray. Mix the pumpkin, sugar, and spices in a bowl.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking Process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eLayer the biscuit pieces in the pan, drizzle with butter, and bake until golden brown.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing Touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eLet it cool slightly, then invert onto a plate and drizzle with caramel for a beautiful presentation.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the cooking process.",
+                                                  "url":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_2.webp",
+                                                  "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003eEnsure the dough is well-coated for maximum flavor.\u003c/li\u003e\u003cli\u003eAvoid overbaking to keep the bread moist.\u003c/li\u003e\u003cli\u003eCheck for doneness by inserting a toothpick; it should come out clean.\u003c/li\u003e\u003cli\u003eStore leftovers in an airtight container for up to 3 days.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eSharing this monkey bread with friends and family brings back fond memories of laughter and joy, making it a cherished recipe in our home.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eConsider adding a pinch of nutmeg or ginger for an extra spice kick. You can also swap the caramel for a cream cheese glaze for a different flavor profile.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis monkey bread pairs wonderfully with a warm cup of coffee or a scoop of vanilla ice cream for dessert. It’s great for brunch or as a sweet treat during the holidays.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFor a gluten-free option, use gluten-free biscuit dough. You can also try adding chocolate chips or dried cranberries for a fun twist.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the final plated dish or variation.",
+                                                  "url":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_3.webp",
+                                                  "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003eUse fresh pumpkin puree for the best flavor.\u003c/li\u003e\u003cli\u003eLet the bread cool slightly before inverting to prevent breakage.\u003c/li\u003e\u003cli\u003eServe warm for the best texture and taste.\u003c/li\u003e\u003cli\u003eGarnish with whipped cream or nuts for added flair.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eEnjoy the process of making this delightful pumpkin monkey bread, and let it fill your home with warmth and happiness. It’s a recipe that’s sure to bring smiles all around!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+                       "filePath":  "recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+                       "relativePath":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_2.webp",
+                       "filePath":  "recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_2.webp",
+                       "relativePath":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_3.webp",
+                       "filePath":  "recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_3.webp",
+                       "relativePath":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "easy-pumpkin-monkey-bread-for-family-fun_image_4.webp",
+                       "filePath":  "recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_4.webp",
+                       "relativePath":  "easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+    "image_path":  "recipes/easy-pumpkin-monkey-bread-for-family-fun/images/easy-pumpkin-monkey-bread-for-family-fun_image_1.webp",
+    "image_dir":  "easy-pumpkin-monkey-bread-for-family-fun/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-12T12:13:55+01:00",
+    "updatedAt":  "2025-11-12T12:13:55+01:00"
+}

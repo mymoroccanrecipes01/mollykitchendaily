@@ -2031,7 +2031,7 @@ addBreadcrumbSchema(recipe) {
                     <div class="recipe-card">
                         <div class="recipe-author">           
                             <div>
-                                <h5>By <a href="?page=about">${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}</a>, ${createdAtFormatted}</h5>                        
+                                <h5>By ${this.activeAuthor ? this.activeAuthor.name : 'House Chef'}</a>, ${createdAtFormatted}</h5>                        
                             </div>
                         </div>
                         <div class="meta-row">

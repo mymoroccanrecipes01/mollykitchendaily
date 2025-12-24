@@ -1,0 +1,154 @@
+{
+    "id":  "recipe_1763051356_525",
+    "slug":  "creamy-ranch-chicken-crockpot-easy-family-dinner",
+    "title":  "Creamy Ranch Chicken CrockPot - Easy Family Dinner",
+    "promptIMG":  "Creamy Ranch Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline":  true,
+    "description":  "This Creamy Ranch Chicken CrockPot recipe is a hassle-free dinner flavorful. With minimal prep, it cooks itself to perfection, making it a family favorite. for a delicious meal!",
+    "category_id":  "cat_1761230383_494",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "1 pound chicken breasts",
+                        "1 packet ranch seasoning",
+                        "1 cup cream of chicken soup",
+                        "1/2 cup chicken broth",
+                        "1/2 cup sour cream"
+                    ],
+    "instructions":  [
+                         "Place chicken breasts in the CrockPot.",
+                         "Sprinkle ranch seasoning over the chicken.",
+                         "In a bowl, mix cream of chicken soup and chicken broth, then pour over the chicken.",
+                         "Cover and cook on low for 4 hours.",
+                         "Stir in sour cream before serving."
+                     ],
+    "prep_time":  15,
+    "cook_time":  240,
+    "total_time":  255,
+    "servings":  4,
+    "difficulty":  "easy",
+    "tips":  "Here\u0027s the thing: For perfect results, ensure the chicken is fully submerged in the sauce and avoid lifting the lid during cooking.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eThis Creamy Ranch Chicken is a comforting dish that combines the rich flavors of ranch seasoning and creamy sauce, making it a perfect meal for busy families. The slow cooking method ensures tender chicken that absorbs all the delicious flavors.\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eTakes about 15 minutes of prep\u003c/li\u003e\u003cli\u003eRestaurant-style flavors at home\u003c/li\u003e\u003cli\u003egreat for weeknight dinners and entertaining\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have on hand\u003c/li\u003e\u003cli\u003eGreat for meal prep and leftovers\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFirst time I made this dish for my family; the aroma filled the house, and everyone couldn\u0027t wait to dig in. It quickly became a staple in our dinner rotation!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What You Need"
+                               },
+                               {
+                                   "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient:\u003c/strong\u003e Chicken breasts work best for their tenderness and ability to absorb flavors.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/flavoring agents:\u003c/strong\u003e Ranch seasoning adds a zesty flavor that elevates the dish.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Cream of chicken soup and sour cream create a rich, creamy sauce.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A CrockPot is essential for this slow-cooked dish.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the ingredients preparation.",
+                                                  "url":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+                                                  "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eStart by placing the chicken breasts in the CrockPot. Sprinkle the ranch seasoning evenly over the chicken.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking Process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eMix the cream of chicken soup with chicken broth and pour it over the chicken. Cover and cook on low for 4 hours.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing Touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eStir in sour cream just before serving for a creamy finish.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the cooking process.",
+                                                  "url":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_2.webp",
+                                                  "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003eCook on low for the best flavor and tenderness.\u003c/li\u003e\u003cli\u003eAvoid lifting the lid during cooking to maintain heat.\u003c/li\u003e\u003cli\u003eChicken is ready when it reaches an internal temperature of 165°F.\u003c/li\u003e\u003cli\u003eStore leftovers in an airtight container for up to 3 days.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis dish is great for gatherings, and I love sharing it with friends and family. It always brings smiles and satisfied bellies!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eConsider adding vegetables like carrots or potatoes for a complete meal, or sprinkle fresh herbs like parsley before serving for added freshness.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eServe with rice or mashed potatoes to soak up the creamy sauce, and pair with a fresh salad for a balanced meal.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFor a lighter version, use chicken thighs or substitute Greek yogurt for sour cream. You can also add different seasonings to customize the flavor.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A short description for the alt image of the final plated dish or variation.",
+                                                  "url":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_3.webp",
+                                                  "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003eFor Restaurant-style results, sear the chicken before adding it to the CrockPot.\u003c/li\u003e\u003cli\u003eUse low-sodium broth to control salt levels.\u003c/li\u003e\u003cli\u003eTiming is key; avoid overcooking for the best texture.\u003c/li\u003e\u003cli\u003eGarnish with fresh herbs for an impressive appearance.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eEnjoy the satisfaction of creating this delicious dish that brings comfort and joy to your family. Happy cooking!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+                       "filePath":  "recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+                       "relativePath":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_2.webp",
+                       "filePath":  "recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_2.webp",
+                       "relativePath":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_3.webp",
+                       "filePath":  "recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_3.webp",
+                       "relativePath":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_4.webp",
+                       "filePath":  "recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_4.webp",
+                       "relativePath":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+    "image_path":  "recipes/creamy-ranch-chicken-crockpot-easy-family-dinner/images/creamy-ranch-chicken-crockpot-easy-family-dinner_image_1.webp",
+    "image_dir":  "creamy-ranch-chicken-crockpot-easy-family-dinner/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-16T18:28:59+01:00",
+    "updatedAt":  "2025-11-16T18:28:59+01:00"
+}

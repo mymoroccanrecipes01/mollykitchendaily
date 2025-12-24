@@ -1,0 +1,155 @@
+{
+    "id":  "recipe_1763052572_638",
+    "slug":  "healthy-stuffed-chicken-for-family",
+    "title":  "Healthy Stuffed Chicken for Family",
+    "promptIMG":  "Roasted Red Pepper, Spinach, and Mozzarella Stuffed Chicken, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "isOnline":  true,
+    "description":  "This roasted red pepper, spinach, and mozzarella stuffed chicken is a healthy delight! Packed with flavor and nutrition, it\u0027s great for weeknight dinners. and feed your family!",
+    "category_id":  "cat_1761229889_885",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "4 chicken breasts",
+                        "1 cup fresh spinach, chopped",
+                        "1/2 cup roasted red peppers, diced",
+                        "1 cup mozzarella cheese, shredded",
+                        "2 tablespoons olive oil",
+                        "Salt and pepper to taste"
+                    ],
+    "instructions":  [
+                         "Preheat the oven to 375°F (190°C).",
+                         "In a bowl, mix the spinach, roasted red peppers, and mozzarella cheese.",
+                         "Cut a pocket in each chicken breast and stuff with the spinach mixture.",
+                         "Season the chicken with salt and pepper, then drizzle with olive oil.",
+                         "Place the stuffed chicken in a baking dish and bake for 30-35 minutes until cooked through."
+                     ],
+    "prep_time":  15,
+    "cook_time":  45,
+    "total_time":  60,
+    "servings":  4,
+    "difficulty":  "medium",
+    "tips":  "Here\u0027s the thing: For perfectly juicy chicken, use a meat thermometer to ensure the internal temperature reaches 165°F (75°C).",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eThis Roasted Red Pepper, Spinach, and Mozzarella Stuffed Chicken is a delightful dish that combines vibrant flavors and healthy ingredients. It\u0027s not only visually appealing but also offers a satisfying taste that your family will love.\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eTakes about 1 hour\u003c/li\u003e\u003cli\u003eRestaurant-style flavors at home\u003c/li\u003e\u003cli\u003egreat for weeknight dinners\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have on hand\u003c/li\u003e\u003cli\u003eGluten-free and nutritious\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFirst time I made this dish for my family; the smiles on their faces as they took the first bite were priceless. It\u0027s become a staple in our home, and I love sharing it with friends too!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What You Need"
+                               },
+                               {
+                                   "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient:\u003c/strong\u003e Chicken breasts are lean and great for stuffing, providing a great source of protein.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/flavoring agents:\u003c/strong\u003e Salt and pepper enhance the natural flavors of the chicken and stuffing.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Spinach adds nutrition and color, while roasted red peppers bring a sweet, smoky flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A sharp knife for cutting pockets, a baking dish, and a mixing bowl.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Preparation of the ingredients for the stuffed chicken.",
+                                                  "url":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_1.webp",
+                                                  "fileName":  "healthy-stuffed-chicken-for-family_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eStart by preheating your oven and preparing the stuffing mixture. Cut pockets in the chicken breasts carefully.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking Process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eStuff the chicken, season, and bake until golden and cooked through.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing Touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eLet the chicken rest for a few minutes before slicing to serve, allowing the juices to redistribute.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Cooking process of the stuffed chicken in the oven.",
+                                                  "url":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_2.webp",
+                                                  "fileName":  "healthy-stuffed-chicken-for-family_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003eEnsure the chicken is fully cooked by checking the internal temperature.\u003c/li\u003e\u003cli\u003eAvoid overstuffing the chicken to prevent it from bursting during cooking.\u003c/li\u003e\u003cli\u003eLook for a golden-brown color on the outside as an indicator of doneness.\u003c/li\u003e\u003cli\u003eStore leftovers in an airtight container for up to 3 days.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis dish has become a favorite as it\u0027s a recipe I often make for family gatherings. Sharing it with loved ones always brings joy and warmth to our table.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eConsider adding herbs like basil or oregano for an extra layer of flavor. A sprinkle of red pepper flakes can also give it a nice kick!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eServe with a side of roasted vegetables or a fresh salad for a complete meal. A glass of white wine pairs beautifully with this dish.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eFor a vegan option, substitute chicken with portobello mushrooms and use vegan cheese. You can also experiment with different vegetables like zucchini or artichokes.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Final plated dish of the stuffed chicken.",
+                                                  "url":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_3.webp",
+                                                  "fileName":  "healthy-stuffed-chicken-for-family_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003eUse a meat mallet to pound the chicken breasts for even cooking.\u003c/li\u003e\u003cli\u003eLet the stuffing cool slightly before adding it to the chicken.\u003c/li\u003e\u003cli\u003eTiming is key; don\u0027t overbake to keep the chicken juicy.\u003c/li\u003e\u003cli\u003eGarnish with fresh herbs for an impressive presentation.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eCooking this stuffed chicken is not just about the meal; it\u0027s about creating memories. Enjoy the process and the delicious results!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "healthy-stuffed-chicken-for-family_image_1.webp",
+                       "filePath":  "recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_1.webp",
+                       "relativePath":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "healthy-stuffed-chicken-for-family_image_2.webp",
+                       "filePath":  "recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_2.webp",
+                       "relativePath":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "healthy-stuffed-chicken-for-family_image_3.webp",
+                       "filePath":  "recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_3.webp",
+                       "relativePath":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "healthy-stuffed-chicken-for-family_image_4.webp",
+                       "filePath":  "recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_4.webp",
+                       "relativePath":  "healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "healthy-stuffed-chicken-for-family_image_1.webp",
+    "image_path":  "recipes/healthy-stuffed-chicken-for-family/images/healthy-stuffed-chicken-for-family_image_1.webp",
+    "image_dir":  "healthy-stuffed-chicken-for-family/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-14T17:46:40+01:00",
+    "updatedAt":  "2025-11-14T17:46:40+01:00"
+}

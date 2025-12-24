@@ -1,17 +1,17 @@
 {
     "id": "text_recipe_1761588256_298",
     "slug": "irresistible-creamy-jalape-o-chicken-skillet",
-    "title": "Irresistible Creamy Jalapeño Chicken Skillet",
-    "promptIMG": "Creamy Jalapeño Chicken Skillet, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
+    "title": "Irresistible Creamy JalapeÃ±o Chicken Skillet",
+    "promptIMG": "Creamy JalapeÃ±o Chicken Skillet, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
     "isOnline": true,
-    "description": "This Creamy Jalapeño Chicken Skillet is a quick and delicious dinner that brings a burst of flavor to your table. With its creamy texture and spicy kick, it's perfect for busy weeknights when you want something satisfying and homemade.",
+    "description": "This Creamy JalapeÃ±o Chicken Skillet is a quick and delicious dinner that brings a burst of flavor to your table. With its creamy texture and spicy kick, it's perfect for busy weeknights when you want something satisfying and homemade.",
     "category_id": "cat_1761230383_494",
     "author_id": "author_001",
     "ingredients": [
         "1 pound chicken breast, diced",
         "2 tablespoons olive oil",
         "1 cup cream cheese",
-        "1\/2 cup jalapeños, diced",
+        "1\/2 cup jalapeÃ±os, diced",
         "1 cup chicken broth",
         "1 teaspoon garlic powder",
         "Salt and pepper to taste",
@@ -20,7 +20,7 @@
     "instructions": [
         "Heat olive oil in a large skillet over medium heat.",
         "Add diced chicken and season with salt, pepper, and garlic powder. Cook until browned.",
-        "Stir in jalapeños and cook for another 2 minutes.",
+        "Stir in jalapeÃ±os and cook for another 2 minutes.",
         "Add cream cheese and chicken broth, stirring until creamy and well combined.",
         "Simmer for 5-10 minutes until the sauce thickens.",
         "Garnish with fresh cilantro before serving."
@@ -30,10 +30,10 @@
     "total_time": 45,
     "servings": 4,
     "difficulty": "easy",
-    "tips": "For the best results, ensure your cream cheese is at room temperature for easy mixing. Adjust the amount of jalapeños based on your spice preference.",
+    "tips": "For the best results, ensure your cream cheese is at room temperature for easy mixing. Adjust the amount of jalapeÃ±os based on your spice preference.",
     "structured_content": [
         {
-            "content": "<p>This Creamy Jalapeño Chicken Skillet is a delightful blend of flavors that will tantalize your taste buds. The creamy sauce combined with the spicy jalapeños creates a comforting dish that is both satisfying and quick to prepare.<\/p>"
+            "content": "<p>This Creamy JalapeÃ±o Chicken Skillet is a delightful blend of flavors that will tantalize your taste buds. The creamy sauce combined with the spicy jalapeÃ±os creates a comforting dish that is both satisfying and quick to prepare.<\/p>"
         },
         {
             "note": {
@@ -48,11 +48,11 @@
             "headline": "Gather Your Ingredients"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breast works best for its tenderness and quick cooking time.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Jalapeños add a spicy kick, while garlic powder enhances the overall flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Cream cheese creates a rich, creamy sauce that binds everything together.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking and easy mixing.<\/li><\/ul>"
+            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken breast works best for its tenderness and quick cooking time.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> JalapeÃ±os add a spicy kick, while garlic powder enhances the overall flavor.<\/li><li><strong>Supporting ingredients:<\/strong> Cream cheese creates a rich, creamy sauce that binds everything together.<\/li><li><strong>Equipment needed:<\/strong> A large skillet is essential for even cooking and easy mixing.<\/li><\/ul>"
         },
         {
             "upload": {
-                "context": "A vibrant display of fresh ingredients for the Creamy Jalapeño Chicken Skillet, showcasing the main components and their freshness.",
+                "context": "A vibrant display of fresh ingredients for the Creamy JalapeÃ±o Chicken Skillet, showcasing the main components and their freshness.",
                 "url": "irresistible-creamy-jalape-o-chicken-skillet\/images\/irresistible-creamy-jalape-o-chicken-skillet_image_1.webp",
                 "fileName": "irresistible-creamy-jalape-o-chicken-skillet_image_1.webp",
                 "type": "main"
@@ -62,11 +62,11 @@
             "headline": "How to Make It"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Dice the chicken and prepare your jalapeños by removing seeds for less heat if desired.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the chicken until browned, then add jalapeños and cream cheese, stirring until creamy.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with fresh cilantro for a burst of color and flavor.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Dice the chicken and prepare your jalapeÃ±os by removing seeds for less heat if desired.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Cook the chicken until browned, then add jalapeÃ±os and cream cheese, stirring until creamy.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Garnish with fresh cilantro for a burst of color and flavor.<\/dd><\/dl>"
         },
         {
             "upload": {
-                "context": "Capturing the cooking process of the Creamy Jalapeño Chicken Skillet, highlighting the creamy texture and vibrant colors.",
+                "context": "Capturing the cooking process of the Creamy JalapeÃ±o Chicken Skillet, highlighting the creamy texture and vibrant colors.",
                 "url": "irresistible-creamy-jalape-o-chicken-skillet\/images\/irresistible-creamy-jalape-o-chicken-skillet_image_2.webp",
                 "fileName": "irresistible-creamy-jalape-o-chicken-skillet_image_2.webp",
                 "type": "process"
@@ -75,7 +75,7 @@
         {
             "note": {
                 "label": "You Must Know",
-                "content": "<ul><li>Cook the chicken until it reaches an internal temperature of 165°F for safety.<\/li><li>A common mistake is overcooking the chicken, which can make it tough.<\/li><li>When the sauce thickens and clings to the chicken, it's ready to serve.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
+                "content": "<ul><li>Cook the chicken until it reaches an internal temperature of 165Â°F for safety.<\/li><li>A common mistake is overcooking the chicken, which can make it tough.<\/li><li>When the sauce thickens and clings to the chicken, it's ready to serve.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
             }
         },
         {
@@ -101,7 +101,7 @@
         },
         {
             "upload": {
-                "context": "A beautifully plated Creamy Jalapeño Chicken Skillet, showcasing the vibrant colors and creamy texture, perfect for sharing.",
+                "context": "A beautifully plated Creamy JalapeÃ±o Chicken Skillet, showcasing the vibrant colors and creamy texture, perfect for sharing.",
                 "url": "irresistible-creamy-jalape-o-chicken-skillet\/images\/irresistible-creamy-jalape-o-chicken-skillet_image_3.webp",
                 "fileName": "irresistible-creamy-jalape-o-chicken-skillet_image_3.webp",
                 "type": "final"

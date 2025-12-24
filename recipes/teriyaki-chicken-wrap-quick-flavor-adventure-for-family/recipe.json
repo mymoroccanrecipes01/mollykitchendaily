@@ -20,30 +20,36 @@
     "total_time": 45,
     "servings": 4,
     "difficulty": "easy",
-    "tips": "Professional chef advice and cooking secrets for perfect results",
+    "tips": "Here's the thing: Professional chef advice and cooking secrets for perfect results",
     "structured_content": [
         {
-            "content": "<p>Teriyaki Chicken Wraps are a delightful fusion of flavors that bring a taste of Japan right to your kitchen. The combination of grilled chicken, sweet teriyaki sauce, and fresh vegetables wrapped in a soft tortilla creates a mouthwatering experience that is both satisfying and fun to eat.<\/p>"
+            "content": "<p>Teriyaki chicken wraps are one of those lunches that makes you feel like you got your life together. Sweet teriyaki sauce, grilled chicken, crunchy veggies all wrapped up. Takes like 30 minutes and tastes way better than whatever's at the food court. Plus you can eat it with your hands which is always a bonus.</p><p>I started making these when I got tired of boring sandwiches. Wanted something with more flavor that still worked for lunch. These hit the spot. My kids actually eat them without complaining. That alone makes them worth making.</p>"
         },
         {
             "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners and entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for meal prep and lunchboxes<\/li><\/ul>"
+                "label": "Why This Works",
+                "content": "<ul><li>Takes 30 minutes which is reasonable for a weeknight</li><li>Tastes like takeout but costs way less</li><li>Perfect for meal prep and packed lunches</li><li>Uses stuff you can get at any grocery store</li><li>Good for using up leftover chicken</li></ul>"
             }
         },
         {
-            "content": "<p>I remember the first time I made these wraps for my family; the smiles on their faces as they took their first bites were priceless. It's a dish that not only fills the stomach but also warms the heart.<\/p>"
+            "content": "<p>First time I made teriyaki chicken wraps was when I had leftover grilled chicken and no idea what to do with it. Threw it in a tortilla with some sauce and vegetables. Turned out really good. Been making them on purpose ever since instead of just with leftovers.</p>"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "content": "<p>These wraps are great for busy families. Like when everyone needs to eat at different times because of sports and activities. Make a batch and people can grab them whenever. Room temperature or cold both work. That's the beauty of wraps.</p>"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Chicken is the star here; use boneless, skinless thighs for juiciness.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Teriyaki sauce adds a sweet and savory depth; look for a quality brand or make your own.<\/li><li><strong>Supporting ingredients:<\/strong> Fresh vegetables like lettuce, carrots, and bell peppers add crunch and color.<\/li><li><strong>Equipment needed:<\/strong> A skillet for cooking and a cutting board for prep are essential.<\/li><\/ul>"
+            "headline": "What You Need"
+        },
+        {
+            "content": "<ul><li><strong>Chicken:</strong> Boneless skinless thighs are best because they stay juicy. Chicken breast works too but gets dry easier. Cook it however you want. Grill, pan fry, whatever.</li><li><strong>Teriyaki sauce:</strong> Store bought is fine. I use the Kikkoman bottle. Making your own is better if you have time but bottled tastes good enough for wraps.</li><li><strong>Vegetables:</strong> Lettuce, carrots, bell peppers, cucumbers. Whatever crunchy vegetables you like. Adds texture and makes it healthier or whatever.</li><li><strong>Tortillas:</strong> Flour tortillas work best. Big ones so you can fit everything. Whole wheat if you want to feel better about it.</li><li><strong>Skillet:</strong> For cooking the chicken. Any pan that fits on your stove works.</li></ul>"
+        },
+        {
+            "content": "<p>Don't stress about having exact vegetables. Use what you have in the fridge. Shredded cabbage works. Spinach instead of lettuce. Whatever needs to get used up. Wraps are flexible like that. That's why they're good for cleaning out the produce drawer.</p>"
         },
         {
             "upload": {
                 "context": "Preparation of the ingredients for the Teriyaki Chicken Wrap, showcasing fresh vegetables and chicken.",
-                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
+                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
                 "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
                 "type": "main"
             }
@@ -52,95 +58,128 @@
             "headline": "How to Make It"
         },
         {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Start by slicing the chicken into thin strips and marinating it in teriyaki sauce for at least 15 minutes.<\/dd><dt><strong>Cooking\/Baking Process:<\/strong><\/dt><dd>Heat a skillet over medium heat, add the marinated chicken, and cook until golden brown and cooked through, about 5-7 minutes.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Assemble the wraps by placing the cooked chicken and fresh vegetables in a tortilla, then roll tightly and slice in half.<\/dd><\/dl>"
+            "content": "<dl><dt><strong>Getting started:</strong></dt><dd>Cut chicken into thin strips. Marinate it in teriyaki sauce for like 15 minutes if you have time. Prep your vegetables while you wait. Slice everything thin so it wraps easier.</dd><dt><strong>Cooking the chicken:</strong></dt><dd>Heat your skillet over medium heat. Add the chicken strips and cook for 5 to 7 minutes. Flip them halfway through. They're done when they're not pink inside anymore and have a nice brown color outside.</dd><dt><strong>Putting it together:</strong></dt><dd>Lay out a tortilla. Put some lettuce down the middle. Add the cooked chicken. Pile on your vegetables. Drizzle more teriyaki sauce if you want. Roll it up tight. Fold in the sides first then roll. Cut it in half diagonally because that looks better.</dd></dl>"
+        },
+        {
+            "content": "<p>The rolling part takes practice. First few times your wrap might fall apart. That's normal. Just eat it with a fork if it does. Eventually you'll figure out how tight to roll it. Not too tight or the tortilla rips. Not too loose or everything falls out. Medium tight is the goal.</p>"
         },
         {
             "upload": {
                 "context": "Cooking the chicken in the skillet for the Teriyaki Chicken Wrap, highlighting the sizzling action.",
-                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
+                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
                 "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
                 "type": "main"
             }
         },
         {
             "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook the chicken until it reaches an internal temperature of 165°F for safety.<\/li><li>Avoid overcrowding the skillet to ensure even cooking.<\/li><li>Look for a nice golden color on the chicken to indicate it's ready.<\/li><li>Wraps can be stored in the fridge for up to 2 days; reheat gently.<\/li><\/ul>"
+                "label": "Don't Forget",
+                "content": "<ul><li>Cook chicken to 165 degrees. Use a thermometer if you're worried.</li><li>Don't crowd the pan or the chicken steams instead of browns.</li><li>Look for golden brown color on the chicken. That's when it's ready.</li><li>Wraps keep in the fridge for 2 days wrapped in foil or plastic.</li><li>Reheat them in the microwave for like 30 seconds if you want them warm.</li></ul>"
             }
         },
         {
-            "content": "<p>Sharing these wraps with my family has become a cherished tradition, often enjoyed during our movie nights. The joy of cooking together and savoring the flavors makes it a special occasion every time.<\/p>"
+            "content": "<p>These wraps became our go to for movie nights. Easy to eat on the couch without making a mess. Well, less mess than most foods anyway. Everyone gets to customize theirs with different toppings. Makes it more fun than everyone eating the same thing.</p>"
         },
         {
-            "headline": "Flavor Boosters"
+            "content": "<p>Leftovers are actually good. The flavors mix together overnight in the fridge. Just wrap them tight so they don't dry out. My kids take them in their lunch boxes. Come home with empty containers which means they actually ate them. That's a win.</p>"
         },
         {
-            "content": "<p>Add a sprinkle of sesame seeds or sliced green onions for an extra layer of flavor and texture. You can also experiment with different sauces like spicy mayo or sriracha for a kick!<\/p>"
+            "headline": "Making It Better"
         },
         {
-            "headline": "Serving Suggestions"
+            "content": "<p>Sesame seeds on top add crunch and look nice. Green onions too if you have them. Makes it look less boring. Spicy mayo is really good drizzled on before you roll it up. Just mix mayo with sriracha.</p>"
         },
         {
-            "content": "<p>Serve these wraps with a side of edamame or a refreshing cucumber salad for a complete meal. Pair with iced green tea for a delightful Japanese-inspired dining experience.<\/p>"
+            "content": "<p>Different sauces change the whole thing. Try sweet chili sauce instead of teriyaki. Or peanut sauce for a Thai vibe. Same concept different flavor. Keeps it interesting if you make these a lot.</p>"
         },
         {
-            "headline": "Creative Variations"
+            "content": "<p>Crispy stuff inside is good. Crispy onions from a can or those wonton strips. Adds texture. My husband always adds extra crunch to his. Says it makes it better. Can't argue with that.</p>"
         },
         {
-            "content": "<p>For a gluten-free option, use rice paper wraps instead of tortillas. You can also substitute chicken with tofu or tempeh for a vegetarian twist while keeping the teriyaki flavor.<\/p>"
+            "headline": "What to Eat With It"
+        },
+        {
+            "content": "<p>Edamame on the side is good. Just the frozen kind you microwave. Sprinkle some salt on it. Easy side dish that goes with the Japanese theme. Takes like 3 minutes to make.</p>"
+        },
+        {
+            "content": "<p>Cucumber salad is refreshing. Slice cucumbers thin, add rice vinegar and a little sugar. Let it sit while you make the wraps. Simple and tasty. Balances out the sweet teriyaki.</p>"
+        },
+        {
+            "content": "<p>Honestly these wraps are filling enough by themselves. Maybe some chips if you're really hungry. Or fruit. Whatever you normally eat with lunch. Don't need anything fancy to make it a meal.</p>"
+        },
+        {
+            "headline": "Different Ways to Do It"
+        },
+        {
+            "content": "<p>Rice paper wraps instead of tortillas if you want gluten free. Makes them more like spring rolls. Different texture but still good. Just soak the rice paper in water first to soften it.</p>"
+        },
+        {
+            "content": "<p>Tofu instead of chicken for vegetarians. Press the tofu to get water out first. Then cut it in strips and cook it the same way. Add extra teriyaki sauce because tofu needs more flavor than chicken.</p>"
+        },
+        {
+            "content": "<p>Shrimp works too if you don't want chicken. Cooks even faster. Like 2 minutes per side. Don't overcook it or shrimp gets rubbery. Same sauce and vegetables. Just swap the protein.</p>"
         },
         {
             "upload": {
                 "context": "Final plated Teriyaki Chicken Wrap, showcasing vibrant colors and appealing presentation.",
-                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
+                "url": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
                 "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
                 "type": "main"
             }
         },
         {
             "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Marinate the chicken overnight for deeper flavor.<\/li><li>Use a high heat to get a nice sear on the chicken.<\/li><li>Prepare all your ingredients before cooking to streamline the process.<\/li><li>Garnish with fresh herbs for an impressive appearance.<\/li><\/ul>"
+                "label": "Extra Stuff",
+                "content": "<ul><li>Marinate chicken overnight if you want more flavor.</li><li>High heat gets better color on the chicken but watch it close.</li><li>Prep all your stuff before cooking so you're not scrambling.</li><li>Fresh herbs like cilantro look nice on top.</li><li>Make extra chicken and freeze it for next time.</li></ul>"
             }
         },
         {
-            "content": "<p>Don't hesitate to try making these Teriyaki Chicken Wraps at home! The satisfaction of creating a delicious meal that your family loves is truly rewarding.<\/p>"
+            "content": "<p>For meal prep make a bunch on Sunday. Wrap them individually in foil. Grab one each day for lunch during the week. Way cheaper than buying lunch. Plus you know exactly what's in it. No mystery ingredients from restaurants.</p>"
+        },
+        {
+            "content": "<p>If your wrap keeps falling apart use two tortillas. Or wrap it in foil to hold it together while you eat. Not pretty but it works. Sometimes function beats form. Especially when you're hungry and don't care what it looks like.</p>"
+        },
+        {
+            "content": "<p>Teriyaki chicken wraps are solid lunch food. Quick to make, taste good, travel well. Everything you want in a wrap. Not complicated but satisfying. That's the sweet spot for weekday meals. Easy food that doesn't taste like you took the easy way.</p>"
+        },
+        {
+            "content": "<p>Try making these next time you need lunch ideas. Start with the basic version then add your own spin to it. That's how you figure out what you like. Cooking is just experimenting until you find what works for you and your family.</p>"
         }
     ],
     "images": [
         {
             "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
-            "filePath": "recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
-            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_1.webp",
+            "filePath": "recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
+            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
-            "filePath": "recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
-            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_2.webp",
+            "filePath": "recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
+            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
-            "filePath": "recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
-            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/tmpIMG\/image_3.webp",
+            "filePath": "recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
+            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
             "order": 3
         },
         {
             "fileName": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
-            "filePath": "recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
-            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
-            "originalUrl": "http:\/\/localhost\/SitePinterset\/mollykitchendaily-main\/recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
+            "filePath": "recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
+            "relativePath": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_4.webp",
             "order": 4,
             "type": "template"
         }
     ],
     "image": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
-    "image_path": "recipes\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images\/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
-    "image_dir": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family\/images",
+    "image_path": "recipes/teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images/teriyaki-chicken-wrap-quick-flavor-adventure-for-family_image_1.webp",
+    "image_dir": "teriyaki-chicken-wrap-quick-flavor-adventure-for-family/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2025-11-23T22:45:38+01:00",

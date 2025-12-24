@@ -1,0 +1,190 @@
+{
+    "id": "text_recipe_1762046687_537",
+    "slug": "10-dump-and-bake-casseroles-for-cozy-nights",
+    "title": "10 Dump-and-Bake Casseroles for Cozy Nights",
+    "promptIMG": "A descriptive prompt for generating an appetizing image of the finished dish, base in the prompt : \"casserole, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300\"",
+    "isOnline": true,
+    "description": "Cozy up with these 10 delicious dump-and-bake casseroles that are perfect for chilly nights. Each recipe is designed to be simple yet satisfying, making them ideal for busy weeknights or family gatherings.",
+    "category_id": "cat_1761230594_885",
+    "author_id": "author_001",
+    "ingredients": [
+        "1 pound shrimp peeled and deveined",
+        "2 tablespoons olive oil"
+    ],
+    "instructions": [
+        "Heat olive oil in large skillet over medium heat",
+        "Add shrimp and cook 2-3 minutes per side until pink"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tips": "For perfect results, ensure your shrimp are fresh and not overcooked to maintain their tender texture.",
+    "structured_content": [
+        {
+            "content": "<p>When it gets cold outside, all I want is something warm and filling. These dump-and-bake casseroles are perfect for those nights when you just want to curl up on the couch after dinner. Throw everything in a dish and forget about it for 30 minutes. That's my kind of cooking.</p><p>I started making these on really cold nights when nobody wanted to leave the house. We'd all be in pajamas by like 5pm. These casseroles made dinner feel special even when we were just being lazy. They taste way better than ordering takeout and you don't have to put on pants to get them.</p>"
+        },
+        {
+            "note": {
+                "label": "Why This Works",
+                "content": "<ul><li>Takes less time than waiting for delivery</li><li>Warms up the whole house while it bakes</li><li>Perfect for cold nights when you want comfort food</li><li>Everybody can eat together instead of eating in shifts</li><li>Tastes even better as leftovers for lunch</li></ul>"
+            }
+        },
+        {
+            "content": "<p>My mom used to make casseroles all winter long when I was growing up. She'd put one in the oven and we'd smell it cooking while we did homework. Made the whole house feel cozy. Now I do the same thing with my own family. Funny how you end up doing the exact things your parents did.</p>"
+        },
+        {
+            "content": "<p>These casseroles are great for nights when everyone's tired and cold. Like after being outside all day or when the weather's bad. You need something that fills you up and makes you feel warm inside. That's what these do. Simple food that just hits the spot.</p>"
+        },
+        {
+            "headline": "What You Need"
+        },
+        {
+            "content": "<ul><li><strong>Shrimp:</strong> I use the frozen ones that are already cleaned. Way easier than dealing with fresh ones. Just thaw them in a bowl of cold water for like 20 minutes.</li><li><strong>Olive oil:</strong> Regular stuff from the pantry. Nothing fancy needed here.</li><li><strong>Veggies:</strong> Bell peppers and onions are good. Whatever you've got in the fridge works though. Sometimes I throw in mushrooms or zucchini.</li><li><strong>Casserole dish:</strong> Any oven-safe pan that's big enough. I have a glass one I use all the time. Gets the job done.</li></ul>"
+        },
+        {
+            "content": "<p>Don't worry if you don't have all the exact ingredients. Casseroles are pretty flexible. Missing bell peppers? Use broccoli. Don't like onions? Leave them out. I've made this so many different ways and it always turns out fine. Just use what sounds good to you.</p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the ingredients preparation.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+                "type": "main"
+            }
+        },
+        {
+            "headline": "How to Make It"
+        },
+        {
+            "content": "<dl><dt><strong>Getting started:</strong></dt><dd>Make sure your shrimp are thawed and dry. Chop up whatever vegetables you're using. Get out your baking dish and turn the oven on so it heats up.</dd><dt><strong>Cooking it all:</strong></dt><dd>Heat some olive oil in a pan and cook the shrimp until they turn pink. Takes maybe 5 minutes total. Then mix everything together in your casserole dish and stick it in the oven until it's hot and bubbly.</dd><dt><strong>When it's done:</strong></dt><dd>Take it out and let it cool for a few minutes. Put some fresh herbs on top if you want it to look nice. Then just serve it up.</dd></dl>"
+        },
+        {
+            "content": "<p>The tricky part with shrimp is not cooking them too long. They get all rubbery if you overdo it. As soon as they curl up and look pink, take them off the heat. I usually pull them out a little early because they keep cooking in the oven anyway. Better to undercook them a bit than turn them into rubber bands.</p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the cooking process.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+                "type": "process"
+            }
+        },
+        {
+            "note": {
+                "label": "Don't Forget",
+                "content": "<ul><li>Pink shrimp are done. Keep cooking if they're still gray.</li><li>Too many shrimp in the pan at once makes them steam instead of cook right.</li><li>When the top gets all bubbly and a little brown, it's ready.</li><li>Put leftovers in a container with a lid. Good for 3 days in the fridge.</li><li>Reheat in the oven if you can. Microwave makes shrimp kinda chewy.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>Last winter we had a huge snowstorm and couldn't leave the house for two days. Made one of these casseroles both nights because I had the ingredients and didn't want to get creative. Everyone was happy to eat it twice. Sometimes simple and warm is all you need.</p>"
+        },
+        {
+            "content": "<p>Leftover casserole is great the next day. Sometimes I think it tastes better after sitting in the fridge overnight. All the flavors mix together more. My husband eats it for breakfast sometimes which I think is weird but whatever works I guess.</p>"
+        },
+        {
+            "headline": "Making It Taste Better"
+        },
+        {
+            "content": "<p>Cheese makes everything better. Sprinkle some on top before you bake it. Mozzarella or cheddar both work. It gets all melty and golden on top. Hard to go wrong with cheese.</p>"
+        },
+        {
+            "content": "<p>Hot sauce is good if you like spicy food. I keep a bottle on the table and everyone adds their own. My kids won't touch it but my husband dumps it on everything. Up to you how much heat you want.</p>"
+        },
+        {
+            "content": "<p>Fresh herbs at the end really do help. Makes it smell amazing and look less boring. I usually just use parsley because that's what I can keep alive in my kitchen. Basil is good too if you have it.</p>"
+        },
+        {
+            "headline": "What to Eat With It"
+        },
+        {
+            "content": "<p>A salad on the side is nice. Nothing complicated. Just some greens with dressing. Balances out all the heavy casserole stuff. Plus you can tell yourself you ate vegetables even though they're mostly in the salad.</p>"
+        },
+        {
+            "content": "<p>Bread for dipping is always good. I usually get whatever's on sale at the store. Warm it up in the oven while the casserole finishes. Soaks up all the sauce at the bottom of your bowl.</p>"
+        },
+        {
+            "content": "<p>On really cold nights, soup as a starter is nice. Just open a can of something and heat it up. Makes the whole meal feel more special without much extra work. My kids love having two courses like we're fancy.</p>"
+        },
+        {
+            "headline": "Different Ways to Do It"
+        },
+        {
+            "content": "<p>Chicken works instead of shrimp. Cut it into chunks and cook it longer since chicken takes more time. Or buy a rotisserie chicken and just tear the meat off. Super easy and adds good flavor since it's already seasoned.</p>"
+        },
+        {
+            "content": "<p>Use rice instead of pasta if you want something different. White rice, brown rice, whatever you have. I've even used those microwaveable rice packets in a pinch. Worked fine. Nobody complained.</p>"
+        },
+        {
+            "content": "<p>For vegetarian friends, leave out the shrimp and add more vegetables. Extra mushrooms make it feel more filling. Or throw in some chickpeas if you have a can. Gives it protein without meat.</p>"
+        },
+        {
+            "upload": {
+                "context": "based in Source Text, write a short description for the alt image of the final plated dish or variation.",
+                "url": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+                "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+                "type": "final"
+            }
+        },
+        {
+            "note": {
+                "label": "Extra Stuff",
+                "content": "<ul><li>Cooking the shrimp separately first gives them better texture.</li><li>Lemon juice and garlic on the shrimp before cooking adds flavor.</li><li>Watch the oven so the top doesn't burn. Every oven cooks different.</li><li>Make it in individual dishes if you want to be fancy for company.</li><li>Works fine in a regular baking dish too. Easier to clean up.</li></ul>"
+            }
+        },
+        {
+            "content": "<p>For meal prep, double the recipe and make two casseroles. Bake one for dinner tonight and freeze the other one unbaked. Then later when you need an easy dinner, just pop it in the oven frozen. Add like 10 extra minutes to the baking time. Boom, done.</p>"
+        },
+        {
+            "content": "<p>If you're in a huge hurry, skip cooking the shrimp first. Just throw everything in the casserole dish raw and bake it longer. It won't be quite as good but it still works. Sometimes good enough is better than perfect when you're tired.</p>"
+        },
+        {
+            "content": "<p>These cozy night casseroles are what get me through winter. They're warm, filling, and make the house smell good. Plus you can make them without thinking too hard. That's important when it's cold and dark outside and you just want comfort food.</p>"
+        },
+        {
+            "content": "<p>Try these out next time you need something warming. Pick whatever version sounds good and just go for it. Don't stress about making it perfect. The whole point is easy comfort food that tastes good. That's what cozy nights are all about.</p>"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process"
+        },
+        {
+            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final"
+        },
+        {
+            "fileName": "10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
+            "filePath": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
+            "relativePath": "10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/mollykitchendaily-main/recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_4.webp",
+            "order": 4,
+            "type": "template"
+        }
+    ],
+    "image": "10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+    "image_path": "recipes/10-dump-and-bake-casseroles-for-cozy-nights/images/10-dump-and-bake-casseroles-for-cozy-nights_image_1.webp",
+    "image_dir": "10-dump-and-bake-casseroles-for-cozy-nights/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-02T02:24:47+01:00",
+    "updatedAt": "2025-11-02T02:24:47+01:00"
+}

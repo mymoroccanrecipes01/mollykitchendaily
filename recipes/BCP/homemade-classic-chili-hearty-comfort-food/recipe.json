@@ -1,0 +1,162 @@
+{
+    "id":  "recipe_1764113745_398",
+    "slug":  "homemade-classic-chili-hearty-comfort-food",
+    "title":  "Homemade Classic Chili (Hearty Comfort Food)",
+    "promptIMG":  "Professional food photography prompt: \"classic chili, served in a rustic bowl, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline":  true,
+    "description":  "Warm up with this easy homemade classic chili! Packed with rich flavors and hearty ingredients, it\u0027s great for cozy nights. A must-try recipe for chili lovers!",
+    "category_id":  "cat_1761230594_885",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "1 pound ground beef, lean",
+                        "1 medium onion, diced",
+                        "2 cloves garlic, minced",
+                        "1 bell pepper, diced",
+                        "2 cans (15 oz each) kidney beans, drained and rinsed",
+                        "1 can (28 oz) crushed tomatoes",
+                        "2 tablespoons chili powder",
+                        "1 teaspoon cumin",
+                        "1 teaspoon paprika",
+                        "Salt and pepper to taste",
+                        "1 cup beef broth",
+                        "Optional toppings: shredded cheese, sour cream, chopped green onions"
+                    ],
+    "instructions":  [
+                         "In a large pot over medium heat, brown the ground beef, breaking it apart with a spoon until fully cooked, about 5-7 minutes.",
+                         "Add the diced onion, garlic, and bell pepper to the pot. Sauté for 5 minutes, or until the vegetables are softened.",
+                         "Stir in the chili powder, cumin, paprika, salt, and pepper. Cook for 1-2 minutes until fragrant.",
+                         "Add the crushed tomatoes, kidney beans, and beef broth. Bring the mixture to a boil, then reduce heat to low and simmer uncovered for 30 minutes, stirring occasionally.",
+                         "Taste and adjust seasoning if necessary. If you prefer a thicker chili, simmer for an additional 10-15 minutes.",
+                         "Serve hot, garnished with your choice of shredded cheese, sour cream, and green onions."
+                     ],
+    "prep_time":  15,
+    "cook_time":  45,
+    "total_time":  60,
+    "servings":  6,
+    "difficulty":  "Easy",
+    "tips":  "Here\u0027s the thing: For perfect chili, use lean ground beef to avoid excess grease. Choose high-quality canned tomatoes for better flavor. Avoid overcooking the beans; they should be tender but not mushy. Store leftovers in an airtight container in the fridge for up to 4 days or freeze for up to 3 months. Reheat gently on the stove or in the microwave, adding a splash of broth if needed. For a spicier kick, add diced jalapeños or a dash of cayenne pepper.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eHomemade classic chili is the comfort food, great for chilly evenings or game day gatherings. This hearty dish is bursting with rich flavors from tender ground beef, zesty spices, and a medley of beans. The aroma of simmering chili fills your kitchen, inviting everyone to the table. It\u0027s a dish that is comforting and brings people together, making it ideal for family dinners or potlucks. With just a few simple ingredients, you can create a satisfying meal that everyone will love.\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eQuick and ready in under an hour - great for busy weeknights.\u003c/li\u003e\u003cli\u003eRestaurant-style flavors achieved at home with simple techniques.\u003c/li\u003e\u003cli\u003egreat for family dinners, game days, or cozy gatherings.\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have in your pantry.\u003c/li\u003e\u003cli\u003eBudget-friendly and a crowd-pleaser that can be easily doubled.\u003c/li\u003e\u003cli\u003eRich in protein and fiber, making it a nutritious choice.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis classic chili recipe has become a favorite. First time I made it for my family; the smiles on their faces as they tasted it were priceless. It\u0027s a recipe that has been passed down through generations, and every time I make it, I feel connected to those memories. Whether it\u0027s a casual weeknight dinner or a festive gathering, this chili always is always a hit to the table. It\u0027s a dish that invites conversation and laughter, making it a favorite among family and friends.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What Goes In and What You Can Swap"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eWhen it comes to chili, the ingredients make all the difference:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eMain ingredient (protein/base):\u003c/strong\u003e Ground beef is the classic choice for chili, providing a rich, savory flavor. Look for lean cuts to reduce grease. You can also use ground turkey or plant-based meat for a lighter or vegetarian option.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKey seasonings/aromatics:\u003c/strong\u003e Chili powder and cumin are essential for that signature flavor. Opt for fresh spices for the best taste. Adding garlic and onion enhances the overall depth of flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSupporting ingredients:\u003c/strong\u003e Kidney beans add texture and protein, while crushed tomatoes provide a rich base. You can substitute with black beans or pinto beans for variety.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSmart substitutions:\u003c/strong\u003e For a gluten-free version, ensure your broth is gluten-free. To make it vegan, substitute the beef with lentils or mushrooms and use vegetable broth.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eEquipment needed:\u003c/strong\u003e A large pot or Dutch oven is essential for even cooking and flavor development.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Fresh ingredients for homemade classic chili, including ground beef, beans, tomatoes, and spices, neatly arranged on a kitchen counter.",
+                                                  "url":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_1.webp",
+                                                  "fileName":  "homemade-classic-chili-hearty-comfort-food_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eBefore diving into cooking, let\u0027s prepare:\u003c/p\u003e\u003cdl\u003e\u003cdt\u003e\u003cstrong\u003ePreparation phase:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eStart by dicing the onion, bell pepper, and mincing the garlic. Measure out your spices and have your canned ingredients ready. This mise en place will streamline your cooking process and ensure everything is at hand.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eCooking/Baking process:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eBegin by browning the beef in a large pot over medium heat. This should take about 5-7 minutes. Once browned, add the vegetables and spices, cooking until softened. Then, add the tomatoes and beans, bringing the mixture to a boil before reducing to a simmer.\u003c/dd\u003e\u003cdt\u003e\u003cstrong\u003eFinishing touches:\u003c/strong\u003e\u003c/dt\u003e\u003cdd\u003eAfter simmering for 30 minutes, taste and adjust seasoning. Serve hot, garnished with cheese or sour cream for an extra touch of flavor.\u003c/dd\u003e\u003c/dl\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Stirring the simmering classic chili in a large pot on the stovetop, showcasing the vibrant colors and textures of the ingredients.",
+                                                  "url":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_2.webp",
+                                                  "fileName":  "homemade-classic-chili-hearty-comfort-food_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eTemperature precision:\u003c/strong\u003e Cook the chili at a low simmer to allow flavors to meld without boiling over. A gentle simmer is key for developing depth.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eCommon mistake to avoid:\u003c/strong\u003e Avoid overcooking the beans; they should be tender but not mushy. Add them later in the cooking process if using dried beans.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePerfect doneness indicator:\u003c/strong\u003e The chili is ready when it’s thickened and bubbling gently, with a rich aroma filling the kitchen.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eStorage \u0026 reheating:\u003c/strong\u003e Store in an airtight container in the fridge for up to 4 days. Reheat on the stovetop over low heat, adding a splash of broth if needed.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eSharing this classic chili with loved ones is always a joy. I remember serving it at a family gathering, and the compliments were endless. The warmth of the chili matched the warmth of the conversations around the table. It\u0027s a dish that brings people together, fostering connections and creating memories. Watching everyone enjoy the flavors and ask for seconds fills my heart with happiness. Cooking is not just about the food; it\u0027s about the moments we share, and this chili is a perfect centerpiece for those cherished times.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eTake your chili to the next level with these enhancements:\u003c/p\u003e\u003cul\u003e\u003cli\u003eFresh herbs like cilantro or parsley can be added just before serving for a burst of freshness. Add them in the last few minutes of cooking for a vibrant touch.\u003c/li\u003e\u003cli\u003eSpices like cayenne pepper or smoked paprika can enhance the heat and depth. Start with a small amount and adjust to taste.\u003c/li\u003e\u003cli\u003eUpgrade your chili by adding crispy bacon or sautéed mushrooms for extra flavor and texture. These add-ins can transform the dish into something special.\u003c/li\u003e\u003cli\u003eConsider roasting your vegetables before adding them to the chili for a deeper flavor profile. This technique brings out their natural sweetness.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFeel free to experiment with these ideas to make the recipe your own!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eTo serve your chili perfectly, consider these suggestions:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eSide dishes:\u003c/strong\u003e Cornbread pairs wonderfully with chili, providing a sweet contrast. A fresh green salad adds a refreshing crunch. Tortilla chips are great for scooping!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBeverage pairings:\u003c/strong\u003e A cold beer complements the spices beautifully. For non-alcoholic options, try a refreshing iced tea or lemonade.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBread/starch options:\u003c/strong\u003e Serve with crusty bread or rice to soak up the delicious sauce.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eOccasion ideas:\u003c/strong\u003e This chili is great for casual dinners, game day parties, or potlucks. It’s a dish that everyone loves!\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation tips:\u003c/strong\u003e Serve in colorful bowls and garnish with cheese and green onions for an appealing look.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTemperature serving note:\u003c/strong\u003e Chili is best served hot and can be stored for leftovers, making it a convenient option for meal prep.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eExplore these variations to keep your chili exciting:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eDietary adaptation 1 (e.g., Gluten-Free):\u003c/strong\u003e Use gluten-free broth and ensure all canned ingredients are certified gluten-free for a safe option.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eDietary adaptation 2 (e.g., Vegan/Dairy-Free):\u003c/strong\u003e Substitute ground beef with lentils or mushrooms and use vegetable broth. Add nutritional yeast for a cheesy flavor without dairy.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eFlavor variation (e.g., Spicy):\u003c/strong\u003e Add diced jalapeños or a splash of hot sauce for a spicy kick that chili lovers will appreciate.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eProtein/ingredient swap:\u003c/strong\u003e Try using ground turkey or chicken for a leaner version, adjusting cooking times as necessary.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eThese variations allow you to tailor the chili to your preferences while keeping the essence of the dish intact.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "A beautifully plated bowl of classic chili, garnished with cheese and green onions, ready to serve at a family gathering.",
+                                                  "url":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_3.webp",
+                                                  "fileName":  "homemade-classic-chili-hearty-comfort-food_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eRestaurant technique:\u003c/strong\u003e Searing the meat before adding vegetables enhances the flavor through the Maillard reaction, creating a deeper taste.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eIngredient prep secret:\u003c/strong\u003e Chopping vegetables uniformly ensures even cooking and texture. Consider salting the meat before cooking to enhance its flavor.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTiming strategy:\u003c/strong\u003e Prepare your ingredients ahead of time to streamline the cooking process. This makes it easier to manage multiple components.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation hack:\u003c/strong\u003e Use a sprinkle of fresh herbs or a dollop of sour cream on top for a professional touch that elevates the dish.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis homemade classic chili is not just a recipe; it\u0027s a heartwarming dish that brings comfort and joy. With its rich flavors and satisfying texture, you’ll be proud to serve it to family and friends. Remember, even novice cooks can master this dish with a little practice. It\u0027s a wonderful addition to your recipe collection, great for any occasion. Don\u0027t forget to share your experience and photos with us! Enjoy making this classic chili that everyone will love!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "homemade-classic-chili-hearty-comfort-food_image_1.webp",
+                       "filePath":  "recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_1.webp",
+                       "relativePath":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "homemade-classic-chili-hearty-comfort-food_image_2.webp",
+                       "filePath":  "recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_2.webp",
+                       "relativePath":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "homemade-classic-chili-hearty-comfort-food_image_3.webp",
+                       "filePath":  "recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_3.webp",
+                       "relativePath":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "homemade-classic-chili-hearty-comfort-food_mollykitchendaily-main_image_4.webp",
+                       "filePath":  "recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_mollykitchendaily-main_image_4.webp",
+                       "relativePath":  "homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_mollykitchendaily-main_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_mollykitchendaily-main_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "homemade-classic-chili-hearty-comfort-food_image_1.webp",
+    "image_path":  "recipes/homemade-classic-chili-hearty-comfort-food/images/homemade-classic-chili-hearty-comfort-food_image_1.webp",
+    "image_dir":  "homemade-classic-chili-hearty-comfort-food/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-26T00:36:00+01:00",
+    "updatedAt":  "2025-11-26T00:36:00+01:00"
+}

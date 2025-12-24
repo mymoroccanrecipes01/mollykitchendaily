@@ -1,0 +1,156 @@
+{
+    "id":  "recipe_1764423307_958",
+    "slug":  "easy-homemade-deviled-eggs-recipe",
+    "title":  "Easy Homemade Deviled Eggs Recipe",
+    "promptIMG":  "Professional food photography prompt: \"deviled eggs, professionally plated on a white serving platter, natural food photography, balanced sharp focus throughout entire image, zero blur, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline":  true,
+    "description":  "Quick and easy deviled eggs ready in just 20 minutes! Creamy and flavorful, great for parties or snacks. feed your guests with this classic dish!",
+    "category_id":  "cat_1761230294_638",
+    "author_id":  "author_001",
+    "ingredients":  [
+                        "6 large eggs",
+                        "1/4 cup mayonnaise",
+                        "1 teaspoon Dijon mustard",
+                        "1 teaspoon white vinegar",
+                        "Salt and pepper to taste",
+                        "Paprika for garnish",
+                        "Chives or parsley for garnish"
+                    ],
+    "instructions":  [
+                         "Place eggs in a saucepan and cover with cold water. Bring to a boil over medium-high heat, then cover and remove from heat. Let sit for 10 minutes.",
+                         "Transfer eggs to an ice bath to cool for 5 minutes. Once cooled, peel the eggs and slice them in half lengthwise.",
+                         "Remove the yolks and place them in a mixing bowl. Add mayonnaise, Dijon mustard, white vinegar, salt, and pepper. Mash until smooth and creamy.",
+                         "Spoon or pipe the yolk mixture back into the egg whites. Sprinkle with paprika and garnish with chopped chives or parsley.",
+                         "Serve immediately or refrigerate until ready to serve."
+                     ],
+    "prep_time":  10,
+    "cook_time":  10,
+    "total_time":  20,
+    "servings":  6,
+    "difficulty":  "Easy",
+    "tips":  "Here\u0027s the thing: For perfect deviled eggs, ensure your eggs are a week old for easier peeling. When boiling, start with cold water to prevent cracking. Adjust the mayonnaise for creaminess to your liking. Store leftovers in an airtight container in the fridge for up to 2 days. For a flavor twist, try adding a dash of hot sauce or relish to the yolk mixture.",
+    "structured_content":  [
+                               {
+                                   "content":  "\u003cp\u003eDeviled eggs are a classic appetizer that never goes out of style. With their creamy filling and a hint of tanginess, they are great for any occasion, from casual gatherings to festive celebrations. This easy homemade deviled eggs recipe is not only quick to prepare but also allows for endless customization. Whether you prefer them traditional or with a twist, these deviled eggs will feed your guests and satisfy your cravings!\u003c/p\u003e"
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Why This Works",
+                                                "content":  "\u003cul\u003e\u003cli\u003eQuick and ready in 20 minutes or less - great for last-minute gatherings\u003c/li\u003e\u003cli\u003eRestaurant-style flavors achieved at home with simple techniques\u003c/li\u003e\u003cli\u003egreat for parties, picnics, or as a snack\u003c/li\u003e\u003cli\u003eUses simple ingredients you likely have in your pantry\u003c/li\u003e\u003cli\u003eKid-approved and a crowd-pleaser!\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eI first discovered deviled eggs at a family gathering, and they quickly became a favorite. The creamy yolk filling paired with a sprinkle of paprika always brings back fond memories of laughter and good food. Making these deviled eggs has become a tradition in my home, and I love sharing them with friends and family. They are not just delicious; they bring people together!\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "What Goes In and What You Can Swap"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eTo make the best deviled eggs, start with fresh, large eggs. Look for eggs with a clean shell and a recent sell-by date. For the creamy filling, mayonnaise is essential, but you can substitute Greek yogurt for a healthier option. Dijon mustard adds a nice tang, but yellow mustard works too. If you\u0027re looking for a gluten-free version, all ingredients are naturally gluten-free. Essential tools include a saucepan for boiling and a mixing bowl for the filling.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Fresh ingredients for deviled eggs, including eggs, mayonnaise, mustard, and spices, neatly arranged on a kitchen counter.",
+                                                  "url":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_1.webp",
+                                                  "fileName":  "easy-homemade-deviled-eggs-recipe_image_1.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "headline":  "How to Actually Make This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eBefore cooking, gather all your ingredients and tools. Start by placing the eggs in a saucepan and covering them with cold water. Bring the water to a boil, then cover the pot and remove it from heat. Let the eggs sit for 10 minutes to cook through. After that, transfer the eggs to an ice bath to cool for about 5 minutes. Once cooled, peel the eggs and slice them in half to prepare for the filling.\u003c/p\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Action shot of slicing boiled eggs in half to prepare for deviled egg filling.",
+                                                  "url":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_2.webp",
+                                                  "fileName":  "easy-homemade-deviled-eggs-recipe_image_2.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Don\u0027t Mess This Up",
+                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eTemperature precision:\u003c/strong\u003e Ensure the water is at a rolling boil before removing from heat to achieve perfect yolks.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eCommon mistake to avoid:\u003c/strong\u003e Avoid overcooking the eggs, which can lead to a greenish ring around the yolk.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePerfect doneness indicator:\u003c/strong\u003e The eggs should be firm but not rubbery; a slight jiggle is okay.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eStorage \u0026 reheating:\u003c/strong\u003e Store deviled eggs in an airtight container in the refrigerator for up to 2 days.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eSharing deviled eggs with loved ones is always a joy. Watching friends and family enjoy these creamy bites brings warmth to my heart. Their smiles and compliments make the effort worthwhile. Whether it\u0027s a holiday meal or a casual get-together, deviled eggs have a special place at the table, sparking conversations and creating lasting memories.\u003c/p\u003e"
+                               },
+                               {
+                                   "headline":  "Ways to Make It Better"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eTo improve your deviled eggs, consider these enhancements:\u003c/p\u003e\u003cul\u003e\u003cli\u003eAdd fresh herbs like dill or chives for a burst of flavor; fold them into the yolk mixture before filling.\u003c/li\u003e\u003cli\u003eIncorporate spices such as smoked paprika or cayenne pepper for a kick; start with 1/4 teaspoon and adjust to taste.\u003c/li\u003e\u003cli\u003eUpgrade with crispy bacon bits or crumbled feta cheese for added richness.\u003c/li\u003e\u003cli\u003eExperiment with cooking methods like grilling the eggs for a smoky flavor.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "headline":  "What to Serve With This"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eDeviled eggs pair wonderfully with various sides and drinks:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eSide dishes:\u003c/strong\u003e Serve with a fresh green salad or crunchy vegetable platter for contrast.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBeverage pairings:\u003c/strong\u003e Pair with a light white wine or sparkling water with lemon for a refreshing balance.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eBread options:\u003c/strong\u003e Offer with toasted baguette slices for a delightful crunch.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eOccasion ideas:\u003c/strong\u003e great for picnics, brunches, or holiday gatherings.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation tips:\u003c/strong\u003e Arrange on a colorful platter and garnish with fresh herbs for an eye-catching display.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTemperature serving note:\u003c/strong\u003e Serve chilled for the best flavor and texture.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "headline":  "Different Ways to Make It"
+                               },
+                               {
+                                   "content":  "\u003cp\u003eHere are some fun variations to try:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cstrong\u003eGluten-Free:\u003c/strong\u003e All ingredients are naturally gluten-free; just ensure your mayonnaise is certified gluten-free.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eVegan/Dairy-Free:\u003c/strong\u003e Substitute eggs with avocado for a creamy filling and use vegan mayo.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eSpicy Variation:\u003c/strong\u003e Add jalapeños or Sriracha for a spicy kick that heat lovers will enjoy.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eProtein Swap:\u003c/strong\u003e Use smoked salmon instead of traditional filling for a gourmet twist.\u003c/li\u003e\u003c/ul\u003e"
+                               },
+                               {
+                                   "upload":  {
+                                                  "context":  "Final beautifully plated deviled eggs garnished with paprika and herbs, ready to serve on a festive table.",
+                                                  "url":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_3.webp",
+                                                  "fileName":  "easy-homemade-deviled-eggs-recipe_image_3.webp",
+                                                  "type":  "main"
+                                              }
+                               },
+                               {
+                                   "note":  {
+                                                "label":  "Tricks I\u0027ve Learned",
+                                                "content":  "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eRestaurant technique:\u003c/strong\u003e Use a piping bag for a professional-looking filling; it creates a beautiful swirl.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eIngredient prep secret:\u003c/strong\u003e Bring eggs to room temperature before boiling for even cooking.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTiming strategy:\u003c/strong\u003e Prep the filling while the eggs cool to save time.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003ePresentation hack:\u003c/strong\u003e Use a sprinkle of microgreens on top for an elegant touch.\u003c/li\u003e\u003c/ul\u003e"
+                                            }
+                               },
+                               {
+                                   "content":  "\u003cp\u003eThis easy homemade deviled eggs recipe is sure to become a favorite in your household. With simple ingredients and quick preparation, you’ll feed your guests and enjoy the compliments. Don’t hesitate to make this dish your own by experimenting with flavors and garnishes. Share your experience in the comments or post a photo on social media with #DeviledEggsDelight. Enjoy making these delicious bites!\u003c/p\u003e"
+                               }
+                           ],
+    "images":  [
+                   {
+                       "fileName":  "easy-homemade-deviled-eggs-recipe_image_1.webp",
+                       "filePath":  "recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_1.webp",
+                       "relativePath":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_1.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_1.webp",
+                       "order":  1
+                   },
+                   {
+                       "fileName":  "easy-homemade-deviled-eggs-recipe_image_2.webp",
+                       "filePath":  "recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_2.webp",
+                       "relativePath":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_2.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_2.webp",
+                       "order":  2
+                   },
+                   {
+                       "fileName":  "easy-homemade-deviled-eggs-recipe_image_3.webp",
+                       "filePath":  "recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_3.webp",
+                       "relativePath":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_3.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/tmpIMG/image_3.webp",
+                       "order":  3
+                   },
+                   {
+                       "fileName":  "easy-homemade-deviled-eggs-recipe_mollykitchendaily-main_image_4.webp",
+                       "filePath":  "recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_mollykitchendaily-main_image_4.webp",
+                       "relativePath":  "easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_mollykitchendaily-main_image_4.webp",
+                       "originalUrl":  "http://localhost/SitePinterset/mollykitchendaily-main/recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_mollykitchendaily-main_image_4.webp",
+                       "order":  4,
+                       "type":  "template"
+                   }
+               ],
+    "image":  "easy-homemade-deviled-eggs-recipe_image_1.webp",
+    "image_path":  "recipes/easy-homemade-deviled-eggs-recipe/images/easy-homemade-deviled-eggs-recipe_image_1.webp",
+    "image_dir":  "easy-homemade-deviled-eggs-recipe/images",
+    "generated_from_text":  true,
+    "has_rich_structure":  true,
+    "createdAt":  "2025-11-29T14:36:57+01:00",
+    "updatedAt":  "2025-11-29T14:36:57+01:00"
+}
