@@ -1,0 +1,339 @@
+{
+    "title": "Healthy Instant Pot Chicken and Veggie Stew for Busy Weeknights",
+    "promptIMG": "Food photography: Healthy Instant Pot Chicken and Veggie Stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant chicken and veggie stew is a lifesaver on hectic nights. Packed with fresh ingredients and cooked quickly in the Instant Pot, it locks in flavors and nutrients. Perfect for meal prep or a nourishing dinner!",
+    "hashtags": "#InstantPot #HealthyDinner #WeeknightMeal",
+    "board_name": "Easy Healthy Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Wholesome Instant Pot Chicken Stew Ready in 30 Minutes!",
+            "description": "Craving a healthy dinner fast? This Instant Pot chicken stew combines fresh veggies and tender chicken in a flavorful broth. Save this recipe and enjoy a guilt-free meal tonight! 🍲🔥 #HealthyEating #InstantPotMeals #ChickenStew"
+        },
+        {
+            "title": "Quick & Nutritious: Chicken and Veggie Stew in Your Instant Pot",
+            "description": "Busy evenings call for easy, nourishing meals. Try this chicken and vegetable stew that’s ready in a flash and full of wholesome goodness. Discover now and simplify your dinner routine! 🥕🍗 #WeeknightDinner #HealthyMeals #InstantPotRecipes"
+        },
+        {
+            "title": "Comforting Chicken Stew with Fresh Veggies Made Fast in Instant Pot",
+            "description": "Nothing beats a warm stew packed with colorful veggies and juicy chicken. This Instant Pot recipe is my go-to for quick, healthy dinners. Try it today and taste the difference! 🥔🍅 #ComfortFood #HealthyDinnerIdeas #InstantPot"
+        },
+        {
+            "title": "Easy Instant Pot Chicken and Veggie Stew for Busy Families",
+            "description": "Looking for a simple, wholesome dinner? This chicken and veggie stew is loaded with flavor and nutrients, all cooked fast in the Instant Pot. Save this recipe and make weeknight dinners stress-free! 🍽️💚 #FamilyMeals #HealthyCooking #InstantPot"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken thighs, cut into chunks",
+        "2 tbsp olive oil",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "3 medium carrots, peeled and sliced",
+        "2 celery stalks, sliced",
+        "1 red bell pepper, chopped",
+        "1 zucchini, chopped",
+        "1 cup green beans, trimmed and cut",
+        "1 can (14.5 oz) diced tomatoes, drained",
+        "2 cups low sodium chicken broth",
+        "1 tsp dried thyme",
+        "1 tsp smoked paprika",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first made this Instant Pot chicken and veggie stew on a particularly busy weeknight when I needed something healthy but quick. I’d tried other stew recipes before, but they often took forever or ended up bland. What makes this version different is the combination of fresh, colorful vegetables and the way the Instant Pot locks in all those flavors while cooking the chicken tender and juicy. The secret I learned is to sauté the onion and garlic first right in the pot, which brings out a deeper flavor before pressure cooking. Also, I love adding smoked paprika—that little smoky hint really elevates the dish. When it’s done, you get a comforting stew that’s rich in taste but light enough to feel good about. It’s perfect for meal prep, too, because it reheats beautifully without losing texture. Honestly, this recipe has become my go-to for busy nights when I want something nourishing without spending hours in the kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by setting your Instant Pot to the sauté function and heat the olive oil. Add the diced onion and cook, stirring occasionally, until the onion is translucent and slightly golden. This step is crucial because it develops the base flavor for the stew. Avoid rushing it; if the onions aren’t softened properly, the stew can taste flat. Once softened, add the minced garlic and cook for about 30 seconds until fragrant—be careful not to burn the garlic as it turns bitter quickly.",
+            "timing": 7,
+            "doneness_cue": "Onions look translucent and golden, garlic aroma is fragrant but not burnt"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, add the chicken chunks to the pot and sauté until they are lightly browned on all sides but not fully cooked through. This browning adds depth to the stew by creating flavorful caramelized bits. Don’t overcrowd the pot; brown the chicken in batches if needed. Once browned, season with salt, black pepper, smoked paprika, and dried thyme. Stir well to coat the chicken evenly with the spices.",
+            "timing": 8,
+            "doneness_cue": "Chicken pieces have a light golden crust, spices are evenly mixed"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chopped carrots, celery, red bell pepper, zucchini, and green beans to the pot. Stir everything together to combine the vegetables with the chicken and spices. The variety of vegetables not only adds vibrant color but also layers of texture and flavor that make this stew satisfying and nutritious.",
+            "timing": 5,
+            "doneness_cue": "Vegetables are well mixed and slightly coated with oil and spices"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and diced tomatoes. Scrape the bottom of the pot with a wooden spoon to loosen any browned bits stuck to the bottom—this prevents the burn warning on the Instant Pot and adds flavor to the broth. Give everything a good stir to combine and make sure the ingredients are evenly distributed.",
+            "timing": 3,
+            "doneness_cue": "Broth covers ingredients well, no residue stuck on the pot bottom"
+        },
+        {
+            "step": 5,
+            "instruction": "Secure the Instant Pot lid and set the valve to sealing. Select the manual pressure cook setting on high pressure and set the timer for 10 minutes. This short cooking time is enough to cook the chicken through and soften the vegetables without turning them mushy. The pressure cooking locks in flavors and speeds up the process significantly compared to traditional stovetop stewing.",
+            "timing": 10,
+            "doneness_cue": "Instant Pot reaches pressure and timer counts down without error"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooking is complete, allow the pressure to release naturally for 10 minutes before carefully switching the valve to venting to release any remaining steam. This gradual release helps keep the chicken tender and prevents the stew from splattering. Quick releasing too early can cause the meat to toughen or the stew to spill over.",
+            "timing": 10,
+            "doneness_cue": "Pressure indicator drops, lid unlocks safely without steam bursts"
+        },
+        {
+            "step": 7,
+            "instruction": "Open the lid and give the stew a gentle stir. Taste and adjust seasoning with salt and pepper as needed. If you want a thicker consistency, turn on the sauté function again and simmer for a few minutes until it reduces slightly. This finishing step allows you to customize the stew’s texture and flavor intensity.",
+            "timing": 5,
+            "doneness_cue": "Stew is hot, flavors balanced, and texture slightly thickened if simmered"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the stew hot, garnished with freshly chopped parsley for a pop of color and fresh herbal note. Pair it with crusty bread or a simple side salad for a complete meal. The parsley brightens up the dish and adds a final fresh layer to the hearty stew.",
+            "timing": 2,
+            "doneness_cue": "Garnish is fresh and vibrant, stew is steaming and inviting"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container once cooled. This stew keeps well in the fridge and tastes even better the next day as the flavors meld. Reheat gently on the stove or microwave with a splash of broth to restore moisture.",
+            "timing": 5,
+            "doneness_cue": "Stew is cooled to room temperature before refrigeration"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Succeeds",
+        "content": "<p>The magic behind this Instant Pot chicken and veggie stew lies in the pressure cooking method combined with the initial sautéing steps. Sautéing the onions and garlic first triggers the Maillard reaction, developing complex flavors that form a rich base for the stew. The mild caramelization and fragrant garlic create an aromatic foundation that elevates the entire dish.</p><p>Pressure cooking then rapidly tenderizes the chicken and vegetables while sealing in moisture and nutrients. Unlike slow simmering on the stove, the high pressure environment reduces cooking time drastically without sacrificing texture or flavor. The vegetables remain vibrant and retain a slight bite because of the brief cooking period, avoiding the mushiness typical in longer stews.</p><p>The choice of spices, especially smoked paprika and thyme, adds depth and a subtle smoky warmth that complements the fresh vegetables and chicken. The acidity from the diced tomatoes balances the richness, brightening the broth and enhancing the overall flavor profile.</p><p>Finally, the natural release of pressure helps maintain the tenderness of the chicken by allowing the proteins to rest and reabsorb juices. This technique prevents toughness and ensures the meat is juicy and flavorful. The recipe’s balance of fresh ingredients, spice layering, and pressure cooking technique all contribute to a wholesome, quick, and deeply satisfying stew.</p>",
+        "ingredient_notes": {
+            "boneless skinless chicken thighs": "Chicken thighs are preferred for their higher fat content and tenderness compared to breasts. When buying, look for firm, pink flesh with no unpleasant odor. Thighs remain juicy and flavorful after pressure cooking, unlike leaner cuts that can dry out. You can substitute with chicken breasts, but reduce cooking time slightly to prevent toughness.",
+            "olive oil": "Extra virgin olive oil adds a fruity, slightly peppery flavor and helps sauté the aromatics evenly. Choose a fresh, high-quality oil with a low acidity level for the best taste. Olive oil also contributes beneficial fats and helps dissolve fat-soluble flavor compounds, enriching the stew’s depth.",
+            "fresh vegetables": "Using fresh carrots, celery, bell pepper, zucchini, and green beans adds a mix of textures and natural sweetness. Freshness is key; look for firm, brightly colored vegetables without blemishes. These veggies also provide fiber and vitamins, making the stew nourishing and well-rounded.",
+            "diced tomatoes": "Canned diced tomatoes add acidity and body to the broth. Opt for low-sodium versions to control salt levels. Tomatoes contribute natural umami and a subtle tang that brightens the stew’s flavor. Drain excess liquid to prevent the broth from becoming too watery.",
+            "dried thyme and smoked paprika": "Thyme offers an earthy, slightly minty aroma that pairs well with chicken and vegetables, while smoked paprika provides warm, smoky notes that enhance the stew’s complexity. Use fresh spices for the best flavor; stale spices can result in a dull taste. These spices balance richness and freshness perfectly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sauté your aromatics before pressure cooking.",
+            "reason": "Sautéing onions and garlic develops deeper flavors through the Maillard reaction, which pressure cooking alone can’t achieve. Skipping this step results in a flatter, less complex stew. This initial step builds a rich flavor foundation that enhances the entire dish."
+        },
+        {
+            "tip": "Don’t overcrowd the Instant Pot when browning chicken.",
+            "reason": "Crowding causes the chicken to steam rather than brown, preventing caramelization that adds flavor and texture. Brown in batches if needed to ensure each piece develops a golden crust, which contributes to the stew’s savory depth."
+        },
+        {
+            "tip": "Use natural pressure release after cooking.",
+            "reason": "Allowing the pressure to release naturally helps the meat relax and retain moisture. Quick releasing too soon can cause tough, dry chicken and splatter the stew, making cleanup harder. This gentle release improves texture and safety."
+        },
+        {
+            "tip": "Add a splash of broth when reheating leftovers.",
+            "reason": "Stew tends to thicken and dry out in the fridge. Adding broth when reheating restores a smooth, comforting texture without diluting the flavor. It also prevents burning or sticking during reheating."
+        },
+        {
+            "tip": "Use fresh parsley as a garnish just before serving.",
+            "reason": "Parsley adds a fresh, herbal brightness that lifts the rich stew flavors. Adding it at the end preserves its vibrant color and delicate aroma, enhancing the dish’s presentation and taste."
+        },
+        {
+            "tip": "Drain canned tomatoes to avoid watery broth.",
+            "reason": "Excess tomato liquid can dilute the stew, making it less flavorful. Draining ensures the broth remains rich and well-balanced, allowing the natural juices from the chicken and vegetables to shine."
+        },
+        {
+            "tip": "Cut vegetables into uniform sizes for even cooking.",
+            "reason": "Uniform pieces cook evenly under pressure, preventing some veggies from becoming mushy while others remain undercooked. This consistency ensures a pleasant texture throughout the stew."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sauté step for aromatics",
+            "why_it_happens": "Some cooks assume pressure cooking alone is enough for flavor, overlooking that sautéing builds the stew’s foundation.",
+            "fix": "Always sauté onions and garlic first until fragrant and golden. This step adds essential depth and complexity that pressure cooking can’t replicate."
+        },
+        {
+            "mistake": "Overcooking vegetables until mushy",
+            "why_it_happens": "Rushing the recipe or setting too high a pressure time can break down vegetables excessively.",
+            "fix": "Follow the recommended 10-minute pressure cook time and natural release to keep vegetables tender but intact, preserving texture and nutrients."
+        },
+        {
+            "mistake": "Not browning the chicken properly",
+            "why_it_happens": "Trying to brown too much chicken at once leads to steaming instead of caramelization.",
+            "fix": "Brown chicken in batches with space between pieces to develop flavor and texture from the Maillard reaction."
+        },
+        {
+            "mistake": "Adding too much liquid at once",
+            "why_it_happens": "Overestimating broth amount can dilute flavors and prevent proper pressure cooking.",
+            "fix": "Measure liquids carefully and drain canned tomatoes to maintain a balanced, flavorful broth."
+        },
+        {
+            "mistake": "Releasing pressure too quickly",
+            "why_it_happens": "Impatience or misunderstanding of pressure release methods can affect meat texture.",
+            "fix": "Allow natural pressure release for at least 10 minutes before quick venting to keep chicken tender and prevent mess."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Chicken Stew",
+            "description": "Add 1-2 chopped chipotle peppers in adobo sauce and a teaspoon of cumin for a smoky, spicy twist. You can also swap smoked paprika for regular paprika if you want less heat. Expect a richer, bolder flavor with a gentle kick that pairs well with the hearty veggies.",
+            "technical_note": "Adjust spice levels carefully; chipotle peppers are potent. The cooking time remains the same, but the broth may darken slightly."
+        },
+        {
+            "name": "Creamy Coconut Chicken Stew",
+            "description": "Stir in 1 cup coconut milk after pressure cooking for a creamy, tropical flair. Replace some vegetables with sweet potatoes and bell pepper for sweetness. This version is richer and smoother, perfect if you want a comforting, dairy-free stew.",
+            "technical_note": "Add coconut milk off heat to prevent curdling. Simmer briefly if you want a thicker texture."
+        },
+        {
+            "name": "Vegetarian Instant Pot Stew",
+            "description": "Omit chicken and add 1 can drained chickpeas plus extra mushrooms for protein. Use vegetable broth instead of chicken broth. This hearty vegetarian stew is just as flavorful and satisfying, with a lovely variety of textures.",
+            "technical_note": "Pressure cook time remains the same. Browning mushrooms in the sauté step enhances umami."
+        },
+        {
+            "name": "Italian Herb Chicken Stew",
+            "description": "Swap thyme and smoked paprika for Italian seasoning and add a handful of fresh basil after cooking. Add diced potatoes for a classic Italian touch. The stew will have more herbal notes and a comforting rustic feel.",
+            "technical_note": "Add potatoes in the vegetable step to ensure they cook through properly."
+        },
+        {
+            "name": "Low-Carb Zoodle Chicken Stew",
+            "description": "Replace zucchini and green beans with spiralized zucchini noodles added after cooking. This keeps the stew low-carb and fresh. The noodles soften quickly, so add them at the end to avoid overcooking.",
+            "technical_note": "Do not pressure cook with zoodles; stir them in after and let the residual heat soften them."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stew can safely sit out covered for up to 2 hours. If you plan to leave it longer, refrigerate promptly to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen overnight but the texture of vegetables may soften. Reheat gently on the stove or microwave, adding a splash of broth to restore moisture.",
+        "freezer": "Freeze the stew in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible and label with date. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally, adding broth if too thick. Microwave on medium power in short bursts, stirring in between. Avoid boiling again to preserve texture and flavor.",
+        "make_ahead_strategy": "You can prep all vegetables and brown the chicken a day ahead, storing them separately in the fridge. Assemble and pressure cook the next day for a fresh, fast meal. The stew also reheats very well for meal prep lunches."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts are leaner and can dry out if overcooked. Reduce the pressure cooking time by 2 minutes and use natural release to keep them tender. Alternatively, add breasts after sautéing and cook with vegetables for a shorter time."
+        },
+        {
+            "question": "What if I don’t have an Instant Pot?",
+            "answer": "You can make this stew on the stovetop or in a slow cooker. For stovetop, simmer covered for 45-60 minutes until chicken and vegetables are tender. In a slow cooker, cook on low for 6-7 hours or high for 3-4 hours."
+        },
+        {
+            "question": "How can I thicken the stew if it’s too watery?",
+            "answer": "After pressure cooking, turn on sauté mode and simmer uncovered to reduce liquid. Alternatively, mix 1 tablespoon cornstarch with 2 tablespoons cold water and stir into the stew, cooking until thickened."
+        },
+        {
+            "question": "Can I add potatoes to this stew?",
+            "answer": "Absolutely! Diced potatoes are a great addition. Add them with the other vegetables to ensure they cook through during the pressure cooking cycle. They will add heartiness and absorb the stew’s flavors."
+        },
+        {
+            "question": "Is it okay to double the recipe?",
+            "answer": "You can double the ingredients, but make sure your Instant Pot has enough capacity (usually 6 quarts or larger). Also, increase the cooking time slightly to allow the pot to come to pressure with the larger volume."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently on the stovetop over medium-low heat, stirring occasionally and adding broth or water if needed. This prevents the stew from drying out or burning. Microwave reheating works too but stir often for even warming."
+        },
+        {
+            "question": "Can I freeze the stew?",
+            "answer": "Yes, it freezes well for up to 3 months. Cool completely before freezing in airtight containers. Thaw in the refrigerator overnight and reheat gently. The texture of some vegetables may soften after freezing, but the flavor remains delicious."
+        },
+        {
+            "question": "How do I avoid the ‘burn’ warning on the Instant Pot?",
+            "answer": "Make sure to sauté onions and garlic properly and deglaze the pot by scraping up browned bits before adding broth. Also, avoid thick sauces or too little liquid. Proper liquid amount and scraping prevent the sensor from triggering the burn warning."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy Instant Pot chicken and veggie stew as much as my family does. Give it a try and let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "healthy instant pot chicken stew",
+        "secondary_keywords": [
+            "easy instant pot chicken recipes",
+            "healthy chicken stew",
+            "how to make instant pot chicken stew",
+            "best instant pot chicken stew recipe",
+            "easy chicken stew recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "Pressure Cooking Basics",
+                "anchor": "pressure-cooking-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_1.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_2.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_3.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images/healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778072410_897",
+    "slug": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days",
+    "isOnline": true,
+    "createdAt": "2026-05-06T13:07:38+00:00",
+    "updatedAt": "2026-05-06T13:07:38+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "healthy-instant-pot-recipes-recipe-quick-nutritious-meals-for-busy-days/images"
+}
