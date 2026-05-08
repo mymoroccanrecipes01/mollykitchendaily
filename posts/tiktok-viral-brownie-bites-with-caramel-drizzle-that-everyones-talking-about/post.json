@@ -1,0 +1,333 @@
+{
+    "title": "Fudgy Brownie Bites with Irresistible Caramel Drizzle",
+    "promptIMG": "Food photography: Fudgy Brownie Bites with Caramel Drizzle, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownie bites are rich and fudgy with a luscious caramel drizzle that makes them impossible to resist. Perfect for weekend treats or when you want to impress surprise guests with minimal effort!",
+    "hashtags": "#browniebites #chocolatelovers #easybaking",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "The Best Fudgy Brownie Bites You’ll Crave All Week",
+            "description": "Looking for a quick chocolate fix? These brownie bites are super fudgy and topped with a dreamy caramel drizzle. Save this recipe and whip them up for your next snack attack! 🍫🍬 #browniebites #easyrecipes #dessertlover"
+        },
+        {
+            "title": "How To Make Perfectly Fudgy Brownie Bites with Caramel Topping",
+            "description": "Discover the secret to ultra-rich brownie bites topped with gooey caramel. These little treats disappear fast, so try making them today and wow your friends! 🍫✨ #fudgybrownies #carameldrizzle #bakingfun"
+        },
+        {
+            "title": "Quick & Decadent Brownie Bites with a Caramel Twist",
+            "description": "Craving something sweet? These brownie bites are fudgy and drizzled with caramel for that extra wow factor. Perfect for sharing or keeping all to yourself. Try this recipe now! 🍬❤️ #chocolatetreats #easybaking #browniebites"
+        },
+        {
+            "title": "Irresistible Fudgy Brownie Bites That Melt in Your Mouth",
+            "description": "If you love rich chocolate and gooey caramel, you’ll adore these brownie bites. They’re quick to make and perfect for any occasion. Save this and bake them today! 🍫😍 #browniebites #caramelbrownies #dessertrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 24,
+    "ingredients": [
+        "1/2 cup unsalted butter, melted",
+        "3/4 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/3 cup unsweetened cocoa powder",
+        "1/2 cup all-purpose flour",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon baking powder",
+        "1/2 cup caramel sauce, for drizzling"
+    ],
+    "yield": "Approximately 24 brownie bites",
+    "introduction": "I first made these fudgy brownie bites on a rainy weekend when I was craving something chocolatey but didn’t want to bake a whole pan of brownies. What I love about this recipe is how rich and fudgy they turn out despite being bite-sized — perfect for sharing or sneaking a few yourself! The caramel drizzle is the real game changer here; it adds a silky sweetness that complements the deep chocolate flavor beautifully. I learned that melting the butter first and mixing the batter gently keeps the texture dense and moist, not cakey. Plus, baking them in a mini muffin tin ensures they cook evenly and come out perfectly uniform every time. When they’re fresh out of the oven, warm and gooey with that caramel drizzle melting on top, it feels like pure magic. These bites have become my go-to for weekend treats or last-minute guests because they’re quick to whip up and always disappear fast. You’ll love how decadent yet simple they are!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and lightly grease a mini muffin tin or line it with paper liners. This ensures the brownie bites won’t stick and makes cleanup easier. It’s important to have the oven fully preheated so the brownies bake evenly and develop that perfect fudgy crust.",
+            "timing": 10,
+            "doneness_cue": "Oven temperature steady at 350°F, muffin tin ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the melted butter and granulated sugar until smooth and glossy. This step dissolves the sugar slightly and helps create a shiny, fudgy texture. Avoid overmixing here to keep the batter dense.",
+            "timing": 3,
+            "doneness_cue": "Butter and sugar combined into a smooth, shiny mixture"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs one at a time, whisking well after each addition, then stir in the vanilla extract. This gradual mixing helps emulsify the batter, ensuring a smooth texture without curdling. The vanilla adds depth to the chocolate flavor.",
+            "timing": 3,
+            "doneness_cue": "Batter looks smooth and slightly thickened"
+        },
+        {
+            "step": 4,
+            "instruction": "Sift together the cocoa powder, flour, salt, and baking powder into the wet ingredients. Gently fold the dry ingredients in with a spatula until just combined. Overmixing can cause the brownies to become cakey, so fold carefully to keep the fudgy texture intact.",
+            "timing": 4,
+            "doneness_cue": "Batter uniform with no flour streaks but still thick"
+        },
+        {
+            "step": 5,
+            "instruction": "Spoon the batter evenly into the prepared mini muffin tin, filling each cup about 3/4 full. This allows room for the brownies to rise slightly without overflowing. Level the tops gently with the back of the spoon for even baking.",
+            "timing": 5,
+            "doneness_cue": "All cups filled evenly with smooth batter surface"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 18-20 minutes. Check at 18 minutes by inserting a toothpick; it should come out with a few moist crumbs but not wet batter. This ensures fudgy bites rather than dry or undercooked ones.",
+            "timing": 20,
+            "doneness_cue": "Edges look set and shiny, toothpick with moist crumbs"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the brownie bites from the oven and let them cool in the pan for 10 minutes. Cooling slightly helps them firm up for easy removal without breaking. If you try to unmold them too hot, they might crumble.",
+            "timing": 10,
+            "doneness_cue": "Bites feel firmer to the touch but still warm"
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer the brownie bites to a wire rack to cool completely. This prevents condensation from making the bottoms soggy and keeps the texture perfect. Don’t skip this step if you want that ideal fudgy bite.",
+            "timing": 15,
+            "doneness_cue": "Brownies cool to room temperature without moisture buildup"
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, drizzle the brownie bites generously with caramel sauce. Use a spoon or a small piping bag to create pretty lines. The warm caramel contrasts beautifully with the rich chocolate, adding a luscious finishing touch.",
+            "timing": 5,
+            "doneness_cue": "Bites decorated with glossy, sticky caramel drizzle"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Brownie Bite Recipe Delivers Perfect Fudge Every Time",
+        "content": "<p>What makes these brownie bites so irresistibly fudgy starts with the balance of ingredients and the mixing method. Using melted butter instead of softened butter creates a denser batter because the fat coats the flour proteins more evenly, limiting gluten formation, which keeps brownies tender and rich. The sugar dissolves slightly in the warm butter, contributing to a shiny crust that contrasts nicely with the moist interior.</p><p>Adding eggs one at a time is crucial as it helps form a stable emulsion, trapping air gently and ensuring a smooth, cohesive batter. This prevents curdling that can lead to a grainy texture. Folding in the dry ingredients carefully rather than stirring vigorously avoids developing too much gluten, which would make the brownies cakey instead of dense and fudgy.</p><p>Baking in a mini muffin tin shortens the cooking time and allows the brownies to bake evenly with a perfect edge-to-center ratio. The small size creates a slightly crisp edge around each bite while keeping the center moist and gooey. Watching the baking time and testing with a toothpick ensures you don’t overbake, which would dry them out.</p><p>The caramel drizzle adds both flavor and texture contrast. Its sticky sweetness complements the bittersweet chocolate, enhancing the overall richness. Drizzling when the brownies are cool prevents the caramel from melting too much and running off, keeping the presentation neat and the flavor balanced.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for this recipe because it melts smoothly and provides a rich, creamy base without extra salt that could throw off the balance. Melting it first helps dissolve sugar and creates a shiny crust. Avoid using margarine or low-fat butter substitutes, as they won’t provide the same texture or flavor depth.",
+            "granulated sugar": "Granulated sugar not only sweetens but also contributes to the chewy crust on top of the brownies. The sugar dissolves partially in the melted butter, aiding in the glossy finish. Using superfine sugar can speed up dissolution but isn’t necessary. Avoid brown sugar here to keep the texture dense rather than cakey.",
+            "cocoa powder": "Use unsweetened cocoa powder with a rich chocolate flavor for the best results. Dutch-processed cocoa offers a smoother, less acidic taste, but natural cocoa works fine too—just expect slightly tangier notes. Sifting cocoa powder prevents clumps and ensures even mixing, which is key for a consistent chocolate flavor throughout.",
+            "all-purpose flour": "All-purpose flour provides the right amount of structure without making the brownies too tough. Measuring flour correctly by spooning into the cup and leveling with a knife is important to avoid adding too much, which would dry out the brownies. You can substitute with cake flour for a softer crumb but expect a slight texture difference.",
+            "caramel sauce": "For the drizzle, use a high-quality store-bought caramel sauce or homemade for the best flavor. The caramel adds a luscious sweetness and sticky texture contrast to the fudgy brownies. Avoid caramel candies melted down as they can seize or become grainy. Warm the sauce slightly if needed for easy drizzling."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which leads to a cakey texture rather than the fudgy, dense bite you want. Folding gently just until combined keeps the brownies tender and moist."
+        },
+        {
+            "tip": "Use a mini muffin tin for even baking and perfect bite size.",
+            "reason": "Small portions cook faster and more evenly, ensuring each brownie bite has a perfect edge and gooey center. Larger pans can cause uneven baking, resulting in dry edges or undercooked middles."
+        },
+        {
+            "tip": "Let brownies cool completely before drizzling caramel.",
+            "reason": "If you drizzle caramel while brownies are hot, it will melt and run off, making a mess and losing the pretty presentation. Cooling helps caramel set on top, adding a nice sticky texture contrast."
+        },
+        {
+            "tip": "Measure flour with a spoon and level off with a knife.",
+            "reason": "Scooping flour directly with the measuring cup packs it down, causing you to add more than needed, which dries out the brownies. Lightly spooning and leveling keeps measurements accurate for the perfect texture."
+        },
+        {
+            "tip": "Use unsalted butter to control salt levels precisely.",
+            "reason": "Salted butter varies in salt content and can throw off the flavor balance. Unsalted butter gives you control to add exactly how much salt you want, ensuring the brownies aren’t too salty or bland."
+        },
+        {
+            "tip": "Test doneness with a toothpick for fudgy brownies.",
+            "reason": "Insert a toothpick near the center; it should come out with moist crumbs but no wet batter. This means the brownies are set but still fudgy. Overbaking dries them out and underbaking leaves raw batter."
+        },
+        {
+            "tip": "Warm caramel sauce slightly before drizzling if thick.",
+            "reason": "Warm caramel flows more easily and creates pretty drizzles without clumping. Be careful not to overheat or it will become too runny and lose that sticky texture that complements the brownies."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Many people assume brownies need to be completely dry inside to be done, but overbaking dries them out and ruins that fudgy texture.",
+            "fix": "Check brownies at the earliest time suggested by inserting a toothpick. Look for moist crumbs, not wet batter. Remove immediately when done and allow to cool in the pan for best texture."
+        },
+        {
+            "mistake": "Mixing the batter too vigorously after adding flour",
+            "why_it_happens": "Some cooks think beating the batter more will make it fluffier, but it actually develops gluten, leading to cakey brownies.",
+            "fix": "Fold dry ingredients gently with a spatula just until no streaks remain. Stop mixing once combined to keep the texture dense and fudgy."
+        },
+        {
+            "mistake": "Using salted butter without adjusting salt",
+            "why_it_happens": "Not realizing salted butter varies in salt content can make the brownies too salty or unbalanced.",
+            "fix": "Always use unsalted butter and add salt separately as the recipe directs. This controls flavor precisely."
+        },
+        {
+            "mistake": "Not letting brownies cool before removing from pan",
+            "why_it_happens": "Brownies are fragile when hot and can break apart if unmolded too soon.",
+            "fix": "Let them cool in the pan for at least 10 minutes to firm up, then transfer carefully to a wire rack to cool completely."
+        },
+        {
+            "mistake": "Drizzling caramel while brownies are hot",
+            "why_it_happens": "Hot brownies cause caramel to melt and run off, losing the decorative effect and sticky texture.",
+            "fix": "Wait until brownies are completely cool before drizzling caramel so it sets nicely on top."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Brownie Bites",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter for a crunchy contrast to the fudgy texture. The nuts add flavor depth and a pleasant crunch that pairs wonderfully with the caramel drizzle.",
+            "technical_note": "Fold nuts in gently with the dry ingredients to distribute evenly without overmixing the batter."
+        },
+        {
+            "name": "Salted Caramel Brownie Bites",
+            "description": "Sprinkle a tiny pinch of flaky sea salt over the caramel drizzle right after applying it. The salt balances the sweetness and intensifies the chocolate flavor, making each bite more complex and addictive.",
+            "technical_note": "Use delicate finishing salt and add it while caramel is still tacky so it sticks well."
+        },
+        {
+            "name": "Espresso Brownie Bites",
+            "description": "Stir 1 teaspoon instant espresso powder into the wet ingredients. The coffee enhances the chocolate’s richness without tasting like coffee, for a deeper and more intense flavor.",
+            "technical_note": "Dissolve the espresso powder in a tablespoon of hot water before mixing into the batter for even distribution."
+        },
+        {
+            "name": "Vegan Brownie Bites",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use coconut oil instead of butter. Use dairy-free caramel or make your own with coconut milk for a vegan-friendly treat.",
+            "technical_note": "Flax eggs need a few minutes to thicken before adding to the batter to mimic the binding properties of eggs."
+        },
+        {
+            "name": "Peanut Butter Swirl Brownie Bites",
+            "description": "Drop dollops of peanut butter on top of the batter before baking and swirl gently with a toothpick. This adds a creamy, nutty flavor that pairs perfectly with the chocolate and caramel.",
+            "technical_note": "Swirl carefully to avoid overmixing and keep distinct peanut butter ribbons throughout."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "7g",
+        "fiber_grams": "2g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownie bites can be kept at room temperature in an airtight container for up to 2 days. Make sure they’re fully cooled before storing to avoid condensation which can make them soggy.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. They may firm up and taste slightly less fudgy when cold, so bring to room temperature or warm briefly before serving.",
+        "freezer": "Freeze brownie bites in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Thaw overnight in the fridge or at room temperature before serving.",
+        "reheating": "Warm brownie bites gently in the microwave for 10-15 seconds or in a low oven (300°F) for 5 minutes to restore softness. Add a splash of milk or cream if needed to refresh moisture.",
+        "make_ahead_strategy": "You can bake the brownie bites up to 2 days ahead and store them cooled in the fridge. Drizzle with caramel just before serving to keep the topping fresh and glossy."
+    },
+    "faq": [
+        {
+            "question": "Can I make these brownie bites gluten-free?",
+            "answer": "Yes! Substitute the all-purpose flour with a gluten-free baking blend that measures cup-for-cup. Make sure your baking powder is gluten-free as well. The texture will remain fudgy, though it might be slightly more delicate."
+        },
+        {
+            "question": "What’s the best way to melt caramel for drizzling?",
+            "answer": "Warm your caramel sauce gently in the microwave in 15-second bursts or in a small saucepan over low heat. Stir frequently to ensure it heats evenly without burning or becoming too runny."
+        },
+        {
+            "question": "Why are my brownie bites cakey instead of fudgy?",
+            "answer": "This usually happens if you overmix after adding the flour or bake too long. Be sure to fold gently just until combined and watch your baking time closely to keep them moist and dense."
+        },
+        {
+            "question": "Can I use dark brown sugar instead of granulated sugar?",
+            "answer": "Using brown sugar will add moisture and a slight caramel flavor but may make the brownies more cakey. For the fudgiest texture, stick with granulated sugar as the recipe suggests."
+        },
+        {
+            "question": "How do I prevent the brownies from sticking to the pan?",
+            "answer": "Grease your mini muffin tin well or use paper liners. Let the brownies cool in the pan before removing, as they’re fragile when hot and can break apart if unmolded too soon."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Absolutely! Just double all ingredients and bake in two mini muffin tins or one larger pan. Keep an eye on the baking time as it may vary slightly depending on pan size."
+        },
+        {
+            "question": "Is it okay to use store-bought caramel sauce?",
+            "answer": "Yes, good quality store-bought caramel sauce works great and saves time. Just warm it slightly before drizzling for the best texture and look."
+        },
+        {
+            "question": "How do I store leftover brownie bites?",
+            "answer": "Store them in an airtight container at room temperature for 2 days or in the fridge up to 5 days. For longer storage, freeze as described in the storage section."
+        }
+    ],
+    "conclusion": "Give these fudgy brownie bites a try—you’ll love how easy they are and how quickly they disappear! Don’t forget to share your caramel-drizzled creations with me!",
+    "seo": {
+        "primary_keyword": "fudgy brownie bites recipe",
+        "secondary_keywords": [
+            "easy brownie bites",
+            "caramel drizzle brownies",
+            "how to make brownie bites",
+            "best brownie bites recipe",
+            "quick chocolate dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade caramel sauce recipe",
+                "anchor": "homemade-caramel-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_1.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_1.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_2.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_2.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_3.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_3.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "relativePath": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images/tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778265466_946",
+    "slug": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about",
+    "isOnline": true,
+    "createdAt": "2026-05-08T18:40:11+00:00",
+    "updatedAt": "2026-05-08T18:40:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "tiktok-viral-brownie-bites-with-caramel-drizzle-that-everyones-talking-about/images"
+}
