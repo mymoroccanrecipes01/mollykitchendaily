@@ -1,0 +1,335 @@
+{
+    "title": "One-Pot Creamy Spinach and Mushroom Pasta That’s Easy and Delicious",
+    "promptIMG": "Food photography: Creamy Spinach and Mushroom Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy spinach and mushroom pasta is a quick, one-pot meal that’s both hearty and light. Using plant-based milk gives it a velvety texture without the heaviness. Perfect for busy weeknights when you need comfort food fast!",
+    "hashtags": "#spinachpasta #onepotmeal #quickdinner",
+    "board_name": "Easy Vegetarian Pasta",
+    "pin_variations": [
+        {
+            "title": "Try This Cozy One-Pot Spinach Mushroom Pasta Tonight!",
+            "description": "Looking for a fuss-free dinner? This creamy spinach and mushroom pasta is ready in 30 minutes and uses just one pot! Save this recipe and enjoy a comforting meal any night. 🍝🌿 #easyrecipes #vegetarian #onepotmeal"
+        },
+        {
+            "title": "Creamy Spinach & Mushroom Pasta That’s Healthy and Fast",
+            "description": "Whip up this creamy spinach and mushroom pasta with a splash of plant-based milk for richness without guilt. Perfect for busy weeknights when you want something tasty and light. Give it a try today! 🥄✨ #quickdinner #comfortfood #vegetarianrecipes"
+        },
+        {
+            "title": "One-Pot Wonder: Creamy Spinach Mushroom Pasta Recipe",
+            "description": "Love simple meals? This one-pot creamy spinach and mushroom pasta is your new go-to. Easy to make, delicious, and uses minimal cleanup. Discover this healthy comfort food recipe now! 🍽️💚 #onepotmeal #easyrecipes #spinachpasta"
+        },
+        {
+            "title": "Easy, Creamy, and Veggie-Packed Spinach Mushroom Pasta",
+            "description": "This creamy pasta loaded with spinach and mushrooms is super easy and ready in under 30 minutes. Perfect for a cozy dinner that’s light yet satisfying. Save and try it tonight! 🌱🍄 #vegetarian #quickmeals #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 ounces dried pasta (penne or fusilli)",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "8 ounces cremini mushrooms, sliced",
+        "4 cups fresh spinach, roughly chopped",
+        "1 1/2 cups plant-based milk (unsweetened almond or oat milk)",
+        "1/2 cup vegetable broth",
+        "1 tablespoon nutritional yeast (optional)",
+        "Salt and pepper to taste",
+        "1/4 teaspoon red pepper flakes (optional)",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy spinach and mushroom pasta on a hectic weeknight when I wanted something comforting but didn’t want to spend ages cooking or washing up. The simplicity of throwing everything into one pot and letting it cook together was a total game changer. Unlike traditional creamy pasta recipes that rely on heavy cream, I use a splash of plant-based milk to keep it light but still silky and rich. Adding nutritional yeast gives it a subtle cheesy flavor without dairy, which my family loves, especially since one of us is lactose intolerant. The mushrooms add a meaty texture, and the fresh spinach brightens the dish with a bit of earthiness and color. It’s perfect for those nights when you want a warm, satisfying meal but also want to keep things on the healthier side. Plus, the one-pot method means minimal cleanup — always a win in my book. The finished pasta is creamy, flavorful, and just the right balance of hearty and fresh, making it a quick favorite for busy evenings.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large deep skillet or pot over medium heat. Once shimmering, add the minced garlic and sauté for about 1 minute until fragrant but not browned — this releases the garlic’s aroma and flavor without bitterness. Then add the sliced mushrooms and cook, stirring occasionally, until they release their moisture and start to brown, about 6-8 minutes. Browning the mushrooms enhances their umami flavor, which forms the base of the dish’s richness, so don’t rush this step or overcrowd the pan.",
+            "timing": "10 minutes",
+            "doneness_cue": "Mushrooms are golden brown and have shrunk in size, garlic is fragrant but not burnt"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the dried pasta directly into the pot along with the vegetable broth and plant-based milk. Stir to combine and bring the mixture to a gentle boil. Lower the heat to a simmer and cook uncovered, stirring occasionally to prevent sticking. The pasta will absorb the liquid and cook in this creamy base, which helps infuse flavor throughout. If you skip this step or add the liquid too hot, the pasta might cook unevenly or clump together, so keep the heat moderate and stir gently.",
+            "timing": "15 minutes",
+            "doneness_cue": "Pasta is tender but firm (al dente), liquid is mostly absorbed forming a creamy sauce"
+        },
+        {
+            "step": 3,
+            "instruction": "When the pasta is almost done, stir in the chopped fresh spinach. The residual heat will wilt the spinach quickly without overcooking it, preserving its vibrant color and nutrients. Adding spinach too early can make it mushy and dull, so wait until the last few minutes. Stir well to combine and season with salt, pepper, and red pepper flakes if using, adjusting to your taste.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach is wilted but still bright green and the sauce is creamy and smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the pot from heat and stir in the nutritional yeast if desired. This adds a cheesy, nutty flavor that complements the mushrooms and spinach beautifully. If you don’t have nutritional yeast, a sprinkle of grated vegan cheese or parmesan works too. Taste and adjust seasoning one last time before serving.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is creamy, flavors are balanced with a subtle cheesy note"
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the pasta hot, garnished with chopped fresh parsley for a pop of color and freshness. This simple garnish brightens the dish and adds a subtle herbal note that rounds out the flavors. Pair it with a crisp green salad or some crusty bread for a complete meal.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish looks vibrant and inviting with fresh parsley on top"
+        },
+        {
+            "step": 6,
+            "instruction": "For an extra boost of protein, you can toss in cooked chickpeas or white beans when adding the spinach. This makes the meal more filling without changing the creamy texture. Just make sure to warm them through so they blend seamlessly into the dish.",
+            "timing": "3 minutes",
+            "doneness_cue": "Beans are heated through and evenly mixed with pasta"
+        },
+        {
+            "step": 7,
+            "instruction": "If the sauce seems too thick after resting, stir in a splash of plant-based milk to loosen it up before serving. This keeps the pasta creamy without making it watery. Avoid adding too much liquid at once; add gradually until you reach the desired consistency.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is smooth and coats the pasta evenly without pooling"
+        },
+        {
+            "step": 8,
+            "instruction": "To make this dish gluten-free, simply swap the pasta for your favorite gluten-free variety. Keep an eye on the cooking time as gluten-free pasta can cook faster or slower depending on the brand. Stir frequently to prevent sticking and adjust liquid amounts as needed.",
+            "timing": "Varies",
+            "doneness_cue": "Pasta is tender and sauce remains creamy"
+        },
+        {
+            "step": 9,
+            "instruction": "Leftovers reheat well in a skillet over low heat with a splash of plant-based milk to refresh the creaminess. Avoid microwaving without stirring, as the sauce can separate and dry out. Stir gently while warming to keep the texture smooth and appetizing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Reheated pasta is hot, creamy, and evenly textured"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Spinach and Mushroom Pasta Works So Well",
+        "content": "<p>This recipe relies on the magic of one-pot cooking, which allows the pasta to cook directly in a flavorful liquid, infusing every bite with taste and making cleanup a breeze. The plant-based milk serves as a lighter alternative to heavy cream, providing creaminess without the heaviness or high fat content. Its mild flavor complements the mushrooms and spinach, allowing their natural earthiness to shine through.</p><p>Mushrooms undergo the Maillard reaction when sautéed, creating complex, savory flavors that lend a meaty richness to the dish. Cooking them slowly and allowing them to brown properly is key to unlocking this depth. The garlic adds aromatic undertones, enhancing the overall flavor without overpowering the dish.</p><p>Adding the spinach at the end preserves its vibrant color and delicate texture, preventing it from turning mushy or bitter. Nutritional yeast, often used in vegan cooking, adds a subtle cheesy note thanks to its glutamate content, which enhances umami. This ingredient creates a satisfying flavor profile without dairy, perfect for those avoiding lactose.</p><p>Finally, simmering the pasta in the combined broth and plant milk allows starches to release gradually, thickening the sauce naturally. This emulsification creates a velvety texture that clings to the pasta, ensuring each forkful is rich and comforting. The balance of liquids and timing is essential to prevent the sauce from becoming too watery or dry.</p>",
+        "ingredient_notes": {
+            "plant-based milk": "Look for unsweetened almond or oat milk with a neutral flavor to avoid overpowering the dish. These milks provide creaminess without heavy fats, making the pasta lighter. Avoid sweetened or flavored varieties as they can alter the taste. Plant-based milk also reacts well when simmered with starches, thickening the sauce gently.",
+            "mushrooms": "Cremini or baby bella mushrooms are ideal for their firm texture and deep flavor. Fresh mushrooms should be firm with no slimy spots. They add umami richness when browned properly. Avoid overcrowding the pan during sautéing to ensure proper caramelization, which is crucial for developing flavor.",
+            "pasta": "Use a sturdy pasta shape like penne or fusilli that holds sauce well. Dried pasta works best here because it absorbs the cooking liquid gradually. Fresh pasta may become too soft or mushy. Cooking the pasta directly in the sauce liquid allows it to soak up flavor and starch, creating a creamy coating.",
+            "nutritional yeast": "A staple in vegan cooking, nutritional yeast provides a cheesy, nutty flavor thanks to its glutamic acid content. It’s a great dairy-free alternative to parmesan. Use it sparingly to avoid bitterness and add it at the end of cooking to preserve its flavor. It also adds some B vitamins.",
+            "vegetable broth": "Choose a low-sodium vegetable broth to control the saltiness of the dish. The broth adds depth and balances the creaminess of the plant milk. Avoid broths with strong flavors or additives that could clash with the pasta’s delicate taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when sautéing mushrooms.",
+            "reason": "Overcrowding traps moisture and causes mushrooms to steam rather than brown. Browning triggers the Maillard reaction, which develops deep, savory flavors essential for this dish. Proper caramelization adds richness and complexity, so give mushrooms room to cook evenly."
+        },
+        {
+            "tip": "Use unsweetened plant-based milk for cooking.",
+            "reason": "Sweetened or flavored plant milks can alter the final flavor profile, introducing unwanted sweetness or aftertastes. Unsweetened varieties maintain the creamy texture without interfering with the savory elements, allowing the mushrooms and spinach to shine."
+        },
+        {
+            "tip": "Add spinach at the very end of cooking.",
+            "reason": "Spinach wilts quickly and can become mushy or lose its vibrant color if overcooked. Adding it last preserves its texture and bright green appearance, making the dish visually appealing and nutritionally richer."
+        },
+        {
+            "tip": "Stir the pasta frequently while cooking in the liquid.",
+            "reason": "Frequent stirring prevents the pasta from sticking to the bottom of the pot or clumping together. It also helps distribute heat evenly, ensuring uniform cooking and a creamy sauce that coats the pasta perfectly."
+        },
+        {
+            "tip": "Adjust seasoning at the end, not the beginning.",
+            "reason": "Flavors concentrate as the sauce reduces, so seasoning early can lead to over-salting. Waiting until the end allows you to taste and adjust salt, pepper, and spices more accurately for balanced flavor."
+        },
+        {
+            "tip": "Use nutritional yeast for a cheesy flavor without dairy.",
+            "reason": "Nutritional yeast adds umami and a pleasant cheesy note, enhancing the taste without heaviness. It’s a great option for those avoiding dairy and also adds nutrients like B vitamins."
+        },
+        {
+            "tip": "Serve immediately for best texture and flavor.",
+            "reason": "The sauce thickens as it cools and the pasta can absorb too much liquid, becoming dry. Serving right away ensures a creamy, silky texture and fresh flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the mushroom browning step",
+            "why_it_happens": "Many cooks rush this step, eager to add liquids and finish quickly, not realizing mushrooms need time to develop flavor.",
+            "fix": "Take your time to sauté mushrooms over medium heat without overcrowding. Wait until they’re golden brown and fragrant before moving on. This step builds essential umami and depth in the dish."
+        },
+        {
+            "mistake": "Adding spinach too early",
+            "why_it_happens": "Beginners often add greens with liquids to save time, unaware they can become mushy and lose color.",
+            "fix": "Add spinach in the last few minutes of cooking to keep it vibrant and slightly crisp. This preserves nutrients and improves texture."
+        },
+        {
+            "mistake": "Not stirring pasta enough while cooking",
+            "why_it_happens": "Some assume pasta won’t stick if there’s enough liquid, but starch release can cause clumping.",
+            "fix": "Stir gently and often to prevent sticking and ensure even cooking. This also helps the sauce thicken and coat the pasta nicely."
+        },
+        {
+            "mistake": "Using sweetened plant-based milk",
+            "why_it_happens": "Mistaking any plant milk for cooking milk leads to unintended sweetness in savory dishes.",
+            "fix": "Always check labels and use unsweetened, unflavored plant milk to keep flavors balanced and savory."
+        },
+        {
+            "mistake": "Overcooking pasta in the sauce",
+            "why_it_happens": "Leaving pasta to simmer too long causes it to turn mushy and lose structure.",
+            "fix": "Cook pasta until just al dente, then remove from heat and let residual heat finish the cooking. This maintains the perfect texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Grilled Chicken for Extra Protein",
+            "description": "Toss in some sliced grilled chicken breast to turn this vegetarian pasta into a hearty meal. The smoky flavor of the chicken pairs well with the creamy sauce and earthy mushrooms, making it a satisfying dinner option for meat lovers.",
+            "technical_note": "Add cooked chicken in step 3 with the spinach to warm through without overcooking."
+        },
+        {
+            "name": "Swap Mushrooms for Roasted Butternut Squash",
+            "description": "For a sweeter twist, replace mushrooms with roasted butternut squash cubes. This adds a lovely caramelized flavor and creamy texture that complements the spinach and sauce beautifully.",
+            "technical_note": "Roast squash separately until tender and add at the end with spinach to keep textures distinct."
+        },
+        {
+            "name": "Make It Spicy with Chili Flakes and Jalapeños",
+            "description": "If you like heat, add extra red pepper flakes and some diced jalapeños when sautéing garlic. This kick gives the creamy pasta an exciting flavor punch without overpowering the dish.",
+            "technical_note": "Adjust spice level to taste and watch closely to avoid burning chili flakes."
+        },
+        {
+            "name": "Use Gluten-Free Pasta for Dietary Needs",
+            "description": "Simply swap regular pasta for your favorite gluten-free variety. Keep an eye on cooking times as gluten-free pasta varies, and stir often to prevent sticking and ensure even cooking.",
+            "technical_note": "May require slightly less liquid and shorter cooking time; adjust accordingly."
+        },
+        {
+            "name": "Add Sun-Dried Tomatoes for Tangy Brightness",
+            "description": "Stir in chopped sun-dried tomatoes towards the end for a burst of tangy sweetness that contrasts nicely with the creamy sauce and earthy mushrooms.",
+            "technical_note": "Add sun-dried tomatoes with spinach to warm through but preserve their texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "10g",
+        "fiber_grams": "6g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta should not be left out at room temperature for more than 2 hours to prevent bacterial growth. Cover it loosely if you plan to serve it shortly after cooking.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The sauce may thicken and the pasta absorb more liquid, so stir and add a splash of plant-based milk before reheating to refresh the texture.",
+        "freezer": "Freeze cooked pasta in an airtight container for up to 1 month. To avoid freezer burn, press plastic wrap directly on the surface before sealing. Thaw overnight in the fridge and reheat gently on the stovetop with a splash of milk.",
+        "reheating": "Reheat on the stovetop over low heat, stirring often and adding a little plant-based milk to loosen the sauce. Avoid microwaving without stirring, which can cause uneven heating and sauce separation.",
+        "make_ahead_strategy": "You can prepare the mushrooms and garlic mixture a day ahead and store in the fridge. On serving day, add liquids, pasta, and spinach, then cook fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use dairy milk instead of plant-based milk?",
+            "answer": "Absolutely! Dairy milk works fine and will make the sauce creamy and rich. Just use whole milk or half-and-half for the best texture. If you want a lighter version, stick with unsweetened plant-based milk."
+        },
+        {
+            "question": "What if I don’t have nutritional yeast?",
+            "answer": "No worries! Nutritional yeast adds a cheesy flavor but is optional. You can substitute with grated parmesan or a vegan cheese alternative, or simply omit it and still have a tasty creamy pasta."
+        },
+        {
+            "question": "How do I prevent the pasta from sticking while cooking?",
+            "answer": "Stir the pasta frequently during cooking to prevent clumping and sticking to the bottom. Also, make sure there’s enough liquid for the pasta to cook evenly. Using a wide pot helps too."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes! Just swap the pasta for your favorite gluten-free type. Keep an eye on cooking times as gluten-free pasta can vary and stir often to avoid sticking."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Definitely! Zucchini, bell peppers, or peas work great. Add firmer veggies earlier in the cooking process and delicate ones like peas towards the end."
+        },
+        {
+            "question": "Is this recipe suitable for vegans?",
+            "answer": "Yes, as long as you use plant-based milk and skip cheese or use vegan alternatives, this recipe is fully vegan and delicious."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently with a splash of plant-based milk to restore creaminess."
+        },
+        {
+            "question": "Can I freeze this pasta?",
+            "answer": "Yes, freeze in airtight containers for up to 1 month. Thaw overnight in the fridge and reheat on the stove with some added milk for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy this creamy spinach and mushroom pasta as much as I do! Give it a try and let me know how it turns out — I’d love to hear your twists and tips.",
+    "seo": {
+        "primary_keyword": "creamy spinach mushroom pasta",
+        "secondary_keywords": [
+            "one pot spinach pasta",
+            "easy vegetarian pasta recipe",
+            "how to make creamy spinach pasta",
+            "best mushroom pasta recipe",
+            "quick creamy pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Perfectly Sauté Mushrooms",
+                "anchor": "how-to-saute-mushrooms"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_1.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_2.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_3.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images/healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778338958_779",
+    "slug": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes",
+    "isOnline": true,
+    "createdAt": "2026-05-09T15:16:19+00:00",
+    "updatedAt": "2026-05-09T15:16:19+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "healthy-one-pot-creamy-spinach-and-mushroom-pasta-in-25-minutes/images"
+}
