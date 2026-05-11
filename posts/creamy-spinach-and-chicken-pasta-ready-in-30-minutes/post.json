@@ -1,0 +1,333 @@
+{
+    "title": "Creamy Spinach and Chicken Pasta That Feels Like a Hug in a Bowl",
+    "promptIMG": "Food photography: creamy spinach and chicken pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy spinach and chicken pasta is my go-to for busy evenings. The fresh spinach adds a vibrant touch, and the homemade cream sauce comes together in no time. Ideal for cozy dinners when you want comfort without fuss.",
+    "hashtags": "#spinachpasta #chickendinner #comfortfood",
+    "board_name": "Easy Chicken Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Creamiest Spinach Chicken Pasta Ever!",
+            "description": "Looking for a quick and creamy dinner? This spinach and chicken pasta is a total game-changer 🍝✨. Ready in under an hour and packed with fresh flavors. Save this recipe to try tonight! #easyrecipes #chickenpasta #comfortfood"
+        },
+        {
+            "title": "Quick Spinach and Chicken Pasta for Busy Weeknights",
+            "description": "Whip up this creamy spinach chicken pasta in just 45 minutes! Perfect when you want something cozy but fast. Try it today and enjoy the fresh, rich sauce 🍗🌿. Don’t forget to save for later! #weeknightdinner #spinachrecipes #comfortmeal"
+        },
+        {
+            "title": "Cozy Up with This Delicious Creamy Chicken Spinach Pasta",
+            "description": "This creamy spinach chicken pasta feels like a warm hug after a long day. Full of fresh spinach and tender chicken in a silky sauce. You’ve got to try this comforting dinner recipe tonight! 💚🍴 #comfortfoodrecipes #pastadinner #easymeals"
+        },
+        {
+            "title": "The Ultimate Creamy Chicken Pasta with Spinach You’ll Love",
+            "description": "Creamy, quick, and packed with fresh spinach and chicken — this pasta recipe is a total winner for busy nights. Perfect comfort food that’s easy to make. Give it a go and save for your next dinner! 🥘💫 #chickenrecipes #spinachpasta #quickdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 ounces penne pasta, uncooked",
+        "2 tablespoons olive oil",
+        "1 pound boneless skinless chicken breasts, cut into bite-sized pieces",
+        "3 cloves garlic, minced",
+        "4 cups fresh spinach, roughly chopped",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 teaspoon crushed red pepper flakes (optional)",
+        "1/4 cup chopped fresh basil (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this creamy spinach and chicken pasta recipe one hectic weeknight when I desperately needed something comforting but quick. The first time I made it, I was worried it might be too rich or complicated, but the fresh spinach and a quick homemade cream sauce totally won me over. What makes this version special is how the sauce comes together effortlessly, without needing any fancy ingredients or hours of simmering. I also learned that adding the spinach at just the right moment keeps it vibrant and fresh instead of soggy. The chicken stays tender and juicy thanks to a quick sear before simmering in the sauce. When it’s done, the pasta is coated in a velvety, flavorful sauce that’s just the right balance of creamy and light. It’s become a staple in my house because it feels like a warm hug on a plate, perfect for cozy dinners after a long day. Plus, it’s easy enough to make any night of the week without stress. If you love meals that come together fast but still impress, you’re going to adore this one.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil and cook the penne pasta according to package directions, usually about 10-12 minutes until al dente. Cooking the pasta properly is key because it will finish cooking slightly when mixed with the sauce, so you don’t want it mushy. Drain and set aside, reserving about 1/2 cup of the pasta water to adjust sauce consistency later if needed.",
+            "timing": "12 minutes",
+            "doneness_cue": "Pasta should be tender but still firm to the bite (al dente), not soft or mushy."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat. Add the chicken pieces in a single layer, making sure not to crowd the pan, and cook until golden brown on all sides and cooked through, about 6-8 minutes. This searing step locks in moisture and flavor, resulting in juicy chicken. Avoid moving the chicken too much so it browns properly rather than steaming.",
+            "timing": "8 minutes",
+            "doneness_cue": "Chicken should be opaque and firm, with a nice golden sear on the outside."
+        },
+        {
+            "step": 3,
+            "instruction": "Add minced garlic to the skillet with the chicken and sauté for about 30 seconds until fragrant. Garlic cooks quickly and releases its aroma, infusing the dish with flavor. Be careful not to burn it, as burnt garlic can taste bitter.",
+            "timing": "30 seconds",
+            "doneness_cue": "You’ll smell the garlic fragrance but see no browning or black spots."
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to medium and stir in the fresh chopped spinach. Cook for 2-3 minutes until the spinach wilts but still retains its bright green color. Adding spinach at this stage ensures it doesn’t overcook and become slimy, preserving its fresh texture and vibrant look.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach should be wilted but still bright green and tender."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the heavy cream and bring to a gentle simmer. Let it cook for 4-5 minutes, stirring occasionally, until the cream thickens slightly. This step creates the base of your sauce, and simmering helps reduce excess water, concentrating the flavors without curdling the cream.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce should coat the back of a spoon and look creamy."
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the grated Parmesan cheese until melted and fully incorporated. The cheese thickens the sauce further and adds a nutty, salty depth. Make sure to stir continuously to prevent the cheese from clumping or sticking to the pan.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce should be smooth, creamy, and slightly thickened."
+        },
+        {
+            "step": 7,
+            "instruction": "Season the sauce with salt, freshly ground black pepper, and crushed red pepper flakes if using. Taste as you go to balance the flavors. Adding seasoning at the end lets you adjust precisely since the cheese and cream already add saltiness.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce tastes balanced with a little peppery kick if red flakes added."
+        },
+        {
+            "step": 8,
+            "instruction": "Add the cooked pasta to the skillet and toss gently to combine everything evenly. If the sauce feels too thick, add reserved pasta water a tablespoon at a time until it reaches your desired consistency. This technique helps the sauce cling perfectly to the pasta without being too heavy or dry.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta is evenly coated in creamy sauce, not clumped or dry."
+        },
+        {
+            "step": 9,
+            "instruction": "Turn off the heat and sprinkle chopped fresh basil over the pasta for a burst of fresh herb flavor. Serve immediately while warm and creamy. Basil adds brightness and a lovely aroma that complements the richness of the sauce beautifully.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh basil looks vibrant and the dish is piping hot."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Spinach and Chicken Pasta Hits the Spot",
+        "content": "<p>The secret to this recipe’s success lies in balancing fresh ingredients with a simple, luscious cream sauce that doesn’t overwhelm. Cooking the chicken first with a good sear locks in juices and builds flavor through the Maillard reaction, which caramelizes the surface proteins creating a rich, savory taste. Adding garlic at the right moment infuses the dish with aromatic depth without burning, which would create bitterness.</p><p>Fresh spinach is added late to preserve its bright color and tender texture, avoiding the slimy or dull appearance that comes from overcooking. The cream sauce thickens gently when simmered, allowing the fat to emulsify with the cheese, creating a silky texture that clings to the pasta perfectly. Using Parmesan adds a nutty saltiness and helps thicken the sauce through its proteins and fats.</p><p>Reserving pasta water is a classic technique that helps adjust sauce consistency naturally. The starches in the water act as a binder, helping the sauce adhere better to the noodles without watering it down. Fresh herbs like basil added at the end brighten the dish and provide a fresh, fragrant contrast to the creamy richness.</p><p>This recipe thrives on timing and layering flavors carefully, ensuring each component complements the others without overpowering. The result is a comforting, elegant pasta dish that’s simple enough for weeknights but special enough to impress.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless skinless chicken breasts that are firm and have a pale pink color. They should be free of any unpleasant odor and moist but not slimy. Using breast meat ensures lean protein and tender bite-sized pieces that cook evenly. Avoid frozen chicken unless fully thawed to prevent uneven cooking and texture issues.",
+            "Fresh spinach": "Opt for vibrant, dark green leaves without yellowing or wilting. Fresh spinach wilts quickly, so add it toward the end of cooking to retain its bright color and tender texture. Baby spinach works well, but regular spinach chopped roughly is also great. Avoid frozen spinach here as it releases too much water and changes sauce consistency.",
+            "Heavy cream": "Use heavy cream with at least 36% fat content for a rich, silky sauce. Lower-fat creams or half-and-half won’t thicken as well and can curdle when simmered. Heavy cream emulsifies with cheese and pasta water to create that luscious texture this dish is known for. Keep the cream cold until use to avoid premature curdling.",
+            "Parmesan cheese": "Choose freshly grated Parmigiano-Reggiano for the best flavor and melt quality. Pre-grated cheese often contains anti-caking agents that affect melting and texture. Parmesan adds saltiness, nuttiness, and helps thicken the sauce through its proteins. Stir it in off-heat or low heat to prevent clumping.",
+            "Penne pasta": "Penne’s ridged surface and tubular shape hold onto the creamy sauce beautifully, making each bite flavorful. Cook it al dente to maintain structure, as it will absorb sauce and soften slightly when tossed. Avoid overcooking to prevent mushy pasta that won’t hold the sauce well."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when cooking chicken.",
+            "reason": "Crowding the pan causes the chicken to steam rather than sear, resulting in less flavorful and less appealing texture. Searing develops the Maillard reaction, which adds depth and a golden crust that enhances taste and visual appeal."
+        },
+        {
+            "tip": "Add spinach at the last minute.",
+            "reason": "Spinach wilts very quickly due to its high water content. Adding it too early leads to overcooked, mushy greens that lose their vibrant color and fresh taste. Adding it last keeps it bright and tender."
+        },
+        {
+            "tip": "Reserve pasta water before draining.",
+            "reason": "Pasta water contains starch that helps bind the sauce to the noodles, improving texture and preventing the sauce from separating. It also allows you to thin the sauce naturally without diluting flavor."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts more smoothly and adds better flavor compared to pre-grated, which often contains additives to prevent clumping. This ensures a creamy, well-integrated sauce."
+        },
+        {
+            "tip": "Simmer cream gently, don’t boil.",
+            "reason": "Boiling cream can cause it to curdle or separate. A gentle simmer thickens the sauce while keeping it smooth and creamy, preserving the rich mouthfeel."
+        },
+        {
+            "tip": "Season gradually and taste often.",
+            "reason": "Cream and cheese add salt naturally, so seasoning too early or too much can overpower the dish. Tasting as you go helps you find the perfect balance."
+        },
+        {
+            "tip": "Add fresh herbs just before serving.",
+            "reason": "Fresh herbs lose their aroma and flavor when cooked too long. Adding them last preserves their brightness and adds a fresh contrast to the creamy sauce."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the pasta.",
+            "why_it_happens": "People often cook pasta until very soft to avoid undercooking, but it becomes mushy and loses texture.",
+            "fix": "Cook pasta until just al dente according to package instructions, then drain and toss quickly with sauce so it finishes cooking perfectly without getting soggy."
+        },
+        {
+            "mistake": "Burning the garlic.",
+            "why_it_happens": "Garlic cooks very fast, and adding it to a hot pan without attention often leads to burning.",
+            "fix": "Add garlic after chicken is mostly cooked, keep heat moderate, and stir constantly for just 30 seconds until fragrant but not browned."
+        },
+        {
+            "mistake": "Adding spinach too early.",
+            "why_it_happens": "Some cooks add spinach at the start, causing it to overcook and become slimy.",
+            "fix": "Add spinach last and cook just until wilted, about 2-3 minutes, to maintain color and texture."
+        },
+        {
+            "mistake": "Using low-fat cream or milk.",
+            "why_it_happens": "Trying to make it lighter can lead to curdled or thin sauce.",
+            "fix": "Use heavy cream for richness and stability; lower-fat substitutes don’t emulsify well and change texture."
+        },
+        {
+            "mistake": "Not seasoning properly.",
+            "why_it_happens": "Under-seasoning happens because people rely only on cheese saltiness or forget to taste.",
+            "fix": "Season gradually, tasting after adding cheese, and adjust salt and pepper carefully to balance flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Mushrooms for Earthy Depth",
+            "description": "Sauté 1 cup sliced cremini or button mushrooms with the chicken for an earthy, umami boost. Mushrooms add texture and deepen the flavor profile without overpowering the creamy sauce.",
+            "technical_note": "Cook mushrooms until browned and their moisture evaporates before adding garlic to avoid watery sauce."
+        },
+        {
+            "name": "Swap Penne for Gluten-Free Pasta",
+            "description": "Use your favorite gluten-free pasta to make this dish suitable for gluten sensitivities. The creamy sauce pairs well with most gluten-free pasta shapes, just watch cooking times as they can vary.",
+            "technical_note": "Cook gluten-free pasta carefully to al dente as it can become mushy quickly."
+        },
+        {
+            "name": "Make It Spicy with Red Pepper Flakes",
+            "description": "Add 1/2 teaspoon crushed red pepper flakes with the garlic to give the dish a gentle heat kick. It balances the creaminess and adds a nice warmth without being overpowering.",
+            "technical_note": "Adjust the amount of red pepper flakes to your heat preference."
+        },
+        {
+            "name": "Use Kale Instead of Spinach",
+            "description": "Swap fresh spinach for chopped kale for a heartier green with a slightly bitter note. Kale adds chewiness and nutrition but requires longer cooking to soften.",
+            "technical_note": "Sauté kale for 5-7 minutes until tender before adding cream to ensure it’s not tough."
+        },
+        {
+            "name": "Make It Dairy-Free",
+            "description": "Replace heavy cream with full-fat coconut milk and use nutritional yeast instead of Parmesan to create a creamy, dairy-free version. This alters the flavor but keeps the texture rich and smooth.",
+            "technical_note": "Simmer coconut milk gently to prevent separation and stir nutritional yeast in off heat."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can be left at room temperature for up to 2 hours covered loosely to prevent drying out. Beyond that, bacteria can grow, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken in the fridge; reheat gently with a splash of cream or water to loosen it. Serving cold is less preferred as the sauce firms up.",
+        "freezer": "Freeze in a sealed container for up to 2 months. Wrap tightly to avoid freezer burn. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring often. Add a little cream or water to restore sauce creaminess. Avoid high heat which can cause sauce to separate. Microwave reheating works but stir frequently to heat evenly.",
+        "make_ahead_strategy": "Cook chicken and pasta separately ahead of time and store in the fridge. Prepare sauce fresh on serving day and combine everything just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Frozen spinach contains more water and can make the sauce watery if not handled properly. If using frozen, thaw completely and squeeze out excess moisture before adding. Fresh spinach is preferred for texture and vibrant color."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half or a mix of milk and cream cheese, but the sauce may be less rich and thinner. Coconut milk is a good dairy-free alternative but changes the flavor profile. Heavy cream provides the best silky texture and stability."
+        },
+        {
+            "question": "How do I keep the chicken tender?",
+            "answer": "Searing the chicken quickly over medium-high heat locks in juices. Avoid overcooking by removing chicken once it’s opaque and firm. Cooking it directly in the sauce helps keep it moist but avoid long simmering times."
+        },
+        {
+            "question": "Can I make this recipe vegetarian?",
+            "answer": "Yes! Skip the chicken and add mushrooms or extra spinach for bulk. You could also add chickpeas for protein. The creamy sauce pairs well with veggies for a satisfying meatless meal."
+        },
+        {
+            "question": "Why is my sauce grainy or curdled?",
+            "answer": "This usually happens if cream is boiled too hard or cheese is added to very high heat. Simmer cream gently and add cheese off heat or on low to melt smoothly. Stir constantly to prevent clumping."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can cook components like chicken and pasta in advance, but it’s best to prepare the sauce fresh and combine before serving. This keeps the spinach fresh and the sauce creamy."
+        },
+        {
+            "question": "What pasta works best in this recipe?",
+            "answer": "Medium shapes like penne or rigatoni are ideal since their ridges and tubes hold onto the sauce well. Thin pastas like angel hair won’t cling as nicely to the creamy sauce."
+        },
+        {
+            "question": "How do I make the sauce thicker?",
+            "answer": "Simmer the cream gently to reduce and thicken before adding cheese. Adding freshly grated Parmesan helps thicken too. Avoid adding too much pasta water, which thins the sauce."
+        }
+    ],
+    "conclusion": "I hope you give this creamy spinach and chicken pasta a try soon—it’s one of those meals that feels special but comes together so easily. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy spinach chicken pasta",
+        "secondary_keywords": [
+            "easy chicken pasta recipe",
+            "how to make creamy spinach pasta",
+            "best chicken pasta dinner",
+            "quick creamy chicken pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade cream sauce tips",
+                "anchor": "homemade-cream-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images/creamy-spinach-and-chicken-pasta-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778492375_101",
+    "slug": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-05-11T09:47:19+00:00",
+    "updatedAt": "2026-05-11T09:47:19+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "creamy-spinach-and-chicken-pasta-ready-in-30-minutes/images"
+}
