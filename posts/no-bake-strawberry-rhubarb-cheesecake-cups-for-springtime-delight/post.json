@@ -1,0 +1,333 @@
+{
+    "title": "No-Bake Rhubarb Strawberry Cheesecake Cups That Taste Like Spring",
+    "promptIMG": "Food photography: No-Bake Rhubarb Strawberry Cheesecake Cups, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These no-bake cheesecake cups combine tangy rhubarb and sweet strawberries in a creamy, light dessert. No oven needed—perfect for a fresh spring treat or easy entertaining when you want something simple but impressive.",
+    "hashtags": "#cheesecakecups #nobakedessert #springdesserts",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "Fresh & Easy No-Bake Cheesecake Cups with Rhubarb and Strawberries",
+            "description": "Looking for a fresh dessert without turning on the oven? These cheesecake cups are creamy, fruity, and ready in no time. Save this recipe for your next spring gathering! 🍓🍰 #nobakedessert #springrecipes #easycheesecake"
+        },
+        {
+            "title": "Light and Tangy Rhubarb Strawberry Cheesecake Cups You’ll Love",
+            "description": "These no-bake cheesecake cups balance tangy rhubarb with sweet strawberries for a delightful treat. Perfect for a light dessert after dinner or a casual get-together. Try it today and impress your guests! 🍓✨ #dessertideas #cheesecake #freshflavors"
+        },
+        {
+            "title": "No-Bake Cheesecake Cups with a Burst of Rhubarb and Strawberry Flavor",
+            "description": "Creamy, fruity, and no oven required! These cheesecake cups are ideal for spring and summer. Discover now how easy it is to whip up this fresh dessert. Your taste buds will thank you! 🍰🌿 #nobake #springdessert #easyrecipes"
+        },
+        {
+            "title": "Quick No-Bake Rhubarb and Strawberry Cheesecake Cups for Any Occasion",
+            "description": "Whip up these delicious no-bake cheesecake cups in minutes. The combo of rhubarb and strawberries makes it perfect for a light, refreshing dessert. Save this recipe and try it soon! 🍓🍽️ #cheesecakecups #quickdessert #nobake"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 cup fresh rhubarb, chopped",
+        "1/2 cup granulated sugar",
+        "1 cup fresh strawberries, sliced",
+        "8 oz cream cheese, softened",
+        "1/2 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy cream, cold",
+        "8 small graham cracker crumbs or digestive biscuits",
+        "Fresh mint leaves for garnish (optional)"
+    ],
+    "yield": "4 individual cheesecake cups",
+    "introduction": "I first stumbled upon this no-bake cheesecake cup recipe during a busy spring weekend when I wanted something light and fresh but didn’t want to heat up the kitchen. The combo of tart rhubarb and sweet strawberries was a revelation—so bright and seasonal. What makes this recipe stand out is how easy it is to prepare and how the creamy filling sets beautifully without baking. I usually struggle with no-bake cheesecakes being too soft or runny, but the trick here is whipping the cream just right and folding it gently into the cream cheese mixture. Plus, simmering the rhubarb with sugar until it’s soft but still a little chunky adds a lovely texture and natural tang. The end result is a light, airy dessert that looks as good as it tastes, with fresh fruit on top for a pop of color and flavor. It’s perfect for casual dinners or even a small party when you want something impressive but fuss-free. I love how this recipe feels like a little spring celebration in a cup—simple, elegant, and so satisfying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the rhubarb compote. In a small saucepan, combine the chopped rhubarb and granulated sugar. Cook over medium heat, stirring occasionally, until the rhubarb softens and breaks down but still has some texture, about 8-10 minutes. This step is crucial because it softens the rhubarb and mellows its tartness while creating a naturally sweet sauce. Avoid letting it cook too long or it will become mushy and lose its fresh flavor.",
+            "timing": 10,
+            "doneness_cue": "The rhubarb should look soft and glossy but still hold some small chunks."
+        },
+        {
+            "step": 2,
+            "instruction": "While the rhubarb cools, prepare the strawberry topping by slicing the fresh strawberries thinly. This adds a fresh, juicy contrast to the creamy filling. Set aside and keep refrigerated until assembly. Don't slice too early to avoid sogginess and loss of vibrant color.",
+            "timing": 5,
+            "doneness_cue": "Strawberries should be evenly sliced, bright red, and firm."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, beat the softened cream cheese with powdered sugar and vanilla extract until smooth and creamy. This mixture forms the base of your cheesecake filling and needs to be lump-free for the best texture. Use room temperature cream cheese to avoid clumps and ensure smooth blending.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth, creamy, and no lumps remain."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate chilled bowl, whip the heavy cream until stiff peaks form. This step is essential to give the filling its light, airy texture. Be careful not to overwhip or the cream will become grainy and separate. The cold cream whips better and holds its structure longer.",
+            "timing": 7,
+            "doneness_cue": "Whipped cream holds stiff peaks that don’t fold back when the whisk is lifted."
+        },
+        {
+            "step": 5,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture using a spatula. Folding rather than stirring preserves the airiness of the whipped cream, ensuring a light cheesecake filling. Mix just until combined—overmixing will deflate the texture and make it dense.",
+            "timing": 3,
+            "doneness_cue": "Filling is smooth and fluffy with no visible streaks of cream or cheese."
+        },
+        {
+            "step": 6,
+            "instruction": "To assemble, start by spooning a layer of graham cracker crumbs into the bottom of each serving cup to create a crunchy base. This adds texture contrast and mimics the crust of a traditional cheesecake. Press lightly to compact but don’t crush completely.",
+            "timing": 2,
+            "doneness_cue": "Crumbs form an even, slightly compacted layer at the bottom of each cup."
+        },
+        {
+            "step": 7,
+            "instruction": "Add a generous layer of the cheesecake filling over the crumb base in each cup, smoothing the tops with the back of a spoon. This layer should be thick enough to hold its shape but still soft and creamy. Fill about two-thirds full to leave room for the fruit topping.",
+            "timing": 3,
+            "doneness_cue": "Filling layers are even, smooth, and fill the cups about two-thirds."
+        },
+        {
+            "step": 8,
+            "instruction": "Top each cup with a spoonful of the rhubarb compote followed by fresh strawberry slices. This layering balances tart and sweet flavors and adds a fresh, colorful finish. Distribute the fruit evenly for the best presentation and flavor balance.",
+            "timing": 3,
+            "doneness_cue": "Fruit topping looks fresh, vibrant, and evenly distributed."
+        },
+        {
+            "step": 9,
+            "instruction": "Refrigerate the assembled cups for at least 2 hours to allow the filling to set properly. Chilling is key to firming up the cheesecake texture since this is a no-bake dessert. Avoid skipping this step or the filling will be too soft and runny.",
+            "timing": 120,
+            "doneness_cue": "Filling feels firm to the touch but still creamy and sliceable."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Bake Cheesecake Cup Recipe Works So Well",
+        "content": "<p>This no-bake cheesecake cup recipe succeeds because of the balance between texture, flavor, and technique. Starting with the rhubarb compote, gently cooking it with sugar softens the fibrous stalks and mellows their natural tartness while preserving some bite. This creates a fresh, bright topping that contrasts beautifully with the creamy filling. The strawberries add natural sweetness and juiciness, enhancing the fruit layer without overpowering the tang of rhubarb.</p><p>The filling itself relies on a classic cream cheese base sweetened with powdered sugar and flavored with vanilla. The key to achieving a light, mousse-like texture is folding in whipped cream rather than heavy stirring. Whipping the cream to stiff peaks incorporates air, which when folded carefully into the denser cream cheese mixture, results in a fluffy and airy filling that sets firmly in the fridge without baking.</p><p>The graham cracker crumb base adds a satisfying crunch that mimics a traditional cheesecake crust. Pressing it gently ensures it holds together without becoming hard or overly crumbly. Chilling the assembled cups for at least two hours allows the filling to firm up enough to hold its shape while remaining creamy and smooth. This step is essential because the filling relies on the cold temperature to set rather than heat.</p><p>Overall, this recipe balances acidity from the rhubarb, sweetness from the strawberries and sugar, creaminess from the filling, and crunch from the crust. The no-bake method makes it accessible and quick, while the fresh fruit and light texture keep it feeling like a perfect spring or summer dessert.</p>",
+        "ingredient_notes": {
+            "rhubarb": "Look for firm, brightly colored rhubarb stalks without blemishes or wilting. The stalks should snap easily when bent, indicating freshness. Rhubarb’s natural tartness is a defining feature, so cooking it gently with sugar softens the bite without losing brightness. Avoid overcooking to prevent mushiness and loss of texture. Fresh rhubarb is key; frozen can be used but may release extra water, requiring adjustments.",
+            "cream cheese": "Use full-fat, softened cream cheese for the creamiest texture and best flavor. Room temperature cream cheese blends smoothly with sugar and vanilla, preventing lumps. Low-fat or whipped varieties won’t provide the same richness or structure and can result in a runny filling. Proper softening is crucial—too cold and you’ll get clumps, too warm and it can be greasy.",
+            "heavy cream": "Cold heavy cream whips better and holds stiff peaks essential for light, airy filling. Use at least 36% fat content for best results. Overwhipping causes graininess and eventual separation, while underwhipping results in a loose filling. Chill your mixing bowl and beaters before whipping to speed the process and improve stability.",
+            "powdered sugar": "Powdered sugar dissolves quickly into the cream cheese, giving a smooth texture without grittiness. It also helps stabilize the whipped cream slightly. Regular granulated sugar would not dissolve fully and could make the filling grainy. Use sifted powdered sugar if possible to avoid clumps.",
+            "graham cracker crumbs": "Choose finely crushed graham crackers or digestive biscuits for a uniform crumb base. The crumbs add texture and a slightly sweet, nutty flavor that complements the filling. Avoid large chunks which can make the base unstable. Lightly pressing the crumbs into the bottom of the serving cups creates a firm foundation that contrasts nicely with the creamy filling."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature cream cheese for a smooth filling.",
+            "reason": "Cold cream cheese is stiff and difficult to blend smoothly, often resulting in lumps. Letting it soften at room temperature ensures it mixes evenly with sugar and vanilla, creating a creamy base that folds well with whipped cream. This step is essential for a smooth, lump-free cheesecake texture."
+        },
+        {
+            "tip": "Chill your mixing bowl and beaters before whipping cream.",
+            "reason": "Cold equipment helps heavy cream whip faster and hold its structure longer. Warm bowls can cause the cream to whip slowly or not reach stiff peaks, affecting the lightness and stability of the filling. This simple step improves the texture and consistency of your cheesecake filling."
+        },
+        {
+            "tip": "Fold whipped cream gently to keep the filling airy.",
+            "reason": "Folding preserves the air whipped into the cream, keeping the filling light and fluffy. Stirring or beating vigorously will deflate the cream, resulting in a denser, heavier cheesecake. Use a spatula and gentle motions to combine ingredients without losing volume."
+        },
+        {
+            "tip": "Don’t skip refrigerating the assembled cups for at least 2 hours.",
+            "reason": "Chilling allows the filling to set and develop the perfect creamy yet firm texture. Without adequate refrigeration, the filling will be too soft and may not hold its shape. This step also deepens the flavors and makes slicing or scooping easier."
+        },
+        {
+            "tip": "Press graham cracker crumbs lightly but firmly for a stable base.",
+            "reason": "Light pressing compacts the crumbs so they hold together and provide a crunchy contrast to the creamy filling. Pressing too hard can make the base overly dense and hard to eat, while too loose results in crumbs falling apart when served."
+        },
+        {
+            "tip": "Simmer rhubarb just until softened but still slightly chunky.",
+            "reason": "Cooking rhubarb gently softens its tartness and breaks down fibers without turning it into mush. This preserves a fresh texture and bright flavor that balances the sweet, creamy filling perfectly."
+        },
+        {
+            "tip": "Slice strawberries right before assembling to keep them fresh.",
+            "reason": "Slicing strawberries too early causes them to release moisture and lose their vibrant color and texture. Freshly sliced strawberries add a juicy, bright topping that complements the rhubarb and filling beautifully."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold cream cheese straight from the fridge",
+            "why_it_happens": "Many people forget to soften cream cheese beforehand, assuming it can be mixed cold like other ingredients.",
+            "fix": "Plan ahead and let cream cheese sit at room temperature for at least 30 minutes before mixing. If you’re short on time, soften gently in the microwave in 10-second bursts, stirring in between, but avoid melting it. This ensures a smooth, lump-free filling."
+        },
+        {
+            "mistake": "Overwhipping the heavy cream",
+            "why_it_happens": "It’s easy to get carried away when whipping cream, thinking stiffer peaks are better.",
+            "fix": "Stop whipping as soon as stiff peaks form—when the cream holds its shape but is still smooth. Overwhipped cream becomes grainy and can separate into butter and buttermilk, ruining the filling’s texture."
+        },
+        {
+            "mistake": "Not folding whipped cream gently",
+            "why_it_happens": "Some cooks stir or beat the cream into the cheese mixture, which deflates the air whipped in.",
+            "fix": "Use a large spatula and fold the cream in with gentle, sweeping motions. Turn the bowl as you fold to combine evenly without losing volume."
+        },
+        {
+            "mistake": "Skipping the refrigeration time",
+            "why_it_happens": "Impatience or lack of planning can lead to serving immediately.",
+            "fix": "Refrigerate the assembled cups for at least two hours to allow the filling to set properly. This step is crucial for texture and flavor development."
+        },
+        {
+            "mistake": "Overcooking the rhubarb compote",
+            "why_it_happens": "Trying to speed up cooking or leaving it unattended can cause mushy rhubarb.",
+            "fix": "Cook rhubarb on medium heat, stirring occasionally, and remove from heat as soon as it softens but still holds small chunks. This keeps a fresh texture and prevents loss of flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Zest Rhubarb Strawberry Cups",
+            "description": "Add a teaspoon of fresh lemon zest to the cream cheese mixture for a bright citrus twist. The lemon enhances the tartness of rhubarb and adds a refreshing aroma. This variation pairs well with a sprinkle of crushed pistachios on top for extra crunch.",
+            "technical_note": "Incorporate the lemon zest into the cream cheese mixture before folding in whipped cream to distribute flavor evenly."
+        },
+        {
+            "name": "Ginger-Spiced Rhubarb Strawberry Cheesecake",
+            "description": "Stir a pinch of ground ginger into the rhubarb compote while cooking for a warm, spicy note that complements the fruit’s tartness. This adds complexity and a subtle warmth to the dessert without overpowering the fresh flavors.",
+            "technical_note": "Add ginger early in the cooking process to allow its flavor to infuse the compote fully."
+        },
+        {
+            "name": "Vegan No-Bake Cheesecake Cups",
+            "description": "Use vegan cream cheese and coconut cream whipped until fluffy in place of dairy. Sweeten with maple syrup instead of powdered sugar. The rhubarb compote stays the same. Expect a slightly different texture—less tangy but still creamy and delicious.",
+            "technical_note": "Chill coconut cream overnight and whip just the solid part for best results; folding technique remains the same."
+        },
+        {
+            "name": "Crunchy Nut Crust Variation",
+            "description": "Replace graham cracker crumbs with finely chopped toasted almonds or pecans mixed with a bit of melted coconut oil for a nutty, crunchy base. This adds richness and a toasty flavor that pairs wonderfully with the fruit topping.",
+            "technical_note": "Press the nut mixture firmly into the cups to form a stable crust that contrasts the creamy filling."
+        },
+        {
+            "name": "Mixed Berry Rhubarb Cups",
+            "description": "Add blueberries and raspberries to the strawberry topping for a colorful berry medley. This variation enhances the fruity complexity and visual appeal, making the dessert even more vibrant and fresh.",
+            "technical_note": "Gently toss all berries together just before topping to prevent them from becoming mushy."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cheesecake cups should not be left at room temperature for more than 2 hours as they contain dairy and fresh fruit which can spoil quickly. Keep them covered loosely if serving soon.",
+        "refrigerator": "Store in an airtight container or cover cups tightly with plastic wrap in the fridge for up to 3 days. The filling may firm up further, and the fruit topping can lose some freshness but will still taste great. Serve chilled for best texture.",
+        "freezer": "You can freeze the cheesecake cups for up to 1 month. Wrap each cup tightly in plastic wrap and place in a freezer-safe container to prevent freezer burn. Thaw overnight in the refrigerator before serving. The texture may change slightly, becoming less creamy but still enjoyable.",
+        "reheating": "No reheating is recommended for these no-bake cheesecake cups. Serve cold straight from the fridge for the best flavor and texture. If needed, let sit at room temperature for 10-15 minutes before eating to soften slightly.",
+        "make_ahead_strategy": "Prepare the rhubarb compote and crust layers 1-2 days ahead and keep refrigerated separately. Assemble the filling and layer the cups the day of serving to maintain freshness and texture. This saves time while ensuring the dessert looks and tastes its best."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen rhubarb for the compote?",
+            "answer": "Yes, frozen rhubarb works well if fresh isn’t available. Just thaw it completely and drain excess liquid before cooking. Because frozen rhubarb releases more water, you might need to cook it a bit longer to reach the right consistency. This prevents your compote from being too watery and keeps the right texture."
+        },
+        {
+            "question": "How long can I store the cheesecake cups in the fridge?",
+            "answer": "They keep well for up to 3 days refrigerated in airtight containers. After that, the filling may start to lose its texture and the fresh fruit can become soggy or mushy. For best taste and appearance, enjoy within the first couple of days."
+        },
+        {
+            "question": "Can I substitute cream cheese with Greek yogurt?",
+            "answer": "Greek yogurt can be used for a lighter version, but it will change the texture and flavor significantly. The filling will be less creamy and more tangy, and it won’t set as firmly. If you try this, use thick Greek yogurt and consider adding gelatin or agar to help it hold shape."
+        },
+        {
+            "question": "What if my whipped cream is overwhipped?",
+            "answer": "If whipped cream becomes grainy or starts separating, it’s overwhipped. Unfortunately, it’s difficult to fix completely, but you can try adding a little fresh cream and gently folding it in to smooth the texture. For best results, whip cream carefully and stop as soon as stiff peaks form."
+        },
+        {
+            "question": "Can I prepare these cups without the graham cracker crust?",
+            "answer": "You can skip the crust, but the texture contrast will be lost and the dessert might feel less substantial. If omitting, consider adding a few crushed nuts or granola on top for crunch. The crust provides a nice base that balances the creamy filling and fruity topping."
+        },
+        {
+            "question": "How do I prevent the rhubarb compote from being too tart?",
+            "answer": "Cooking rhubarb with enough sugar helps mellow its tartness, but if you prefer sweeter, add a bit more sugar or a splash of honey. Also, cooking the compote until it softens but still holds texture balances the flavors. Taste as you go and adjust sweetness accordingly."
+        },
+        {
+            "question": "Is it possible to make this recipe vegan?",
+            "answer": "Yes, by replacing cream cheese with a plant-based alternative and using coconut cream whipped to stiff peaks instead of heavy cream, you can make a vegan version. Sweeten with maple syrup or powdered sugar alternatives. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Can I assemble these cups ahead of time for a party?",
+            "answer": "Yes, you can assemble the cups 1-2 days ahead. Keep them covered and refrigerated. The filling may firm up more, and fruit might soften a bit, but the flavors will meld nicely. For freshest fruit appearance, add sliced strawberries just before serving if possible."
+        }
+    ],
+    "conclusion": "Give these no-bake rhubarb strawberry cheesecake cups a try—you’ll love how fresh and easy they are. Don’t forget to share your results; I’d love to hear how they turn out!",
+    "seo": {
+        "primary_keyword": "no bake cheesecake cups",
+        "secondary_keywords": [
+            "rhubarb strawberry cheesecake",
+            "easy no bake dessert",
+            "how to make no bake cheesecake cups",
+            "best no bake cheesecake recipe",
+            "quick no bake cheesecake"
+        ],
+        "internal_links": [
+            {
+                "text": "easy no bake desserts",
+                "anchor": "easy-no-bake-desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_1.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_1.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_2.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_2.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_3.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_3.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images/no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778672184_366",
+    "slug": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight",
+    "isOnline": true,
+    "createdAt": "2026-05-13T11:51:51+00:00",
+    "updatedAt": "2026-05-13T11:51:51+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight/images"
+}

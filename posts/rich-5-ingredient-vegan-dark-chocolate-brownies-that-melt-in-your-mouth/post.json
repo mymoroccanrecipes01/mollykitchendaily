@@ -1,0 +1,329 @@
+{
+    "title": "Rich and Fudgy Vegan Brownies with Only 5 Simple Ingredients",
+    "promptIMG": "Food photography: vegan brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These vegan brownies are incredibly fudgy and rich, made with just five ingredients. The dark cocoa powder adds deep chocolate flavor, while almond milk keeps them moist. Perfect for a cozy afternoon snack or sharing with friends!",
+    "hashtags": "#veganbrownies #fudgydessert #plantbased",
+    "board_name": "Easy Vegan Desserts",
+    "pin_variations": [
+        {
+            "title": "The Best Fudgy Vegan Brownies You'll Ever Make!",
+            "description": "Looking for a quick and delicious vegan treat? These brownies are super fudgy and only need 5 ingredients. Save this recipe for your next dessert craving! 🍫✨ #veganbaking #easyrecipes #fudgybrownies"
+        },
+        {
+            "title": "Insanely Fudgy Vegan Brownies with Minimal Ingredients",
+            "description": "Whip up these rich vegan brownies with just five simple ingredients. Perfect for cozy afternoons or sharing with friends. Try it today and taste the magic! 🌱🍫 #veganrecipes #chocolatefix #plantbaseddessert"
+        },
+        {
+            "title": "Simple Vegan Brownies That Melt in Your Mouth",
+            "description": "These brownies are so fudgy and rich, you won’t believe they’re vegan! Made with dark cocoa and almond milk, they're a must-try. Discover now and impress everyone! 😍🍫 #vegandesserts #fudgybrownies #easyvegan"
+        },
+        {
+            "title": "Cozy Up with These Easy 5-Ingredient Vegan Brownies",
+            "description": "Craving something sweet? These vegan brownies are fudgy, rich, and super simple. Perfect for a cozy treat anytime. Save this recipe and bake soon! 🍫💕 #veganbaking #fudgybrownies #quickdesserts"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "3/4 cup dark cocoa powder, unsweetened",
+        "1 cup granulated sugar",
+        "1/2 cup almond milk, unsweetened",
+        "1/3 cup vegetable oil"
+    ],
+    "yield": "Approximately 8 brownies",
+    "introduction": "I stumbled upon this vegan brownie recipe when I was craving something chocolatey but wanted to keep it simple and plant-based. What I love about this version is how fudgy and rich it turns out with just five ingredients—no fancy substitutes or complicated steps. The secret is definitely the dark cocoa powder, which gives it a deep chocolate flavor without bitterness. Also, a splash of almond milk keeps the texture moist and melt-in-your-mouth perfect. I remember the first time I made them, I was worried they'd be dry or crumbly since there’s no eggs, but the oil and almond milk combo really works wonders. Plus, they come together quickly, making them great when you want a cozy treat without a fuss. These brownies have become a go-to for my afternoon snacks and even impress my non-vegan friends when I bring them to gatherings. They’re soft, fudgy, and just sweet enough—comfort food at its finest!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8x8 inch baking pan or line it with parchment paper. This step is crucial to prevent sticking and ensures even baking. Using parchment paper also helps you lift the brownies out easily after baking, so you get nice clean edges. Avoid skipping this or using too little oil, as your brownies might stick and break apart when you cut them.",
+            "timing": 10,
+            "doneness_cue": "Pan is well greased or parchment paper is fully covering the base and sides"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, sift together the all-purpose flour and dark cocoa powder to remove any lumps and evenly distribute the cocoa. This step helps create a smooth batter and avoids clumps of cocoa that can taste bitter. If you rush this part, your brownies might have uneven texture and pockets of dry flour or cocoa.",
+            "timing": 5,
+            "doneness_cue": "Flour and cocoa powder mixture looks smooth, fine, and uniform"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the granulated sugar to the dry ingredients and whisk gently to combine. This ensures the sugar is evenly spread throughout the batter, so every bite is sweet. Mix just enough to combine; overmixing can develop gluten and make the brownies tough.",
+            "timing": 3,
+            "doneness_cue": "Dry ingredients are evenly mixed with no visible sugar clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the almond milk and vegetable oil into the dry mix. Stir gently with a spatula until the batter just comes together. The oil keeps the brownies moist and fudgy, while the almond milk adds a subtle nutty flavor and moisture. Avoid overmixing here, as it can make the texture dense and chewy rather than soft and fudgy.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth, thick, and glossy with no dry streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Transfer the batter into your prepared baking pan and spread it evenly using a spatula. Make sure the batter reaches all corners to ensure uniform baking. An uneven spread can cause some parts to overbake or stay undercooked.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is flat and smooth with no thick or thin spots"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick in the center. It should come out with a few moist crumbs but not wet batter. The fudgy texture means it’s okay to have some moistness inside, but don’t underbake or it will be gooey and collapse.",
+            "timing": 25,
+            "doneness_cue": "Toothpick inserted comes out with moist crumbs, not wet batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the brownies from the oven and let them cool completely in the pan on a wire rack. Cooling allows the brownies to set and firm up, making them easier to cut. Cutting them too hot can cause crumbling or squishing.",
+            "timing": 30,
+            "doneness_cue": "Brownies are firm to touch and set but still soft inside"
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, lift the brownies out using the parchment paper edges and place on a cutting board. Use a sharp knife to cut into squares. For cleaner cuts, wipe the knife between slices. This keeps the edges neat and prevents crumbs from sticking.",
+            "timing": 5,
+            "doneness_cue": "Brownies cut into clean squares without excessive crumbling"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the brownies at room temperature or slightly warmed. They’re perfect on their own or with a scoop of vegan vanilla ice cream for an indulgent treat. Store leftovers in an airtight container to keep them moist. Enjoy every fudgy bite!",
+            "timing": 0,
+            "doneness_cue": "Brownies taste moist, rich, and fudgy with deep chocolate flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Brownie Recipe Delivers Perfect Fudginess",
+        "content": "<p>Achieving a fudgy texture in vegan brownies can be tricky without eggs or butter, but this recipe nails it by relying on a few key ingredient interactions. First, the dark cocoa powder is essential — it provides a rich chocolate flavor and helps create a dense structure thanks to its fat content and fine grind. Using an unsweetened variety ensures the chocolate taste is intense without added bitterness.</p><p>The almond milk plays a dual role: it hydrates the flour and cocoa, activating the starches for proper binding, and adds moisture to keep the brownies from drying out. Because it's plant-based, it also contributes a subtle nutty undertone that complements the chocolate beautifully. The vegetable oil is the fat binder that replaces butter, giving the brownies their tender crumb and luscious mouthfeel. Oil remains liquid at room temperature, which helps maintain that soft, fudgy texture rather than a cakey crumb.</p><p>Mixing technique is crucial here. Overmixing the batter would develop gluten, resulting in tougher brownies — so gentle folding ensures the batter stays tender. Baking time is another key factor: baking just until a toothpick comes out with moist crumbs means the brownies retain their signature fudginess instead of becoming dry or cakey. Cooling fully before slicing lets the structure set, so they cut cleanly without crumbling.</p><p>Overall, this recipe balances moisture, fat, and cocoa intensity perfectly to deliver vegan brownies that are rich, fudgy, and satisfying without complicated ingredients or steps. It’s a great example of how simple components and technique come together for a delicious plant-based dessert.</p>",
+        "ingredient_notes": {
+            "dark cocoa powder": "Look for a high-quality, unsweetened dark cocoa powder with a deep chocolate aroma and rich color. This type of cocoa powder has more fat and less bitterness, which is key for fudgy brownies. Avoid natural cocoa that’s too light or Dutch-processed if you want a strong chocolate punch. Store in a cool, dry place to preserve freshness.",
+            "almond milk": "Choose unsweetened almond milk to control the sweetness and avoid altering the recipe’s texture. Almond milk adds moisture and a slight nutty flavor without heaviness. It hydrates the dry ingredients, helping to activate starches for proper binding. Avoid sweetened or flavored versions which can throw off the balance.",
+            "vegetable oil": "Neutral vegetable oil (like canola or sunflower) works best here to keep the brownies moist without adding competing flavors. Oil remains liquid at room temperature, which helps maintain the fudgy texture. Avoid butter or coconut oil if you want the texture exactly as intended; those fats behave differently when cooled.",
+            "all-purpose flour": "Regular all-purpose flour provides structure through gluten formation. Sifting the flour removes lumps and aerates it, which helps create a tender crumb. Using whole wheat or gluten-free flours will alter texture and may require adjustments in moisture.",
+            "granulated sugar": "Standard granulated sugar sweetens evenly and helps with the chewy texture. It also contributes to the Maillard reaction during baking, enhancing flavor and color. Using alternatives like coconut sugar or maple syrup may require recipe tweaks for moisture and sweetness balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sift the dry ingredients before mixing.",
+            "reason": "Sifting removes lumps and aerates the flour and cocoa powder, which helps create a smooth batter and prevents clumps of bitter cocoa. It also ensures even distribution of ingredients, leading to consistent texture in every bite."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet ingredients are added.",
+            "reason": "Overmixing develops gluten in the flour, which can make brownies tough and cakey instead of soft and fudgy. Stir gently until just combined to maintain a tender crumb."
+        },
+        {
+            "tip": "Use a sharp knife and wipe it between cuts.",
+            "reason": "Brownies tend to be sticky and fudgy, so a clean knife helps cut neat squares without tearing or crumbling. Wiping off batter between slices keeps edges clean and presentation pretty."
+        },
+        {
+            "tip": "Let the brownies cool fully before cutting.",
+            "reason": "Cooling allows the structure to set and the fats to solidify slightly, making the brownies easier to slice cleanly. Cutting too soon can cause crumbling or squishing."
+        },
+        {
+            "tip": "Use unsweetened almond milk for best flavor control.",
+            "reason": "Sweetened or flavored plant milks can change the taste and moisture balance, sometimes making the brownies too sweet or altering texture. Unsweetened almond milk provides neutral moisture with a subtle nutty note."
+        },
+        {
+            "tip": "Line the pan with parchment paper instead of just greasing.",
+            "reason": "Parchment paper makes it easy to lift the brownies out of the pan in one piece, preventing sticking and broken edges. It also helps with even cooking on the edges."
+        },
+        {
+            "tip": "Check the baking time starting at 25 minutes.",
+            "reason": "Ovens vary, and overbaking dries out brownies. Start checking early by inserting a toothpick to ensure you catch the perfect fudgy texture—moist crumbs but no wet batter."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Many assume brownies need to be fully dry inside to be done, leading to baking too long.",
+            "fix": "Check the brownies at 25 minutes with a toothpick. Remove them when it comes out with moist crumbs, not wet batter. This keeps them fudgy and moist."
+        },
+        {
+            "mistake": "Skipping sifting of dry ingredients",
+            "why_it_happens": "It seems like an unnecessary extra step, especially when short on time.",
+            "fix": "Always sift flour and cocoa powder to prevent clumps and ensure even mixing, which results in a smooth batter and consistent texture."
+        },
+        {
+            "mistake": "Using sweetened almond milk",
+            "why_it_happens": "People often grab whatever plant milk is on hand without checking labels.",
+            "fix": "Use unsweetened almond milk to control sweetness and moisture levels, keeping the brownies balanced and fudgy."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Trying to get the batter very smooth can lead to over-stirring.",
+            "fix": "Mix just until combined. Overmixing develops gluten and makes brownies tough rather than soft and fudgy."
+        },
+        {
+            "mistake": "Cutting brownies while still hot",
+            "why_it_happens": "Impatience to try them right away leads to crumbly, messy slices.",
+            "fix": "Let brownies cool completely in the pan to set properly. This makes slicing easier and cleaner."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Vegan Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter before baking for a crunchy texture and earthy flavor contrast. Nuts add a nice bite and extra protein, making these brownies a bit heartier.",
+            "technical_note": "Fold nuts gently into batter after mixing wet and dry ingredients. Watch baking time; nuts can brown quickly, so check brownies a few minutes early."
+        },
+        {
+            "name": "Peanut Butter Swirl Brownies",
+            "description": "Drop spoonfuls of peanut butter onto the batter and swirl gently with a knife before baking. This adds a creamy, salty contrast to the rich chocolate and makes the brownies extra decadent.",
+            "technical_note": "Swirl gently to create marbled effect without fully mixing. Baking time remains the same."
+        },
+        {
+            "name": "Espresso Infused Vegan Brownies",
+            "description": "Dissolve 1 teaspoon instant espresso powder in the almond milk before mixing into the batter. This enhances the chocolate flavor and adds a subtle coffee kick for grown-up brownies.",
+            "technical_note": "Make sure espresso powder is fully dissolved to avoid grainy texture. No change in baking time."
+        },
+        {
+            "name": "Gluten-Free Vegan Brownies",
+            "description": "Substitute the all-purpose flour with a gluten-free blend that includes xanthan gum for binding. Texture will be slightly different but still fudgy and delicious for those avoiding gluten.",
+            "technical_note": "Gluten-free batters can be more delicate; handle gently and check doneness a bit earlier to avoid overbaking."
+        },
+        {
+            "name": "Vegan Brownie Bites with Chocolate Chips",
+            "description": "Stir in 1/2 cup vegan chocolate chips into the batter for pockets of melty chocolate throughout. Perfect for bite-sized treats or party snacks.",
+            "technical_note": "Add chips last to avoid melting too much into the batter before baking. Baking time remains consistent."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "10g",
+        "fiber_grams": "4g",
+        "sodium_mg": "5mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store brownies covered at room temperature for up to 2 days. Use an airtight container or wrap tightly in plastic wrap to prevent drying out. They stay moist but will firm up slightly over time.",
+        "refrigerator": "Keep brownies in an airtight container in the fridge for up to 5 days. Refrigeration firms them up and intensifies the chocolate flavor. Serve cold or warm slightly before eating to soften.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and then foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently to restore softness without drying out.",
+        "reheating": "Warm brownies in a microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Add a small splash of almond milk if they feel dry. Avoid overheating, which can make them tough.",
+        "make_ahead_strategy": "Prepare the batter a day ahead and keep it covered in the fridge. Bake fresh on the day you want to serve for best texture. Alternatively, bake brownies in advance and store frozen or refrigerated, reheating as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute almond milk with another plant milk?",
+            "answer": "Yes, you can use other unsweetened plant milks like soy, oat, or cashew milk. Just make sure it's unsweetened to control sweetness and moisture. The flavor and texture will remain similar, though almond milk gives a slight nutty note that's lovely."
+        },
+        {
+            "question": "Why are my brownies dry or crumbly?",
+            "answer": "Dry or crumbly brownies usually mean they were overbaked or overmixed. Check baking time carefully and test with a toothpick early. Also, mix the batter just until combined to avoid developing tough gluten."
+        },
+        {
+            "question": "Can I use coconut oil instead of vegetable oil?",
+            "answer": "You can, but coconut oil solidifies at room temperature, which may make brownies firmer or slightly grainy. Vegetable oil keeps them softer and fudgier. If using coconut oil, melt it fully before mixing."
+        },
+        {
+            "question": "How do I make these brownies gluten-free?",
+            "answer": "Swap all-purpose flour with a gluten-free baking blend that contains xanthan gum. This helps with binding. The texture might be slightly different, but still fudgy and tasty. Watch baking time closely, as gluten-free batters can bake faster."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in chopped nuts or vegan chocolate chips after mixing the batter for added texture and flavor. Just be gentle to keep the batter light. Baking time stays the same."
+        },
+        {
+            "question": "Why do I need to sift the cocoa powder?",
+            "answer": "Sifting removes lumps and ensures even mixing, which prevents bitter clumps in your brownies. It also aerates the cocoa for a smoother batter and even texture."
+        },
+        {
+            "question": "How do I store leftover brownies?",
+            "answer": "Store in an airtight container at room temperature for 2 days, or refrigerate up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months. Reheat gently before serving to restore softness."
+        },
+        {
+            "question": "Can I make this recipe sugar-free?",
+            "answer": "You can experiment with sugar substitutes like erythritol or monk fruit sweetener. Keep in mind these may affect texture and sweetness level, so you might need to adjust quantities and baking time."
+        }
+    ],
+    "conclusion": "I hope you give these fudgy vegan brownies a try—they’re a simple, delicious way to satisfy your chocolate cravings. Don’t forget to share how they turn out!",
+    "seo": {
+        "primary_keyword": "vegan fudgy brownies",
+        "secondary_keywords": [
+            "easy vegan brownies",
+            "fudgy chocolate brownies vegan",
+            "how to make vegan brownies",
+            "best vegan brownie recipe",
+            "simple vegan dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan chocolate cake recipe",
+                "anchor": "vegan_chocolate_cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images/rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778672473_111",
+    "slug": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-05-13T11:51:51+00:00",
+    "updatedAt": "2026-05-13T11:51:51+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth/images"
+}

@@ -1,0 +1,329 @@
+{
+    "title": "Easy Honey Mustard Chicken for Busy Weeknight Dinners",
+    "promptIMG": "Food photography: Honey Mustard Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This honey mustard chicken is super simple and ready in just 15 minutes! The sweet honey perfectly balances the tangy mustard, making it a quick, tasty dinner everyone loves. Great for busy weeknights when you want flavor without fuss.",
+    "hashtags": "#HoneyMustardChicken #QuickDinner #FamilyFavorite",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Honey Mustard Chicken Recipe for Busy Nights",
+            "description": "Craving a fast and flavorful dinner? This honey mustard chicken takes just 15 minutes and uses only 5 ingredients. Save this recipe for those hectic evenings when you want something tasty and easy! 🍯🍗 #QuickDinners #HoneyMustard #ChickenRecipes"
+        },
+        {
+            "title": "Juicy Honey Mustard Chicken That’s Ready in 15 Minutes",
+            "description": "Discover how to make juicy, flavorful honey mustard chicken in no time. Perfect for busy weeknights or last-minute meals. Try it today and see why my family can’t get enough! 🍽️💛 #EasyMeals #HoneyMustardChicken #WeeknightDinner"
+        },
+        {
+            "title": "5-Ingredient Honey Mustard Chicken Everyone Will Love",
+            "description": "Only five simple ingredients and 15 minutes stand between you and this delicious honey mustard chicken! It’s sweet, tangy, and so easy to make—perfect for busy nights. Save it now and try soon! 🐔🍯 #SimpleRecipes #ChickenDinner #FamilyMeals"
+        },
+        {
+            "title": "The Best Honey Mustard Chicken for a Quick, Tasty Meal",
+            "description": "Looking for a quick meal that doesn’t skimp on flavor? This honey mustard chicken is juicy, sweet, and tangy—all in just 15 minutes. Discover this easy recipe and add it to your dinner rotation! 🔥🍴 #FastDinner #HoneyMustard #ChickenRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "3 tablespoons honey, preferably raw",
+        "3 tablespoons Dijon mustard",
+        "1 tablespoon olive oil",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this honey mustard chicken on a night when I was completely wiped out and didn’t want to fuss in the kitchen. I had just five ingredients on hand and about 15 minutes to get dinner on the table. To my surprise, it turned out juicy and bursting with flavor—way better than I expected! What makes this version special is the simple balance between the sweetness of honey and the tangy punch of Dijon mustard, which creates a sauce that clings perfectly to the chicken. I also learned that cooking the chicken over medium heat and letting it rest a few minutes after cooking locks in the juices for a tender bite. Plus, since it’s so quick, it’s become my go-to weeknight dinner when time is tight but I still want something satisfying. The finished dish looks golden and inviting, with that sticky honey mustard glaze that makes everyone ask for seconds. Honestly, I think you’ll love how easy and rewarding this recipe is—it’s a total lifesaver on busy evenings!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken breasts dry with paper towels to remove any excess moisture. This step is crucial because dry chicken sears better and develops a nice golden crust instead of steaming. Season both sides generously with salt and freshly ground black pepper. Using a sharp knife, you can even score the surface lightly to help the sauce penetrate better during cooking. Make sure your pan is preheated over medium heat before adding oil. This ensures the chicken starts cooking immediately when it hits the pan, locking in moisture right away.",
+            "timing": 5,
+            "doneness_cue": "Chicken surface turns golden brown without sticking to the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon of olive oil in a large skillet over medium heat. Once shimmering, add the chicken breasts. Cook undisturbed for about 5 minutes on the first side so a crust forms, then flip and cook for another 4-5 minutes. Avoid flipping too often; letting the chicken sit helps it brown evenly and retain juiciness. If your chicken breasts are thick, you can lower the heat slightly and cover the pan to finish cooking through without burning the outside. Use a meat thermometer if you want to be precise—the internal temperature should reach 165°F (75°C).",
+            "timing": 10,
+            "doneness_cue": "Chicken is golden brown and no longer pink inside when sliced"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken cooks, whisk together honey and Dijon mustard in a small bowl until smooth. The honey adds natural sweetness and viscosity, while the mustard brings acidity and a bit of heat. This simple sauce is what makes the dish so vibrant and balanced. You can adjust the ratio to taste if you prefer it sweeter or more tangy.",
+            "timing": 3,
+            "doneness_cue": "Sauce is smooth and glossy with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "When the chicken is almost done, pour the honey mustard sauce directly over the breasts in the skillet. Spoon some of the sauce over each piece and let it simmer gently for 1-2 minutes. This step helps the sauce thicken slightly and coat the chicken beautifully. Avoid boiling the sauce too hard or it might burn the honey and turn bitter.",
+            "timing": 2,
+            "doneness_cue": "Sauce thickens slightly and glazes the chicken"
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the skillet from heat and let the chicken rest for 5 minutes before slicing. Resting allows the juices to redistribute inside the meat, making each bite tender and moist. Resist the urge to cut in immediately, or you'll lose all those flavorful juices onto the cutting board.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels firm but not tough when pressed gently"
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the chicken against the grain to maximize tenderness. Arrange on a serving plate and drizzle any remaining sauce from the pan on top. Garnish with fresh herbs like parsley or thyme if you have some around for a pop of color and freshness. Serve immediately with your favorite sides like steamed veggies or rice.",
+            "timing": 3,
+            "doneness_cue": "Slices reveal juicy, tender interior without dryness"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a little extra flavor, try sprinkling smoked paprika or garlic powder on the chicken before cooking. These spices complement the honey mustard sauce beautifully and create a deeper, more complex flavor profile. Just don’t overpower the simplicity of the original sauce.",
+            "timing": 2,
+            "doneness_cue": "Chicken surface is evenly coated with spices without clumping"
+        },
+        {
+            "step": 8,
+            "instruction": "For a crispier finish, after cooking the chicken in the skillet, transfer it to a preheated oven at 400°F (200°C) for 3-5 minutes. This step gives the edges a nice golden crunch while keeping the inside juicy. Keep an eye on it so it doesn’t dry out.",
+            "timing": 5,
+            "doneness_cue": "Edges turn lightly golden and crisp while interior stays moist"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your skillet promptly after cooking to avoid sticky honey residue buildup. Soak with warm soapy water to loosen any caramelized bits and scrub gently. Proper cleaning keeps your pan in good condition and prevents burnt flavors transferring to your next dish.",
+            "timing": 5,
+            "doneness_cue": "Pan surface is clean and free of sticky spots"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Honey Mustard Chicken Is So Delicious and Easy",
+        "content": "<p>The magic of this recipe lies in the perfect balance between the honey and mustard, which creates a sauce that is both sweet and tangy without overpowering the chicken's natural flavor. Honey acts as a natural tenderizer thanks to its sugars, which help caramelize and form a beautiful glaze when cooked. The Dijon mustard adds a sharp, acidic contrast that cuts through the sweetness, making the dish vibrant and well-rounded.</p><p>Cooking the chicken over medium heat ensures it gets a nice golden crust through the Maillard reaction, which develops complex flavors and an appealing texture. Patting the chicken dry before seasoning prevents steaming, which would make the surface soggy instead of crisp. Resting the chicken after cooking is another key step—this lets the juices redistribute, so the meat stays juicy instead of drying out when sliced.</p><p>Using olive oil as the cooking fat adds a subtle fruity flavor and helps transfer heat evenly without burning quickly. The quick sauce simmer at the end thickens it slightly, allowing it to cling to the chicken perfectly. Finally, slicing against the grain breaks down muscle fibers, making each bite tender. Altogether, these simple but intentional steps turn a quick five-ingredient meal into a satisfying, restaurant-quality dish you can whip up anytime.</p>",
+        "ingredient_notes": {
+            "Honey": "Choose raw or pure honey for the best flavor and natural sweetness. Honey not only sweetens the sauce but also helps create a caramelized glaze on the chicken when cooked. Avoid heavily processed or blended honeys with added sugars or corn syrup to keep the sauce natural and rich in flavor.",
+            "Dijon Mustard": "Pick a smooth Dijon mustard with a good balance of tanginess and spice. It adds acidity that balances the honey's sweetness and enhances the overall flavor complexity. Avoid grainy or overly mild mustards, as they can make the sauce less vibrant.",
+            "Chicken Breasts": "Use boneless, skinless chicken breasts of even thickness for uniform cooking. If breasts are very thick, consider pounding them slightly to ensure they cook evenly without drying out. Fresh, high-quality chicken will yield juicier, more tender results.",
+            "Olive Oil": "Extra virgin olive oil is best for flavor, but a light olive oil can also be used for higher smoke points. Olive oil transfers heat evenly and helps develop a golden crust without burning quickly. Avoid butter here as it can brown too fast and burn the honey.",
+            "Salt and Pepper": "Seasoning with salt enhances the natural flavors and helps create a tasty crust on the chicken during searing. Freshly ground black pepper adds subtle heat and aroma. Adjust amounts to your taste but don't skip this step as it’s essential for depth of flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before seasoning.",
+            "reason": "Removing moisture from the chicken surface allows it to sear properly, developing a golden crust instead of steaming. Wet chicken won’t brown well and can result in a soggy texture. This simple step makes a huge difference in the final taste and look."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when cooking.",
+            "reason": "Crowding traps steam and lowers the pan temperature, preventing browning. Cooking chicken in batches if needed ensures each piece gets a nice sear, which locks in juices and creates flavor through the Maillard reaction."
+        },
+        {
+            "tip": "Let the chicken rest after cooking.",
+            "reason": "Resting allows juices to redistribute inside the meat, preventing them from spilling out when sliced. This keeps the chicken moist and tender, rather than dry and tough. It’s a small wait that pays off big in texture."
+        },
+        {
+            "tip": "Use a meat thermometer for perfect doneness.",
+            "reason": "Chicken is safe at 165°F (75°C), but checking internal temperature ensures you don’t overcook and dry it out or undercook it. Precise cooking keeps the texture juicy and flavorful every time."
+        },
+        {
+            "tip": "Simmer the sauce gently after adding.",
+            "reason": "Heating the honey mustard sauce gently thickens it without burning the sugars in honey. Boiling can cause bitterness and ruin the delicate balance of flavors, so low and slow is key here."
+        },
+        {
+            "tip": "Slice chicken against the grain.",
+            "reason": "Cutting against the grain shortens muscle fibers, making the chicken easier to chew and more tender. Slicing with the grain can leave the meat stringy and tougher to eat."
+        },
+        {
+            "tip": "Add fresh herbs for garnish.",
+            "reason": "Herbs like parsley or thyme add a fresh aroma and a pop of color that elevates the dish visually and flavor-wise. It’s an easy way to make the meal feel more special and inviting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the drying step before cooking.",
+            "why_it_happens": "Many home cooks rush to season and cook without drying the chicken, assuming it won’t affect the outcome much.",
+            "fix": "Always pat the chicken dry with paper towels before seasoning. This removes excess moisture that interferes with browning, resulting in a crispier, more flavorful crust."
+        },
+        {
+            "mistake": "Cooking chicken on too high heat.",
+            "why_it_happens": "It’s tempting to crank the heat to speed up cooking, but this often burns the outside while leaving the inside raw.",
+            "fix": "Cook over medium heat and be patient. This allows even cooking and proper caramelization without burning the honey or drying out the meat."
+        },
+        {
+            "mistake": "Not letting the chicken rest after cooking.",
+            "why_it_happens": "Impatience leads to slicing immediately, causing juices to run out and dry meat.",
+            "fix": "Let the chicken rest uncovered for at least 5 minutes. This helps juices redistribute and keeps the meat moist and tender."
+        },
+        {
+            "mistake": "Adding sauce too early in cooking.",
+            "why_it_happens": "Some add the honey mustard sauce at the start, which can burn the sugars in honey and ruin flavor.",
+            "fix": "Wait until the chicken is nearly cooked before adding the sauce. Then simmer gently to thicken and coat without burning."
+        },
+        {
+            "mistake": "Overcrowding the pan.",
+            "why_it_happens": "Trying to cook all chicken breasts at once can lower pan temperature and cause steaming.",
+            "fix": "Cook in batches if needed to keep heat consistent and ensure a nice sear on each piece."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Honey Mustard Chicken",
+            "description": "Add 1/2 teaspoon cayenne pepper or a dash of hot sauce to the honey mustard sauce for a spicy kick. This variation balances sweet, tangy, and heat perfectly and works great if you like a little extra flavor punch.",
+            "technical_note": "Be careful not to add too much spice at once—start small and adjust. The heat can intensify as it cooks."
+        },
+        {
+            "name": "Creamy Honey Mustard Chicken",
+            "description": "Stir in 1/4 cup of heavy cream or sour cream to the honey mustard sauce after simmering. This creates a rich, creamy texture that’s indulgent and smooth, perfect for serving over mashed potatoes or pasta.",
+            "technical_note": "Add cream off heat to avoid curdling, and warm gently if needed."
+        },
+        {
+            "name": "Honey Mustard Chicken Thighs",
+            "description": "Swap chicken breasts for bone-in, skin-on chicken thighs for a juicier, more flavorful option. The skin crisps up beautifully, and thighs stay tender even if cooked a little longer.",
+            "technical_note": "Increase cooking time by 5-7 minutes and check internal temperature carefully."
+        },
+        {
+            "name": "Garlic Honey Mustard Chicken",
+            "description": "Add 2 minced garlic cloves to the olive oil before cooking the chicken. The garlic infuses the oil and chicken with savory depth, complementing the sweetness and tang perfectly.",
+            "technical_note": "Cook garlic gently to avoid burning and bitterness."
+        },
+        {
+            "name": "Honey Mustard Chicken Salad",
+            "description": "Slice cooked chicken and toss it with mixed greens, cherry tomatoes, and a light vinaigrette for a fresh, healthy salad. The honey mustard chicken adds protein and a burst of flavor to an easy lunch or light dinner.",
+            "technical_note": "Use leftover chicken chilled or warm depending on preference."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "10g",
+        "fiber_grams": "0g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This honey mustard chicken can safely sit out covered at room temperature for up to 2 hours. Beyond that, bacteria can grow, so it’s best to refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The sauce might thicken or separate slightly when cold, so reheat gently before serving. It’s still tasty cold for salads or sandwiches, though the texture changes.",
+        "freezer": "Freeze cooked chicken in a freezer-safe container or heavy-duty zip-top bag for up to 3 months. Wrap well to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat or in the microwave at medium power to avoid drying out. Add a splash of water or chicken broth if sauce seems too thick. Avoid high heat which can toughen the chicken.",
+        "make_ahead_strategy": "You can prepare the honey mustard sauce 1-2 days ahead and store it in the fridge. Cook the chicken fresh, then combine and simmer the sauce just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs work great and stay juicy longer. Just adjust cooking time since thighs are thicker and may take a few extra minutes to reach 165°F internally. Bone-in thighs will take longer than boneless."
+        },
+        {
+            "question": "What if I don’t have Dijon mustard?",
+            "answer": "You can substitute yellow mustard or spicy brown mustard, but the flavor will be milder or more robust, respectively. Dijon has a unique tang and smooth texture that balances the honey best, so try to use it if possible."
+        },
+        {
+            "question": "How do I prevent the honey from burning in the sauce?",
+            "answer": "Add the honey mustard sauce near the end of cooking and simmer gently over medium or low heat. Avoid boiling it hard, as high heat can burn the sugars in honey, causing bitterness."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as your mustard and honey don’t contain any additives with gluten. Always check labels if you have gluten sensitivities."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "Use a meat thermometer to check for an internal temperature of 165°F (75°C). The chicken should be opaque and juices run clear when pierced. Avoid cutting too early to preserve juiciness."
+        },
+        {
+            "question": "Can I double the recipe for a larger crowd?",
+            "answer": "Yes, just cook the chicken in batches to avoid overcrowding the pan, which can cause steaming instead of searing. The sauce can be doubled and heated together once all chicken is cooked."
+        },
+        {
+            "question": "What sides pair well with honey mustard chicken?",
+            "answer": "Steamed vegetables, rice, mashed potatoes, or a simple salad all complement this dish nicely. The sweet and tangy sauce pairs well with mild sides that soak up extra sauce."
+        },
+        {
+            "question": "Is it okay to use a non-stick pan for cooking?",
+            "answer": "Yes, a non-stick skillet works well and reduces sticking, but it might not brown the chicken as deeply as a stainless steel pan. Either is fine—just make sure the pan is hot before adding chicken."
+        }
+    ],
+    "conclusion": "I hope you give this honey mustard chicken a try—it’s such a quick, flavorful dinner that’s become a family favorite of mine. Let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "honey mustard chicken recipe",
+        "secondary_keywords": [
+            "easy honey mustard chicken",
+            "quick chicken dinner",
+            "how to make honey mustard chicken",
+            "best honey mustard chicken recipe",
+            "simple chicken recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken stir fry",
+                "anchor": "easy-weeknight-chicken-stir-fry"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_1.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_1.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_2.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_2.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_3.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_3.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_5.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_6.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_7.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_8.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_4.webp",
+            "relativePath": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images/15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778672874_764",
+    "slug": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
+    "isOnline": true,
+    "createdAt": "2026-05-13T11:51:51+00:00",
+    "updatedAt": "2026-05-13T11:51:51+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast/images"
+}
