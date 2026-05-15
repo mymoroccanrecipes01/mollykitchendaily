@@ -1,0 +1,342 @@
+{
+    "title": "Bright and Fresh Rhubarb Almond Cake with Maple Drizzle",
+    "promptIMG": "Food photography: Rhubarb Almond Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This rhubarb and almond cake is a fresh, springtime delight with a cozy maple drizzle that balances tart and sweet perfectly. I love serving it for afternoon tea or a light dessert when you want something special but not too heavy.",
+    "hashtags": "#rhubarbcake #almonddessert #springbaking",
+    "board_name": "Seasonal Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "Fresh Rhubarb Almond Cake with Sweet Maple Drizzle You’ll Love",
+            "description": "Looking for a spring dessert that’s light but full of flavor? This rhubarb almond cake with maple drizzle is a winner! 🍰🌿 Save this recipe now and enjoy a perfect balance of tart and sweet. #rhubarbcake #springdesserts #almondcake"
+        },
+        {
+            "title": "How to Make a Moist Rhubarb Cake with Almonds and Maple Syrup",
+            "description": "Discover the secret to a moist and flavorful rhubarb almond cake topped with a cozy maple drizzle. It’s easier than you think! Try it today and impress your friends with this fresh spring treat. 🍴🍁 #bakingtips #rhubarbcake #mapledessert"
+        },
+        {
+            "title": "Quick Rhubarb Almond Cake Recipe Perfect for Afternoon Tea",
+            "description": "Need a sweet treat for afternoon tea? This rhubarb almond cake with a hint of maple syrup is just the thing. Light, fresh, and easy to make. Save this recipe for your next gathering! ☕🍰 #afternoontea #rhubarbcake #easybaking"
+        },
+        {
+            "title": "Tart and Sweet Rhubarb Almond Cake with Maple Drizzle That Melts In Your Mouth",
+            "description": "This rhubarb almond cake hits all the right notes—tart rhubarb, crunchy almonds, and sweet maple drizzle. Perfect for springtime dessert cravings. Discover now and bake your new favorite cake! 🍰💛 #springbaking #rhubarbcake #dessertlove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups fresh rhubarb, chopped into 1-inch pieces",
+        "1 cup almond flour",
+        "1 cup all-purpose flour",
+        "1/2 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "1/2 cup unsalted butter, softened",
+        "2 large eggs",
+        "1/3 cup maple syrup, plus extra for drizzle",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1/2 cup sliced almonds, toasted"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I first made this rhubarb almond cake a few springs ago when my local farmer’s market was bursting with fresh rhubarb stalks. I wanted a dessert that felt light and fresh, but also comforting, so I played around with adding almond flour for a nutty, tender crumb. The trick I learned was to toast the sliced almonds before adding them on top — it really brings out their flavor and adds a lovely crunch. Plus, a drizzle of pure maple syrup on the warm cake balances the tart rhubarb beautifully without overpowering it. This cake isn’t overly sweet, which I love, making it perfect for a mid-afternoon treat or a light dessert after dinner. It’s got this rustic charm with just the right texture — moist but not dense, with bits of rhubarb that give a nice pop of tartness in every bite. Honestly, I had a few attempts where the cake came out too dry or too dense, but once I adjusted the butter and almond flour ratios, it was smooth sailing. I think you’ll enjoy how simple yet special this cake feels, especially when shared with friends over tea or coffee.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan with butter or line it with parchment paper. This step ensures your cake won’t stick and will come out cleanly, preserving the delicate crumb. Don’t skip greasing properly; otherwise, you might struggle to remove the cake later, which can ruin its appearance.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased and ready with parchment lining if using"
+        },
+        {
+            "step": 2,
+            "instruction": "Toast the sliced almonds in a dry skillet over medium heat for about 3-5 minutes, stirring frequently. You want them golden and fragrant but not burnt. This deepens their flavor and adds a crunchy texture contrast on top of the soft cake. Watch closely; nuts can go from toasted to burnt quickly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Almonds are golden brown and smell nutty"
+        },
+        {
+            "step": 3,
+            "instruction": "In a mixing bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy. This aerates the mixture, helping the cake rise and creating a tender texture. Take your time here; rushed creaming can lead to a denser cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is pale, creamy, and smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Beat in the eggs one at a time, making sure each is fully incorporated before adding the next. This helps build structure and emulsify the batter properly. If you add eggs too quickly, the batter can curdle, affecting texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth and glossy"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the vanilla extract and maple syrup to the wet mixture, blending well. The maple syrup adds natural sweetness and moisture, complementing the rhubarb’s tartness. Be sure to mix evenly so the flavor distributes throughout the cake.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly mixed wet ingredients with a slight sheen"
+        },
+        {
+            "step": 6,
+            "instruction": "In a separate bowl, whisk together the all-purpose flour, almond flour, baking powder, and salt. This ensures the leavening agent and salt are evenly distributed, which is key for uniform rising and balanced flavor. Almond flour adds moisture and a subtle nuttiness to the crumb.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dry ingredients are well combined without lumps"
+        },
+        {
+            "step": 7,
+            "instruction": "Gently fold the dry ingredients into the wet mixture in two batches. Don’t overmix; just combine until no dry streaks remain. Overmixing develops gluten, which can make the cake tough instead of tender and crumbly.",
+            "timing": "4 minutes",
+            "doneness_cue": "Batter is smooth with no visible flour"
+        },
+        {
+            "step": 8,
+            "instruction": "Fold in the chopped rhubarb pieces carefully so they’re evenly distributed without breaking down too much. The rhubarb will release moisture while baking, adding a fresh tartness and juiciness. Handle gently to keep the texture intact.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rhubarb pieces are evenly spread throughout the batter"
+        },
+        {
+            "step": 9,
+            "instruction": "Pour the batter into the prepared cake pan and smooth the top with a spatula. Sprinkle the toasted almonds evenly over the surface. Bake for 40-45 minutes, or until a toothpick inserted in the center comes out clean. The almonds will toast further in the oven, adding crunch and flavor contrast.",
+            "timing": "40-45 minutes",
+            "doneness_cue": "Golden brown top with firm edges and clean toothpick test"
+        },
+        {
+            "step": 10,
+            "instruction": "Once baked, let the cake cool in the pan for 10-15 minutes before transferring to a wire rack. Drizzle with additional maple syrup while still warm for a glossy, sweet finish that seeps into the cake slightly. This final touch adds a cozy sweetness that balances the tart rhubarb perfectly.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake is warm but not hot, syrup is absorbed lightly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Rhubarb Almond Cake",
+        "content": "<p>This rhubarb almond cake thrives on the balance between tartness and sweetness, moisture and texture. The almond flour plays a crucial role by adding fat and protein, which tenderizes the crumb and keeps it moist without weighing it down. It also contributes a subtle nutty flavor that complements the rhubarb’s sharpness.</p><p>Toasting the almonds before baking activates their natural oils and intensifies their flavor, creating a crunchy topping that contrasts beautifully with the soft cake beneath. The Maillard reaction during toasting also adds complexity and depth to the overall taste.</p><p>The maple syrup serves two purposes: it sweetens the cake naturally and adds moisture, which works well with the rhubarb’s juiciness to keep the cake from drying out. Incorporating it into the batter and drizzling some on top after baking ensures a layered sweetness that isn’t cloying.</p><p>Finally, careful mixing techniques prevent gluten overdevelopment, preserving a tender crumb. Folding in the rhubarb gently keeps the pieces intact so they provide bursts of tart flavor without sogginess. Altogether, these elements create a cake that’s light, flavorful, and perfectly balanced.</p>",
+        "ingredient_notes": {
+            "almond flour": "Almond flour is key for moisture and a tender texture. Look for finely ground blanched almond flour for the smoothest crumb. It adds fat and protein that tenderize the cake, making it less dense than all-purpose flour alone. Avoid coarse almond meal, which can create a gritty texture.",
+            "rhubarb": "Choose firm, bright pink or red rhubarb stalks for the best flavor and color. The stalks should be crisp and not wilted. Rhubarb’s natural tartness brightens the cake and pairs well with sweet elements like maple syrup. Chop evenly to ensure consistent cooking and texture.",
+            "maple syrup": "Use pure maple syrup for authentic flavor and natural sweetness. It adds moisture and a subtle caramel note that balances the rhubarb’s tartness. Avoid imitation syrups which can taste artificial and lack depth. Drizzling maple syrup after baking enhances flavor and appearance.",
+            "unsalted butter": "Butter adds richness and moisture, helping to tenderize the crumb. Using unsalted butter allows you to control salt levels precisely. Make sure it’s softened to room temperature for easy creaming, which incorporates air for a lighter texture.",
+            "toasted sliced almonds": "Toasted almonds add crunch and a nutty aroma on top of the cake. Use sliced almonds for even toasting and a delicate texture. Toasting develops flavor through Maillard reactions but watch carefully to avoid burning, which imparts bitterness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always toast almonds just before using to maximize flavor.",
+            "reason": "Toasting nuts releases their natural oils and enhances their aroma and taste through Maillard reactions. Using freshly toasted almonds ensures maximum crunch and flavor contrast on your cake. If you toast nuts too far in advance, they can lose their crispness and go stale."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which tightens the crumb and makes the cake tough. Folding gently just until combined keeps the texture light and tender, which is especially important with almond flour to avoid a dense cake."
+        },
+        {
+            "tip": "Use room temperature butter and eggs for easier mixing and better texture.",
+            "reason": "Cold ingredients don’t blend well and can cause batter to curdle or mix unevenly. Room temperature butter creams smoothly with sugar, trapping air that helps the cake rise. Eggs at room temp also emulsify better, resulting in a uniform, smooth batter."
+        },
+        {
+            "tip": "Add maple syrup both in the batter and as a drizzle after baking.",
+            "reason": "Incorporating maple syrup into the batter adds moisture and sweetness throughout, while drizzling it warm on top adds a glossy finish and an extra layer of flavor. This dual approach ensures the sweetness complements rather than overwhelms the rhubarb."
+        },
+        {
+            "tip": "Let the cake cool slightly before removing from the pan to prevent breaking.",
+            "reason": "Cooling allows the cake to set and firm up, reducing the chance of it falling apart when you remove it from the pan. Removing it too soon while still hot can cause tears or crumbles, especially with a delicate almond crumb."
+        },
+        {
+            "tip": "Chop rhubarb into uniform pieces for even cooking and texture.",
+            "reason": "Uneven pieces can lead to some bits overcooked and mushy while others remain firm or undercooked. Consistent size means the rhubarb cooks evenly throughout the cake, providing balanced bursts of tartness in every bite."
+        },
+        {
+            "tip": "Use a toothpick test to check for doneness instead of relying solely on baking time.",
+            "reason": "Ovens vary, and batter thickness or moisture content can affect baking time. A toothpick inserted in the center should come out clean or with a few moist crumbs, indicating the cake is baked through without drying out."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the almond toasting step",
+            "why_it_happens": "Sometimes people want to save time or overlook its importance, assuming raw almonds will work fine.",
+            "fix": "Always toast the almonds in a dry pan until golden and fragrant. This step enhances flavor and texture, giving a pleasant crunch and nutty aroma that raw almonds can’t provide."
+        },
+        {
+            "mistake": "Overmixing the batter after adding dry ingredients",
+            "why_it_happens": "There’s often a rush to combine everything quickly, or a misunderstanding that mixing more is better.",
+            "fix": "Fold the dry ingredients gently just until combined to avoid developing gluten, which toughens the cake. Use a spatula and stop mixing as soon as no flour streaks remain."
+        },
+        {
+            "mistake": "Using rhubarb that’s too large or unevenly chopped",
+            "why_it_happens": "People might not realize the importance of uniform pieces or may use stalks that are too thick.",
+            "fix": "Slice rhubarb into roughly 1-inch pieces of similar size. This ensures even cooking and prevents some pieces from being mushy while others are undercooked."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "Sometimes it’s overlooked or assumed parchment alone is enough.",
+            "fix": "Grease the pan thoroughly with butter or oil and line with parchment if possible. This prevents sticking and helps the cake release cleanly without breaking."
+        },
+        {
+            "mistake": "Adding too much maple syrup, making the batter too wet",
+            "why_it_happens": "Trying to maximize sweetness without adjusting other liquids.",
+            "fix": "Stick to the recipe amount and remember the rhubarb adds moisture too. Excess liquid can cause the cake to be dense or not set properly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Rhubarb Almond Cake",
+            "description": "Swap the all-purpose flour for a gluten-free blend that includes xanthan gum. The almond flour already helps with moisture and texture, so this variation is perfect for gluten-sensitive folks. Expect a slightly denser crumb but the same delicious flavor.",
+            "technical_note": "Check your gluten-free flour’s absorption rate; you may need to adjust liquid slightly to keep batter consistency similar."
+        },
+        {
+            "name": "Add a Lemon Zest Twist",
+            "description": "Add the zest of one lemon to the batter for a bright citrus note that complements the rhubarb’s tartness. This adds freshness and a lovely aroma, making the cake feel even more spring-like and vibrant.",
+            "technical_note": "Fold the zest in with the wet ingredients to disperse the flavor evenly."
+        },
+        {
+            "name": "Rhubarb Almond Cake with Cream Cheese Glaze",
+            "description": "Top the cooled cake with a simple cream cheese glaze made from cream cheese, powdered sugar, and a splash of vanilla. This adds richness and a tangy sweetness that pairs beautifully with the rhubarb and almonds.",
+            "technical_note": "Apply the glaze only when the cake is completely cool to prevent melting."
+        },
+        {
+            "name": "Swap Maple Syrup for Honey",
+            "description": "Use honey instead of maple syrup both in the batter and for drizzling. Honey will add a floral sweetness and slightly different aroma, giving the cake a new flavor profile while maintaining moisture.",
+            "technical_note": "Honey is sweeter and thicker than maple syrup, so reduce the quantity slightly to avoid overpowering sweetness."
+        },
+        {
+            "name": "Add Spices like Cinnamon and Nutmeg",
+            "description": "Mix in 1/2 teaspoon cinnamon and a pinch of nutmeg to the dry ingredients for a warm, cozy flavor. This variation works great if you want to add some depth and make the cake feel like a comforting treat on cooler days.",
+            "technical_note": "Be careful not to add too much spice, which can overwhelm the delicate rhubarb flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake keeps well at room temperature for up to 2 days if covered tightly with plastic wrap or stored in an airtight container. Keep it away from direct sunlight or heat to prevent drying out.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The cake might firm up when cold, so bring it to room temperature before serving or warm slightly to restore softness and enhance flavors.",
+        "freezer": "Freeze the cooled cake wrapped tightly in plastic wrap and aluminum foil for up to 3 months. Thaw in the fridge overnight, then bring to room temperature before serving. Freezing can slightly dry the crumb, so warm gently before eating.",
+        "reheating": "Reheat slices in a microwave for 15-20 seconds or warm in a 300°F oven for 5-7 minutes. Add a light drizzle of maple syrup or a small pat of butter to refresh moisture and flavor. Avoid overheating, which can dry the cake out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated, covered tightly. Bring it to room temperature before baking. Alternatively, bake the cake a day early and store as above, then drizzle maple syrup just before serving for freshest taste."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen rhubarb instead of fresh?",
+            "answer": "Yes, but thaw and drain the rhubarb well before adding it to the batter to avoid excess moisture, which can make the cake soggy. Patting it dry helps maintain the right texture and prevents the cake from becoming too wet."
+        },
+        {
+            "question": "What can I substitute for almond flour if I have a nut allergy?",
+            "answer": "You can replace almond flour with more all-purpose flour or a gluten-free flour blend if needed. Keep in mind this will change the texture slightly, making it less moist and nutty, but the cake will still be delicious."
+        },
+        {
+            "question": "Why is my cake dense or dry sometimes?",
+            "answer": "Common causes include overmixing the batter, using cold butter or eggs, or inaccurate measuring of ingredients. Make sure to cream the butter and sugar well and fold the dry ingredients gently to keep the crumb tender."
+        },
+        {
+            "question": "Can I make this cake vegan?",
+            "answer": "To make it vegan, substitute eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use a plant-based butter alternative. Maple syrup is already vegan, so the flavor will remain close to original."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick in the center—if it comes out clean or with a few moist crumbs, the cake is done. Also, the edges should be lightly browned and start to pull away from the pan."
+        },
+        {
+            "question": "Can I add other fruits instead of rhubarb?",
+            "answer": "Yes, tart fruits like cranberries or sour cherries work well. Adjust sweetness if the fruit is less tart. Avoid very juicy fruits without draining as they can add too much moisture."
+        },
+        {
+            "question": "Is it necessary to use both brown and granulated sugar?",
+            "answer": "Using both adds depth of flavor and moisture. Brown sugar contributes a slight caramel note and helps keep the cake moist, while granulated sugar provides sweetness and structure."
+        },
+        {
+            "question": "Can I double the recipe for a larger cake?",
+            "answer": "You can double the ingredients but bake in a larger pan or two pans. Baking time may vary—start checking for doneness at the original time and adjust as needed."
+        }
+    ],
+    "conclusion": "Give this rhubarb almond cake a try and enjoy a fresh, flavorful slice that’s perfect for spring. I’d love to hear how yours turns out—don’t forget to share your baking stories!",
+    "seo": {
+        "primary_keyword": "rhubarb almond cake recipe",
+        "secondary_keywords": [
+            "spring fruit cake",
+            "maple drizzle cake",
+            "how to make rhubarb cake",
+            "best rhubarb almond cake recipe",
+            "easy rhubarb dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "almond flour baking tips",
+                "anchor": "almond-flour-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_1.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_1.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_2.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_2.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_3.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_3.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_8.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_4.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_6.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_7.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_5.webp",
+            "relativePath": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images/springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778844741_571",
+    "slug": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine",
+    "isOnline": true,
+    "createdAt": "2026-05-15T11:44:52+00:00",
+    "updatedAt": "2026-05-15T11:44:52+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "springtime-rhubarb-and-almond-cake-with-maple-drizzle-that-feels-like-sunshine/images"
+}

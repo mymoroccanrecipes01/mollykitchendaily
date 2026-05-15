@@ -1,0 +1,352 @@
+{
+    "title": "Bright and Airy Lemon Poppy Seed Cake with Tangy Blueberry Glaze",
+    "promptIMG": "Food photography: lemon poppy seed cake with blueberry glaze, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon poppy seed cake is light and fresh, with a delightful crunch from the poppy seeds and a tangy blueberry glaze that balances sweetness perfectly. It’s a lovely treat for spring brunch or a cozy afternoon tea.",
+    "hashtags": "#lemoncake #poppyseed #blueberryglaze #springbaking",
+    "board_name": "Spring Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Fresh Lemon Poppy Seed Cake with Blueberry Glaze You’ll Love!",
+            "description": "This cake is bursting with bright lemon flavor and a sweet-tart blueberry glaze that’s irresistible. Perfect for brunch or a sunny afternoon treat 🍋💙. Save this recipe and try it today! #lemonpoppyseed #blueberrycake #springdesserts #homemadebaking"
+        },
+        {
+            "title": "How to Make the Perfect Lemon Poppy Seed Cake with Blueberry Icing",
+            "description": "Learn the secret to a moist, airy lemon poppy seed cake topped with a tangy blueberry glaze. It’s simple, fresh, and a total crowd-pleaser 🍰✨. Discover now and impress your guests! #bakingtips #lemoncake #blueberryglaze #easyrecipes"
+        },
+        {
+            "title": "Springtime Delight: Lemon Poppy Seed Cake with Blueberry Drizzle",
+            "description": "Light, zesty, and bursting with flavor—this lemon poppy seed cake with blueberry drizzle is a must-try this season. Perfect for afternoon tea or brunch with friends 🌼🍋. Try it today and enjoy! #springbaking #lemoncake #blueberrydessert #poppyseedcake"
+        },
+        {
+            "title": "Tangy Blueberry Glaze on Soft Lemon Poppy Seed Cake—Yum!",
+            "description": "The tangy blueberry glaze takes this lemon poppy seed cake to the next level. Soft, moist, and just sweet enough for a perfect snack or dessert 💙🍋. Save this recipe to make soon! #lemonpoppyseedcake #blueberryglaze #dessertrecipes #bakinglove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "3 tablespoons poppy seeds",
+        "1/2 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "2 large eggs, room temperature",
+        "1/2 cup sour cream",
+        "1/4 cup fresh lemon juice",
+        "1 tablespoon lemon zest",
+        "1 teaspoon vanilla extract",
+        "For the blueberry glaze:",
+        "1/2 cup fresh blueberries",
+        "1/4 cup powdered sugar",
+        "1 tablespoon lemon juice"
+    ],
+    "yield": "One 9-inch loaf cake, 8 servings",
+    "introduction": "I first stumbled upon lemon poppy seed cake years ago at a friend's spring brunch, and I was instantly hooked. It’s just the kind of cake that feels light and uplifting, perfect for sunny days or catching up over tea. Over time, I tweaked the recipe to make it a little more moist and added a tangy blueberry glaze to complement the lemon’s brightness. The poppy seeds add a subtle crunch that you don’t always get with typical lemon cakes, which I think makes this version stand out. One trick I learned is to fold the sour cream gently into the batter—this keeps the crumb tender and soft without weighing the cake down. When you slice it, you’ll see a delicate crumb with little specks of poppy seeds, and the blueberry glaze adds just the right amount of sweet-tart finish. It’s become a favorite for weekend brunches or a cozy afternoon indulgence with a cup of tea. Honestly, I’ve had my fair share of dry lemon cakes, but this one nails the balance of moistness and flavor every time. I hope you’ll love it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch loaf pan. This ensures the cake won’t stick and bakes evenly. Greasing thoroughly and lightly flouring the pan will help the cake release cleanly once baked. Avoid using too much flour as it can create a crusty edge. Having the oven at the right temperature is key—too hot and the cake crusts before the inside cooks, too cool and it can be dense.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan feels evenly coated with a thin layer of butter and flour, no clumps; oven is fully preheated"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking powder, baking soda, salt, and poppy seeds. Sifting helps aerate the flour and remove lumps, which contributes to a lighter cake texture. The baking powder and soda work together to give the cake its rise. Mixing the poppy seeds evenly throughout ensures each bite has that signature crunch.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no clumps; poppy seeds are evenly distributed"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, cream the softened butter and sugar together until light and fluffy. This usually takes about 3-5 minutes with an electric mixer on medium speed. Creaming incorporates air into the batter, which helps the cake rise and gives it a tender crumb. Don't rush this step; if the mixture isn’t fluffy, the cake can turn out dense.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter and sugar mixture is pale, light, and fluffy when you lift the beaters"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, beating well after each addition. This helps to emulsify the mixture, preventing it from curdling and ensuring a smooth batter. Adding eggs slowly also helps trap air, contributing to a lighter texture. If you add them too quickly, the batter may separate or become lumpy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter looks smooth and shiny, with no visible streaks of egg"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the lemon zest and vanilla extract. These fresh ingredients enhance the cake’s flavor profile. The zest releases essential oils that give the cake its bright citrus aroma, while the vanilla balances the tartness with warmth. Stir gently to avoid deflating the batter.",
+            "timing": "2 minutes",
+            "doneness_cue": "Zest and vanilla are evenly incorporated, batter smells fragrant"
+        },
+        {
+            "step": 6,
+            "instruction": "Alternately add the dry ingredients and sour cream to the butter mixture, beginning and ending with the dry ingredients. Mix gently after each addition just until combined. This technique avoids overmixing, which can develop gluten and make the cake tough. The sour cream adds moisture and a slight tang that keeps the cake tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth and thick, with no pockets of flour or sour cream visible"
+        },
+        {
+            "step": 7,
+            "instruction": "Stir in the lemon juice last, folding it gently into the batter. Adding the lemon juice at the end maintains its fresh brightness and prevents the batter from curdling. The juice reacts slightly with the baking soda to create lift in the oven, so don’t skip or substitute without adjusting leavening.",
+            "timing": "1 minute",
+            "doneness_cue": "Lemon juice is evenly mixed, batter has a fresh citrus scent"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Make sure the batter is evenly spread to ensure uniform baking. Tap the pan gently on the counter to release any air bubbles that could cause holes or uneven texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter surface is smooth and level, no visible air pockets"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 40-45 minutes until a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early, or the cake may sink. The cake should be golden on top and spring back lightly when pressed. If it’s browning too fast, tent with foil.",
+            "timing": "40-45 minutes",
+            "doneness_cue": "Golden brown top, toothpick comes out clean, cake springs back when gently pressed"
+        },
+        {
+            "step": 10,
+            "instruction": "While the cake cools, prepare the blueberry glaze by simmering fresh blueberries with lemon juice until they burst and soften. Strain the mixture and whisk in powdered sugar until smooth. This glaze adds a beautiful tangy sweetness that complements the lemon perfectly. Let it cool slightly before drizzling.",
+            "timing": "10 minutes",
+            "doneness_cue": "Glaze is smooth, glossy, and pourable but not too runny"
+        },
+        {
+            "step": 11,
+            "instruction": "Once the cake is completely cool, drizzle the blueberry glaze over the top, letting it drip down the sides. This finishing touch adds a lovely pop of color and flavor. If you glaze while the cake is warm, it will soak in too much and lose its shine.",
+            "timing": "5 minutes",
+            "doneness_cue": "Glaze sets slightly on the cake surface, creating a shiny finish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Magic Behind This Lemon Poppy Seed Cake",
+        "content": "<p>This lemon poppy seed cake works because of the delicate balance between acidity, moisture, and texture. The sour cream plays a crucial role by adding moisture and a slight tang, which keeps the crumb tender without making it dense. It also helps the cake stay fresh longer. The poppy seeds add a subtle crunch and a nutty flavor that contrasts beautifully with the soft cake.</p><p>The combination of baking powder and baking soda ensures a proper rise. The baking soda reacts with the acidic lemon juice and sour cream to create carbon dioxide bubbles, which lighten the batter. Meanwhile, the baking powder provides a steady rise throughout baking. This two-leavening system is key to the cake’s airy texture.</p><p>The lemon zest releases essential oils that provide a bright, fresh aroma without adding extra moisture, which could weigh down the cake. Adding the lemon juice last preserves its freshness and its chemical reaction with the leaveners. The blueberry glaze is gently cooked to soften the berries and release their juice, then strained to create a smooth, glossy finish that balances the cake’s sweetness with tanginess.</p><p>Finally, proper mixing technique is essential. Creaming the butter and sugar incorporates air, folding in the sour cream gently prevents gluten development, and alternating dry and wet ingredients avoids overmixing. These steps create a soft, moist crumb and a delicate texture that make this cake so special.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality, unbleached all-purpose flour for this cake. It provides the right balance of protein for structure without making the cake tough. Sifting the flour before use helps aerate it and remove lumps, contributing to a lighter crumb. Avoid using cake flour alone, as it may make the cake too fragile.",
+            "poppy seeds": "Look for fresh poppy seeds that are plump and not dried out. They add a subtle crunch and a nutty flavor that elevates the cake. Toasting them lightly before use can enhance their aroma, but it’s optional. Store poppy seeds in an airtight container away from light to prevent rancidity.",
+            "sour cream": "Sour cream adds moisture and a slight tang that balances the sweetness and lemon flavor. Use full-fat sour cream for the best texture and richness. Low-fat or non-dairy substitutes can be used but may affect the cake’s tenderness and flavor depth.",
+            "lemon juice and zest": "Freshly grated lemon zest and freshly squeezed lemon juice are essential for vibrant flavor. The zest contains essential oils that give brightness without extra moisture. Bottled lemon juice lacks the same freshness and can alter the cake’s flavor and acidity, impacting rise and texture.",
+            "blueberries": "Use fresh, ripe blueberries for the glaze to ensure natural sweetness and vibrant color. Frozen berries can be used but may require longer cooking to break down. Straining the cooked berries creates a smooth glaze, preventing seeds or skins from affecting texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your butter is softened but not melted before creaming.",
+            "reason": "Properly softened butter traps air bubbles when creamed with sugar, which is essential for a light, fluffy cake. If the butter is too warm or melted, it won’t hold air, resulting in a dense texture. Room temperature butter should be soft enough to leave an indentation when pressed but still hold its shape."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which can make the cake tough and dense. Mixing just until the flour disappears ensures a tender crumb. Folding in ingredients gently also preserves the air incorporated during creaming, helping the cake rise properly."
+        },
+        {
+            "tip": "Use fresh lemon zest instead of bottled for the best flavor.",
+            "reason": "Lemon zest contains essential oils that provide a bright, fresh aroma and flavor that bottled lemon juice or extracts can’t replicate. Fresh zest adds complexity and brightness to the cake without extra moisture, which helps maintain the perfect texture."
+        },
+        {
+            "tip": "Let the cake cool completely before glazing.",
+            "reason": "If the cake is warm when you add the blueberry glaze, the glaze will soak in and lose its shine and texture. Cooling allows the glaze to set on the surface and creates a beautiful, glossy finish that enhances both appearance and flavor."
+        },
+        {
+            "tip": "Tap the pan gently before baking to release air bubbles.",
+            "reason": "Air bubbles trapped in the batter can cause holes or uneven texture in the cake. Tapping the pan helps them rise to the surface and pop, resulting in a more even crumb and smoother top."
+        },
+        {
+            "tip": "Use room temperature eggs for better batter consistency.",
+            "reason": "Room temperature eggs blend more evenly with the butter and sugar, promoting better emulsification. Cold eggs can cause the batter to curdle or separate, negatively affecting the texture and rise of the cake."
+        },
+        {
+            "tip": "Strain the blueberry glaze after cooking for a smooth finish.",
+            "reason": "Straining removes blueberry skins and seeds, yielding a smooth, glossy glaze that looks professional and melts beautifully over the cake. It also prevents gritty texture and uneven color."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter for creaming",
+            "why_it_happens": "Many home cooks rush and put butter straight from the fridge into the mixer, thinking it will be easier to handle.",
+            "fix": "Always let butter sit at room temperature for 30-60 minutes until soft but not melted. Soft butter traps air when creamed with sugar, essential for a fluffy cake. Cold butter will not aerate properly, resulting in dense texture."
+        },
+        {
+            "mistake": "Overmixing after adding dry ingredients",
+            "why_it_happens": "It’s easy to keep mixing to get rid of lumps, but this develops gluten in the flour.",
+            "fix": "Mix just until the flour disappears. Use gentle folding motions rather than vigorous stirring to preserve the batter’s lightness and avoid toughness."
+        },
+        {
+            "mistake": "Adding lemon juice too early",
+            "why_it_happens": "Some recipes suggest mixing all liquids together at once, but lemon juice can react too soon.",
+            "fix": "Add lemon juice last, folding it in gently to preserve its fresh flavor and maximize its reaction with baking soda for better rise."
+        },
+        {
+            "mistake": "Not preheating the oven fully",
+            "why_it_happens": "Sometimes the oven is turned on just before baking, leading to uneven cooking.",
+            "fix": "Preheat your oven for at least 15 minutes before baking. This ensures even temperature, proper rise, and a golden crust without overbaking."
+        },
+        {
+            "mistake": "Glazing the cake while still warm",
+            "why_it_happens": "Impatience to finish the cake leads to glazing too soon.",
+            "fix": "Let the cake cool completely on a wire rack before adding the glaze. This prevents the glaze from soaking in and losing its shine."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Almond Lemon Poppy Seed Cake",
+            "description": "Swap half the all-purpose flour for almond flour and add 1/2 teaspoon almond extract. This gives the cake a nutty richness and moist crumb, complementing the lemon flavor beautifully. Expect a slightly denser but more flavorful cake.",
+            "technical_note": "Almond flour adds moisture and fat, so reduce butter by 1 tablespoon to balance texture."
+        },
+        {
+            "name": "Gluten-Free Lemon Poppy Seed Cake",
+            "description": "Use a gluten-free baking blend in place of regular flour and add 1/2 teaspoon xanthan gum if not included. This variation keeps the cake tender and light while accommodating gluten sensitivities. The texture may be slightly more crumbly but just as tasty.",
+            "technical_note": "Gluten-free batters benefit from gentle folding and avoiding overmixing to prevent toughness."
+        },
+        {
+            "name": "Vegan Lemon Poppy Seed Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg), sour cream with coconut yogurt, and butter with vegan margarine. This version is dairy- and egg-free but still moist and flavorful, perfect for plant-based diets.",
+            "technical_note": "Vegan substitutes may require slightly longer baking times; watch for doneness with a toothpick."
+        },
+        {
+            "name": "Orange Poppy Seed Cake with Blueberry Glaze",
+            "description": "Swap lemon zest and juice for fresh orange zest and juice for a sweeter, fruitier twist. The blueberry glaze pairs well with the orange flavor, making this a lovely alternative for citrus lovers.",
+            "technical_note": "Orange juice is less acidic than lemon, so add 1/4 teaspoon extra baking powder for proper rise."
+        },
+        {
+            "name": "Lemon Poppy Seed Bundt Cake",
+            "description": "Bake the batter in a bundt pan for a dramatic presentation. The bundt shape creates more crust, adding pleasant texture contrast. Glaze the cake generously for a stunning finish perfect for special occasions.",
+            "technical_note": "Increase baking time by 10-15 minutes and test doneness with a skewer."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "48g",
+        "fat_grams": "14g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can safely sit at room temperature for up to 2 days if covered loosely with a cake dome or plastic wrap. Avoid direct sunlight or heat sources to prevent drying out.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The cake may firm up slightly when chilled; bring to room temperature or warm gently before serving to restore softness.",
+        "freezer": "Wrap tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the refrigerator and warm briefly in the oven to refresh texture.",
+        "reheating": "Warm slices gently in a 300°F oven for 5-7 minutes or microwave for 15-20 seconds. Adding a splash of lemon juice or a bit of butter when reheating can revive moisture and flavor.",
+        "make_ahead_strategy": "You can bake the cake a day ahead and keep it wrapped at room temperature. Prepare the blueberry glaze separately and drizzle just before serving for the freshest look and taste."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries for the glaze?",
+            "answer": "Yes, frozen blueberries work well for the glaze. Just thaw them first and simmer a bit longer to release their juices fully. Strain the mixture as usual for a smooth finish. The flavor will be just as vibrant!"
+        },
+        {
+            "question": "How do I know when the cake is fully baked?",
+            "answer": "Insert a toothpick or skewer into the center. If it comes out clean or with a few moist crumbs, the cake is done. The top should be golden and spring back lightly when pressed. If unsure, bake a few more minutes and check again."
+        },
+        {
+            "question": "Can I make this cake dairy-free?",
+            "answer": "Absolutely! Use vegan butter or margarine, replace sour cream with coconut yogurt, and use flax eggs in place of regular eggs. The texture will be slightly different but still moist and tasty."
+        },
+        {
+            "question": "Why does the cake sometimes turn out dense?",
+            "answer": "Density usually comes from overmixing after adding flour, using cold butter, or inaccurate measuring of leavening agents. Make sure to cream butter and sugar properly, fold ingredients gently, and measure carefully."
+        },
+        {
+            "question": "Can I double this recipe for a larger cake?",
+            "answer": "Yes, doubling works well. Use a larger pan or two loaf pans and adjust baking time accordingly—usually 10-15 minutes longer. Check doneness with a toothpick regularly."
+        },
+        {
+            "question": "What’s the best way to zest a lemon?",
+            "answer": "Use a microplane zester or fine grater to remove just the yellow outer layer, avoiding the bitter white pith underneath. Fresh zest adds essential oils that brighten the cake’s flavor."
+        },
+        {
+            "question": "How should I store leftovers?",
+            "answer": "Wrap leftover cake tightly in plastic wrap or store in an airtight container at room temperature for 2 days or refrigerated up to 5 days. For longer storage, freeze as described."
+        },
+        {
+            "question": "Can I make cupcakes instead of a loaf cake?",
+            "answer": "Definitely! Divide the batter into lined muffin cups and bake at 350°F for about 20-25 minutes. Keep an eye on them; they’ll bake faster than a loaf. Glaze or frost once cooled."
+        }
+    ],
+    "conclusion": "I hope you give this lemon poppy seed cake with blueberry glaze a try—it’s one of those recipes that never fails to brighten my day. Let me know how it turns out and share your favorite ways to enjoy it!",
+    "seo": {
+        "primary_keyword": "lemon poppy seed cake recipe",
+        "secondary_keywords": [
+            "blueberry glaze cake",
+            "easy lemon cake",
+            "how to make lemon poppy seed cake",
+            "best lemon poppy seed cake recipe",
+            "spring dessert recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "how to zest citrus fruits",
+                "anchor": "how-to-zest-citrus-fruits"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images/light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1778844526_932",
+    "slug": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-05-15T11:44:52+00:00",
+    "updatedAt": "2026-05-15T11:44:52+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "light-and-fluffy-lemon-poppy-seed-cake-with-blueberry-glaze-that-melts-in-your-mouth/images"
+}
