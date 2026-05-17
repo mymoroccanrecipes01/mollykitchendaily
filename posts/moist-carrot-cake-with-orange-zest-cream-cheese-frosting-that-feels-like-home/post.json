@@ -1,0 +1,355 @@
+{
+    "title": "Moist Carrot Cake with Zesty Orange Cream Cheese Frosting",
+    "promptIMG": "Food photography: Moist Carrot Cake with Zesty Orange Cream Cheese Frosting, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This carrot cake is super moist and tender, thanks to freshly grated carrots and a hint of warm spices. The cream cheese frosting gets a fresh twist with bright orange zest that really lifts the whole thing. Perfect for birthdays or just a cozy afternoon treat!",
+    "hashtags": "#carrotcake #homemadebaking #creamcheesefrosting",
+    "board_name": "Easy Cake Recipes",
+    "pin_variations": [
+        {
+            "title": "Irresistibly Moist Carrot Cake with Orange Zest Frosting",
+            "description": "Looking for a carrot cake that’s bursting with flavor and super moist? This recipe pairs classic spices with a fresh orange cream cheese frosting that’s simply irresistible. Save this for your next celebration! 🥕🍊 #carrotcake #dessertlover #bakingfun"
+        },
+        {
+            "title": "Brighten Your Day with This Orange Zest Carrot Cake",
+            "description": "Nothing beats a slice of carrot cake with a zesty twist! The orange-infused frosting adds a fresh pop to the moist, tender crumb. Try it today and treat yourself to something special. 🍰✨ #homemadecakes #carrotcake #sweettooth"
+        },
+        {
+            "title": "Classic Carrot Cake Made Extra Special with Orange Frosting",
+            "description": "This carrot cake recipe is a family favorite—moist, tender, and perfectly spiced. The secret? Cream cheese frosting with fresh orange zest that brightens every bite. Discover this cozy treat now! 🥕💛 #carrotcakerecipe #bakinglove #desserttime"
+        },
+        {
+            "title": "Easy Moist Carrot Cake with Fresh Orange Zest Frosting",
+            "description": "Whip up this easy carrot cake that stays moist and tender, plus a cream cheese frosting with a zingy orange twist. It’s the perfect balance of sweet and citrusy. Save this recipe for your next bake! 🍊🍰 #easybaking #carrotcake #dessertideas"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 1/2 teaspoons ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "4 large eggs, room temperature",
+        "1 cup granulated sugar",
+        "1/2 cup packed brown sugar",
+        "1 cup vegetable oil",
+        "2 cups finely grated carrots (about 4 medium carrots)",
+        "1/2 cup crushed pineapple, drained",
+        "1/2 cup chopped walnuts (optional)",
+        "For the frosting:",
+        "8 ounces cream cheese, softened",
+        "1/2 cup unsalted butter, softened",
+        "3 cups powdered sugar, sifted",
+        "Zest of 1 large orange",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "One 9-inch two-layer cake, approximately 8 servings",
+    "introduction": "I first made this carrot cake on a whim after finding some extra carrots in my fridge and wanting something cozy for a chilly afternoon. I’ve always loved carrot cake’s moist texture and warm spices, but I wanted to add a little brightness to the usual cream cheese frosting. Adding fresh orange zest to the frosting was a game-changer — it cuts through the richness and adds a fresh, citrusy note that makes every bite pop. Over the years, I’ve tweaked the recipe to balance the sweetness so it’s not too heavy, and I always include crushed pineapple for extra moisture and a subtle tang. The walnuts add a nice crunch but are totally optional if you’re not a fan. What I love about this cake is how it’s tender and not too dense, with just the right spice and a frosting that’s creamy but fresh. It’s perfect for celebrations or just a weekend treat with a cup of tea. I remember the first time I served it to my family — everyone asked for seconds, which is always the best compliment in my book. If you want a carrot cake that feels classic but with a little twist, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease two 9-inch round cake pans. Lightly flour them or line with parchment paper to prevent sticking. This prep ensures your cakes come out cleanly and maintain their shape. A common mistake is not preparing pans well enough, which can cause the cake to break when removing.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pans are fully greased and floured or lined, ready to hold the batter without sticking."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and nutmeg. Sifting or whisking the dry ingredients together distributes the leavening and spices evenly, which helps the cake rise uniformly and prevents clumps of baking soda or spices in the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly combined with no lumps or streaks."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the eggs with both sugars until pale and slightly fluffy, about 3-4 minutes. This aeration helps create a lighter crumb in the finished cake. Avoid rushing this step; under-beaten eggs can lead to a denser cake.",
+            "timing": "4 minutes",
+            "doneness_cue": "Egg and sugar mixture is lighter in color and has increased slightly in volume."
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly pour in the vegetable oil while continuing to beat the eggs and sugar mixture. This gradual addition helps emulsify the oil with the eggs, creating a smooth batter that traps air for moistness and tenderness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter looks smooth and glossy with no visible oil separation."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold the dry ingredients gently into the wet mixture in batches, mixing just until combined. Overmixing can develop gluten and make the cake tough, so it’s important to stop as soon as no flour streaks remain.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth with no visible flour, but not overly mixed or glossy."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the grated carrots, crushed pineapple (drained), and walnuts if using. These add moisture, texture, and subtle sweetness. Make sure the pineapple is well drained to avoid a soggy cake.",
+            "timing": "2 minutes",
+            "doneness_cue": "Carrots and pineapple are evenly distributed without overmixing the batter."
+        },
+        {
+            "step": 7,
+            "instruction": "Divide the batter evenly between the prepared pans and smooth the tops with a spatula. Even layers ensure the cake bakes evenly and stacks nicely for frosting.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is level and evenly spread in each pan."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 35-40 minutes or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Oven times vary, so start checking at 35 minutes to avoid overbaking, which dries out the cake.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Cake springs back lightly when touched and toothpick comes out clean."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cakes cool in the pans for 10 minutes, then turn out onto wire racks to cool completely before frosting. Cooling prevents the frosting from melting and keeps the layers intact when assembling.",
+            "timing": "1 hour",
+            "doneness_cue": "Cakes are completely cool to the touch and firm enough to handle without breaking."
+        },
+        {
+            "step": 10,
+            "instruction": "For the frosting, beat the softened cream cheese and butter together until smooth and creamy. Gradually add the powdered sugar, orange zest, and vanilla extract, beating well after each addition. The orange zest adds a fresh citrus note that brightens the rich cream cheese, balancing the sweetness perfectly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Frosting is smooth, fluffy, and evenly mixed with visible orange zest flecks."
+        },
+        {
+            "step": 11,
+            "instruction": "Spread a generous layer of frosting on one cake layer, then place the second layer on top. Use the remaining frosting to cover the sides and top evenly. Use a spatula or knife to create soft swirls for a homemade look. Chill for 30 minutes if the frosting is too soft to spread easily.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake is fully frosted with a smooth, even layer and no crumbs showing."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Carrot Cake Stands Out",
+        "content": "<p>The success of this carrot cake lies in the balance of moisture, texture, and flavor. The combination of grated carrots and crushed pineapple adds natural moisture, keeping the crumb tender and preventing dryness common in many carrot cakes. The pineapple also introduces a subtle tang that complements the spices and sweetness.</p><p>Spices like cinnamon and nutmeg are evenly distributed by sifting them with the flour and leavening agents, ensuring every bite has a consistent warm flavor. The use of both baking powder and baking soda provides a reliable rise: baking powder gives lift while baking soda neutralizes the acidity from the pineapple, preventing a dense or gummy texture.</p><p>In the frosting, the addition of fresh orange zest is a clever twist. The zest contains essential oils that add a bright, citrus aroma and flavor, which cuts through the richness of the cream cheese and butter. This contrast prevents the frosting from becoming overly sweet or heavy, making the entire cake feel lighter and more refreshing.</p><p>Finally, the technique of beating the eggs and sugars until fluffy incorporates air that helps the cake rise and gives it a delicate crumb. Folding in the dry ingredients gently avoids overworking the gluten, which would make the cake tough. These precise methods combine to create a carrot cake that’s moist, tender, and bursting with balanced flavors.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a fresh, unbleached all-purpose flour for the best texture. It provides the necessary gluten to give the cake structure but not so much that it becomes tough. Sifting or whisking the flour with leavening agents helps incorporate air and ensures even rising.",
+            "grated carrots": "Use fresh, finely grated carrots rather than pre-shredded to retain moisture and texture. Fresh carrots add natural sweetness and moisture, which keeps the cake tender. Avoid large chunks which can affect baking consistency.",
+            "crushed pineapple": "Choose pineapple packed in juice, not syrup, and drain it well to avoid excess liquid that can make the cake soggy. The pineapple adds natural acidity which reacts with baking soda to help the cake rise and adds a subtle tangy flavor.",
+            "cream cheese": "Use full-fat cream cheese at room temperature for the smoothest, creamiest frosting. Cold cream cheese can cause lumps when mixing. The fat content balances the acidity and sweetness, giving the frosting a rich texture.",
+            "orange zest": "Freshly grated orange zest is key — it contains essential oils that add bright citrus flavor and aroma. Avoid the white pith, which is bitter. Zest adds a fresh contrast that lifts the richness of the frosting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Grate carrots finely for even moisture distribution.",
+            "reason": "Finely grated carrots release moisture more evenly throughout the batter, helping the cake stay tender without soggy pockets. Coarser pieces might bake unevenly and create dry spots."
+        },
+        {
+            "tip": "Drain pineapple thoroughly before adding.",
+            "reason": "Excess juice from pineapple can make the batter too wet, leading to a dense or underbaked center. Draining ensures the right moisture balance and proper rise."
+        },
+        {
+            "tip": "Beat eggs and sugars until pale and fluffy.",
+            "reason": "This step incorporates air that helps the cake rise and gives it a lighter crumb. Skipping or rushing this makes the cake denser and less tender."
+        },
+        {
+            "tip": "Fold dry ingredients gently to avoid overmixing.",
+            "reason": "Overmixing develops gluten, resulting in a tough cake. Gentle folding keeps the crumb soft and tender."
+        },
+        {
+            "tip": "Use room temperature ingredients for smooth batter and frosting.",
+            "reason": "Cold ingredients don’t combine well, which can lead to lumps in batter or frosting. Room temperature items emulsify better, creating a creamier texture."
+        },
+        {
+            "tip": "Chill the cake briefly if frosting is too soft.",
+            "reason": "Chilling firms up the frosting, making it easier to spread evenly without tearing the cake layers."
+        },
+        {
+            "tip": "Add orange zest last when making frosting.",
+            "reason": "Adding zest at the end preserves its fresh aroma and prevents it from being lost during mixing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many people try to mix until perfectly smooth, assuming it will improve texture. This overdevelops gluten, making the cake tough.",
+            "fix": "Mix just until the flour disappears and no dry streaks remain. Folding gently preserves a tender crumb and avoids toughness."
+        },
+        {
+            "mistake": "Not draining pineapple well enough",
+            "why_it_happens": "It's easy to skip draining to save time, but the extra juice alters batter moisture.",
+            "fix": "Drain pineapple thoroughly using a fine sieve or paper towels to remove excess liquid and keep the cake from being soggy."
+        },
+        {
+            "mistake": "Using cold cream cheese for frosting",
+            "why_it_happens": "Some try frosting straight from the fridge to speed up the process, unaware it causes lumps.",
+            "fix": "Let cream cheese come to room temperature before beating to achieve a smooth, creamy frosting."
+        },
+        {
+            "mistake": "Skipping the orange zest in the frosting",
+            "why_it_happens": "Some might omit it thinking it’s optional or won’t affect flavor much.",
+            "fix": "Don’t skip the zest — it adds brightness that balances the cream cheese’s richness and makes the frosting special."
+        },
+        {
+            "mistake": "Not testing cake doneness properly",
+            "why_it_happens": "Relying solely on baking time can lead to under- or overbaking due to oven differences.",
+            "fix": "Use a toothpick inserted in the center; it should come out clean or with a few moist crumbs, never wet batter."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Carrot Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg) and use a plant-based cream cheese for frosting. The texture will be slightly denser but still moist and flavorful with the same spice and orange zest brightness.",
+            "technical_note": "Baking time may increase by 5-7 minutes due to denser batter; test doneness carefully."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Swap all-purpose flour with a 1-to-1 gluten-free baking flour blend. Add a teaspoon of xanthan gum if your blend doesn’t contain it to help with structure. The cake will be just as moist but may be a bit more crumbly.",
+            "technical_note": "Use a gluten-free blend with baking powder included for best rise."
+        },
+        {
+            "name": "Spiced Up with Ginger and Cloves",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon ground cloves to the dry spices for a deeper warm spice profile. This adds complexity and pairs beautifully with the orange zest frosting.",
+            "technical_note": "Be cautious not to overpower the cake; start with small amounts and adjust to taste."
+        },
+        {
+            "name": "Pineapple-Free Carrot Cake",
+            "description": "Omit the pineapple and replace with 1/4 cup applesauce for moisture. The cake will be slightly less tangy but still tender and sweet with the orange frosting balancing the flavors.",
+            "technical_note": "Increase baking soda by 1/4 teaspoon to compensate for lost acidity."
+        },
+        {
+            "name": "Nut-Free Carrot Cake",
+            "description": "Simply skip the walnuts to make this recipe nut-free. You can add toasted coconut flakes or raisins for texture instead, giving a different but equally enjoyable bite.",
+            "technical_note": "No change in baking time needed; just omit nuts."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the carrot cake covered loosely with a cake dome or plastic wrap at room temperature for up to 2 days. This keeps the cake moist and the frosting fresh. Avoid direct sunlight or heat to prevent frosting from melting.",
+        "refrigerator": "Keep the cake in an airtight container or covered tightly in the fridge for up to 5 days. The frosting firms up when chilled, which some prefer, but the cake crumb might feel slightly denser. Bring to room temperature before serving for best texture.",
+        "freezer": "Wrap the cake tightly in plastic wrap, then aluminum foil, and freeze for up to 3 months. To thaw, move to the fridge overnight, then bring to room temperature before serving. This preserves moisture and flavor well.",
+        "reheating": "If desired, warm individual slices gently in the microwave for 10-15 seconds to soften the frosting and cake. Avoid overheating, which can melt frosting and dry the cake. No need to reheat the whole cake.",
+        "make_ahead_strategy": "You can bake the cake layers up to 2 days in advance and store wrapped at room temperature or refrigerated. Make the frosting separately and assemble the day you plan to serve to keep it fresh and fluffy."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen grated carrots for this recipe?",
+            "answer": "Frozen grated carrots can be used if fully thawed and squeezed dry to remove excess moisture. Too much water from frozen carrots can make the batter too wet and affect the cake’s texture, so be sure to drain them well before adding."
+        },
+        {
+            "question": "What’s the best way to zest an orange?",
+            "answer": "Use a microplane or fine grater to zest the orange, avoiding the white pith underneath which is bitter. Only zest the colored outer skin to get the fragrant oils that add bright citrus flavor to the frosting."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes! Substitute the all-purpose flour with a gluten-free baking blend that includes xanthan gum. This helps maintain structure. Baking times may vary slightly, so check doneness carefully."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with a few moist crumbs but no wet batter. The cake should spring back lightly when touched. Avoid overbaking to keep it moist."
+        },
+        {
+            "question": "Can I substitute the walnuts with other nuts or omit them?",
+            "answer": "Yes, you can swap walnuts for pecans or almonds, or omit nuts entirely if preferred. The texture will be less crunchy but still delicious. Adding coconut flakes or raisins is a nice nut-free alternative."
+        },
+        {
+            "question": "Why does the frosting sometimes get too runny?",
+            "answer": "Runny frosting usually means the cream cheese or butter was too warm or the powdered sugar was added too quickly. Chill the frosting briefly and add sugar gradually for a thicker, spreadable consistency."
+        },
+        {
+            "question": "Can I make this cake ahead for a party?",
+            "answer": "Absolutely! Bake the layers and keep them wrapped at room temperature or refrigerated for up to 2 days. Prepare the frosting separately and assemble the cake the day of serving for best freshness."
+        },
+        {
+            "question": "What if I don’t have crushed pineapple?",
+            "answer": "You can substitute with an equal amount of unsweetened applesauce for moisture, though the subtle tang from pineapple will be missing. Add a little extra baking soda (about 1/4 teaspoon) to balance acidity."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this carrot cake as much as my family does. Don’t forget to let me know how it turns out and share your favorite twists!",
+    "seo": {
+        "primary_keyword": "carrot cake with orange frosting",
+        "secondary_keywords": [
+            "moist carrot cake recipe",
+            "orange cream cheese frosting",
+            "how to make carrot cake",
+            "best carrot cake recipe",
+            "easy carrot cake"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make cream cheese frosting",
+                "anchor": "cream-cheese-frosting-guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_1.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_1.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_2.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_2.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_3.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_3.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "relativePath": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images/moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779059852_996",
+    "slug": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home",
+    "isOnline": true,
+    "createdAt": "2026-05-17T23:32:21+00:00",
+    "updatedAt": "2026-05-17T23:32:21+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "moist-carrot-cake-with-orange-zest-cream-cheese-frosting-that-feels-like-home/images"
+}

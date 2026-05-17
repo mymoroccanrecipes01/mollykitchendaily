@@ -1,0 +1,335 @@
+{
+    "title": "Fudgy Avocado Brownies with Raspberry Swirl for a Cozy Treat",
+    "promptIMG": "Food photography: Fudgy Avocado Brownies with Raspberry Swirl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies swap butter for ripe avocado, giving them a creamy, fudgy texture with rich dark chocolate flavor. The raspberry swirl adds a fresh tang that balances the sweetness. Perfect for weekend baking or sharing with friends!",
+    "hashtags": "#avocadobrownies #fudgydessert #raspberryswirl",
+    "board_name": "Easy Chocolate Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Indulgent Avocado Brownies with a Raspberry Twist You Must Try!",
+            "description": "These brownies are so fudgy and creamy thanks to avocado, plus the raspberry swirl gives a bright zing. Save this recipe for your next cozy night in! 🍫🍓 #AvocadoDessert #BrownieRecipe #SweetTreats"
+        },
+        {
+            "title": "How to Make Perfectly Fudgy Brownies with Raspberry Swirl",
+            "description": "Discover the secret to rich, moist brownies using avocado instead of butter. The raspberry swirl adds a fresh pop of flavor. Try it today and impress your friends! 🍫❤️ #FudgyBrownies #RaspberryDessert #BakingTips"
+        },
+        {
+            "title": "Creamy Avocado Brownies with a Burst of Raspberry Flavor",
+            "description": "Looking for a healthier twist on brownies? These avocado brownies with raspberry swirl are luscious and satisfying. Give them a go this weekend! 🍓🍫 #HealthyDesserts #AvocadoBaking #ChocolateLovers"
+        },
+        {
+            "title": "Raspberry Swirled Avocado Brownies That Everyone Will Love",
+            "description": "Fudgy, rich, and naturally creamy thanks to avocado, plus a tangy raspberry swirl to brighten every bite. Save this recipe and bake it soon! 🍫✨ #BrownieRecipe #AvocadoDessert #RaspberrySwirl"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup ripe avocado, mashed",
+        "3/4 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup all-purpose flour",
+        "1/3 cup unsweetened cocoa powder",
+        "1/4 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup dark chocolate chips",
+        "1/2 cup fresh raspberries",
+        "2 tablespoons raspberry jam"
+    ],
+    "yield": "8 brownies",
+    "introduction": "I stumbled upon this avocado brownie recipe a few years ago when I wanted to bake something indulgent but a little healthier. At first, I was skeptical about using avocado instead of butter, but it adds this incredible creamy texture that’s hard to beat. Plus, it keeps the brownies moist for days. What really makes these stand out is the raspberry swirl—a little tangy brightness that cuts through the rich chocolate and balances the sweetness perfectly. I’ve tried countless brownie recipes, but this one feels special because it’s both fudgy and fresh. The trick I learned is to use really ripe avocados; they blend better and give a silky smooth batter. Also, gently folding in the raspberry swirl right before baking keeps the flavor distinct without overpowering the chocolate. When these come out of the oven, the edges are slightly crisp while the center stays gooey—exactly how I like my brownies. They’re perfect for weekend treats or sharing with friends when you want to impress without fussing over complicated ingredients.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line an 8x8-inch baking pan with parchment paper or grease it lightly. This ensures your brownies don’t stick and come out cleanly. Getting the oven temperature right is crucial for even baking and to achieve that fudgy texture without drying out the edges.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to 350°F and pan prepared with parchment or grease"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, mash the ripe avocado with a fork or blend it until smooth. The avocado should be very ripe to achieve a creamy texture without lumps. This step replaces butter and adds healthy fats and moisture, which are key to the fudgy consistency.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, lump-free avocado mash with creamy texture"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the granulated sugar to the mashed avocado and whisk well until combined and slightly fluffy. Then, beat in the eggs one at a time, followed by the vanilla extract. Incorporating the eggs gradually helps create a stable batter and ensures the brownies rise just enough without becoming cakey.",
+            "timing": "5 minutes",
+            "doneness_cue": "Homogeneous, glossy batter with no streaks of sugar or egg whites"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, sift together the all-purpose flour, cocoa powder, baking powder, and salt. Sifting helps remove lumps and aerates the dry ingredients, which is important for an even crumb and smooth texture in the brownies.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly mixed, fine dry ingredients with no clumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Gently fold the dry ingredients into the wet avocado mixture using a spatula. Avoid overmixing to prevent the brownies from becoming tough. Stop once all the flour disappears and the batter is smooth and thick but still fudgy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, thick batter with no visible flour streaks"
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the dark chocolate chips evenly throughout the batter. These melt slightly during baking, adding pockets of gooey chocolate that complement the creamy avocado base perfectly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips distributed evenly in batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared baking pan and smooth the surface gently. This helps create an even bake and a neat brownie shape.",
+            "timing": "2 minutes",
+            "doneness_cue": "Even, smooth batter surface in the pan"
+        },
+        {
+            "step": 8,
+            "instruction": "In a small bowl, mash the fresh raspberries and mix with the raspberry jam. Drop spoonfuls of this mixture onto the brownie batter and use a knife or skewer to swirl it gently through. The goal is to create beautiful streaks without fully blending it in, so you get bursts of tart raspberry flavor in each bite.",
+            "timing": "5 minutes",
+            "doneness_cue": "Visible raspberry swirl patterns on batter surface"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the brownies in the preheated oven for 25-30 minutes. Check at 25 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but not wet batter. Overbaking will dry out the brownies, so keep a close eye towards the end.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges set and slightly pulling away from pan, toothpick with moist crumbs"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Fudgy Avocado Brownies",
+        "content": "<p>Using avocado instead of butter in brownies might sound unusual, but it works wonders for texture and moisture. Avocados are rich in healthy fats and have a creamy consistency that mimics butter’s fat content, which is crucial for that fudgy, moist crumb. Unlike butter, avocado doesn’t solidify as much when cooled, so these brownies stay soft and luscious for longer. The natural oils in avocado also help bind the ingredients without weighing the batter down.</p><p>The cocoa powder plays a significant role too. It not only provides that deep chocolate flavor but also absorbs moisture, balancing the wetness from the avocado. Using unsweetened cocoa powder ensures the chocolate intensity shines without extra sugar, which helps keep the sweetness in check. The baking powder is added in a small amount to provide just enough lift so the brownies aren’t too dense or gummy.</p><p>The raspberry swirl is more than a pretty touch; it adds acidity that cuts through the richness of the chocolate and avocado. This contrast brightens the flavor profile and prevents the brownies from feeling overly heavy or cloying. Fresh raspberries combined with a bit of jam create a vibrant flavor and a slightly jammy texture that pairs beautifully with the fudgy base.</p><p>Finally, gently folding the ingredients without overmixing is key to achieving the right texture. Overmixing develops gluten in the flour, which can make brownies tough instead of tender. The step-by-step folding technique ensures the batter stays aerated and smooth, resulting in a perfect balance between fudgy and soft.</p>",
+        "ingredient_notes": {
+            "ripe avocado": "Choose avocados that are soft to the touch but not mushy or brown inside. The ripeness ensures the avocado blends smoothly into the batter, providing moisture and a creamy texture without lumps. Using underripe avocados can result in a gritty texture and less flavor. If you can’t find ripe avocados, you can ripen them at home by placing them in a paper bag with an apple or banana for a day or two.",
+            "unsweetened cocoa powder": "Opt for natural unsweetened cocoa powder for a strong, rich chocolate flavor. Dutch-processed cocoa can be used but will alter the acidity and may affect the rising of the batter. Cocoa powder absorbs moisture and intensifies chocolate notes without adding fat or sugar. Sifting it before adding to the batter removes lumps and ensures an even texture.",
+            "dark chocolate chips": "Use good quality dark chocolate chips with at least 60% cocoa content to add pockets of intense chocolate flavor. Lower quality chocolate chips may contain more sugar and less cocoa, which can affect the richness. Adding chocolate chips last keeps them intact during mixing, so they melt slightly but don’t fully blend into the batter, creating delightful gooey bites.",
+            "fresh raspberries": "Fresh raspberries add bright acidity and a natural tartness that balances the sweet, rich brownies. Avoid frozen raspberries as they can release too much liquid and make the batter watery. When fresh raspberries are mashed and combined with jam, they create a vibrant swirl that holds its structure during baking, adding both flavor and visual appeal.",
+            "baking powder": "A small amount of baking powder is included to provide a gentle lift for the brownies. It helps prevent them from becoming too dense or gummy. Using too much leavening can cause the brownies to rise excessively and then collapse, ruining the fudgy texture. Measure carefully and sift with the dry ingredients to distribute evenly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use very ripe avocados for the smoothest batter.",
+            "reason": "Ripe avocados are softer and blend more easily, preventing lumps and ensuring a creamy texture. If the avocado isn’t ripe enough, the batter can end up gritty and the brownies less moist, compromising the fudgy consistency."
+        },
+        {
+            "tip": "Sift your dry ingredients before mixing.",
+            "reason": "Sifting removes lumps and aerates the flour and cocoa powder, resulting in a smoother batter and more even texture in the final brownies. It also helps distribute the baking powder and salt uniformly, ensuring consistent rise and flavor."
+        },
+        {
+            "tip": "Fold the batter gently to avoid overmixing.",
+            "reason": "Overmixing develops gluten in the flour, which can make brownies tough and cakey instead of fudgy. Gentle folding keeps the batter tender and maintains the light, moist texture that makes these brownies so irresistible."
+        },
+        {
+            "tip": "Swirl the raspberry mixture just before baking.",
+            "reason": "Adding the raspberry jam and fresh raspberries right before baking keeps the swirl distinct and vibrant. If mixed too early, the raspberry flavor can blend too much into the batter, losing that fresh tart contrast that balances the chocolate."
+        },
+        {
+            "tip": "Don’t overbake; check at 25 minutes.",
+            "reason": "Overbaking dries out the brownies and ruins their fudgy texture. The toothpick test should show moist crumbs but no wet batter. This ensures the center stays soft and the edges are just set and slightly crisp."
+        },
+        {
+            "tip": "Use parchment paper for easy removal.",
+            "reason": "Parchment paper prevents sticking and allows you to lift the entire batch out of the pan, making cutting and serving much easier without breaking the brownies."
+        },
+        {
+            "tip": "Let brownies cool completely before cutting.",
+            "reason": "Cooling allows the brownies to set fully, making them easier to cut cleanly and improving texture. Cutting too soon can cause them to crumble or fall apart."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe avocado",
+            "why_it_happens": "Sometimes people grab avocados that feel firm to avoid overripe fruit, but this leads to a gritty texture and less moisture.",
+            "fix": "Make sure to use avocados that yield slightly to gentle pressure and have a creamy texture inside. If needed, ripen them on the counter for a day or two before baking."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In a rush to combine ingredients, it’s easy to stir vigorously, thinking it will improve the batter.",
+            "fix": "Use a spatula to fold the ingredients gently just until combined. Stop mixing as soon as there are no visible flour streaks to keep brownies tender."
+        },
+        {
+            "mistake": "Skipping the raspberry swirl or mixing it too much",
+            "why_it_happens": "Some might omit the swirl or mix it fully into the batter, losing the contrasting flavor and pretty marbling effect.",
+            "fix": "Add the raspberry jam and mashed berries on top of the batter and gently swirl with a knife. Don’t fully mix it in to preserve the bright flavor and visual appeal."
+        },
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Leaving brownies in the oven too long thinking they need to be fully set can dry them out.",
+            "fix": "Start checking at 25 minutes with a toothpick. Pull them out when it comes out with moist crumbs, not wet batter, for fudgy results."
+        },
+        {
+            "mistake": "Not preparing the pan properly",
+            "why_it_happens": "Skipping parchment paper or greasing lightly can cause brownies to stick and break when removed.",
+            "fix": "Line the pan with parchment paper, leaving some overhang for easy lifting, or grease the pan well before pouring in the batter."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Avocado Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter before baking for a crunchy texture and nutty flavor that complements the creamy avocado and chocolate.",
+            "technical_note": "Fold nuts in gently to avoid breaking them up too much, and expect a slightly firmer texture with added crunch."
+        },
+        {
+            "name": "Spicy Chocolate Avocado Brownies",
+            "description": "Mix in 1/2 teaspoon cinnamon and a pinch of cayenne pepper to the cocoa powder for a warm, spicy kick that intensifies the chocolate flavor and adds complexity.",
+            "technical_note": "Be careful with cayenne; a little goes a long way. Start small and adjust to your heat preference."
+        },
+        {
+            "name": "Vegan Avocado Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use a plant-based dark chocolate to make these brownies fully vegan without sacrificing fudginess.",
+            "technical_note": "Flax eggs add binding but may slightly change texture; mix flaxseed and water well and let sit before adding."
+        },
+        {
+            "name": "Peanut Butter Swirl Avocado Brownies",
+            "description": "Swap the raspberry swirl for dollops of creamy peanut butter swirled on top before baking. The salty peanut butter pairs beautifully with the chocolate and avocado base.",
+            "technical_note": "Warm the peanut butter slightly to make swirling easier and prevent clumping."
+        },
+        {
+            "name": "Mint Chocolate Avocado Brownies",
+            "description": "Add 1 teaspoon peppermint extract to the batter and sprinkle chopped mint leaves on top before baking for a refreshing twist on classic brownies.",
+            "technical_note": "Peppermint extract is potent; start with less and adjust to taste to avoid overpowering the chocolate."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "18g",
+        "fiber_grams": "6g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the brownies covered at room temperature for up to 2 days. Use an airtight container or cover tightly with plastic wrap to keep them moist. Avoid leaving them uncovered as they will dry out quickly.",
+        "refrigerator": "Keep brownies in an airtight container in the fridge for up to 5 days. They may firm up and become denser when chilled, so bring them to room temperature before serving for best texture.",
+        "freezer": "Wrap brownies tightly in plastic wrap and then foil, or place in a freezer-safe container. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently to restore softness.",
+        "reheating": "Warm brownies in a microwave for 15-20 seconds or in a low oven (300°F) for about 5 minutes. Adding a small splash of milk or cream before reheating can help revive moisture. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and store it covered in the fridge. Add the raspberry swirl just before baking. This makes the baking day quicker and the brownies taste just as fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen raspberries for the swirl?",
+            "answer": "Frozen raspberries tend to release extra moisture when thawed, which can thin the batter and affect texture. If you must use frozen, thaw and drain them well, then gently mash and mix with jam. Fresh raspberries are recommended for the best swirl consistency."
+        },
+        {
+            "question": "What if I don’t have cocoa powder?",
+            "answer": "Cocoa powder is essential for the chocolate flavor and texture. You could try melted dark chocolate instead, but reduce the added fats elsewhere. The texture and flavor will change, so it’s best to stick with cocoa powder for this recipe."
+        },
+        {
+            "question": "How do I know when the brownies are done?",
+            "answer": "Insert a toothpick into the center after 25 minutes. It should come out with moist crumbs but no wet batter. The edges will be set and slightly pulling away from the pan. Overbaking will dry the brownies out."
+        },
+        {
+            "question": "Can I substitute avocado with butter?",
+            "answer": "Yes, but it will change the texture and nutritional profile. Use the same amount of melted butter for a richer but less creamy brownie. The avocado version is unique for its moist, fudgy texture and healthier fats."
+        },
+        {
+            "question": "Why are my brownies crumbly?",
+            "answer": "Crumbly brownies usually mean overbaking or too much flour. Make sure to measure flour accurately and bake until just done. Also, use ripe avocados for moisture. Avoid overmixing, which can dry the batter."
+        },
+        {
+            "question": "Can I make these gluten-free?",
+            "answer": "Absolutely! Substitute all-purpose flour with a gluten-free flour blend that measures cup-for-cup. Make sure it contains xanthan gum or add a small amount to help with structure and binding."
+        },
+        {
+            "question": "How ripe should the avocado be?",
+            "answer": "The avocado should be very soft to the touch, almost creamy inside without brown spots. This ensures smooth blending and maximum moisture. An underripe avocado will be gritty and less flavorful."
+        },
+        {
+            "question": "Can I add nuts?",
+            "answer": "Yes, chopped walnuts or pecans can be folded into the batter before baking for added crunch and flavor. Toasting nuts beforehand enhances their nuttiness and texture."
+        }
+    ],
+    "conclusion": "I hope you give these fudgy avocado brownies with raspberry swirl a try—they’re such a fun twist on a classic treat! Let me know how they turn out or any variations you love.",
+    "seo": {
+        "primary_keyword": "avocado brownies recipe",
+        "secondary_keywords": [
+            "fudgy brownie recipe",
+            "raspberry swirl brownies",
+            "how to make avocado brownies",
+            "best healthy brownies recipe",
+            "easy chocolate avocado brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy chocolate dessert ideas",
+                "anchor": "healthy_chocolate_desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images/dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1779060282_902",
+    "slug": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-05-17T23:32:21+00:00",
+    "updatedAt": "2026-05-17T23:32:21+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "dark-chocolate-avocado-brownies-with-a-raspberry-swirl-that-melt-in-your-mouth/images"
+}

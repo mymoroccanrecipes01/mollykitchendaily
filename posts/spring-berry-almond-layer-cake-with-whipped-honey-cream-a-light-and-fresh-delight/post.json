@@ -1,0 +1,343 @@
+{
+    "title": "Almond Layer Cake with Fresh Berries and Whipped Honey Cream",
+    "promptIMG": "Food photography: Almond Layer Cake with Fresh Berries, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This almond layer cake is a fresh spring delight, loaded with juicy berries and crowned with whipped honey cream. The nutty almond flavor shines through, making it perfect for weekend treats or special gatherings.",
+    "hashtags": "#almondcake #berrydessert #springbaking",
+    "board_name": "Spring Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Delight in This Fresh Almond Berry Cake Today!",
+            "description": "Looking for a spring dessert that wows? This almond layer cake with fresh berries and honey whipped cream is your answer. Light, nutty, and naturally sweet—save this recipe and try it soon! 🍓🍰 #almondcake #springdesserts #homemadebaking"
+        },
+        {
+            "title": "Easy Almond Cake with Berries – Perfect for Any Occasion",
+            "description": "This almond layer cake is bursting with fresh berries and topped with airy honey whipped cream. It’s simple to make but feels fancy—perfect for impressing guests or treating yourself. Try it today! 🍯🍓 #easybaking #berrycake #dessertlover"
+        },
+        {
+            "title": "Whipped Honey Cream and Berries on Almond Cake – Yum!",
+            "description": "I love how the nutty almond cake pairs with fresh berries and fluffy whipped honey cream. It’s the perfect balance of flavors and textures. Save this for your next spring celebration! 🎂🍓 #almonddessert #springbaking #homemadecake"
+        },
+        {
+            "title": "Fresh Berry Almond Cake That’s a Crowd-Pleaser",
+            "description": "This cake combines nutty almond layers with fresh, juicy berries and a light honey cream topping. It’s fresh, flavorful, and sure to impress. Discover the recipe and bake it this weekend! 🍰🌸 #berrycake #almondcake #springrecipes"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 40,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups almond flour, finely ground",
+        "1 cup all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1/4 teaspoon salt",
+        "3/4 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "3 large eggs",
+        "1 teaspoon pure vanilla extract",
+        "1/2 cup whole milk",
+        "2 cups mixed fresh berries (strawberries, blueberries, raspberries)",
+        "1 cup heavy cream",
+        "2 tablespoons honey",
+        "1 teaspoon almond extract (optional)"
+    ],
+    "yield": "One 9-inch three-layer cake, serves 8",
+    "introduction": "I first made this almond layer cake during a spring weekend when fresh berries were just starting to appear at the market. I wanted something light and not overly sweet that would highlight the natural flavors of the berries. The almond flour gives the cake a gentle nutty flavor and a tender crumb that’s a little different from your usual sponge cake. What makes this version special is the whipped honey cream topping—it’s airy, lightly sweetened, and adds a lovely contrast to the denser cake layers. I also add a splash of almond extract in the cream for an extra depth of flavor. The trick I learned is to fold the almond flour carefully into the batter to keep it light and fluffy, avoiding a dense texture. When all is assembled, you get a cake that looks stunning with the bright berries peeking through and tastes fresh and balanced. It’s perfect for spring celebrations or just a cozy weekend treat with a cup of tea. I’ve made it several times now, and it always feels like a little celebration at home.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour three 9-inch round cake pans or line them with parchment paper. This prep ensures your cakes release easily after baking, preventing sticking and breakage. Even coating the pans helps the cakes bake evenly on all sides, so don’t skip this step.",
+            "timing": 10,
+            "doneness_cue": "Pans are evenly greased and lightly floured; parchment paper fits snugly without wrinkles."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the almond flour, all-purpose flour, baking powder, and salt. Sifting these ingredients helps to aerate the flour mixture, which contributes to a lighter cake texture. Combining the dry ingredients first also ensures even distribution of the leavening agent so the cake rises uniformly.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined with no visible clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, cream the softened butter and granulated sugar together using a hand mixer or stand mixer on medium speed until the mixture is pale and fluffy. This usually takes about 3-5 minutes. Creaming incorporates air, which helps give the cake a light texture. If the butter isn’t soft enough, the mixture won’t whip properly, leading to a denser cake.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar form a light, fluffy, pale yellow mixture that holds soft peaks."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the creamed butter and sugar, beating well after each addition. This gradual incorporation helps the eggs emulsify into the butter mixture, creating a smooth batter that traps air for lift. Adding eggs too quickly can cause the batter to curdle, so be patient and mix thoroughly.",
+            "timing": 3,
+            "doneness_cue": "Batter looks smooth, glossy, and slightly thickened without streaks of egg."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the vanilla extract. Then alternate adding the dry flour mixture and the milk to the batter, beginning and ending with the dry ingredients. Mix gently after each addition just until combined to avoid overworking the gluten, which can make the cake tough. The batter should be smooth and pourable but not runny.",
+            "timing": 7,
+            "doneness_cue": "Batter is uniform in color and texture, slightly thick but pourable."
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the batter evenly among the prepared pans. Use a spatula to smooth the tops for even layers. This helps the cakes bake evenly and stack nicely. If the batter isn’t spread evenly, one layer might be thicker and take longer to bake, throwing off the final assembly.",
+            "timing": 5,
+            "doneness_cue": "Batter is evenly distributed and smooth on top in each pan."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 30-35 minutes, or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Avoid opening the oven too early to prevent the cakes from sinking. The top should be lightly golden and spring back when touched gently.",
+            "timing": 30,
+            "doneness_cue": "Golden tops with clean toothpick test and slight springiness."
+        },
+        {
+            "step": 8,
+            "instruction": "Let the cakes cool in the pans for 10 minutes before transferring to wire racks to cool completely. Cooling in the pan prevents cracking while the cake is still warm but moving them too soon can cause breakage. Cooling completely before frosting ensures the whipped cream topping doesn’t melt.",
+            "timing": 20,
+            "doneness_cue": "Cakes are cool to the touch and firm enough to handle without crumbling."
+        },
+        {
+            "step": 9,
+            "instruction": "For the whipped honey cream, whip the heavy cream with honey and almond extract until soft peaks form. Whip gently to avoid turning the cream into butter. This whipped cream is light and sweet with a subtle almond aroma that complements the cake layers and berries perfectly.",
+            "timing": 5,
+            "doneness_cue": "Whipped cream holds soft peaks and is smooth and glossy."
+        },
+        {
+            "step": 10,
+            "instruction": "Assemble the cake by spreading a layer of whipped honey cream on the first cake layer, then scatter some fresh berries on top. Repeat with the second layer, then place the third layer on top and cover the entire cake with the remaining whipped cream. Garnish with extra berries. The contrast between creamy, nutty layers and fresh berries is the best part!",
+            "timing": 15,
+            "doneness_cue": "Cake is evenly frosted with visible fresh berries on top and between layers."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Almond Layer Cake Is So Special",
+        "content": "<p>The success of this almond layer cake lies in balancing the nutty almond flour with traditional all-purpose flour, which creates a tender yet structured crumb. Almond flour adds moisture and a rich flavor, but using it alone can lead to a dense cake. By combining it with all-purpose flour, you get the best of both worlds: the moistness from almonds and the lightness from wheat gluten.</p><p>Creaming the butter and sugar is critical because it incorporates air into the batter, which helps the cake rise and gives it a soft texture. Adding eggs one at a time ensures proper emulsification, creating a stable batter that traps air bubbles effectively. This technique prevents curdling and uneven texture.</p><p>The whipped honey cream topping is not just a garnish but a flavor enhancer. Honey adds a floral sweetness that complements the almond and berries without overpowering them. Whipping the cream to soft peaks ensures it remains light and airy, which balances the cake’s slight density.</p><p>Finally, the fresh berries add natural acidity and juiciness that cut through the richness of the cake and cream. The combination of textures—from the crumb to the whipped cream to the juicy berries—makes every bite interesting and satisfying.</p>",
+        "ingredient_notes": {
+            "almond flour": "Look for finely ground almond flour labeled as 'blanched' or 'superfine' for the best texture. Coarser almond meal can make the cake gritty. Almond flour lends moisture and a subtle nutty flavor, and it helps keep the crumb tender. Store it in a cool, dry place or refrigerate to maintain freshness.",
+            "all-purpose flour": "Regular all-purpose flour provides the gluten structure needed to support the cake’s rise and shape. Using cake flour instead can make the cake too soft and crumbly. Measure flour properly by spooning it into the measuring cup and leveling off to avoid dense batter.",
+            "unsalted butter": "Use room temperature unsalted butter to control the salt content and ensure it creams well with sugar. Butter quality affects flavor; choose a high-fat European-style butter if possible. Over-softened or melted butter will not cream properly, impacting the cake’s texture.",
+            "heavy cream": "Heavy cream with at least 36% fat whips best for the honey cream topping. Lower fat creams won’t hold air as well and can become watery. Chill the cream and mixing bowl beforehand for easier whipping and better volume.",
+            "honey": "Use a mild-flavored honey to avoid overpowering the delicate almond and berry flavors. Raw or unfiltered honey can be too strong or grainy. Honey also helps stabilize the whipped cream slightly and adds natural sweetness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sift your dry ingredients to avoid lumps and ensure even mixing.",
+            "reason": "Sifting aerates flour and helps distribute baking powder and salt evenly, which leads to a more consistent rise and tender crumb. Skipping this step can result in uneven texture or pockets of leavening."
+        },
+        {
+            "tip": "Use room temperature eggs and butter for better emulsification.",
+            "reason": "Cold ingredients don’t blend well, which can cause the batter to curdle or separate. Room temperature ingredients combine smoothly, trapping air and creating a uniform batter that bakes evenly."
+        },
+        {
+            "tip": "Don’t overmix after adding flour to avoid tough cake layers.",
+            "reason": "Overmixing develops gluten, making the cake dense and chewy instead of soft. Mix just until the flour disappears for a tender crumb."
+        },
+        {
+            "tip": "Chill your mixing bowl and whisk before whipping cream.",
+            "reason": "Cold equipment helps the cream whip faster and hold its structure longer, preventing it from turning into butter."
+        },
+        {
+            "tip": "Let cakes cool completely before frosting to prevent melting.",
+            "reason": "Warm cakes cause whipped cream to melt and slide off, ruining the presentation and texture. Patience here makes a big difference."
+        },
+        {
+            "tip": "Use a serrated knife to level cake layers if needed.",
+            "reason": "Level layers stack neatly and prevent the cake from leaning or collapsing. A serrated knife cuts cleanly without squashing the crumb."
+        },
+        {
+            "tip": "Gently fold berries into whipped cream for an even distribution.",
+            "reason": "Folding preserves the airiness of the cream while spreading berries evenly, ensuring every bite has a burst of fresh fruit."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using coarse almond meal instead of finely ground almond flour.",
+            "why_it_happens": "People often grab almond meal thinking it’s interchangeable with almond flour without checking the texture.",
+            "fix": "Choose superfine almond flour for this recipe to ensure a smooth, tender crumb. If you only have almond meal, pulse it in a food processor to break down larger pieces before measuring."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "It’s easy to keep mixing to get rid of lumps, but this develops gluten.",
+            "fix": "Mix just until the flour is incorporated. Stop as soon as you don’t see dry streaks to keep the cake light."
+        },
+        {
+            "mistake": "Frosting the cake while it’s still warm.",
+            "why_it_happens": "Eager to assemble, some skip cooling time.",
+            "fix": "Wait until the layers are completely cool to keep the whipped cream stable and prevent it from melting."
+        },
+        {
+            "mistake": "Whipping cream too long until it turns grainy or butter-like.",
+            "why_it_happens": "It’s tempting to whip cream extra stiff, but going too far breaks the emulsion.",
+            "fix": "Stop whipping as soon as soft peaks form for a light, smooth topping that holds shape."
+        },
+        {
+            "mistake": "Not measuring flour correctly, leading to dense cake.",
+            "why_it_happens": "Scooping flour directly can pack it down, adding too much.",
+            "fix": "Spoon flour into measuring cup and level off with a knife for accurate measurement."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Almond Cake with Blueberry Compote",
+            "description": "Add lemon zest and juice to the batter for a bright citrus twist. Replace mixed berries with a warm blueberry compote between layers for a tangy contrast. This variation feels fresher and more vibrant, perfect for summer.",
+            "technical_note": "Add lemon juice carefully to avoid curdling the batter. Cook blueberry compote until thick but still saucy to avoid soggy layers."
+        },
+        {
+            "name": "Chocolate Almond Layer Cake",
+            "description": "Stir 1/3 cup cocoa powder into the dry ingredients and add chocolate chips to the batter. Use whipped cream with a hint of espresso powder for an indulgent flavor pairing. This makes the cake richer and more decadent.",
+            "technical_note": "Be sure to sift cocoa powder with flour to prevent lumps. Adjust sugar slightly if you prefer sweeter chocolate flavor."
+        },
+        {
+            "name": "Gluten-Free Almond Berry Cake",
+            "description": "Use only almond flour and add 1 teaspoon xanthan gum to help bind the cake. This version is moist and tender but denser, perfect for gluten-free diets without sacrificing flavor.",
+            "technical_note": "Xanthan gum replaces gluten’s structure, so don’t skip it or the cake will crumble."
+        },
+        {
+            "name": "Vegan Almond Cake with Coconut Cream",
+            "description": "Replace eggs with flax eggs, butter with coconut oil, and use coconut cream whipped with maple syrup instead of honey cream. Berries remain the same. This cake is dairy-free and vegan-friendly with a tropical twist.",
+            "technical_note": "Flax eggs need to rest before adding to batter to gel properly. Coconut oil should be solid but scoopable."
+        },
+        {
+            "name": "Spiced Almond Cake with Cinnamon and Nutmeg",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon nutmeg to the dry ingredients for a warm, cozy flavor. Perfect for fall or winter gatherings. Top with whipped cream and caramelized berries for extra indulgence.",
+            "technical_note": "Spices intensify during baking, so measure carefully to avoid overpowering the almond flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "28g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can safely sit covered at room temperature for up to 6 hours, ideal for serving during parties or gatherings. Keep it covered loosely with a cake dome or plastic wrap to prevent it from drying out.",
+        "refrigerator": "Store leftover cake in an airtight container in the fridge for up to 3 days. The whipped cream topping may firm up and the cake can become slightly denser when chilled. Serve chilled or bring to room temperature before eating for best texture.",
+        "freezer": "Freeze the cake layers separately wrapped tightly in plastic wrap and foil for up to 2 months. Thaw overnight in the fridge before assembling. The whipped cream topping doesn’t freeze well, so add fresh cream after thawing.",
+        "reheating": "This cake is best served cold or at room temperature. If desired, warm a slice gently in the microwave for 10-15 seconds, but avoid heating the whipped cream topping to prevent melting.",
+        "make_ahead_strategy": "Bake the cake layers 1-2 days ahead and keep them wrapped in the fridge. Prepare the whipped honey cream and fresh berries the day of serving for the freshest taste and best texture. Assemble just before guests arrive."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute almond flour with regular flour?",
+            "answer": "Substituting almond flour with regular flour will change the texture and flavor significantly. Almond flour adds moisture and a nutty taste that all-purpose flour alone can’t replicate. If you must swap, increase the liquid slightly and expect a drier, less tender cake."
+        },
+        {
+            "question": "How do I keep the whipped honey cream from melting?",
+            "answer": "Keep the whipped cream chilled until just before assembling the cake. Use cold heavy cream and bowl for whipping, and don’t overwhip. After assembling, store the cake in the fridge to keep the cream stable and prevent it from melting."
+        },
+        {
+            "question": "Can I use frozen berries in this cake?",
+            "answer": "Frozen berries can be used but should be thawed and drained well to avoid excess moisture, which can make the cake soggy. Pat them dry gently with paper towels before adding between layers or on top."
+        },
+        {
+            "question": "How do I prevent my cake layers from sinking in the middle?",
+            "answer": "Make sure to measure ingredients accurately, especially leavening agents. Avoid opening the oven door during the first 20 minutes of baking and bake at the correct temperature. Overmixing the batter can also cause sinking."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes! Use only almond flour and add 1 teaspoon xanthan gum to help with binding. The texture will be a bit denser but still moist and delicious. Be sure to mix gently and avoid overworking the batter."
+        },
+        {
+            "question": "What’s the best way to level cake layers?",
+            "answer": "Use a serrated knife or a cake leveler to trim the domed tops off each cake layer once cooled. This creates flat, even surfaces for stacking and prevents the cake from leaning or sliding."
+        },
+        {
+            "question": "Can I prepare this cake a day ahead?",
+            "answer": "You can bake the layers a day ahead and store them wrapped in the fridge. It’s best to whip the honey cream and assemble the cake the day you plan to serve it to keep the cream fresh and the berries vibrant."
+        },
+        {
+            "question": "What if I don’t have honey for the whipped cream?",
+            "answer": "You can substitute honey with maple syrup or powdered sugar. Keep in mind that honey adds a unique floral sweetness and helps stabilize the cream slightly, so the texture may vary a bit."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this almond layer cake as much as I do. Don’t forget to tell me how it turns out—happy baking!",
+    "seo": {
+        "primary_keyword": "almond layer cake with berries",
+        "secondary_keywords": [
+            "almond cake recipe",
+            "berry layer cake",
+            "how to make almond cake",
+            "best almond berry cake recipe",
+            "easy almond cake"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make whipped cream",
+                "anchor": "how-to-make-whipped-cream"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_1.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_1.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_2.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_2.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_3.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_3.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_6.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_7.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_8.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_4.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_5.webp",
+            "relativePath": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images/spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779059785_220",
+    "slug": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight",
+    "isOnline": true,
+    "createdAt": "2026-05-17T23:32:21+00:00",
+    "updatedAt": "2026-05-17T23:32:21+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "spring-berry-almond-layer-cake-with-whipped-honey-cream-a-light-and-fresh-delight/images"
+}
