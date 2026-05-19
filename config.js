@@ -1,9 +1,9 @@
 globalThis.facebookURL = "#";
-globalThis.PinterestURL = "https://www.pinterest.com/mollykitchendaily/";
+globalThis.PinterestURL = "#";
 globalThis.twitterURL = "#";
 globalThis.redditURL = "#";
 globalThis.siteUrl = "https:\/\/mollykitchendaily.lummyrecipes.com";
 globalThis.homepageTitle = "Molly Kitchen Daily";
 globalThis.homepageTagline = "Molly Kitchen Daily - Discover great content";
-globalThis.email = 'contact@mollykitchendaily.com';
+globalThis.email = 'contact@myrecipes.com';
 globalThis.copyright = "2025 - 2026 Molly Kitchen Daily. All rights reserved.";
