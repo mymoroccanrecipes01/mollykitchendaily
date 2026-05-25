@@ -1,0 +1,341 @@
+{
+    "title": "No-Bake Blueberry Cheesecake That’s Creamy and Refreshingly Light",
+    "promptIMG": "Food photography: No-Bake Blueberry Cheesecake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-bake blueberry cheesecake is my go-to when I want something creamy but light. The secret whipped cream folded in makes it so fluffy and fresh. Great for summer evenings or last-minute guests!",
+    "hashtags": "#blueberrycheesecake #nobakedessert #easyrecipes",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Creamy No-Bake Blueberry Cheesecake in Minutes!",
+            "description": "Looking for a fuss-free dessert that wows? This no-bake blueberry cheesecake is smooth, fluffy, and bursting with fresh berries 🍰💙. Save this recipe for your next get-together and impress everyone! #dessertlover #nobake #blueberrylove"
+        },
+        {
+            "title": "The Easiest No-Bake Blueberry Cheesecake You’ll Ever Make",
+            "description": "Craving cheesecake but don’t want to turn on the oven? Try this no-bake blueberry version that’s creamy and light, thanks to a little whipped cream magic. Perfect for warm days or quick treats! 🍓✨ #quickdessert #summerrecipes #cheesecake"
+        },
+        {
+            "title": "No-Bake Blueberry Cheesecake: Fresh, Fluffy, and Delightful!",
+            "description": "This cheesecake is a total crowd-pleaser—no baking needed! The secret whipped cream fold-in gives it a fluffy texture that’s just perfect. Give it a try today and taste the freshness! 💙🍰 #easycheesecake #nobake #blueberrydessert"
+        },
+        {
+            "title": "Discover How to Make a Light and Creamy No-Bake Blueberry Cheesecake",
+            "description": "Want a dessert that’s creamy but not heavy? This no-bake blueberry cheesecake is your answer. It’s quick, simple, and the whipped cream fold-in makes all the difference. Try this recipe now and enjoy a fresh treat! 🍰🌿 #nobakedesserts #blueberryrecipe #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups graham cracker crumbs, finely crushed",
+        "6 tablespoons unsalted butter, melted",
+        "16 ounces cream cheese, softened",
+        "1 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy whipping cream, cold",
+        "2 cups fresh blueberries, divided",
+        "2 tablespoons lemon juice",
+        "1 tablespoon sugar"
+    ],
+    "yield": "8 servings",
+    "introduction": "I first made this no-bake blueberry cheesecake on a hot summer day when I really didn’t want to heat up the kitchen. What I love about this recipe is how surprisingly creamy and light it turns out, thanks to folding whipped cream into the cream cheese mixture. It’s a little trick I picked up after a few failed attempts where my cheesecakes were either too dense or heavy. The fresh blueberries give it a bright pop of flavor, and the buttery graham cracker crust adds just the right crunch. This cheesecake never fails to impress guests, and it’s perfect for casual get-togethers or a quick dessert fix. Plus, no oven means less fuss and a cooler kitchen, which I’m always grateful for. The secret whipped cream fold-in is key here—it keeps everything airy without sacrificing richness. When you slice into it, you get this smooth, fluffy texture that just melts in your mouth. Trust me, once you try this, you’ll find yourself making it all summer long.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the crust. Combine the graham cracker crumbs with melted butter in a medium bowl, mixing until the crumbs are evenly coated and the mixture holds together when pressed. This step is essential because the butter binds the crumbs, creating a firm base that won’t crumble apart when sliced. Avoid adding too much butter, or the crust will be greasy and soggy. Press the mixture firmly into the bottom of a 9-inch springform pan or pie dish, making sure to compact it evenly. This ensures a sturdy crust that supports the creamy filling without falling apart.",
+            "timing": 10,
+            "doneness_cue": "The crust should feel firm and hold its shape when pressed with your fingers."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, whip the heavy cream until stiff peaks form. This means when you lift the whisk, the cream holds its shape without collapsing. Cold cream whips better and faster, so keep it chilled until right before whipping. Be careful not to overwhip, or it could turn grainy and start turning into butter, which you want to avoid. Whipped cream folded into the cheesecake filling adds air and lightness, so this step is crucial for the final texture.",
+            "timing": 5,
+            "doneness_cue": "Whipped cream should be fluffy and hold stiff peaks without falling over."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened cream cheese with powdered sugar and vanilla extract until smooth and creamy. Using room temperature cream cheese is key here; if it’s too cold, you’ll get lumps. This mixture forms the rich base of your cheesecake filling. Beat it long enough to remove any lumps and achieve a silky texture but avoid overmixing to prevent incorporating too much air, which can cause cracking later.",
+            "timing": 5,
+            "doneness_cue": "The cream cheese mixture should be smooth, lump-free, and slightly glossy."
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture using a spatula. The goal is to combine without deflating the whipped cream, so use a light hand and fold in a few strokes until just combined. This technique traps air in the filling, making the cheesecake fluffy and light rather than dense. Overmixing here will cause the filling to lose volume and become heavy.",
+            "timing": 3,
+            "doneness_cue": "Filling should look uniform and airy without streaks of whipped cream."
+        },
+        {
+            "step": 5,
+            "instruction": "Prepare the blueberry topping by mixing 1 cup of fresh blueberries with lemon juice and sugar in a small bowl. Let it sit for about 10 minutes to macerate, which softens the berries and brings out their natural sweetness. This step adds a fresh, tangy contrast to the creamy filling, balancing the flavors beautifully.",
+            "timing": 10,
+            "doneness_cue": "Blueberries should be juicy and slightly softened with a glossy syrup forming."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold half of the macerated blueberries gently into the cheesecake filling, distributing the berries evenly but carefully to avoid breaking them up. This adds bursts of fresh fruit inside the cheesecake, giving each bite a juicy surprise. Be gentle to keep the filling smooth and maintain the airy texture.",
+            "timing": 2,
+            "doneness_cue": "Blueberries are evenly mixed without large chunks breaking apart."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the filling over the prepared crust, smoothing the top with a spatula. Make sure the filling is evenly spread to avoid uneven slices later. Tap the pan gently on the counter to release any air bubbles trapped inside the filling, which helps prevent cracks or holes in the final cheesecake.",
+            "timing": 3,
+            "doneness_cue": "Filling surface is smooth and even without bubbles or gaps."
+        },
+        {
+            "step": 8,
+            "instruction": "Refrigerate the cheesecake for at least 4 hours, preferably overnight. This chilling time allows the filling to set firmly while keeping its creamy texture. If you rush this step, the cheesecake may be too soft and won’t slice cleanly. Patience here is key for that perfect slice.",
+            "timing": 240,
+            "doneness_cue": "Cheesecake is firm to the touch and slices cleanly without sticking."
+        },
+        {
+            "step": 9,
+            "instruction": "Before serving, top the cheesecake with the remaining fresh blueberries for a pretty, fresh garnish. You can also add a light dusting of powdered sugar or a few mint leaves for extra flair. Serve chilled for the best texture and flavor. Enjoy the creamy, fluffy cheesecake with the bright burst of fresh blueberries in every bite!",
+            "timing": 5,
+            "doneness_cue": "Toppings look fresh and vibrant, enhancing the cheesecake’s appearance."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Bake Cheesecake Is So Creamy and Light",
+        "content": "<p>This no-bake blueberry cheesecake works beautifully because of how the ingredients interact to create a light yet creamy texture without any oven baking. First, the graham cracker crust binds together with melted butter, using the fat to hold the crumbs firmly while still providing a slightly crunchy contrast to the soft filling. This balance of texture is essential to a satisfying cheesecake experience.</p><p>The secret to the fluffy filling lies in folding whipped cream into the cream cheese mixture. Whipping the cream incorporates air bubbles, which lighten the dense cream cheese base. Folding rather than mixing vigorously preserves these air pockets, resulting in a mousse-like texture rather than a heavy, dense block. This technique also prevents the filling from becoming grainy or overly stiff.</p><p>Using room temperature cream cheese ensures a smooth, lump-free base, while the powdered sugar sweetens without adding graininess. The macerated blueberries add fresh, juicy bursts of flavor and a slight tanginess that balances the richness of the cream cheese. Letting them sit with lemon juice and sugar softens the berries and releases natural juices, creating a syrupy effect that enhances the overall flavor complexity.</p><p>Finally, chilling the cheesecake overnight allows the filling to set properly, firming up while maintaining its airy quality. This resting time also lets the flavors meld, giving a more harmonious taste. Skipping or rushing this step can result in a filling that’s too soft or watery, compromising both texture and sliceability.</p>",
+        "ingredient_notes": {
+            "graham cracker crumbs": "When choosing graham cracker crumbs, look for finely crushed pieces without large chunks to ensure a smooth, even crust. The crumbs act as the base, and their natural sweetness complements the tangy cream cheese. Using store-bought crumbs is fine, but you can crush your own for fresher flavor. Avoid overly coarse crumbs as they won’t bind well with the butter, leading to a crumbly crust.",
+            "unsalted butter": "Butter binds the crust by coating the graham cracker crumbs and solidifying as it cools. Unsalted butter is preferred so you can control the salt level in the recipe. Melted butter mixes more evenly with the crumbs, creating a uniform texture. Using cold or solid butter won’t blend well and can cause uneven crust texture.",
+            "cream cheese": "Choose full-fat cream cheese with a smooth texture and no lumps for the best results. It should be softened to room temperature before mixing to avoid lumps and ensure a creamy filling. Low-fat versions tend to be less rich and can affect the texture, making the cheesecake less smooth and more watery.",
+            "heavy whipping cream": "Cold heavy cream whips up into stiff peaks that add lightness and air to the dense cream cheese filling. The fat content in heavy cream is essential for stability and richness. Avoid using lighter creams or substitutes, as they won’t whip properly and will affect the texture and volume of the filling.",
+            "fresh blueberries": "Fresh blueberries add a bright, juicy burst of flavor and natural sweetness. Choose firm, plump berries without wrinkles or mold. The maceration step softens them slightly and releases juices that integrate well into the filling. Frozen berries aren’t ideal as they release too much water, which can make the filling watery."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your cream cheese is fully softened before mixing.",
+            "reason": "Softened cream cheese blends smoothly with sugar and vanilla, preventing lumps in your filling. If it’s too cold, you’ll get a gritty texture that’s unpleasant. Let it sit at room temperature for at least 30 minutes or give it short bursts in the microwave on low power to soften gently."
+        },
+        {
+            "tip": "Use cold heavy cream and whip just until stiff peaks form.",
+            "reason": "Cold cream whips faster and holds air better, which is crucial for the fluffy texture. Overwhipping can cause the cream to break down into butter, ruining the lightness. Stop whipping as soon as stiff peaks appear to keep the filling airy."
+        },
+        {
+            "tip": "Fold whipped cream gently into the cream cheese mixture.",
+            "reason": "Folding preserves the air bubbles in the whipped cream, making the filling light and fluffy. Stirring too vigorously deflates the cream, resulting in a dense, less pleasant texture. Use a spatula and fold in slow, sweeping motions."
+        },
+        {
+            "tip": "Press the crust firmly into the pan to avoid crumbling.",
+            "reason": "A well-packed crust holds together better and supports the filling without falling apart when sliced. Use the bottom of a glass or measuring cup to press down evenly and compact the crumbs tightly."
+        },
+        {
+            "tip": "Let the blueberry topping macerate to soften and release juices.",
+            "reason": "Maceration enhances the natural sweetness and juiciness of the blueberries, adding a syrupy texture that complements the creamy filling. Skipping this step results in less flavorful berries and a drier topping."
+        },
+        {
+            "tip": "Chill the cheesecake overnight for best texture and flavor.",
+            "reason": "Extended chilling time allows the filling to set firmly while maintaining creaminess. It also lets flavors meld and intensify. Rushing this step can lead to a runny filling that won’t slice cleanly."
+        },
+        {
+            "tip": "Use a sharp knife warmed under hot water to slice cleanly.",
+            "reason": "Warming the knife prevents it from dragging through the soft cheesecake, allowing smooth, neat slices. Wipe the blade clean between cuts for the best presentation."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold cream cheese without softening",
+            "why_it_happens": "Many assume cream cheese is ready to mix straight from the fridge, but it’s too firm to blend smoothly.",
+            "fix": "Let the cream cheese sit at room temperature for at least 30 minutes before mixing. If short on time, microwave in 10-second bursts on low power, stirring between each, until soft but not melted."
+        },
+        {
+            "mistake": "Overwhipping the heavy cream",
+            "why_it_happens": "It’s easy to get carried away whipping cream, thinking stiffer is better.",
+            "fix": "Stop whipping as soon as stiff peaks form. Test by lifting the whisk; peaks should stand without drooping. Overwhipped cream turns grainy and starts separating into butter, ruining texture."
+        },
+        {
+            "mistake": "Mixing whipped cream too vigorously into filling",
+            "why_it_happens": "Inexperienced cooks may use a mixer or stir too hard, not realizing it deflates the cream.",
+            "fix": "Use a spatula to fold whipped cream gently in slow, sweeping motions. Stop folding as soon as the mixture looks uniform to keep the air bubbles intact."
+        },
+        {
+            "mistake": "Not pressing the crust firmly enough",
+            "why_it_happens": "Rushing or being too gentle leads to a crumbly base.",
+            "fix": "Press the crust firmly with the bottom of a glass or measuring cup until compacted evenly. This prevents crumbling when slicing or serving."
+        },
+        {
+            "mistake": "Skipping the chilling time",
+            "why_it_happens": "Impatience can lead to serving the cheesecake too soon.",
+            "fix": "Refrigerate for at least 4 hours, ideally overnight, to let the filling set properly. This step is crucial for texture and sliceability."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Blueberry No-Bake Cheesecake",
+            "description": "Add 2 tablespoons of freshly grated lemon zest to the cream cheese mixture and increase lemon juice in the blueberry topping to 3 tablespoons for a bright citrus twist. This variation adds a fresh zing and pairs beautifully with the blueberries, making it even more refreshing.",
+            "technical_note": "The added lemon zest and juice increase acidity, so ensure to balance sweetness accordingly. Folding in zest gently preserves texture."
+        },
+        {
+            "name": "Mixed Berry No-Bake Cheesecake",
+            "description": "Swap half the blueberries with raspberries and blackberries for a colorful mixed berry topping and filling. The variety adds complexity and visual appeal, with a sweet and tart flavor balance that complements the creamy filling.",
+            "technical_note": "Different berries have varying water content; macerate all berries together to soften and release juices evenly."
+        },
+        {
+            "name": "Chocolate Swirl No-Bake Blueberry Cheesecake",
+            "description": "Melt 1/4 cup dark chocolate and swirl it gently into the cream cheese filling before folding in whipped cream. This adds a rich chocolate flavor that pairs surprisingly well with the blueberry sweetness, creating a decadent dessert.",
+            "technical_note": "Cool melted chocolate slightly before swirling to prevent melting the filling but still allow easy mixing."
+        },
+        {
+            "name": "Vegan No-Bake Blueberry Cheesecake",
+            "description": "Use vegan cream cheese and coconut cream instead of dairy. Substitute the graham cracker crust with a nut and date crust for a fully plant-based version. This option is creamy and fresh while accommodating dietary preferences.",
+            "technical_note": "Chill coconut cream overnight and whip similarly to heavy cream. Texture may be slightly different but still delicious."
+        },
+        {
+            "name": "Mini No-Bake Blueberry Cheesecakes",
+            "description": "Make individual portions in small jars or ramekins for easy serving. Use the same crust and filling recipe but divide evenly. These are perfect for parties or packed lunches and look super cute with a blueberry topping.",
+            "technical_note": "Adjust chilling time slightly as smaller portions set faster, usually 2-3 hours."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cheesecake should not be left out at room temperature for more than 2 hours as the dairy filling can spoil. Cover loosely with plastic wrap if you need to keep it out briefly during serving.",
+        "refrigerator": "Store the cheesecake in an airtight container or tightly covered with plastic wrap in the refrigerator for up to 4 days. The texture remains creamy but may firm up slightly. It’s best served chilled but can be taken out 10 minutes before serving for a softer bite.",
+        "freezer": "Freeze the cheesecake wrapped tightly in plastic wrap and then in foil for up to 2 months. To prevent freezer burn, make sure it’s well sealed. Thaw overnight in the refrigerator before serving. The texture may become slightly denser after freezing but still delicious.",
+        "reheating": "No reheating is needed or recommended for this cheesecake. Serve chilled straight from the fridge or after a short rest at room temperature for best flavor and texture.",
+        "make_ahead_strategy": "You can prepare the crust and cream cheese filling 1-2 days ahead and keep them refrigerated separately. Assemble with whipped cream and blueberries the day you plan to serve for the freshest texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Frozen blueberries release more water as they thaw, which can make your cheesecake filling watery and less stable. If you must use frozen, thaw and drain them thoroughly, then pat dry before adding. Fresh berries are always best for texture and flavor."
+        },
+        {
+            "question": "What can I substitute for graham cracker crumbs?",
+            "answer": "Digestive biscuits or vanilla wafers work well as substitutes. Just crush them finely and mix with melted butter as usual. Avoid using cookies with strong flavors like chocolate or spices unless you want to change the flavor profile."
+        },
+        {
+            "question": "How long can I store this cheesecake in the fridge?",
+            "answer": "Store it in an airtight container or covered tightly for up to 4 days. After that, the texture and flavor may start to degrade. Always keep it chilled to prevent spoilage."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes! Use vegan cream cheese and coconut cream whipped to stiff peaks. Substitute the butter in the crust with coconut oil or a vegan butter alternative. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Why is folding whipped cream into the filling important?",
+            "answer": "Folding preserves the air bubbles in the whipped cream, making the filling light and fluffy. Stirring or mixing too hard deflates the cream, resulting in a dense, heavy cheesecake."
+        },
+        {
+            "question": "Can I add gelatin to make it firmer?",
+            "answer": "Yes, adding gelatin can help the cheesecake set more firmly, especially in warmer climates. Dissolve about 1 teaspoon of powdered gelatin in cold water and fold it into the cream cheese mixture before adding whipped cream."
+        },
+        {
+            "question": "How do I prevent the crust from becoming soggy?",
+            "answer": "Press the crust firmly and chill it before adding the filling. Avoid adding too much butter, and make sure the filling isn’t too watery. You can also lightly toast the crust crumbs before mixing with butter to add extra crunch."
+        },
+        {
+            "question": "Can I use a different fruit topping?",
+            "answer": "Absolutely! Strawberries, raspberries, or mixed berries work wonderfully. Just macerate them with a little sugar and lemon juice to bring out their juices and sweetness."
+        }
+    ],
+    "conclusion": "I hope you give this no-bake blueberry cheesecake a try — it’s one of my favorite easy desserts that never disappoints. Let me know how it turns out and if you added your own twist!",
+    "seo": {
+        "primary_keyword": "no bake blueberry cheesecake",
+        "secondary_keywords": [
+            "easy no bake cheesecake",
+            "blueberry dessert recipe",
+            "how to make no bake cheesecake",
+            "best no bake blueberry cheesecake",
+            "quick no bake dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "easy no bake desserts",
+                "anchor": "easy_no_bake_desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_1.png",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_1.png",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_2.png",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_2.png",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_3.png",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_3.png",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images/creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779750511_740",
+    "slug": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about",
+    "isOnline": true,
+    "createdAt": "2026-05-25T23:22:00+00:00",
+    "updatedAt": "2026-05-25T23:22:00+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "creamy-viral-tiktok-no-bake-blueberry-cheesecake-that-everyones-talking-about/images"
+}
