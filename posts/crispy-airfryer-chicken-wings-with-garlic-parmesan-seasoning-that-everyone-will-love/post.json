@@ -1,0 +1,340 @@
+{
+    "title": "Crispy Airfryer Chicken Wings with Garlicky Parmesan Twist",
+    "promptIMG": "Food photography: Crispy Airfryer Chicken Wings with Garlicky Parmesan, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These wings are my absolute favorite for game nights—crispy, flavorful, and no deep frying needed. Tossed in a garlicky parmesan blend, they’re perfect for sharing with friends or family any time you want a tasty snack!",
+    "hashtags": "#airfryerwings #chickenwings #garlicparmesan",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Game Night Favorite: Garlicky Parmesan Wings You’ll Crave",
+            "description": "These airfryer wings turn out crispy and packed with garlicky parmesan flavor every time. Perfect for your next get-together or casual snack. Save this recipe for your next craving! 🍗🧄🧀 #airfryerrecipes #chickenwings #snackideas"
+        },
+        {
+            "title": "How to Make Crispy Parmesan Garlic Wings in the Airfryer",
+            "description": "Want crispy wings without the mess of frying? This recipe is your answer! Easy to make, full of flavor, and ready in under an hour. Try it today and impress your guests! 🍽️🔥 #easychicken #airfryermeals #parmesanwings"
+        },
+        {
+            "title": "The Best Airfryer Chicken Wings with Garlic and Parmesan",
+            "description": "These wings are juicy inside and perfectly crisp outside, coated in a garlicky parmesan mix that’s addictive. A must-try for wing lovers! Discover how simple it is to make at home. 🍗✨ #homemadewings #chickenrecipes #garlicparmesan"
+        },
+        {
+            "title": "Crunchy Garlic Parmesan Wings Made Easy in the Airfryer",
+            "description": "Say goodbye to greasy wings! These airfryer garlic parmesan wings are crispy, flavorful, and so easy to whip up. Perfect for a quick snack or party platter. Save this recipe now! 🧄🧀🍗 #crispywings #airfryerdishes #snacktime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 pounds chicken wings, whole or separated",
+        "1 tablespoon olive oil, room temperature",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1 teaspoon smoked paprika",
+        "Salt and black pepper to taste",
+        "1/2 cup grated Parmesan cheese, freshly grated",
+        "2 cloves garlic, minced",
+        "2 tablespoons unsalted butter, melted",
+        "1 tablespoon fresh parsley, chopped (optional)"
+    ],
+    "yield": "Approximately 24 wings, 4 servings",
+    "introduction": "I first tried making these garlicky parmesan airfryer wings when I wanted a crispy snack without the hassle of deep frying. Honestly, my first attempt was a bit soggy—turns out, drying the wings really well before cooking is key! Since then, I’ve tweaked the seasoning and cooking times until the wings come out perfectly crispy every time. What I love most about this recipe is how the parmesan and garlic mix clings to the wings, giving a rich, savory punch without overpowering the chicken. The airfryer locks in moisture, so the meat stays juicy inside with a golden crust outside. It’s a game night staple in my house now, and honestly, it’s great any time you want a satisfying bite without heating up the whole kitchen. Plus, tossing the wings in melted butter with fresh garlic right after cooking is a simple step that really elevates the flavor. I’m excited for you to try these—you might just find your new favorite wing recipe!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken wings dry with paper towels. This step is crucial because excess moisture will steam the wings instead of crisping them up. Once dry, place them in a large bowl and drizzle with olive oil, tossing to coat evenly. The oil helps the seasoning stick and promotes browning in the airfryer. Make sure every wing is lightly coated but not dripping with oil to avoid sogginess.",
+            "timing": 10,
+            "doneness_cue": "Wings feel tacky but not wet, evenly coated with oil"
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, mix garlic powder, onion powder, smoked paprika, salt, and pepper. Sprinkle this seasoning blend over the wings and toss until well coated. This dry rub layers in flavor that will toast nicely in the airfryer. Don’t rush this step—take a moment to make sure the spices cover every wing for maximum taste.",
+            "timing": 5,
+            "doneness_cue": "Wings are evenly dusted with a reddish seasoning mix"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your airfryer to 400°F (200°C) for about 5 minutes. Preheating ensures the wings start cooking immediately, which helps crisp the skin quickly. If you skip this, wings may cook unevenly or take longer to develop a crunchy texture.",
+            "timing": 5,
+            "doneness_cue": "Airfryer display shows 400°F and is hot to the touch"
+        },
+        {
+            "step": 4,
+            "instruction": "Arrange the wings in a single layer in the airfryer basket without overcrowding. Crowding traps steam and prevents crisping. You might need to cook in batches depending on your airfryer size. This spacing is what creates that irresistible crunch on the skin.",
+            "timing": 2,
+            "doneness_cue": "Wings sit comfortably spaced with no overlap"
+        },
+        {
+            "step": 5,
+            "instruction": "Cook the wings at 400°F for 25 to 30 minutes, shaking the basket every 8 to 10 minutes. Shaking moves the wings around so they cook evenly and all sides get crispy. If you don’t shake, some wings may burn while others stay soggy. Keep an eye on them toward the end to avoid overcooking.",
+            "timing": 30,
+            "doneness_cue": "Wings are golden brown with crispy edges and no pink spots"
+        },
+        {
+            "step": 6,
+            "instruction": "While the wings cook, melt the butter in a small pan over low heat. Add minced garlic and gently cook for 1-2 minutes until fragrant but not browned. This step infuses the butter with fresh garlic flavor, which will coat the wings beautifully.",
+            "timing": 5,
+            "doneness_cue": "Butter is melted and has a fresh garlicky aroma"
+        },
+        {
+            "step": 7,
+            "instruction": "Once the wings are done, transfer them to a large bowl. Immediately pour the garlic butter over the hot wings and toss to coat evenly. The heat helps the butter soak in, making the wings extra flavorful and moist. Don’t skip this step—it’s what sets these wings apart.",
+            "timing": 3,
+            "doneness_cue": "Wings glisten with garlic butter coating"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the freshly grated Parmesan cheese over the tossed wings and gently mix again. The cheese sticks to the butter, adding a savory, slightly salty finish. Use fresh Parmesan for the best melt and flavor; pre-grated cheese won’t adhere as well.",
+            "timing": 2,
+            "doneness_cue": "Wings are evenly coated with a cheesy layer"
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: Garnish the wings with chopped fresh parsley for a pop of color and a hint of brightness. Serve immediately while hot and crispy. These wings pair beautifully with your favorite dipping sauces or just as they are for a satisfying snack or meal.",
+            "timing": 1,
+            "doneness_cue": "Wings look vibrant with green parsley sprinkled on top"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Garlic Parmesan Airfryer Wings Recipe Works",
+        "content": "<p>The magic behind these crispy airfryer wings starts with drying the chicken thoroughly. Moisture on the skin creates steam when heated, which prevents the skin from crisping up. By patting the wings dry and lightly coating them with oil, you create an environment that encourages the Maillard reaction—a chemical process where proteins and sugars react under heat to form that delicious golden-brown crust that’s both flavorful and crunchy.</p><p>Using a dry rub with garlic powder, onion powder, and smoked paprika layers in flavor while also helping to draw out moisture from the skin, further enhancing crispness. The airfryer’s circulating hot air cooks the wings evenly on all sides, mimicking deep-frying but without submerging the wings in oil, making it a healthier choice that still delivers on texture.</p><p>After cooking, tossing the wings in melted butter infused with fresh garlic adds richness and a fresh, savory aroma that elevates the dish. The butter also acts as a glue for the freshly grated Parmesan cheese, which adds a salty, nutty finish that complements the crispy skin perfectly. Freshly grated Parmesan is important because it melts slightly and adheres well, unlike pre-grated versions that can be powdery and dry.</p><p>The final sprinkle of parsley isn’t just for looks—it adds a mild herbaceous note that balances the richness of the butter and cheese. Altogether, these steps and ingredients combine to create wings that are crispy, juicy, and bursting with layered flavor, making this recipe a dependable crowd-pleaser.</p>",
+        "ingredient_notes": {
+            "chicken wings": "Look for fresh, high-quality chicken wings with the skin intact for the best results. The skin renders fat during cooking, which crisps up beautifully in the airfryer. If using frozen wings, thaw them fully and pat dry to avoid sogginess. Whole wings or separated flats and drumettes both work well; just adjust cooking time slightly if needed.",
+            "olive oil": "Use a light, neutral olive oil to coat the wings. It helps the seasoning stick and promotes browning without imparting a strong flavor. Avoid extra-virgin olive oil for high-heat cooking as it has a lower smoke point and can burn, affecting taste.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese is key for flavor and texture. It melts slightly on the hot wings and adds a nutty, salty finish. Pre-grated or powdered Parmesan lacks moisture and often contains anti-caking agents that prevent proper melting and adhesion.",
+            "garlic": "Fresh garlic is preferred for the butter sauce because it provides a vibrant, sharp flavor that powder can't match. Sautéing the minced garlic gently infuses the butter without burning it, which would create bitterness. If using garlic powder as a substitute, add it to the dry rub instead.",
+            "unsalted butter": "Using unsalted butter gives you control over the saltiness of the wings. Butter adds richness and helps distribute the garlic and Parmesan flavors evenly. Melt it gently to avoid browning, which can alter the flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry the wings thoroughly before seasoning.",
+            "reason": "Removing excess moisture is essential to achieve crispy skin. Water creates steam during cooking, which keeps the skin soft rather than crisp. Patting wings dry with paper towels ensures the skin crisps up properly in the airfryer."
+        },
+        {
+            "tip": "Shake the airfryer basket every 8-10 minutes while cooking.",
+            "reason": "Shaking redistributes the wings so they cook evenly and all sides get exposed to hot air. This prevents uneven browning or soggy spots caused by wings sticking together or sitting too long on one side."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese for coating.",
+            "reason": "Freshly grated Parmesan melts slightly and clings nicely to the butter-coated wings, creating a savory crust. Pre-grated cheese often contains anti-caking agents that prevent melting and result in a powdery texture."
+        },
+        {
+            "tip": "Preheat your airfryer before cooking.",
+            "reason": "Starting with a hot airfryer jumpstarts the Maillard reaction on the skin, helping wings crisp up faster and cook more evenly. Skipping this step can lead to longer cooking times and less crispy results."
+        },
+        {
+            "tip": "Cook wings in a single layer without overcrowding.",
+            "reason": "Overcrowding traps steam and reduces airflow, which softens the skin. Cooking in batches if necessary ensures each wing crisps up nicely rather than steaming."
+        },
+        {
+            "tip": "Infuse butter with fresh garlic over low heat.",
+            "reason": "Gently cooking garlic in melted butter releases its aroma and flavor without burning. Burnt garlic tastes bitter and can ruin the sauce, so low heat is crucial."
+        },
+        {
+            "tip": "Serve wings immediately after tossing with butter and Parmesan.",
+            "reason": "The coating adheres best while the wings are hot, ensuring maximum flavor and crispness. Waiting too long can cause the cheese to clump or the skin to soften."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying wings before cooking.",
+            "why_it_happens": "Many cooks underestimate how much moisture is on raw chicken skin and skip drying to save time.",
+            "fix": "Pat wings very thoroughly with paper towels before seasoning. This removes surface water that would steam and prevent crisping during airfrying."
+        },
+        {
+            "mistake": "Overcrowding the airfryer basket.",
+            "why_it_happens": "Trying to cook all wings at once to save time is tempting but reduces airflow.",
+            "fix": "Cook wings in batches if needed, arranging them in a single layer with space between each piece to allow hot air circulation."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Pre-grated cheese is convenient but doesn’t melt or stick well due to anti-caking agents.",
+            "fix": "Grate Parmesan fresh from the block using a fine grater for best melting and flavor adhesion."
+        },
+        {
+            "mistake": "Skipping the garlic butter toss step.",
+            "why_it_happens": "Some think seasoning before cooking is enough and overlook finishing touches.",
+            "fix": "After cooking, toss wings immediately with warm garlic butter and Parmesan to coat them evenly and lock in flavor."
+        },
+        {
+            "mistake": "Cooking at too low temperature.",
+            "why_it_happens": "Lower temps cook wings but don’t generate enough heat for crisp skin.",
+            "fix": "Cook at 400°F to ensure the skin crisps quickly and the meat stays juicy inside."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Garlic Parmesan Wings",
+            "description": "Add 1 teaspoon cayenne pepper or hot paprika to the dry rub for a spicy kick. You can also toss the finished wings with a drizzle of hot sauce mixed into the garlic butter for extra heat. Expect a bolder flavor with the same crispy texture.",
+            "technical_note": "Spicy powders may darken faster; watch wings closely to prevent burning."
+        },
+        {
+            "name": "Lemon Herb Garlic Parmesan Wings",
+            "description": "Mix in 1 teaspoon lemon zest and 1 tablespoon chopped fresh thyme or rosemary into the Parmesan mixture. The citrus adds brightness while herbs bring an earthy aroma, creating a fresh twist on the classic flavor.",
+            "technical_note": "Add herbs after cooking to preserve their delicate flavors."
+        },
+        {
+            "name": "Honey Garlic Parmesan Wings",
+            "description": "After tossing with garlic butter, drizzle wings with 1-2 tablespoons honey for a sweet-savory combo. The honey caramelizes slightly on hot wings, adding a sticky glaze that’s irresistible. Great for those who love a touch of sweetness.",
+            "technical_note": "Add honey right before serving to avoid burning sugars during airfrying."
+        },
+        {
+            "name": "Parmesan Ranch Wings",
+            "description": "Toss wings with garlic butter and Parmesan as usual, then sprinkle with dried ranch seasoning or serve with ranch dip. This variation brings a creamy, tangy element that pairs perfectly with crispy wings.",
+            "technical_note": "Use ranch seasoning sparingly as it can overpower the garlic and cheese flavors."
+        },
+        {
+            "name": "Asian-Inspired Garlic Parmesan Wings",
+            "description": "Add 1 tablespoon soy sauce and 1 teaspoon grated ginger to the garlic butter before tossing. This creates a savory umami flavor with a hint of warmth, blending Italian and Asian flavors beautifully.",
+            "technical_note": "Reduce salt in dry rub to balance the soy sauce saltiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "32g",
+        "fiber_grams": "0g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Wings can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store wings in an airtight container in the fridge for up to 3 days. They may lose some crispness but reheat well. For best texture, reheat in the airfryer or oven rather than microwave.",
+        "freezer": "Freeze cooked wings in a freezer-safe container or bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating for best results.",
+        "reheating": "Reheat wings in the airfryer at 375°F for 5-7 minutes to restore crispness. Avoid microwaving as it makes skin soggy. Add a splash of butter or garlic butter before reheating to refresh flavor.",
+        "make_ahead_strategy": "You can prepare and season wings 1 day ahead, keeping them covered in the fridge. Cook fresh the next day for optimal crispiness. Alternatively, cook wings fully, then reheat as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen wings directly in the airfryer?",
+            "answer": "It’s best to thaw frozen wings completely before cooking to ensure even cooking and crispiness. Cooking frozen wings directly may result in uneven texture—some parts overcooked while others remain underdone."
+        },
+        {
+            "question": "What if I don’t have an airfryer?",
+            "answer": "You can bake these wings in a conventional oven at 425°F on a wire rack over a baking sheet for about 40-45 minutes, flipping halfway. The wire rack helps air circulate for crisp skin, mimicking the airfryer effect."
+        },
+        {
+            "question": "Can I use garlic powder instead of fresh garlic in the butter?",
+            "answer": "Yes, but fresh garlic adds a brighter, more vibrant flavor. If using powder, add it to the dry rub instead and omit fresh garlic in the butter to avoid overpowering bitterness."
+        },
+        {
+            "question": "How do I make the wings extra crispy?",
+            "answer": "Pat wings very dry, don’t overcrowd the basket, preheat the airfryer, and shake the basket regularly. These steps maximize crisping by promoting airflow and preventing steaming."
+        },
+        {
+            "question": "Can I make these wings gluten-free?",
+            "answer": "Absolutely! This recipe is naturally gluten-free as it uses simple spices and Parmesan cheese. Just double-check your Parmesan doesn’t contain any additives with gluten."
+        },
+        {
+            "question": "What dipping sauces work best with these wings?",
+            "answer": "Ranch, blue cheese, or a simple hot sauce complement these garlicky parmesan wings beautifully. You can also try honey mustard or a creamy garlic dip for variety."
+        },
+        {
+            "question": "How do I store leftover wings to keep them crispy?",
+            "answer": "Store leftovers in an airtight container in the fridge. To maintain crispness when reheating, use the airfryer or oven rather than the microwave, which can make skin soggy."
+        },
+        {
+            "question": "What’s the best way to reheat these wings without drying them out?",
+            "answer": "Reheat in the airfryer at 375°F for 5-7 minutes. This restores crispiness and warms the meat evenly. Adding a little garlic butter before reheating helps keep them moist and flavorful."
+        }
+    ],
+    "conclusion": "I hope you love making and eating these garlicky parmesan airfryer wings as much as I do! Don’t forget to share your wing night stories and tweaks—I’d love to hear how yours turn out.",
+    "seo": {
+        "primary_keyword": "garlic parmesan airfryer wings",
+        "secondary_keywords": [
+            "crispy airfryer chicken wings",
+            "easy parmesan garlic wings",
+            "how to make airfryer wings",
+            "best garlic parmesan wings recipe",
+            "easy chicken wing recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "airfryer cooking tips",
+                "anchor": "airfryer-cooking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_1.png",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_1.png",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_2.png",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_2.png",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_3.png",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_3.png",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images/crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779837287_593",
+    "slug": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-05-26T23:25:28+00:00",
+    "updatedAt": "2026-05-26T23:25:28+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "crispy-airfryer-chicken-wings-with-garlic-parmesan-seasoning-that-everyone-will-love/images"
+}
