@@ -1,0 +1,337 @@
+{
+    "title": "Fresh Spring Berry Smoothie Bowl with Protein & Chia Seeds",
+    "promptIMG": "Food photography: Fresh Spring Berry Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant smoothie bowl blends juicy spring berries with protein and chia seeds for a filling, fiber-rich breakfast. The chia seeds add a fun texture and keep you full longer. Great for busy mornings or after a workout!",
+    "hashtags": "#smoothiebowl #healthybreakfast #springberries #fiberboost",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Berry Protein Smoothie Bowl!",
+            "description": "Brighten up your mornings with this fresh berry smoothie bowl packed with protein and fiber. It's easy to whip up and tastes amazing. Save this for your next healthy breakfast! 🍓🥣 #smoothiebowl #proteinpacked #healthyrecipes"
+        },
+        {
+            "title": "Quick & Nourishing Berry Smoothie Bowl for Busy Mornings",
+            "description": "Need a fast, wholesome breakfast? This berry smoothie bowl with chia seeds is your answer. Creamy, fruity, and loaded with nutrients. Try it today and fuel your day the right way! 💪🍓 #breakfastideas #fiberboost #healthyfood"
+        },
+        {
+            "title": "Fiber-Rich Spring Berry Smoothie Bowl to Keep You Full Longer",
+            "description": "Enjoy the natural sweetness of spring berries with protein and chia seeds in this delicious smoothie bowl. Perfect for post-workout or anytime you need a healthy pick-me-up. Discover now! 🌸🥄 #smoothie #healthybreakfast #postworkoutfuel"
+        },
+        {
+            "title": "Berry Smoothie Bowl with a Twist: Protein & Chia Seeds Combo",
+            "description": "This smoothie bowl isn’t just pretty—it’s packed with protein and fiber from chia seeds. Perfect for a quick, nourishing meal that keeps hunger at bay. Give it a go and save for later! 🍓✨ #smoothiebowlrecipe #healthybreakfast #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup mixed fresh spring berries (strawberries, blueberries, raspberries)",
+        "1/2 cup plain Greek yogurt, chilled",
+        "1/2 cup unsweetened almond milk",
+        "1 scoop vanilla protein powder",
+        "2 tablespoons chia seeds",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Toppings: sliced fresh berries, banana slices, granola, shredded coconut"
+    ],
+    "yield": "2 smoothie bowls",
+    "introduction": "I first stumbled upon this smoothie bowl recipe during a hectic spring morning when I needed something quick, healthy, and satisfying. What I love about this version is how it combines fresh, seasonal berries with protein powder and chia seeds, making it both delicious and nourishing. The chia seeds add this lovely little crunch and boost the fiber, which keeps me feeling full until lunchtime. I’ve tried a few variations over time, but this balance of creamy yogurt, fresh fruit, and protein hits the spot every time. Plus, it’s super easy to customize with whatever berries or toppings you have on hand. The trick I learned is to blend the chia seeds just enough to keep the texture interesting without turning the whole bowl gummy. When you serve it up with fresh fruit and a sprinkle of granola, it’s like breakfast magic—bright, fresh, and energizing. This bowl feels like a little indulgence but with all the good stuff your body needs. Perfect for busy mornings or post-workout refueling, it’s become a staple in my routine that I’m excited to share with you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your fresh berries thoroughly under cold water. It’s important to remove any dirt or residue, especially since these berries will be the star of your smoothie bowl. Using fresh berries at their peak ripeness ensures the best natural sweetness and vibrant color in your bowl. Avoid overripe or mushy berries because they can affect the texture and overall flavor balance.",
+            "timing": "5 minutes",
+            "doneness_cue": "Berries should be clean, firm, and bright in color with no signs of bruising."
+        },
+        {
+            "step": 2,
+            "instruction": "In a blender, combine the mixed berries, Greek yogurt, almond milk, and vanilla protein powder. Blend on medium speed until smooth but still thick enough to hold a spoon. The yogurt adds creaminess while the protein powder boosts the nutrient profile, making this bowl more filling. If the mixture is too thick, add a splash more almond milk, but be careful not to thin it out too much or the bowl won’t hold toppings well.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Smoothie mixture should be creamy, thick, and pourable but not runny."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chia seeds last and pulse the blender just a few times to incorporate them evenly without breaking them down completely. This technique keeps the seeds’ texture intact, offering little bursts of crunch and a subtle nutty flavor. Blending chia seeds too long can make the smoothie gelatinous, which some people find unpleasant. Stirring them in gently also helps them hydrate properly once the bowl is assembled.",
+            "timing": "1 minute",
+            "doneness_cue": "Chia seeds are evenly dispersed but still visible as tiny crunchy bits."
+        },
+        {
+            "step": 4,
+            "instruction": "Taste the smoothie mixture and add honey or maple syrup if you prefer it sweeter. Since berries can vary in sweetness depending on the season, this optional step lets you adjust accordingly. Adding a little natural sweetener balances tartness without overpowering the fresh fruit flavors. Mix gently to combine the sweetener evenly.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie tastes balanced — not too tart or overly sweet."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the smoothie into bowls, filling each about three-quarters full to leave room for toppings. Presentation matters here because the toppings add visual appeal and texture contrast. Smooth the top with the back of a spoon for a neat finish. This step sets the stage for your toppings to shine and makes the bowl more inviting.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie surface is even and smooth, ready for toppings."
+        },
+        {
+            "step": 6,
+            "instruction": "Add your choice of toppings like sliced fresh berries, banana slices, granola, and shredded coconut. These add crunch, sweetness, and extra nutrients. Layering toppings thoughtfully creates a colorful, appetizing bowl. I like to sprinkle granola last so it stays crunchy. This step lets you customize the bowl to your taste and dietary needs.",
+            "timing": "3 minutes",
+            "doneness_cue": "Toppings are evenly spread and visually appealing."
+        },
+        {
+            "step": 7,
+            "instruction": "Let the smoothie bowl sit for a couple of minutes before eating to allow the chia seeds to absorb some moisture. This resting time thickens the bowl slightly and enhances the texture, making it more satisfying. Don’t wait too long though, or the chia can make the bowl too thick and gummy.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Smoothie thickens slightly but remains scoopable."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately with a spoon and enjoy your fresh, nourishing breakfast. Eating right away ensures the best texture and flavor. If you need to prepare ahead, keep the smoothie base and toppings separate until ready to serve to maintain freshness.",
+            "timing": "Immediate",
+            "doneness_cue": "Smoothie bowl is fresh, thick, and topped beautifully."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender right after to avoid chia seeds and yogurt residue from hardening. Rinse with warm water and a drop of dish soap, then blend some clean water to rinse thoroughly. This keeps your equipment in great shape and ready for your next smoothie bowl adventure.",
+            "timing": "5 minutes",
+            "doneness_cue": "Blender is clean with no stuck bits or residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Bowl Hits the Mark",
+        "content": "<p>This smoothie bowl succeeds because of the balance of ingredients and careful technique. Using fresh spring berries brings natural sweetness and vibrant antioxidants, while the protein powder adds satiety and muscle-repair benefits, especially important post-workout. The Greek yogurt creates a creamy texture and tangy flavor that complements the berries beautifully.</p><p>Chia seeds play a special role—they’re packed with fiber and omega-3 fatty acids, which promote digestive health and heart wellness. By pulsing them gently into the blend instead of fully blending, you preserve their crunch and prevent the smoothie from becoming overly gelatinous. This contrasts nicely with the creamy base and fresh fruit toppings.</p><p>Temperature and thickness matter here too. The almond milk thins the mixture just enough to blend smoothly but keeps it thick enough to hold toppings. Allowing the bowl to rest briefly lets the chia seeds absorb liquid and thicken the texture without turning gummy, creating a satisfying mouthfeel that keeps you full longer.</p><p>Presentation is part of the experience—layering colorful berries, banana slices, and granola adds texture variety and visual appeal, making the bowl inviting and enjoyable to eat. All these elements combined make this smoothie bowl a nourishing, tasty, and practical breakfast that’s easy to prepare and customize.</p>",
+        "ingredient_notes": {
+            "Fresh Spring Berries": "Choose ripe, firm berries free of bruises or mold for the best flavor and texture. Seasonal berries like strawberries, blueberries, and raspberries offer a range of antioxidants and natural sweetness. Using fresh rather than frozen berries ensures a brighter color and fresher taste, although frozen can be used in a pinch for a colder bowl.",
+            "Greek Yogurt": "Opt for plain, full-fat or low-fat Greek yogurt for creaminess and tang. Greek yogurt adds protein and thickens the smoothie naturally. Avoid flavored yogurts with added sugars to keep the bowl healthy and control sweetness. Stir the yogurt well before measuring to avoid lumps.",
+            "Vanilla Protein Powder": "A high-quality vanilla protein powder adds flavor and helps keep you full. Whey protein blends smoothly and has a mild taste, but plant-based options work well too. Avoid powders with artificial sweeteners or fillers. The vanilla notes complement the berries perfectly.",
+            "Chia Seeds": "Look for fresh, whole chia seeds with a nutty aroma. These tiny seeds absorb liquid and expand, thickening the smoothie and adding fiber. To avoid a slimy texture, pulse them briefly in the blender or stir in after blending. Store in a cool, dry place to keep them fresh.",
+            "Almond Milk": "Use unsweetened almond milk to keep calories low and prevent overpowering the berry flavors. Almond milk thins the smoothie just enough to blend smoothly while maintaining a creamy consistency. Other plant milks can be substituted, but texture and flavor may vary."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe but firm berries for the best texture and sweetness.",
+            "reason": "Ripe berries have the most natural sugars and flavor, but if they're too soft or overripe, they can turn your smoothie bowl mushy and affect the visual appeal. Firmer berries blend into a thicker base and hold up better as toppings."
+        },
+        {
+            "tip": "Pulse chia seeds briefly instead of fully blending them.",
+            "reason": "Blending chia seeds too much releases their gel-like coating, which can make the smoothie gummy or slimy. Pulsing keeps the seeds intact, giving a pleasant crunch and better texture contrast."
+        },
+        {
+            "tip": "Add sweetener last and taste carefully.",
+            "reason": "Berries vary in sweetness depending on the season and variety. Adding honey or maple syrup after blending lets you adjust the sweetness precisely, preventing an overly sweet or bland bowl."
+        },
+        {
+            "tip": "Let the smoothie bowl rest for a few minutes before eating.",
+            "reason": "This allows the chia seeds to absorb moisture and thicken the bowl slightly, improving texture and making it more filling without becoming too dense."
+        },
+        {
+            "tip": "Keep toppings separate if prepping ahead.",
+            "reason": "Toppings like granola and fresh fruit can get soggy if added too early. Storing them separately and adding just before serving keeps everything fresh and crunchy."
+        },
+        {
+            "tip": "Use a high-speed blender for smooth texture.",
+            "reason": "A powerful blender breaks down the berries and protein powder thoroughly, ensuring a creamy, lump-free base. Lower-powered blenders may leave seeds or chunks that affect mouthfeel."
+        },
+        {
+            "tip": "Experiment with different protein powders.",
+            "reason": "Different powders have varying flavors and textures. Finding one that blends well and complements the berries is key to a delicious smoothie bowl."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Over-blending chia seeds causing a slimy texture.",
+            "why_it_happens": "People often blend chia seeds too long trying to fully incorporate them, not realizing the gel-like coating breaks down and creates an unpleasant sliminess.",
+            "fix": "Pulse chia seeds briefly or stir them in after blending the smoothie base. This preserves their crunch and prevents the gummy texture."
+        },
+        {
+            "mistake": "Using overripe berries that make the smoothie watery.",
+            "why_it_happens": "Overripe berries release too much juice, thinning the smoothie and making it less creamy.",
+            "fix": "Choose firm, ripe berries and drain any excess liquid before blending."
+        },
+        {
+            "mistake": "Adding too much almond milk thinning the smoothie.",
+            "why_it_happens": "To make blending easier, some add excessive liquid, resulting in a runny smoothie bowl that can’t hold toppings well.",
+            "fix": "Start with less milk and add only enough to blend smoothly; the consistency should be thick enough to scoop."
+        },
+        {
+            "mistake": "Skipping the resting time before eating.",
+            "why_it_happens": "Impatience leads to eating immediately, missing the texture improvements from chia hydration.",
+            "fix": "Let the bowl sit for 2-3 minutes so chia seeds absorb moisture and thicken the mixture."
+        },
+        {
+            "mistake": "Mixing toppings into the base too early.",
+            "why_it_happens": "Toppings like granola get soggy quickly, losing their crunch and appeal.",
+            "fix": "Add toppings just before serving to keep them fresh and crunchy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Berry Smoothie Bowl",
+            "description": "Swap half the berries for mango and pineapple chunks for a tropical twist. Use coconut milk instead of almond milk to enhance the island vibe. This version is sweeter and creamier, with a bright, sunny flavor profile perfect for summer mornings.",
+            "technical_note": "Coconut milk is richer, so reduce quantity slightly to maintain thick consistency."
+        },
+        {
+            "name": "Green Berry Protein Bowl",
+            "description": "Add a handful of fresh spinach or kale to the blender for a nutrient boost without overpowering the berry flavor. This adds a mild earthiness and extra vitamins, making the bowl even healthier for a green smoothie fan.",
+            "technical_note": "Blend greens first with liquid to avoid leafy chunks; may need a bit more almond milk."
+        },
+        {
+            "name": "Peanut Butter Berry Smoothie Bowl",
+            "description": "Stir in a tablespoon of natural peanut butter for a rich, nutty flavor and extra protein. This variation adds creaminess and a satisfying depth, great for nut butter lovers looking for a heartier breakfast.",
+            "technical_note": "Peanut butter thickens the base; add a touch more milk if needed for blending."
+        },
+        {
+            "name": "Vegan Berry Chia Bowl",
+            "description": "Use plant-based protein powder and coconut yogurt instead of Greek yogurt to keep it vegan. Sweeten with maple syrup and top with toasted nuts for crunch. This version is dairy-free but still creamy and satisfying.",
+            "technical_note": "Plant-based yogurts can be thinner; adjust liquid quantity to keep thick texture."
+        },
+        {
+            "name": "Spiced Berry Smoothie Bowl",
+            "description": "Add a pinch of cinnamon and nutmeg to the blender for a warm spice note that complements the berries. This cozy twist is perfect for cooler mornings or when you want a comforting flavor boost.",
+            "technical_note": "Spices blend well with vanilla protein and don’t affect texture significantly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "8g",
+        "fiber_grams": "10g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Smoothie bowls are best eaten fresh and should not be left at room temperature for more than 1 hour as the dairy and fresh fruit can spoil.",
+        "refrigerator": "Store the smoothie base in an airtight container for up to 24 hours. Add toppings fresh before serving because granola and fresh fruit can become soggy and lose texture when refrigerated.",
+        "freezer": "Freezing smoothie bowls is not recommended because the texture changes significantly. However, you can freeze the smoothie base in ice cube trays for quick blending later. Freeze up to 1 month and thaw briefly before blending.",
+        "reheating": "Smoothie bowls are served cold and should not be reheated. If stored, stir well and add a splash of almond milk to refresh the texture before serving.",
+        "make_ahead_strategy": "Prepare the smoothie base the night before and store in the fridge. Keep toppings like granola and sliced fruit separate and add just before eating to maintain freshness and crunch."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Yes, frozen berries work well and can make the smoothie bowl thicker and colder. Just thaw them slightly or add a splash more almond milk to help blend smoothly. Using frozen berries is great if fresh ones aren’t in season."
+        },
+        {
+            "question": "What if I don’t have protein powder?",
+            "answer": "You can skip protein powder and add extra Greek yogurt or a spoonful of nut butter for protein. The bowl will be less protein-dense but still delicious and filling."
+        },
+        {
+            "question": "How can I make this smoothie bowl vegan?",
+            "answer": "Use plant-based protein powder and swap Greek yogurt for coconut or almond yogurt. Sweeten with maple syrup instead of honey. This keeps the bowl creamy and nutritious without animal products."
+        },
+        {
+            "question": "Why does my smoothie bowl get too thick or gummy?",
+            "answer": "Over-blending chia seeds or letting the bowl sit too long can cause a gummy texture. Pulse chia seeds briefly and eat the bowl within a few minutes after resting to avoid this."
+        },
+        {
+            "question": "Can I prepare this smoothie bowl ahead of time?",
+            "answer": "You can prepare the smoothie base a day ahead and store it in the fridge. Keep toppings separate to prevent sogginess and add them just before serving for the best texture and flavor."
+        },
+        {
+            "question": "What are good toppings besides berries and granola?",
+            "answer": "Try sliced banana, shredded coconut, chopped nuts, seeds, or cacao nibs. These add texture, flavor, and extra nutrients, letting you customize your bowl."
+        },
+        {
+            "question": "How do I prevent the smoothie bowl from separating?",
+            "answer": "Blending ingredients thoroughly and eating soon after preparation helps. If separation occurs, just stir gently before eating."
+        },
+        {
+            "question": "Is almond milk necessary, or can I use other liquids?",
+            "answer": "You can substitute with other plant milks, cow’s milk, or even coconut water. Just note that different liquids affect flavor and thickness, so adjust quantities accordingly."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this fresh berry smoothie bowl as much as I do. It’s a simple, nourishing way to start your day—please share how yours turns out!",
+    "seo": {
+        "primary_keyword": "spring berry smoothie bowl",
+        "secondary_keywords": [
+            "healthy smoothie bowl recipe",
+            "protein smoothie bowl",
+            "how to make smoothie bowl",
+            "easy berry smoothie bowl recipe",
+            "chia seed smoothie bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "How to make creamy smoothie bowls",
+                "anchor": "creamy-smoothie-bowls"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_1.png",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_1.png",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_2.png",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_2.png",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_3.png",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_3.png",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_9.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_5.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_4.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_8.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_6.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_7.webp",
+            "relativePath": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images/spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779792367_837",
+    "slug": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning",
+    "isOnline": true,
+    "createdAt": "2026-05-26T11:00:39+00:00",
+    "updatedAt": "2026-05-26T11:00:39+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "spring-berry-protein-smoothie-bowl-with-chia-seeds-a-fresh-start-to-your-morning/images"
+}
