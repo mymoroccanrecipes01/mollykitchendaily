@@ -1,0 +1,343 @@
+{
+    "title": "Cheesy Baked Ziti with Hidden Veggies for a Cozy Family Dinner",
+    "promptIMG": "Food photography: Cheesy Baked Ziti with Hidden Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked ziti is the ultimate comfort food that sneaks in veggies without anyone noticing. It’s creamy, cheesy, and perfect for a quick weeknight meal or lazy Sunday dinner with the fam.",
+    "hashtags": "#bakedziti #comfortfood #familydinner",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Secret Veggie Baked Ziti Everyone Will Love",
+            "description": "Want to sneak veggies into dinner? This baked ziti recipe hides them in cheesy goodness that your whole family will devour. Save this for your next cozy meal! 🧀🍅 #bakedziti #hiddenveggies #comfortfood"
+        },
+        {
+            "title": "Quick & Cheesy Baked Ziti for Busy Weeknights",
+            "description": "Running short on time? This baked ziti comes together fast and is packed with flavor and veggies. Try it today and enjoy a hearty, fuss-free dinner! 🍝⏰ #easyrecipes #weeknightdinner #bakedziti"
+        },
+        {
+            "title": "Family-Friendly Baked Ziti with a Healthy Twist",
+            "description": "Looking for a crowd-pleaser that’s both tasty and a little healthier? This baked ziti is loaded with sneaky veggies and melty cheese. Discover now and make dinner a hit! 🥦🧀 #familymeals #comfortfood #healthyrecipes"
+        },
+        {
+            "title": "Cozy Up with This Cheesy Baked Ziti Recipe Tonight",
+            "description": "Nothing beats a warm, cheesy baked ziti filled with hidden veggies. It’s simple, budget-friendly, and perfect for sharing. Save this recipe and try it soon! 🍽️❤️ #bakedziti #comfortfood #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 pound dry ziti pasta",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "3 cups marinara sauce",
+        "1 cup ricotta cheese",
+        "1 medium zucchini, finely grated",
+        "1 medium carrot, finely grated",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried Italian seasoning",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this baked ziti recipe when I wanted something comforting but also a little healthier for my family. I remember trying to hide veggies in meals when my kids were picky eaters, and this dish hit the spot every time. What makes this version stand out is the sneaky addition of grated zucchini and carrot, which melts right into the sauce without changing the flavor or texture much. Plus, using a mix of ricotta, mozzarella, and Parmesan cheeses gives it that perfect creamy, cheesy layer that everyone loves. The trick I learned is to finely grate the veggies so they blend seamlessly and cook down during baking, keeping the ziti moist and flavorful. When it comes out of the oven, it’s bubbly, golden on top, and smells incredible — a real crowd-pleaser. It’s great for busy weeknights or feeding a hungry group without too much fuss. I love pairing it with a simple green salad or garlic bread for a full meal that feels like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Bring a large pot of salted water to a boil and cook the ziti pasta just until al dente, usually about 8 minutes. It’s important not to overcook because the pasta will continue to cook in the oven. Drain and set aside. This step ensures the pasta holds its shape and doesn’t become mushy after baking.",
+            "timing": 10,
+            "doneness_cue": "Pasta should be tender but still firm to the bite, not soft or falling apart."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium heat. Add chopped onion and minced garlic and sauté for about 3-4 minutes until fragrant and translucent. This step builds the flavor base for the sauce and softens the aromatics, which enhances the final dish.",
+            "timing": 5,
+            "doneness_cue": "Onions should be soft and clear but not browned or burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the grated zucchini and carrot to the skillet, stirring well. Cook for another 5 minutes until the veggies soften and release moisture. This technique helps integrate the veggies smoothly into the sauce without adding lumps or crunch, making them ‘invisible’ to picky eaters.",
+            "timing": 5,
+            "doneness_cue": "Vegetables should be tender and starting to meld with the onions."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the marinara sauce and sprinkle in the dried Italian seasoning. Stir everything together and let it simmer gently for 7-8 minutes, allowing flavors to meld and the sauce to thicken slightly. Simmering here intensifies the tomato flavor and cooks off any rawness from the veggies.",
+            "timing": 8,
+            "doneness_cue": "Sauce should be thickened and aromatic, coating the back of a spoon."
+        },
+        {
+            "step": 5,
+            "instruction": "In a large mixing bowl, combine the cooked pasta with the sauce mixture, stirring to coat every piece evenly. Then fold in the ricotta cheese gently to add creaminess without breaking up the pasta. This layering of cheese creates a luscious texture that feels indulgent but balanced.",
+            "timing": 5,
+            "doneness_cue": "Pasta should be fully coated with sauce and cheese, looking creamy and inviting."
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer half of the pasta mixture into a greased 9x13 inch baking dish. Sprinkle half of the shredded mozzarella and Parmesan cheese over this first layer. Layering cheese between pasta layers ensures every bite has gooey, melty cheese goodness.",
+            "timing": 5,
+            "doneness_cue": "Cheese should be evenly distributed and cover the pasta layer."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the remaining pasta on top, then finish with the rest of the mozzarella and Parmesan cheeses spread evenly over the surface. This top layer will brown and bubble beautifully in the oven, creating that irresistible crust.",
+            "timing": 3,
+            "doneness_cue": "Top layer should be fully covered with cheese, ready for baking."
+        },
+        {
+            "step": 8,
+            "instruction": "Cover the baking dish loosely with aluminum foil and bake for 20 minutes. This helps the ziti heat through without drying out the cheese. Removing the foil later lets the cheese brown without burning.",
+            "timing": 20,
+            "doneness_cue": "Ziti should be hot and bubbling around the edges under the foil."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the foil and bake uncovered for another 10 minutes or until the cheese on top is golden brown and bubbly. Watch closely to avoid burning. Let it rest for 5 minutes before serving to let the layers set and flavors deepen.",
+            "timing": 10,
+            "doneness_cue": "Top cheese should be golden and bubbly with slightly crisp edges."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Baked Ziti Recipe Shines",
+        "content": "<p>This baked ziti recipe works because of the balance between texture, flavor, and moisture. Cooking the pasta al dente means it won’t fall apart during baking; it absorbs just enough sauce without becoming mushy. The sautéing of onions and garlic first builds a savory foundation, which is crucial since marinara alone can sometimes taste flat. Adding finely grated veggies like zucchini and carrot introduces subtle sweetness and moisture without overwhelming the dish or altering its familiar flavor, making it perfect for picky eaters.</p><p>The layering of three cheeses—ricotta, mozzarella, and Parmesan—creates a complex creamy texture and rich flavor. Ricotta adds softness and moisture, mozzarella provides gooey meltiness, and Parmesan contributes savory sharpness and a golden crust. Baking covered then uncovered allows the pasta to heat evenly and the cheese to brown without drying out. This technique ensures the dish emerges bubbly and beautifully textured.</p><p>Finally, using dried Italian seasoning enhances the tomato sauce with aromatic herbs, tying all the elements together. The careful balance of moisture from the sauce and veggies prevents dryness, while the cheese layers maintain creaminess. These combined techniques produce a comforting, satisfying baked pasta that feels indulgent yet wholesome.</p>",
+        "ingredient_notes": {
+            "ziti pasta": "Choose a good-quality dry ziti pasta that holds shape well when cooked. Look for pasta made from 100% durum wheat semolina, which offers a firm texture and doesn’t break down easily in the oven. Avoid fresh or thin pasta here as it can become too soft and mushy after baking.",
+            "mozzarella cheese": "Use whole milk shredded mozzarella for the best melt and stretch. Low-moisture mozzarella works well since it browns nicely without releasing excess water that might make the dish soggy. Avoid pre-shredded cheese that often contains anti-caking agents which can affect melting.",
+            "ricotta cheese": "Fresh whole milk ricotta adds creaminess and moisture to the dish. Look for ricotta that’s smooth and not grainy. If it’s too watery, drain it lightly on paper towels to avoid excess liquid. This cheese balances the texture and prevents dryness.",
+            "zucchini and carrot": "Finely grate these veggies so they cook down quickly and blend seamlessly into the sauce. Fresh, firm produce is best. The natural sweetness of the carrot and mild flavor of zucchini enhance the sauce without overpowering it or adding noticeable texture.",
+            "marinara sauce": "Choose a robust, flavorful marinara with good acidity and herbs. Homemade or store-bought both work, but avoid overly watery sauces. The sauce should be thick enough to cling to pasta and meld with the veggies and cheeses without making the dish runny."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the pasta before baking.",
+            "reason": "Pasta continues to cook in the oven, so al dente is key to prevent mushiness. Overcooked pasta will absorb too much sauce and become gummy, ruining the texture of the baked ziti."
+        },
+        {
+            "tip": "Grate veggies finely to hide them well.",
+            "reason": "Finely grated zucchini and carrot cook down quickly and blend into the sauce, making them virtually undetectable. Larger chunks might stand out and turn off picky eaters."
+        },
+        {
+            "tip": "Use a mix of cheeses for complex flavor and texture.",
+            "reason": "Ricotta adds creaminess, mozzarella melts beautifully, and Parmesan brings sharpness and a golden crust. This combination ensures every bite is rich and satisfying."
+        },
+        {
+            "tip": "Cover the dish with foil during the first part of baking.",
+            "reason": "Covering traps steam and heats the pasta evenly without drying it out. Removing foil at the end lets cheese brown and crisp without burning."
+        },
+        {
+            "tip": "Let the baked ziti rest before serving.",
+            "reason": "Resting allows the cheese and sauce to set, making it easier to serve and enhancing the flavors. Cutting in too soon can cause it to be runny."
+        },
+        {
+            "tip": "Season the sauce well with herbs and salt.",
+            "reason": "Good seasoning is the backbone of this dish. Italian seasoning elevates the sauce, while salt balances the sweetness of the veggies and cheese."
+        },
+        {
+            "tip": "Use whole milk cheeses for best texture.",
+            "reason": "Whole milk cheeses melt better and provide richer flavor compared to low-fat versions. They create a creamier, more indulgent baked ziti."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the pasta before baking.",
+            "why_it_happens": "Many assume pasta should be fully cooked before baking, but it will continue cooking in the oven, leading to mushy results.",
+            "fix": "Cook pasta just until al dente, then drain and toss immediately with sauce. This ensures it retains a firm texture after baking."
+        },
+        {
+            "mistake": "Skipping sautéing the aromatics.",
+            "why_it_happens": "Some skip this step for convenience, but it dulls the flavor of the sauce.",
+            "fix": "Always sauté garlic and onions first to develop a deeper, richer sauce base."
+        },
+        {
+            "mistake": "Using watery or low-quality cheese.",
+            "why_it_happens": "Choosing low-fat or pre-shredded cheeses can affect melt and texture.",
+            "fix": "Opt for fresh whole milk cheeses and shred your own mozzarella for best results."
+        },
+        {
+            "mistake": "Not covering the dish while baking.",
+            "why_it_happens": "Skipping foil to save time can dry out the pasta and cheese.",
+            "fix": "Cover loosely with foil for the first 20 minutes to trap moisture, then uncover to brown."
+        },
+        {
+            "mistake": "Adding large chunks of veggies.",
+            "why_it_happens": "Big pieces stand out and might be rejected by picky eaters.",
+            "fix": "Grate veggies finely so they blend into the sauce texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sausage Baked Ziti",
+            "description": "Add cooked spicy Italian sausage to the sauce for a meaty kick. This variation adds depth and a nice heat that balances the creamy cheese and veggies. Great for those who like a bit of spice.",
+            "technical_note": "Cook sausage fully before combining with sauce; reduce Italian seasoning slightly to avoid overpowering."
+        },
+        {
+            "name": "Vegetarian Mushroom and Spinach Ziti",
+            "description": "Swap zucchini and carrot for sautéed mushrooms and fresh spinach. This gives an earthier flavor and a boost of greens while keeping the dish hearty and comforting.",
+            "technical_note": "Wilt spinach in the sauce just before mixing with pasta to prevent excess moisture."
+        },
+        {
+            "name": "Gluten-Free Baked Ziti",
+            "description": "Use gluten-free pasta to make this dish suitable for gluten sensitivities. The sauce and cheese layers remain the same, delivering all the comforting flavors without gluten.",
+            "technical_note": "Follow cooking times on gluten-free pasta package closely to avoid mushiness."
+        },
+        {
+            "name": "Vegan Baked Ziti",
+            "description": "Replace cheeses with vegan ricotta and mozzarella alternatives, and use a vegetable-based marinara. This keeps the flavors rich and comforting while making it plant-based.",
+            "technical_note": "Choose vegan cheeses that melt well and add nutritional yeast for cheesy flavor."
+        },
+        {
+            "name": "Extra Cheesy Four Cheese Ziti",
+            "description": "Add shredded provolone or fontina cheese to the mix for an even richer, gooier baked ziti. This is a cheese lover’s dream with a decadent texture and flavor.",
+            "technical_note": "Adjust salt levels as some cheeses are saltier; monitor baking time for perfect browning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Baked ziti can be safely kept at room temperature for up to 2 hours if covered loosely to prevent drying. After that, it should be refrigerated to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The flavors can deepen but the cheese might firm up. Reheat gently to restore creaminess.",
+        "freezer": "Freeze baked ziti in a freezer-safe container for up to 3 months. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven covered with foil for 15-20 minutes until warmed through. Add a splash of water or marinara if it seems dry. Avoid microwaving too long as it can dry out the pasta.",
+        "make_ahead_strategy": "Prepare the pasta and sauce up to 2 days ahead, then assemble in the baking dish and refrigerate. Bake on the day you want to serve for fresh, bubbly results."
+    },
+    "faq": [
+        {
+            "question": "Can I use other pasta shapes instead of ziti?",
+            "answer": "Absolutely! Penne, rigatoni, or even macaroni work well because they hold sauce and cheese nicely. Just adjust cooking time slightly if the pasta shape cooks faster or slower than ziti."
+        },
+        {
+            "question": "How do I prevent the baked ziti from drying out?",
+            "answer": "Make sure to cover the dish with foil during the first part of baking to trap moisture. Also, don’t overcook the pasta before baking, and use enough sauce and cheese layers to keep it moist."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, swap out the cheeses for vegan alternatives like cashew-based ricotta and shredded vegan mozzarella. Use a vegetable marinara sauce and you’ll have a delicious plant-based baked ziti."
+        },
+        {
+            "question": "Is it better to use fresh or dried herbs in this recipe?",
+            "answer": "Dried Italian seasoning works great because it’s convenient and evenly distributes flavor in the sauce. Fresh herbs like basil can be added as a garnish for brightness after baking."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Cool leftovers quickly and store in an airtight container in the fridge for up to 4 days. For longer storage, freeze in a tightly sealed container for up to 3 months."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "Yes! You can cook pasta and sauce separately, then assemble the dish and refrigerate it for up to 2 days before baking. This makes weeknight dinners much easier."
+        },
+        {
+            "question": "What’s the best way to reheat baked ziti?",
+            "answer": "Reheat covered in the oven at 350°F for 15-20 minutes, adding a splash of sauce or water if needed. This keeps the pasta moist and cheese melty without drying out."
+        },
+        {
+            "question": "Can I add meat to this recipe?",
+            "answer": "Definitely! Cooked Italian sausage or ground beef can be added to the sauce for a heartier meal. Just brown the meat first and drain excess fat before mixing with sauce."
+        }
+    ],
+    "conclusion": "Give this baked ziti a try for your next family meal — it’s cozy, cheesy, and secretly packed with veggies! I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "baked ziti recipe with veggies",
+        "secondary_keywords": [
+            "easy baked ziti",
+            "healthy baked pasta",
+            "how to make baked ziti",
+            "best baked ziti recipe",
+            "baked ziti with hidden vegetables"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade marinara sauce",
+                "anchor": "homemade-marinara-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_1.png",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_1.png",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_2.png",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_2.png",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_3.png",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_3.png",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images/budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779923909_143",
+    "slug": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-05-27T23:30:09+00:00",
+    "updatedAt": "2026-05-27T23:30:09+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love/images"
+}

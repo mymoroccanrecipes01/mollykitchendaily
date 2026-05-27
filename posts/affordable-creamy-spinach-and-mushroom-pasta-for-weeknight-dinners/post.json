@@ -1,0 +1,344 @@
+{
+    "title": "Creamy Spinach and Mushroom Pasta That’s Cozy and Quick for Weeknights",
+    "promptIMG": "Food photography: creamy spinach and mushroom pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy spinach and mushroom pasta is my go-to cozy dinner when I want something indulgent but easy. The garlicky cream sauce and fresh spinach make it feel special. Perfect for busy weeknights or when you need a comforting meal fast!",
+    "hashtags": "#spinachpasta #comfortfood #quickdinner",
+    "board_name": "Easy Vegetarian Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Creamy Spinach Mushroom Pasta in 30 Minutes!",
+            "description": "Looking for a cozy, creamy pasta that’s quick and packed with flavor? Try this spinach and mushroom pasta tonight! It’s simple, comforting, and perfect for busy weeknights. Save this recipe and get cooking! 🍝✨ #weeknightdinner #vegetarianrecipes #comfortfood",
+            "hashtags": "#weeknightdinner #vegetarianrecipes #comfortfood #spinachpasta #easymeals"
+        },
+        {
+            "title": "The Ultimate Creamy Spinach Mushroom Pasta You’ll Love",
+            "description": "This creamy spinach and mushroom pasta is just what you need on a chilly evening. Rich, garlicky, and loaded with fresh greens, it’s an easy recipe that feels fancy. Try it today and discover your new favorite comfort food! 🥄💚 #comfortfood #easyrecipes #pasta",
+            "hashtags": "#comfortfood #easyrecipes #pasta #vegetarian #spinach"
+        },
+        {
+            "title": "Cozy Up with This Simple Spinach and Mushroom Pasta Dish",
+            "description": "I love how this creamy spinach and mushroom pasta comes together with just a few ingredients but tastes so indulgent. It’s perfect for when you want comfort without fuss. Give it a go and enjoy a warm, satisfying meal tonight! 🍽️🌿 #spinachpasta #comfortdinner #quickmeals",
+            "hashtags": "#spinachpasta #comfortdinner #quickmeals #vegetarian #easycooking"
+        },
+        {
+            "title": "Easy Creamy Spinach and Mushroom Pasta for Busy Nights",
+            "description": "Need a quick, comforting dinner? This creamy spinach and mushroom pasta is ready in about 30 minutes and tastes like you spent hours cooking. Perfect for busy nights or when you want a cozy meal fast. Save it now and try it soon! 🍄🕒 #quickdinner #comfortfood #spinach",
+            "hashtags": "#quickdinner #comfortfood #spinach #mushroompasta #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces dried pasta (fettuccine or penne)",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "8 ounces cremini mushrooms, sliced",
+        "5 cups fresh spinach, roughly chopped",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 teaspoon red pepper flakes (optional)",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy spinach and mushroom pasta recipe on a hectic weeknight when I needed something comforting but quick. I remember trying a bunch of versions that either took too long or tasted bland, but this one hit the perfect balance. What makes it stand out is the garlicky cream sauce that’s rich but not heavy, paired with fresh spinach that brightens the whole dish. The mushrooms add that earthy depth and a meaty texture that feels satisfying without any fuss. I’ve been tweaking it ever since, especially focusing on how to get the mushrooms perfectly sautéed so they’re golden and flavorful, not soggy. The trick I learned is to cook them in batches over medium-high heat to get that caramelization. When you toss everything together at the end with Parmesan, the sauce clings beautifully to the pasta, making every bite creamy and indulgent. The finished dish looks inviting with vibrant green spinach and golden mushrooms, and it smells like a cozy kitchen on a chilly night. It’s definitely become a staple in my dinner rotation, especially when I want something that feels special but doesn’t require hours in the kitchen. Plus, it’s budget-friendly and uses simple ingredients you probably already have around. You’ll love how easy and delicious this pasta is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil. Add the pasta and cook according to package instructions until al dente, usually about 9-11 minutes. It’s important not to overcook the pasta because it will continue to cook slightly when you toss it in the sauce later. Once cooked, drain the pasta, reserving about a cup of the pasta water. This starchy water will help thin the sauce if needed and make it cling better to the noodles.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pasta should be tender but still have a slight bite—no mushiness."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium-high heat. Add the sliced mushrooms in a single layer, making sure not to overcrowd the pan. Sauté without stirring for about 3-4 minutes to let them brown, then stir and cook for another 3-4 minutes until golden and caramelized. Browning the mushrooms develops deep, savory flavors through the Maillard reaction, giving the dish its rich taste. Avoid stirring too much early on, or they’ll steam instead of brown.",
+            "timing": "8 minutes",
+            "doneness_cue": "Mushrooms should be golden brown and slightly crisp at the edges."
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium and add the minced garlic to the skillet with mushrooms. Sauté for about 1 minute until fragrant but not browned, as burnt garlic tastes bitter. This step infuses the oil with garlic flavor, which will carry through the sauce. Stir constantly here to avoid burning.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic should smell aromatic and look lightly translucent."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the fresh chopped spinach to the skillet. Cook, stirring frequently, until the spinach wilts down, about 2-3 minutes. The spinach releases moisture, so it’s important to stir so it cooks evenly and doesn’t clump. This step adds freshness and a vibrant green color that balances the richness of the cream.",
+            "timing": "3 minutes",
+            "doneness_cue": "Spinach should be fully wilted but still bright green."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the heavy cream and stir to combine with the mushrooms and spinach. Bring the mixture to a gentle simmer over medium heat. Simmer for about 5 minutes until the cream thickens slightly. This gentle simmer allows the sauce to reduce and intensify in flavor without curdling. Stir occasionally to prevent sticking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce should coat the back of a spoon and look creamy."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the Parmesan cheese to the skillet and stir until melted and fully incorporated into the sauce. The cheese adds saltiness and a nutty depth that enriches the cream base. If the sauce feels too thick, add a splash of reserved pasta water to loosen it up. This step creates a smooth, glossy sauce that clings to the pasta beautifully.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce should be smooth, cheesy, and slightly thickened."
+        },
+        {
+            "step": 7,
+            "instruction": "Season the sauce with salt, freshly ground black pepper, and red pepper flakes if using. Taste and adjust the seasoning carefully—Parmesan is salty, so add salt sparingly. The pepper flakes add a subtle heat that balances the creaminess, but you can skip them if you prefer mild flavors.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is well-seasoned, balanced between salty, creamy, and slightly spicy."
+        },
+        {
+            "step": 8,
+            "instruction": "Add the drained pasta to the skillet with the sauce. Toss gently to combine, making sure every strand is coated in that luscious cream sauce. If the sauce seems thick, add a bit more reserved pasta water to reach your desired consistency. This step is key for even flavor distribution and a silky texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta should be evenly coated, glossy, and creamy."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the pasta immediately, garnished with freshly chopped parsley and extra Parmesan if you like. Fresh herbs add a pop of color and brightness that lifts the dish. Enjoy this warm, cozy meal with a simple side salad or crusty bread for a complete dinner.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish looks vibrant with green parsley and melted cheese on top."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Spinach and Mushroom Pasta Works So Well",
+        "content": "<p>The magic behind this creamy spinach and mushroom pasta lies in balancing rich and fresh elements to create a comforting yet light dish. The sautéing of mushrooms at medium-high heat triggers the Maillard reaction, which develops deep, savory, and nutty flavors that are crucial for the dish’s umami punch. Cooking mushrooms in batches or not overcrowding the pan helps them brown properly instead of steaming, which can make them rubbery and bland.</p><p>Next, the gentle wilting of fresh spinach adds vibrant color and a fresh vegetal note that cuts through the richness of the cream sauce. Spinach also releases moisture that slightly thins the sauce, helping it cling evenly to the pasta. The use of heavy cream provides a smooth mouthfeel and richness without overwhelming the dish, while the Parmesan cheese adds saltiness and a nutty complexity that rounds out the flavor profile.</p><p>Simmering the cream gently thickens the sauce and melds the flavors without curdling. Adding reserved pasta water at the end is a classic technique to loosen the sauce and help it adhere to the noodles, thanks to the starches in the water. This emulsification process creates a silky, cohesive sauce rather than a separated one. Finally, seasoning with salt, pepper, and optional red pepper flakes ensures a balanced flavor with a subtle kick that complements the creamy base.</p><p>Overall, this recipe succeeds because it carefully manages heat, timing, and ingredient interactions to produce a sauce that’s creamy but not heavy, full of flavor but easy to prepare. The combination of textures—from tender pasta to juicy mushrooms and soft spinach—makes every bite satisfying and comforting.</p>",
+        "ingredient_notes": {
+            "cremini mushrooms": "Cremini mushrooms are ideal here because they have a firm texture and a deeper, earthier flavor than white button mushrooms. When buying, look for mushrooms that are plump, dry, and free from slimy spots. Their firmness helps them brown nicely during sautéing, which adds a rich umami flavor to the dish. Avoid overcrowding the pan when cooking to ensure proper caramelization rather than steaming.",
+            "fresh spinach": "Fresh spinach provides vibrant color and a mild, slightly sweet flavor that balances the richness of the cream sauce. Baby spinach or regular spinach both work well, but make sure to wash and dry thoroughly to avoid excess water diluting the sauce. Adding spinach at the end of cooking just long enough to wilt preserves its bright color and fresh taste.",
+            "heavy cream": "Heavy cream is the backbone of the sauce, giving it a luscious, velvety texture. Choose cream with at least 36% fat for best results, as lower-fat creams might curdle when heated. The fat content also helps emulsify the sauce when combined with cheese and pasta water, creating a smooth coating on the noodles.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts smoothly into the sauce, adding saltiness and a nutty, savory depth. Pre-grated cheese can contain anti-caking agents that affect melting, so freshly grated is preferred. Parmesan also helps thicken the sauce slightly and enhances the overall richness.",
+            "pasta water": "Reserved pasta water contains starch released from the noodles during cooking. Adding it to the sauce loosens the cream while helping it cling to the pasta through emulsification. This starchy water is crucial for achieving a silky, cohesive sauce rather than one that separates or feels too thick."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd your pan when sautéing mushrooms.",
+            "reason": "Overcrowding traps moisture and causes mushrooms to steam rather than brown, resulting in a soggy texture and less flavor. Cooking in batches ensures even caramelization, which develops the savory depth essential for this dish."
+        },
+        {
+            "tip": "Always reserve some pasta cooking water before draining.",
+            "reason": "The starchy pasta water helps loosen the sauce and allows it to cling better to the noodles through emulsification. Without it, the sauce might be too thick or separate, making the pasta less creamy and cohesive."
+        },
+        {
+            "tip": "Add spinach just before the cream to preserve its bright color and fresh flavor.",
+            "reason": "Cooking spinach too long can make it lose vibrancy and turn mushy. Adding it right before the cream wilts it just enough to blend into the sauce while maintaining a fresh taste and appealing green color."
+        },
+        {
+            "tip": "Use freshly grated Parmesan for the best melt and flavor.",
+            "reason": "Pre-grated cheese often contains additives that prevent smooth melting and can affect sauce texture. Freshly grated Parmesan melts evenly, enriching the sauce with a rich, nutty flavor and silky texture."
+        },
+        {
+            "tip": "Simmer the cream gently to avoid curdling.",
+            "reason": "High heat can make cream separate and curdle, ruining the sauce’s texture. A gentle simmer allows the sauce to thicken and flavors to meld smoothly, resulting in that luscious, creamy mouthfeel."
+        },
+        {
+            "tip": "Season the sauce at the end and taste carefully.",
+            "reason": "Since Parmesan adds saltiness, adding salt too early can make the dish overly salty. Seasoning at the end lets you adjust flavors precisely, balancing salt, pepper, and any heat from red pepper flakes."
+        },
+        {
+            "tip": "Toss pasta and sauce together off the heat.",
+            "reason": "Mixing the pasta with the sauce off the heat prevents the sauce from thickening too much or drying out. It also helps the sauce coat the noodles evenly for a silky finish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the pasta until mushy.",
+            "why_it_happens": "Many cooks assume softer pasta is better, but overcooking leads to a mushy texture that ruins the dish’s balance.",
+            "fix": "Cook pasta just until al dente according to package instructions, then drain immediately. The pasta will finish cooking slightly when tossed with sauce, maintaining a pleasant bite."
+        },
+        {
+            "mistake": "Crowding mushrooms in the pan.",
+            "why_it_happens": "Trying to cook all mushrooms at once saves time but causes steaming instead of browning.",
+            "fix": "Sauté mushrooms in smaller batches over medium-high heat to get that golden caramelization and deepen the flavor."
+        },
+        {
+            "mistake": "Adding spinach too early or cooking it too long.",
+            "why_it_happens": "Some think spinach should be cooked fully, but overcooking makes it lose color and become mushy.",
+            "fix": "Add spinach at the end of the mushroom and garlic sauté and cook just until wilted to keep it fresh and vibrant."
+        },
+        {
+            "mistake": "Not reserving pasta water before draining.",
+            "why_it_happens": "Beginners often forget this step, missing out on the starch needed to perfect the sauce consistency.",
+            "fix": "Always save about a cup of pasta water before draining to adjust sauce texture and help it adhere to the pasta."
+        },
+        {
+            "mistake": "Heating cream too quickly or at too high temperature.",
+            "why_it_happens": "Rushing this step causes cream to curdle or separate, ruining the sauce’s smooth texture.",
+            "fix": "Simmer cream gently over medium heat, stirring often, to thicken without breaking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Grilled Chicken for Extra Protein",
+            "description": "Toss in sliced grilled chicken breast to make this pasta a heartier meal. The smoky, savory chicken pairs beautifully with the creamy sauce and veggies, turning it into a balanced dinner that satisfies meat lovers.",
+            "technical_note": "Add cooked chicken slices at the final step when tossing pasta and sauce to warm through without drying out the meat."
+        },
+        {
+            "name": "Use Half-and-Half for a Lighter Sauce",
+            "description": "Substitute heavy cream with half-and-half to reduce calories and fat while keeping the sauce creamy. The texture will be slightly lighter but still rich enough to coat the pasta nicely.",
+            "technical_note": "Simmer half-and-half gently and avoid boiling to prevent curdling, as it has lower fat content than heavy cream."
+        },
+        {
+            "name": "Swap Spinach for Kale for More Texture",
+            "description": "Replace fresh spinach with chopped kale for a heartier green with a bit more chew. Kale stands up well to cooking and adds a slightly earthy flavor that complements mushrooms.",
+            "technical_note": "Massage kale with a pinch of salt before cooking to soften it, and cook a bit longer than spinach to achieve tenderness."
+        },
+        {
+            "name": "Make It Vegan by Using Coconut Cream and Nutritional Yeast",
+            "description": "Use coconut cream instead of heavy cream and sprinkle nutritional yeast for a cheesy flavor to make this dish vegan-friendly. It’s a delicious plant-based alternative that still delivers creamy richness.",
+            "technical_note": "Simmer coconut cream gently and add nutritional yeast at the end to avoid grainy texture."
+        },
+        {
+            "name": "Add Sun-Dried Tomatoes for a Tangy Twist",
+            "description": "Stir in chopped sun-dried tomatoes along with the mushrooms for a pop of tangy sweetness that brightens the sauce. It adds complexity and a Mediterranean flair to the dish.",
+            "technical_note": "Add sun-dried tomatoes during the garlic sauté step to infuse their flavor into the sauce."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta is best enjoyed fresh but can safely sit out covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate leftovers promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the spinach darken slightly when chilled. Reheat gently on the stovetop or microwave, adding a splash of water or cream to loosen the sauce.",
+        "freezer": "You can freeze this pasta for up to 2 months. Portion into freezer-safe containers, covering tightly to prevent freezer burn. Thaw overnight in the fridge before reheating. Texture of spinach may soften after freezing but still tastes good.",
+        "reheating": "Reheat on medium-low heat in a skillet, stirring often, and add a splash of cream or water to restore sauce creaminess. Microwave reheating works too; cover loosely and heat in short intervals to avoid drying out.",
+        "make_ahead_strategy": "You can prepare the mushroom and spinach sauce 1-2 days ahead and store it separately in the fridge. Cook pasta fresh or reheat cooked pasta briefly before tossing with the warmed sauce on serving day for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Yes, you can substitute frozen spinach, but be sure to thaw and squeeze out excess moisture before adding it to the sauce. Frozen spinach has more water, which can thin the sauce if not drained properly."
+        },
+        {
+            "question": "What pasta shape works best for this recipe?",
+            "answer": "Fettuccine, penne, or linguine work well because their shapes hold the creamy sauce nicely. Avoid very thin pastas like angel hair, which can get overwhelmed by the sauce."
+        },
+        {
+            "question": "How can I make this recipe vegan?",
+            "answer": "Replace heavy cream with coconut cream or cashew cream and use nutritional yeast instead of Parmesan to mimic the cheesy flavor. Sauté mushrooms and spinach as usual, then add vegan cream and seasoning."
+        },
+        {
+            "question": "Why does my sauce sometimes separate?",
+            "answer": "Sauce separation usually happens if the cream is boiled too rapidly or if cheese is added to very high heat. Simmer gently and stir constantly when adding cheese to ensure a smooth sauce."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can make the sauce a day or two ahead and refrigerate it. Cook pasta fresh or reheat pasta separately before combining. This keeps the pasta texture from becoming mushy."
+        },
+        {
+            "question": "Is it okay to use pre-grated Parmesan?",
+            "answer": "Pre-grated Parmesan often contains anti-caking agents that affect melting. For the creamiest sauce, freshly grated cheese is best, but pre-grated will still work in a pinch."
+        },
+        {
+            "question": "How do I prevent mushrooms from being soggy?",
+            "answer": "Cook mushrooms on medium-high heat without overcrowding the pan. Let them brown undisturbed for a few minutes before stirring. This caramelization is key to flavor and texture."
+        },
+        {
+            "question": "Can I add other vegetables to this pasta?",
+            "answer": "Absolutely! Peas, roasted red peppers, or sun-dried tomatoes all pair nicely. Add them according to their cooking times—frozen peas near the end, roasted peppers with the spinach."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this creamy spinach and mushroom pasta as much as I do! Don’t forget to share how it turns out — I’d love to hear your thoughts and any twists you try.",
+    "seo": {
+        "primary_keyword": "creamy spinach mushroom pasta",
+        "secondary_keywords": [
+            "easy creamy pasta recipe",
+            "vegetarian pasta dinner",
+            "how to make spinach mushroom pasta",
+            "best creamy mushroom pasta recipe",
+            "quick creamy spinach pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "easy garlic cream sauce technique",
+                "anchor": "easy-garlic-cream-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_1.png",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_1.png",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_2.png",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_2.png",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_3.png",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_3.png",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images/affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1779924026_231",
+    "slug": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-05-27T23:30:09+00:00",
+    "updatedAt": "2026-05-27T23:30:09+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "affordable-creamy-spinach-and-mushroom-pasta-for-weeknight-dinners/images"
+}
