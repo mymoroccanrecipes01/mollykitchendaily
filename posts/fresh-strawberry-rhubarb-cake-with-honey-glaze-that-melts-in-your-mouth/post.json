@@ -1,0 +1,347 @@
+{
+    "title": "Strawberry Rhubarb Cake with Honey Glaze That Feels Like Spring",
+    "promptIMG": "Food photography: Strawberry Rhubarb Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This strawberry rhubarb cake is a delightful mix of tart and sweet, with a shiny honey glaze that brings it all together. The fresh fruit keeps it light, perfect for spring or summer get-togethers.",
+    "hashtags": "#StrawberryRhubarb #SpringDesserts #HoneyGlaze",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Strawberry Rhubarb Cake 🍓🌿",
+            "description": "Looking for a fresh dessert that’s bursting with flavor? This strawberry rhubarb cake with honey glaze is your new go-to. Perfect for brunch or a sunny afternoon treat — save this recipe and try it today! #StrawberryDessert #HoneyGlaze #FreshFlavors"
+        },
+        {
+            "title": "Sweet Meets Tart: The Best Strawberry Rhubarb Cake Recipe",
+            "description": "I’ve been making this cake for years, and the honey glaze seals the deal every time. It’s light, fresh, and perfect for spring celebrations. Don’t wait—discover this simple recipe now! 🍰🍓 #RhubarbLove #SpringBaking #EasyDesserts"
+        },
+        {
+            "title": "Why This Strawberry Rhubarb Cake Will Be Your Summer Favorite",
+            "description": "Juicy strawberries and tangy rhubarb come together in a moist cake topped with a honey glaze. It’s surprisingly easy and so delicious—perfect for your next picnic. Save this recipe and share the love! 🌞🍓 #SummerBaking #FruitCake #HoneySweet"
+        },
+        {
+            "title": "Fresh, Tart, and Sweet: Strawberry Rhubarb Cake You Can’t Resist",
+            "description": "This cake balances tart rhubarb and sweet strawberries with a luscious honey glaze that’s irresistible. Great for spring and summer gatherings. Try making it this weekend—you won’t regret it! 🍰💛 #TartAndSweet #HoneyGlazeCake #FreshFruitDessert"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "1 cup fresh strawberries, hulled and chopped",
+        "1 cup rhubarb, chopped",
+        "2 tablespoons granulated sugar",
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup sour cream",
+        "1/4 cup honey (for glaze)",
+        "1 tablespoon lemon juice (for glaze)"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I first made this strawberry rhubarb cake a few springs ago when I stumbled upon a bunch of fresh rhubarb at the farmers market. I’d always loved the tartness of rhubarb but wasn’t sure how to balance it in a dessert without it being too sour. This recipe nails that balance perfectly — the strawberries add just the right sweetness, and the honey glaze on top ties everything together with a lovely shine and subtle floral note. What sets this cake apart is the mix of sour cream in the batter, which keeps it incredibly moist and tender, plus just a touch of baking soda to react with the sour cream and give it a light crumb. I’ve tried other versions before, but this one has become my go-to because it’s reliable and so fresh-tasting. The finished cake is a beautiful pinkish hue with bursts of juicy fruit inside, making it perfect for sharing at spring brunches or summer picnics. It’s the kind of cake that tastes like a sunny afternoon — bright, comforting, and a little unexpected. Plus, it’s surprisingly simple to make, which I love because it means I can whip it up even on a busy weekend. If you want a dessert that’s fresh and not overly sweet, this strawberry rhubarb cake is definitely worth trying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the fruit topping. Toss the chopped strawberries and rhubarb with 2 tablespoons of sugar in a bowl. Let it sit for about 15 minutes to macerate—the sugar will draw out the juices and soften the fruit, which helps keep the cake moist and flavorful. Avoid skipping this step because it really enhances the fruit’s natural sweetness and prevents it from drying out during baking.",
+            "timing": "15 minutes",
+            "doneness_cue": "Fruit looks slightly softened and juicy with syrupy liquid collected at the bottom."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. This ensures even distribution of the leavening agents, which is crucial for a light, tender crumb. Sifting or whisking the dry ingredients also helps prevent clumps that could create uneven texture in the cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no visible lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, use an electric mixer to cream the softened butter and 3/4 cup sugar until the mixture is pale and fluffy, about 3-4 minutes. This incorporates air into the batter, which helps the cake rise nicely. Don’t rush this step—if you under-cream, the cake can turn out dense.",
+            "timing": "4 minutes",
+            "doneness_cue": "Butter and sugar mixture looks light in color and has a fluffy texture."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, beating well after each addition. This helps emulsify the batter and ensures it’s smooth with no streaks of egg. Then stir in the vanilla extract for aroma and flavor depth.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth, glossy, and evenly combined."
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in half of the dry ingredients gently with a spatula, then add the sour cream, followed by the remaining dry ingredients. Fold carefully so you don’t overmix — overmixing develops gluten and can make the cake tough. The batter should be thick but soft and slightly lumpy.",
+            "timing": "4 minutes",
+            "doneness_cue": "Batter is combined with no large streaks of flour or sour cream."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold the macerated strawberries and rhubarb with their juices into the batter very gently. This distributes the fruit evenly without breaking it up too much, which keeps nice chunks in the cake for texture and flavor bursts.",
+            "timing": "3 minutes",
+            "doneness_cue": "Fruit pieces are evenly spread throughout the batter without being mashed."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into a greased 9-inch round cake pan and smooth the top with a spatula. Tap the pan gently on the counter to release any large air bubbles that could cause uneven holes in the cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is level and evenly spread in the pan."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cake in a preheated 350°F (175°C) oven for 40-45 minutes. Start checking at 40 minutes by inserting a toothpick in the center; it should come out with moist crumbs but no wet batter. Baking too long will dry the cake, so keep an eye on it.",
+            "timing": "40-45 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out clean or with a few moist crumbs."
+        },
+        {
+            "step": 9,
+            "instruction": "While the cake cools, whisk together the honey and lemon juice to make the glaze. Brush it generously over the warm cake to add shine and a subtle floral sweetness that complements the tart fruit. This glaze also helps keep the cake moist as it cools.",
+            "timing": "5 minutes",
+            "doneness_cue": "Glaze is glossy and evenly coats the cake surface."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Strawberry Rhubarb Cake Works So Well",
+        "content": "<p>This strawberry rhubarb cake perfectly balances tart and sweet thanks to the interplay of fresh fruit, sugar, and a honey glaze. The maceration step softens the strawberries and rhubarb, releasing juices that infuse the batter and keep the cake moist during baking. This is key because rhubarb can be quite fibrous and dry if not properly tenderized first.</p><p>The use of sour cream in the batter is another game-changer. It adds fat and acidity, which tenderizes the gluten in the flour to create a soft crumb. The acidity also reacts with baking soda, creating carbon dioxide that helps the cake rise without becoming dense. This reaction is why it’s important to add the baking soda alongside the sour cream and not too early.</p><p>Butter creaming is critical for texture and structure. Creaming traps air bubbles that expand in the oven, contributing to a light, fluffy crumb. Overmixing after adding flour can develop gluten, leading to toughness, so gentle folding is essential. Lastly, the honey glaze adds moisture and a floral sweetness that contrasts beautifully with the tart fruit, while also giving the cake an appealing glossy finish that invites you to dig in.</p><p>Each ingredient and step is carefully chosen to produce a cake that’s tender but structured, moist but not soggy, and bright with fresh fruit flavor. This recipe marries technique with fresh ingredients to create a truly memorable dessert that feels like spring on a plate.</p>",
+        "ingredient_notes": {
+            "fresh strawberries": "Choose ripe but firm strawberries with a bright red color and no mushy spots. Freshness is key as they provide natural sweetness and juiciness that balances the rhubarb’s tartness. Avoid canned or frozen berries here because they release too much water and can make the batter soggy.",
+            "rhubarb": "Look for firm, crisp stalks that snap easily and have a deep pink or red color for the best flavor. Rhubarb adds tartness and texture but can be fibrous if old or woody. Trim any dry ends and chop into small pieces to ensure even cooking and distribution in the cake.",
+            "sour cream": "Opt for full-fat sour cream to add richness and moisture. Its acidity reacts with baking soda to leaven the cake and tenderize gluten. Don’t substitute with yogurt unless it’s thick and full-fat, as thinner dairy might alter the texture and rise.",
+            "butter": "Use unsalted butter at room temperature for easy creaming. Butter contributes flavor and structure by coating flour proteins, which helps tenderize the crumb. Salted butter can be used but reduce added salt in the recipe accordingly.",
+            "honey": "Use mild-flavored honey like clover or wildflower to add subtle sweetness and floral notes without overpowering the fruit. Honey also helps retain moisture in the glaze, keeping the cake fresh longer. Avoid dark or strongly flavored honeys that could clash with the delicate fruit flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Macerate fruit before folding it into the batter.",
+            "reason": "Letting the strawberries and rhubarb sit with sugar softens the fruit and releases juices that keep the cake moist and flavorful. Skipping this step can lead to dry fruit and uneven sweetness inside the cake."
+        },
+        {
+            "tip": "Cream butter and sugar until light and fluffy.",
+            "reason": "This step incorporates air into the batter, which is essential for a light texture. Under-creaming results in a dense cake, while over-creaming can cause the batter to collapse during baking."
+        },
+        {
+            "tip": "Fold dry ingredients gently to avoid overmixing.",
+            "reason": "Overmixing develops gluten, making the cake tough. Folding just until combined ensures a tender crumb and light texture."
+        },
+        {
+            "tip": "Use full-fat sour cream for moisture and rise.",
+            "reason": "The fat adds richness, while the acidity reacts with baking soda to produce carbon dioxide, helping the cake rise and stay tender."
+        },
+        {
+            "tip": "Brush honey glaze on warm cake, not cold.",
+            "reason": "Applying glaze while the cake is warm helps it soak in slightly and creates a beautiful shiny finish that locks in moisture."
+        },
+        {
+            "tip": "Use fresh, firm rhubarb stalks for best texture.",
+            "reason": "Older or limp rhubarb can be stringy and tough, detracting from the cake’s texture. Fresh rhubarb cooks evenly and blends well with the strawberries."
+        },
+        {
+            "tip": "Test cake doneness with a toothpick starting at 40 minutes.",
+            "reason": "Oven temperatures vary, so checking early prevents overbaking, which dries out the cake and dulls the fresh fruit flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the maceration of fruit.",
+            "why_it_happens": "Many assume adding raw fruit directly is fine, but they don’t realize how much water the fruit can release during baking, leading to soggy cake.",
+            "fix": "Always toss fruit with sugar and let it sit for 15 minutes. This draws out moisture and concentrates flavor, preventing a wet, dense cake."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but this develops gluten and toughens the cake.",
+            "fix": "Fold gently just until no dry streaks remain. It’s okay if the batter looks slightly lumpy."
+        },
+        {
+            "mistake": "Using cold butter straight from the fridge.",
+            "why_it_happens": "Forgetting to soften butter can make creaming ineffective, resulting in poor rise and dense texture.",
+            "fix": "Leave butter out for about 30-60 minutes at room temperature until soft but not melted."
+        },
+        {
+            "mistake": "Not testing for doneness on time.",
+            "why_it_happens": "Assuming the cake needs the full baking time can lead to overbaking and dryness.",
+            "fix": "Check with a toothpick at 40 minutes. If it comes out clean or with moist crumbs, remove the cake immediately."
+        },
+        {
+            "mistake": "Applying honey glaze on a cold cake.",
+            "why_it_happens": "The glaze won’t absorb or spread evenly if the cake has cooled completely.",
+            "fix": "Brush glaze on warm cake so it seeps in and creates a shiny, moist finish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Almond Extract and Slivered Almonds",
+            "description": "Swap vanilla for almond extract and sprinkle slivered almonds on top before baking for a nutty twist. The almonds add crunch and a complementary flavor that pairs well with the tart fruit.",
+            "technical_note": "Add almonds last to avoid them sinking; baking time remains the same."
+        },
+        {
+            "name": "Use Greek Yogurt Instead of Sour Cream",
+            "description": "For a tangier taste and higher protein, substitute full-fat Greek yogurt for sour cream. The texture will be similar, but the cake might be slightly denser and more acidic.",
+            "technical_note": "Reduce baking soda slightly to balance acidity."
+        },
+        {
+            "name": "Make Mini Cakes or Muffins",
+            "description": "Divide the batter into muffin tins for portable, individual servings. Baking time will be shorter, around 20-25 minutes, and the texture will be just as tender.",
+            "technical_note": "Check doneness earlier to avoid overbaking."
+        },
+        {
+            "name": "Add a Streusel Topping",
+            "description": "Top the batter with a simple cinnamon-sugar-oat streusel before baking for added crunch and spice. This makes the cake more textured and dessert-like.",
+            "technical_note": "Streusel should be applied just before baking to remain crisp."
+        },
+        {
+            "name": "Swap Strawberries for Blueberries",
+            "description": "Use fresh blueberries instead of strawberries for a different berry flavor. Blueberries release less juice, so the cake will be less wet and slightly denser.",
+            "technical_note": "Maceration time can be reduced to 10 minutes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cake can safely sit covered at room temperature for up to 2 days. Use a cake dome or airtight container to prevent it from drying out. Avoid leaving it uncovered as the fruit can dry and the cake crumb will harden.",
+        "refrigerator": "Store the cake in an airtight container in the fridge for up to 5 days. The honey glaze may thicken and the cake will firm up; serve at room temperature or warm slightly before eating to restore softness.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the fridge, then warm gently in the oven to refresh the texture and soften the glaze.",
+        "reheating": "Reheat slices in a 325°F oven for about 10 minutes or microwave for 20-30 seconds with a damp paper towel to prevent drying. Avoid overheating as it can toughen the crumb. Add a light brush of honey or butter after warming if desired.",
+        "make_ahead_strategy": "You can prepare the batter and macerate the fruit a day ahead, then refrigerate covered. Bake fresh the next day for best texture. The honey glaze should be applied right after baking for shine and moisture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries and rhubarb for this cake?",
+            "answer": "Frozen fruit tends to release more water as it thaws, which can make the batter soggy and affect baking. If you must use frozen, thaw and drain excess liquid thoroughly, then reduce any added liquid in the recipe slightly. Fresh fruit is best for texture and flavor."
+        },
+        {
+            "question": "What can I substitute for sour cream if I don’t have any?",
+            "answer": "Full-fat Greek yogurt is a great substitute as it has similar acidity and thickness. You can also use buttermilk, but reduce the liquid volume slightly. Avoid low-fat or watery substitutes because they won’t provide the same moisture or tenderizing effect."
+        },
+        {
+            "question": "Why is my cake dense and not fluffy?",
+            "answer": "This often happens if the butter and sugar weren’t creamed long enough or the batter was overmixed after adding flour. Make sure to cream until light and fluffy and fold the dry ingredients gently just until combined to maintain a tender crumb."
+        },
+        {
+            "question": "Can I make this cake dairy-free?",
+            "answer": "You can substitute the butter with a dairy-free margarine and use coconut yogurt or a plant-based sour cream alternative. Keep in mind the texture may be slightly different and the flavor less rich, but it will still be tasty."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick in the center at about 40 minutes. It should come out clean or with a few moist crumbs, but not wet batter. Overbaking dries the cake and dulls the fresh fruit flavor, so check early and often."
+        },
+        {
+            "question": "Why do I need to macerate the fruit?",
+            "answer": "Macerating softens the fruit and draws out juices that keep the cake moist and flavorful. Skipping this step may result in dry fruit and uneven sweetness inside the cake."
+        },
+        {
+            "question": "Can I use honey in the batter instead of sugar?",
+            "answer": "Honey can add moisture and flavor but changes the chemistry of the batter, requiring adjustments to liquid and leavening. For this recipe, granulated sugar provides better structure and texture, so it’s best to keep the honey for the glaze."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Keep the cake covered at room temperature for 2 days or refrigerated up to 5 days. Wrap tightly to prevent drying out. You can also freeze slices wrapped well for up to 3 months and thaw before serving."
+        }
+    ],
+    "conclusion": "I hope you give this strawberry rhubarb cake a try soon—it’s one of those recipes that feels like a little celebration in every bite. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "strawberry rhubarb cake recipe",
+        "secondary_keywords": [
+            "easy fruit cake recipe",
+            "how to make rhubarb cake",
+            "best strawberry cake recipe",
+            "simple honey glazed cake"
+        ],
+        "internal_links": [
+            {
+                "text": "fresh strawberry desserts",
+                "anchor": "fresh-strawberry-desserts"
+            },
+            {
+                "text": "how to macerate fruit",
+                "anchor": "how-to-macerate-fruit"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_1.png",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_1.png",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_2.png",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_2.png",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_3.png",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_3.png",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images/fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780352284_720",
+    "slug": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-06-01T23:19:08+01:00",
+    "updatedAt": "2026-06-01T23:19:08+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "fresh-strawberry-rhubarb-cake-with-honey-glaze-that-melts-in-your-mouth/images"
+}
