@@ -1,0 +1,348 @@
+{
+    "title": "Springtime Strawberry Shortcake with a Refreshing Basil Twist",
+    "promptIMG": "Food photography: Strawberry Shortcake with Basil, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This strawberry shortcake feels like a breath of spring—juicy berries, fluffy cream, and a surprising hint of fresh basil that brightens every bite. It’s light, fresh, and perfect for a sunny afternoon treat or casual dessert.",
+    "hashtags": "#strawberryshortcake #springdessert #freshbasil",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Try This Fresh Strawberry Shortcake with Basil Today!",
+            "description": "Brighten your dessert game with this fresh strawberry shortcake featuring a unique basil twist 🌿🍓. It’s light, easy, and perfect for spring or summer gatherings. Save this recipe and impress your friends! #strawberryshortcake #basilrecipes #summerdesserts"
+        },
+        {
+            "title": "Light & Fluffy Strawberry Shortcake with a Hint of Basil",
+            "description": "Looking for a fresh, light dessert? This strawberry shortcake with basil adds a subtle herbal note that’s irresistible! Perfect for afternoon treats or casual dinners. Try it today and enjoy the flavors of spring 🌸🍓 #freshdesserts #easyrecipes #strawberrylove"
+        },
+        {
+            "title": "How to Make Strawberry Shortcake with a Basil Surprise",
+            "description": "Discover the secret ingredient that takes strawberry shortcake to the next level—fresh basil! This simple dessert is fluffy, juicy, and bursting with flavor. Perfect for impressing guests or a cozy night in. Save this recipe now! 🍓🌿 #dessertideas #strawberryshortcake #basilflavor"
+        },
+        {
+            "title": "Fresh Strawberry Shortcake Recipe with a Twist of Basil",
+            "description": "This strawberry shortcake is anything but ordinary thanks to a little basil magic! It’s light, refreshing, and super easy to make. Perfect for spring afternoons or light dessert cravings. Don’t miss out—give it a try! 🌿🍓 #springrecipes #easybaking #freshdessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 cups fresh strawberries, sliced",
+        "2 tablespoons granulated sugar",
+        "1 teaspoon fresh lemon juice",
+        "1 teaspoon finely chopped fresh basil leaves",
+        "2 cups all-purpose flour",
+        "1/4 cup granulated sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup cold unsalted butter, cubed",
+        "2/3 cup whole milk",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy whipping cream",
+        "2 tablespoons powdered sugar",
+        "1/2 teaspoon vanilla extract (for whipped cream)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this strawberry shortcake recipe one lovely spring when I wanted something light but flavorful to enjoy on a sunny afternoon. What caught my attention was the unexpected addition of fresh basil, which I’d never tried in a dessert before. I was curious, and honestly, a bit skeptical at first. But after that first bite, I was hooked! The basil adds a subtle herbal brightness that perfectly balances the sweetness of the strawberries and cream. \n\nOver time, I’ve tweaked this recipe to make the shortcakes super tender and flaky by using cold butter and not overworking the dough. The strawberries get a quick maceration with lemon juice and sugar to bring out their juices and add a little zing, while the whipped cream is lightly sweetened and flavored with vanilla to keep things simple and fresh. \n\nThis version feels fresh and springy, not too heavy, and the basil really makes it stand out from your typical strawberry shortcake. It’s perfect for a casual weekend dessert, a picnic, or even a light finish to a dinner party. I love how it looks too — the bright reds, fluffy cream, and little green flecks of basil are just so inviting. I think you’ll enjoy this twist as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the strawberries. Toss the sliced strawberries with 2 tablespoons of granulated sugar, the fresh lemon juice, and the finely chopped basil leaves. This maceration process softens the berries and draws out their natural juices, creating a flavorful syrup. Let this mixture sit for at least 20 minutes at room temperature to allow the flavors to meld. Avoid rushing this step because the sugar needs time to dissolve and the basil infuses the berries gently.",
+            "timing": "20 minutes",
+            "doneness_cue": "Strawberries look juicy and slightly softened, with a fragrant basil aroma."
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your oven to 425°F (220°C) and line a baking sheet with parchment paper. In a large bowl, whisk together the flour, 1/4 cup sugar, baking powder, and salt. The baking powder is your leavening agent, so make sure it’s fresh for maximum rise. Next, cut in the cold cubed butter using a pastry cutter or your fingertips until the mixture resembles coarse crumbs with some pea-sized pieces of butter remaining. This step is key for flaky shortcakes because the cold butter creates steam pockets during baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "The dough looks crumbly with visible butter pieces but holds together when pressed."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the milk and vanilla extract, then gently stir until the dough just comes together. Be careful not to overmix here; overworking the dough develops gluten and makes the shortcakes tough. The dough should be soft and a bit sticky but manageable. If it feels too wet, sprinkle a little more flour, but it’s better to err on the side of slightly sticky to keep them tender.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Dough forms a cohesive ball but is still soft and slightly tacky."
+        },
+        {
+            "step": 4,
+            "instruction": "Turn the dough out onto a lightly floured surface and gently pat it into a 1-inch thick rectangle. Using a round biscuit cutter, cut out 6 shortcakes, pressing straight down without twisting to ensure even rise. Gather any scraps, gently re-pat, and cut out more shortcakes. Place them spaced on the prepared baking sheet. This gentle handling keeps the texture light and flaky.",
+            "timing": "5 minutes",
+            "doneness_cue": "Shortcakes are evenly shaped, about 2.5 inches wide, and sitting on the baking sheet."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the shortcakes in the preheated oven for 12-15 minutes or until golden brown on top and cooked through. The high heat helps create a crisp exterior while keeping the inside tender and fluffy. Avoid opening the oven door too often, which can cause them to deflate. The tops should have a nice golden hue and feel firm to the touch.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Shortcakes are golden brown and spring back slightly when pressed."
+        },
+        {
+            "step": 6,
+            "instruction": "While the shortcakes bake, whip the heavy cream with powdered sugar and vanilla extract until soft peaks form. This means when you lift the whisk, the cream holds a gentle peak that slightly folds over. Be careful not to overwhip, or it will turn grainy and start to separate into butter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cream is smooth, fluffy, and holds soft peaks."
+        },
+        {
+            "step": 7,
+            "instruction": "Once the shortcakes are out of the oven, let them cool slightly on a wire rack for about 5 minutes. This brief cooling keeps them warm but not hot, so they won’t melt the whipped cream immediately. You want the shortcakes to be soft and tender but stable enough to hold the toppings.",
+            "timing": "5 minutes",
+            "doneness_cue": "Shortcakes are warm to the touch but not steaming hot."
+        },
+        {
+            "step": 8,
+            "instruction": "Slice each shortcake in half horizontally with a serrated knife. Spoon a generous amount of the macerated strawberries and their juice over the bottom half, then add a dollop of whipped cream. The strawberry juice soaks slightly into the biscuit, adding moistness and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Shortcake halves are evenly sliced and layered with glossy strawberries and fluffy cream."
+        },
+        {
+            "step": 9,
+            "instruction": "Top with the other half of the shortcake and add a final spoonful of strawberries and whipped cream on top. Garnish with a small basil leaf if you like for a pretty presentation. Serve immediately to enjoy the contrast of textures and fresh flavors at their best.",
+            "timing": "2 minutes",
+            "doneness_cue": "Finished strawberry shortcakes look inviting with layers of berries, cream, and a basil garnish."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Strawberry Shortcake Stands Out",
+        "content": "<p>This strawberry shortcake recipe works because it balances flavors and textures thoughtfully. The maceration of the strawberries with sugar, lemon, and basil softens the fruit and releases natural juices, creating a syrupy layer that keeps the shortcakes moist without making them soggy. The lemon juice brightens the berries, while the basil adds a subtle herbal complexity that’s unexpected but delightful. This combination elevates the traditional shortcake into something fresh and spring-appropriate.</p><p>The shortcake itself relies on a classic biscuit technique using cold butter cut into the flour to create flaky layers. The cold butter melts during baking, releasing steam that puffs up the dough, resulting in a tender interior with a crisp exterior. Not overmixing the dough prevents gluten development, keeping the texture soft and crumbly rather than chewy. The high oven temperature is crucial for that quick rise and golden crust.</p><p>The whipped cream is lightly sweetened and flavored with vanilla to complement the strawberries without overpowering them. Whipping to soft peaks ensures a light, airy texture that melts on the tongue. Assembling the shortcakes warm but not hot preserves the cream’s structure and prevents it from melting too quickly, which keeps each bite balanced.</p><p>Overall, the recipe succeeds because every element is designed to highlight freshness, lightness, and subtle flavor contrasts. The basil addition is a small twist but makes a big difference, giving this dessert a unique character that’s both familiar and new.</p>",
+        "ingredient_notes": {
+            "fresh strawberries": "Choose ripe, fragrant strawberries that are firm but juicy. Freshness is key because the berries are the star of this dessert. Avoid overly soft or moldy berries as they won’t macerate well and can make the dessert soggy. Organic strawberries can have more flavor, but wash gently to avoid bruising.",
+            "fresh basil leaves": "Use young, tender basil leaves for their mild, sweet herbal flavor. Fresh is essential here, as dried basil would be too strong and lose the delicate nuance. Chop finely to evenly distribute the flavor. Store basil wrapped in a damp paper towel in the fridge to keep it fresh.",
+            "cold unsalted butter": "Butter must be very cold and cut into small cubes before mixing to create flaky layers. Unsalted butter allows you to control the salt level in the dough. If butter melts before baking, the dough will lose its flakiness and become dense, so keep it chilled until baking.",
+            "baking powder": "This is the leavening agent that makes the shortcakes rise and become fluffy. Use fresh baking powder for best results—old powder can lead to flat, dense biscuits. Be precise with measurement to avoid off flavors or overly fast rising.",
+            "heavy whipping cream": "Choose fresh, high-fat cream for stable, rich whipped cream. Lower-fat creams won’t whip well or hold shape. Chill the bowl and whisk before whipping to speed up the process and improve volume. Avoid overwhipping to prevent separation."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter and milk cold until mixing the dough.",
+            "reason": "Cold ingredients prevent the butter from melting prematurely, which is critical for creating flaky layers in the shortcake. Warm butter mixes fully into the flour, resulting in a dense, tough texture instead of tender, flaky biscuits."
+        },
+        {
+            "tip": "Let the strawberries macerate at room temperature for at least 20 minutes.",
+            "reason": "This allows the sugar to draw out the juices and infuse the berries with lemon and basil flavors. Skipping or shortening this step results in less flavorful berries and a less juicy topping for the shortcakes."
+        },
+        {
+            "tip": "Use a serrated knife to slice the shortcakes horizontally.",
+            "reason": "A serrated knife cuts through the crumb without compressing or tearing the delicate biscuit. Using a regular knife can squish the layers and ruin the light texture."
+        },
+        {
+            "tip": "Whip the cream just to soft peaks.",
+            "reason": "Soft peaks hold their shape but remain silky and smooth. Overwhipped cream becomes grainy and can separate, ruining the texture and mouthfeel of the topping."
+        },
+        {
+            "tip": "Avoid overmixing the dough after adding the milk.",
+            "reason": "Overmixing develops gluten, which makes the shortcakes tough and chewy instead of tender and crumbly. Stir just until the dough comes together."
+        },
+        {
+            "tip": "Bake the shortcakes at a high temperature (425°F).",
+            "reason": "The high heat creates steam quickly, which helps the shortcakes rise and develop a golden, crisp exterior while keeping the inside moist and fluffy."
+        },
+        {
+            "tip": "Serve the shortcakes warm but not hot.",
+            "reason": "Warm shortcakes absorb the strawberry juices nicely and hold the whipped cream without melting it immediately, preserving the textures and flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter instead of cold butter.",
+            "why_it_happens": "It’s tempting to soften butter for easier mixing, but warm butter blends too much with flour, losing the flaky texture.",
+            "fix": "Always chill your butter before cutting it into the flour. If it softens too much while mixing, pop the dough in the fridge for 10-15 minutes before baking to firm it up."
+        },
+        {
+            "mistake": "Overmixing the dough after adding milk.",
+            "why_it_happens": "Eager to combine all ingredients, many stir too vigorously, which develops gluten and toughens the shortcakes.",
+            "fix": "Mix gently and only until the dough just holds together. It’s okay if it looks a bit shaggy or sticky—that’s better than overworked dough."
+        },
+        {
+            "mistake": "Skipping the strawberry maceration.",
+            "why_it_happens": "In a rush, people often assemble immediately, missing the flavor boost from maceration.",
+            "fix": "Plan ahead and let the strawberries sit with sugar, lemon, and basil at least 20 minutes. It’s worth the wait for juicy, flavorful berries."
+        },
+        {
+            "mistake": "Cutting the shortcakes with a dull or straight-edged knife.",
+            "why_it_happens": "A dull or plain knife squishes the biscuit, ruining the layers.",
+            "fix": "Use a serrated knife and cut with a gentle sawing motion to keep the shortcakes fluffy and intact."
+        },
+        {
+            "mistake": "Overwhipping the cream.",
+            "why_it_happens": "It’s easy to get carried away and whip past soft peaks, causing the cream to break down.",
+            "fix": "Watch closely and stop whipping when soft peaks form. You can always whip a little more if needed, but you can’t fix overwhipped cream."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Basil Strawberry Shortcake",
+            "description": "Add extra lemon zest to the strawberry maceration and a splash of lemon juice to the whipped cream for a bright citrusy version. This variation is refreshing and adds a zingy twist that pairs beautifully with basil.",
+            "technical_note": "Zest the lemon finely to avoid bitter pith, and fold lemon juice gently into whipped cream to maintain its structure."
+        },
+        {
+            "name": "Gluten-Free Strawberry Shortcake",
+            "description": "Use a gluten-free flour blend in place of all-purpose flour for a celiac-friendly dessert. The texture will be slightly different but still tender and delicious, especially if you add a teaspoon of xanthan gum for structure.",
+            "technical_note": "Gluten-free dough can be more delicate; handle gently and avoid overmixing to prevent crumbling."
+        },
+        {
+            "name": "Vegan Strawberry Shortcake",
+            "description": "Swap butter for chilled coconut oil and use a plant-based milk such as almond or oat milk. Replace heavy cream with coconut cream whipped with a little powdered sugar and vanilla for a creamy, dairy-free topping.",
+            "technical_note": "Chill coconut oil thoroughly before mixing and whip coconut cream from a chilled can for best results."
+        },
+        {
+            "name": "Strawberry Shortcake with Honey Basil Syrup",
+            "description": "Drizzle a homemade honey and basil syrup over the assembled shortcakes for extra sweetness and a concentrated basil flavor. This adds a glossy finish and an aromatic touch to every bite.",
+            "technical_note": "Simmer honey with fresh basil leaves until fragrant, then cool before drizzling to avoid melting the whipped cream."
+        },
+        {
+            "name": "Chocolate Chip Basil Shortcake",
+            "description": "Add mini chocolate chips to the dough for a subtle chocolate surprise that pairs surprisingly well with basil and strawberries. It’s a fun twist that kids and adults both love.",
+            "technical_note": "Fold in chips gently to avoid melting them before baking, which keeps them intact and melty inside."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates based on standard ingredients and may vary."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store assembled shortcakes at room temperature for no more than 2 hours to keep the whipped cream fresh and prevent sogginess. Cover loosely with a clean kitchen towel.",
+        "refrigerator": "Keep leftover shortcakes in an airtight container in the fridge for up to 2 days. The cream may deflate slightly, so re-whip before serving or serve chilled as a lighter option.",
+        "freezer": "Freeze unassembled shortcakes (biscuit halves only) in a sealed bag for up to 1 month. Thaw overnight in the fridge and warm slightly before assembling. Avoid freezing whipped cream or assembled shortcakes.",
+        "reheating": "Warm shortcake halves in a 300°F oven for 5-7 minutes until just heated through. Avoid microwaving as it can make them soggy. Add strawberries and whipped cream fresh after warming.",
+        "make_ahead_strategy": "Prepare the strawberry mixture and whip the cream up to a day ahead, storing both in the fridge separately. Bake shortcakes the day of serving for best texture, or bake and freeze the biscuit halves ahead and warm before assembling."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries for this recipe?",
+            "answer": "Frozen strawberries tend to release more water when thawed, which can make the shortcakes soggy. If you must use frozen, thaw them completely, drain excess liquid, and reduce added sugar to prevent an overly sweet, watery topping."
+        },
+        {
+            "question": "What can I substitute for fresh basil if I don’t have any?",
+            "answer": "Mint is a great substitute that also adds a fresh herbal note. Use the same quantity finely chopped. Avoid stronger herbs like rosemary or thyme, which can overpower the delicate flavors."
+        },
+        {
+            "question": "How do I know when the shortcakes are done baking?",
+            "answer": "They should be golden brown on top, spring back to a gentle touch, and a toothpick inserted in the center should come out clean. If they’re pale or doughy inside, bake a few minutes longer."
+        },
+        {
+            "question": "Can I make the shortcakes vegan?",
+            "answer": "Yes! Use chilled coconut oil instead of butter and plant-based milk in the dough. For the cream, whip full-fat coconut cream with powdered sugar and vanilla. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Why is it important not to overmix the dough?",
+            "answer": "Overmixing develops gluten, which makes the shortcakes tough and chewy instead of tender and flaky. Mixing just until combined keeps the texture light and crumbly."
+        },
+        {
+            "question": "How long can I store assembled shortcakes in the fridge?",
+            "answer": "Because of the whipped cream and juicy berries, assembled shortcakes are best eaten within 24 hours. Beyond that, the biscuits may become soggy and the cream may deflate."
+        },
+        {
+            "question": "Can I prepare this dessert ahead of time?",
+            "answer": "Prepare and store the strawberry mixture and whipped cream separately in the fridge up to a day ahead. Bake the shortcakes the day of serving for best texture, or bake and freeze the biscuit halves ahead and warm before assembling."
+        },
+        {
+            "question": "What’s the best way to slice the shortcakes without squishing them?",
+            "answer": "Use a serrated knife and a gentle sawing motion to slice horizontally. Avoid pressing down hard, which compresses the layers and ruins the tender texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this fresh strawberry shortcake with basil as much as my family and I do. Don’t forget to share how yours turns out—there’s nothing better than swapping dessert stories!",
+    "seo": {
+        "primary_keyword": "fresh strawberry shortcake recipe",
+        "secondary_keywords": [
+            "strawberry shortcake with basil",
+            "easy spring dessert",
+            "how to make strawberry shortcake",
+            "best strawberry shortcake recipe",
+            "easy strawberry shortcake"
+        ],
+        "internal_links": [
+            {
+                "text": "whipped cream tips",
+                "anchor": "whipped-cream-tips"
+            },
+            {
+                "text": "homemade biscuit recipe",
+                "anchor": "homemade-biscuits"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_1.png",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_1.png",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_2.png",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_2.png",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_3.png",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_3.png",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_6.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_9.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_7.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_4.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_5.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_8.webp",
+            "relativePath": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images/spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1780346394_782",
+    "slug": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
+    "isOnline": true,
+    "createdAt": "2026-06-01T21:41:20+01:00",
+    "updatedAt": "2026-06-01T21:41:20+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic/images"
+}
