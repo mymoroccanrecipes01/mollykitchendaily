@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 18:49:47",
-    "count": 444,
+    "generated": "2026-06-01 21:04:24",
+    "count": 445,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -383,6 +383,7 @@
         "quick-lemon-herb-chicken-breast-with-roasted-veggies-that-everyone-will-love",
         "quick-lemon-rosemary-chicken-thighs-with-roasted-asparagus-for-easy-weeknight-dinners",
         "quick-moist-5-ingredient-brownies-for-busy-weeknights",
+        "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
         "refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day",
         "refreshing-low-calorie-peach-cobbler-with-a-cinnamon-oat-crust-thats-simply-irresistible",
         "refreshing-strawberry-and-spinach-smoothie-bowl-to-start-your-day-right",
@@ -448,6 +449,21 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
+            "title": "Fresh Cucumber Mint Smoothie Bowl to Brighten Your Morning Routine",
+            "description": "This cucumber mint smoothie bowl is a refreshing way to kickstart your day or recharge in the afternoon. The fresh mint adds a cool, unexpected twist that makes it feel extra special. I love having it on warm spring morn",
+            "image": "posts/refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring/images/refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring_pinrecipes_image_1.png",
+            "category_id": "cat_1761230636_499",
+            "createdAt": "2026-06-01T21:04:24+01:00",
+            "updatedAt": "2026-06-01T21:04:24+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 2
+        },
         {
             "slug": "no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth",
             "title": "No-Bake Strawberry Cheesecake Bars That Are Light and Perfect for Spring",
