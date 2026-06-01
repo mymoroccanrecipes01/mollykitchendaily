@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 23:31:57",
-    "count": 452,
+    "generated": "2026-06-01 23:41:18",
+    "count": 453,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -304,6 +304,7 @@
         "no-bake-lemon-cheesecake-with-summer-berry-topping-light-refreshing-easy",
         "no-bake-mixed-berry-cheesecake-with-citrus-zest-thats-light-and-refreshing",
         "no-bake-oreo-cheesecake-that-went-viral-on-tiktok-creamy-easy",
+        "no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth-1",
         "no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth",
         "no-bake-strawberry-cheesecake-cups-with-fresh-berries-fresh-easy-delicious",
         "no-bake-strawberry-rhubarb-cheesecake-cups-for-springtime-delight",
@@ -456,6 +457,21 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth-1",
+            "title": "Fresh Strawberry No-Bake Cheesecake Bars That Melt in Your Mouth",
+            "description": "These no-bake cheesecake bars are a total crowd-pleaser — creamy, tangy, and topped with juicy fresh strawberries. No oven needed, so it’s perfect for warmer days or last-minute dessert plans!",
+            "image": "posts/no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth-1/images/no-bake-spring-berry-cheesecake-bars-with-fresh-strawberries-that-melt-in-your-mouth-1_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T23:41:18+01:00",
+            "updatedAt": "2026-06-01T23:41:18+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 9
+        },
         {
             "slug": "vibrant-spring-vegan-smoothie-bowl-with-kiwi-and-spinach-that-brightens-your-morning",
             "title": "Fresh Kiwi Spinach Smoothie Bowl for a Bright Start to Your Day",
