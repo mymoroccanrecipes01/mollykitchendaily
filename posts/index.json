@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 21:04:24",
-    "count": 445,
+    "generated": "2026-06-01 21:25:35",
+    "count": 446,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -14,6 +14,7 @@
         "15-minute-high-protein-breakfast-bowls-for-spring-mornings",
         "15-minute-honey-mustard-chicken-with-steamed-green-beans-quick-delicious-dinner",
         "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor",
+        "15-minute-no-bake-lemon-blueberry-cheesecake-cups-that-impress-every-time",
         "30-minute-budget-friendly-chicken-and-spinach-stir-fry-that-tastes-like-a-takeout-favorite",
         "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights",
         "30-minute-creamy-mushroom-and-spinach-spring-risotto-thatll-wow-you",
@@ -449,6 +450,21 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "15-minute-no-bake-lemon-blueberry-cheesecake-cups-that-impress-every-time",
+            "title": "No-Bake Blueberry Lemon Cheesecake Cups That Are So Refreshing and Easy",
+            "description": "These no-bake cheesecake cups combine creamy, tangy filling with juicy blueberries and zesty lemon. They’re light, fresh, and perfect for a quick dessert when you don’t want to heat up the kitchen.",
+            "image": "posts/15-minute-no-bake-lemon-blueberry-cheesecake-cups-that-impress-every-time/images/15-minute-no-bake-lemon-blueberry-cheesecake-cups-that-impress-every-time_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T21:25:35+01:00",
+            "updatedAt": "2026-06-01T21:25:35+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "refreshing-cucumber-mint-low-calorie-smoothie-bowl-for-spring",
             "title": "Fresh Cucumber Mint Smoothie Bowl to Brighten Your Morning Routine",
