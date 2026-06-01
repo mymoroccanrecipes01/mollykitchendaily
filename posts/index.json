@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 21:41:20",
-    "count": 447,
+    "generated": "2026-06-01 22:03:48",
+    "count": 448,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -206,6 +206,7 @@
         "fresh-strawberry-swirl-cheesecake-bars-for-spring-gatherings",
         "fudgy-3-ingredient-tiktok-brownies-with-secret-ingredient-that-will-blow-your-mind",
         "fudgy-5-ingredient-chocolate-brownies-ready-in-30-minutes",
+        "fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
         "fudgy-easy-5-ingredient-chocolate-brownies-for-quick-desserts",
         "fudgy-espresso-brownies-topped-with-toasted-pecans-for-the-ultimate-treat",
         "fudgy-vegan-black-bean-brownies-with-walnuts-and-dark-chocolate-that-melt-in-your-mouth",
@@ -451,6 +452,21 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
+            "title": "Rich Fudgy Brownies with Sweet Cookie Dough and a Hint of Sea Salt",
+            "description": "These brownies combine the best of two worlds: dense, fudgy chocolate and pockets of sweet cookie dough, topped with sea salt that balances the flavors perfectly. Great for weekend treats or when you need a chocolate pic",
+            "image": "posts/fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-01T22:03:48+01:00",
+            "updatedAt": "2026-06-01T22:03:48+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 9
+        },
         {
             "slug": "spring-strawberry-shortcake-with-whipped-cream-and-fresh-basil-a-bright-twist-on-a-classic",
             "title": "Springtime Strawberry Shortcake with a Refreshing Basil Twist",
