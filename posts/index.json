@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-01 22:03:48",
-    "count": 448,
+    "generated": "2026-06-01 22:28:18",
+    "count": 449,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -10,6 +10,7 @@
         "15-minute-creamy-garlic-chicken-skillet-with-spinach-that-tastes-like-a-dream",
         "15-minute-easter-treats-everyone-will-love",
         "15-minute-garlic-butter-chicken-with-spring-vegetable-medley-for-busy-weeknights",
+        "15-minute-garlic-herb-chicken-with-spring-vegetable-stir-fry-thats-ready-fast",
         "15-minute-garlic-lemon-asparagus-stir-fry-for-busy-spring-nights",
         "15-minute-high-protein-breakfast-bowls-for-spring-mornings",
         "15-minute-honey-mustard-chicken-with-steamed-green-beans-quick-delicious-dinner",
@@ -452,6 +453,21 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "15-minute-garlic-herb-chicken-with-spring-vegetable-stir-fry-thats-ready-fast",
+            "title": "Quick Garlic Herb Chicken with Vibrant Spring Vegetable Stir Fry",
+            "description": "This garlic herb chicken with fresh spring veggies stir fry is my go-to for busy nights. The garlic and herbs pack a punch, and the crisp veggies keep it light and colorful. Perfect for a quick, healthy dinner!",
+            "image": "posts/15-minute-garlic-herb-chicken-with-spring-vegetable-stir-fry-thats-ready-fast/images/15-minute-garlic-herb-chicken-with-spring-vegetable-stir-fry-thats-ready-fast_pinrecipes_image_1.png",
+            "category_id": "cat_1761230749_334",
+            "createdAt": "2026-06-01T22:28:18+01:00",
+            "updatedAt": "2026-06-01T22:28:18+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "fudgy-chocolate-chip-cookie-dough-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
             "title": "Rich Fudgy Brownies with Sweet Cookie Dough and a Hint of Sea Salt",
