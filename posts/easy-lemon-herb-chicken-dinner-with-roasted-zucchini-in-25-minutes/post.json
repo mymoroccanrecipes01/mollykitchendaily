@@ -1,0 +1,340 @@
+{
+    "title": "Bright and Juicy Lemon Herb Chicken with Roasted Zucchini Side",
+    "promptIMG": "Food photography: Lemon Herb Chicken with Roasted Zucchini, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon herb chicken is my go-to for a fresh and speedy dinner. The secret marinade keeps the chicken tender and juicy while the roasted zucchini adds a light, healthy touch. Perfect for busy weeknights!",
+    "hashtags": "#lemonherbchicken #quickdinner #healthyrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Lemon Herb Chicken That’s Ready in 30 Minutes!",
+            "description": "Looking for a quick, flavor-packed dinner? This lemon herb chicken is juicy, tender, and pairs perfectly with roasted veggies. Save this recipe and try it tonight! 🍋🍗 #quickdinner #healthymeals #chickenrecipes"
+        },
+        {
+            "title": "How to Make Tender Lemon Herb Chicken with Zucchini",
+            "description": "Discover the secret marinade that makes chicken juicy every time. Plus, roasted zucchini makes it a fresh, healthy meal. Try it today and impress your family! 🌿🍽️ #lemonchicken #weeknightdinner #easyrecipes"
+        },
+        {
+            "title": "Simple Lemon Herb Chicken for Busy Weeknights",
+            "description": "Short on time but craving something homemade? This lemon herb chicken with roasted zucchini is light, flavorful, and ready fast. Discover this easy recipe now! 🍋✨ #healthydinner #chickendinner #quickmeals"
+        },
+        {
+            "title": "Fresh and Flavorful Lemon Herb Chicken Dinner Idea",
+            "description": "Brighten your dinner with this lemon herb chicken that stays juicy and tender. Served with roasted zucchini, it’s a healthy, delicious combo you’ll love. Save this recipe! 🍗💛 #chickenrecipes #easymeals #healthyfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1/4 cup fresh lemon juice (about 2 lemons)",
+        "2 tablespoons olive oil",
+        "3 garlic cloves, minced",
+        "1 tablespoon fresh thyme leaves",
+        "1 tablespoon fresh rosemary, chopped",
+        "Salt and freshly ground black pepper, to taste",
+        "2 medium zucchinis, sliced into rounds",
+        "1 tablespoon olive oil (for zucchini)",
+        "Salt and pepper, to taste (for zucchini)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this lemon herb chicken on a hectic weeknight when I wanted something fresh but quick. It’s become a staple because the marinade is so simple yet transforms the chicken into juicy, flavorful perfection. I learned that letting the chicken marinate for at least 15 minutes really makes a difference in tenderness and flavor. Plus, roasting the zucchini alongside the chicken saves time and adds a light, healthy side that’s full of natural sweetness. This isn’t your typical lemon chicken — it’s bright, herbaceous, and juicy without being heavy or greasy. The fresh thyme and rosemary give it a lovely aroma that fills the kitchen as it cooks. I’ve tried versions with dried herbs before, but fresh ones really elevate the dish. The chicken comes out golden with a slight crisp on the edges, and the zucchini roasts to tender with a bit of caramelization. It’s comfort food that’s also bright and healthy, perfect for those nights when you want homemade without fuss. I think you’ll love how easy it is and how much flavor it packs in such little time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the marinade. In a medium bowl, whisk together the fresh lemon juice, olive oil, minced garlic, chopped thyme, rosemary, salt, and pepper. This mixture is key because the acid from the lemon juice breaks down the chicken fibers, making it tender, while the herbs infuse it with bright, fresh flavor. Avoid skipping the fresh garlic and herbs, as they add a lot of depth. Make sure everything is well combined before adding the chicken.",
+            "timing": "5 minutes",
+            "doneness_cue": "The marinade should be well mixed with no clumps of herbs or garlic."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chicken breasts to the marinade, turning to coat them evenly. Let the chicken marinate for at least 15 minutes at room temperature. Marinating longer (up to 1 hour) deepens the flavor and ensures juiciness. Don’t marinate for too long or the lemon’s acidity can start to 'cook' the chicken and make it mushy. While the chicken marinates, preheat your oven to 425°F (220°C) and prepare the zucchini.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chicken pieces should be fully coated and slightly glossy from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "Slice the zucchinis into 1/4-inch rounds and toss them with olive oil, salt, and pepper. Spread them out on a baking sheet in a single layer to ensure even roasting. Roasting zucchini alongside the chicken saves time and enhances its natural sweetness through caramelization. Avoid overcrowding the pan, or the zucchini will steam instead of roast.",
+            "timing": "5 minutes",
+            "doneness_cue": "Zucchini slices should be evenly coated with oil and seasoning."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the marinated chicken breasts on the baking sheet next to the zucchini, leaving space between each piece. This arrangement helps the chicken cook evenly and the zucchini to roast properly. Avoid stacking the chicken or crowding the pan, which can cause uneven cooking or soggy vegetables.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken should be spaced apart with zucchini rounds in a single layer."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake everything in the preheated oven for about 20-25 minutes, flipping the zucchini halfway through to get an even roast. The chicken should reach an internal temperature of 165°F (74°C) for safe eating. Use a meat thermometer to avoid overcooking, which can dry the chicken out. The zucchini should be tender and slightly browned on the edges.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Chicken is opaque and juices run clear; zucchini is golden and tender."
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, let the chicken rest for 5 minutes before slicing. Resting allows the juices to redistribute so the meat stays moist when cut. If you slice immediately, the juices run out and the chicken can become dry. Cover loosely with foil during resting to keep warm.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but still springy to the touch."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the chicken sliced over a bed of roasted zucchini. The bright lemony flavors and herb aroma pair beautifully with the slightly caramelized zucchini. Drizzle any pan juices over the top for extra flavor. This simple plating makes a great weeknight dinner that feels fresh and wholesome.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks vibrant with golden chicken and lightly browned zucchini."
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra touch, sprinkle chopped fresh parsley or a little lemon zest over the chicken before serving. This adds a pop of color and fresh aroma that elevates the dish visually and flavor-wise. It’s a small detail that makes a big difference.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green herbs and zest give a fresh finish."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up any remaining marinade by discarding it — never reuse marinade that’s touched raw chicken unless boiled first. This keeps your cooking safe and hygienic. If you want, use a little fresh lemon juice or olive oil to make a quick dressing for the zucchini after roasting.",
+            "timing": "1 minute",
+            "doneness_cue": "Marinade safely disposed, clean workspace."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Juicy Lemon Herb Chicken",
+        "content": "<p>Marinating chicken in lemon juice and olive oil is a classic technique that combines acid and fat to tenderize and flavor the meat. The citric acid in lemon juice gently breaks down proteins in the chicken, which loosens the muscle fibers and results in a more tender bite. However, it’s important not to over-marinate because too much acid can actually start to 'cook' the chicken, making it mushy. The olive oil coats the chicken, locking in moisture and helping the herbs to adhere better.</p><p>Fresh herbs like thyme and rosemary are packed with essential oils that release aromatic compounds when heated, adding complex flavor layers to the dish. Using fresh rather than dried herbs gives a brighter, more vibrant flavor. The garlic adds a pungent depth, and when roasted, it mellows into a sweet, savory undertone that complements the lemon’s brightness.</p><p>Roasting the zucchini alongside the chicken is both efficient and flavorful. High oven heat caramelizes the natural sugars in zucchini, enhancing its sweetness and creating a slight crisp on the edges. This contrasts nicely with the tender, juicy chicken. Spreading the zucchini in a single layer prevents steaming and ensures a perfect roast.</p><p>Finally, allowing the chicken to rest after baking is a crucial step. Resting lets the juices redistribute evenly throughout the meat, preventing them from spilling out when sliced. This results in a moist, flavorful bite every time. The combination of these techniques creates a dish that’s fresh, juicy, and packed with balanced flavors.</p>",
+        "ingredient_notes": {
+            "fresh lemon juice": "When selecting lemons, choose ones that feel heavy for their size and have a bright yellow color with thin skin. Fresh lemon juice provides the crucial acidity that tenderizes the chicken and balances the richness of olive oil. Avoid bottled lemon juice as it can taste artificial and lacks the brightness of fresh juice.",
+            "olive oil": "Extra virgin olive oil works best here because it adds a fruity, peppery flavor that complements the lemon and herbs. It also helps keep the chicken moist during cooking. Using high-quality olive oil ensures a better tasting marinade and a smoother texture on the chicken surface.",
+            "fresh thyme and rosemary": "Fresh herbs release essential oils that give the dish its signature aroma and flavor. When buying, look for vibrant green leaves without brown spots. These herbs hold up well to roasting and pair beautifully with lemon and garlic. Dried herbs can be used but the flavor will be less intense and more muted.",
+            "garlic": "Fresh garlic cloves add a sharp, pungent flavor that mellows when roasted. Mince finely to release the most flavor into the marinade. Avoid pre-minced or jarred garlic for this recipe, as it lacks the fresh punch that garlic brings to the dish.",
+            "zucchini": "Choose firm, medium-sized zucchinis with smooth skin and no soft spots. Smaller zucchinis tend to be sweeter and less watery. Proper roasting caramelizes their natural sugars, so fresh, good-quality zucchini makes a big difference in flavor and texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken at room temperature for 15-30 minutes rather than in the fridge.",
+            "reason": "Letting the chicken sit at room temperature during marination allows the acid and oil to penetrate the meat more evenly and quickly. It also helps the chicken cook more evenly afterward. Marinating in the fridge slows down this process and can lead to less tender results."
+        },
+        {
+            "tip": "Use a meat thermometer to check for doneness.",
+            "reason": "Chicken breasts can dry out quickly if overcooked. A meat thermometer ensures you hit the safe internal temperature of 165°F without guessing. This precision keeps the chicken juicy and tender every time."
+        },
+        {
+            "tip": "Don’t overcrowd the baking sheet when roasting zucchini and chicken.",
+            "reason": "Crowding traps steam and prevents proper roasting, which means your zucchini won’t caramelize and your chicken won’t brown nicely. Spreading ingredients out ensures even heat circulation and better texture."
+        },
+        {
+            "tip": "Rest the chicken for at least 5 minutes after baking.",
+            "reason": "Resting allows the juices to redistribute throughout the meat fibers. Cutting into chicken immediately causes the juices to spill out, resulting in dry meat. Resting keeps every bite moist and flavorful."
+        },
+        {
+            "tip": "Use fresh herbs instead of dried for the marinade.",
+            "reason": "Fresh herbs contain volatile oils that give bright, complex flavors. Dried herbs lose some of these oils during processing, resulting in a muted taste. Fresh thyme and rosemary elevate the dish considerably."
+        },
+        {
+            "tip": "Flip the zucchini halfway through roasting.",
+            "reason": "Turning the zucchini ensures even browning and caramelization on both sides. This step enhances the texture and brings out the natural sweetness of the vegetables."
+        },
+        {
+            "tip": "Discard leftover marinade that touched raw chicken.",
+            "reason": "Raw chicken juices can harbor bacteria. Using marinade that hasn’t been boiled or cooked can cause foodborne illness. Always discard or boil leftover marinade before using it as a sauce."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Marinating the chicken too long in lemon juice.",
+            "why_it_happens": "People think longer marinating always means better flavor. With acidic marinades, too much time breaks down proteins excessively, making the meat mushy.",
+            "fix": "Limit marinating to 15-30 minutes. If you want more flavor, add herbs and garlic without extra lemon juice or use a less acidic marinade base."
+        },
+        {
+            "mistake": "Overcrowding the pan during roasting.",
+            "why_it_happens": "To save time, cooks often put too many pieces on one sheet, causing steaming instead of roasting.",
+            "fix": "Use two pans or roast in batches to allow air circulation. This ensures proper caramelization and texture."
+        },
+        {
+            "mistake": "Skipping the resting period after cooking.",
+            "why_it_happens": "In a hurry, cooks slice the chicken right away, losing precious juices.",
+            "fix": "Always rest the chicken for at least 5 minutes covered loosely with foil to keep it moist."
+        },
+        {
+            "mistake": "Using dried herbs instead of fresh.",
+            "why_it_happens": "Dried herbs are more convenient but don’t offer the same brightness and aroma.",
+            "fix": "Use fresh thyme and rosemary whenever possible, especially in quick recipes like this."
+        },
+        {
+            "mistake": "Not checking internal temperature.",
+            "why_it_happens": "Relying on cooking times alone can lead to under or overcooked chicken.",
+            "fix": "Use a meat thermometer to ensure chicken reaches 165°F for safety and juiciness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Lemon Herb Chicken",
+            "description": "Add a teaspoon of red pepper flakes or cayenne to the marinade for a spicy kick. This variation pairs well with the herbs and lemon, giving the dish a lively heat without overpowering the freshness.",
+            "technical_note": "Adjust cooking time slightly if you use thicker chicken breasts to ensure even cooking with the added spice."
+        },
+        {
+            "name": "Lemon Herb Chicken with Garlic Mashed Potatoes",
+            "description": "Serve the chicken over creamy garlic mashed potatoes instead of zucchini for a comforting, hearty meal. The garlic in both dishes complements each other, creating a rich flavor experience.",
+            "technical_note": "Prepare potatoes ahead to save time; keep warm while roasting chicken."
+        },
+        {
+            "name": "Grilled Lemon Herb Chicken",
+            "description": "Skip the oven and grill the marinated chicken for smoky flavor. Grill zucchini slices alongside for a charred, fresh side. This method adds a slightly different texture and aroma.",
+            "technical_note": "Watch grill temperature carefully to avoid drying out the chicken; use indirect heat if needed."
+        },
+        {
+            "name": "Lemon Herb Chicken with Quinoa Salad",
+            "description": "Serve the chicken with a fresh quinoa salad tossed with cucumbers, tomatoes, and a lemon vinaigrette. This adds a light grain side that complements the citrus and herbs.",
+            "technical_note": "Prepare quinoa salad while chicken marinates to streamline prep."
+        },
+        {
+            "name": "Creamy Lemon Herb Chicken",
+            "description": "After baking, spoon a dollop of sour cream or Greek yogurt mixed with herbs over the chicken for a creamy finish. This adds richness while keeping the bright lemon flavor intact.",
+            "technical_note": "Add cream topping right before serving to avoid curdling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "15g",
+        "fiber_grams": "2g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This chicken dish can be safely kept at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly. Cover with foil or a clean cloth to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Flavors may mellow, and zucchini can become softer. Reheat gently to preserve moisture, or serve cold in salads for a fresh twist.",
+        "freezer": "Freeze cooked chicken and zucchini in a sealed container or heavy-duty freezer bag for up to 2 months. Remove excess air to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat or in a microwave with a splash of water or broth to keep the chicken moist. Avoid high heat to prevent drying out. Oven reheating at 325°F wrapped in foil works well too.",
+        "make_ahead_strategy": "Marinate the chicken up to 1 day ahead and keep refrigerated. Slice zucchini and store separately to roast fresh. You can also roast zucchini in advance and reheat quickly before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Chicken thighs work well and are even more forgiving when cooking because they’re fattier. Adjust cooking time to about 25-30 minutes at 425°F and ensure they reach 165°F internally. The marinade flavors the thighs beautifully, too."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Dried herbs can be used in a pinch — use about one-third the amount of fresh herbs called for. The flavor will be less vibrant but still tasty. Adding fresh lemon zest can help boost brightness if using dried herbs."
+        },
+        {
+            "question": "Can I prepare this recipe entirely on the stovetop?",
+            "answer": "You can, but roasting helps develop caramelization and even cooking. For stovetop, cook chicken in a hot skillet with a bit of oil, turning often, and sauté zucchini separately. It’s doable but won’t have quite the same roasted flavor."
+        },
+        {
+            "question": "How long can I marinate the chicken safely?",
+            "answer": "Marinate for 15-30 minutes at room temp or up to 1 hour in the fridge. Beyond that, the lemon’s acid can start to break down the meat too much, affecting texture negatively."
+        },
+        {
+            "question": "Can I double or halve the recipe?",
+            "answer": "Absolutely! Just adjust the marinade and cooking times accordingly. For larger batches, use multiple baking sheets to avoid overcrowding and ensure even cooking."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "Yes, all ingredients are naturally gluten-free. Just double-check any packaged ingredients like olive oil or herbs for cross-contamination if you have severe sensitivities."
+        },
+        {
+            "question": "What sides pair well with this chicken?",
+            "answer": "Roasted veggies, quinoa, rice, or simple salads all complement this lemon herb chicken well. The light zucchini side is great, but feel free to mix it up depending on your mood."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add red pepper flakes or a dash of cayenne pepper to the marinade. Start with a small amount and adjust to your heat preference. This adds a nice kick without overpowering the fresh lemon and herbs."
+        }
+    ],
+    "conclusion": "I hope you give this lemon herb chicken a try soon — it’s one of those easy meals that feels special every time. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "lemon herb chicken recipe",
+        "secondary_keywords": [
+            "easy lemon chicken",
+            "healthy chicken dinner",
+            "how to make lemon herb chicken",
+            "best lemon herb chicken recipe",
+            "quick chicken recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "roasting vegetables tips",
+                "anchor": "roasting-vegetables-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_1.png",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_1.png",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_2.png",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_2.png",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_3.png",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_3.png",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images/easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780480170_345",
+    "slug": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-lemon-herb-chicken-dinner-with-roasted-zucchini-in-25-minutes/images"
+}

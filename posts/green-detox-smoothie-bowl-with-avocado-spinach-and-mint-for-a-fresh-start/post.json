@@ -1,0 +1,338 @@
+{
+    "title": "Refreshing Green Detox Smoothie Bowl with Avocado and Mint",
+    "promptIMG": "Food photography: Green Detox Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This green smoothie bowl blends creamy avocado with fresh spinach and mint for a refreshing, nutrient-packed start to your day. It’s perfect for breakfast or a light afternoon pick-me-up!",
+    "hashtags": "#greensmoothiebowl #detoxrecipe #healthybreakfast",
+    "board_name": "Healthy Smoothie Bowls",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Creamy Green Detox Smoothie Bowl",
+            "description": "Kick off your mornings with this creamy green detox smoothie bowl packed with avocado and fresh mint 🌿. It’s super easy to make and tastes amazing! Save this recipe and enjoy a nourishing boost anytime. #healthybreakfast #smoothiebowl #detox"
+        },
+        {
+            "title": "Easy Green Detox Smoothie Bowl Recipe for a Fresh Boost",
+            "description": "Need a quick, refreshing breakfast? This green detox smoothie bowl with spinach and avocado is your new go-to 🥑🍃. Whip it up in minutes and feel energized all day. Try it today and share your favorite toppings! #greensmoothie #breakfastideas #healthyrecipes"
+        },
+        {
+            "title": "Creamy Avocado & Mint Smoothie Bowl That Feels Like a Treat",
+            "description": "Looking for a tasty way to detox? This creamy avocado and mint smoothie bowl is vibrant, fresh, and so satisfying 😋. Perfect for a light snack or breakfast. Discover now and add your own twist! #detoxsmoothie #avocadobowl #plantbased"
+        },
+        {
+            "title": "Quick & Nourishing Green Smoothie Bowl with Spinach and Mint",
+            "description": "Whip up this nourishing green smoothie bowl packed with spinach, avocado, and mint in under 10 minutes 🍃🥑. It’s a great way to recharge after a busy day. Save this recipe and enjoy a fresh, healthy treat! #greensmoothiebowl #healthyfood #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 ripe avocado, peeled and pitted",
+        "2 cups fresh spinach, washed",
+        "1/2 cup fresh mint leaves",
+        "1 medium banana, peeled",
+        "1 cup unsweetened almond milk",
+        "1 tablespoon chia seeds",
+        "1 teaspoon honey or maple syrup (optional)",
+        "Ice cubes (optional, for thicker texture)"
+    ],
+    "yield": "Approximately 2 smoothie bowls",
+    "introduction": "I first stumbled upon this green detox smoothie bowl during a hectic week when I needed something quick, nourishing, and refreshing. It quickly became my go-to breakfast or afternoon snack because it’s super easy to whip up and leaves me feeling energized without weighing me down. What makes this version special is the creamy avocado—it gives the smoothie a velvety texture that’s so satisfying, plus it adds healthy fats that keep you full longer. I also love adding fresh mint; it brightens the flavor and adds a cooling touch that’s perfect especially on warmer days. Over time, I’ve learned that blending the greens first with the liquid helps avoid any gritty texture, making every spoonful smooth and delicious. This bowl not only looks vibrant and inviting but tastes fresh and slightly sweet, a perfect way to sneak in extra nutrients when life gets busy. Honestly, I’ve tried several green smoothie recipes, but this one always hits the spot for me and my family. Give it a try—you might just find your new favorite morning ritual!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the fresh spinach and mint leaves into your blender with the almond milk. Blend on medium speed until the greens are fully broken down and the mixture looks smooth and vibrant green. This step is crucial to avoid any leafy chunks that can make the texture unpleasant. Blending the greens first ensures a silky base and releases their fresh flavors evenly throughout the smoothie.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Mixture is smooth, bright green, and free of leafy chunks"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the ripe avocado, banana, and chia seeds to the blender. Blend again on high speed until creamy and smooth. The avocado adds richness and healthy fats, while the banana naturally sweetens the bowl. If you want it thicker, toss in a few ice cubes and blend again. Avoid rushing this step because under-blending can leave lumps, while over-blending won’t harm but may warm the smoothie slightly.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Smoothie is creamy, thick, and evenly blended with no visible chunks"
+        },
+        {
+            "step": 3,
+            "instruction": "Taste the smoothie and add honey or maple syrup if you want a touch more sweetness. Blend briefly just to combine the sweetener without over-processing the mixture. This allows you to adjust flavor to your liking without overpowering the natural freshness of the greens and avocado.",
+            "timing": "30 seconds",
+            "doneness_cue": "Smoothie tastes balanced with a hint of sweetness but not cloying"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the smoothie into bowls and sprinkle the tops with extra chia seeds or fresh mint leaves for garnish. This adds texture and a little visual appeal, making it feel more like a special treat rather than just a drink. Plus, those little seeds add a nice crunch and boost of fiber.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie bowl looks vibrant and fresh with garnishes evenly scattered"
+        },
+        {
+            "step": 5,
+            "instruction": "Serve immediately for the best texture and flavor. If you wait too long, the smoothie bowl may separate or lose its vibrant color. Enjoy it fresh to get the full benefit of the nutrients and the creamy, refreshing texture.",
+            "timing": "Serve right away",
+            "doneness_cue": "Smoothie bowl is fresh, cool, and creamy when eaten"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add toppings like sliced fruits, nuts, or granola, do so just before serving. This adds crunch and extra flavor layers but adding them too early can make them soggy. I love adding fresh berries or toasted coconut flakes for a little texture contrast.",
+            "timing": "1 minute",
+            "doneness_cue": "Toppings are fresh and crunchy, complementing the creamy base"
+        },
+        {
+            "step": 7,
+            "instruction": "For a thicker smoothie bowl texture, use less almond milk or add more avocado and banana. Adjusting liquid ratios allows you to customize the consistency to your preference, whether you want to eat it with a spoon or drink it as a smoothie.",
+            "timing": "N/A (adjust as needed)",
+            "doneness_cue": "Smoothie bowl holds its shape well and isn’t too runny"
+        },
+        {
+            "step": 8,
+            "instruction": "To prepare in advance, blend all ingredients except the avocado and chia seeds, which can brown or gel if left too long. Add those right before serving to maintain freshness and texture. This little trick saves you time in busy mornings while keeping your bowl vibrant.",
+            "timing": "N/A (prep advice)",
+            "doneness_cue": "Smoothie tastes fresh and creamy when served"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender immediately after use to prevent avocado residue from sticking and staining. Rinse with warm water and a drop of dish soap, then blend clean water for a few seconds. This helps keep your kitchen tools in great shape and avoids flavor transfer between recipes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Blender is clean with no visible sticky residue"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Green Smoothie Bowl Works So Well",
+        "content": "<p>This green detox smoothie bowl combines creamy avocado, fresh spinach, and mint in a way that balances flavor, texture, and nutrition perfectly. The avocado plays a key role by adding healthy fats and a smooth, creamy texture that helps carry the flavors and provide satiety. Unlike watery smoothies, the fat content creates a luscious mouthfeel that feels indulgent but is good for you.</p><p>Spinach is a mild-tasting leafy green that blends easily without overpowering the flavor or creating a gritty texture. Blending the spinach first with the liquid breaks down the fibrous leaves thoroughly, which prevents unpleasant chunks and helps release its vibrant green color and nutrients evenly. Mint adds a refreshing brightness and subtle cooling sensation, making the bowl feel fresh and light.</p><p>Chia seeds absorb liquid and swell, contributing to the thickness and adding fiber and omega-3 fatty acids. They also help stabilize the texture so the smoothie bowl holds its shape better when served in a bowl versus a glass. The banana naturally sweetens the mixture and masks any bitterness from the greens, creating a balanced flavor profile that’s approachable even for those new to green smoothies.</p><p>Using almond milk as a dairy-free base keeps the recipe light and suitable for various diets. The liquid amount is adjustable, allowing you to customize the thickness for spoonable bowls or drinkable smoothies. Altogether, the recipe’s ingredient interactions and techniques result in a delicious, nourishing bowl that’s easy to make and enjoyable to eat.</p>",
+        "ingredient_notes": {
+            "Avocado": "Choose ripe avocados that yield slightly to gentle pressure without feeling mushy. They provide healthy monounsaturated fats that add creaminess and help absorb fat-soluble vitamins from the greens. Avoid underripe avocados as they can taste bitter and won’t blend smoothly.",
+            "Spinach": "Fresh baby spinach works best for its mild flavor and tender leaves. It blends smoothly without a gritty texture. Avoid older or wilted spinach as it can taste bitter and affect the bowl’s freshness. Washing thoroughly removes soil and grit that can spoil texture.",
+            "Mint Leaves": "Use fresh mint for its bright, cooling flavor. Dried mint won’t have the same fresh aroma or visual appeal. Mint also aids digestion and adds a refreshing note that balances the creamy avocado and sweet banana.",
+            "Chia Seeds": "Chia seeds hydrate and thicken the smoothie bowl while adding fiber and omega-3s. Use whole seeds rather than ground to maintain texture. Letting chia soak briefly before blending can improve texture but is optional.",
+            "Banana": "A ripe banana adds natural sweetness and smooth texture, masking any bitterness from greens. Overripe bananas are sweeter but can alter color and flavor. Bananas also contribute potassium and fiber, enhancing nutritional value."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Blend the greens and liquid first before adding avocado and banana.",
+            "reason": "Blending greens with liquid first breaks down tough fibers and avoids leafy chunks that can make the smoothie gritty. This step ensures a smooth, vibrant base before adding creamy ingredients."
+        },
+        {
+            "tip": "Use ripe avocado for the creamiest texture.",
+            "reason": "Ripe avocados are soft enough to blend smoothly, giving the smoothie a rich mouthfeel. Using underripe avocado results in a grainy texture and less flavorful bowl."
+        },
+        {
+            "tip": "Add ice cubes for a thicker, colder smoothie bowl.",
+            "reason": "Ice chills and thickens the bowl without diluting flavor much. It makes the smoothie more refreshing and spoonable, especially in warm weather."
+        },
+        {
+            "tip": "Adjust liquid quantity to control thickness.",
+            "reason": "More liquid makes a drinkable smoothie; less liquid creates a thick bowl perfect for toppings. Tailoring liquid lets you customize texture to your preference."
+        },
+        {
+            "tip": "Add sweetener last and taste as you go.",
+            "reason": "Natural sweetness varies with banana ripeness. Adding honey or maple syrup at the end helps you control sweetness without overpowering fresh flavors."
+        },
+        {
+            "tip": "Use fresh mint leaves for brightness and freshness.",
+            "reason": "Fresh mint adds a cooling note that balances richness and sweetness. Avoid dried mint which lacks aroma and can taste dull."
+        },
+        {
+            "tip": "Serve immediately for best texture and flavor.",
+            "reason": "Smoothie bowls can separate or lose vibrancy over time. Eating right away ensures creamy texture and fresh taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe avocado",
+            "why_it_happens": "People often grab any avocado without checking ripeness, thinking it will ripen quickly or blend fine.",
+            "fix": "Choose avocados that yield slightly to gentle pressure. If too firm, let them ripen a day or two at room temperature. Using ripe avocado ensures smooth texture and creamy flavor."
+        },
+        {
+            "mistake": "Not blending greens first",
+            "why_it_happens": "In a hurry, some add all ingredients at once, resulting in leafy chunks and gritty texture.",
+            "fix": "Blend spinach and mint with liquid first until smooth before adding other ingredients. This prevents unpleasant texture and releases fresh green color."
+        },
+        {
+            "mistake": "Adding too much liquid",
+            "why_it_happens": "Beginners often add a full cup of liquid without adjusting for desired thickness.",
+            "fix": "Start with less liquid and add more gradually. For a bowl, keep it thick enough to eat with a spoon; for a smoothie, add more liquid to drink easily."
+        },
+        {
+            "mistake": "Skipping sweetener when banana isn’t ripe",
+            "why_it_happens": "Assuming banana is always sweet enough, some omit sweetener which can result in a bland or bitter taste.",
+            "fix": "Taste before serving and add a small amount of honey or maple syrup if needed to balance flavors."
+        },
+        {
+            "mistake": "Preparing smoothie bowl too far in advance",
+            "why_it_happens": "Planning ahead is great, but some make the entire bowl hours before serving, leading to separation and color dulling.",
+            "fix": "Prepare base ahead but add avocado and chia seeds just before serving. This keeps the bowl fresh and creamy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Green Smoothie Bowl",
+            "description": "Swap banana for pineapple and mango to add tropical sweetness and a bright flavor twist. The avocado keeps the creaminess, while pineapple adds a tangy zing. Expect a slightly thinner texture due to the juicy fruits but still spoonable.",
+            "technical_note": "You may need to reduce almond milk slightly as pineapple and mango release more liquid."
+        },
+        {
+            "name": "Protein-Packed Smoothie Bowl",
+            "description": "Add a scoop of your favorite plant-based protein powder to boost protein content. This makes the bowl more filling and great as a post-workout meal. The powder may slightly thicken the texture and add mild flavor changes depending on type.",
+            "technical_note": "Blend protein powder with the liquid first to avoid clumps."
+        },
+        {
+            "name": "Spiced Green Smoothie Bowl",
+            "description": "Add a pinch of ground ginger and cinnamon for a warming spice note that complements the mint and avocado. This variation feels cozy and is great for cooler mornings. It adds subtle complexity without overpowering freshness.",
+            "technical_note": "Start with small amounts of spices and adjust to taste to avoid bitterness."
+        },
+        {
+            "name": "Nut Butter Green Smoothie Bowl",
+            "description": "Stir in a tablespoon of almond or peanut butter for extra richness and a nutty flavor. This adds healthy fats and protein, making the bowl more satisfying. Texture becomes thicker and creamier with a slight nutty aroma.",
+            "technical_note": "Blend nut butter with avocado and banana for even distribution."
+        },
+        {
+            "name": "Berry Green Smoothie Bowl",
+            "description": "Add a handful of fresh or frozen berries like blueberries or raspberries for a fruity twist and antioxidant boost. The berries add color and a slight tartness that balances the sweetness of banana and creaminess of avocado.",
+            "technical_note": "Use frozen berries to thicken or fresh berries for a lighter texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "20g",
+        "fiber_grams": "10g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl is best enjoyed fresh and should not be left at room temperature for more than 1 hour to avoid nutrient loss and spoilage. Cover with plastic wrap or a lid if you must keep it out briefly.",
+        "refrigerator": "Store leftover smoothie bowl in an airtight container in the fridge for up to 24 hours. Expect some separation and color dulling; stir well before eating. It’s best served cold but fresh for optimal texture.",
+        "freezer": "Freezing is not recommended as the creamy avocado and chia seeds can change texture and separate upon thawing, resulting in a less pleasant mouthfeel.",
+        "reheating": "Reheating is not applicable for smoothie bowls. Serve chilled or at room temperature after stirring if stored in the fridge.",
+        "make_ahead_strategy": "You can prepare the green base (spinach, mint, almond milk) up to 1 day ahead and store it in the fridge. Add avocado, banana, and chia seeds just before blending to keep the bowl fresh and creamy."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Using frozen spinach is possible but may result in a more watery and less vibrant smoothie bowl. If you do use frozen, thaw and drain excess water first to avoid diluting the flavors and texture."
+        },
+        {
+            "question": "What can I substitute for almond milk?",
+            "answer": "You can use any plant-based milk like oat, soy, or coconut milk. Just note that coconut milk will add a richer, sweeter flavor while oat milk is mild and creamy. Dairy milk works too if you’re not avoiding dairy."
+        },
+        {
+            "question": "How do I make the smoothie bowl sweeter without sugar?",
+            "answer": "Use a ripe banana or add natural sweeteners like honey or maple syrup sparingly. You can also add sweeter fruits like mango or pineapple to boost natural sweetness."
+        },
+        {
+            "question": "Can I make this smoothie bowl vegan?",
+            "answer": "Yes! Simply use a plant-based milk like almond or oat milk and substitute honey with maple syrup or agave nectar to keep it vegan-friendly."
+        },
+        {
+            "question": "Is it okay to leave chia seeds out?",
+            "answer": "Chia seeds add thickness and nutrition but can be omitted if you prefer a thinner smoothie. The bowl won’t hold its shape as well without them but will still taste great."
+        },
+        {
+            "question": "How do I prevent the avocado from browning?",
+            "answer": "Use the avocado fresh and blend it right before serving. You can add a little lemon juice to slow browning if you prepare the bowl slightly ahead."
+        },
+        {
+            "question": "Can I add protein powder to this recipe?",
+            "answer": "Absolutely! Adding protein powder boosts satiety and makes this bowl a great post-workout meal. Blend it with the liquid first to avoid clumps."
+        },
+        {
+            "question": "What toppings work best on this smoothie bowl?",
+            "answer": "Fresh fruits, nuts, seeds, granola, or coconut flakes all complement the creamy base nicely. Add toppings just before serving to keep them crunchy."
+        }
+    ],
+    "conclusion": "I hope you give this green detox smoothie bowl a try—it’s one of my favorites for a fresh, nourishing start. Let me know how it turns out and what toppings you love!",
+    "seo": {
+        "primary_keyword": "green detox smoothie bowl",
+        "secondary_keywords": [
+            "healthy green smoothie",
+            "avocado smoothie bowl",
+            "how to make green smoothie bowl",
+            "best detox smoothie bowl recipe",
+            "easy green smoothie bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Make the Perfect Smoothie Bowl",
+                "anchor": "perfect-smoothie-bowl"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_1.png",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_1.png",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_2.png",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_2.png",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_3.png",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_3.png",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "relativePath": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images/green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780480586_892",
+    "slug": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "green-detox-smoothie-bowl-with-avocado-spinach-and-mint-for-a-fresh-start/images"
+}

@@ -1,0 +1,344 @@
+{
+    "title": "Fresh Lemon Blueberry Cake with a Light, Zesty Twist",
+    "promptIMG": "Food photography: Fresh Lemon Blueberry Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon blueberry cake is my go-to for summer gatherings. It's super light, bursting with juicy blueberries and a bright lemon zing. Super easy with just five ingredients—perfect for casual weekend treats!",
+    "hashtags": "#lemonblueberrycake #summerdessert #easybaking",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Zesty Lemon Blueberry Cake Recipe!",
+            "description": "Looking for a fresh, simple dessert? This lemon blueberry cake is bursting with flavor and so easy to make! 🍋🫐 Save this recipe for your next summer get-together and impress your friends with minimal effort. #lemoncake #blueberrydessert #summerbaking"
+        },
+        {
+            "title": "How to Make the Perfect Light Lemon Blueberry Cake in Minutes",
+            "description": "Discover the secret to a moist, tangy cake loaded with blueberries. 🍰✨ This recipe is quick and foolproof—try it today and enjoy a slice of sunshine anytime! #easycake #lemonblueberry #dessertlover"
+        },
+        {
+            "title": "Easy Lemon Blueberry Cake That Everyone Will Love!",
+            "description": "This cake is my summer staple—fresh, light, and packed with juicy berries. Perfect for backyard parties or afternoon tea! 🫐🍋 Don’t wait, bake one today and taste the freshness. #summerdesserts #blueberrycake #homemadegoodness"
+        },
+        {
+            "title": "Simple Lemon Blueberry Cake Recipe for Effortless Summer Baking",
+            "description": "Ready in no time and bursting with lemony freshness and sweet blueberries. 🍋🫐 This easy cake is a crowd-pleaser and perfect for casual gatherings. Save this recipe and bake it soon! #lemonblueberrycake #quickdessert #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "2 teaspoons baking powder",
+        "1/2 cup unsalted butter, melted and cooled",
+        "2 large eggs",
+        "1/2 cup whole milk",
+        "Zest and juice of 1 large lemon",
+        "1 1/2 cups fresh blueberries, rinsed and patted dry"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I first made this lemon blueberry cake last summer when I wanted a dessert that felt light and fresh but still satisfying. Most lemon cakes I tried were either too dense or overly sweet, so I played around with the ingredients until I found a balance that works perfectly. The trick I learned was folding the blueberries in gently at the end so they don’t burst and turn the batter purple, keeping the cake beautifully speckled instead. Also, using fresh lemon zest and juice instead of extract gives it a bright, authentic zing that just wakes up your taste buds. When baked, the cake is moist with a tender crumb, and the blueberries add juicy pops of sweetness. It’s become a favorite for backyard parties and weekend brunches in my house, especially because it’s quick and uses only a handful of ingredients. I think you’ll love how fresh and easy it is to whip up anytime you want a summery treat.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan with butter or non-stick spray, then dust it lightly with flour to prevent sticking. This step ensures your cake releases easily after baking and that it cooks evenly. Skipping this can lead to a cake that sticks or bakes unevenly, so don’t rush it.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan feels evenly coated with no bare spots and a light flour dusting remains"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking powder, and a pinch of salt. Sifting aerates the flour, which helps the cake stay light and tender. If you skip sifting, you might get lumps or a denser texture, so take a minute here.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined and fluffy"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the sugar and melted butter together until smooth and slightly creamy. This step helps dissolve the sugar and distributes the fat evenly, which contributes to the cake’s moist texture. If the butter is too hot, it can cook the eggs in the next step, so make sure it's cooled.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks smooth with no lumps and a pale yellow color"
+        },
+        {
+            "step": 4,
+            "instruction": "Add eggs one at a time to the butter-sugar mixture, beating well after each addition. This incorporates air for a lighter cake and ensures the eggs are fully mixed in. Rushing this step can cause uneven texture or curdling.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth, glossy, and slightly thickened"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the lemon zest and juice along with the milk. The fresh lemon juice adds brightness and moisture, while the zest gives concentrated citrus flavor. Use fresh lemons for the best taste; bottled juice won't have the same zing.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is evenly mixed with visible lemon zest strands"
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold in the dry ingredients to the wet mixture using a spatula. Folding gently preserves the air bubbles in the batter, keeping the cake light. Overmixing will develop gluten and make the cake tough, so stop as soon as the flour disappears.",
+            "timing": "4 minutes",
+            "doneness_cue": "Batter is smooth and uniform with no streaks of flour"
+        },
+        {
+            "step": 7,
+            "instruction": "Gently fold in the fresh blueberries, being careful not to crush them. This keeps the berries intact and prevents the batter from turning purple, which helps the cake look more appetizing. If you use frozen berries, thaw and drain them first to avoid excess moisture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly distributed without broken skins"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. Tap the pan lightly on the counter to release any large air bubbles. This gives the cake an even surface and prevents large holes inside.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is level and smooth in the pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the cake in the preheated oven for about 30-35 minutes, or until a toothpick inserted in the center comes out clean. Avoid opening the oven door too early to prevent the cake from sinking. The golden edges and slight spring back when touched signal doneness.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Toothpick comes out clean and cake springs back lightly when pressed"
+        },
+        {
+            "step": 10,
+            "instruction": "Let the cake cool in the pan for 10 minutes, then turn it out onto a wire rack to cool completely. Cooling allows the cake to set and prevents it from becoming soggy. Don’t skip this or try to frost it while warm.",
+            "timing": "20 minutes",
+            "doneness_cue": "Cake is cool to the touch and holds its shape when moved"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Lemon Blueberry Cake Is So Delightfully Light and Flavorful",
+        "content": "<p>This lemon blueberry cake achieves its light, tender crumb thanks to a combination of careful ingredient selection and technique. First, sifting the flour and baking powder together aerates the dry ingredients, which helps the cake rise evenly and prevents clumping that could lead to dense spots. The baking powder triggers a chemical reaction that produces carbon dioxide bubbles, making the cake soft and fluffy.</p><p>Using melted butter instead of cold butter or oil creates a moist texture without greasiness. Butter also adds a rich flavor that complements the lemon perfectly. When combined with sugar and eggs, the mixture emulsifies, trapping air that expands during baking and contributes to the cake's delicate crumb.</p><p>The fresh lemon zest and juice are crucial for authentic brightness. The zest contains essential oils that provide intense citrus aroma, while the juice adds acidity to balance the sweetness and activate the baking powder. This acidity also tenderizes the gluten, keeping the cake soft. Folding in fresh blueberries gently ensures they burst minimally, preventing the batter from turning purple and maintaining appealing specks of fruit throughout the cake. Additionally, tapping the pan before baking releases large air bubbles, resulting in an even texture.</p><p>Finally, baking at the right temperature and letting the cake cool properly allows it to set without drying out or collapsing. The result is a moist, tender cake with a fresh lemon zing and juicy bursts of blueberry — a perfect summer treat that’s both simple and impressive.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-12%) for the best balance of structure and tenderness. Too high protein flours like bread flour will make the cake tough, while cake flour can be used if you want an even lighter crumb but may require adjusting the liquid.",
+            "fresh blueberries": "Opt for fresh, firm blueberries without wrinkles or soft spots. They hold their shape better during baking and add a juicy pop. Frozen blueberries can be used but should be thawed and drained well to avoid excess moisture that can make the cake soggy.",
+            "unsalted butter": "Use unsalted butter to control the salt level precisely. Melt the butter and let it cool slightly before mixing to avoid cooking the eggs prematurely. Butter adds richness and helps create a tender crumb through emulsification with sugar and eggs.",
+            "lemon zest and juice": "Fresh lemons are essential. The zest contains fragrant oils that give a vibrant citrus aroma, while the juice adds brightness and acidity. Bottled lemon juice lacks the fresh flavor and can alter the cake’s texture because of preservatives.",
+            "baking powder": "Choose fresh, active baking powder to ensure proper leavening. Baking powder reacts with moisture and acid in the batter to release gas bubbles, making the cake rise. Old or expired baking powder can lead to a flat, dense cake."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients for a lighter cake.",
+            "reason": "Sifting aerates the flour and baking powder, breaking up lumps and ensuring even distribution. This results in a tender crumb and proper rise. Skipping sifting can cause uneven texture and dense spots."
+        },
+        {
+            "tip": "Fold in blueberries gently at the end.",
+            "reason": "Blueberries are delicate and can burst easily, staining the batter and altering texture. Gently folding them preserves their shape and ensures pretty specks of fruit instead of purple streaks."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice for true brightness.",
+            "reason": "Fresh lemon zest contains essential oils that provide intense citrus aroma and flavor, while fresh juice adds acidity for balance. Bottled lemon juice lacks this complexity and can make the cake taste flat."
+        },
+        {
+            "tip": "Cool the cake completely before slicing.",
+            "reason": "Cooling allows the cake's structure to set and prevents crumbling or sogginess. Cutting too soon can cause the cake to fall apart or be gummy."
+        },
+        {
+            "tip": "Tap the pan before baking to release large air bubbles.",
+            "reason": "This step prevents large holes or tunnels inside the cake by allowing trapped air to escape, resulting in a more even crumb."
+        },
+        {
+            "tip": "Don’t overmix the batter once flour is added.",
+            "reason": "Overmixing develops gluten, which makes cakes tough and chewy. Mix just until combined for a tender texture."
+        },
+        {
+            "tip": "Use room temperature eggs and milk.",
+            "reason": "Cold ingredients can cause the batter to curdle or not emulsify properly, affecting texture and rise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using frozen blueberries without thawing",
+            "why_it_happens": "Many assume frozen berries can be added directly to save time, but frozen berries release extra moisture when baking.",
+            "fix": "Always thaw and drain frozen blueberries thoroughly before folding them into the batter to avoid soggy cake and uneven texture."
+        },
+        {
+            "mistake": "Skipping sifting of dry ingredients",
+            "why_it_happens": "Sifting is often overlooked as an unnecessary step to save time.",
+            "fix": "Take a moment to sift flour and baking powder together to ensure even distribution and prevent lumps, which helps the cake rise and stay tender."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "In a rush, cooks often mix vigorously to combine ingredients quickly.",
+            "fix": "Mix just until the flour disappears to avoid toughening the cake by gluten overdevelopment."
+        },
+        {
+            "mistake": "Not cooling cake before slicing",
+            "why_it_happens": "Impatience leads to cutting the cake while still warm.",
+            "fix": "Allow the cake to cool completely on a wire rack so it firms up and slices cleanly without crumbling."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Convenience or running out of fresh lemons causes this substitution.",
+            "fix": "Use fresh lemon juice and zest for authentic flavor and proper acidity balance that impacts texture and rise."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Lemon Blueberry Cake",
+            "description": "Swap the all-purpose flour for a 1:1 gluten-free baking flour blend. The cake remains moist and flavorful, though the crumb may be slightly denser. Add 1/4 teaspoon xanthan gum if your blend doesn’t include it to improve texture.",
+            "technical_note": "Gluten-free flours behave differently, so avoid overmixing and ensure proper leavening for rise."
+        },
+        {
+            "name": "Lemon Blueberry Bundt Cake with Glaze",
+            "description": "Bake the batter in a bundt pan for a prettier presentation. Once cooled, drizzle with a simple lemon glaze made from powdered sugar and lemon juice for extra zing and sweetness.",
+            "technical_note": "Increase baking time by 5-10 minutes and check doneness with a toothpick due to thicker batter depth."
+        },
+        {
+            "name": "Vegan Lemon Blueberry Cake",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use plant-based milk and vegan butter substitutes. The cake will be slightly less fluffy but still delicious and moist.",
+            "technical_note": "Flax eggs add density, so fold batter gently and consider adding a bit more baking powder."
+        },
+        {
+            "name": "Lemon Blueberry Muffins",
+            "description": "Divide the batter into a muffin tin lined with paper cups for individual servings. Bake about 20-25 minutes. Perfect for grab-and-go breakfasts or snacks with the same fresh flavors.",
+            "technical_note": "Watch closely to avoid overbaking, which can dry out the smaller portions."
+        },
+        {
+            "name": "Lemon Blueberry Cake with Almond Flour",
+            "description": "Substitute 1/3 of the flour with almond flour for a nutty flavor and moister crumb. This variation adds richness and a slight chewiness that complements the blueberries.",
+            "technical_note": "Almond flour adds fat and moisture, so reduce butter slightly if needed to balance texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cake covered loosely with a cake dome or foil at room temperature for up to 2 days. Keep it away from direct sunlight or heat to prevent drying out. The cake stays moist and fresh for casual serving.",
+        "refrigerator": "Place the cake in an airtight container or cover tightly with plastic wrap and refrigerate for up to 5 days. The texture firms up slightly when cold, so bring to room temperature before serving for best flavor.",
+        "freezer": "Wrap the cooled cake tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Refresh by warming slightly in a low oven before serving.",
+        "reheating": "Warm slices gently in a 300°F oven for 5-7 minutes or microwave for 15-20 seconds. Avoid overheating to prevent drying. Adding a tiny splash of lemon juice or butter before warming can restore moisture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated in an airtight container. Stir gently before baking. Alternatively, bake the cake and freeze it fully, then thaw and glaze or decorate on the day of serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but thaw and drain them completely before folding into the batter to avoid excess moisture making the cake soggy. Using frozen berries straight from the freezer can cause the batter to turn purple and affect texture."
+        },
+        {
+            "question": "What if I don’t have fresh lemons for zest and juice?",
+            "answer": "Fresh lemon zest and juice are key for bright flavor and acidity. Bottled lemon juice lacks the fresh aroma and can make the cake taste flat. If you must, add a little lemon extract and reduce sugar slightly, but the result won’t be quite the same."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with a few moist crumbs but no wet batter. The cake’s edges will pull slightly away from the pan and the top will spring back lightly when pressed."
+        },
+        {
+            "question": "Can I make this cake dairy-free?",
+            "answer": "Yes! Substitute the milk with any plant-based milk like almond or oat milk, and use vegan butter or coconut oil instead of butter. The texture might be slightly different but still delicious and moist."
+        },
+        {
+            "question": "Why is my cake dense or heavy?",
+            "answer": "Common reasons include overmixing the batter after adding flour, expired baking powder, or not sifting the dry ingredients. Overmixing develops gluten, making the cake tough. Always mix gently and check your leavening agents."
+        },
+        {
+            "question": "Can I double this recipe for a larger cake?",
+            "answer": "Absolutely! Use a larger pan or two pans and adjust baking time accordingly, checking doneness with a toothpick. Larger cakes usually need more time, so start checking at the original baking time and add increments as needed."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Keep the cake in an airtight container at room temperature for up to 2 days or refrigerate for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Can I add frosting or glaze to this cake?",
+            "answer": "Yes, a simple lemon glaze or cream cheese frosting pairs beautifully. Just make sure the cake is fully cooled before applying to prevent melting or sliding."
+        }
+    ],
+    "conclusion": "Give this lemon blueberry cake a try — it’s a fresh, easy treat that always brings smiles. I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "lemon blueberry cake recipe",
+        "secondary_keywords": [
+            "easy lemon cake",
+            "blueberry dessert recipe",
+            "how to make lemon blueberry cake",
+            "best lemon blueberry cake recipe",
+            "summer fruit cake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "Classic Lemon Pound Cake Recipe",
+                "anchor": "classic-lemon-pound-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200 words"
+    },
+    "images": [
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.png",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.png",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.png",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.png",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.png",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.png",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images/5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780479365_677",
+    "slug": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "5-ingredient-lemon-blueberry-layer-cake-for-summer-parties-that-everyone-will-love/images"
+}

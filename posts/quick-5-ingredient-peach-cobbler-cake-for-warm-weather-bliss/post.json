@@ -1,0 +1,335 @@
+{
+    "title": "Easy Peach Cobbler Cake with Juicy Peaches and Buttery Crust",
+    "promptIMG": "Food photography: Peach Cobbler Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach cobbler cake is so simple and delicious, made with just five ingredients. The juicy peaches burst with flavor, and the buttery cake is perfectly tender. Great for casual family get-togethers or a laid-back dessert any day!",
+    "hashtags": "#peachcobbler #easyrecipe #summerdessert",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "Simple Peach Cobbler Cake Recipe You’ll Love to Make Again",
+            "description": "This peach cobbler cake is a breeze to make and tastes like summer in every bite! 🍑 Perfect for family dinners or weekend treats. Save this recipe and try it today! #peachdessert #easybaking #homemadegoodness"
+        },
+        {
+            "title": "Juicy Peach Cobbler Cake With Buttery Crust - So Easy!",
+            "description": "Looking for a fuss-free dessert? This peach cobbler cake is juicy, buttery, and incredibly easy to whip up. 🍰 Give it a go this weekend and impress your friends! #cobblerecipe #fruitdessert #peachcake"
+        },
+        {
+            "title": "How to Make the Best Peach Cobbler Cake in 5 Ingredients",
+            "description": "Discover the secret to a moist, buttery peach cobbler cake that’s ready in no time! 🍑✨ Perfect for warm days and casual gatherings. Save and share this simple recipe! #easycobbler #peachcake #summerbaking"
+        },
+        {
+            "title": "Quick & Tasty Peach Cobbler Cake for Family Gatherings",
+            "description": "This peach cobbler cake is all about juicy peaches and buttery goodness with minimal effort. 🍑❤️ Try it today and enjoy a laid-back dessert everyone will adore! #familydessert #easyrecipes #peachcobbler"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 cups sliced fresh peaches (or canned, drained)",
+        "1 cup all-purpose flour",
+        "1 cup granulated sugar",
+        "1/2 cup unsalted butter, melted",
+        "1 teaspoon baking powder"
+    ],
+    "yield": "One 9x9 inch cake, about 8 servings",
+    "introduction": "I first stumbled upon this peach cobbler cake recipe on a lazy summer afternoon when I craved something sweet but didn’t want to fuss over complicated baking. What I love about this cake is how straightforward it is—just five ingredients and you’re good to go. It’s a cozy blend of juicy peaches nestled in a buttery, tender cake that’s both comforting and fresh. Over the years, I’ve tweaked the recipe a bit to balance sweetness and texture, making sure the cake isn’t too dense and the peaches shine through. One trick I use is melting the butter and mixing it with the dry ingredients before folding in the peaches. This helps create a golden crust with a soft, moist crumb inside. The finished cake is warm, slightly caramelized on the edges, and bursting with peach flavor. It’s perfect for casual family dinners or when friends drop by unexpectedly. Honestly, it’s one of those recipes that feels like a hug in dessert form—simple, satisfying, and just a little bit nostalgic. If you love cobbler but want an easier approach, this cake is definitely worth trying!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Greasing your 9x9-inch baking pan is crucial here to prevent sticking and to help the cake edges caramelize nicely. A light coating of butter or a nonstick spray will work well. This step sets you up for easy removal and a beautiful crust, so don’t skip it!",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan coated evenly with butter or spray, no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, sugar, and baking powder until fully combined. Mixing the dry ingredients first helps distribute the leavening agent evenly, which is key to a tender, even rise. Be sure to break up any lumps to avoid dense spots in your cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are smooth and uniform in color"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the melted butter into the dry mixture and stir gently until everything is moistened but don’t overmix. Overworking the batter can develop gluten and make the cake tough, so stop as soon as you see no dry flour patches. The butter coats the flour, creating a tender crumb and rich flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter looks consistent, slightly thick but pourable"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the sliced peaches carefully, trying not to break them up too much. This step is important because you want juicy pockets of peach in the cake rather than a mushy texture. Using fresh peaches adds a natural sweetness and freshness but canned peaches work well too if drained properly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Peach slices are evenly distributed without breaking apart"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into your prepared pan and spread it out evenly with a spatula. Even spreading ensures the cake bakes uniformly without thin or thick spots. Smooth the surface gently but don’t press down hard — you want the peaches to peek through the top slightly for a rustic look.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter level and smooth with visible peach slices at top"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cake in the preheated oven for about 30 minutes. Keep an eye on it after 25 minutes; the edges should be golden brown and the center set but still moist. Don’t open the oven too early to avoid collapsing. The baking powder will create a light rise and the butter will brown the crust beautifully.",
+            "timing": "30 minutes",
+            "doneness_cue": "Edges golden and slightly caramelized, center springy to touch"
+        },
+        {
+            "step": 7,
+            "instruction": "Once baked, remove the cake from the oven and let it cool in the pan for at least 15 minutes. This resting time lets the juices from the peaches redistribute so the cake isn’t soggy but perfectly moist. It’s tempting to dig right in, but patience here pays off!",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake is warm but firm enough to slice cleanly"
+        },
+        {
+            "step": 8,
+            "instruction": "Cut the cake into squares and serve warm or at room temperature. This cake is amazing on its own or with a scoop of vanilla ice cream or a dollop of whipped cream. The contrast of warm, juicy peaches and buttery cake with cold cream is just heavenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Slices hold shape, peaches visible, and aroma inviting"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container at room temperature for up to 2 days or refrigerate to keep longer. Reheat gently before serving to bring back that fresh-baked feel. This cake also freezes well, wrapped tightly, so you can enjoy it anytime!",
+            "timing": "N/A",
+            "doneness_cue": "Cake retains moisture and flavor after storage"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Peach Cobbler Cake",
+        "content": "<p>This peach cobbler cake’s success lies in its simplicity and the careful balance of ingredients that create the perfect texture and flavor. The melted butter coats the flour particles, inhibiting gluten formation, which keeps the cake tender rather than tough. This technique is crucial because it allows the cake to rise lightly and have a moist crumb.</p><p>The baking powder acts as a leavening agent, releasing carbon dioxide bubbles during baking that lift the batter. Even distribution of baking powder ensures the cake rises evenly without dense spots. The sugar not only sweetens but also contributes to browning through caramelization and Maillard reactions, giving the crust a lovely golden color and rich flavor.</p><p>Fresh peaches add moisture and natural sweetness, but their acidity also interacts with the leavening agents to help tenderize the cake further. The texture contrast between the juicy fruit and the buttery crumb is what makes this recipe so delightful. The gentle folding technique prevents the peaches from breaking down too much, maintaining those juicy bursts in every bite.</p><p>Finally, letting the cake rest after baking allows the juices to redistribute, avoiding a soggy bottom. This resting step makes the texture just right—moist but not wet, with a beautiful balance of flavors and textures that feels both homey and fresh.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose good-quality unsalted butter for this recipe because it controls the salt level and provides a rich, creamy flavor. Unsalted butter melts uniformly and coats the flour to create a tender crumb. Avoid using margarine or low-fat butter substitutes, as they affect texture and flavor negatively.",
+            "fresh peaches": "Fresh, ripe peaches are ideal for the best flavor and juiciness. Look for peaches that yield slightly to gentle pressure and have a fragrant aroma. If fresh peaches aren’t in season, canned peaches drained well work fine but might be less flavorful and more watery, so adjust baking time accordingly.",
+            "all-purpose flour": "Regular all-purpose flour provides the right balance of protein for structure without making the cake dense. Avoid using cake flour here because it’s too soft and might create a crumbly texture. Sifting the flour helps prevent lumps and ensures even mixing.",
+            "granulated sugar": "Granulated sugar sweetens and helps with browning through caramelization. Using fine sugar ensures it dissolves well in the batter, contributing to a smooth texture. You can experiment with brown sugar for a deeper molasses flavor, but it may darken the cake and alter moisture.",
+            "baking powder": "Baking powder is a key leavening agent that makes the cake rise and become fluffy. Use fresh baking powder for best results; old or expired baking powder can lead to flat, dense cakes. The powder reacts with moisture and heat to release gas, lifting the batter gently."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for better mixing.",
+            "reason": "Room temperature ingredients, especially butter and peaches, blend more easily and evenly, resulting in a uniform batter. Cold ingredients can cause uneven texture and inhibit proper rising, leading to dense or uneven cake."
+        },
+        {
+            "tip": "Don’t overmix the batter after adding butter.",
+            "reason": "Overmixing develops gluten in the flour, which makes the cake tough and chewy rather than tender. Mixing just until combined keeps the crumb light and moist, preserving the soft texture you want in a cobbler cake."
+        },
+        {
+            "tip": "Drain canned peaches well if using instead of fresh.",
+            "reason": "Excess liquid from canned peaches can make the batter too wet, resulting in a soggy cake. Draining them well prevents this and helps maintain the right batter consistency and baking time."
+        },
+        {
+            "tip": "Let the cake cool before slicing.",
+            "reason": "Cutting the cake too soon can cause it to crumble or fall apart because the structure hasn’t set yet. Cooling allows the juices to redistribute and the crumb to firm up, making clean slices easier."
+        },
+        {
+            "tip": "Add a sprinkle of cinnamon for extra warmth.",
+            "reason": "Cinnamon complements the peaches beautifully and adds a cozy depth of flavor. It also enhances the perception of sweetness without adding sugar, balancing the overall taste."
+        },
+        {
+            "tip": "Use a glass or light-colored pan for even baking.",
+            "reason": "Dark pans absorb more heat and can brown the edges too quickly, possibly burning the crust before the center is cooked. Glass or light metal pans promote gentle, even heat distribution for perfect baking."
+        },
+        {
+            "tip": "Serve warm with vanilla ice cream or whipped cream.",
+            "reason": "The contrast between warm cake and cold toppings enhances the eating experience by adding creaminess and temperature variation, making the dessert feel more indulgent and balanced."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many home cooks think mixing longer will create a smoother batter, but this actually develops gluten and toughens the cake.",
+            "fix": "Mix just until the ingredients come together. Stop when you don’t see dry flour. Use a gentle folding motion when adding peaches to avoid breaking them."
+        },
+        {
+            "mistake": "Using too much liquid from canned peaches",
+            "why_it_happens": "People often skip draining canned peaches, resulting in a watery batter and soggy cake.",
+            "fix": "Drain canned peaches thoroughly and pat dry with paper towels if needed to remove excess moisture before folding them in."
+        },
+        {
+            "mistake": "Not greasing the pan well",
+            "why_it_happens": "Skipping or under-greasing the pan causes sticking and makes the cake hard to remove cleanly.",
+            "fix": "Use softened butter or a nonstick spray to coat the entire pan evenly, including corners and edges."
+        },
+        {
+            "mistake": "Cutting the cake too soon",
+            "why_it_happens": "Impatience leads to slicing while the cake is still hot, causing it to crumble.",
+            "fix": "Let the cake cool in the pan for at least 15 minutes before slicing to firm up the structure."
+        },
+        {
+            "mistake": "Using old baking powder",
+            "why_it_happens": "Expired baking powder loses its potency, so the cake doesn’t rise properly and turns out dense.",
+            "fix": "Check your baking powder’s expiration date and replace it regularly to ensure a light, fluffy cake."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cinnamon-Spiced Peach Cobbler Cake",
+            "description": "Add 1 teaspoon of ground cinnamon and a pinch of nutmeg to the dry ingredients for a warm, spiced twist. This variation adds cozy depth and pairs wonderfully with vanilla ice cream.",
+            "technical_note": "Spices can slightly darken the batter and intensify aroma; be sure to mix them evenly with the flour to avoid clumps."
+        },
+        {
+            "name": "Peach and Blueberry Cobbler Cake",
+            "description": "Fold in 1 cup fresh or frozen blueberries along with the peaches for a colorful, tangy flavor boost. The blueberries add moisture, so watch baking time closely to avoid sogginess.",
+            "technical_note": "Frozen berries should be thawed and drained to prevent excess liquid; fresh berries can be added directly."
+        },
+        {
+            "name": "Gluten-Free Peach Cobbler Cake",
+            "description": "Substitute all-purpose flour with a gluten-free blend that includes xanthan gum. This keeps the cake tender and moist without sacrificing texture or flavor.",
+            "technical_note": "Gluten-free batters may require slightly longer baking times; check doneness with a toothpick."
+        },
+        {
+            "name": "Peach Cobbler Cake with Almond Topping",
+            "description": "Sprinkle sliced almonds mixed with a bit of sugar on top of the batter before baking. This adds a delightful crunch and nutty flavor contrast to the soft cake.",
+            "technical_note": "Watch the topping closely toward the end of baking to prevent almonds from burning."
+        },
+        {
+            "name": "Vegan Peach Cobbler Cake",
+            "description": "Use plant-based butter and replace sugar with coconut sugar or maple syrup. Swap milk for almond or oat milk. The cake remains moist and flavorful without animal products.",
+            "technical_note": "Adjust baking time slightly as vegan ingredients may affect moisture and browning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The peach cobbler cake can safely be kept at room temperature for up to 2 days if covered tightly with plastic wrap or stored in an airtight container. This prevents the cake from drying out and keeps the peaches moist.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The cake might firm up and the peaches may release some juice, so reheat gently before serving to restore softness. It can also be enjoyed cold but tastes best warm.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then aluminum foil to avoid freezer burn. Freeze for up to 2 months. Thaw overnight in the fridge and reheat in a low oven to bring back the fresh-baked texture.",
+        "reheating": "Reheat slices in a 325°F oven for 10-15 minutes until warmed through. Alternatively, microwave on medium power for 30-45 seconds. Add a splash of milk or a small pat of butter to refresh moisture if needed. Avoid overheating which dries the cake.",
+        "make_ahead_strategy": "You can prepare the batter 1 day ahead and keep it covered in the fridge. Pour into the pan and bake fresh the next day for best flavor. Alternatively, bake the cake and reheat gently before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches instead of fresh?",
+            "answer": "Yes, you can use frozen peaches but it’s important to thaw and drain them well to remove excess moisture. This prevents the batter from becoming too wet and ensures the cake bakes properly without sogginess."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "Baking powder is essential for the cake’s rise and light texture. If you only have baking soda, you’d need to add an acid like lemon juice or vinegar to activate it, which requires recipe adjustments. It’s best to use baking powder for consistent results."
+        },
+        {
+            "question": "How do I store leftover peach cobbler cake?",
+            "answer": "Store leftovers in an airtight container either at room temperature for up to 2 days or refrigerated for up to 4 days. For longer storage, wrap tightly and freeze for up to 2 months."
+        },
+        {
+            "question": "Can I make this cake vegan?",
+            "answer": "Absolutely! Substitute the butter with vegan margarine or coconut oil and use plant-based milk like almond or oat milk. Replace sugar with coconut sugar or maple syrup if desired. Baking times might vary slightly."
+        },
+        {
+            "question": "Why is my cake dense and not fluffy?",
+            "answer": "This usually happens if the batter is overmixed or if your baking powder is old. Mix just until combined and make sure your baking powder is fresh to get a light, tender cake."
+        },
+        {
+            "question": "Can I add spices to the cake?",
+            "answer": "Yes! Cinnamon, nutmeg, or ginger work beautifully with peaches. Add about 1 teaspoon of cinnamon or a pinch of other spices with the dry ingredients for a warm flavor boost."
+        },
+        {
+            "question": "Is it okay to use canned peaches?",
+            "answer": "Canned peaches are fine if drained well. They might make the cake a bit wetter and less fresh tasting than fresh fruit, but still delicious and convenient."
+        },
+        {
+            "question": "How do I know when the cake is done?",
+            "answer": "Look for golden, slightly caramelized edges and a center that springs back when lightly pressed. You can also insert a toothpick into the center; it should come out with a few moist crumbs but not wet batter."
+        }
+    ],
+    "conclusion": "I hope you give this peach cobbler cake a try—it’s one of my favorite easy desserts that never fails to satisfy. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "easy peach cobbler cake",
+        "secondary_keywords": [
+            "simple peach cake",
+            "homemade peach cobbler",
+            "how to make peach cobbler cake",
+            "best peach cobbler cake recipe",
+            "easy peach dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "classic fruit cobbler recipe",
+                "anchor": "classic-fruit-cobbler"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_1.png",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_1.png",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_2.png",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_2.png",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_3.png",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_3.png",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images/quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780479589_897",
+    "slug": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "quick-5-ingredient-peach-cobbler-cake-for-warm-weather-bliss/images"
+}

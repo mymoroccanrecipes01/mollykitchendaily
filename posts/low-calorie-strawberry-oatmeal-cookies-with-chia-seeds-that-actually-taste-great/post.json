@@ -1,0 +1,342 @@
+{
+    "title": "Chewy Oatmeal Cookies with Sweet Strawberries and Chia Seeds",
+    "promptIMG": "Food photography: Chewy Oatmeal Cookies with Strawberries and Chia Seeds, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These oatmeal cookies are soft and chewy with juicy strawberry bursts and a nice crunch from chia seeds. They’re a wholesome treat that’s just sweet enough, perfect for an afternoon pick-me-up or a guilt-free dessert.",
+    "hashtags": "#oatmealcookies #healthysnacks #chiaseeds",
+    "board_name": "Healthy Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Deliciously Chewy Strawberry Oatmeal Cookies You’ll Love",
+            "description": "These chewy oatmeal cookies with fresh strawberries and chia seeds are the perfect snack for any time of day. Easy to make and naturally sweetened, they’re a healthier twist on a classic. Save this recipe to try later! 🍓🍪 #healthycookies #snackideas #oatmeal"
+        },
+        {
+            "title": "Guilt-Free Oatmeal Cookies with Strawberry & Chia Seeds",
+            "description": "Looking for a sweet treat without the guilt? These oatmeal cookies combine juicy strawberries and crunchy chia seeds for a snack that’s both tasty and nourishing. Try making them today and enjoy! 🌿🍓 #guiltfreetreats #oatmealcookies #chia"
+        },
+        {
+            "title": "Easy Homemade Oatmeal Cookies with Strawberry Chunks",
+            "description": "Fresh strawberries and chia seeds make these oatmeal cookies stand out! Soft, chewy, and full of flavor, they’re great for a quick snack or dessert. Discover this simple recipe now and bake some joy! 🍓✨ #homemadecookies #snacktime #healthyrecipes"
+        },
+        {
+            "title": "Soft & Chewy Oatmeal Cookies Loaded with Strawberries",
+            "description": "These cookies are bursting with fresh strawberry flavor and crunchy chia seeds, making every bite a delight. Perfect for a cozy afternoon snack or a healthy dessert option. Don’t miss out—try this recipe today! 🍪💖 #strawberrycookies #healthysnacks #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 12,
+    "ingredients": [
+        "1 cup old-fashioned rolled oats",
+        "3/4 cup whole wheat flour",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 cup chia seeds",
+        "1/3 cup coconut sugar",
+        "1/4 cup maple syrup",
+        "1/4 cup coconut oil, melted",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "3/4 cup fresh strawberries, chopped"
+    ],
+    "yield": "Approximately 12 cookies",
+    "introduction": "I first stumbled upon this recipe when I wanted a cookie that felt indulgent but wasn’t loaded with refined sugar or empty carbs. Oatmeal cookies are a classic comfort snack in my family, but I wanted to add a fresh twist and some nutritional perks. That’s where the strawberries and chia seeds come in. The strawberries add juicy pops of natural sweetness, while the chia seeds give a subtle crunch and a boost of fiber and omega-3s. I’ve tried versions without chia seeds before, but honestly, they just don’t feel as satisfying or wholesome. I also love using coconut sugar and maple syrup instead of regular sugar to keep it on the healthier side without sacrificing flavor. The trick I learned that really makes these cookies shine is not to overmix once the strawberries are folded in—you want to keep those chunks intact so every bite surprises you. The cookies bake up soft and chewy, with just enough sweetness and texture to make them perfect for an afternoon snack or a light dessert. Plus, they’re quick to whip up even on busy days, which is a total win in my book. If you’re looking for a treat that feels like a little indulgence but won’t leave you feeling guilty, these oatmeal cookies might just become your new favorite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper. This step ensures your cookies bake evenly and don’t stick. It’s important to have the oven fully heated before baking for consistent texture and color. Avoid crowding the baking sheet to give each cookie room to spread properly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches 350°F and parchment paper is securely in place"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the rolled oats, whole wheat flour, baking soda, salt, cinnamon, and chia seeds. Combining the dry ingredients first helps distribute the leavening agent and spices evenly, which leads to consistent rise and flavor in the cookies. Mixing well also prevents clumps of flour or baking soda that can cause uneven texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dry ingredients are fully blended with no lumps or streaks"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, mix the coconut sugar, maple syrup, melted coconut oil, egg, and vanilla extract until smooth. The liquid ingredients need to be thoroughly combined to create a uniform batter. The melted coconut oil adds moisture and a subtle flavor, while the syrup and sugar provide natural sweetness without making the dough too wet.",
+            "timing": "4 minutes",
+            "doneness_cue": "Wet ingredients form a smooth, slightly thick batter with no separation"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly pour the wet ingredients into the dry ingredients and gently fold together using a spatula. Be careful not to overmix; the goal is to combine everything just until incorporated. Overmixing can activate the gluten in the flour too much, resulting in tougher cookies instead of soft, chewy ones.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough is evenly combined but still slightly lumpy"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the chopped strawberries carefully. This step is key because you want to preserve the strawberry chunks so they burst in the oven and add juicy sweetness to the cookies. Gently folding prevents the berries from breaking down too much and turning the dough soggy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Strawberries are evenly distributed without mushy spots in the dough"
+        },
+        {
+            "step": 6,
+            "instruction": "Scoop tablespoon-sized portions of the dough onto the prepared baking sheet, spacing them about 2 inches apart. This spacing allows the cookies to spread without merging into each other. Using a cookie scoop helps keep the sizes uniform, so they bake evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "All dough scooped and spaced evenly on the baking sheet"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cookies for 10-12 minutes, until the edges are golden and the centers look set but still soft. Don’t overbake; you want the cookies to remain chewy. They’ll firm up more as they cool, so pulling them out right at this stage keeps the texture perfect.",
+            "timing": "12 minutes",
+            "doneness_cue": "Edges are lightly golden and centers no longer look wet"
+        },
+        {
+            "step": 8,
+            "instruction": "Let the cookies cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely. This resting time helps the cookies firm up and finish cooking gently without drying out. Moving them too soon can cause them to break apart.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are firm enough to move without crumbling"
+        },
+        {
+            "step": 9,
+            "instruction": "Store cooled cookies in an airtight container at room temperature for up to 4 days or freeze for longer storage. Proper storage keeps them fresh and chewy. If freezing, separate layers with parchment paper to prevent sticking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cookies cooled and stored properly for freshness"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Oatmeal Cookie Recipe Works",
+        "content": "<p>This oatmeal cookie recipe balances moisture, texture, and flavor through a few key ingredients and techniques. Rolled oats bring chewiness and a hearty texture that’s much more interesting than plain flour cookies. They absorb moisture and release it slowly during baking, which helps keep the cookies soft rather than dry or crumbly.</p><p>Using whole wheat flour adds a subtle nuttiness and extra fiber, but it can make baked goods dense if overworked. That’s why gentle mixing is essential—overmixing activates gluten too much, leading to tough cookies. The coconut sugar and maple syrup provide natural sweetness while also contributing moisture, which enhances chewiness without making the dough overly wet.</p><p>The chia seeds do double duty: they add a pleasant crunch and act as a natural binder by absorbing liquid and swelling. This improves the cookie’s structure and keeps it from falling apart, especially important since we’re adding juicy strawberries. Speaking of which, folding in fresh strawberries last and gently preserves their bursts of flavor and prevents the dough from turning soggy. Baking just until the edges are golden but the centers remain soft ensures the perfect chewy texture that firms up as the cookies cool.</p><p>Finally, the use of coconut oil instead of butter lends a subtle tropical flavor and keeps the cookies dairy-free, which is great for a wider range of diets. Altogether, these ingredients and steps create a cookie that’s soft, chewy, flavorful, and satisfying without being overly sweet or heavy.</p>",
+        "ingredient_notes": {
+            "rolled oats": "Look for old-fashioned rolled oats rather than instant or steel-cut oats. Rolled oats retain their texture during baking, providing chewiness and structure. Instant oats tend to break down too much, resulting in a mushy cookie, while steel-cut oats won’t soften enough and can be too hard. Rolled oats absorb moisture evenly and add a wholesome flavor.",
+            "whole wheat flour": "Whole wheat flour adds fiber and a nutty depth but can make cookies dense if overmixed. Choose finely milled whole wheat flour for a lighter texture. It’s important to mix gently to avoid toughening the dough. If you prefer a lighter cookie, you can substitute half with all-purpose flour, but whole wheat gives a heartier bite.",
+            "chia seeds": "Chia seeds swell and gel when mixed with liquids, acting as a natural binder that improves cookie structure. They add a mild crunch and a nutritional boost with omega-3 fatty acids and fiber. Use whole chia seeds rather than ground to maintain texture. Avoid skipping them unless you replace with another binder like flaxseed meal.",
+            "coconut sugar": "Coconut sugar provides a caramel-like sweetness with a lower glycemic index than regular sugar. It also adds moisture, contributing to the chewy texture. Make sure to use unrefined coconut sugar for the best flavor. You can substitute with brown sugar if needed, but the flavor profile will change slightly.",
+            "fresh strawberries": "Fresh strawberries add juicy bursts of sweetness and a fresh flavor contrast. Use ripe but firm berries to avoid excess moisture that could make the dough soggy. Chop them into small, even pieces and fold in gently at the end to keep the dough from breaking down. Frozen strawberries are not recommended as they release too much water."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for even mixing.",
+            "reason": "Room temperature eggs and liquids blend more smoothly with dry ingredients, ensuring an even batter without clumps. Cold ingredients can cause coconut oil to solidify or the dough to become uneven, leading to inconsistent texture in the baked cookies."
+        },
+        {
+            "tip": "Don’t overmix once you add the wet ingredients to the dry.",
+            "reason": "Overmixing activates gluten in the flour, which makes cookies tough and dense instead of soft and chewy. Mixing just until combined keeps the cookie tender and helps maintain the crumbly yet moist texture that’s so satisfying."
+        },
+        {
+            "tip": "Chill the dough for 15-20 minutes before baking.",
+            "reason": "Chilling firms up the dough, making it easier to scoop and shape. It also helps control spreading during baking, so your cookies hold their shape better and have a nice thickness with a chewy center."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform sizes.",
+            "reason": "Even-sized cookies bake at the same rate, preventing some from burning while others remain undercooked. A cookie scoop also speeds up the portioning process and gives your cookies a professional, consistent look."
+        },
+        {
+            "tip": "Bake on the middle rack of the oven.",
+            "reason": "The middle rack provides the most even heat distribution, preventing the bottoms from burning while the tops remain underbaked. This ensures a perfect golden edge and soft center every time."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before moving.",
+            "reason": "Cookies continue to set as they cool and are more fragile when hot. Letting them rest prevents breakage and helps develop the ideal chewy texture without crumbling."
+        },
+        {
+            "tip": "Store cookies in an airtight container with a slice of bread.",
+            "reason": "The bread helps maintain moisture in the cookies, keeping them soft longer without becoming soggy. This simple trick extends freshness, especially for oatmeal-based cookies that can dry out quickly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using frozen strawberries instead of fresh",
+            "why_it_happens": "Frozen berries are convenient, but people often assume they can substitute directly without adjusting the recipe. Frozen strawberries release a lot of moisture when thawed, which can make the dough soggy and the cookies flat.",
+            "fix": "Always use fresh strawberries chopped just before mixing in. If you must use frozen, thaw completely and gently pat dry with paper towels to remove excess water, but fresh is strongly recommended for the best texture."
+        },
+        {
+            "mistake": "Overmixing the dough after adding wet ingredients",
+            "why_it_happens": "Eager cooks often stir too much to fully combine the batter, not realizing this toughens the cookies by developing gluten.",
+            "fix": "Mix just until you no longer see dry flour. Stop as soon as the dough comes together. This keeps cookies tender and chewy rather than dense."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot or people set the temperature too high to speed baking, which can brown cookies too quickly and dry them out.",
+            "fix": "Stick to 350°F (175°C) and use an oven thermometer if needed. This moderate heat ensures even cooking and soft centers."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the baking sheet",
+            "why_it_happens": "In a rush, cookies are placed too close, causing them to spread into each other and bake unevenly.",
+            "fix": "Leave about 2 inches between cookies for proper spreading and airflow. This helps them cook evenly and keeps their shape intact."
+        },
+        {
+            "mistake": "Skipping the cooling time on the baking sheet",
+            "why_it_happens": "Impatience leads to moving cookies immediately, which can cause them to break or crumble.",
+            "fix": "Let cookies cool on the sheet for 5 minutes before transferring. This resting period allows them to set and finish cooking gently."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Strawberry Oatmeal Cookies",
+            "description": "Swap the egg with a flax egg (1 tbsp ground flaxseed + 3 tbsp water) and use vegan maple syrup and coconut oil to make these cookies fully plant-based. The texture will remain chewy and the flavor just as delicious, perfect for vegan diets.",
+            "technical_note": "Flax eggs provide binding similar to real eggs but require a 10-minute rest to thicken before mixing."
+        },
+        {
+            "name": "Add White Chocolate Chips",
+            "description": "Mix in 1/2 cup white chocolate chips with the strawberries for a creamy, sweet contrast that pairs beautifully with the tart berry bursts. This adds richness and extra indulgence while keeping the cookie balanced.",
+            "technical_note": "Fold chips in gently at the end to avoid melting before baking."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Replace whole wheat flour with a gluten-free all-purpose blend and ensure oats are certified gluten-free. The cookies will be just as chewy with a slightly different texture but safe for gluten-sensitive eaters.",
+            "technical_note": "Gluten-free flour blends vary; some may require a binder like xanthan gum for best results."
+        },
+        {
+            "name": "Spiced Up with Ginger and Nutmeg",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon nutmeg to the dry ingredients for a warm, spicy twist. These spices complement the strawberries and cinnamon nicely, giving the cookies a cozy flavor perfect for cooler months.",
+            "technical_note": "Balance spices carefully to avoid overpowering the strawberry flavor."
+        },
+        {
+            "name": "Nutty Crunch with Walnuts",
+            "description": "Stir in 1/3 cup chopped toasted walnuts for added crunch and a toasty flavor note. Walnuts pair wonderfully with oats and berries, boosting texture and nutrition without changing the baking time.",
+            "technical_note": "Toast nuts lightly in a dry pan before adding to enhance flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 4 days. Keep them away from direct sunlight or heat to prevent them from drying out. Adding a slice of bread inside the container helps maintain moisture and keeps cookies soft longer.",
+        "refrigerator": "Refrigerating cookies is not usually necessary but will keep them fresh for up to a week. They may firm up and lose some chewiness when cold, so bring them to room temperature before eating or warm briefly in the microwave for a few seconds.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet first, then transfer to a freezer-safe bag or container for up to 3 months. Use parchment paper between layers to prevent sticking. Thaw at room temperature or warm gently in the oven for best texture.",
+        "reheating": "Warm cookies in a microwave for 10-15 seconds or in a 300°F oven for about 5 minutes to restore softness and bring out the flavors. Avoid overheating as it can dry them out. Adding a small splash of water on a paper towel in the microwave can help retain moisture.",
+        "make_ahead_strategy": "You can prepare the dough 1 day ahead and keep it refrigerated, tightly covered. This resting time allows flavors to meld and the oats to soften slightly. Scoop and bake fresh when ready for the best texture and strawberry bursts."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries in this recipe?",
+            "answer": "I don’t recommend frozen strawberries because they release a lot of water when thawed, which can make the dough soggy and the cookies spread too much. If you must use them, thaw completely and pat dry thoroughly, but fresh berries really give the best texture and flavor."
+        },
+        {
+            "question": "How do I make these cookies vegan?",
+            "answer": "To make the cookies vegan, replace the egg with a flax egg (1 tablespoon ground flaxseed mixed with 3 tablespoons water, let sit for 10 minutes). Also, ensure your sweeteners and coconut oil are vegan-friendly. This swap keeps the texture chewy and delicious."
+        },
+        {
+            "question": "Can I substitute the whole wheat flour?",
+            "answer": "Yes, swapping whole wheat flour with all-purpose flour will make the cookies lighter but less hearty. For gluten-free, use a gluten-free flour blend and certified oats."
+        },
+        {
+            "question": "Why do my cookies turn out flat?",
+            "answer": "Flat cookies usually result from too much liquid, overmixing, or not chilling the dough. Make sure to measure liquids accurately, mix just until combined, and consider chilling the dough for 15-20 minutes before baking to help cookies hold their shape."
+        },
+        {
+            "question": "How long do these cookies keep fresh?",
+            "answer": "Stored properly in an airtight container, these cookies stay fresh at room temperature for up to 4 days. Adding a slice of bread inside the container helps keep them soft. They can also be frozen for up to 3 months without losing much quality."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Absolutely! Walnuts, pecans, or chocolate chips all make great additions. Add about 1/3 to 1/2 cup to the dough when folding in the strawberries. Just be mindful not to overload the dough which could affect baking time and texture."
+        },
+        {
+            "question": "Is it okay to use rolled oats instead of quick oats?",
+            "answer": "Rolled oats are best here because they hold their shape and provide chewiness. Quick oats tend to break down too much and can make the cookies mushy. Steel-cut oats aren’t recommended as they don’t soften enough during baking."
+        },
+        {
+            "question": "Can I make the dough ahead of time?",
+            "answer": "Yes, the dough can be made a day in advance and refrigerated. This resting time actually helps the flavors develop and the oats absorb moisture. Just scoop and bake fresh when you’re ready for the best results."
+        }
+    ],
+    "conclusion": "Give these chewy strawberry oatmeal cookies a try—you’ll love the juicy bursts and wholesome crunch. Don’t forget to share how they turned out for you!",
+    "seo": {
+        "primary_keyword": "oatmeal strawberry cookies",
+        "secondary_keywords": [
+            "healthy oatmeal cookies",
+            "chia seed cookies",
+            "how to make oatmeal cookies",
+            "best oatmeal cookie recipe",
+            "easy oatmeal cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy baking tips",
+                "anchor": "healthy-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "4800"
+    },
+    "images": [
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_1.png",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_1.png",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_2.png",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_2.png",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_3.png",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_3.png",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "relativePath": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images/low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1780479694_845",
+    "slug": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "low-calorie-strawberry-oatmeal-cookies-with-chia-seeds-that-actually-taste-great/images"
+}

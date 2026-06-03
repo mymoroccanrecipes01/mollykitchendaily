@@ -1,0 +1,339 @@
+{
+    "title": "Easy Coconut Lime Cake with a Refreshing Tropical Twist",
+    "promptIMG": "Food photography: Coconut Lime Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This coconut lime cake is light, fresh, and incredibly simple to make. It’s got the perfect balance of zesty lime and sweet coconut, ideal for weekend desserts or casual gatherings. Plus, only five ingredients!",
+    "hashtags": "#coconutlimecake #easybaking #tropicaldessert",
+    "board_name": "Easy Tropical Desserts",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Easy Coconut Lime Cake Recipe!",
+            "description": "Looking for a fresh, tropical dessert? This coconut lime cake is quick to make and packed with zesty lime flavor. Save this recipe and wow your friends at your next get-together! 🍰🍋 #coconutlimecake #tropicaldessert #easyrecipes"
+        },
+        {
+            "title": "Whip Up This Simple Coconut Lime Cake in Just Minutes!",
+            "description": "Craving something light and flavorful? Try this coconut lime cake that uses just five ingredients. It’s perfect for casual weekends or last-minute guests. Give it a go and share your results! 🥥🍰 #easybaking #limecake #weekenddessert"
+        },
+        {
+            "title": "Tropical Vibes at Home with This Coconut Lime Cake Recipe",
+            "description": "Bring the beach to your kitchen with this fresh coconut lime cake. It’s moist, zesty, and super easy to bake. Try it today and discover your new favorite dessert! 🌴🍋 #tropicalcake #coconutdessert #simplebaking"
+        },
+        {
+            "title": "Your New Go-To Cake: Coconut Lime Made Simple and Delicious",
+            "description": "This coconut lime cake is a total crowd-pleaser and so easy to make! Perfect for afternoon tea or a casual party. Don’t forget to save this recipe and enjoy a slice soon! 🍰✨ #easycake #limeflavor #coconutlover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened shredded coconut",
+        "1/2 cup coconut milk, room temperature",
+        "2 large eggs",
+        "1 teaspoon baking powder",
+        "Zest of 2 limes",
+        "Juice of 1 lime",
+        "1/4 teaspoon salt"
+    ],
+    "yield": "One 8-inch round cake, 8 servings",
+    "introduction": "I first stumbled upon this coconut lime cake recipe during a lazy weekend when I wanted something tropical but didn’t want to fuss over complicated baking. It’s one of those gems that feels light and fresh but still satisfying, thanks to that perfect combo of coconut and lime. What I love most is how simple it is—just a handful of ingredients and a quick mix. No fancy techniques, but a little trick I found is to zest the limes right before mixing to capture the freshest oils and aroma. This little step really amps up the flavor and makes the cake smell heavenly while baking. The texture is moist and tender, with just enough coconut texture to keep it interesting without being chewy. It’s bright, slightly tangy, and sweet—the kind of cake that’s great for casual weekend treats, afternoon tea, or a light dessert after dinner. Honestly, it’s become a favorite in my house because it’s fuss-free and always hits the spot. I had a few early tries where the cake was a bit dense, but once I adjusted the coconut milk temperature and didn’t overmix, it turned out perfectly every time. If you’re looking for a simple yet impressive cake that channels tropical vibes, you’re going to love this one!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8-inch round cake pan. This ensures your cake doesn’t stick and bakes evenly. Using parchment paper on the bottom helps lift the cake out easily. It’s a small step but makes a big difference in presentation.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is fully greased and parchment paper is securely in place"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, salt, and shredded coconut. Sifting the flour and baking powder helps keep the cake light and airy by evenly distributing the leavening agent and removing lumps. Mixing in the coconut at this stage ensures it’s well distributed throughout the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the eggs and sugar together until the mixture is pale and slightly frothy. This incorporates air into the batter, which helps with the cake’s tenderness and rise. It’s important not to rush here; beating for about 3-4 minutes gives the best texture.",
+            "timing": "4 minutes",
+            "doneness_cue": "Egg and sugar mixture is light in color and slightly thickened"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the coconut milk, lime juice, and lime zest to the egg mixture and whisk until just combined. Using room temperature coconut milk helps the batter blend smoothly without curdling. The lime zest and juice add that fresh zing that defines this cake’s flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wet ingredients are fully incorporated with no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually fold the dry ingredients into the wet mixture using a spatula. Folding gently preserves the air you’ve beaten into the eggs, which keeps the cake light. Avoid overmixing here because it can develop gluten and make the cake dense.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth with no visible flour pockets but still light"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter evenly into the prepared pan and smooth the top with a spatula. Even spreading ensures the cake cooks uniformly and rises evenly. Tap the pan lightly on the counter to release any large air bubbles.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter surface is level and free of big bubbles"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cake for about 28-32 minutes, or until a toothpick inserted in the center comes out clean. Ovens vary, so start checking at 28 minutes to avoid overbaking. The cake should have a light golden edge and spring back when gently pressed.",
+            "timing": "30 minutes",
+            "doneness_cue": "Toothpick comes out clean, cake springs back slightly when touched"
+        },
+        {
+            "step": 8,
+            "instruction": "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack. Cooling in the pan first allows the cake to firm up so it doesn’t break apart when you remove it. Then, cooling completely on a rack prevents sogginess from trapped steam.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake edges pull slightly away from pan and cake is cool enough to handle"
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, you can dust the cake with powdered sugar or serve it plain to enjoy the natural flavors. For extra flair, a light drizzle of lime glaze or a sprinkle of toasted coconut works beautifully. This cake tastes best the same day but can be stored wrapped for a couple of days.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cake is fully cooled and ready to decorate or serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cake Balances Flavor and Texture So Well",
+        "content": "<p>The key to this coconut lime cake’s success lies in the balance of moisture, acidity, and texture. Using coconut milk instead of regular milk adds both richness and a subtle tropical flavor, while its fat content helps keep the crumb tender and moist. The acidity from the lime juice reacts with the baking powder to create lift and lightness, preventing the cake from becoming dense or heavy.</p><p>Incorporating fresh lime zest is essential because it releases aromatic oils that intensify the citrus flavor much more than juice alone. This zest also contributes to the cake's bright fragrance, making it feel vibrant and fresh. The shredded coconut adds texture without overwhelming the batter, providing a pleasant chewiness that complements the soft cake crumb.</p><p>Temperature control is another crucial element. Room temperature coconut milk blends smoothly with eggs and sugar, avoiding curdling or separation that could affect texture. Beating the eggs and sugar until frothy traps air bubbles that act as tiny leavening pockets, which expand during baking to give the cake a tender lift. Finally, gentle folding preserves these bubbles, ensuring a light and fluffy crumb.</p><p>Overall, the interplay of these ingredients and steps creates a cake that's both moist and airy, with a refreshing zing of lime and a subtle tropical undertone from coconut. The science behind each step ensures you get consistent, delicious results every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality, unbleached all-purpose flour for the best texture. It provides enough protein to give structure without making the cake tough. Sifting helps remove lumps and aerates the flour, leading to a lighter crumb.",
+            "granulated sugar": "Regular granulated sugar is best here because it dissolves well when beaten with eggs, creating that airy texture. Avoid coarse sugars as they won’t fully dissolve and can leave grainy bits.",
+            "unsweetened shredded coconut": "Use unsweetened to avoid overpowering sweetness and to control sugar levels in the cake. Freshly shredded coconut works best, but packaged unsweetened is fine as long as it's not too dry or clumpy.",
+            "coconut milk": "Full-fat coconut milk adds richness and moisture, contributing to the cake's tender crumb and tropical flavor. Avoid light coconut milk as it lacks enough fat and can make the cake dry or dense.",
+            "lime zest and juice": "Freshly grated lime zest is packed with aromatic oils that give intense citrus flavor. Bottled juice won’t do the same job. The juice adds acidity which reacts with baking powder to help the cake rise and balances the sweetness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always zest the lime just before mixing to capture the freshest oils.",
+            "reason": "Lime zest contains volatile oils that evaporate quickly once exposed to air. Zesting last-minute ensures maximum flavor and aroma in your cake, making it taste vibrant and fresh."
+        },
+        {
+            "tip": "Use room temperature coconut milk to prevent curdling when mixing with eggs.",
+            "reason": "Cold coconut milk can cause the eggs to seize or curdle when combined, leading to a lumpy batter. Room temperature ingredients blend smoothly, ensuring an even texture."
+        },
+        {
+            "tip": "Fold dry ingredients gently into the wet mix to keep the batter airy.",
+            "reason": "Overmixing develops gluten and deflates the air bubbles you worked hard to incorporate, resulting in a dense, tough cake. Gentle folding preserves the light texture."
+        },
+        {
+            "tip": "Don’t skip sifting the flour and baking powder together.",
+            "reason": "Sifting combines the leavening agent evenly and breaks up clumps, which helps the cake rise uniformly and prevents dense spots."
+        },
+        {
+            "tip": "Use an 8-inch round pan for even baking and proper cake height.",
+            "reason": "A larger or smaller pan will affect baking time and final texture, potentially causing undercooked or dry edges."
+        },
+        {
+            "tip": "Tap the filled pan gently on the counter before baking.",
+            "reason": "This releases large air pockets that could cause uneven holes or tunnels in your cake crumb."
+        },
+        {
+            "tip": "Check the cake starting at 28 minutes to avoid overbaking.",
+            "reason": "Ovens vary, and overbaking dries out the cake. A toothpick test ensures you catch it at perfect doneness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "People often think mixing longer ensures better incorporation, but it actually activates gluten, making the cake dense.",
+            "fix": "Mix just until ingredients are combined, then stop. Use a spatula to fold in dry ingredients gently, preserving air bubbles for a tender crumb."
+        },
+        {
+            "mistake": "Using cold coconut milk straight from the fridge",
+            "why_it_happens": "Cold liquid can shock the eggs, causing them to curdle and creating lumps in the batter.",
+            "fix": "Bring coconut milk to room temperature before mixing to keep the batter smooth and uniform."
+        },
+        {
+            "mistake": "Skipping lime zest or using bottled lime juice",
+            "why_it_happens": "Some assume juice alone provides enough flavor, but zest contains essential oils critical for citrus aroma.",
+            "fix": "Always grate fresh lime zest from unwaxed limes just before baking to maximize flavor and fragrance."
+        },
+        {
+            "mistake": "Not greasing the pan properly",
+            "why_it_happens": "A sticky cake can break apart, frustrating the baker and ruining presentation.",
+            "fix": "Grease the pan thoroughly and line the bottom with parchment paper for easy removal."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "High heat can brown the edges too quickly while leaving the center undercooked.",
+            "fix": "Stick to 350°F (175°C) and monitor baking progress with a toothpick test to ensure even cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Coconut Cake",
+            "description": "Swap lime zest and juice for fresh lemon zest and juice for a classic citrus twist. The lemon adds a slightly sweeter, more floral note that pairs beautifully with coconut.",
+            "technical_note": "Lemon juice is less acidic than lime, so you might notice a slightly softer rise; baking time remains the same."
+        },
+        {
+            "name": "Coconut Lime Cake with Toasted Coconut Topping",
+            "description": "Add a crunchy layer of toasted shredded coconut on top of the cake after baking for extra texture and nuttiness. Toast in a dry pan until golden and sprinkle before serving.",
+            "technical_note": "Toasted coconut adds a contrast to the soft crumb but avoid adding before baking to prevent burning."
+        },
+        {
+            "name": "Gluten-Free Coconut Lime Cake",
+            "description": "Use a 1-to-1 gluten-free baking flour blend in place of all-purpose flour. This keeps the cake tender and moist while accommodating gluten sensitivities.",
+            "technical_note": "Gluten-free flours may absorb liquid differently; you might need to adjust coconut milk slightly to keep batter consistency."
+        },
+        {
+            "name": "Vegan Coconut Lime Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use a plant-based sugar and coconut yogurt instead of eggs and milk. The cake stays moist and flavorful without dairy or eggs.",
+            "technical_note": "Baking time might increase by 3-5 minutes; check doneness carefully as texture differs slightly."
+        },
+        {
+            "name": "Coconut Lime Bundt Cake with Glaze",
+            "description": "Bake the batter in a bundt pan for a decorative shape and drizzle a simple lime glaze (powdered sugar + lime juice) over the cooled cake. Perfect for special occasions.",
+            "technical_note": "Bundt pans require slightly longer baking times; test with a toothpick after 35 minutes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cake can be kept at room temperature for up to 24 hours if covered tightly with plastic wrap or stored in an airtight container to prevent drying out.",
+        "refrigerator": "Store the cake in an airtight container in the fridge for up to 3 days. It may firm up when cold, so bring it to room temperature before serving for best texture and flavor.",
+        "freezer": "Wrap the cooled cake tightly in plastic wrap and then in foil to prevent freezer burn. Freeze for up to 2 months. Thaw overnight in the fridge and then bring to room temperature before serving.",
+        "reheating": "Reheat slices in the microwave for 15-20 seconds or warm the whole cake in a 300°F oven for 10 minutes. Avoid overheating as it can dry out the cake. A light brush of coconut milk before warming helps retain moisture.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge. Bake the next day for fresher texture. Alternatively, bake the cake and freeze it, then thaw and serve when needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned coconut milk for this recipe?",
+            "answer": "Yes, canned coconut milk works best because it's richer and creamier than carton varieties. Just make sure to stir it well before measuring, as the cream can separate. Using full-fat coconut milk ensures the cake stays moist and flavorful."
+        },
+        {
+            "question": "What can I substitute for lime if I don't have any?",
+            "answer": "Lemon juice and zest make a great substitute with a slightly different but still bright flavor. Orange zest can also work but will add a sweeter, less tart taste. Just adjust the quantity to your preference."
+        },
+        {
+            "question": "How do I prevent the cake from being too dense?",
+            "answer": "Avoid overmixing your batter, especially after adding the flour. Also, make sure your baking powder is fresh and use room temperature ingredients to help the cake rise properly and stay light."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Absolutely! Use a 1-to-1 gluten-free baking flour blend. You might need to slightly adjust the liquid amount to get the right batter consistency, but the cake will still be moist and delicious."
+        },
+        {
+            "question": "Is it okay to use sweetened shredded coconut?",
+            "answer": "You can, but it will make the cake sweeter. If you use sweetened coconut, consider reducing the sugar slightly to balance the sweetness and avoid overpowering the lime flavor."
+        },
+        {
+            "question": "How do I know when the cake is done baking?",
+            "answer": "Insert a toothpick into the center; if it comes out clean or with just a few moist crumbs, the cake is done. Also, the edges should be lightly golden and the cake should spring back when you gently press the top."
+        },
+        {
+            "question": "Can I add frosting or glaze to this cake?",
+            "answer": "Yes! A simple lime glaze made from powdered sugar and lime juice complements the cake beautifully. You can also dust it with powdered sugar or top with toasted coconut for extra texture."
+        },
+        {
+            "question": "How should I store leftover cake?",
+            "answer": "Keep leftovers in an airtight container at room temperature for up to 24 hours or in the fridge for up to 3 days. Bring to room temperature before eating for the best flavor and texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this coconut lime cake as much as I do! It’s simple, fresh, and perfect for any occasion—please share how it turns out!",
+    "seo": {
+        "primary_keyword": "coconut lime cake recipe",
+        "secondary_keywords": [
+            "easy coconut cake",
+            "tropical lime dessert",
+            "how to make coconut lime cake",
+            "best coconut lime cake recipe",
+            "easy lime cake"
+        ],
+        "internal_links": [
+            {
+                "text": "simple coconut cake recipe",
+                "anchor": "simple-coconut-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_1.png",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_1.png",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_2.png",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_2.png",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_3.png",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_3.png",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_9.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images/no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780479491_158",
+    "slug": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors",
+    "isOnline": true,
+    "createdAt": "2026-06-03T11:01:39+01:00",
+    "updatedAt": "2026-06-03T11:01:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "no-fuss-5-ingredient-coconut-lime-cake-with-tropical-flavors/images"
+}
