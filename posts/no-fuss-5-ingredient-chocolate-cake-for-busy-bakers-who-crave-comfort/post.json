@@ -1,0 +1,339 @@
+{
+    "title": "Simple 5-Ingredient Moist Chocolate Cake with Yogurt",
+    "promptIMG": "Food photography: Moist Chocolate Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is a quick, fuss-free treat with just five ingredients. The secret? Yogurt adds incredible moisture without heaviness. Perfect for an after-dinner dessert or anytime you need a sweet fix.",
+    "hashtags": "#chocolatecake #easybaking #homemadedessert",
+    "board_name": "Easy Chocolate Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Moist Chocolate Cake with Yogurt - Easy 5 Ingredients!",
+            "description": "Craving chocolate? This moist cake with yogurt is ready in no time and super simple to make. Save this recipe for your next dessert craving! 🍫🎂 #quickdessert #moistcake #easybaking"
+        },
+        {
+            "title": "5-Ingredient Chocolate Cake That’s Perfectly Moist & Delicious",
+            "description": "Discover how yogurt makes this chocolate cake incredibly moist and tender. It’s a no-fuss recipe anyone can whip up. Try it today and taste the difference! 🍰✨ #chocolatelovers #simplecake #homemade"
+        },
+        {
+            "title": "The Easiest Moist Chocolate Cake Recipe with Yogurt You’ll Love",
+            "description": "No complicated steps, just pure chocolate goodness with a secret ingredient: yogurt. This cake is perfect for busy weeknights or last-minute guests. Give it a go! 🍫❤️ #dessertrecipe #easychocolatecake #bakingmadeeasy"
+        },
+        {
+            "title": "Moist Chocolate Cake Made Simple with Yogurt - 5 Ingredients Only",
+            "description": "This chocolate cake is a lifesaver when you want homemade but don’t have time. Yogurt keeps it moist and soft. Save this recipe and bake it soon! 🎂👌 #chocolatecake #quickbaking #yogurtrecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1/2 cup unsweetened cocoa powder",
+        "1 cup granulated sugar",
+        "1 cup plain yogurt, room temperature",
+        "1 teaspoon baking soda",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt",
+        "Optional: powdered sugar or chocolate chips for topping"
+    ],
+    "yield": "One 9-inch round cake, serves 8",
+    "introduction": "I first stumbled upon this chocolate cake recipe on a hectic weeknight when I wanted something homemade but didn’t have the energy for a complicated bake. I was skeptical about using yogurt in a chocolate cake, but it turned out to be a game changer. The yogurt adds a subtle tang and keeps the cake incredibly moist without making it dense or heavy. Unlike traditional recipes that rely on eggs and butter, this cake is lighter and so easy to pull together with pantry staples. What I love most is how forgiving it is — even when I’ve overmixed or slightly mismeasured, the cake still comes out tender and delicious. The trick I learned is to make sure the yogurt is at room temperature to blend smoothly with the oil and dry ingredients, so the batter stays silky. The finished cake has a deep chocolate flavor with a soft crumb that’s perfect for an after-dinner treat or casual coffee break. My family now asks for this cake regularly because it feels homemade but doesn’t take forever to make. It’s definitely become my go-to when I want chocolate without fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan. This step ensures your cake doesn’t stick and bakes evenly. Using the right pan size is crucial because a smaller pan will overflow and a larger one may make the cake too thin. Greasing can be done with butter or oil and a light dusting of flour to create a non-stick surface. Preheating the oven fully before baking helps the cake rise properly and achieve the perfect texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated to 350°F and pan evenly greased with no excess oil pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, sift together the flour, cocoa powder, baking soda, salt, and sugar. Sifting removes lumps and aerates the dry ingredients, which helps the cake have a lighter crumb. Mixing these dry ingredients thoroughly ensures an even distribution of baking soda, so the cake rises uniformly. Skipping this step can lead to uneven texture or bitter pockets from the cocoa.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no visible clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk together the plain yogurt, vegetable oil, and vanilla extract until smooth. Using room temperature yogurt is key here because it blends better with the oil, creating a silky batter. If the yogurt is cold, it can cause lumps or uneven mixing. The oil adds moisture and tenderness, while vanilla enhances the chocolate flavor subtly without overpowering it.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients form a smooth, homogeneous mixture with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually pour the wet ingredients into the dry ingredients, stirring gently with a spatula or wooden spoon until just combined. Avoid overmixing here — the batter should be smooth but still a bit lumpy. Overmixing can develop gluten in the flour, making the cake tough rather than tender. The gentle folding helps keep the crumb light and moist.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth with a few small lumps, no flour streaks visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into the prepared cake pan and smooth the top with a spatula. Leveling the batter ensures even baking and a nice flat top, which is great if you want to frost it later. Tap the pan gently on the countertop to release any large air bubbles that could cause holes in the crumb.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter evenly spread and surface smooth with no large air pockets"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cake in the preheated oven for 28-32 minutes. Start checking at 28 minutes by inserting a toothpick into the center; it should come out with a few moist crumbs but no wet batter. Baking too long will dry the cake, while underbaking leaves it gummy. The baking soda reacts with the yogurt’s acidity to produce lift and a tender crumb.",
+            "timing": "28-32 minutes",
+            "doneness_cue": "Toothpick inserted near the center comes out mostly clean with a few moist crumbs"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cake from the oven and let it cool in the pan for about 10 minutes. Cooling in the pan allows the cake to set and makes it easier to remove without breaking. If you try to unmold it while hot, it may crumble or stick. After 10 minutes, run a knife around the edges and invert onto a wire rack to cool completely.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake edges slightly pulling away from the pan, warm but not hot to touch"
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, dust the top with powdered sugar or sprinkle chocolate chips if desired. This adds a simple but pretty finish without extra fuss. You can also serve it plain or with a dollop of whipped cream or fresh berries for a fresh contrast. This cake keeps well and tastes great even the next day.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cake surface dry and cool, toppings evenly applied"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice the cake with a sharp serrated knife for clean cuts. Wipe the knife between slices to avoid crumbs sticking. Serve it with your favorite beverage or just enjoy it as is. The texture should be moist, tender, and lightly crumbly, with a rich chocolate flavor balanced by the yogurt’s subtle tang.",
+            "timing": "5 minutes",
+            "doneness_cue": "Slices are neat with a tender crumb that holds together well"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Chocolate Cake Stands Out",
+        "content": "<p>At the heart of this recipe’s success is the clever use of plain yogurt, which adds moisture and a subtle tang without heaviness. Yogurt’s acidity reacts with baking soda to create carbon dioxide bubbles during baking, which help the cake rise and develop a tender crumb. This reaction also balances the richness of the cocoa powder, enhancing the overall chocolate flavor.</p><p>The balance of oil and yogurt is key to achieving moistness without greasiness. The oil provides fat that keeps the crumb soft and tender, while yogurt’s proteins contribute structure. Using vegetable oil instead of butter ensures the cake stays light and moist longer.</p><p>Sifting the dry ingredients is more than just a formality; it aerates the flour and cocoa powder, preventing lumps and helping the cake rise evenly. The baking soda’s role as a leavening agent depends on proper distribution and acidity from the yogurt to work effectively.</p><p>Finally, gentle mixing preserves air bubbles and prevents gluten overdevelopment, which would toughen the cake. The oven temperature and baking time are calibrated to ensure the cake sets perfectly with a moist interior and slightly firm crust. These combined factors make this simple recipe reliably delicious every time.</p>",
+        "ingredient_notes": {
+            "Plain Yogurt": "Choose full-fat plain yogurt for the best moisture and tang. Greek yogurt can work but may make the batter thicker, requiring slight adjustments in oil or liquid. Yogurt’s acidity activates the baking soda, so avoid flavored or low-fat versions that alter this balance.",
+            "Cocoa Powder": "Use unsweetened natural cocoa powder for a deep chocolate flavor and proper acidity level. Dutch-processed cocoa is less acidic and may affect the leavening reaction, so natural cocoa is preferred here. Fresh cocoa powder yields the richest taste.",
+            "Baking Soda": "Fresh baking soda is essential for proper rise. It reacts with yogurt’s acid to form carbon dioxide, creating lift and a light crumb. Old or expired baking soda won’t produce enough gas, resulting in a dense cake.",
+            "Vegetable Oil": "Neutral-flavored vegetable oil keeps the cake moist without adding competing flavors. Avoid olive or strong-flavored oils. Oil also contributes to tenderness by coating flour proteins and preventing toughness.",
+            "All-Purpose Flour": "Standard all-purpose flour provides the right gluten content for structure without making the cake tough. Avoid bread flour, which has too much gluten, or cake flour, which might produce a crumb that's too delicate to hold together well."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature yogurt for a smooth batter.",
+            "reason": "Cold yogurt can cause clumps and uneven mixing, which affects the cake’s texture. Room temperature ingredients blend better, resulting in a uniform batter and consistent crumb."
+        },
+        {
+            "tip": "Sift your dry ingredients to prevent lumps and aerate the mixture.",
+            "reason": "Sifting helps distribute the baking soda evenly and introduces air, which contributes to a lighter cake crumb. It also removes clumps of cocoa powder that can cause bitter spots."
+        },
+        {
+            "tip": "Avoid overmixing the batter after adding wet ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which makes the cake dense and chewy instead of tender and moist. Mix just until combined for the best texture."
+        },
+        {
+            "tip": "Use a toothpick to test doneness starting at 28 minutes.",
+            "reason": "Checking early prevents overbaking, which dries out the cake. The toothpick should come out with moist crumbs but no wet batter, indicating perfect moisture."
+        },
+        {
+            "tip": "Tap the cake pan gently before baking to release air bubbles.",
+            "reason": "This prevents large holes or tunnels in the crumb, ensuring a more even texture and better appearance."
+        },
+        {
+            "tip": "Let the cake cool in the pan before removing.",
+            "reason": "Removing it too soon can cause the cake to break or stick. Cooling allows it to set and makes unmolding easier."
+        },
+        {
+            "tip": "Use a serrated knife for clean slices.",
+            "reason": "A serrated knife cuts through the tender crumb without compressing or tearing the cake, resulting in neat slices."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold yogurt straight from the fridge.",
+            "why_it_happens": "Many people don’t realize temperature affects mixing and batter texture, so they add yogurt without warming it up.",
+            "fix": "Let the yogurt sit at room temperature for 20-30 minutes before mixing. This ensures it blends smoothly with the oil and dry ingredients, preventing lumps and uneven texture."
+        },
+        {
+            "mistake": "Overmixing the batter after combining wet and dry ingredients.",
+            "why_it_happens": "In a rush, it’s tempting to mix quickly and thoroughly, but this develops gluten.",
+            "fix": "Stir gently until just combined. A few lumps are okay. This keeps the crumb tender and moist."
+        },
+        {
+            "mistake": "Not preheating the oven fully before baking.",
+            "why_it_happens": "Sometimes bakers put the cake in too early, thinking it saves time.",
+            "fix": "Always preheat the oven completely to 350°F to ensure proper rise and even baking."
+        },
+        {
+            "mistake": "Using expired baking soda.",
+            "why_it_happens": "Baking soda often gets overlooked in the pantry and loses potency.",
+            "fix": "Test baking soda by mixing a small amount with vinegar; it should fizz vigorously. Replace if not active."
+        },
+        {
+            "mistake": "Removing the cake from the pan too soon.",
+            "why_it_happens": "Eager to see the results, some remove the cake while still hot.",
+            "fix": "Let it cool for at least 10 minutes in the pan to set. This prevents breaking or sticking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Yogurt Cake with Espresso",
+            "description": "Add 1 teaspoon of instant espresso powder to the dry ingredients for a subtle coffee flavor that enhances the chocolate depth. This makes the cake richer and perfect for coffee lovers.",
+            "technical_note": "Espresso powder dissolves easily and won’t alter batter texture but boosts chocolate intensity."
+        },
+        {
+            "name": "Gluten-Free Chocolate Yogurt Cake",
+            "description": "Swap all-purpose flour for a gluten-free blend with xanthan gum. This keeps the cake moist and tender for gluten-sensitive eaters without sacrificing flavor or texture.",
+            "technical_note": "Gluten-free blends vary, so check for xanthan gum or add 1/4 teaspoon to mimic gluten’s structure."
+        },
+        {
+            "name": "Chocolate Yogurt Cake with Fresh Berries",
+            "description": "Fold in 1/2 cup fresh or frozen berries into the batter before baking. This adds bursts of fruity freshness and a pretty look while keeping the cake moist.",
+            "technical_note": "If using frozen berries, toss them in flour first to prevent sinking."
+        },
+        {
+            "name": "Vegan Chocolate Yogurt Cake",
+            "description": "Replace yogurt with a plant-based yogurt (coconut or almond) and use flaxseed meal mixed with water as an egg substitute. This makes the cake dairy-free and vegan-friendly while maintaining moisture.",
+            "technical_note": "Choose unsweetened plant yogurt to avoid altering sweetness and flavor."
+        },
+        {
+            "name": "Chocolate Yogurt Cake with Chocolate Chips",
+            "description": "Stir in 1/2 cup semi-sweet chocolate chips into the batter for extra melty pockets of chocolate. This adds texture and richness that chocolate lovers will adore.",
+            "technical_note": "Chips should be folded in gently to avoid overmixing the batter."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cake can be kept covered at room temperature for up to 2 days. Use a cake dome or airtight container to prevent it from drying out. Avoid leaving it uncovered as it will lose moisture quickly.",
+        "refrigerator": "Store the cake in an airtight container in the fridge for up to 5 days. The cake may firm up and taste less moist when cold, so it’s best to bring it to room temperature or warm slightly before serving.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then foil to freeze for up to 3 months. To thaw, leave it in the refrigerator overnight and then bring to room temperature before serving to restore texture.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Adding a small splash of milk or cream before reheating can help restore moisture. Avoid overheating which dries out the cake.",
+        "make_ahead_strategy": "You can prepare the batter up to 1 day ahead and keep it refrigerated, then bake fresh before serving. Alternatively, bake the cake and store it wrapped; add fresh toppings or frosting the day of serving for best results."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the yogurt with sour cream?",
+            "answer": "Yes, sour cream can be used as a substitute for yogurt in equal amounts. It has a similar acidity and moisture content, which helps activate the baking soda and keep the cake tender. However, sour cream may add a richer flavor and slightly denser texture."
+        },
+        {
+            "question": "What if I don’t have baking soda? Can I use baking powder instead?",
+            "answer": "Baking soda is essential here because it reacts with the yogurt’s acidity. Baking powder contains baking soda but also an acid, so using only baking powder may alter the rise and texture. If substituting, use about 3 times the amount of baking powder but expect a different texture."
+        },
+        {
+            "question": "How do I make this cake vegan?",
+            "answer": "To make it vegan, replace the yogurt with a plant-based yogurt like almond or coconut and substitute the egg with a flax egg (1 tablespoon flaxseed meal + 3 tablespoons water). Use vegetable oil as usual. This keeps moisture and structure without dairy or eggs."
+        },
+        {
+            "question": "Can I add frosting or glaze?",
+            "answer": "Absolutely! This cake pairs wonderfully with chocolate ganache, cream cheese frosting, or a simple powdered sugar glaze. Since it’s moist and flavorful, even a thin layer complements it well without overpowering."
+        },
+        {
+            "question": "Why is my cake dense and not rising?",
+            "answer": "Common reasons include expired baking soda, cold yogurt, or overmixing the batter. Make sure your baking soda is fresh, yogurt is at room temperature, and mix gently to avoid gluten development. Also, preheat your oven properly."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes, use a gluten-free flour blend that includes xanthan gum for structure. The texture may vary slightly but will still be moist and delicious. Adjust baking time slightly if needed."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Store leftover cake in an airtight container at room temperature for 2 days or refrigerate up to 5 days. For longer storage, freeze tightly wrapped for up to 3 months. Bring to room temperature before serving."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips to the batter?",
+            "answer": "Yes! Adding 1/2 cup of chopped nuts or chocolate chips can add texture and flavor. Fold them in gently at the end of mixing to avoid overworking the batter."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this easy, moist chocolate cake as much as I do! Don’t forget to share your results with your friends and family—they’ll love how simple and delicious it is.",
+    "seo": {
+        "primary_keyword": "moist chocolate cake with yogurt",
+        "secondary_keywords": [
+            "easy chocolate cake recipe",
+            "quick chocolate cake",
+            "how to make chocolate cake with yogurt",
+            "best chocolate yogurt cake",
+            "simple chocolate cake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chocolate frosting recipe",
+                "anchor": "easy-chocolate-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_1.png",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_1.png",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_2.png",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_2.png",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_3.png",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_3.png",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_9.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images/no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780614423_607",
+    "slug": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort",
+    "isOnline": true,
+    "createdAt": "2026-06-05T00:24:22+01:00",
+    "updatedAt": "2026-06-05T00:24:22+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "no-fuss-5-ingredient-chocolate-cake-for-busy-bakers-who-crave-comfort/images"
+}
