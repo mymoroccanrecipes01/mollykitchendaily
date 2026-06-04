@@ -1,0 +1,336 @@
+{
+    "title": "Salted Caramel Swirl Brownies with Just 5 Simple Ingredients",
+    "promptIMG": "Food photography: Salted Caramel Swirl Brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies are pure magic—rich, fudgy, and topped with a luscious salted caramel swirl that hits all the right sweet and salty notes. Super easy with only five ingredients, perfect for a cozy night in or last-minute dessert!",
+    "hashtags": "#brownies #caramelswirl #easybaking",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Fudgy Salted Caramel Brownies You Need to Try Today!",
+            "description": "Craving something rich and sweet? These salted caramel swirl brownies are fudgy perfection with a salty twist. Made with just five ingredients, they're perfect for any occasion. Save this recipe and bake soon! 🍫🍯 #brownies #caramel #dessertlover"
+        },
+        {
+            "title": "How to Make Easy Salted Caramel Brownies in 30 Minutes",
+            "description": "Want a quick dessert fix? These salted caramel swirl brownies come together fast and taste like a dream. The caramel adds a delicious salty kick that makes them unforgettable. Try it today and impress your friends! 🍰✨ #easybaking #caramelbrownies #quickdessert"
+        },
+        {
+            "title": "The Best Salted Caramel Brownies with Only 5 Ingredients!",
+            "description": "Simple ingredients, incredible flavor. This salted caramel brownie recipe is my go-to for a quick treat that never disappoints. The swirl adds a perfect balance of sweet and salty. Discover this easy recipe now! 🍫❤️ #brownies #caramel #homemade"
+        },
+        {
+            "title": "Salted Caramel Swirl Brownies: Sweet, Salty & So Fudgy",
+            "description": "If you love brownies with a twist, these salted caramel swirls are for you. So fudgy and packed with flavor, plus only five ingredients! Perfect for cozy evenings or sharing with friends. Give it a go and save the recipe! 🍯🍫 #dessertideas #brownies #caramel"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 9,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "1 cup granulated sugar",
+        "3/4 cup cocoa powder, unsweetened",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup salted caramel sauce"
+    ],
+    "yield": "Approximately 9 brownies, 9 servings",
+    "introduction": "I first tried making salted caramel swirl brownies a few years ago when I wanted a dessert that felt fancy but was actually super easy to whip up. I remember my first batch was a bit too gooey, but after tweaking the ingredient ratios and swirling technique, I finally nailed the perfect fudgy texture with that irresistible caramel ribbon. What I love about this recipe is how simple it is—only five ingredients and a bit of caramel sauce, yet it tastes like you spent hours in the kitchen. The secret is melting the butter first and mixing it gently to keep the batter dense, not cakey. Swirling in the salted caramel right before baking creates those gorgeous ribbons that bake into the brownies without sinking to the bottom. The final result is rich, chocolatey, and perfectly balanced with the salty-sweet caramel. These brownies are my go-to for cozy nights, last-minute guests, or whenever I need a comforting treat that feels special without the fuss. I think you'll love how effortlessly delicious they turn out!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Line an 8x8 inch baking pan with parchment paper or grease it well to prevent sticking. This step is crucial because it ensures your brownies come out cleanly without breaking apart. Using parchment also helps you lift the brownies out easily for cutting. Take a moment here to prepare so you don’t rush later and risk burning or uneven baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and baking pan ready with smooth, greased or parchment-lined surface"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the melted butter and sugar. Stir gently until they’re fully incorporated but avoid overmixing to keep the batter dense and fudgy. The melted butter helps create a rich texture, while the sugar adds sweetness and structure. If you mix too much here, the brownies can turn cakey instead of fudgy, so stir just until smooth and glossy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks smooth and shiny with no grainy sugar spots"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the cocoa powder to the butter and sugar mixture and whisk until fully combined. This gives the brownies their deep chocolate flavor. Make sure to sift the cocoa powder beforehand if it’s clumpy to avoid lumps in your batter. Mixing gently ensures the cocoa blends evenly without aerating the batter too much, which helps keep the brownies dense.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth and dark chocolate in color with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Beat the eggs lightly in a separate bowl, then add them to the chocolate mixture along with the vanilla extract. Stir gently until fully combined. Eggs provide structure and moisture, so adding them carefully prevents the batter from becoming too runny or too thick. The vanilla boosts flavor and rounds out the chocolate notes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is glossy and slightly thick, with no streaks of egg visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour half of the brownie batter into your prepared pan and spread it evenly with a spatula. This layer forms the base and helps the caramel swirl stay suspended instead of sinking. A smooth, even layer ensures consistent baking and texture throughout the brownies.",
+            "timing": "3 minutes",
+            "doneness_cue": "Even, smooth batter layer covering the bottom of the pan"
+        },
+        {
+            "step": 6,
+            "instruction": "Drizzle half of the salted caramel sauce in thin lines over the batter. Use a knife or skewer to gently swirl the caramel into the batter — don’t overmix or it will blend completely. The goal is to create beautiful marbled ribbons of caramel that will bake into the brownies, giving pockets of sweet and salty flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Visible caramel swirls marbled through the brownie batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the remaining batter over the caramel layer and spread evenly. Then drizzle the rest of the caramel sauce on top and swirl again lightly. This layering technique keeps the caramel evenly distributed and prevents it from sinking to the bottom during baking, which can happen if mixed too vigorously.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan filled with batter and caramel swirls clearly visible on top"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the brownies in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick into the center — it should come out with a few moist crumbs but not wet batter. This ensures fudgy brownies rather than cakey or underbaked ones. Avoid overbaking to keep them soft and chewy.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Toothpick comes out with moist crumbs, edges look set and slightly pulling away from pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the brownies cool completely in the pan before cutting. This cooling step allows the caramel to set and the texture to firm up, making clean slices easier. If you cut them too soon, the caramel can be gooey and the brownies might crumble. Patience here is key for perfect squares.",
+            "timing": "30-45 minutes",
+            "doneness_cue": "Brownies feel firm to the touch and caramel ribbons look set"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Brownie Recipe Delivers Perfect Fudgy Texture",
+        "content": "<p>What makes these salted caramel swirl brownies so special is the balance of ingredients and technique that creates that coveted fudgy texture. Melting the butter first is key — it coats the sugar crystals, helping them dissolve and preventing graininess. This also contributes to the dense, moist crumb that defines a fudgy brownie rather than a cakey one. The sugar not only sweetens but also affects the texture by interacting with the butter and eggs to form a tender crumb.</p><p>The cocoa powder provides intense chocolate flavor while also absorbing moisture, which helps the batter thicken and keeps the brownies chewy. Using unsweetened cocoa powder rather than chocolate chips or baking chocolate gives more control over sweetness and texture. The eggs add structure and moisture, binding everything together. Adding them gently prevents over-aeration, which could make the brownies cakey.</p><p>The salted caramel swirl is more than just a pretty touch — it adds a contrasting flavor and texture that elevates the brownies. The saltiness balances the rich chocolate, while the caramel’s sticky, gooey quality contrasts with the dense brownie. Swirling the caramel lightly rather than mixing it in fully creates pockets of flavor and visual appeal. Baking at 350°F for the right amount of time ensures the edges set while the center remains moist and fudgy.</p><p>Finally, letting the brownies cool fully allows the caramel to set and the texture to firm up, which makes cutting easier and enhances the eating experience. This recipe’s success lies in these small but crucial details that work together to deliver a decadent dessert with minimal fuss.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for the best flavor and control over salt content. Melting the butter fully before mixing ensures it blends smoothly with the sugar, creating a glossy batter. Avoid using salted butter, as the caramel already adds saltiness, and too much salt can overpower the brownies.",
+            "granulated sugar": "Regular granulated sugar works best here to provide sweetness and structure. It dissolves into the melted butter, helping create a smooth, dense batter. Using superfine sugar can speed up dissolution, but standard sugar is perfect. Avoid brown sugar here, as it would add moisture and change the texture to more cakey.",
+            "unsweetened cocoa powder": "Use a good-quality unsweetened cocoa powder for deep chocolate flavor. Dutch-processed cocoa will give a milder, less acidic taste, while natural cocoa powder offers a robust flavor. Sift cocoa powder before mixing to avoid lumps in the batter, which can create uneven texture.",
+            "eggs": "Large eggs provide moisture and structure, binding the ingredients together. Adding them gently prevents incorporating excess air, which keeps the brownies dense and fudgy rather than fluffy. Room temperature eggs blend more easily and help the batter come together smoothly.",
+            "salted caramel sauce": "A rich, quality salted caramel sauce is essential for the signature swirl. It adds both sweetness and a salty contrast that enhances the chocolate. Homemade or store-bought caramel works fine, but avoid overly runny sauces that might sink to the bottom instead of swirling nicely. The salt balances the sweetness and enriches the flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for easier mixing.",
+            "reason": "When eggs are at room temperature, they blend more smoothly into the batter, preventing lumps and ensuring even incorporation. Cold eggs can cause the melted butter to seize or the batter to curdle, which affects texture and consistency."
+        },
+        {
+            "tip": "Don’t overmix the batter once eggs are added.",
+            "reason": "Overmixing incorporates air, which makes brownies cakey instead of fudgy. Stir gently until just combined to keep the dense, moist texture that makes these brownies so irresistible."
+        },
+        {
+            "tip": "Swirl caramel gently with a knife or skewer.",
+            "reason": "Swirling lightly creates beautiful ribbons of caramel without fully blending into the batter. This technique ensures pockets of gooey caramel throughout, adding flavor contrast and visual appeal."
+        },
+        {
+            "tip": "Line your baking pan with parchment paper.",
+            "reason": "Parchment paper prevents sticking and makes it easy to lift brownies out in one piece. This helps keep the edges intact and makes cutting easier without crumbling."
+        },
+        {
+            "tip": "Let brownies cool completely before slicing.",
+            "reason": "Cooling allows the caramel to set and the brownies to firm up, preventing messy cuts and maintaining the fudgy texture. Cutting warm brownies often leads to gooey edges and uneven squares."
+        },
+        {
+            "tip": "Check doneness with a toothpick starting at 25 minutes.",
+            "reason": "Overbaking dries out brownies and makes them cakey. Testing early helps you pull them out when the center still has moist crumbs, ensuring a soft, fudgy bite."
+        },
+        {
+            "tip": "Use good-quality cocoa powder for richer flavor.",
+            "reason": "The cocoa powder defines the chocolate taste, so choosing a high-quality product makes a noticeable difference. Avoid low-quality or bitter cocoa that can overpower the sweet caramel notes."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Many bakers assume brownies need to be fully dry inside to be done, leading to baking them too long.",
+            "fix": "Start checking the brownies at 25 minutes and remove them when a toothpick shows moist crumbs. This keeps the texture fudgy and prevents dryness."
+        },
+        {
+            "mistake": "Mixing the caramel too much into the batter",
+            "why_it_happens": "In a rush, it’s tempting to stir the caramel fully, but that loses the swirl effect.",
+            "fix": "Drizzle caramel on top and swirl gently with a knife just a few times to create ribbons, preserving flavor pockets and visual appeal."
+        },
+        {
+            "mistake": "Not lining the pan with parchment",
+            "why_it_happens": "Some skip this step, causing brownies to stick and break apart when cutting.",
+            "fix": "Always line the pan or grease it well. Parchment paper makes it easy to lift the whole batch out cleanly."
+        },
+        {
+            "mistake": "Using salted butter instead of unsalted",
+            "why_it_happens": "Assuming salted butter is interchangeable can cause overly salty brownies.",
+            "fix": "Use unsalted butter to control salt levels, since the caramel already adds saltiness."
+        },
+        {
+            "mistake": "Cutting brownies too soon while warm",
+            "why_it_happens": "Impatience leads to messy, gooey slices that crumble easily.",
+            "fix": "Let brownies cool completely, ideally an hour or more, to firm up for clean cuts."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Salted Caramel Brownies",
+            "description": "Add 1/2 cup chopped toasted pecans or walnuts to the batter before baking for a delightful crunch that pairs perfectly with the caramel. The nuts add texture and a toasty flavor that complements the chocolate beautifully.",
+            "technical_note": "Fold nuts gently into the batter after mixing to avoid overworking it. Baking time remains the same."
+        },
+        {
+            "name": "Espresso Infused Salted Caramel Brownies",
+            "description": "Mix 1 tablespoon instant espresso powder into the cocoa powder to deepen the chocolate flavor with a subtle coffee note. This variation adds richness and complexity without overpowering the caramel swirl.",
+            "technical_note": "Dissolve espresso powder in a teaspoon of hot water before adding to ensure even distribution."
+        },
+        {
+            "name": "Vegan Salted Caramel Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use vegan butter. Use a dairy-free caramel sauce to keep it plant-based. The texture will be slightly different but still fudgy and delicious.",
+            "technical_note": "Let flax eggs sit for 5 minutes to gel before mixing. Baking time may increase by 2-3 minutes."
+        },
+        {
+            "name": "Peanut Butter Swirl Salted Caramel Brownies",
+            "description": "Add dollops of peanut butter along with the caramel and swirl both into the batter for a rich, nutty twist. The peanut butter’s saltiness complements the caramel and chocolate, creating a decadent flavor combo.",
+            "technical_note": "Warm peanut butter slightly to make swirling easier and avoid fully mixing."
+        },
+        {
+            "name": "Spicy Salted Caramel Brownies",
+            "description": "Sprinkle a pinch of cayenne pepper or chili powder into the batter for a subtle spicy kick that contrasts beautifully with the sweet caramel. It’s unexpected but totally addictive!",
+            "technical_note": "Start with a small pinch and adjust to taste to avoid overwhelming the chocolate flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates based on standard ingredients and may vary."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownies can be kept covered at room temperature for up to 2 days. Use a cake dome or airtight container to prevent drying out. They stay soft but should be consumed within this timeframe for best flavor.",
+        "refrigerator": "Store brownies in an airtight container in the fridge for up to 5 days. They may firm up and the caramel can become less gooey. To enjoy, bring to room temperature or warm briefly in the microwave for a few seconds.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently in the microwave to restore softness and melt the caramel slightly.",
+        "reheating": "Reheat individual brownies in the microwave for 10-15 seconds or in a warm oven (300°F) for 5-7 minutes. Adding a small splash of milk or cream before warming can refresh moisture and texture. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter and swirl the caramel up to one day ahead, then cover and refrigerate the pan. Bake fresh on the day you want to serve for best texture and flavor. Alternatively, bake fully and reheat as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted in this recipe?",
+            "answer": "While you can use salted butter, I recommend unsalted because the caramel swirl already adds saltiness. Using salted butter may make the brownies too salty and throw off the flavor balance."
+        },
+        {
+            "question": "How do I know when the brownies are done without overbaking?",
+            "answer": "Start checking at 25 minutes by inserting a toothpick in the center. It should come out with moist crumbs but no raw batter. This ensures fudgy brownies rather than dry or cakey ones."
+        },
+        {
+            "question": "Can I make the salted caramel sauce from scratch?",
+            "answer": "Absolutely! Homemade caramel with sea salt tastes amazing here. Just be sure it’s thick enough to swirl without sinking completely. Let it cool slightly before swirling into the batter."
+        },
+        {
+            "question": "Why are my brownies cakey instead of fudgy?",
+            "answer": "Overmixing, using too much flour or eggs, or baking too long can cause cakey brownies. Use melted butter, mix gently, and watch baking time closely to keep them dense and fudgy."
+        },
+        {
+            "question": "Can I freeze these brownies?",
+            "answer": "Yes, wrap them tightly and freeze up to 3 months. Thaw in the fridge overnight and warm slightly before serving to bring back their fudgy texture."
+        },
+        {
+            "question": "What if my caramel sauce is too runny?",
+            "answer": "If it’s too thin, it will sink to the bottom instead of swirling nicely. Try reducing it over low heat to thicken or use a thicker caramel to maintain swirl definition."
+        },
+        {
+            "question": "Can I add nuts to this brownie recipe?",
+            "answer": "Definitely! Fold in chopped walnuts or pecans for extra crunch. Add them right before pouring batter into the pan to keep even distribution."
+        },
+        {
+            "question": "How should I store leftover brownies?",
+            "answer": "Keep them in an airtight container at room temperature for 2 days or refrigerate for up to 5 days. Bring to room temp or warm before eating for best texture."
+        }
+    ],
+    "conclusion": "Give these salted caramel swirl brownies a try—you’ll love how simple yet decadent they are. Don’t forget to share how yours turn out!",
+    "seo": {
+        "primary_keyword": "salted caramel swirl brownies",
+        "secondary_keywords": [
+            "easy salted caramel brownies",
+            "fudgy caramel brownies",
+            "how to make salted caramel brownies",
+            "best salted caramel brownie recipe",
+            "quick caramel swirl brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade caramel sauce recipe",
+                "anchor": "homemade-caramel-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images/5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780566358_162",
+    "slug": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-06-04T11:07:22+01:00",
+    "updatedAt": "2026-06-04T11:07:22+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "5-ingredient-salted-caramel-brownies-with-sea-salt-finish-that-melt-in-your-mouth/images"
+}
