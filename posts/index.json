@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-05 12:20:25",
-    "count": 493,
+    "generated": "2026-06-05 12:37:58",
+    "count": 495,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -91,6 +91,7 @@
         "chewy-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes",
         "chewy-chocolate-chip-cookies-with-a-touch-of-sea-salt-and-coffee-that-will-blow-your-mind",
         "chewy-maple-walnut-cookies-perfect-for-springtime-snacking",
+        "chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love",
         "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor",
         "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start",
         "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start",
@@ -324,6 +325,7 @@
         "no-bake-chocolate-swirl-cheesecake-with-oreo-crust-that-melts-in-your-mouth",
         "no-bake-coconut-lime-cheesecake-cups-with-graham-cracker-crust-that-are-pure-bliss",
         "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat",
+        "no-bake-fudgy-brownie-bites-with-sea-salt-sprinkle-that-melt-in-your-mouth",
         "no-bake-gluten-free-lemon-cheesecake-cups-perfect-for-warm-weather",
         "no-bake-lemon-blueberry-cheesecake-bars-with-fresh-berries-that-everyone-will-love",
         "no-bake-lemon-blueberry-cheesecake-for-seasonal-gatherings-that-everyone-will-love",
@@ -497,6 +499,36 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love",
+            "title": "Chewy No-Bake Brownie Bites That Satisfy Every Chocolate Craving",
+            "description": "These chewy no-bake brownie bites are my go-to when I want chocolate without heating up the kitchen. Packed with melty chocolate chips and a fudgy texture, they’re perfect for a quick snack or last-minute dessert.",
+            "image": "posts/chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love/images/chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-05T12:37:58+01:00",
+            "updatedAt": "2026-06-05T12:37:58+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 12
+        },
+        {
+            "slug": "no-bake-fudgy-brownie-bites-with-sea-salt-sprinkle-that-melt-in-your-mouth",
+            "title": "No-Bake Fudgy Brownie Bites with a Hint of Sea Salt",
+            "description": "These no-bake brownie bites are a quick chocolate fix that’s fudgy and rich without heating up the kitchen. The sprinkle of sea salt on top gives a lovely balance that keeps you coming back for more. Perfect for a last-m",
+            "image": "posts/no-bake-fudgy-brownie-bites-with-sea-salt-sprinkle-that-melt-in-your-mouth/images/no-bake-fudgy-brownie-bites-with-sea-salt-sprinkle-that-melt-in-your-mouth_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-05T12:37:58+01:00",
+            "updatedAt": "2026-06-05T12:37:58+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 12
+        },
         {
             "slug": "no-bake-chocolate-cheesecake-cups-with-oreo-crust-that-everyone-will-love",
             "title": "No Bake Chocolate Cheesecake Cups with Crunchy Oreo Crust",
