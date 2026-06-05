@@ -28,13 +28,13 @@
     "servings": 4,
     "ingredients": [
         "1 cup all-purpose flour",
-        "1/2 cup vanilla Greek yogurt, room temperature",
-        "1/2 cup milk, room temperature",
+        "1\/2 cup vanilla Greek yogurt, room temperature",
+        "1\/2 cup milk, room temperature",
         "1 large egg",
         "2 tablespoons honey, plus extra for drizzling",
         "1 teaspoon baking powder",
-        "1/2 teaspoon baking soda",
-        "1/4 teaspoon salt",
+        "1\/2 teaspoon baking soda",
+        "1\/4 teaspoon salt",
         "1 cup fresh blueberries",
         "2 tablespoons melted butter or oil"
     ],
@@ -73,7 +73,7 @@
         },
         {
             "step": 6,
-            "instruction": "Pour about 1/4 cup of batter per pancake onto the skillet, spacing them apart. Cook without moving until bubbles form on the surface and the edges look set, about 2-3 minutes. This stage is key for the pancakes to rise and set properly before flipping.",
+            "instruction": "Pour about 1\/4 cup of batter per pancake onto the skillet, spacing them apart. Cook without moving until bubbles form on the surface and the edges look set, about 2-3 minutes. This stage is key for the pancakes to rise and set properly before flipping.",
             "timing": "3 minutes",
             "doneness_cue": "Bubbles appear on top and edges look firm and dry"
         },
@@ -98,7 +98,7 @@
     ],
     "why_this_recipe_works": {
         "section": "The Science Behind These Fluffy Protein Pancakes",
-        "content": "<p>Understanding the balance of ingredients and techniques is what makes these pancakes stand out. The combination of baking powder and baking soda creates a perfect leavening system. Baking powder releases carbon dioxide when wet and heated, while baking soda reacts with the acidic Greek yogurt to produce additional lift. This dual action is why these pancakes rise so well and remain light.</p><p>Greek yogurt plays a dual role—it adds protein and moisture, resulting in tender pancakes that hold their shape without becoming dense. The acidity in the yogurt also reacts with the baking soda, enhancing the leavening effect, which is crucial for fluffiness. Using room temperature yogurt and milk ensures smooth mixing and even cooking without cold spots that can affect texture.</p><p>Fresh blueberries add a juicy pop and natural sweetness, but folding them in gently at the end is important to avoid breaking them and turning the batter blue, which can affect both appearance and texture. Cooking pancakes over medium heat allows the interior to cook through while the exterior develops a golden crust thanks to Maillard reactions, which deepen flavor and color.</p><p>Finally, the honey drizzle adds a natural sweetness and sticky texture that contrasts beautifully with the tangy yogurt and soft pancakes. This simple finishing touch elevates the dish without overpowering its fresh flavors.</p>",
+        "content": "<p>Understanding the balance of ingredients and techniques is what makes these pancakes stand out. The combination of baking powder and baking soda creates a perfect leavening system. Baking powder releases carbon dioxide when wet and heated, while baking soda reacts with the acidic Greek yogurt to produce additional lift. This dual action is why these pancakes rise so well and remain light.<\/p><p>Greek yogurt plays a dual role—it adds protein and moisture, resulting in tender pancakes that hold their shape without becoming dense. The acidity in the yogurt also reacts with the baking soda, enhancing the leavening effect, which is crucial for fluffiness. Using room temperature yogurt and milk ensures smooth mixing and even cooking without cold spots that can affect texture.<\/p><p>Fresh blueberries add a juicy pop and natural sweetness, but folding them in gently at the end is important to avoid breaking them and turning the batter blue, which can affect both appearance and texture. Cooking pancakes over medium heat allows the interior to cook through while the exterior develops a golden crust thanks to Maillard reactions, which deepen flavor and color.<\/p><p>Finally, the honey drizzle adds a natural sweetness and sticky texture that contrasts beautifully with the tangy yogurt and soft pancakes. This simple finishing touch elevates the dish without overpowering its fresh flavors.<\/p>",
         "ingredient_notes": {
             "All-Purpose Flour": "Look for a good quality, unbleached all-purpose flour for tender pancakes. The gluten content here is moderate, providing enough structure to hold the pancakes together while keeping them soft. Avoid using self-rising flour since this recipe has its own leavening agents.",
             "Greek Yogurt": "Full-fat or low-fat plain Greek yogurt works best because it’s thick and tangy, adding protein and moisture. Avoid flavored yogurts as they can alter sweetness and texture. Room temperature yogurt blends smoothly, preventing lumps and ensuring even rise.",
@@ -173,11 +173,11 @@
         {
             "name": "Lemon Blueberry Pancakes",
             "description": "Add 1 teaspoon of lemon zest to the batter and a splash of lemon juice to brighten the flavor profile. This pairs beautifully with blueberries for a fresh, tangy twist. Serve with a dusting of powdered sugar instead of honey for a lighter finish.",
-            "technical_note": "Lemon juice reacts with baking soda, so reduce baking powder by 1/4 teaspoon to balance rise."
+            "technical_note": "Lemon juice reacts with baking soda, so reduce baking powder by 1\/4 teaspoon to balance rise."
         },
         {
             "name": "Gluten-Free Blueberry Pancakes",
-            "description": "Swap all-purpose flour for a gluten-free baking blend. Ensure it contains xanthan gum or add 1/4 teaspoon for structure. The texture will be slightly different—more tender but still fluffy with proper mixing and cooking.",
+            "description": "Swap all-purpose flour for a gluten-free baking blend. Ensure it contains xanthan gum or add 1\/4 teaspoon for structure. The texture will be slightly different—more tender but still fluffy with proper mixing and cooking.",
             "technical_note": "Gluten-free batters can be more delicate; handle gently and cook at slightly lower heat."
         },
         {
@@ -187,7 +187,7 @@
         },
         {
             "name": "Chocolate Chip Blueberry Pancakes",
-            "description": "Add 1/3 cup mini chocolate chips along with the blueberries for a sweet treat that kids and adults love. The chocolate melts into the fluffy batter, creating pockets of gooey goodness balanced by the fresh berries.",
+            "description": "Add 1\/3 cup mini chocolate chips along with the blueberries for a sweet treat that kids and adults love. The chocolate melts into the fluffy batter, creating pockets of gooey goodness balanced by the fresh berries.",
             "technical_note": "Use mini chips to prevent sinking; fold in gently to keep even distribution."
         }
     ],
@@ -264,27 +264,81 @@
     "images": [
         {
             "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_1.png",
-            "filePath": "posts/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost/images/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_1.png",
-            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost/images/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_1.png",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_1.png",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_1.png",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_3.png",
-            "filePath": "posts/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost/images/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_3.png",
-            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost/images/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_3.png",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_3.png",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_pinrecipes_image_3.png",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images\/greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1780567073_507",
     "slug": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost",
-    "isOnline": false,
-    "createdAt": "2026-06-04T10:57:53+01:00",
-    "updatedAt": "2026-06-04T10:57:53+01:00",
+    "isOnline": true,
+    "createdAt": "2026-06-05T13:06:48+01:00",
+    "updatedAt": "2026-06-05T13:06:48+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230422_512",
-    "image_dir": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost/images"
+    "image_dir": "greek-yogurt-and-blueberry-protein-pancakes-with-honey-drizzle-for-a-cozy-morning-boost\/images"
 }
