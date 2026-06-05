@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-05 12:03:42",
-    "count": 489,
+    "generated": "2026-06-05 12:13:19",
+    "count": 491,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -229,6 +229,7 @@
         "full-sheet-pan-dessert-recipes-that-wow-every-time",
         "funny-cookies-recipe-that-will-make-you-smile-while-baking",
         "gluten-free-5-ingredient-brownies-for-quick-dessert",
+        "gluten-free-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes",
         "gluten-free-blueberry-protein-pancakes-for-quick-breakfast",
         "gluten-free-chocolate-chip-cookies-with-spring-almond-flour-soft-nutty-delicious",
         "gluten-free-flourless-chocolate-brownies-with-fresh-raspberries-that-melt-in-your-mouth",
@@ -455,6 +456,7 @@
         "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes",
         "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy",
         "skillet-creamy-mushroom-chicken-with-asparagus-tips-thatll-wow-your-dinner-guests",
+        "soft-chewy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights",
         "soft-chewy-chocolate-chip-cookies-with-lavender-sugar-that-melt-in-your-mouth",
         "soft-cinnamon-sugar-cookies-with-a-hint-of-cardamom-that-melt-in-your-mouth",
         "spicy-airfryer-crispy-chicken-wings-with-honey-drizzle-for-game-night-or-any-night",
@@ -493,6 +495,36 @@
         "viral-tiktok-no-bake-strawberry-cheesecake-cups-that-everyone-loves"
     ],
     "posts": [
+        {
+            "slug": "gluten-free-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes",
+            "title": "Soft and Chewy 5-Ingredient Gluten-Free Chocolate Chip Cookies",
+            "description": "These gluten-free chocolate chip cookies are incredibly simple and quick to whip up with just five ingredients. They come out soft and chewy every time, making them a perfect snack or last-minute dessert when you need so",
+            "image": "posts/gluten-free-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes/images/gluten-free-5-ingredient-chocolate-chip-cookies-ready-in-20-minutes_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-05T12:13:19+01:00",
+            "updatedAt": "2026-06-05T12:13:19+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 12,
+            "total_time": null,
+            "servings": 12
+        },
+        {
+            "slug": "soft-chewy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights",
+            "title": "Soft and Chewy Five-Ingredient Chocolate Chip Cookies You’ll Love",
+            "description": "These chocolate chip cookies are my quick fix when I want something soft, chewy, and comforting. Just five ingredients and about 30 minutes later, you’ve got a treat that feels homemade and warm. Perfect for a last-minut",
+            "image": "posts/soft-chewy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights/images/soft-chewy-5-ingredient-chocolate-chip-cookies-for-busy-weeknights_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-05T12:13:19+01:00",
+            "updatedAt": "2026-06-05T12:13:19+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 15,
+            "total_time": null,
+            "servings": 12
+        },
         {
             "slug": "5-ingredient-moist-chocolate-cake-with-decadent-ganache-frosting-that-everyone-will-love",
             "title": "Simple 5-Ingredient Chocolate Cake with Silky Ganache Frosting",
