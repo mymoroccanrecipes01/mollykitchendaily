@@ -1,0 +1,339 @@
+{
+    "title": "Spicy Garlic Chicken with Roasted Brussels Sprouts for a Flavor-Packed Dinner",
+    "promptIMG": "Food photography: Spicy Garlic Chicken with Roasted Brussels Sprouts, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spicy garlic chicken pairs perfectly with crispy roasted Brussels sprouts for a dinner that's both healthy and full of flavor. The garlic and chili bring a warming kick, making it ideal for busy weeknights when you want something satisfying without the heaviness.",
+    "hashtags": "#spicychicken #healthyweeknightdinner #garlicchicken",
+    "board_name": "Healthy Chicken Dinners",
+    "pin_variations": [
+        {
+            "title": "Try This Easy Spicy Garlic Chicken Tonight for a Flavor Boost!",
+            "description": "Looking for a quick dinner that’s both healthy and packed with flavor? This spicy garlic chicken with roasted Brussels sprouts is just the thing! Save this recipe and enjoy a tasty meal tonight. 🔥🍽️ #HealthyDinner #SpicyChicken #WeeknightMeals"
+        },
+        {
+            "title": "Discover the Secret to Crispy Roasted Brussels Sprouts with Spicy Chicken",
+            "description": "If you love bold flavors, you’ve got to try this spicy garlic chicken served with perfectly roasted Brussels sprouts. It’s easy, healthy, and so delicious. Try it today and see why it’s a family favorite! 🌶️🥦 #GarlicChicken #RoastedVeggies #EasyRecipe"
+        },
+        {
+            "title": "Weeknight Winner: Spicy Garlic Chicken and Roasted Brussels Sprouts",
+            "description": "Busy nights call for quick, tasty meals. This spicy garlic chicken with roasted Brussels sprouts hits the spot every time. Simple ingredients, big flavor—save this recipe for your next dinner plan! 🍗💥 #QuickDinner #HealthyEats #ChickenRecipe"
+        },
+        {
+            "title": "Spice Up Dinner with This Garlic Chili Chicken and Crispy Brussels Sprouts",
+            "description": "Add some heat to your dinner with this spicy garlic chili chicken paired with crispy roasted Brussels sprouts. It’s an easy recipe that’s perfect for any night of the week. Give it a try and enjoy! 🌶️🍴 #SpicyChicken #HealthyMeals #RoastedBrussels"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken thighs, trimmed",
+        "4 cups Brussels sprouts, trimmed and halved",
+        "4 cloves garlic, minced",
+        "1-2 tsp chili flakes (adjust to taste)",
+        "2 tbsp olive oil, divided",
+        "Salt and pepper to taste",
+        "1 tbsp soy sauce",
+        "1 tsp honey",
+        "Fresh lemon juice, from half a lemon"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this spicy garlic chicken with roasted Brussels sprouts on a whim one weeknight when I wanted something quick but still packed with flavor. Honestly, I’d tried a few spicy chicken recipes before, but this one stuck because it balances heat and garlic perfectly without overpowering the dish. What makes this version stand out is roasting the Brussels sprouts alongside the chicken, which lets them soak up some of those spicy, garlicky juices. The trick I learned is to not overcrowd the pan when roasting the sprouts, so they get that beautiful crispiness instead of steaming. The result is a dinner that feels fresh and light but totally satisfying, with a nice kick from the chili flakes. It's become a go-to when I want something healthy but with a bit of excitement on the plate. Plus, the lemon juice at the end really brightens everything up! I think you'll love how easy it is to throw together and how well the flavors come together. It's exactly the kind of dish that makes weeknight dinners something to look forward to.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Toss the halved Brussels sprouts in 1 tablespoon of olive oil, salt, and pepper. Spread them out evenly on a large baking sheet, making sure they aren’t crowded so they roast properly instead of steaming. Roasting at a high temperature caramelizes their edges, bringing out a nutty sweetness that balances the spicy chicken perfectly. Keep an eye on them to avoid burning; they should be golden and crisp on the edges after roasting.",
+            "timing": "10 minutes",
+            "doneness_cue": "Brussels sprouts edges are golden brown and crispy"
+        },
+        {
+            "step": 2,
+            "instruction": "While the Brussels sprouts start roasting, mix minced garlic, chili flakes, soy sauce, honey, lemon juice, and 1 tablespoon olive oil in a bowl. This marinade blends heat with a touch of sweetness and acidity, which helps tenderize the chicken and layers in flavor. If you rush this step, the chicken won’t soak up as much flavor, so let it sit while you prep the rest.",
+            "timing": "5 minutes",
+            "doneness_cue": "A glossy, well-mixed marinade with garlic evenly distributed"
+        },
+        {
+            "step": 3,
+            "instruction": "Pat the chicken thighs dry with paper towels to ensure they sear properly. Place them in the marinade, coating well on all sides. Let them marinate at room temperature for about 10 minutes while the Brussels sprouts roast. This short marinating time is enough to infuse flavor without needing hours, making it perfect for weeknights.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken pieces fully coated and slightly glossy from marinade"
+        },
+        {
+            "step": 4,
+            "instruction": "After the Brussels sprouts have roasted for 10 minutes, remove the baking sheet from the oven and push the sprouts to one side. Arrange the marinated chicken thighs on the other side in a single layer. Return to the oven to roast together. This method allows the chicken juices to mingle with the sprouts, enhancing their flavor.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Chicken is cooked through with juices running clear and sprouts are tender-crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Halfway through roasting the chicken and sprouts, flip the chicken pieces to ensure even cooking and browning. Baste the chicken with any leftover marinade or pan juices to keep it moist and flavorful. This step helps develop a nice caramelized crust on the chicken, which adds texture and depth.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Chicken surface is golden brown and slightly charred in spots"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the chicken reaches an internal temperature of 165°F (74°C), remove the pan from the oven. Let the chicken rest for 5 minutes before serving to allow juices to redistribute. This resting step is key for juicy, tender chicken instead of dry meat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but not tough, juices clear when cut"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the roasted Brussels sprouts and chicken, then adjust seasoning with a pinch of salt or a squeeze more lemon juice if you want extra brightness. The lemon cuts through the richness and balances the heat nicely.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavors with a fresh citrus note"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the chicken thighs alongside the roasted Brussels sprouts on warm plates. Garnish with fresh parsley or a sprinkle of chili flakes if you want to amp up the color and spice. This simple plating makes the meal inviting and colorful.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks vibrant and appetizing with a slight sheen from juices"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy this meal with a side of steamed rice or quinoa to soak up the flavorful pan juices. It’s a balanced dinner with protein, veggies, and just the right amount of spice to keep things exciting but not overwhelming.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Meal is warm, flavorful, and satisfying"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Spicy Garlic Chicken and Roasted Brussels Sprouts Recipe Works",
+        "content": "<p>This recipe excels because of the harmonious balance between the spicy, garlicky chicken and the caramelized roasted Brussels sprouts. Roasting Brussels sprouts at a high temperature causes Maillard reactions, which develop their natural sugars into complex, nutty flavors and create a crispy texture that contrasts beautifully with the tender chicken. Avoiding overcrowding the pan ensures they roast instead of steam, preserving this texture.</p><p>The marinade is carefully crafted to tenderize the chicken while layering bold flavors. Garlic and chili flakes provide a robust spicy profile, while the soy sauce adds umami depth and saltiness. The honey balances the heat with a subtle sweetness, and the lemon juice brightens the dish with acidity, helping to cut through the richness of the chicken thighs.</p><p>Cooking the chicken thighs alongside the Brussels sprouts allows the flavors to mingle in the oven, enriching both components. The key technique of flipping the chicken halfway through and basting it with marinade intensifies caramelization, creating a flavorful crust while locking in moisture. Resting the chicken after cooking ensures juicy, tender meat, as the juices redistribute evenly.</p><p>Overall, this recipe's success lies in balancing textures and flavors—crisp and tender, spicy and sweet, rich and bright—while using simple techniques that bring out the best in each ingredient. It’s an easy yet impressive weeknight meal that feels both healthy and indulgent.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "I recommend using boneless, skinless chicken thighs because they stay juicy and tender during roasting. Thighs have more fat than breasts, which keeps them moist and flavorful even at high heat. When buying, look for fresh, pale pink thighs without bruising or unpleasant odor. If you prefer, skin-on thighs can add extra crispiness but may increase cooking time. Avoid frozen chicken for this recipe, as thawed meat can release water and prevent proper browning.",
+            "Brussels Sprouts": "Select firm, compact Brussels sprouts with bright green leaves and no yellowing or wilting. Smaller sprouts tend to roast more evenly and become crispier. It's important to trim the stem and remove any damaged outer leaves before halving. Roasting brings out their natural sweetness and reduces bitterness, so fresh, good-quality sprouts are key to a tasty dish.",
+            "Garlic": "Fresh garlic cloves are essential here for their pungent, aromatic flavor. Mince finely to distribute the garlic evenly in the marinade and avoid large chunks, which can taste harsh when roasted. Pre-minced garlic or garlic powder won’t deliver the same bright, fresh flavor. If you want a milder garlic note, you can roast whole garlic cloves separately and mash them into the marinade.",
+            "Chili Flakes": "Use crushed red chili flakes for heat and a bit of texture. Adjust the amount according to your spice tolerance; the recipe is flexible. Fresh chili flakes retain more vibrant flavor and color than older ones, which can become dull. If you want a smoky heat, consider adding a pinch of smoked paprika alongside the chili flakes.",
+            "Olive Oil": "Extra virgin olive oil is best for this recipe because of its fruity, peppery notes that complement garlic and chili. It also helps the chicken and Brussels sprouts brown evenly and develop a nice crust. Use a good quality oil but avoid overheating it to prevent bitterness. You can substitute with avocado oil if you need a higher smoke point, but flavor will be milder."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the roasting pan when cooking Brussels sprouts.",
+            "reason": "Crowding traps steam and prevents the sprouts from crisping up. Roasting works best when air circulates around each piece, allowing Maillard reactions to create that golden, caramelized exterior. If your pan is too small, roast in batches for best results."
+        },
+        {
+            "tip": "Pat chicken dry before marinating and roasting.",
+            "reason": "Removing excess moisture helps the chicken brown properly instead of steaming. The Maillard reaction, which creates flavor and color, only happens when the surface is dry enough to sear. This step makes a big difference in achieving a crispy, flavorful crust."
+        },
+        {
+            "tip": "Flip the chicken halfway through roasting and baste with pan juices.",
+            "reason": "Turning the chicken ensures even cooking and browning on all sides, while basting adds moisture and intensifies flavor. Without this, one side might dry out or burn, and the meat won’t develop that delicious caramelized coating."
+        },
+        {
+            "tip": "Use fresh lemon juice right before serving.",
+            "reason": "Adding lemon juice at the end brightens the whole dish, cutting through the richness and balancing the spicy garlic flavors. Cooking lemon juice longer can dull its fresh acidity, so wait until plating to squeeze it over."
+        },
+        {
+            "tip": "Let the chicken rest after roasting.",
+            "reason": "Resting allows juices to redistribute inside the meat, resulting in tender, juicy chicken. Cutting into it right away causes the juices to run out, leaving dry meat. A 5-minute rest is enough for this size of chicken thighs."
+        },
+        {
+            "tip": "Adjust chili flakes to your spice preference.",
+            "reason": "Everyone’s heat tolerance varies, so start with less if you’re unsure and add more after tasting. The chili flakes also add color and texture, so don’t skip them entirely if you want that authentic kick."
+        },
+        {
+            "tip": "Use a digital meat thermometer to check doneness.",
+            "reason": "Chicken is safely cooked at 165°F (74°C). Using a thermometer prevents overcooking, which dries out the meat, or undercooking, which can be unsafe. It’s the most reliable way to get juicy, perfectly cooked chicken every time."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the baking sheet",
+            "why_it_happens": "It’s tempting to throw everything on one pan to save time and dishes, but this traps moisture and prevents proper roasting.",
+            "fix": "Use a larger baking sheet or split the sprouts and chicken across two pans. Give each piece space so hot air can circulate and create crisp edges."
+        },
+        {
+            "mistake": "Skipping the resting step after cooking chicken",
+            "why_it_happens": "Impatience or not knowing the importance of resting leads to cutting the chicken immediately.",
+            "fix": "Let the chicken rest for 5 minutes after roasting. Tent it loosely with foil to keep warm, then slice to keep juices inside."
+        },
+        {
+            "mistake": "Using old or ground chili flakes instead of fresh crushed flakes",
+            "why_it_happens": "Sometimes pantry staples are used without checking freshness, leading to dull flavor.",
+            "fix": "Buy fresh crushed chili flakes and store them in a cool, dark place. They add vibrant heat and color that ground chili powder can’t replicate."
+        },
+        {
+            "mistake": "Not drying chicken before marinating",
+            "why_it_happens": "Skipping this step can be due to rushing or unfamiliarity with its impact on browning.",
+            "fix": "Always pat chicken dry with paper towels before marinating. This helps the surface brown properly and develop flavor."
+        },
+        {
+            "mistake": "Adding lemon juice too early in the cooking process",
+            "why_it_happens": "Some recipes add lemon juice upfront, but this can mellow the acidity.",
+            "fix": "Add lemon juice after cooking, right before serving, to preserve its bright, fresh taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Sweet Potatoes for Extra Comfort",
+            "description": "Swap half the Brussels sprouts for cubed sweet potatoes tossed in olive oil, salt, and pepper. Roast alongside the chicken for a sweeter, heartier side. The natural sugars in sweet potatoes caramelize beautifully, balancing the spicy chicken.",
+            "technical_note": "Sweet potatoes may need a slightly longer roasting time (~35 minutes) and should be cut into uniform cubes to cook evenly."
+        },
+        {
+            "name": "Make It a One-Pan Meal with Quinoa",
+            "description": "Add rinsed quinoa to the baking sheet with some vegetable broth halfway through cooking. It’ll absorb the delicious chicken juices and roast flavors, turning this into a filling, nutritious one-pan dinner.",
+            "technical_note": "Quinoa needs about 15-20 minutes to cook, so add it after the chicken has started roasting to prevent overcooking."
+        },
+        {
+            "name": "Use Chicken Breasts for a Leaner Option",
+            "description": "Substitute chicken thighs with boneless, skinless chicken breasts for a leaner meal. Marinate and roast as directed, but watch the cooking time closely as breasts cook faster and can dry out if overdone.",
+            "technical_note": "Check internal temperature early and remove breasts from oven once they hit 160°F; they’ll continue cooking while resting."
+        },
+        {
+            "name": "Add Fresh Herbs for Brightness",
+            "description": "Stir in chopped fresh herbs like parsley, cilantro, or basil just before serving. They add a fresh, vibrant note that complements the spicy garlic flavors and roasted veggies.",
+            "technical_note": "Herbs should be added after cooking to preserve their delicate flavors and colors."
+        },
+        {
+            "name": "Make It Vegan with Tofu and Cauliflower",
+            "description": "Replace chicken with firm tofu cubes and Brussels sprouts with cauliflower florets. Toss tofu in the spicy garlic marinade and roast until golden. This keeps the bold flavors while making the dish plant-based.",
+            "technical_note": "Press tofu well before marinating to remove moisture, and roast cauliflower alongside tofu for even cooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "22g",
+        "fiber_grams": "6g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can be safely kept at room temperature for up to 2 hours if covered loosely with foil or a clean cloth to protect from contaminants. Beyond that, refrigerate promptly to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors will meld more, but Brussels sprouts may soften. Reheat gently to retain moisture, either in a microwave or oven at low temperature.",
+        "freezer": "Freeze cooked chicken and Brussels sprouts in a sealed container or freezer bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating to maintain texture and flavor.",
+        "reheating": "Reheat in a skillet over medium heat with a splash of water or broth to prevent drying out, or microwave covered until warmed through. Avoid overheating to keep chicken juicy and Brussels sprouts crisp-tender.",
+        "make_ahead_strategy": "Marinate the chicken up to 24 hours ahead and store in the fridge. Trim and halve Brussels sprouts the day before and keep in an airtight container. On cooking day, roast both together for a fresh, quick meal."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, chicken breasts can be used for a leaner option. However, they cook faster and can dry out if overcooked. Keep a close eye on them and use a meat thermometer to pull them out at 160°F, letting them rest to finish cooking. Adjust roasting time accordingly."
+        },
+        {
+            "question": "How spicy is this recipe? Can I make it milder?",
+            "answer": "The spice level comes mainly from chili flakes, which you can easily adjust. For less heat, reduce the chili flakes or omit them altogether. The garlic still provides plenty of flavor, so it won’t be bland. You can also add a touch of honey to balance any heat."
+        },
+        {
+            "question": "What if I don’t have soy sauce?",
+            "answer": "Soy sauce adds saltiness and umami, but if you don’t have it, you can substitute with tamari for a gluten-free option or a splash of Worcestershire sauce. Alternatively, use salt and a bit of balsamic vinegar to maintain complexity."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "Absolutely! Marinate the chicken up to 24 hours ahead to deepen flavor. You can also prep the Brussels sprouts by trimming and halving them the day before. Roast everything fresh on the day you plan to serve for best texture and flavor."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "The safest and most reliable way is to use a digital meat thermometer. Insert it into the thickest part of the chicken; it should read 165°F (74°C). The juices should run clear, and the meat should feel firm but not dry."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, simply use gluten-free tamari instead of soy sauce to keep the dish gluten-free. All other ingredients are naturally gluten-free. Just double-check your chili flakes and honey to ensure no cross-contamination."
+        },
+        {
+            "question": "What sides go well with this meal?",
+            "answer": "Steamed rice, quinoa, or a simple salad pairs nicely to round out the meal. The grains soak up the flavorful pan juices, while a fresh salad adds crunch and freshness to balance the spicy chicken."
+        },
+        {
+            "question": "How should I store leftovers to keep them fresh?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently in a skillet or microwave with a splash of water or broth to prevent drying. Brussels sprouts may soften but will still taste delicious."
+        }
+    ],
+    "conclusion": "I hope you give this spicy garlic chicken with roasted Brussels sprouts a try soon! It’s a simple recipe that delivers big on flavor and always gets compliments. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "spicy garlic chicken recipe",
+        "secondary_keywords": [
+            "roasted Brussels sprouts chicken",
+            "healthy chicken dinner",
+            "how to make spicy garlic chicken",
+            "best spicy chicken recipe",
+            "easy garlic chicken recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast Brussels sprouts perfectly",
+                "anchor": "perfect-brussels-sprouts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_1.png",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_1.png",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_2.png",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_2.png",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_3.png",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_3.png",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_9.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "relativePath": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images/spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1780874411_713",
+    "slug": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing",
+    "isOnline": true,
+    "createdAt": "2026-06-08T00:24:48+01:00",
+    "updatedAt": "2026-06-08T00:24:48+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "spicy-garlic-chicken-with-roasted-brussels-sprouts-for-weight-loss-that-tastes-amazing/images"
+}

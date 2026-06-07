@@ -1,0 +1,337 @@
+{
+    "title": "Berry Vanilla Protein Smoothie: Fresh, Creamy, and So Easy to Make",
+    "promptIMG": "Food photography: Berry Vanilla Protein Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie combines creamy vanilla protein powder with fresh seasonal berries for a naturally sweet, energizing boost. I love how the ripe berries add color and flavor. Great for breakfast or a quick snack anytime!",
+    "hashtags": "#proteinshake #smoothierecipe #berrysmoothie",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Delicious Berry Vanilla Protein Smoothie for Busy Mornings",
+            "description": "Start your day with this creamy berry vanilla protein smoothie! It’s quick, healthy, and packed with fresh fruit flavor. Save this recipe and try it for a nutritious breakfast boost. #healthybreakfast #smoothielove #proteinpower 🥤🍓✨"
+        },
+        {
+            "title": "Fresh Berry Smoothie with Vanilla Protein – Perfect Snack Idea!",
+            "description": "Need a tasty pick-me-up? This berry vanilla protein smoothie is creamy and naturally sweet thanks to ripe berries. Whip it up in minutes and enjoy anytime. Discover this easy recipe now! #snackideas #fruitlover #quickrecipes 🍓💪🥄"
+        },
+        {
+            "title": "Quick & Creamy Vanilla Berry Protein Smoothie Recipe You’ll Love",
+            "description": "Craving something fresh and nourishing? Try this berry vanilla protein smoothie that blends creamy goodness with juicy berries. It’s a refreshing treat you can make anytime. Save it for later! #smoothierecipes #proteinboost #healthychoices 🍓🥛🌞"
+        },
+        {
+            "title": "Boost Your Day with This Easy Berry Vanilla Protein Smoothie",
+            "description": "Looking for a simple, delicious way to fuel your day? This berry vanilla protein smoothie combines fresh fruit and creamy protein for a perfect balance. Try it today and feel energized! #healthysnacks #berrysmoothie #proteinshake 🥤🍓💥"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup fresh mixed berries (strawberries, blueberries, raspberries), washed",
+        "1 scoop vanilla protein powder",
+        "1 cup unsweetened almond milk",
+        "1/2 cup plain Greek yogurt",
+        "1 tablespoon honey or maple syrup (optional)",
+        "1/2 teaspoon vanilla extract",
+        "Ice cubes (optional, for thickness)"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first started making this berry vanilla protein smoothie when I needed a quick breakfast that didn’t feel like a chore. Most protein shakes can be a bit bland or chalky, but adding fresh berries and a splash of vanilla changed the game for me. The trick I learned is to use ripe, seasonal berries—they bring natural sweetness and vibrant color without any artificial flavors. Plus, the Greek yogurt adds a creamy texture that makes the smoothie feel indulgent but still healthy. I’ve tried a bunch of variations, but this combo hits the perfect balance of fruity, creamy, and satisfying. It’s great for busy mornings or as a refreshing afternoon pick-me-up. The finished smoothie is smooth, naturally sweet, and just thick enough to sip slowly while you get ready for the day. Honestly, it’s become my go-to, and I think you’ll love it too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your fresh berries thoroughly under cold water to remove any dirt or residue. Using ripe, in-season berries is key because they add natural sweetness and vibrant flavor without needing extra sugar. If your berries are frozen, there's no need to thaw them first as this will help give your smoothie a nice chill and thicker texture. Avoid over-washing as berries are delicate and can become mushy if handled too roughly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Berries are clean and still firm, no mushy spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the cleaned berries, vanilla protein powder, Greek yogurt, almond milk, and vanilla extract into your blender. If you want a sweeter smoothie, add the honey or maple syrup now. Blending these ingredients together ensures the protein powder mixes well and the yogurt adds creaminess. Blending also breaks down the berries releasing their natural juices, which enhances the smoothie’s flavor.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Smooth, creamy mixture with no lumps or chunks"
+        },
+        {
+            "step": 3,
+            "instruction": "If you like your smoothie thicker or colder, add a handful of ice cubes and blend again until smooth. The ice will chill the smoothie and give it a refreshing texture. Be careful not to add too much ice at once as it can water down the flavor. Blend just enough to reach your preferred consistency.",
+            "timing": "30 seconds",
+            "doneness_cue": "Smoothie thickened to desired texture, cold to the touch"
+        },
+        {
+            "step": 4,
+            "instruction": "Taste your smoothie and adjust sweetness if needed by adding a little more honey or maple syrup. Sometimes berries can be tart depending on the season, so this step lets you customize it to your liking. Blend briefly after adding any extra sweetener to combine.",
+            "timing": "30 seconds",
+            "doneness_cue": "Balanced sweetness with fresh berry flavor"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the smoothie into glasses and serve immediately. Fresh smoothies are best enjoyed right away to preserve their vibrant flavors and creamy texture. If you let it sit too long, it may separate or lose some of its freshness.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie poured cleanly, no separation"
+        },
+        {
+            "step": 6,
+            "instruction": "For a fun twist, garnish with a few whole berries or a sprinkle of chia seeds on top. This adds texture and a pretty presentation if serving guests or packing your smoothie for later. Plus, chia seeds boost fiber and omega-3s.",
+            "timing": "30 seconds",
+            "doneness_cue": "Visually appealing garnish without sinking"
+        },
+        {
+            "step": 7,
+            "instruction": "If making ahead, store your smoothie in an airtight container in the fridge for up to 24 hours. Give it a quick stir or shake before drinking to recombine any separation. Avoid freezing smoothies with yogurt as texture can change.",
+            "timing": "N/A",
+            "doneness_cue": "Smoothie maintains flavor and texture after refrigerating"
+        },
+        {
+            "step": 8,
+            "instruction": "Want to boost protein even more? Add a tablespoon of nut butter or a spoonful of oats before blending. These ingredients add heft and keep you full longer. Just blend a little longer to fully incorporate them.",
+            "timing": "1 minute extra blending",
+            "doneness_cue": "Smoothie is creamy and well mixed with no gritty bits"
+        },
+        {
+            "step": 9,
+            "instruction": "Experiment with different berry combos like blackberries or cherries for unique flavors. Just keep the total berry volume the same to maintain smoothie balance. Each berry adds its own antioxidants and color, making this recipe versatile and fun.",
+            "timing": "N/A",
+            "doneness_cue": "Smoothie flavor changes but texture remains creamy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Smoothie’s Creamy, Flavorful Success",
+        "content": "<p>The key to this berry vanilla protein smoothie’s success lies in the balance of creamy and fruity elements. Greek yogurt and protein powder provide a creamy, thick base that holds the smoothie together, while fresh berries bring natural sweetness and vibrant antioxidants. The protein powder emulsifies with the yogurt and milk, creating a smooth texture without grittiness. Adding vanilla extract enhances the natural sweetness perception, making the smoothie taste indulgent without extra sugar.</p><p>Using ripe, seasonal berries is crucial because their natural sugars and acidity brighten the smoothie’s flavor. The berries’ cell walls break down during blending, releasing juice and color, which infuses the whole drink. This process also distributes antioxidants evenly, maximizing nutritional benefits. The choice of almond milk keeps it light and dairy-free while blending smoothly with other ingredients.</p><p>Ice cubes or frozen berries help chill and thicken the smoothie, improving mouthfeel. Blending just enough to break down the ice without melting it preserves a refreshing texture. The honey or maple syrup is optional but can be added to balance tartness if berries are underripe. This recipe’s simplicity relies on ingredient quality and blending technique to deliver a naturally delicious, protein-rich smoothie that’s perfect any time of day.</p>",
+        "ingredient_notes": {
+            "Vanilla Protein Powder": "Choose a high-quality vanilla protein powder with a smooth texture and natural flavor. Whey protein powders blend well for creaminess, but plant-based options like pea or rice protein work too. Avoid powders with artificial sweeteners or fillers, as they can affect taste and texture. The vanilla flavor enhances sweetness and pairs beautifully with berries, making the smoothie taste more indulgent.",
+            "Fresh Mixed Berries": "Use fresh, ripe berries in season for the best flavor and natural sweetness. Strawberries, blueberries, and raspberries each add unique flavors and vibrant color. If fresh berries aren’t available, frozen berries can be used and add thickness and chill. Avoid berries that are overly soft or moldy, as they can spoil the smoothie’s texture and taste.",
+            "Greek Yogurt": "Opt for plain, full-fat or low-fat Greek yogurt, which adds creaminess and protein. Greek yogurt’s thicker texture helps the smoothie feel indulgent and satisfying. It also adds beneficial probiotics. Avoid flavored yogurts that contain added sugars which can overpower the natural berry sweetness.",
+            "Almond Milk": "Unsweetened almond milk is a light, dairy-free choice that blends smoothly without overpowering flavors. It keeps the smoothie lower in calories and adds a subtle nuttiness. You can substitute with other plant milks or dairy milk depending on preference, but avoid thick or sweetened varieties that alter texture or sweetness balance.",
+            "Honey or Maple Syrup": "These natural sweeteners are optional and help balance tart berries if needed. Use a small amount to avoid making the smoothie overly sweet. Honey adds a floral note, while maple syrup contributes a rich, caramel-like flavor. Both dissolve easily when blended and complement the vanilla and berry flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe, in-season berries for the best natural sweetness and flavor.",
+            "reason": "Ripe berries contain higher sugar content and more vibrant flavor compounds. Using fresh berries instead of frozen or underripe ones ensures your smoothie tastes naturally sweet without needing extra sugar. It also enhances the color and antioxidant levels."
+        },
+        {
+            "tip": "Add Greek yogurt for creaminess and protein boost.",
+            "reason": "Greek yogurt has a thick texture and high protein content that contribute to a satisfying smoothie. It creates a rich mouthfeel and balances the tartness of berries with a slight tang. Skipping yogurt can result in a thinner, less creamy drink."
+        },
+        {
+            "tip": "Blend ice cubes last to control thickness and chill without watering down.",
+            "reason": "Adding ice cubes after blending the main ingredients prevents over-dilution. Blending ice just enough to break it down chills the smoothie and thickens it without melting too much and watering down flavor. This keeps the smoothie refreshing and flavorful."
+        },
+        {
+            "tip": "Taste and adjust sweetness after blending to avoid over-sweetening.",
+            "reason": "Berry sweetness can vary by season and freshness. Tasting after blending lets you add just enough honey or maple syrup to balance tartness. Adding sweetener before blending can make it harder to judge the right amount, leading to an overly sweet smoothie."
+        },
+        {
+            "tip": "Use a high-powered blender to fully break down berries and protein powder.",
+            "reason": "A strong blender ensures smooth texture by breaking down berry skins and mixing protein powder evenly. Low-powered blenders may leave gritty bits or chunks, affecting mouthfeel. A smooth blend improves flavor integration and drinking experience."
+        },
+        {
+            "tip": "Store leftover smoothie in an airtight container in the fridge and shake before drinking.",
+            "reason": "Smoothies can separate when stored due to different ingredient densities. Keeping it airtight slows oxidation and flavor loss. Shaking or stirring before drinking recombines ingredients and restores texture, making it taste fresh even after a day."
+        },
+        {
+            "tip": "Experiment with adding a tablespoon of nut butter or oats for extra nutrition and creaminess.",
+            "reason": "Nut butters add healthy fats and protein, while oats add fiber and thickness. These additions make the smoothie more filling and nutritious, turning it into a meal replacement. Blending longer ensures smooth integration without gritty texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or frozen berries without adjusting sweetness",
+            "why_it_happens": "People often assume all berries taste the same and skip tasting before sweetening. Underripe or frozen berries can be tart or bland, making the smoothie less enjoyable.",
+            "fix": "Always taste your smoothie after blending berries and protein powder. Add a small amount of honey or maple syrup gradually to balance tartness without over-sweetening. This step ensures the flavor is just right."
+        },
+        {
+            "mistake": "Skipping Greek yogurt or using flavored yogurt",
+            "why_it_happens": "Some try to reduce calories or avoid dairy by skipping yogurt, or use flavored versions for convenience.",
+            "fix": "Use plain Greek yogurt to maintain creaminess and protein content. Flavored yogurts add unwanted sugars and artificial flavors, altering the smoothie’s taste and nutritional profile."
+        },
+        {
+            "mistake": "Adding too much ice at once",
+            "why_it_happens": "People want their smoothie very cold and thick, so they overload ice cubes.",
+            "fix": "Add ice gradually and blend in short bursts to avoid watering down. This keeps the smoothie refreshing and flavorful without thinning the taste."
+        },
+        {
+            "mistake": "Not blending long enough for smooth texture",
+            "why_it_happens": "Rushing the blending process or using a weak blender leaves chunks of berries or protein powder grit.",
+            "fix": "Blend for at least 1-2 minutes on high speed until smooth. A powerful blender helps break down all ingredients for a creamy, uniform texture."
+        },
+        {
+            "mistake": "Storing smoothie too long before drinking",
+            "why_it_happens": "People often make smoothies ahead and forget to drink them promptly, leading to separation and flavor loss.",
+            "fix": "Consume smoothies within 24 hours when stored properly in airtight containers. Shake well before drinking to restore texture and freshness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Berry Vanilla Smoothie",
+            "description": "Swap half the berries for frozen mango or pineapple chunks for a tropical twist. The sweetness from tropical fruits pairs beautifully with vanilla protein and yogurt, giving a bright, sunny flavor. Expect a slightly thicker texture from frozen fruit.",
+            "technical_note": "Frozen tropical fruit adds chill and thickness; blend a bit longer to ensure smooth texture."
+        },
+        {
+            "name": "Green Berry Protein Smoothie",
+            "description": "Add a handful of fresh spinach or kale to pack in greens without overpowering the berry flavor. This boosts nutrients and fiber while keeping the smoothie creamy and delicious. Use mild-tasting greens for best results.",
+            "technical_note": "Blend greens first with liquids for a smoother blend, then add berries and protein."
+        },
+        {
+            "name": "Peanut Butter Berry Vanilla Smoothie",
+            "description": "Stir in a tablespoon of peanut butter for a nutty flavor and extra protein. This variation is richer and more filling, perfect for post-workout recovery or a meal replacement.",
+            "technical_note": "Add peanut butter before blending and blend thoroughly to avoid gritty texture."
+        },
+        {
+            "name": "Dairy-Free Berry Vanilla Smoothie",
+            "description": "Replace Greek yogurt with coconut yogurt or silken tofu for a dairy-free option. This keeps the smoothie creamy while catering to lactose intolerance or vegan diets. Flavor will be slightly different but still delicious.",
+            "technical_note": "Use thick coconut yogurt or tofu for best creamy texture; blend well."
+        },
+        {
+            "name": "Berry Chia Vanilla Smoothie",
+            "description": "Add a tablespoon of chia seeds for extra fiber, omega-3s, and texture. Let the smoothie sit for 5 minutes after blending to allow chia seeds to swell, creating a pudding-like consistency.",
+            "technical_note": "Chia seeds thicken smoothie over time; adjust liquid if needed for preferred thickness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "250 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "5g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Smoothies should not be left at room temperature for more than 1-2 hours as they can spoil quickly due to dairy and fruit content. Keep covered to avoid contamination.",
+        "refrigerator": "Store in airtight containers for up to 24 hours. The smoothie may separate; simply shake or stir before drinking. Flavor remains fresh but texture can thicken slightly.",
+        "freezer": "Freezing is not recommended due to yogurt texture changes. If frozen, thaw overnight in fridge and blend again to restore smoothness.",
+        "reheating": "Do not reheat smoothies. Serve cold or at room temperature for best flavor and texture.",
+        "make_ahead_strategy": "You can prepare smoothie ingredients in advance by washing and portioning berries and measuring powders/yogurt. Store separately and blend fresh just before serving to preserve flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Yes! Frozen berries work great and add chill and thickness to your smoothie. You don’t need to thaw them first; just blend them directly. Keep in mind frozen berries might make the smoothie thicker and colder, so adjust almond milk quantity if needed."
+        },
+        {
+            "question": "What if I don’t have Greek yogurt?",
+            "answer": "You can substitute with regular yogurt, silken tofu, or coconut yogurt for a dairy-free option. The texture might be less thick or creamy, but the smoothie will still taste delicious. Just pick plain, unsweetened versions to avoid extra sugar."
+        },
+        {
+            "question": "Can I use other types of protein powder?",
+            "answer": "Absolutely! Whey, pea, rice, or soy protein powders all work fine. Just choose a vanilla or unflavored variety for best taste. Some plant proteins can be grittier, so blend a bit longer for smoothness."
+        },
+        {
+            "question": "How can I make this smoothie sweeter without honey?",
+            "answer": "Try adding a ripe banana or a splash of natural fruit juice like apple or orange. These add natural sugars and sweetness without refined sugars. You can also increase the amount of ripe berries."
+        },
+        {
+            "question": "Is this smoothie suitable for weight loss?",
+            "answer": "Yes, it’s a balanced, protein-rich smoothie with natural sugars and fiber that can keep you full. Portion control is key, and using unsweetened almond milk and moderate sweetener helps keep calories reasonable."
+        },
+        {
+            "question": "How do I prevent the smoothie from separating when stored?",
+            "answer": "Separation is natural due to different ingredient densities. Store in airtight containers and shake or stir well before drinking. Consuming within 24 hours maintains best texture and flavor."
+        },
+        {
+            "question": "Can I add veggies to this smoothie?",
+            "answer": "Definitely! Mild greens like spinach or kale blend well without overpowering the berry flavor. Add a handful and blend thoroughly for extra nutrients and fiber."
+        },
+        {
+            "question": "What blender do you recommend for smoothies?",
+            "answer": "I recommend a high-powered blender like a Vitamix or Ninja. They break down berries, protein powder, and ice efficiently for a creamy, smooth texture. Lower-powered blenders may leave gritty bits."
+        }
+    ],
+    "conclusion": "Give this berry vanilla protein smoothie a try—you’ll love how fresh and creamy it tastes! Don’t forget to share your smoothie creations with me!",
+    "seo": {
+        "primary_keyword": "berry vanilla protein smoothie",
+        "secondary_keywords": [
+            "healthy protein smoothie",
+            "easy berry smoothie",
+            "how to make protein smoothie",
+            "best vanilla protein smoothie recipe",
+            "quick berry smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade protein powder tips",
+                "anchor": "homemade-protein-powder-tips"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_1.png",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_1.png",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_2.png",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_2.png",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_3.png",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_3.png",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images/creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1780873798_201",
+    "slug": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost",
+    "isOnline": true,
+    "createdAt": "2026-06-08T00:24:48+01:00",
+    "updatedAt": "2026-06-08T00:24:48+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "creamy-vanilla-protein-smoothies-with-seasonal-berries-for-a-fresh-boost/images"
+}
