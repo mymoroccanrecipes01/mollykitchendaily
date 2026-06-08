@@ -1,0 +1,338 @@
+{
+    "title": "Light and Fresh No-Bake Strawberry Blueberry Cheesecake",
+    "promptIMG": "Food photography: No-Bake Strawberry Blueberry Cheesecake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-bake cheesecake is perfect when you want a light, fresh dessert without the fuss of baking. The creamy filling is velvety smooth, and the burst of fresh strawberries and blueberries adds a sweet, summery touch. Chill and enjoy on warm days!",
+    "hashtags": "#nobakecheesecake #freshdessert #berrycheesecake",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "No-Bake Berry Cheesecake That’s Perfect for Summer!",
+            "description": "Craving a fresh dessert? This no-bake cheesecake with strawberries and blueberries is creamy, light, and so easy to make. Save this recipe for your next get-together! 🍓🫐 #nobakedessert #summerrecipes #easycheesecake"
+        },
+        {
+            "title": "Quick No-Bake Cheesecake with Fresh Berries - So Creamy!",
+            "description": "You don't need an oven for this deliciously creamy cheesecake topped with juicy strawberries and blueberries. Try it today for a refreshing treat that’s ready in no time! 🍰✨ #quickdessert #berrycheesecake #nobake"
+        },
+        {
+            "title": "Light & Refreshing No-Bake Cheesecake with Strawberries and Blueberries",
+            "description": "Looking for a light dessert? This no-bake cheesecake is silky smooth with a burst of fresh berries on top. Perfect chilled for any occasion. Discover the recipe now! 🫐🍓 #freshdessert #nobakecheesecake #berrydessert"
+        },
+        {
+            "title": "Easy No-Bake Cheesecake Loaded with Fresh Strawberries and Blueberries",
+            "description": "This cheesecake is a breeze to make, no oven needed! The fresh strawberries and blueberries make it taste like spring in every bite. Save this for your next dessert craving! 🍓💙 #easycheesecake #nobakedessert #freshberries"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups graham cracker crumbs",
+        "1/3 cup unsalted butter, melted",
+        "16 oz cream cheese, softened",
+        "1 cup powdered sugar",
+        "1 tsp vanilla extract",
+        "1 cup heavy cream, cold",
+        "1 cup fresh strawberries, sliced",
+        "1 cup fresh blueberries"
+    ],
+    "yield": "8 servings",
+    "introduction": "I first made this no-bake strawberry blueberry cheesecake on a warm spring afternoon when I wanted something sweet but light—something that didn’t heat up the kitchen or take hours to prepare. What I love about this version is how simple it is: no oven, no complicated steps, just a creamy filling that sets beautifully in the fridge. The graham cracker crust holds everything together with a buttery crunch, while the fresh berries on top add a juicy burst that makes every bite feel fresh and summery. I used cold heavy cream whipped to soft peaks, which gives the filling a lovely lightness without losing richness. One trick I learned is to beat the cream cheese until it’s completely smooth before folding in the whipped cream; it keeps the texture velvety and prevents lumps. The finished cheesecake is silky, just sweet enough, and perfect chilled — a refreshing dessert that’s ideal for spring and summer gatherings. Honestly, I’ve tried similar no-bake recipes before, but this one nails the balance of creaminess and fresh fruit every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the crust. Combine the graham cracker crumbs with the melted butter in a medium bowl. Stir until the crumbs are evenly coated and resemble wet sand. This step is important because the butter binds the crumbs together, creating a firm base that holds the cheesecake filling. Press the mixture firmly into the bottom of a 9-inch springform pan or pie dish. Use the back of a spoon or a flat-bottomed glass to press down evenly, ensuring the crust is compact. Avoid skipping this step or pressing lightly, as a loose crust won’t hold up when serving.",
+            "timing": "10 minutes",
+            "doneness_cue": "Crust is evenly packed and slightly shiny from the butter, with no loose crumbs on the surface"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, beat the softened cream cheese until smooth and creamy using a hand mixer or stand mixer. This is key to avoid lumps in your filling and ensure a silky texture. Add the powdered sugar and vanilla extract, mixing until fully incorporated. Take your time here — rushing can leave pockets of sugar or uneven texture. The mixture should be thick but smooth, almost like a thick frosting. If your cream cheese isn’t softened enough, the mixture will be lumpy, so make sure it’s at room temperature.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is smooth, creamy, and free of lumps, with a slightly glossy appearance"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate chilled bowl, whip the cold heavy cream to soft peaks. This means when you lift the whisk, the cream holds a gentle peak that softly folds over. Whipping the cream to this stage is crucial — underwhipped cream won’t add enough volume, and overwhipped cream can turn grainy and start to separate. Using cold cream and a cold bowl helps it whip faster and hold its structure better.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Whipped cream is light, airy, and holds soft peaks without being stiff"
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture using a spatula. Use a light hand and fold from the bottom up to keep as much air in the mixture as possible. This folding technique is vital to retain the fluffy texture of the filling. If you stir vigorously, the mixture will deflate and become dense. The final filling should look light and smooth with no streaks of cream or cream cheese.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Filling is uniformly light, smooth, and airy without lumps or streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the filling over the prepared crust and spread evenly with a spatula. Smooth the surface to create an even top, which will help the berries sit nicely later. Once filled, cover the cheesecake with plastic wrap, pressing the wrap lightly onto the surface to prevent a skin from forming. This chilling step is essential—it allows the filling to set and thicken without baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling is spread evenly and covered tightly with plastic wrap to avoid drying out"
+        },
+        {
+            "step": 6,
+            "instruction": "Chill the cheesecake in the refrigerator for at least 4 hours, preferably overnight. This resting time lets the filling firm up so it slices cleanly and holds its shape. Rushing this step will result in a runny filling that won’t set properly. If you’re short on time, a minimum of 4 hours is necessary, but overnight is best for full flavor and texture development.",
+            "timing": "4 hours minimum",
+            "doneness_cue": "Filling is firm to the touch and holds its shape when sliced"
+        },
+        {
+            "step": 7,
+            "instruction": "Just before serving, wash and slice the strawberries and rinse the blueberries. Arrange them attractively on top of the cheesecake. The fresh berries add a bright, juicy contrast to the creamy filling and make the dessert look inviting. You can also add a light dusting of powdered sugar or a drizzle of honey if you like a touch more sweetness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Berries are fresh, vibrant, and neatly arranged on top"
+        },
+        {
+            "step": 8,
+            "instruction": "To serve, run a knife around the edge of the pan to loosen the cheesecake, then remove the springform ring if using. Slice with a sharp knife dipped in hot water between cuts for clean slices. This prevents the filling from sticking and tearing, giving you neat, beautiful pieces. Serve chilled for the best texture and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, smooth slices with intact crust and filling"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container in the fridge. The cheesecake will keep well for up to 3 days, but the crust may soften slightly over time. If you want to refresh the crust’s crunch, briefly toast graham cracker crumbs and sprinkle on top before serving again.",
+            "timing": "N/A",
+            "doneness_cue": "Cheesecake remains firm and fresh when stored properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Bake Cheesecake Sets Perfectly",
+        "content": "<p>This no-bake cheesecake relies on the balance between cream cheese, powdered sugar, and whipped heavy cream to achieve a texture that’s light yet rich. Cream cheese provides the tang and body, but without baking, it needs help from whipped cream to create volume and softness. The whipped cream is gently folded in to incorporate air, which prevents the filling from becoming dense and heavy.</p><p>The graham cracker crust is key for structure. The melted butter acts as a binder, solidifying the crumbs into a firm base that holds the filling. If the butter is too cold or not mixed well, the crust can crumble or fall apart when sliced.</p><p>Chilling the cheesecake for several hours is essential because it allows the fats to firm up and the filling to set without heat. The cold temperature also helps the flavors meld, making the berries and cream cheese taste more harmonious. Lastly, topping the cheesecake with fresh berries adds a burst of freshness and natural sweetness, complementing the creamy filling and adding appealing texture contrast.</p><p>Whipping the cream to the right stage — soft peaks — and folding it carefully into the cream cheese mixture preserves the lightness that defines this dessert. Overmixing or under-whipping can ruin the texture, so these steps require a gentle touch and some patience.</p>",
+        "ingredient_notes": {
+            "cream cheese": "Choose full-fat cream cheese for the best texture and flavor. It should be softened to room temperature before mixing to avoid lumps and ensure a smooth filling. Low-fat or whipped cream cheese varieties don’t set as well and can make the cheesecake runny. Avoid using cold cream cheese straight from the fridge because it won’t blend evenly.",
+            "powdered sugar": "Powdered sugar dissolves easily into the cream cheese, providing sweetness without graininess. It also helps stabilize the filling slightly. Using granulated sugar can cause a gritty texture, so powdered sugar is preferred for smoothness.",
+            "heavy cream": "Cold heavy cream whips best when chilled, creating stable peaks that add air and lightness to the filling. Avoid using whipping cream with lower fat content because it won’t hold peaks as well and can lead to a runnier filling.",
+            "graham cracker crumbs": "Use finely crushed graham crackers for a uniform crust texture. The crumbs should be combined thoroughly with melted butter to bind properly. Using larger chunks or stale crackers can result in a crumbly or uneven crust.",
+            "butter": "Unsalted butter is best so you can control the saltiness of the crust. Melted butter coats the crumbs evenly, helping them stick together and form a firm base. If the butter is too hot, it can start cooking the crumbs unevenly, so let it cool slightly before mixing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure the cream cheese is fully softened before mixing.",
+            "reason": "Softened cream cheese blends smoothly with powdered sugar and vanilla, preventing lumps in the filling. Cold cream cheese resists mixing and can create a chunky texture, ruining the cheesecake’s creamy mouthfeel."
+        },
+        {
+            "tip": "Use cold heavy cream and a chilled bowl for whipping.",
+            "reason": "Cold cream whips faster and holds peaks better because fat globules stay solid longer. Warm cream won’t whip well and may become soupy, which affects the filling’s volume and texture."
+        },
+        {
+            "tip": "Fold whipped cream gently into the cream cheese mixture.",
+            "reason": "Folding preserves the air whipped into the cream, keeping the filling light and fluffy. Stirring or beating aggressively deflates the mixture, resulting in a dense, heavy cheesecake."
+        },
+        {
+            "tip": "Press the crust firmly but don’t overpack it.",
+            "reason": "A well-packed crust holds the filling and slices cleanly. Overpacking can make it too hard and dense, while underpacking causes it to crumble and fall apart."
+        },
+        {
+            "tip": "Chill the cheesecake for at least 4 hours, preferably overnight.",
+            "reason": "This resting time allows the fats to firm up and the filling to set properly. Cutting into the cheesecake too soon will cause it to be runny and not hold its shape."
+        },
+        {
+            "tip": "Use a hot knife dipped in warm water to slice the cheesecake.",
+            "reason": "Wiping the knife between cuts prevents sticking and creates clean, smooth slices. Without this, the filling can tear or stick to the blade, making messy portions."
+        },
+        {
+            "tip": "Arrange berries just before serving to keep them fresh.",
+            "reason": "Adding berries too early can cause them to release moisture and make the topping soggy. Fresh berries on top maintain their shape, flavor, and visual appeal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold cream cheese straight from the fridge.",
+            "why_it_happens": "Many assume cream cheese can be mixed cold, but it’s firmer and harder to blend smoothly when cold, leading to lumps.",
+            "fix": "Let cream cheese sit at room temperature for at least 30 minutes before mixing. Test softness by pressing with a finger—it should yield easily."
+        },
+        {
+            "mistake": "Overwhipping the heavy cream.",
+            "why_it_happens": "It’s easy to whip past soft peaks into stiff peaks or butter, especially if not watching closely.",
+            "fix": "Stop whipping as soon as soft peaks form. The cream should hold shape but still be smooth and glossy, not grainy or dry."
+        },
+        {
+            "mistake": "Mixing whipped cream too vigorously into the filling.",
+            "why_it_happens": "Rushing the folding step or using a mixer can deflate the air whipped into the cream, making the filling dense.",
+            "fix": "Use a spatula and fold gently with a lifting motion from the bottom. Take your time to keep the mixture airy."
+        },
+        {
+            "mistake": "Skipping chilling time or cutting too early.",
+            "why_it_happens": "Impatience or tight schedules can lead to serving the cheesecake before it sets.",
+            "fix": "Plan ahead to chill for at least 4 hours. If short on time, chill in the freezer for 1-2 hours but watch carefully to avoid freezing solid."
+        },
+        {
+            "mistake": "Not pressing the crust firmly enough.",
+            "why_it_happens": "Sometimes the crust is just sprinkled in without firm packing, causing it to crumble.",
+            "fix": "Use a flat-bottomed glass or spoon to press the crust firmly and evenly. This helps it hold together when sliced."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Blueberry No-Bake Cheesecake",
+            "description": "Add 2 tablespoons of fresh lemon juice and 1 teaspoon lemon zest to the cream cheese mixture for a bright citrus twist. Top with blueberries only for a refreshing flavor shift that’s tart and sweet. The lemon adds a zing that balances the richness beautifully.",
+            "technical_note": "The acidity from lemon juice slightly firms the filling, so watch the chilling time to avoid over-setting."
+        },
+        {
+            "name": "Chocolate Swirl No-Bake Cheesecake",
+            "description": "Gently fold in 1/4 cup melted dark chocolate into half of the cream cheese filling and layer it with plain filling in the pan. This adds a rich chocolate flavor and visual interest. Top with fresh berries as usual for a decadent treat.",
+            "technical_note": "Ensure melted chocolate is cooled before folding to avoid melting the whipped cream."
+        },
+        {
+            "name": "Tropical No-Bake Cheesecake",
+            "description": "Swap berries for diced mango, pineapple, and kiwi for a tropical vibe. Add a teaspoon of coconut extract to the filling and sprinkle toasted shredded coconut on top. This variation is bright, exotic, and perfect for summer parties.",
+            "technical_note": "Use firm tropical fruits to prevent excess moisture from making the cheesecake watery."
+        },
+        {
+            "name": "Salted Caramel No-Bake Cheesecake",
+            "description": "Drizzle salted caramel sauce over the top before chilling and again before serving. The caramel adds a rich, buttery contrast to the tangy filling. For extra texture, sprinkle chopped toasted pecans on top.",
+            "technical_note": "Use a good quality caramel sauce and avoid over-drizzling to prevent sogginess."
+        },
+        {
+            "name": "Vegan No-Bake Berry Cheesecake",
+            "description": "Replace cream cheese with vegan cream cheese and heavy cream with coconut cream. Use maple syrup instead of powdered sugar. The result is a dairy-free, creamy dessert that’s just as delicious and perfect for plant-based diets.",
+            "technical_note": "Chill coconut cream overnight and whip only the solid part for best results."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "26g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cheesecake should not be left out at room temperature for more than 2 hours as it contains dairy. Cover loosely with plastic wrap if left briefly.",
+        "refrigerator": "Store in an airtight container or keep covered in the springform pan for up to 3 days. The texture remains creamy, but the crust may soften slightly. Serve cold for best taste.",
+        "freezer": "Freeze cheesecake wrapped tightly in plastic wrap and aluminum foil for up to 1 month. Thaw overnight in the refrigerator before serving. Freezing may slightly change the texture, making it a bit denser.",
+        "reheating": "No reheating needed—best served chilled. If the cheesecake feels too firm after refrigeration, let it sit at room temperature for 10-15 minutes before serving.",
+        "make_ahead_strategy": "Prepare the crust and filling a day ahead, assemble, and chill overnight. Add fresh berries just before serving to keep them vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use low-fat cream cheese for this recipe?",
+            "answer": "Low-fat cream cheese can be used, but the texture of the cheesecake will be less creamy and may not set as firmly. Full-fat cream cheese provides the richness and body that make this dessert so smooth and satisfying."
+        },
+        {
+            "question": "What can I substitute for graham cracker crumbs?",
+            "answer": "Digestive biscuits or crushed vanilla wafers work well as substitutes. Just make sure to crush them finely and mix thoroughly with melted butter to form a solid crust."
+        },
+        {
+            "question": "How do I prevent the cheesecake from becoming runny?",
+            "answer": "Ensure the cream cheese is well softened and whipped smooth, and fold in properly whipped cream. Also, chilling the cheesecake for at least 4 hours is crucial for it to set. Skipping or shortening the chill time can cause runniness."
+        },
+        {
+            "question": "Can I make this cheesecake without a springform pan?",
+            "answer": "Yes, you can use a regular pie dish or tart pan, but slicing may be less neat. For easier removal, line the dish with parchment paper or plastic wrap to lift the cheesecake out."
+        },
+        {
+            "question": "How long can I store leftovers in the fridge?",
+            "answer": "Store leftovers in an airtight container in the refrigerator for up to 3 days. After that, the crust may become soggy and the filling texture might change."
+        },
+        {
+            "question": "Is it possible to add gelatin to make it firmer?",
+            "answer": "Yes, adding gelatin can help the filling set more firmly, especially in warmer climates. Dissolve 1 teaspoon of gelatin in water and mix it into the cream cheese before folding in the whipped cream."
+        },
+        {
+            "question": "Can I use frozen berries on top?",
+            "answer": "Frozen berries tend to release extra moisture and can make the cheesecake soggy. If using frozen, thaw and drain them thoroughly before topping to avoid excess liquid."
+        },
+        {
+            "question": "Why is my filling grainy after mixing?",
+            "answer": "Graininess often happens if the cream cheese was too cold or not whipped enough before adding sugar and cream. Make sure to soften cream cheese fully and beat it until smooth before folding in other ingredients."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this fresh no-bake strawberry blueberry cheesecake as much as I do. Don’t forget to let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "no bake strawberry blueberry cheesecake",
+        "secondary_keywords": [
+            "easy no bake cheesecake",
+            "berry no bake dessert",
+            "how to make no bake cheesecake",
+            "best no bake cheesecake recipe",
+            "quick no bake cheesecake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic baked cheesecake recipe",
+                "anchor": "classic-baked-cheesecake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_1.png",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_1.png",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_2.png",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_2.png",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_3.png",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_3.png",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images/no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1780959820_310",
+    "slug": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat",
+    "isOnline": true,
+    "createdAt": "2026-06-09T00:33:35+01:00",
+    "updatedAt": "2026-06-09T00:33:35+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "no-bake-spring-berry-cheesecake-with-fresh-strawberries-and-blueberries-light-refreshing-treat/images"
+}
