@@ -1,0 +1,341 @@
+{
+    "title": "Creamy Lemon Garlic Chicken Alfredo with Asparagus Crunch",
+    "promptIMG": "Food photography: Creamy Lemon Garlic Chicken Alfredo, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon garlic chicken Alfredo is rich and creamy but gets a fresh zing from lemon and a satisfying crunch from asparagus. It's my go-to cozy dinner when I want comfort with a little brightness.",
+    "hashtags": "#chickenalfredo #comfortfood #easyweeknightdinner",
+    "board_name": "Easy Chicken Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Up Dinner with This Creamy Lemon Garlic Chicken Alfredo",
+            "description": "Looking for a comforting yet fresh pasta dish? This creamy lemon garlic chicken Alfredo with asparagus is packed with flavor and easy to make. Save this recipe for your next cozy night in! 🍋🍝 #chickenalfredo #comfortfood #easymeals #pastarecipe"
+        },
+        {
+            "title": "The Ultimate Creamy Chicken Alfredo with a Lemon Twist",
+            "description": "Creamy, garlicky, and bursting with lemon freshness—this chicken Alfredo is a family favorite. The asparagus adds a perfect crunch. Try it today and impress everyone at the dinner table! 🧄🍋 #weeknightdinner #chickenrecipes #pasta #comfortfood"
+        },
+        {
+            "title": "Easy Lemon Garlic Chicken Alfredo That Feels Fancy But Isn’t",
+            "description": "Want an easy dinner that feels special? This lemon garlic chicken Alfredo is creamy, bright, and ready in about 45 minutes. Perfect for when you want something delicious without fuss. Discover now and enjoy! 🍽️✨ #easyrecipes #chickenalfredo #dinnerideas #comfortfood"
+        },
+        {
+            "title": "Cozy Up with This Creamy Lemon Garlic Chicken Alfredo Tonight",
+            "description": "This creamy chicken Alfredo with a lemon kick and fresh asparagus is the perfect cozy meal. It’s simple, flavorful, and sure to become a regular. Save it and make it soon! 💛🍝 #comfortfood #chickenpasta #easyweeknightmeals #lemonchicken"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces fettuccine pasta, uncooked",
+        "1 pound boneless skinless chicken breasts, sliced thin",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 bunch asparagus, trimmed and cut into 2-inch pieces",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Zest and juice of 1 lemon",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tablespoons unsalted butter",
+        "Fresh parsley, chopped (optional, for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this lemon garlic chicken Alfredo one chilly evening when I wanted something comforting but not too heavy. I’d made classic Alfredo plenty of times, but adding lemon zest and juice really lifted the whole dish, making it feel fresh and vibrant rather than overly rich. Plus, tossing in asparagus gave it a nice crunch and a pop of green that made it feel a bit healthier. The trick I learned was to cook the asparagus just until crisp-tender so it keeps that fresh snap and bright color. Also, gently simmering the cream and Parmesan together creates a silky sauce that clings perfectly to the pasta and chicken. The finished dish is creamy and luscious with bright lemon notes cutting through the richness. It looks beautiful on the plate, too, with the green asparagus and lemon zest adding pops of color. It’s become one of my favorite easy dinners to make when I want something that feels a little special but still comes together quickly. I hope you love it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil and cook the fettuccine according to package directions until al dente, usually about 10-12 minutes. Cooking pasta al dente is important because it will continue to cook slightly when mixed with the sauce, and you want it to retain some bite rather than becoming mushy. Drain the pasta, reserving about 1/2 cup of pasta water in case you need to loosen the sauce later. Avoid rinsing the pasta to preserve the starches that help the sauce cling better.",
+            "timing": "12 minutes",
+            "doneness_cue": "Pasta is tender but still slightly firm to the bite, not mushy or overly soft."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium-high heat. Add the sliced chicken breasts seasoned lightly with salt and pepper. Cook for about 5-6 minutes, stirring occasionally, until the chicken is cooked through and lightly golden on the outside. Avoid overcrowding the pan so the chicken browns nicely instead of steaming. Browning adds flavor through the Maillard reaction, which deepens the dish’s taste.",
+            "timing": "6 minutes",
+            "doneness_cue": "Chicken pieces are opaque throughout with a slight golden crust on the edges."
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the chicken from the skillet and set aside. In the same skillet, add the unsalted butter and minced garlic, cooking on medium heat for about 1-2 minutes until fragrant and lightly golden. Be careful not to burn the garlic, as it turns bitter quickly. This step infuses the butter with garlic flavor, which forms the base of the sauce.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is aromatic but not browned or burnt."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the asparagus pieces to the skillet and sauté for 3-4 minutes until bright green and just tender-crisp. Cooking asparagus quickly on medium heat preserves its fresh flavor and vibrant color. Overcooking here will result in mushy, dull asparagus that loses its crunch and appeal.",
+            "timing": "4 minutes",
+            "doneness_cue": "Asparagus is bright green and tender but still has a slight snap when bitten."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the heavy cream and stir to combine with garlic butter and asparagus. Bring to a gentle simmer over medium-low heat, stirring occasionally. Simmering the cream helps it thicken slightly and meld with the other flavors without curdling. Avoid boiling vigorously, which can break the sauce.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and coats the back of a spoon."
+        },
+        {
+            "step": 6,
+            "instruction": "Add grated Parmesan cheese gradually, stirring constantly until melted and smooth. The cheese thickens the sauce and adds savory depth. Use freshly grated Parmesan for best melting and flavor. If the sauce becomes too thick, add a splash of reserved pasta water to loosen it to your preferred consistency.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is creamy, smooth, and slightly thickened."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the cooked chicken to the skillet and stir gently to coat it in the sauce. Cook for another 2 minutes to warm the chicken through and blend flavors. This step ensures the chicken absorbs some lemon garlic creaminess without drying out. Keep the heat low to avoid toughening the chicken.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken is hot and sauce evenly coats all pieces."
+        },
+        {
+            "step": 8,
+            "instruction": "Add the cooked fettuccine to the skillet and toss everything together gently. Pour in the lemon zest and juice, stirring to combine. The lemon adds a bright freshness that balances the rich sauce. Taste and adjust seasoning with salt and pepper as needed. Tossing pasta in the sauce while still warm helps it absorb flavors better.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pasta is evenly coated with creamy sauce and has a fresh lemon aroma."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately, garnished with chopped fresh parsley if desired. Fresh herbs add a pop of color and a mild herbal note that complements the lemon and garlic beautifully. Serve with crusty bread or a simple green salad for a complete meal.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish looks vibrant and inviting with fresh herb garnish."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Lemon Garlic Chicken Alfredo Works",
+        "content": "<p>This recipe balances richness and brightness to create a dish that’s indulgent without feeling heavy. The heavy cream combined with butter and Parmesan cheese forms a luscious, velvety sauce through emulsification — the fat and water molecules blend smoothly, creating that signature Alfredo creaminess. Simmering gently is key here to prevent the cream from breaking or curdling.</p><p>The lemon zest and juice infuse brightness and acidity that cut through the richness, waking up the palate. Acidity also helps balance the salty Parmesan, making each bite feel fresh rather than cloying. The asparagus adds texture contrast with its crisp-tender bite, which is essential for keeping the dish from becoming one-note.</p><p>Browning the chicken triggers the Maillard reaction, which develops complex flavors and a pleasant savory crust. Cooking the chicken thinly sliced ensures it cooks quickly and stays tender, avoiding dryness. Tossing the pasta directly into the sauce while still warm allows the starches to help thicken and cling to the sauce, creating a cohesive dish.</p><p>Finally, the careful seasoning and timing of adding ingredients ensures each component shines. This isn’t just a creamy pasta—it’s a harmony of textures and flavors that feels both comforting and fresh.</p>",
+        "ingredient_notes": {
+            "heavy cream": "Choose heavy cream with at least 36% fat content for a rich, stable sauce. Lower-fat creams tend to separate or curdle when heated. Heavy cream’s fat content allows it to emulsify with butter and cheese, creating that smooth, silky Alfredo texture. When simmered gently, it thickens naturally without needing flour or starch.",
+            "Parmesan cheese": "Use freshly grated Parmigiano-Reggiano for best melting and flavor. Pre-grated cheeses often contain anti-caking agents that prevent smooth melting and result in grainy sauce. Parmesan adds umami and saltiness, thickening the sauce as it melts. Be sure to add it gradually and stir constantly to avoid clumping.",
+            "lemon": "Fresh lemon zest and juice provide the essential bright acidity that balances the richness of the cream and cheese. Zest contains aromatic oils that enhance flavor without adding liquid, while juice adds freshness and cuts fat perception. Avoid bottled lemon juice for best flavor and avoid adding too much juice upfront to prevent curdling.",
+            "asparagus": "Select fresh, firm asparagus with bright green stalks and closed tips. The asparagus adds a crisp texture contrast and a subtle vegetal note to the dish. Cooking it quickly over medium heat preserves its snap and color. Overcooking results in limp stalks that detract from the dish’s vibrancy.",
+            "chicken breasts": "Use thinly sliced boneless skinless chicken breasts for quick, even cooking. Thicker pieces risk drying out before browning properly. Light seasoning before cooking enhances flavor without overpowering the sauce. Browning develops Maillard flavors that elevate the dish from simple pasta to something special."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when cooking chicken.",
+            "reason": "Crowding causes the chicken to steam instead of brown, which means you miss out on the Maillard reaction that adds deep, savory flavor and appealing color. Cooking in batches if needed ensures you get a nice golden crust."
+        },
+        {
+            "tip": "Reserve some pasta water before draining.",
+            "reason": "The starchy pasta water is perfect for loosening the sauce if it gets too thick. It also helps the sauce cling better to the noodles, creating a silky texture and cohesive dish."
+        },
+        {
+            "tip": "Add lemon juice gradually and off heat if worried about curdling.",
+            "reason": "Acid can cause cream sauces to break if added too quickly or at high heat. Adding lemon juice slowly and stirring off heat helps maintain the sauce’s smooth texture and prevents separation."
+        },
+        {
+            "tip": "Cook asparagus until just tender-crisp.",
+            "reason": "Overcooked asparagus becomes mushy and dull in color, losing its fresh snap that contrasts beautifully with creamy sauce. Quick sautéing keeps it vibrant and adds texture interest."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Pre-grated cheese often contains additives that prevent smooth melting, resulting in grainy sauce. Freshly grated cheese melts evenly and enriches the sauce with authentic flavor."
+        },
+        {
+            "tip": "Simmer sauce gently, don’t boil.",
+            "reason": "High heat can cause the cream to curdle and the cheese to separate. A gentle simmer allows the sauce to thicken slowly and stay silky."
+        },
+        {
+            "tip": "Toss pasta in sauce while still warm.",
+            "reason": "Warm pasta helps the sauce stick better thanks to starches released during cooking, giving you a creamier, more cohesive dish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the chicken until dry",
+            "why_it_happens": "Many cooks leave chicken in the pan too long thinking it needs to be thoroughly cooked through, but this dries it out.",
+            "fix": "Slice chicken thinly for quick cooking and remove it as soon as it’s opaque and just cooked through to keep it juicy and tender."
+        },
+        {
+            "mistake": "Boiling the cream sauce",
+            "why_it_happens": "High heat is often used to speed up cooking, but boiling cream causes it to break and separate.",
+            "fix": "Simmer the sauce gently over low to medium-low heat to keep it smooth and prevent curdling."
+        },
+        {
+            "mistake": "Skipping reserving pasta water",
+            "why_it_happens": "People often drain pasta and discard all water, not realizing the starchy water is a helpful sauce binder.",
+            "fix": "Always reserve some pasta water before draining to adjust sauce thickness and improve texture."
+        },
+        {
+            "mistake": "Overcooking asparagus until limp",
+            "why_it_happens": "Cooking asparagus too long destroys its crunch and vibrant color.",
+            "fix": "Sauté asparagus just until bright green and tender-crisp, about 3-4 minutes, for best texture."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Bottled lemon juice lacks fresh aromatic oils and can taste dull or artificial.",
+            "fix": "Use fresh lemons for zest and juice to add bright, natural flavor and aroma."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Spinach and Mushroom Alfredo",
+            "description": "Swap asparagus for sautéed mushrooms and fresh spinach for a heartier, earthy twist. The mushrooms add umami depth while spinach brings a mild sweetness and extra greens.",
+            "technical_note": "Sauté mushrooms first until browned, then add spinach last to wilt gently without overcooking."
+        },
+        {
+            "name": "Spicy Cajun Lemon Garlic Alfredo",
+            "description": "Add Cajun seasoning to the chicken and a pinch of red pepper flakes to the sauce for a spicy kick. This variation brings warmth and bold flavors that complement the creamy sauce.",
+            "technical_note": "Season chicken liberally before cooking and adjust spice level to taste."
+        },
+        {
+            "name": "Gluten-Free Lemon Garlic Chicken Alfredo",
+            "description": "Use gluten-free fettuccine or spiralized zucchini noodles to make this dish gluten-free. The sauce remains creamy and flavorful, perfect for those avoiding gluten.",
+            "technical_note": "Cook gluten-free pasta according to package instructions and monitor zucchini noodles closely to avoid sogginess."
+        },
+        {
+            "name": "Creamy Lemon Garlic Shrimp Alfredo",
+            "description": "Replace chicken with peeled and deveined shrimp for a seafood spin. Shrimp cooks quickly and pairs beautifully with lemon and garlic cream sauce.",
+            "technical_note": "Sauté shrimp just until pink and opaque to avoid toughness."
+        },
+        {
+            "name": "Vegan Lemon Garlic Alfredo",
+            "description": "Use coconut cream or cashew cream instead of dairy, nutritional yeast for cheesy flavor, and vegan butter. Add sautéed asparagus and garlic for a fresh, plant-based Alfredo.",
+            "technical_note": "Blend soaked cashews with water and lemon juice to create a creamy sauce base."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "36g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can be kept at room temperature for up to 2 hours if covered, but it’s best served fresh to enjoy the creamy texture and fresh asparagus crunch.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the asparagus softens when cold. Reheat gently on the stovetop with a splash of cream or water to loosen the sauce.",
+        "freezer": "Freeze in airtight containers for up to 2 months. To prevent freezer burn, wrap tightly and label. Thaw overnight in the fridge before reheating slowly to preserve texture.",
+        "reheating": "Reheat on low heat in a skillet or microwave with a splash of cream or milk to restore creaminess. Avoid high heat which can cause sauce separation.",
+        "make_ahead_strategy": "Cook chicken and prepare sauce up to 1 day ahead, storing separately. Boil pasta fresh or store cooked pasta in water to keep it moist, then toss all together just before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Chicken thighs add more flavor and stay juicy even if slightly overcooked. Slice them thinly and cook similarly, but they may take a minute or two longer. The richer taste pairs well with creamy Alfredo sauce."
+        },
+        {
+            "question": "What can I do if my sauce is too thick?",
+            "answer": "Stir in reserved pasta water or a splash of milk or cream gradually until you reach your desired consistency. The starch in pasta water helps loosen the sauce while keeping it creamy and smooth."
+        },
+        {
+            "question": "Is it okay to prepare this dish ahead of time?",
+            "answer": "You can prepare components like the sauce and chicken ahead and refrigerate separately. It’s best to cook pasta fresh or store it in a little water to keep it from drying out. Combine and reheat gently just before serving."
+        },
+        {
+            "question": "How do I prevent the cream sauce from curdling?",
+            "answer": "Avoid boiling the sauce and add acidic ingredients like lemon juice slowly and off heat if needed. Keep the temperature moderate and stir continuously to maintain a smooth texture."
+        },
+        {
+            "question": "Can I use frozen asparagus?",
+            "answer": "Frozen asparagus tends to be softer and less crisp. If using frozen, thaw and pat dry well, then add toward the end of cooking to avoid mushiness. Fresh asparagus is best for texture contrast."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently on the stovetop over low heat with a splash of cream or milk to loosen the sauce. Microwaving works too but do it in short bursts, stirring often to prevent separation."
+        },
+        {
+            "question": "Can I substitute Parmesan with another cheese?",
+            "answer": "You can use Pecorino Romano for a sharper flavor or Asiago for milder taste. Avoid pre-shredded cheeses that contain anti-caking agents, as they don’t melt smoothly."
+        },
+        {
+            "question": "How do I make this dish spicier?",
+            "answer": "Add crushed red pepper flakes when cooking garlic or sprinkle some Cajun seasoning on the chicken before cooking. Start with a small amount and adjust to taste."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this creamy lemon garlic chicken Alfredo as much as I do! Please share how it turns out—there’s nothing better than swapping stories over a good meal.",
+    "seo": {
+        "primary_keyword": "lemon garlic chicken alfredo",
+        "secondary_keywords": [
+            "creamy chicken alfredo recipe",
+            "easy lemon chicken pasta",
+            "how to make chicken alfredo",
+            "best chicken alfredo recipe",
+            "easy chicken alfredo"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chicken Alfredo recipe",
+                "anchor": "classic-chicken-alfredo"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5000 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_1.png",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_1.png",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_2.png",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_2.png",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_3.png",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_3.png",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images/creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781047009_686",
+    "slug": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home",
+    "isOnline": true,
+    "createdAt": "2026-06-10T00:31:39+01:00",
+    "updatedAt": "2026-06-10T00:31:39+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "creamy-lemon-garlic-chicken-alfredo-with-asparagus-and-penne-that-feels-like-home/images"
+}
