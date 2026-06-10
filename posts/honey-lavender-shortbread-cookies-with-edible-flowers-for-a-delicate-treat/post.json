@@ -1,0 +1,337 @@
+{
+    "title": "Soft Honey Lavender Shortbread Cookies with Edible Flowers",
+    "promptIMG": "Food photography: Honey Lavender Shortbread Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These buttery shortbread cookies are gently sweetened with honey and infused with delicate lavender, topped with edible flowers for that extra charm. They’re perfect for a cozy afternoon tea or a thoughtful homemade gift.",
+    "hashtags": "#shortbread #lavendercookies #honeysweets",
+    "board_name": "Easy Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Magic of Honey Lavender Shortbread Cookies Today!",
+            "description": "These soft, buttery cookies are lightly sweetened with honey and infused with lavender for a unique twist. 🌸 Perfect for gifting or a relaxing tea time. Save this recipe and try it today! #shortbread #honeylavender #bakinglove"
+        },
+        {
+            "title": "How to Make Soft Honey Lavender Shortbread Cookies at Home",
+            "description": "Learn the secret to these melt-in-your-mouth shortbread cookies with a hint of floral lavender and natural honey sweetness. 🍯🌿 Try it now and impress your friends! #homemadecookies #lavenderbaking #easydessert"
+        },
+        {
+            "title": "Soft & Buttery Honey Lavender Shortbread Cookies You’ll Love",
+            "description": "If you love buttery cookies with a floral twist, these honey lavender shortbreads are for you! 🌼 Perfect for afternoon tea or a special treat. Save this recipe and bake soon! #cookieideas #lavendercookies #honeysweets"
+        },
+        {
+            "title": "Bake These Charming Honey Lavender Shortbread Cookies Now!",
+            "description": "Soft, buttery, and lightly infused with lavender and honey, these shortbread cookies are a delightful treat. 🌸🍪 Perfect for gifting or savoring with tea. Don’t miss out—try this recipe today! #shortbreadcookies #lavender #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 24,
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1/2 cup granulated sugar",
+        "1/4 cup honey",
+        "2 cups all-purpose flour",
+        "1 tablespoon dried culinary lavender buds",
+        "1/4 teaspoon salt",
+        "Edible flowers for garnish (optional)"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first made these honey lavender shortbread cookies on a rainy afternoon when I wanted something comforting but special. The idea to add lavender came from a local tea shop that served a floral-infused biscuit, and I wanted to recreate that delicate flavor at home. Unlike typical shortbread, I sweeten these with honey instead of just sugar, which adds a subtle floral sweetness that pairs perfectly with the lavender. One trick I learned is to gently toast the lavender buds before mixing—they release a warmer aroma without becoming bitter. The dough is soft but holds its shape beautifully, and the cookies bake up tender with a slight crumbly texture. I love topping them with tiny edible flowers for that extra touch of charm, especially when serving with tea or gifting to friends. These cookies feel fancy but are really simple to make, and they bring a little bit of sunshine to any afternoon.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by gently toasting the dried lavender buds in a dry skillet over low heat for about 1-2 minutes. This releases their natural oils and deepens the floral aroma without burning them. Be careful not to overtoast, as burnt lavender tastes bitter and can ruin the delicate flavor of your cookies. Once toasted, set them aside to cool while you prepare the dough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Lavender buds smell fragrant and slightly nutty, not burnt"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, cream together the softened butter and granulated sugar until the mixture is light and fluffy. This step is crucial because creaming incorporates air into the dough, helping the cookies achieve a tender texture. Use a hand mixer or stand mixer on medium speed, and don’t rush—scrape down the sides occasionally to mix evenly.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Mixture looks pale, smooth, and slightly fluffy"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the honey to the creamed butter and sugar, mixing until fully combined. Honey adds moisture and a natural sweetness that’s more complex than plain sugar. It also helps keep the cookies soft. Make sure to mix thoroughly so the honey is evenly distributed throughout the dough.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Dough is sticky but smooth and glossy"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the all-purpose flour, salt, and toasted lavender buds. Sifting the flour helps avoid lumps and ensures even mixing. The salt enhances the flavors and balances the sweetness, while the lavender buds give your cookies that signature floral note.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Dry ingredients are evenly combined with visible lavender buds"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly add the dry ingredients to the wet mixture, mixing on low speed or folding by hand. Overmixing at this stage can develop gluten and make the cookies tough, so mix just until you see no dry flour. The dough should be soft but not sticky.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Dough comes together in a soft, smooth ball"
+        },
+        {
+            "step": 6,
+            "instruction": "Lightly flour your work surface and roll out the dough to about 1/4 inch thickness. If the dough feels too soft or sticky, chill it for 15 minutes first. Use cookie cutters to cut out desired shapes, and transfer them gently to a baking sheet lined with parchment paper to prevent sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies hold their shape without spreading too much"
+        },
+        {
+            "step": 7,
+            "instruction": "If using edible flowers, gently press a small flower or petal onto the top of each cookie before baking. This adds a beautiful, natural decoration and a subtle floral aroma. Be gentle so you don’t tear the dough or the flowers.",
+            "timing": "5 minutes",
+            "doneness_cue": "Flowers adhere well without sinking into the dough"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies in a preheated oven at 325°F (165°C) for 18-20 minutes. Baking at a lower temperature ensures the cookies cook evenly without browning too much, preserving their pale, buttery look. Watch closely in the last few minutes; the edges should be just turning golden.",
+            "timing": "18-20 minutes",
+            "doneness_cue": "Edges are lightly golden, centers look set but tender"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. Cooling on the sheet allows them to firm up slightly and prevents breakage. Once cooled, store in an airtight container to maintain freshness and softness.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cookies are firm to touch but soft inside"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Shortbread Recipe Delights",
+        "content": "<p>Shortbread’s charm lies in its simplicity—just butter, sugar, and flour—but the key to a perfect batch is balance and technique. Using softened unsalted butter and creaming it with sugar introduces air bubbles that lighten the dough, preventing it from becoming dense. Honey replaces some sugar here, adding moisture and a nuanced sweetness that keeps the cookies tender and flavorful without overwhelming the lavender notes.</p><p>Toasting the lavender buds is a subtle but crucial step. It awakens the floral oils and reduces any grassy bitterness, infusing the dough gently with aroma rather than an overpowering taste. The temperature control during baking is just as important; baking at a moderate 325°F lets the cookies cook through evenly, preserving their pale color and delicate crumb. Higher heat risks browning too fast, which can mask the honey and lavender flavors.</p><p>The dough’s texture is soft yet firm enough to hold its shape, thanks to the right flour-to-fat ratio and gentle mixing. Overmixing develops gluten and leads to toughness, so folding the dry ingredients in carefully ensures a tender bite. Adding edible flowers on top before baking is a charming finishing touch, lending visual appeal and a hint of fresh floral aroma that pairs beautifully with the honey’s warm sweetness.</p><p>All these thoughtful steps combine to create shortbread that’s buttery, lightly sweet, and fragrantly floral—a perfect treat for tea time or gifting. The recipe’s simplicity invites creativity, while each technique ensures consistent success and delightful texture every time.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter with at least 80% fat content for the richest flavor and best texture. Avoid margarine or low-fat spreads as they lack the fat needed for tender, crumbly shortbread. Let the butter soften at room temperature but don’t let it melt; this helps it cream properly with sugar, incorporating air that lightens the dough.",
+            "honey": "Use a mild-flavored honey such as clover or wildflower to sweeten without overpowering the lavender. Honey adds moisture and a complex sweetness that granulated sugar alone can’t provide. Avoid overly strong or dark honeys like buckwheat which might clash with the floral notes. Honey also helps keep the cookies soft and extends their shelf life slightly.",
+            "culinary lavender buds": "Use dried culinary-grade lavender specifically labeled for cooking to avoid bitterness or contamination. Toast the buds lightly to release essential oils and deepen aroma without burning. Too much lavender can be overpowering, so measure carefully. If fresh, use sparingly as it’s more potent. Lavender adds a unique floral note that pairs beautifully with honey.",
+            "all-purpose flour": "Standard all-purpose flour works best here for structure and tenderness. Avoid bread flour or cake flour as bread flour’s high gluten leads to chewiness and cake flour’s low gluten creates crumbly, fragile cookies. Sifting flour helps avoid lumps and ensures even mixing with lavender and salt, resulting in a smooth dough.",
+            "edible flowers": "Use fresh, pesticide-free edible flowers like pansies or violets for garnish. They add visual appeal and a mild floral aroma that complements the lavender. Press the flowers gently onto the dough before baking so they adhere without tearing. Not mandatory, but they elevate presentation, especially for gifting or tea parties."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast lavender buds gently before using.",
+            "reason": "Toasting releases the buds’ essential oils, enhancing their floral aroma while reducing bitterness. Skipping this step can result in a grassy, overpowering flavor. Low heat and constant attention prevent burning, which would ruin the delicate taste."
+        },
+        {
+            "tip": "Use room temperature butter for creaming.",
+            "reason": "Butter that’s too cold won’t cream properly, leading to dense cookies. Overly soft or melted butter can make the dough greasy and hard to shape. Room temperature butter incorporates air when creamed with sugar, making the cookies tender and light."
+        },
+        {
+            "tip": "Don’t overmix once flour is added.",
+            "reason": "Overmixing develops gluten, which makes shortbread tough instead of crumbly. Mix just until dry ingredients disappear to keep the texture delicate. Gentle folding preserves the right crumb structure."
+        },
+        {
+            "tip": "Chill dough if too soft to handle.",
+            "reason": "Chilling firms the dough, making it easier to roll and cut without sticking or losing shape. This also helps prevent excessive spreading during baking, keeping the cookies thick and tender."
+        },
+        {
+            "tip": "Bake at a moderate temperature (325°F).",
+            "reason": "Lower baking temperature ensures even cooking and prevents browning that can mask the honey and lavender flavors. It also helps maintain the cookie’s pale, buttery appearance."
+        },
+        {
+            "tip": "Press edible flowers gently onto dough before baking.",
+            "reason": "This adds a charming decorative touch and subtle aroma. Pressing too hard can tear the dough or bruise flowers, so handle delicately for the prettiest results."
+        },
+        {
+            "tip": "Store cookies in an airtight container once cooled.",
+            "reason": "This keeps them soft and prevents them from drying out. Shortbread can become crumbly and stale if exposed to air, so airtight storage preserves texture and flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overheated or melted butter.",
+            "why_it_happens": "Many assume softened butter means melted, but overheated butter changes the dough’s consistency and can make cookies greasy or flat.",
+            "fix": "Use butter softened just enough to press with your finger without melting. If butter melts, chill it briefly before creaming. This ensures proper aeration and dough texture."
+        },
+        {
+            "mistake": "Skipping the lavender toasting step.",
+            "why_it_happens": "It seems like an extra step, but some skip it to save time, unaware it affects flavor deeply.",
+            "fix": "Toast lavender buds on low heat for 1-2 minutes until fragrant before adding. This enhances aroma and prevents bitterness."
+        },
+        {
+            "mistake": "Overmixing after adding flour.",
+            "why_it_happens": "In an effort to fully combine ingredients, some mix too vigorously, developing gluten.",
+            "fix": "Mix or fold just until no dry flour remains. Stop as soon as dough forms a soft ball to keep cookies tender."
+        },
+        {
+            "mistake": "Baking at too high temperature.",
+            "why_it_happens": "Higher temps bake faster but risk browning too much, hiding gentle flavors.",
+            "fix": "Bake at 325°F for even, gentle cooking. Watch edges for light golden color as doneness cue."
+        },
+        {
+            "mistake": "Not chilling dough when too soft.",
+            "why_it_happens": "Some rush rolling and cutting, but soft dough sticks and spreads too much.",
+            "fix": "Chill dough 15-30 minutes if it’s sticky or hard to handle. This firms it up for neat shapes and better texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Honey Lavender Shortbread",
+            "description": "Add 1 tablespoon finely grated lemon zest to the dough for a bright citrus twist that complements the floral lavender and honey. This variation adds a fresh zing and makes the cookies even more aromatic.",
+            "technical_note": "Incorporate zest with the dry ingredients to evenly distribute flavor. Baking time remains the same."
+        },
+        {
+            "name": "Almond Lavender Shortbread",
+            "description": "Stir in 1/2 cup finely ground almonds or almond flour to the dry mix for a nutty flavor and slightly denser texture. Almonds pair beautifully with honey and lavender for a rich, buttery bite.",
+            "technical_note": "Reduce all-purpose flour by 1/2 cup to keep dough consistency balanced."
+        },
+        {
+            "name": "Chocolate Dipped Lavender Shortbread",
+            "description": "Once cooled, dip half of each cookie in melted dark chocolate and let set. The bittersweet chocolate pairs wonderfully with the floral and honey notes, adding a decadent finish.",
+            "technical_note": "Make sure cookies are completely cooled before dipping to prevent melting."
+        },
+        {
+            "name": "Lavender and Rose Shortbread",
+            "description": "Add 1 teaspoon dried rose petals along with lavender for a romantic floral blend. Rose adds a subtle sweet fragrance, making these cookies perfect for special occasions.",
+            "technical_note": "Toast rose petals lightly with lavender buds to avoid overpowering flavor."
+        },
+        {
+            "name": "Vegan Honey Lavender Shortbread",
+            "description": "Replace butter with vegan margarine and honey with maple syrup for a plant-based version. The texture is slightly different but still tender and fragrant, perfect for vegan friends.",
+            "technical_note": "Chill dough longer if too soft, as vegan fats behave differently."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "8g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "55mg",
+        "note": "Nutritional values are estimates based on standard ingredients and serving size."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 5 days. Keep them away from direct sunlight or heat sources to maintain their soft texture and prevent the honey from crystallizing.",
+        "refrigerator": "You can refrigerate the cookies in an airtight container for up to 10 days. The cooler temperature slightly firms them up, so bring to room temperature before serving for the best texture and flavor.",
+        "freezer": "Freeze cookies in a sealed container or freezer bag for up to 3 months. Wrap them individually in parchment paper to prevent sticking and freezer burn. Thaw at room temperature before enjoying.",
+        "reheating": "Reheat cookies gently in a low oven (275°F) for 5-7 minutes to refresh their softness. Avoid microwaving as it can make them rubbery. A splash of honey or butter before warming can add extra moisture.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it tightly wrapped in the fridge. Roll and cut the cookies just before baking to keep the dough fresh and easy to handle. This makes day-of baking quick and stress-free."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the honey with sugar?",
+            "answer": "Yes, you can replace honey with an equal amount of granulated sugar, but the cookies will lose some of their moisture and floral sweetness. Honey also helps keep the texture soft, so expect a slightly firmer cookie if you omit it."
+        },
+        {
+            "question": "What if I don’t have culinary lavender?",
+            "answer": "If you can’t find culinary-grade lavender, it’s best to omit it rather than use regular lavender which may be bitter or treated with pesticides. You could try substituting with a small amount of dried rosemary or lemon zest for a different but pleasant flavor."
+        },
+        {
+            "question": "How do I prevent cookies from spreading too much?",
+            "answer": "Make sure your dough is chilled if it feels too soft before rolling. Also, avoid using melted butter and don’t overmix the dough. Baking at a lower temperature like 325°F helps maintain shape and prevents excessive spreading."
+        },
+        {
+            "question": "Can I use fresh lavender instead of dried?",
+            "answer": "Fresh lavender is more potent and can make the cookies taste bitter if used in the same quantity. Use about half the amount and finely chop it. Toasting fresh buds is not recommended, so add them directly to the dough."
+        },
+        {
+            "question": "How long do these cookies keep their freshness?",
+            "answer": "Stored properly in an airtight container at room temperature, these cookies stay fresh for about 5 days. Refrigeration can extend this to 10 days but may slightly alter the texture."
+        },
+        {
+            "question": "Can I freeze the baked cookies?",
+            "answer": "Yes, baked cookies freeze well for up to 3 months. Wrap them individually or layer with parchment paper in a sealed container to prevent sticking and freezer burn. Thaw at room temperature before serving."
+        },
+        {
+            "question": "What’s the best way to roll out the dough?",
+            "answer": "Lightly flour your surface and rolling pin to prevent sticking. If dough is sticky, chill it for 15-30 minutes first. Roll evenly to about 1/4 inch thickness for uniform baking and texture."
+        },
+        {
+            "question": "Can I add other flavors besides lavender?",
+            "answer": "Absolutely! Lemon zest, rose petals, or finely ground nuts like almonds work beautifully. Just adjust quantities carefully so the flavors don’t overpower the honey and buttery base."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these honey lavender shortbread cookies as much as I do. They’re a lovely way to add a little elegance to your baking — please share how yours turn out!",
+    "seo": {
+        "primary_keyword": "honey lavender shortbread cookies",
+        "secondary_keywords": [
+            "lavender shortbread recipe",
+            "honey sweetened cookies",
+            "how to make shortbread cookies",
+            "best shortbread cookie recipe",
+            "easy honey lavender cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic shortbread cookie recipe",
+                "anchor": "classic_shortbread_cookie"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_1.png",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_1.png",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_2.png",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_2.png",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_3.png",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_3.png",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images/honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781133219_877",
+    "slug": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat",
+    "isOnline": true,
+    "createdAt": "2026-06-11T00:28:52+01:00",
+    "updatedAt": "2026-06-11T00:28:52+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "honey-lavender-shortbread-cookies-with-edible-flowers-for-a-delicate-treat/images"
+}

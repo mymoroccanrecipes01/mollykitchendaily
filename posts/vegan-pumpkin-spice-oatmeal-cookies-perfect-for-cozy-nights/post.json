@@ -290,13 +290,55 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_8.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_6.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_7.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_5.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_4.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_9.webp",
+            "relativePath": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images/vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
         }
     ],
     "id": "post_1781046560_513",
     "slug": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights",
-    "isOnline": false,
-    "createdAt": "2026-06-09T23:09:20+00:00",
-    "updatedAt": "2026-06-09T23:09:20+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-11T00:28:52+01:00",
+    "updatedAt": "2026-06-11T00:28:52+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230294_638",
     "image_dir": "vegan-pumpkin-spice-oatmeal-cookies-perfect-for-cozy-nights/images"
