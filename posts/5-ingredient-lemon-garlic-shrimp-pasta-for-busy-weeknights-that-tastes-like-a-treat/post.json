@@ -1,0 +1,337 @@
+{
+    "title": "Bright and Zesty Shrimp Pasta for Busy Weeknights",
+    "promptIMG": "Food photography: Shrimp Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This shrimp pasta is my quick fix for dinner when I want something tasty but fuss-free. The fresh lemon juice adds a refreshing zing that lifts the whole dish. Ideal for a weeknight meal that feels a little special!",
+    "hashtags": "#shrimp #pastadinner #quickmeals",
+    "board_name": "Easy Seafood Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Shrimp Pasta with a Refreshing Lemon Twist",
+            "description": "Looking for a fast dinner that still wows? This shrimp pasta is bursting with lemony freshness and ready in under 30 minutes. Save this recipe for your next busy night! 🍤🍋 #shrimprecipes #quickdinner #pastalovers"
+        },
+        {
+            "title": "Simple Shrimp Pasta That’s Perfect for Weeknights",
+            "description": "Whip up this easy shrimp pasta with just five ingredients! The bright lemon juice makes all the difference. Try it tonight and enjoy a delicious, fuss-free meal. 🍝✨ #easyrecipes #seafoodpasta #weeknightdinner"
+        },
+        {
+            "title": "Zesty Shrimp Pasta You’ll Make Again and Again",
+            "description": "This shrimp pasta is my go-to for busy nights — fresh lemon juice gives it a zing that really shines. Discover this simple recipe and make dinner stress-free! 🍤🍋 #shrimpdinner #lemonpasta #quickmeals"
+        },
+        {
+            "title": "Fast and Flavorful Shrimp Pasta for Any Night",
+            "description": "Craving something light but satisfying? This shrimp pasta delivers big on flavor with bright lemon juice and fresh shrimp. Try it today and see how easy dinner can be! 🍝💛 #seafoodrecipes #easymeals #pastarecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 ounces linguine or spaghetti, uncooked",
+        "1 pound fresh shrimp, peeled and deveined",
+        "3 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "Juice of 1 large lemon",
+        "Salt and pepper, to taste",
+        "Fresh parsley, chopped (optional, for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this shrimp pasta recipe on a hectic weeknight when I wanted something quick but still felt special. It quickly became a favorite because it’s so simple yet packs a punch with just a few ingredients. What sets this dish apart is the fresh lemon juice — it gives the pasta a bright kick that lifts the flavors beautifully. Over time, I’ve tweaked it slightly, like adding just the right amount of garlic and making sure to cook the shrimp gently so they stay tender and juicy. The trick I learned? Don’t overcook the shrimp or the pasta, and toss everything together while it’s still warm so the flavors meld perfectly. The finished dish looks vibrant, with pink shrimp nestled in glossy pasta and a sprinkle of parsley for freshness. It’s light but satisfying, perfect when you want a fuss-free meal that feels like a treat. I love making this on busy nights because it comes together quickly but tastes like you spent hours in the kitchen. Plus, it’s easy to customize with a pinch of chili flakes if you want some heat or swap in your favorite pasta shape. This recipe truly hits that sweet spot between quick and delicious, and I’m excited to share it with you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil. Add the linguine or spaghetti and cook according to package instructions until al dente, usually about 8-10 minutes. Cooking the pasta just right is crucial here — overcooked pasta will turn mushy when combined with the shrimp, while undercooked pasta will be too firm and not as pleasant to eat. Stir occasionally to prevent sticking. Once done, reserve about a cup of pasta water before draining; this starchy water helps bind the sauce later and keeps the dish silky.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pasta should be tender with a slight bite in the center (al dente)"
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes until fragrant but not browned. Garlic cooks quickly and can turn bitter if overdone, so keep an eye on it and stir frequently. This step infuses the oil with garlic flavor, which will coat the shrimp and pasta, creating a delicious base for the dish.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic should be soft and aromatic without any browning"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the shrimp to the skillet in a single layer. Cook for about 2-3 minutes on each side until they turn pink and opaque. Avoid overcrowding the pan; if needed, cook in batches. Overcooked shrimp become rubbery and lose their delicate texture, so watch closely. The shrimp should curl slightly but remain tender and juicy.",
+            "timing": "5-6 minutes",
+            "doneness_cue": "Shrimp are pink, opaque, and firm but not tough"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the shrimp are cooked, squeeze fresh lemon juice over them and stir to combine. The acidity brightens the dish and balances the richness from the olive oil. Don’t skip fresh lemon juice; bottled lemon juice won’t have the same vibrant flavor. Stir gently to coat shrimp evenly without breaking them apart.",
+            "timing": "1 minute",
+            "doneness_cue": "Shrimp glisten with lemon juice and smell fresh and tangy"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the drained pasta directly into the skillet with the shrimp and garlic oil. Toss everything together over low heat. If the mixture seems dry, add reserved pasta water a little at a time to loosen the sauce and create a silky coating. This starchy water helps the sauce cling to the pasta, enhancing flavor and texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pasta is evenly coated with a glossy, light sauce"
+        },
+        {
+            "step": 6,
+            "instruction": "Season the pasta and shrimp with salt and freshly ground black pepper to taste. Start with a small amount and adjust as needed — seasoning is key to bringing all the flavors together. Taste as you go to avoid over-salting.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced seasoning with a slight peppery kick"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the skillet from heat and sprinkle chopped fresh parsley over the pasta for a pop of color and freshness. Parsley adds a subtle herbal note that complements the lemon and garlic beautifully. If you don’t have fresh parsley, a pinch of dried herbs can work, but fresh is best.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green flecks of parsley scattered over the dish"
+        },
+        {
+            "step": 8,
+            "instruction": "Give the pasta one last gentle toss to incorporate the parsley and serve immediately. This dish is best enjoyed fresh while the shrimp are tender and the flavors vibrant. Letting it sit too long can cause the pasta to absorb too much sauce and become dry.",
+            "timing": "1 minute",
+            "doneness_cue": "Pasta looks glossy and shrimp still juicy"
+        },
+        {
+            "step": 9,
+            "instruction": "Optional step: For a little extra richness, drizzle a teaspoon of good-quality olive oil or a pat of butter on top just before serving. This adds smoothness and depth but is completely optional depending on your taste and diet preferences.",
+            "timing": "1 minute",
+            "doneness_cue": "Shiny surface with a subtle sheen from the added fat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Bright and Tender Shrimp Pasta",
+        "content": "<p>What makes this shrimp pasta so satisfying is the balance of textures and flavors achieved through simple yet precise techniques. The shrimp cook quickly due to their delicate protein structure. Overcooking shrimp causes their muscle fibers to contract tightly, resulting in a rubbery and dry texture. By cooking them just until they turn pink and opaque, you maintain their tender juiciness. Timing here is everything.</p><p>Next, the pasta is cooked al dente, meaning it has a slight firmness to the bite. This texture contrasts nicely with the soft shrimp and prevents the dish from feeling mushy. Reserving pasta water before draining is a classic trick; the starch in the water acts as a natural thickener, helping the olive oil and lemon juice cling to the noodles, creating a light but cohesive sauce.</p><p>Lemon juice adds acidity, which brightens and balances the richness of the olive oil and the natural sweetness of the shrimp. Acidity also enhances the perception of freshness, making the dish feel lighter and more vibrant. The garlic-infused oil builds a flavor foundation without overpowering the other ingredients, and fresh parsley adds an herbal note that rounds out the profile.</p><p>Lastly, tossing the pasta and shrimp while warm ensures the flavors meld beautifully and the sauce coats every strand. This simple emulsification step, aided by the starchy pasta water, creates a glossy finish that’s both visually appealing and delicious.</p>",
+        "ingredient_notes": {
+            "fresh shrimp": "Choose shrimp that are fresh or properly thawed if frozen. Look for firm, translucent flesh without any off odors. Fresh shrimp have a natural sweetness and tender texture that’s key to this recipe. Avoid pre-cooked shrimp, as they can become rubbery when reheated. Proper handling and quick cooking preserve their delicate flavor and juiciness.",
+            "linguine or spaghetti": "Select good-quality dried pasta for even cooking and texture. Linguine or spaghetti hold the sauce well due to their shape, allowing the lemon-garlic oil to cling nicely. Cooking pasta al dente is critical to avoid mushiness once combined with the shrimp and sauce. Reserve pasta water to help emulsify the sauce and bind flavors.",
+            "olive oil": "Use extra virgin olive oil for its fruity, slightly peppery notes that complement the shrimp and lemon. Olive oil acts as the base for the sauce, carrying garlic flavor and adding richness without heaviness. Avoid heating olive oil too high to prevent bitterness and loss of aroma.",
+            "fresh lemon juice": "Freshly squeezed lemon juice is essential for brightness and acidity. Bottled lemon juice lacks the vibrant freshness and can impart a dull flavor. The acid balances the richness of the oil and sweetness of the shrimp, lifting the whole dish. Add lemon juice at the end to preserve its fresh flavor.",
+            "garlic": "Fresh garlic cloves provide a pungent, aromatic base for the sauce. Minced garlic infused gently into olive oil creates a flavorful oil that coats the shrimp and pasta. Be careful not to burn garlic, as it turns bitter and ruins the dish. Sauté just until fragrant and soft."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when cooking shrimp.",
+            "reason": "Shrimp release moisture as they cook, so if the pan is crowded, they steam instead of sear, resulting in a rubbery texture. Cooking in batches ensures even heat distribution and a better sear, preserving the shrimp’s natural sweetness and firmness."
+        },
+        {
+            "tip": "Reserve pasta water before draining.",
+            "reason": "The starchy pasta water helps emulsify the sauce, allowing olive oil and lemon juice to coat the noodles evenly. This creates a silky, cohesive sauce rather than a greasy or dry toss. Without it, the pasta can feel clumpy or unevenly sauced."
+        },
+        {
+            "tip": "Use fresh lemon juice, not bottled.",
+            "reason": "Fresh lemon juice has a bright, vibrant acidity that lifts the dish. Bottled juice often tastes flat or metallic and can dull the flavors. Adding fresh lemon at the end preserves its aromatic qualities and prevents bitterness."
+        },
+        {
+            "tip": "Cook pasta just until al dente.",
+            "reason": "Al dente pasta has a slight bite that contrasts nicely with tender shrimp. Overcooked pasta becomes mushy and absorbs too much sauce, losing structure. Al dente noodles hold up well when tossed with the shrimp and sauce, maintaining a pleasant texture."
+        },
+        {
+            "tip": "Sauté garlic gently until fragrant.",
+            "reason": "Garlic burns easily and turns bitter, which can ruin the whole dish. Cooking it slowly in olive oil releases its sweet, aromatic flavors without browning. This infused oil is the flavor base that carries throughout the pasta."
+        },
+        {
+            "tip": "Toss pasta and shrimp while warm.",
+            "reason": "Warm ingredients help the sauce emulsify and cling to pasta, melding flavors beautifully. Tossing while warm also prevents the shrimp from overcooking and keeps the dish vibrant and fresh-tasting."
+        },
+        {
+            "tip": "Add fresh parsley just before serving.",
+            "reason": "Parsley adds a fresh, herbal note and bright green color that lifts the dish visually and flavor-wise. Adding it at the end preserves its brightness and prevents it from wilting or turning dull."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the shrimp",
+            "why_it_happens": "Shrimp cook very quickly, and it’s easy to leave them on heat too long thinking they need more time. Overcooked shrimp become tough and rubbery, making the dish unpleasant.",
+            "fix": "Cook shrimp just until they turn pink and opaque, about 2-3 minutes per side depending on size. Remove immediately from heat to prevent carryover cooking. Watch closely and don’t walk away during this step."
+        },
+        {
+            "mistake": "Boiling pasta too long",
+            "why_it_happens": "It’s tempting to cook pasta until very soft, especially if you like it tender. However, overcooked pasta will become mushy when mixed with sauce and shrimp.",
+            "fix": "Follow package instructions and test pasta a minute or two before the minimum time. Aim for al dente, with a slight bite. Drain promptly and toss with sauce while warm."
+        },
+        {
+            "mistake": "Burning garlic",
+            "why_it_happens": "Garlic cooks quickly and can burn if the heat is too high or left unattended. Burnt garlic tastes bitter and can overpower the dish.",
+            "fix": "Sauté garlic on medium or medium-low heat and stir frequently. Remove from heat as soon as it becomes fragrant and lightly golden."
+        },
+        {
+            "mistake": "Skipping reserved pasta water",
+            "why_it_happens": "Some cooks forget to save pasta water or think it’s unnecessary. Without it, the sauce may be dry or oily without cohesion.",
+            "fix": "Always save at least 1 cup of pasta water before draining. Add a little at a time when tossing pasta with shrimp to loosen sauce and help it stick."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Bottled lemon juice is convenient but lacks the fresh brightness and vibrant flavor of fresh lemons.",
+            "fix": "Squeeze fresh lemon juice just before adding to the dish. This preserves acidity and freshness, making a big flavor difference."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Shrimp Pasta",
+            "description": "Add a pinch of red chili flakes when sautéing garlic for a subtle spicy kick. You can also toss in diced cherry tomatoes for a fresh, juicy contrast. This variation adds warmth and complexity without overpowering the bright lemon flavor.",
+            "technical_note": "Be careful not to burn the chili flakes; add them early with the garlic and adjust quantity to taste."
+        },
+        {
+            "name": "Creamy Lemon Shrimp Pasta",
+            "description": "Stir in ¼ cup heavy cream or crème fraîche after cooking the shrimp for a richer, creamier sauce. This balances the acidity of the lemon and makes the dish feel indulgent while still light.",
+            "technical_note": "Add cream off heat and gently warm through to prevent curdling."
+        },
+        {
+            "name": "Garlic Butter Shrimp Pasta",
+            "description": "Swap olive oil for butter to sauté garlic and shrimp for a richer, more decadent flavor. Finish with a squeeze of lemon juice to brighten the buttery sauce. Ideal for those craving a comfort food twist.",
+            "technical_note": "Use unsalted butter and adjust salt later to control seasoning."
+        },
+        {
+            "name": "Herb-Infused Shrimp Pasta",
+            "description": "Add fresh herbs like basil, thyme, or dill along with parsley to add layers of flavor. This variation feels more garden-fresh and aromatic, perfect for spring or summer dinners.",
+            "technical_note": "Add delicate herbs like basil at the end to preserve their aroma."
+        },
+        {
+            "name": "Vegetable-Loaded Shrimp Pasta",
+            "description": "Toss in sautéed zucchini, spinach, or asparagus for added nutrition and texture. The veggies soak up the lemon-garlic sauce and add a welcome bite, making the dish more wholesome.",
+            "technical_note": "Cook vegetables separately and add them when tossing pasta to avoid overcooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This shrimp pasta should not be left at room temperature for more than 2 hours to prevent bacterial growth. Cover it loosely with foil or a clean kitchen towel if serving shortly after cooking.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The pasta may absorb sauce and become drier, so reheat gently with a splash of water or broth to restore moisture. Flavor is best fresh but still tasty when reheated.",
+        "freezer": "Shrimp pasta can be frozen for up to 1 month. Portion into airtight containers or heavy-duty freezer bags, removing as much air as possible. Thaw overnight in the fridge before reheating. Texture may slightly soften after freezing.",
+        "reheating": "Reheat on the stovetop over low heat, adding a little water or broth to loosen the sauce. Avoid microwaving at high heat to prevent rubbery shrimp. Stir gently until warmed through but not hot enough to overcook shrimp.",
+        "make_ahead_strategy": "Cook the pasta and shrimp separately and store them in the fridge for up to 1 day. Reheat shrimp gently and toss with freshly cooked pasta and lemon juice just before serving to keep textures fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen shrimp for this recipe?",
+            "answer": "Yes, frozen shrimp works well as long as it’s properly thawed before cooking. Thaw shrimp overnight in the fridge or under cold running water. Pat dry thoroughly to avoid excess moisture, which can cause the shrimp to steam rather than sear."
+        },
+        {
+            "question": "What pasta works best with shrimp?",
+            "answer": "Long, thin pastas like linguine, spaghetti, or fettuccine are ideal because they hold the lemon-garlic sauce nicely. You can also use short pasta like penne or farfalle if preferred; just adjust cooking time accordingly."
+        },
+        {
+            "question": "How do I prevent the shrimp from getting rubbery?",
+            "answer": "Cook shrimp just until they turn pink and opaque — usually 2-3 minutes per side. Remove immediately from heat to avoid overcooking. Shrimp cook very quickly, so watch them closely and don’t walk away during cooking."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Absolutely! This recipe uses olive oil and no dairy by default, so it’s naturally dairy-free. Just skip any optional butter or cream variations to keep it suitable for dairy-free diets."
+        },
+        {
+            "question": "Is it okay to use bottled lemon juice?",
+            "answer": "While you can use bottled lemon juice in a pinch, fresh lemon juice provides a brighter, fresher flavor that really makes the dish pop. Bottled juice can taste flat or even slightly bitter."
+        },
+        {
+            "question": "How do I store and reheat leftovers without drying them out?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on the stovetop with a splash of water or broth to loosen the sauce and keep shrimp tender. Avoid microwaving at high power, which can dry out shrimp."
+        },
+        {
+            "question": "Can I add vegetables to this pasta?",
+            "answer": "Definitely! Sautéed spinach, zucchini, or cherry tomatoes work great. Cook veggies separately and add them when tossing the pasta and shrimp together to avoid overcooking."
+        },
+        {
+            "question": "What do I do if I don’t have fresh parsley?",
+            "answer": "Fresh parsley adds a nice pop of color and freshness, but if you don’t have any, you can use dried parsley or substitute with other fresh herbs like basil or cilantro. Add dried herbs sparingly as their flavor is more concentrated."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this bright, quick shrimp pasta as much as I do. It’s a simple recipe that feels special—give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "easy shrimp pasta recipe",
+        "secondary_keywords": [
+            "quick shrimp pasta",
+            "lemon garlic shrimp pasta",
+            "how to make shrimp pasta",
+            "best shrimp pasta recipe",
+            "easy shrimp pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "garlic butter shrimp recipe",
+                "anchor": "garlic-butter-shrimp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_1.png",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_1.png",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_2.png",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_2.png",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_3.png",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_3.png",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images/5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781219324_996",
+    "slug": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat",
+    "isOnline": true,
+    "createdAt": "2026-06-12T00:19:59+01:00",
+    "updatedAt": "2026-06-12T00:19:59+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230072_178",
+    "image_dir": "5-ingredient-lemon-garlic-shrimp-pasta-for-busy-weeknights-that-tastes-like-a-treat/images"
+}

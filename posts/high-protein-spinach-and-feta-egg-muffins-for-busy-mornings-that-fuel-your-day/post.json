@@ -1,0 +1,339 @@
+{
+    "title": "Protein-Packed Spinach and Feta Egg Muffins for Busy Mornings",
+    "promptIMG": "Food photography: Spinach and Feta Egg Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These egg muffins are a quick, protein-rich breakfast featuring fresh spinach and tangy feta. They’re super easy to make and perfect for busy mornings or a relaxed brunch with friends.",
+    "hashtags": "#eggmuffins #breakfastideas #proteinpacked",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Delicious Spinach and Feta Egg Muffins to Start Your Day Right",
+            "description": "Wake up to these tasty spinach and feta egg muffins! They're packed with protein and ready in no time. Save this recipe for a quick breakfast fix. 🥚🌿 #BreakfastOnTheGo #HealthyEats #EggMuffins"
+        },
+        {
+            "title": "Quick and Healthy Spinach Feta Egg Muffins You’ll Love",
+            "description": "Looking for a fast, healthy breakfast? These egg muffins with spinach and feta are perfect for busy mornings or brunch. Try them today and enjoy a flavorful start! 🧀🍳 #EasyBreakfast #ProteinBreakfast #MealPrep"
+        },
+        {
+            "title": "Make-Ahead Spinach and Feta Egg Muffins for Busy Mornings",
+            "description": "Prep these spinach and feta egg muffins ahead for grab-and-go mornings. They’re delicious warm or cold—perfect for your hectic schedule. Discover now and simplify breakfast! 🌿🥚 #MealPrepIdeas #HealthyBreakfast #EggRecipes"
+        },
+        {
+            "title": "Flavorful Spinach and Feta Egg Muffins Everyone Will Enjoy",
+            "description": "These egg muffins combine fresh spinach and creamy feta for a breakfast that’s both tasty and nutritious. Save this recipe and try it this weekend! 🥚🧀 #BrunchIdeas #HealthyEating #EggMuffins"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 6,
+    "ingredients": [
+        "6 large eggs, beaten",
+        "1 cup fresh spinach, chopped",
+        "1/2 cup feta cheese, crumbled",
+        "1/4 cup milk",
+        "1 small onion, finely chopped",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 teaspoon garlic powder",
+        "1 tablespoon olive oil or butter"
+    ],
+    "yield": "6 muffins, 3 servings",
+    "introduction": "I've been making these spinach and feta egg muffins for years, especially on mornings when I’m rushing out the door. The first time I tried a similar recipe, it was a bit bland, so I started adding fresh spinach and tangy feta to punch up the flavor. What makes this version stand out is the balance between creamy eggs and salty feta, plus the freshness from the spinach. I also like to sauté the onions lightly before mixing everything, which adds a subtle sweetness and depth. The trick I discovered is to whisk the eggs just enough to combine but not overbeat them, so the muffins stay light and fluffy rather than rubbery. When baked, they come out golden and firm yet tender inside, perfect for eating warm or cold. They’re great for a quick breakfast, a brunch spread, or even a protein-packed snack during the day. I love how easy they are to customize too—sometimes I toss in some chopped tomatoes or herbs. Honestly, once you make these, they’ll become a breakfast staple you’ll reach for again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and lightly grease a muffin tin with olive oil or butter. This step is crucial to prevent the muffins from sticking and ensures they come out cleanly. Using oil also helps the muffins develop a slight golden crust around the edges, adding texture. Make sure to coat each cup evenly, or you might find some muffins harder to remove later.",
+            "timing": "5 minutes",
+            "doneness_cue": "Muffin tin is evenly greased with a slight sheen but no pools of oil"
+        },
+        {
+            "step": 2,
+            "instruction": "In a skillet over medium heat, sauté the finely chopped onion in a little olive oil until soft and translucent, about 3-4 minutes. This step mellows the onion’s sharpness and brings out its natural sweetness, which adds subtle flavor to the muffins. Avoid browning the onions as that would change the taste profile and could overpower the delicate spinach and feta.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions are soft, translucent, and fragrant without browning"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, whisk together the beaten eggs and milk until combined but not too frothy. The milk adds moisture and helps keep the muffins tender. Over-whisking can incorporate too much air, making the muffins rise unevenly and become spongy, so mix just until blended.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is smooth and uniform in color without bubbles on top"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the sautéed onions, chopped spinach, crumbled feta, salt, pepper, and garlic powder to the egg mixture. Stir gently to combine all the ingredients evenly. This ensures each muffin has a balanced distribution of flavors and avoids clumps of spinach or feta in just a few muffins.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients are evenly mixed with no large clumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the egg mixture evenly into the prepared muffin tin cups, filling each about 3/4 full to allow room for the muffins to puff up as they bake. Overfilling can cause spills and uneven cooking, while underfilling results in smaller, less satisfying muffins.",
+            "timing": "5 minutes",
+            "doneness_cue": "Each cup is filled evenly and not overflowing"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the muffin tin in the preheated oven and bake for 18-20 minutes. Baking at a moderate temperature ensures the eggs cook through gently, preventing rubbery edges and a dry center. Avoid opening the oven door frequently, as this can cause temperature fluctuations and uneven baking.",
+            "timing": "18-20 minutes",
+            "doneness_cue": "Muffins are set, slightly golden on top, and a toothpick inserted comes out clean"
+        },
+        {
+            "step": 7,
+            "instruction": "Once baked, remove the muffins from the oven and let them cool in the tin for 5 minutes. This resting period helps them firm up and makes them easier to remove without breaking. Use a small knife or spatula to loosen the edges gently before lifting them out.",
+            "timing": "5 minutes",
+            "doneness_cue": "Muffins hold their shape and come out cleanly from the tin"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the egg muffins warm for the best texture and flavor, or let them cool completely before storing. They’re delicious on their own or paired with a fresh salad or toast. Warm muffins have a tender, fluffy inside and a slight crispness on the edges.",
+            "timing": "Immediate",
+            "doneness_cue": "Muffins feel warm and slightly springy to the touch"
+        },
+        {
+            "step": 9,
+            "instruction": "To store leftovers, place cooled muffins in an airtight container and refrigerate for up to 3 days. For longer storage, freeze them individually wrapped. When reheating, warm gently in the microwave or oven with a splash of water to maintain moisture. This helps preserve their soft texture and prevents drying out.",
+            "timing": "Varies",
+            "doneness_cue": "Muffins are reheated thoroughly, moist, and tender"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Spinach and Feta Egg Muffins",
+        "content": "<p>These egg muffins succeed because of the balance between protein structure, moisture content, and flavor layering. Eggs provide the base, and when beaten gently with milk, they create a custard-like texture that’s tender yet firm. The milk adds liquid fat and moisture, preventing the muffins from becoming rubbery or dry. Overbeating the eggs would incorporate too much air, leading to a spongy texture that doesn’t hold well after baking.</p><p>The sautéed onions add sweetness and depth, which balances the salty, tangy feta cheese. Feta’s crumbly texture contrasts nicely with the soft eggs, giving every bite complexity. Fresh spinach adds a mild earthiness and vibrant color, plus nutrients. It’s important to chop the spinach finely and distribute it evenly to avoid clumps that might release excess water and make the muffins soggy.</p><p>Cooking at a moderate 350°F allows the eggs to set slowly, avoiding tough edges or an undercooked center. The Maillard reaction on the muffin edges creates a golden crust that adds flavor and texture without drying out the interior. Letting the muffins cool briefly in the pan helps them firm up for easy removal and better shape retention.</p><p>Overall, the recipe balances moisture, protein coagulation, and flavor layering to create a satisfying, portable breakfast that’s easy to customize. The technique of gentle mixing, sautéing aromatics, and proper baking temperature ensures a tender, flavorful muffin every time.</p>",
+        "ingredient_notes": {
+            "eggs": "Choose large, fresh eggs for the best texture and flavor. Fresh eggs hold their shape better when beaten, resulting in fluffier muffins. Avoid using eggs that are too old, as they can produce a watery mixture and affect the final consistency. For a richer muffin, organic or free-range eggs add depth of flavor and color.",
+            "fresh spinach": "Use fresh, vibrant green spinach leaves rather than frozen. Frozen spinach tends to release excess water, which can make the muffins soggy. Chop the spinach finely to distribute evenly and wilt it slightly in the pan if you want to reduce moisture further. Fresh spinach adds a mild, slightly sweet earthiness to the muffins.",
+            "feta cheese": "Opt for a good-quality, crumbly feta that’s brined but not overly salty. Feta adds a tangy, salty punch and creamy texture contrast. Avoid pre-crumbled feta with preservatives or excessive moisture. If you prefer, you can substitute with goat cheese or ricotta for a milder flavor, but texture will differ.",
+            "milk": "Whole milk provides richness and moisture, helping the muffins stay tender. Skim or low-fat milk can be used but may yield slightly drier muffins. Milk also helps dilute the egg proteins, moderating coagulation and preventing toughness. Non-dairy milk can be substituted but may alter flavor and texture.",
+            "onion": "Using a small, finely chopped onion that’s lightly sautéed softens its sharpness and adds a subtle sweetness that complements the feta and spinach. Raw onion would be too pungent and texturally harsh. Cooking onions gently until translucent is key to achieving balance without overpowering the eggs."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk eggs gently just until combined, don’t overbeat.",
+            "reason": "Overbeating eggs incorporates too much air, which can cause the muffins to rise unevenly and become rubbery or spongy. Gentle whisking helps create a smooth custard that bakes into tender, fluffy muffins."
+        },
+        {
+            "tip": "Sauté onions before adding to the egg mixture.",
+            "reason": "Cooking onions softens their sharpness and releases natural sugars, adding sweetness and depth. Raw onions would be too pungent and can detract from the delicate balance of flavors in the muffins."
+        },
+        {
+            "tip": "Use fresh spinach and chop it finely.",
+            "reason": "Fresh spinach adds vibrant color and mild flavor without excess moisture. Chopping it finely ensures even distribution and prevents clumps that could release water and make the muffins soggy."
+        },
+        {
+            "tip": "Grease the muffin tin well to prevent sticking.",
+            "reason": "Because eggs can stick easily, greasing the tin thoroughly helps muffins release cleanly and maintain their shape, avoiding breakage when removing."
+        },
+        {
+            "tip": "Fill muffin cups about 3/4 full.",
+            "reason": "This allows the muffins room to rise without spilling over, ensuring even baking and a nice rounded top."
+        },
+        {
+            "tip": "Bake at 350°F for even cooking.",
+            "reason": "Moderate oven temperature lets the eggs set slowly, preventing tough edges and undercooked centers. High heat risks drying out the muffins."
+        },
+        {
+            "tip": "Let muffins cool in the pan for 5 minutes before removing.",
+            "reason": "Resting helps the muffins firm up and makes them easier to remove from the tin without breaking or crumbling."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbeating the eggs",
+            "why_it_happens": "Many assume more whisking makes a fluffier texture, but overbeating traps excess air, leading to rubbery muffins.",
+            "fix": "Whisk eggs just until yolks and whites combine smoothly, avoiding vigorous beating. This ensures tender, custardy muffins instead of tough, spongy ones."
+        },
+        {
+            "mistake": "Using frozen spinach without draining",
+            "why_it_happens": "Frozen spinach is convenient but often has excess water that can make muffins soggy.",
+            "fix": "If using frozen spinach, thaw fully and squeeze out all moisture before adding. Alternatively, use fresh spinach for better texture."
+        },
+        {
+            "mistake": "Skipping the sautéing of onions",
+            "why_it_happens": "Some may add raw onions to save time, but raw onion flavor is harsh and overpowering.",
+            "fix": "Take a few minutes to sauté onions until translucent to mellow their sharpness and add natural sweetness."
+        },
+        {
+            "mistake": "Filling muffin cups too full",
+            "why_it_happens": "Filling cups to the brim causes spills and uneven baking.",
+            "fix": "Fill each cup about 3/4 full to allow muffins to rise without overflowing for even cooking and neat presentation."
+        },
+        {
+            "mistake": "Not greasing the muffin tin properly",
+            "why_it_happens": "Eggs stick easily, and insufficient greasing leads to muffins breaking when removed.",
+            "fix": "Grease each muffin cup thoroughly with oil or butter, or use silicone liners to ensure easy release."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Cherry Tomatoes and Basil",
+            "description": "For a fresh twist, add halved cherry tomatoes and chopped fresh basil to the egg mixture. This brings a bright, summery flavor and a pop of color. The tomatoes add juiciness while basil adds aromatic notes that complement the feta and spinach.",
+            "technical_note": "Because tomatoes add moisture, pat them dry before adding and monitor baking time to avoid sogginess."
+        },
+        {
+            "name": "Use Goat Cheese Instead of Feta",
+            "description": "Swap feta for creamy goat cheese for a milder, slightly tangier flavor. Goat cheese melts differently, creating pockets of creaminess inside the muffins. This variation softens the salty punch and adds richness.",
+            "technical_note": "Goat cheese is softer, so crumble gently and avoid overmixing to keep texture contrast."
+        },
+        {
+            "name": "Add Cooked Bacon or Sausage",
+            "description": "For a heartier breakfast muffin, stir in cooked, crumbled bacon or sausage. This adds smoky, savory depth and extra protein, making the muffins a filling meal on their own.",
+            "technical_note": "Make sure meat is fully cooked and drained of excess fat to prevent greasiness in the muffins."
+        },
+        {
+            "name": "Make Vegan Egg Muffins",
+            "description": "Replace eggs with a chickpea flour batter mixed with plant-based milk and nutritional yeast for a vegan version. Use vegan feta or tofu for creaminess and add sautéed veggies for flavor.",
+            "technical_note": "Baking time may be longer and texture will be denser; monitor doneness carefully."
+        },
+        {
+            "name": "Add Red Pepper Flakes for Heat",
+            "description": "If you like a bit of spice, add a pinch of red pepper flakes to the egg mixture. This adds a subtle kick that pairs well with the salty feta and mild spinach.",
+            "technical_note": "Adjust spice level to taste and add gradually to avoid overpowering the delicate flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "13g",
+        "fiber_grams": "1g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These egg muffins can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean cloth to prevent drying out. Beyond that, bacteria growth risks increase, so refrigerate promptly.",
+        "refrigerator": "Store leftover muffins in an airtight container in the fridge for up to 3 days. Flavor and texture may firm up when cold; reheat gently in the microwave or oven for best results.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer bag for up to 2 months. This prevents freezer burn and maintains freshness. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat muffins in the microwave for 30-45 seconds or in a 325°F oven for 10 minutes. Adding a splash of water before microwaving helps keep them moist. Avoid overheating which can dry them out.",
+        "make_ahead_strategy": "You can prepare the egg mixture and chop ingredients 1 day ahead, storing separately in the fridge. Assemble and bake muffins fresh on the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Yes, but it’s important to thaw frozen spinach completely and squeeze out all excess moisture before adding it to the egg mixture. Frozen spinach tends to be watery, which can make the muffins soggy if not drained properly."
+        },
+        {
+            "question": "How do I know when the egg muffins are fully cooked?",
+            "answer": "They’re done when the tops are set and lightly golden, and a toothpick inserted into the center comes out clean. The muffins should feel firm but still slightly springy to the touch."
+        },
+        {
+            "question": "Can I freeze these egg muffins?",
+            "answer": "Absolutely! Wrap each muffin tightly in plastic wrap and store them in a sealed freezer bag. They keep well for up to 2 months. Thaw overnight in the fridge and reheat gently before serving."
+        },
+        {
+            "question": "What can I substitute for feta cheese?",
+            "answer": "You can use goat cheese for a milder, creamy flavor or ricotta for a softer texture. Avoid very mild cheeses like mozzarella, as they won’t provide the salty tang that feta brings to the muffins."
+        },
+        {
+            "question": "Can I add other vegetables to this recipe?",
+            "answer": "Yes! Chopped bell peppers, tomatoes, or mushrooms work well. Just make sure to cook any raw vegetables like mushrooms or onions first to remove excess moisture and prevent sogginess."
+        },
+        {
+            "question": "How long do these muffins keep in the fridge?",
+            "answer": "Store them in an airtight container for up to 3 days. After that, they may start to dry out or lose flavor. Reheat gently to restore moisture and texture."
+        },
+        {
+            "question": "Can I make these muffins dairy-free?",
+            "answer": "Yes, use a dairy-free milk alternative like almond or oat milk and substitute feta with a vegan cheese option or omit it entirely. The texture will be slightly different but still tasty."
+        },
+        {
+            "question": "Why do my egg muffins sometimes turn rubbery?",
+            "answer": "This usually happens if the eggs are overbeaten or baked at too high a temperature. Be sure to mix gently and bake at 350°F to get a tender, fluffy texture without toughness."
+        }
+    ],
+    "conclusion": "Give these spinach and feta egg muffins a try—you’ll love how easy and delicious they are. Don’t forget to share your results and any fun twists you try!",
+    "seo": {
+        "primary_keyword": "spinach feta egg muffins",
+        "secondary_keywords": [
+            "healthy egg muffins",
+            "easy breakfast muffins",
+            "how to make egg muffins",
+            "best spinach egg muffins recipe",
+            "protein packed breakfast muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast ideas",
+                "anchor": "easy-breakfast-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_1.png",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_1.png",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_2.png",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_2.png",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_3.png",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_3.png",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_5.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_6.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_9.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_4.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_7.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_8.webp",
+            "relativePath": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images/high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781219435_612",
+    "slug": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day",
+    "isOnline": true,
+    "createdAt": "2026-06-12T00:19:59+01:00",
+    "updatedAt": "2026-06-12T00:19:59+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "high-protein-spinach-and-feta-egg-muffins-for-busy-mornings-that-fuel-your-day/images"
+}

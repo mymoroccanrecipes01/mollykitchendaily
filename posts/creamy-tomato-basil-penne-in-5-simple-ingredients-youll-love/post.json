@@ -1,0 +1,337 @@
+{
+    "title": "Creamy Tomato Basil Penne That’s Ready in 30 Minutes Flat",
+    "promptIMG": "Food photography: Creamy Tomato Basil Penne, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy tomato basil penne is my go-to when I want something comforting but quick. The secret is adding a splash of cream that mellows the tangy tomato and makes the sauce silky. Perfect for a cozy weeknight dinner!",
+    "hashtags": "#tomatobasilpasta #quickdinner #comfortfood",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Creamy Tomato Basil Penne – A Cozy Weeknight Winner!",
+            "description": "Looking for a quick, comforting pasta? This creamy tomato basil penne comes together in just 30 minutes with simple ingredients. Save this recipe and try it tonight! 🍝🌿 #comfortfood #easyrecipes #pastalover"
+        },
+        {
+            "title": "How to Make Creamy Tomato Basil Penne in 30 Minutes",
+            "description": "Discover the secret to silky, flavorful tomato basil penne that’s ready fast. Perfect for busy weeknights when you want something delicious without fuss. Try it today! 🍅🕒 #quickdinner #pastarecipes #weeknightmeals"
+        },
+        {
+            "title": "Simple & Creamy Tomato Basil Penne You’ll Love",
+            "description": "This pasta is all about fresh basil, tangy tomato, and a touch of cream for richness. It’s easy, cozy, and perfect for dinner any night of the week. Save this recipe now! 🍽️🌿 #tomatopasta #comfortfood #easymeals"
+        },
+        {
+            "title": "30-Minute Creamy Tomato Basil Penne That Hits the Spot",
+            "description": "Whip up this creamy tomato basil penne in no time! The cream balances the acidity beautifully, making it a family favorite. Don’t wait—discover this delicious recipe today! 🍝❤️ #pastadinner #quickmeals #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces penne pasta, dry",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 can (14 ounces) crushed tomatoes",
+        "1/2 cup heavy cream",
+        "1 cup fresh basil leaves, chopped",
+        "Salt and pepper to taste",
+        "Grated Parmesan cheese, for serving (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this creamy tomato basil penne a few years ago when I was craving pasta but wanted something quick and fresh. The classic tomato sauce can sometimes feel a bit acidic or flat, but adding just a splash of cream changes everything. It gives the sauce a rich, silky texture that pairs beautifully with the bright basil. I love how simple the ingredient list is — just five main things, yet the flavors sing together so well. One trick I learned is to add the cream off the heat to keep it from curdling and to stir in the fresh basil last to preserve its vibrant flavor. The finished dish looks inviting with its glossy sauce and flecks of green, and it tastes like a warm hug on a plate. It’s perfect for those weeknights when you want to feel cozy without spending hours in the kitchen. Plus, it reheats wonderfully, so leftovers are a bonus. Honestly, this recipe became a quick favorite in my house because it’s comforting but still light and fresh.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente, usually about 10-12 minutes. Cooking pasta properly is key because overcooked pasta will turn mushy and ruin the texture of your dish. Be sure to taste it a minute or two before the time is up to avoid overcooking. Drain the pasta and set aside, reserving about a cup of pasta water to adjust the sauce consistency later if needed.",
+            "timing": "12 minutes",
+            "doneness_cue": "Pasta should be tender but still firm to the bite (al dente)"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat the olive oil in a large skillet over medium heat. Add minced garlic and sauté for 1-2 minutes until fragrant but not browned, as burnt garlic tastes bitter. This gentle cooking extracts garlic’s flavor into the oil, which forms the base of your sauce. Keep stirring to prevent sticking or burning, which can happen quickly once garlic hits hot oil.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is fragrant and lightly softened without any browning"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the crushed tomatoes and stir to combine with the garlic oil. Bring the sauce to a gentle simmer and let it cook for about 10 minutes, stirring occasionally. Simmering helps deepen the tomato flavor and reduces excess water, making the sauce thicker and more concentrated. Avoid boiling vigorously as this can cause the sauce to taste harsh.",
+            "timing": "10 minutes",
+            "doneness_cue": "Sauce thickens slightly and deepens in color"
+        },
+        {
+            "step": 4,
+            "instruction": "Turn the heat to low and slowly stir in the heavy cream. Adding cream off high heat prevents it from curdling and keeps the sauce smooth and velvety. Stir gently until the sauce is fully combined and creamy. If the sauce feels too thick, add a splash of reserved pasta water to loosen it up to your preferred consistency.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce has a silky, creamy texture with a pale pink hue"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cooked penne pasta directly into the skillet with the sauce, tossing gently to coat every piece. Let the pasta warm through for a minute or two so it soaks up the sauce flavors. Tossing pasta in the sauce rather than just pouring sauce over it ensures every bite is flavorful and well-coated.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta is evenly coated and heated through"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the skillet from heat and fold in the chopped fresh basil leaves. Adding basil at the end preserves its bright, fresh flavor and vibrant green color, which would fade if cooked too long. This step adds a lovely herbal lift that balances the richness of the cream.",
+            "timing": "1 minute",
+            "doneness_cue": "Basil is bright green and fragrant, evenly distributed"
+        },
+        {
+            "step": 7,
+            "instruction": "Season the pasta with salt and freshly ground black pepper to taste. Seasoning at the end lets you control the final flavor balance since the sauce has reduced and concentrated. Taste carefully and adjust as needed for a perfect balance of saltiness and brightness.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavor is balanced with no overpowering salt or blandness"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the creamy tomato basil penne hot, topped with a generous sprinkle of grated Parmesan cheese if you like. The salty, nutty Parmesan adds an extra layer of flavor and richness that complements the sauce beautifully. Freshly cracked black pepper on top is a nice finishing touch.",
+            "timing": "Immediate",
+            "doneness_cue": "Pasta looks glossy and inviting with melted cheese topping"
+        },
+        {
+            "step": 9,
+            "instruction": "If you have leftovers, cool the pasta quickly and store it in an airtight container in the fridge. When reheating, add a splash of cream or pasta water to rehydrate the sauce and warm gently on the stove or microwave to avoid drying out. This keeps the texture creamy and fresh-tasting.",
+            "timing": "N/A",
+            "doneness_cue": "Reheated pasta is creamy and evenly warmed without dryness"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Tomato Basil Penne Works So Well",
+        "content": "<p>This recipe shines because it balances acidity, richness, and freshness perfectly. The crushed tomatoes bring bright, tangy flavor that’s the backbone of the sauce. Simmering the tomatoes gently reduces water content and concentrates their natural sweetness, preventing a watery or bland sauce.</p><p>Adding heavy cream at low heat is the magic that turns a simple tomato sauce into a luscious, silky coating for the pasta. Cream contains fat and emulsifiers that smooth out the natural acidity of the tomatoes, mellowing sharp edges and creating a rich mouthfeel. Adding it off the heat avoids curdling, which can ruin the texture.</p><p>Fresh basil is added last to preserve its vibrant color and aromatic oils. Cooking basil too long causes it to lose brightness and turn dull, so folding it in at the end ensures that fresh herbal note bursts through with every bite. This contrast between creamy sauce and fresh herb keeps the dish feeling light and balanced.</p><p>Lastly, cooking the pasta al dente and tossing it in the sauce rather than just pouring sauce over it ensures every piece is coated and flavorful. The reserved pasta water can be used to loosen the sauce and help it cling to the pasta, thanks to starches released during cooking. This technique creates a cohesive dish rather than a pile of soggy noodles.</p>",
+        "ingredient_notes": {
+            "Crushed Tomatoes": "Look for high-quality canned crushed tomatoes with no added sugar or preservatives. San Marzano or similar Italian-style tomatoes offer natural sweetness and less acidity, which makes the sauce smoother. The crushed texture provides body to the sauce without needing to break down fresh tomatoes, saving time.",
+            "Heavy Cream": "Use heavy cream with at least 36% fat for the best silky texture. Lower-fat creams or milk can curdle when added to hot tomato sauce. Heavy cream emulsifies with tomato acids, balancing sharpness and creating richness. Always add cream off the heat to prevent separation.",
+            "Fresh Basil": "Choose bright green, fragrant basil leaves without brown spots. Fresh basil’s essential oils add a vibrant, peppery flavor that defines this recipe. Chop just before adding and fold in last to keep its flavor and color intact. Dried basil won’t deliver the same freshness or aroma.",
+            "Penne Pasta": "Penne is ideal for this sauce because its ridges and hollow shape trap the creamy sauce, giving every bite flavor. Use a good-quality durum wheat pasta for firm texture. Cooking to al dente prevents mushiness and ensures the pasta holds up when tossed in sauce.",
+            "Olive Oil": "Extra virgin olive oil adds a fruity, slightly peppery base flavor to the garlic sauté. Use good quality oil for the best aroma. Olive oil also helps gently cook garlic without burning it, infusing the sauce with subtle richness before adding tomatoes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Reserve some pasta water before draining.",
+            "reason": "The starchy pasta water helps loosen the sauce and helps it cling to the noodles, creating a creamier, more cohesive dish. Without it, the sauce can feel thick or separate from the pasta."
+        },
+        {
+            "tip": "Add cream off the heat.",
+            "reason": "Adding cream to a boiling sauce risks curdling, which ruins texture and appearance. Stirring it in off heat keeps the sauce smooth and silky, preserving its rich mouthfeel."
+        },
+        {
+            "tip": "Don’t overcook the garlic.",
+            "reason": "Garlic burns quickly and turns bitter if cooked too long or on too high heat. Cooking it gently in olive oil releases its aroma without harsh flavors, forming a perfect base."
+        },
+        {
+            "tip": "Add fresh basil at the end.",
+            "reason": "Basil loses flavor and color when cooked too long. Adding it last preserves its bright, fresh taste and vibrant green color, which lifts the whole dish."
+        },
+        {
+            "tip": "Use high-quality canned tomatoes.",
+            "reason": "Better tomatoes mean richer flavor and less acidity. San Marzano or similar varieties produce a naturally sweet, balanced sauce without extra seasoning."
+        },
+        {
+            "tip": "Cook pasta to al dente.",
+            "reason": "Overcooked pasta becomes mushy and won’t hold sauce well. Al dente pasta has a slight bite and texture that complements the creamy sauce perfectly."
+        },
+        {
+            "tip": "Stir pasta gently when combining with sauce.",
+            "reason": "Rough handling can break pasta and release excess starch, making the dish gluey. Gentle tossing keeps pasta intact and evenly coated."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding cream while sauce is boiling",
+            "why_it_happens": "Many cooks add cream directly to hot sauce thinking it will blend better, but high heat causes cream to curdle.",
+            "fix": "Let the sauce cool slightly or reduce heat to low before stirring in cream gently. This keeps the sauce smooth and prevents separation."
+        },
+        {
+            "mistake": "Overcooking pasta",
+            "why_it_happens": "Rushing or not tasting pasta during cooking leads to mushy noodles that can’t hold sauce.",
+            "fix": "Taste pasta a minute or two before package time ends and drain when al dente—tender but firm to bite."
+        },
+        {
+            "mistake": "Burning garlic",
+            "why_it_happens": "High heat or unattended garlic cooks too fast and turns bitter.",
+            "fix": "Cook garlic on medium or medium-low heat, stirring often, until fragrant and soft but not browned."
+        },
+        {
+            "mistake": "Skipping basil or cooking it too long",
+            "why_it_happens": "Some add basil early or use dried herbs, losing fresh flavor and aroma.",
+            "fix": "Add fresh basil at the very end, off heat, to preserve its bright taste and color."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Assuming canned tomatoes are already salty or forgetting to taste the sauce causes blandness.",
+            "fix": "Season gradually with salt and pepper after sauce simmers and after cream is added, tasting as you go."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Creamy Tomato Basil Penne",
+            "description": "Add a pinch of red pepper flakes when sautéing the garlic for a gentle heat that complements the creamy tomato sauce. This variation adds warmth without overpowering the fresh basil flavor.",
+            "technical_note": "Adjust spice level to taste; adding flakes early infuses oil with heat and flavor."
+        },
+        {
+            "name": "Vegan Creamy Tomato Basil Penne",
+            "description": "Swap heavy cream for full-fat coconut milk or cashew cream and use nutritional yeast instead of Parmesan. This keeps the sauce creamy and rich while making it vegan-friendly.",
+            "technical_note": "Add plant-based cream off heat to prevent separation; texture will be slightly different but still smooth."
+        },
+        {
+            "name": "Cheesy Baked Tomato Basil Penne",
+            "description": "After tossing pasta with sauce, transfer to a baking dish, top with mozzarella and Parmesan, then broil until bubbly and golden. This adds a melty, crispy cheese layer for extra indulgence.",
+            "technical_note": "Bake at high heat just long enough to melt cheese and create a golden crust, about 5-7 minutes."
+        },
+        {
+            "name": "Pesto Swirl Tomato Basil Penne",
+            "description": "Stir in a few tablespoons of fresh pesto into the sauce for an herby, nutty twist that amplifies the basil flavor and adds complexity.",
+            "technical_note": "Add pesto off heat to preserve fresh herb oils and vibrant color."
+        },
+        {
+            "name": "Mushroom and Spinach Creamy Tomato Penne",
+            "description": "Sauté sliced mushrooms and fresh spinach with the garlic before adding tomatoes for extra earthiness and nutrition. This variation adds texture and color.",
+            "technical_note": "Cook mushrooms until browned to develop flavor, then add spinach last to wilt quickly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "14g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "560mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta is best served fresh but can safely sit at room temperature covered for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate leftovers promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the pasta can absorb liquid, so reheat gently with a splash of cream or water to restore creaminess.",
+        "freezer": "Freeze cooked pasta in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat on the stovetop over low heat, stirring in a splash of cream or pasta water to loosen sauce. Avoid high heat which can dry out pasta or cause sauce to separate. Microwave is fine but stir halfway through.",
+        "make_ahead_strategy": "You can prepare the sauce 1-2 days ahead and refrigerate. Cook pasta fresh when ready to serve, then combine and add basil last for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh tomatoes instead of canned crushed tomatoes?",
+            "answer": "Yes, but fresh tomatoes require more prep and cooking time. You’ll need to peel and crush them, then simmer longer to reduce excess liquid. Canned crushed tomatoes save time and offer consistent flavor."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half or whole milk for a lighter sauce, but it won’t be as rich or creamy. For a dairy-free option, try coconut milk or cashew cream, but add off heat to prevent curdling."
+        },
+        {
+            "question": "How do I prevent the cream from curdling in tomato sauce?",
+            "answer": "Add cream after reducing heat or off the heat entirely, stirring gently. High heat or boiling causes the cream to separate. This step is crucial for a smooth, velvety sauce."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! Use gluten-free penne pasta and ensure your canned tomatoes and other ingredients are gluten-free. Cooking times may vary slightly for gluten-free pasta."
+        },
+        {
+            "question": "How long does this pasta keep in the fridge?",
+            "answer": "Stored properly in an airtight container, it keeps well for up to 3 days. The sauce thickens and pasta absorbs moisture, so reheat gently with a splash of liquid to refresh."
+        },
+        {
+            "question": "Can I prepare the sauce ahead of time?",
+            "answer": "Yes, the sauce can be made 1-2 days in advance and refrigerated. Add cream and fresh basil just before tossing with freshly cooked pasta for best flavor and texture."
+        },
+        {
+            "question": "Is it better to toss pasta in sauce or just pour sauce over?",
+            "answer": "Tossing pasta in sauce ensures every piece is coated and flavorful. It also allows the pasta to soak up the sauce, creating a more harmonious dish."
+        },
+        {
+            "question": "What’s the best way to store leftovers for freezing?",
+            "answer": "Cool pasta completely, then transfer to a freezer-safe container or heavy-duty zip-top bag. Remove as much air as possible to prevent freezer burn. Thaw in fridge overnight before reheating."
+        }
+    ],
+    "conclusion": "I hope you give this creamy tomato basil penne a try soon—it’s one of those dishes that feels like a warm hug. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy tomato basil penne",
+        "secondary_keywords": [
+            "easy tomato basil pasta",
+            "how to make creamy tomato pasta",
+            "best creamy tomato basil recipe",
+            "quick creamy tomato penne"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic pasta sauce",
+                "anchor": "simple-garlic-pasta-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_1.png",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_1.png",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_2.png",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_2.png",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_3.png",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_3.png",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images/creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781219213_564",
+    "slug": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-06-12T00:19:59+01:00",
+    "updatedAt": "2026-06-12T00:19:59+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "creamy-tomato-basil-penne-in-5-simple-ingredients-youll-love/images"
+}
