@@ -1,0 +1,341 @@
+{
+    "title": "Cozy Campfire Chili: Hearty & Simple One-Pot Recipe for Outdoor Nights",
+    "promptIMG": "Food photography: Cozy Campfire Chili, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This campfire chili is the ultimate comfort food for chilly nights outdoors. Using simple ingredients and one pot, it’s packed with flavor and warms you up from the inside out. Perfect for backyard fires or camping trips!",
+    "hashtags": "#campfirechili #onepotmeal #comfortfood",
+    "board_name": "Easy Campfire Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Easy Campfire Chili Recipe!",
+            "description": "Nothing beats a hot bowl of chili after a day outside. This recipe is super easy and perfect for cooking over a fire or stove. Save it for your next camping trip! 🌶️🔥 #campfiremeals #easyrecipes #chililover"
+        },
+        {
+            "title": "Simple One-Pot Chili for Cozy Outdoor Nights",
+            "description": "Looking for a fuss-free meal that’s hearty and delicious? Try this campfire chili—just one pot and simple ingredients. Your friends will thank you! 🍲✨ #onepotrecipes #campingfood #comfortmeals"
+        },
+        {
+            "title": "Hearty Campfire Chili to Keep You Warm & Full",
+            "description": "This chili recipe is a classic for a reason — rich, filling, and easy to make outdoors. Perfect for chilly evenings around the fire. Try it today and feel the warmth! 🔥🥄 #comfortfood #campfirecooking #easymeals"
+        },
+        {
+            "title": "Make This Classic Campfire Chili for Your Next Outdoor Feast",
+            "description": "Ready for a simple, tasty meal that feeds a crowd? This campfire chili hits all the right notes. Discover the secret to making it perfect every time! 🍅🌶️ #chilirecipe #campfirecooking #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 medium onion, diced",
+        "2 cloves garlic, minced",
+        "1 pound ground beef or turkey",
+        "1 can (15 oz) kidney beans, drained and rinsed",
+        "1 can (15 oz) diced tomatoes",
+        "1 cup beef broth",
+        "2 tablespoons chili powder",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon smoked paprika",
+        "Salt and pepper to taste"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I've been making this campfire chili recipe for years now, and it’s become a staple for any outdoor gathering or chilly backyard night. The first time I tried cooking chili over a fire pit, I learned that keeping it simple with a handful of ingredients lets the flavors really shine. What makes this version special is the balance of smoky spices and the rich tomato base, which makes it so comforting and filling without being complicated. One secret I discovered is to let it simmer low and slow — it deepens the flavor and gives you that perfect thick texture. I remember once rushing the simmer and ending up with a watery chili, so patience is key! The finished dish is thick, hearty, and packed with warm spices, making it perfect served with crusty bread or over rice. Whether you’re camping or just enjoying a cool evening outside, this chili warms you up and brings everyone together around the fire.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the diced onion and sauté for about 5 minutes until softened and translucent. This step is important because cooking the onions slowly releases their natural sweetness, which builds a flavor base for the chili. Avoid turning the heat too high, or the onions will burn and taste bitter instead of sweet.",
+            "timing": 5,
+            "doneness_cue": "Onions should be soft and translucent with no browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and cook for another 1-2 minutes, stirring frequently. Garlic cooks quickly, so watch closely to prevent it from burning, which would make the chili taste bitter. The goal is to release the garlic’s aroma and flavor into the oil to infuse the whole dish.",
+            "timing": 2,
+            "doneness_cue": "Garlic should be fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the ground beef or turkey to the pot. Use a wooden spoon to break it up into small pieces as it cooks. Brown the meat thoroughly until no pink remains, about 7-8 minutes. Browning is crucial because it creates deep, savory flavors through the Maillard reaction, which gives the chili its meaty richness.",
+            "timing": 8,
+            "doneness_cue": "Meat should be uniformly browned with no pink spots"
+        },
+        {
+            "step": 4,
+            "instruction": "Drain any excess fat from the pot to prevent the chili from becoming greasy. This keeps the chili balanced and lets the spices shine. Too much fat can coat the palate and dull the flavors.",
+            "timing": 2,
+            "doneness_cue": "Pot should have little to no visible fat pooling"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the chili powder, ground cumin, smoked paprika, salt, and pepper. Stir well to coat the meat and onions in the spices. Toasting the spices briefly in the hot pot enhances their fragrance and deepens the flavor profile of the chili.",
+            "timing": 2,
+            "doneness_cue": "Spices should be evenly mixed and fragrant"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour in the diced tomatoes, kidney beans, and beef broth. Stir everything together to combine. The broth adds moisture to help the chili simmer, while the tomatoes and beans bring body and texture. Using canned tomatoes with juice helps create a nice sauce.",
+            "timing": 3,
+            "doneness_cue": "Ingredients should be fully combined with no dry spots"
+        },
+        {
+            "step": 7,
+            "instruction": "Bring the chili to a gentle boil, then reduce heat to low and cover partially with a lid. Let it simmer for 20 minutes, stirring occasionally. Slow simmering allows the flavors to meld and the chili to thicken without burning on the bottom.",
+            "timing": 20,
+            "doneness_cue": "Chili should be thickened and rich with a slightly reduced liquid"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the chili and adjust seasoning if needed, adding more salt, pepper, or chili powder to suit your preference. This step is key because spices can mellow during cooking, so a final tweak ensures a balanced flavor.",
+            "timing": 2,
+            "doneness_cue": "Flavor should be bold and balanced with a slight kick"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the chili hot, garnished with your favorite toppings like shredded cheese, chopped green onions, or a dollop of sour cream. These add-ons provide creamy or fresh contrast to the rich chili, enhancing the overall eating experience.",
+            "timing": 3,
+            "doneness_cue": "Chili should be steaming hot and visually appealing with toppings"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Campfire Chili Is So Delicious",
+        "content": "<p>This campfire chili recipe works so well because of the careful layering of flavors and textures. Starting with sautéed onions and garlic builds a sweet and aromatic base that complements the rich meat. The Maillard reaction during browning develops deep savory notes essential for hearty chili. Using smoked paprika adds a subtle smoky flavor that mimics cooking over a real campfire, enhancing the outdoor eating experience.</p><p>The combination of chili powder and cumin provides the classic warm spice profile, while the tomatoes and beans bring acidity and creaminess, balancing the dish. Simmering slowly allows the liquid to reduce and thicken, concentrating flavors and giving the chili a comforting, stew-like texture. The broth helps regulate moisture so the chili isn’t dry or soupy.</p><p>Another reason this recipe succeeds is the attention to seasoning and timing. Adding spices after browning and simmering gently prevents bitterness and allows flavors to meld naturally. Adjusting seasoning at the end ensures a perfect balance tailored to your taste. Finally, the choice of ingredients—quality canned tomatoes, fresh garlic, and good ground meat—makes a noticeable difference in flavor and texture.</p><p>Altogether, these steps create a chili that’s rich, hearty, and perfectly suited for outdoor cooking, whether over a fire or on the stove. It’s simple, satisfying, and reliably delicious every time.</p>",
+        "ingredient_notes": {
+            "ground beef or turkey": "Choose fresh, lean ground beef or turkey for the best flavor and texture. Lean meat reduces excess grease but still browns well to develop savory notes. Avoid pre-seasoned meat to control the chili’s seasoning precisely. If you prefer, turkey offers a lighter alternative that still absorbs spices nicely.",
+            "kidney beans": "Use canned kidney beans that are well rinsed to remove excess sodium and starch. Beans add creaminess and substance to the chili, balancing the meatiness. Avoid dried beans unless you soak and cook them properly first, as undercooked beans can be hard and unpleasant.",
+            "diced tomatoes": "Opt for high-quality canned diced tomatoes with juice to create a rich, flavorful sauce. Tomatoes bring acidity that brightens the chili and balances the richness. Avoid tomato sauces or purees here, as diced tomatoes add texture and body.",
+            "chili powder": "Select a chili powder blend with a good balance of heat and smokiness. It’s the core spice that defines the chili’s flavor. Fresh chili powder enhances aroma and taste, so avoid old or stale spices which can taste flat.",
+            "smoked paprika": "Smoked paprika imparts a subtle smoky depth reminiscent of campfire cooking. It’s key to mimicking that outdoor flavor indoors. Use sweet or hot smoked paprika depending on your heat preference, but don’t skip it—it elevates the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always brown the meat thoroughly before adding liquids.",
+            "reason": "Browning the meat creates complex flavors through the Maillard reaction. If you skip this step or rush it, the chili will lack depth and taste flat. Proper browning also improves texture by sealing in juices."
+        },
+        {
+            "tip": "Simmer chili gently with the lid partially on.",
+            "reason": "A low simmer prevents burning and allows flavors to meld slowly. Covering partially controls evaporation so the chili thickens without drying out. Rushing with high heat can cause sticking and uneven cooking."
+        },
+        {
+            "tip": "Use fresh spices and add them after browning the meat.",
+            "reason": "Toasting spices briefly in the hot pot releases oils and boosts aroma. Adding spices too early or using old ones leads to muted flavors or bitterness. Fresh spices ensure a vibrant, balanced chili."
+        },
+        {
+            "tip": "Drain excess fat after browning the meat.",
+            "reason": "Removing fat prevents the chili from becoming greasy, which can dull flavors and texture. It also helps the chili thicken properly during simmering for a better mouthfeel."
+        },
+        {
+            "tip": "Rinse canned beans before adding them.",
+            "reason": "Rinsing removes excess sodium and starch, preventing a gummy texture. It also helps the beans absorb chili flavors better and keeps the sauce from becoming too thick or pasty."
+        },
+        {
+            "tip": "Adjust seasoning at the end of cooking.",
+            "reason": "Flavors mellow during simmering, so final adjustments ensure the chili tastes balanced and vibrant. Skipping this can result in bland or overly salty chili."
+        },
+        {
+            "tip": "Serve with fresh toppings like sour cream or green onions.",
+            "reason": "Toppings add contrast in texture and flavor, enhancing the eating experience. Creamy or fresh elements balance the chili’s warmth and richness perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning of meat",
+            "why_it_happens": "Many cooks want to save time and add meat directly to the pot, assuming it will cook through just fine.",
+            "fix": "Always brown the meat first over medium heat until fully cooked. This step develops deep flavor and improves texture. Without it, chili tastes flat and lacks richness."
+        },
+        {
+            "mistake": "Simmering on too high heat",
+            "why_it_happens": "Rushing the cooking process or not adjusting heat after boiling the chili.",
+            "fix": "Lower the heat to a gentle simmer and partially cover the pot. This prevents burning and allows flavors to meld gradually, resulting in a thicker, tastier chili."
+        },
+        {
+            "mistake": "Not rinsing canned beans",
+            "why_it_happens": "Assuming canned beans are ready as-is and skipping the rinse step for convenience.",
+            "fix": "Drain and rinse beans under cold water to remove excess starch and sodium. This keeps the chili’s texture pleasant and prevents it from becoming gummy or too salty."
+        },
+        {
+            "mistake": "Adding spices too early",
+            "why_it_happens": "Some add spices with raw ingredients, leading to burnt or bitter flavors.",
+            "fix": "Add spices after browning the meat and onions. Toast them briefly in the hot pot to release aroma without burning."
+        },
+        {
+            "mistake": "Not adjusting seasoning at the end",
+            "why_it_happens": "Assuming initial seasoning is perfect without tasting the finished chili.",
+            "fix": "Always taste and tweak salt, pepper, and chili powder after simmering. This ensures a balanced, flavorful final dish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Campfire Chili",
+            "description": "Swap the ground meat for a mix of diced mushrooms and extra beans or lentils for a hearty vegetarian version. Add a splash of soy sauce for umami. The texture will be chunkier but just as satisfying.",
+            "technical_note": "Simmer a bit longer to let mushrooms soften and flavors meld well."
+        },
+        {
+            "name": "Spicy Chipotle Chili",
+            "description": "Add chopped chipotle peppers in adobo sauce for a smoky, spicy kick. This variation adds complexity and heat, perfect if you like your chili with a punch.",
+            "technical_note": "Add chipotle peppers during the spice step and adjust quantity to taste."
+        },
+        {
+            "name": "Slow Cooker Campfire Chili",
+            "description": "Brown the meat and sauté onions first, then transfer everything to a slow cooker. Cook on low for 6-8 hours for a hands-off, deeply flavorful chili.",
+            "technical_note": "Reduce added broth slightly to avoid a watery chili after long cooking."
+        },
+        {
+            "name": "Turkey and Sweet Potato Chili",
+            "description": "Use ground turkey and add diced sweet potatoes for a slightly sweet, nutrient-packed chili. The sweet potatoes add texture and balance the spices beautifully.",
+            "technical_note": "Add sweet potatoes early to ensure they become tender during simmering."
+        },
+        {
+            "name": "Chili with Corn and Black Beans",
+            "description": "Add canned corn and black beans along with kidney beans for a colorful, slightly sweeter chili. This variation is great for adding variety and extra fiber.",
+            "technical_note": "Corn can be added near the end of simmering to keep it crisp."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "8g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Chili can be safely kept at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly after serving. Cover with a lid or foil to prevent drying out.",
+        "refrigerator": "Store chili in an airtight container for up to 4 days. Flavor often improves after a day as spices meld. Reheat gently to avoid drying; add a splash of broth if needed. Cold chili can be used as a topping or in wraps.",
+        "freezer": "Freeze chili in airtight containers or heavy-duty freezer bags for up to 3 months. Cool completely before freezing to avoid ice crystals. Thaw overnight in the fridge for best texture. Reheat slowly to preserve flavors.",
+        "reheating": "Reheat chili on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or water if the chili thickened too much. Avoid microwaving at high heat which can dry it out or cause uneven warming.",
+        "make_ahead_strategy": "You can prepare the chili up to 2 days ahead. Store it in the fridge and reheat before serving. Alternatively, brown the meat and prep veggies the day before, then combine and simmer the day of for fresher flavors."
+    },
+    "faq": [
+        {
+            "question": "Can I make this chili vegetarian or vegan?",
+            "answer": "Absolutely! Simply omit the meat and add more beans, lentils, or vegetables like mushrooms and sweet potatoes. Use vegetable broth instead of beef broth. You can also skip cheese or sour cream toppings or use dairy-free alternatives."
+        },
+        {
+            "question": "What’s the best way to thicken chili if it’s too watery?",
+            "answer": "Simmer the chili uncovered for a few extra minutes to reduce liquid naturally. You can also mash some beans against the side of the pot to thicken the sauce. Avoid adding flour or cornstarch as it can alter texture."
+        },
+        {
+            "question": "How spicy is this chili, and can I adjust it?",
+            "answer": "This recipe has a mild to medium spice level from chili powder and paprika. You can add cayenne pepper, chipotle, or fresh chiles to increase heat. Always add spicy ingredients gradually and taste as you go."
+        },
+        {
+            "question": "Can I make this recipe in a slow cooker?",
+            "answer": "Definitely! Brown the meat and sauté onions first, then transfer everything to a slow cooker. Cook on low for 6-8 hours or high for 3-4 hours. Reduce broth slightly to avoid a watery chili."
+        },
+        {
+            "question": "How do I store leftover chili?",
+            "answer": "Store leftovers in airtight containers in the refrigerator for up to 4 days. Chili freezes well for up to 3 months. Cool completely before refrigerating or freezing to maintain quality."
+        },
+        {
+            "question": "Why did my chili taste bitter?",
+            "answer": "Bitterness often comes from burning garlic or spices. Be sure to cook garlic briefly and avoid high heat when adding spices. Using fresh spices and toasting them lightly helps prevent bitterness."
+        },
+        {
+            "question": "Can I use ground chicken instead of beef or turkey?",
+            "answer": "Yes, ground chicken works but is leaner and milder in flavor. You might want to add a bit more seasoning or a splash of oil to keep the chili rich and flavorful."
+        },
+        {
+            "question": "What toppings do you recommend?",
+            "answer": "Classic toppings like shredded cheddar, sour cream, chopped green onions, avocado slices, or fresh cilantro work beautifully. They add texture and balance the chili’s warmth."
+        }
+    ],
+    "conclusion": "Give this cozy campfire chili a try on your next outdoor night or chilly evening. I’d love to hear how it turns out—don’t forget to share your favorite toppings and tweaks!",
+    "seo": {
+        "primary_keyword": "campfire chili recipe",
+        "secondary_keywords": [
+            "easy campfire meals",
+            "one pot chili recipe",
+            "how to make campfire chili",
+            "best campfire chili recipe",
+            "easy chili recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "one pot meals for camping",
+                "anchor": "one-pot-meals-camping"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_1.png",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_1.png",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_2.png",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_2.png",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_3.png",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_3.png",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-campfire-meals-that-bring-everyone-together/images/classic-campfire-meals-that-bring-everyone-together_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781300877_509",
+    "slug": "classic-campfire-meals-that-bring-everyone-together",
+    "isOnline": true,
+    "createdAt": "2026-06-12T22:50:55+01:00",
+    "updatedAt": "2026-06-12T22:50:55+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "classic-campfire-meals-that-bring-everyone-together/images"
+}
