@@ -1,0 +1,339 @@
+{
+    "title": "Easy Weeknight Grilled Chicken with Fresh Herb Marinade",
+    "promptIMG": "Food photography: Easy Weeknight Grilled Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This grilled chicken recipe is a total winner for busy evenings. The fresh herb marinade adds bright, zesty flavors that soak right in. Great for casual dinners or weekend cookouts!",
+    "hashtags": "#grilledchicken #easyweeknightmeal #freshherbs",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Grilled Chicken with Zesty Herb Marinade You’ll Love",
+            "description": "Discover how to make juicy grilled chicken that’s bursting with fresh herb flavors! Perfect for quick dinners or weekend get-togethers. Save this recipe and try it today! 🍗🌿 #grilledchicken #herbmarinade #easyrecipes"
+        },
+        {
+            "title": "Simple Herb-Marinated Chicken for Tasty Weeknight Grilling",
+            "description": "Looking for an easy grilled chicken recipe? This herb marinade makes all the difference, keeping the meat tender and flavorful. Give it a go tonight and impress your family! 🔥🍴 #weeknightdinner #grilledchicken #familymeals"
+        },
+        {
+            "title": "Fresh and Flavorful Grilled Chicken Ready in Under an Hour",
+            "description": "Whip up this fresh herb grilled chicken in less than an hour! It’s packed with flavor and so simple to make. Perfect for busy nights or casual weekend dinners. Try it now! 🌿🍗 #quickdinner #grillrecipes #easychicken"
+        },
+        {
+            "title": "Master the Art of Herb-Marinated Grilled Chicken Tonight!",
+            "description": "Want tender, flavorful grilled chicken every time? This easy herb marinade recipe is your new secret weapon. Grab your grill and get cooking! Don’t forget to save it for later. 🔥🌿 #grillingtips #herbchicken #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1/4 cup olive oil, extra virgin",
+        "2 tablespoons fresh lemon juice",
+        "3 cloves garlic, minced",
+        "2 tablespoons fresh parsley, chopped",
+        "1 tablespoon fresh thyme leaves",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon smoked paprika"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this grilled chicken recipe during a hectic week when I needed something quick but satisfying. What makes this version stand out is the fresh herb marinade that really penetrates the meat, keeping it juicy and flavorful even after grilling. I’ve tried grilled chicken before that turned out dry or bland, but the trick I learned here is marinating the chicken for at least 30 minutes in a blend of lemon, garlic, and herbs — it’s a game changer. Plus, grilling over medium-high heat gives it that perfect smoky char without drying it out. When finished, the chicken is tender with just a hint of smokiness and a fresh, zesty kick from the herbs. It’s become my go-to for casual dinners or weekend family meals, especially when I want something tasty but fuss-free. I’m excited to share it with you because it’s simple, reliable, and delicious every single time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade. In a medium bowl, whisk together the olive oil, lemon juice, minced garlic, chopped parsley, thyme leaves, salt, pepper, and smoked paprika. This mixture not only seasons the chicken but also helps tenderize it thanks to the acidity from the lemon juice. Make sure to whisk well so the ingredients emulsify, which ensures even coating and flavor distribution. Avoid using too much lemon juice as it can start to cook the chicken prematurely if left too long.",
+            "timing": "10 minutes",
+            "doneness_cue": "The marinade should be a smooth, well-mixed liquid with fresh herb bits evenly distributed."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chicken breasts in a shallow dish or large resealable plastic bag. Pour the marinade over the chicken, making sure each piece is fully coated. Seal the bag or cover the dish tightly and refrigerate for at least 30 minutes, ideally up to 2 hours. This step allows the flavors to deeply penetrate the meat and helps keep it moist during grilling. Don’t marinate longer than 4 hours as the acid can start breaking down the meat fibers too much, resulting in mushy texture.",
+            "timing": "30 minutes to 2 hours",
+            "doneness_cue": "Chicken should look glossy and slightly tinted by the herbs and spices from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your grill to medium-high heat, about 400°F (200°C). It’s important the grill is hot before adding the chicken to get a good sear and those classic grill marks. Lightly oil the grill grates or brush the chicken breasts with a bit of oil to prevent sticking. If the grates aren’t oiled, the chicken can tear when you try to flip it.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill grates should be visibly hot with slight smoke rising."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the marinated chicken breasts on the grill. Cook for about 6-7 minutes on the first side without moving them — this helps develop a nice crust. Avoid pressing down on the chicken as it cooks because that squeezes out juices, making it dry. Watch for the edges to start turning opaque and grill marks to appear.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Chicken edges should look cooked and grill marks visible on the underside."
+        },
+        {
+            "step": 5,
+            "instruction": "Flip the chicken breasts carefully using tongs. Grill the other side for another 6-7 minutes. The key here is to cook evenly and avoid overcooking, which can dry out the meat. Use a meat thermometer if you have one; the internal temperature should reach 165°F (74°C). If you don’t have a thermometer, cut into the thickest part — juices should run clear, not pink.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Juices run clear and meat is opaque with no pink inside."
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, transfer the chicken breasts to a plate and let them rest for 5 minutes before slicing or serving. Resting allows the juices to redistribute throughout the meat, making every bite juicy and tender. Skipping this step often leads to dry chicken because the juices escape immediately when cut.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels slightly firm but not tough and juices are well contained."
+        },
+        {
+            "step": 7,
+            "instruction": "While resting, you can prepare a quick side salad or grill some veggies to complement the chicken. The herb flavors in the chicken pair wonderfully with fresh, crisp greens or grilled asparagus. This balance of smoky and fresh makes the meal feel well-rounded and satisfying.",
+            "timing": "Optional, 5-10 minutes",
+            "doneness_cue": "Sides are fresh and vibrant, complementing the chicken without overpowering it."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the grilled chicken breasts whole or sliced against the grain for maximum tenderness. Drizzle any leftover marinade or a squeeze of fresh lemon on top to brighten the flavors. This simple finishing touch enhances the zesty notes and ties the whole dish together.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken slices are moist and herb-coated with a fresh lemony aroma."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your meal with your favorite sides and maybe a chilled glass of white wine or iced tea. This recipe hits all the marks for easy, flavorful grilling that feels homey yet special. Perfect for sharing with family or friends on any casual occasion.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Meal is plated attractively, inviting and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Grilled Chicken Recipe Works So Well",
+        "content": "<p>Grilling chicken can be tricky because it’s easy to overcook and dry out the meat. This recipe succeeds because of the marinade’s balance of acid, oil, and herbs. The lemon juice tenderizes the chicken by breaking down muscle fibers slightly, which keeps it juicy. Olive oil locks in moisture and helps distribute the fat-soluble flavor compounds from the herbs and garlic evenly. The fresh herbs add bright, aromatic notes that complement the smoky char from the grill.</p><p>The cooking temperature is another key factor. Medium-high heat allows the chicken to develop a flavorful crust through the Maillard reaction—the chemical process that browns proteins and sugars, creating complex flavors. Cooking too hot or too fast would burn the outside while leaving the inside underdone, and cooking too low would dry the meat out as it slowly loses moisture.</p><p>Resting the chicken after grilling is crucial to allow juices to redistribute. Cutting into the meat immediately forces the moisture out, leading to dryness. Also, marinating for the right amount of time (30 minutes to 2 hours) ensures the chicken absorbs flavor without becoming mushy from excessive acid exposure.</p><p>Finally, the choice of fresh herbs rather than dried ones provides a vibrant, fresh flavor profile. Combined with the smoky grill notes and the tang from the lemon, this recipe creates a balanced, juicy grilled chicken that’s hard to beat for simple weeknight dinners or casual gatherings.</p>",
+        "ingredient_notes": {
+            "olive oil": "Look for extra virgin olive oil with a fresh, fruity aroma and bright greenish-golden color. It functions as a fat that helps carry flavors and keeps the chicken moist during grilling. Avoid refined or light olive oils here, as they lack the flavor and antioxidants that enrich the marinade. Olive oil also aids in emulsifying the marinade, helping it cling evenly to the chicken.",
+            "lemon juice": "Freshly squeezed lemon juice is essential for its bright acidity that tenderizes the chicken. Bottled lemon juice often lacks the fresh brightness and can taste flat or bitter. The acid breaks down muscle fibers just enough to make the meat tender without turning it mushy, but timing is key—too long in the marinade can degrade texture.",
+            "fresh herbs": "Parsley and thyme bring fresh, aromatic flavors that dried herbs can’t match. Fresh herbs release volatile oils that infuse the meat during marination, adding complexity and brightness. When buying, choose vibrant green leaves with no wilting or yellowing. Chop just before using to preserve their fragrance and flavor.",
+            "garlic": "Fresh garlic cloves provide pungency and depth to the marinade. Minced finely, garlic distributes evenly and infuses the chicken with a gentle heat and savoriness. Avoid pre-minced jarred garlic, which can taste bitter or overly processed. Crushing or mincing garlic releases allicin, the compound responsible for its distinctive aroma and flavor.",
+            "smoked paprika": "This spice adds a subtle smoky depth that complements the grill’s char without overpowering. Choose Spanish smoked paprika (pimentón) for a balanced smoky and sweet flavor. It also adds a warm red color to the chicken, making it visually appealing. If unavailable, regular paprika can be used but the smoky nuance will be missing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken in the fridge, not at room temperature.",
+            "reason": "Keeping the chicken cold while marinating slows bacterial growth and prevents foodborne illness. It also helps the meat absorb flavors more evenly without beginning to cook or degrade. Marinating at room temp can cause uneven texture and safety issues."
+        },
+        {
+            "tip": "Preheat the grill well before adding chicken.",
+            "reason": "A properly hot grill sears the meat quickly, locking in juices and creating flavorful grill marks. If the grill isn’t hot enough, the chicken will stick and cook unevenly, resulting in a dry or tough texture."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken breasts can dry out easily if overcooked. The USDA recommends 165°F (74°C) internal temperature for safety. Using a thermometer avoids guesswork and ensures juicy, perfectly cooked meat every time."
+        },
+        {
+            "tip": "Don’t skip resting the chicken after grilling.",
+            "reason": "Resting allows the juices to redistribute inside the meat instead of spilling out when cut. This step makes the chicken juicier and more tender, improving overall eating experience."
+        },
+        {
+            "tip": "Oil the grill grates or brush the chicken with oil.",
+            "reason": "This prevents sticking, which can tear the chicken and ruin the presentation. Oil also helps achieve a nice crust and enhances browning without burning."
+        },
+        {
+            "tip": "Cut chicken against the grain when serving.",
+            "reason": "Slicing against the muscle fibers shortens them, making the meat easier to chew and feel more tender. Cutting with the grain results in a stringy, tougher bite."
+        },
+        {
+            "tip": "Use fresh herbs rather than dried for the marinade.",
+            "reason": "Fresh herbs provide brighter, more vibrant flavors and aromas. Dried herbs can taste muted or even bitter when heated, so fresh ones elevate the dish significantly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Over-marinating the chicken.",
+            "why_it_happens": "Many assume the longer marinating time, the better the flavor and tenderness, but too much acid breaks down proteins excessively.",
+            "fix": "Limit marinating time to 2 hours max for this recipe. If you want more flavor, increase herb amounts or add spices, not marinating time."
+        },
+        {
+            "mistake": "Cooking chicken directly from the fridge.",
+            "why_it_happens": "Impatience or lack of planning leads cooks to put cold chicken right on the grill, which can cause uneven cooking.",
+            "fix": "Let chicken rest at room temperature for 10-15 minutes before grilling to promote even cooking and prevent cold spots."
+        },
+        {
+            "mistake": "Using high heat and flipping too often.",
+            "why_it_happens": "Some think flipping frequently cooks chicken faster, but it prevents proper searing and moisture retention.",
+            "fix": "Grill on medium-high heat and flip only once to get a good crust and juicy interior."
+        },
+        {
+            "mistake": "Skipping resting after cooking.",
+            "why_it_happens": "Eager to serve, many cut into the chicken immediately, losing valuable juices.",
+            "fix": "Allow 5 minutes resting time off heat to keep chicken moist and tender."
+        },
+        {
+            "mistake": "Not oiling the grill grates.",
+            "why_it_happens": "Assuming the chicken won’t stick can lead to tearing and uneven cooking.",
+            "fix": "Always oil grill grates or brush chicken with oil before cooking to prevent sticking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Grilled Chicken",
+            "description": "Add 1 teaspoon chipotle chili powder and 1/2 teaspoon cayenne to the marinade for a smoky, spicy kick. This variation pairs well with grilled corn and avocado salsa for a southwestern vibe.",
+            "technical_note": "The extra spices intensify the marinade’s heat, so reduce marinating time to 30 minutes if you prefer milder flavor."
+        },
+        {
+            "name": "Citrus-Honey Glazed Chicken",
+            "description": "Mix in 2 tablespoons honey and swap lemon juice for orange juice in the marinade. The honey caramelizes on the grill for a sweet, sticky glaze that balances the herbs beautifully.",
+            "technical_note": "Grill on medium heat to prevent the honey from burning while still achieving a nice char."
+        },
+        {
+            "name": "Greek-Style Grilled Chicken",
+            "description": "Add 1 tablespoon dried oregano and 1/4 cup crumbled feta on top after grilling. Serve with tzatziki sauce and pita for a Mediterranean-inspired meal.",
+            "technical_note": "Use fresh oregano if available for more aromatic flavor; dried oregano can be more potent, so use sparingly."
+        },
+        {
+            "name": "Garlic and Rosemary Infused Chicken",
+            "description": "Include 1 tablespoon finely chopped fresh rosemary and increase garlic to 5 cloves. This variation has a piney, earthy aroma that pairs well with roasted potatoes and green beans.",
+            "technical_note": "Rosemary is strong; chop finely and marinate no longer than 1 hour to avoid overpowering the chicken."
+        },
+        {
+            "name": "Asian-Inspired Grilled Chicken",
+            "description": "Substitute the olive oil with sesame oil and add 2 tablespoons soy sauce and 1 teaspoon grated ginger to the marinade. This gives a savory umami punch with a subtle nutty aroma.",
+            "technical_note": "Soy sauce increases saltiness; reduce added salt accordingly to prevent over-seasoning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Grilled chicken can safely sit out for up to 2 hours covered loosely with foil or a clean towel. Beyond this, bacterial risk increases, so refrigerate promptly.",
+        "refrigerator": "Store leftover grilled chicken in an airtight container for up to 3 days. The texture may firm slightly when cold, but reheating gently restores juiciness. Alternatively, serve chilled in salads or wraps.",
+        "freezer": "Freeze cooked grilled chicken in airtight freezer bags or containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of water or broth to keep moist, or microwave in short bursts with a cover. Avoid high heat that dries out the meat.",
+        "make_ahead_strategy": "You can marinate the chicken 1 day ahead and keep it refrigerated. Grill it the day of serving for freshest flavor and best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are more forgiving and stay juicy even if slightly overcooked. Use bone-in or boneless thighs, but adjust grill time to about 8-10 minutes per side depending on thickness. The marinade works just as well."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Dried herbs can be used in a pinch, but reduce the quantity to about one-third since dried herbs are more concentrated. The flavor won’t be as bright, but it will still be tasty. Fresh garlic is preferred over powder for best aroma."
+        },
+        {
+            "question": "Can I marinate the chicken overnight?",
+            "answer": "You can, but I recommend no more than 8 hours. Beyond that, the acid in the lemon juice can start to break down the meat fibers too much, causing a mushy texture. For best results, 30 minutes to 2 hours is ideal."
+        },
+        {
+            "question": "How do I prevent the chicken from sticking to the grill?",
+            "answer": "Make sure your grill grates are clean and preheated well. Oil the grates or brush the chicken with oil before placing it on the grill. Avoid moving the chicken too soon; let it sear properly to develop a crust that naturally releases."
+        },
+        {
+            "question": "Is it necessary to use a meat thermometer?",
+            "answer": "While not mandatory, a meat thermometer is the best way to ensure perfectly cooked chicken. It helps avoid undercooking or drying out the meat. Aim for an internal temp of 165°F (74°C) for safe and juicy chicken."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free since it uses fresh ingredients and no wheat-based sauces. Just double-check any packaged spices or ingredients for gluten-containing additives."
+        },
+        {
+            "question": "What sides go well with this grilled chicken?",
+            "answer": "Fresh salads, grilled vegetables, roasted potatoes, or rice pilaf all complement the herbaceous flavors nicely. For a light meal, a crisp green salad with lemon vinaigrette pairs beautifully."
+        },
+        {
+            "question": "Can I use bottled lemon juice instead of fresh?",
+            "answer": "Fresh lemon juice is best for brightness and flavor. Bottled lemon juice tends to be less vibrant and sometimes bitter. If using bottled, choose a high-quality one and consider reducing the quantity slightly."
+        }
+    ],
+    "conclusion": "Give this herb-marinated grilled chicken a try — it’s simple, flavorful, and a real crowd-pleaser. I can’t wait to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "easy grilled chicken recipe",
+        "secondary_keywords": [
+            "herb marinated grilled chicken",
+            "quick grilled chicken",
+            "how to make grilled chicken",
+            "best grilled chicken recipe",
+            "easy chicken marinade"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade chicken marinade tips",
+                "anchor": "homemade-chicken-marinade-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_1.png",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_1.png",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_2.png",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_2.png",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_3.png",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_3.png",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images/simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781306282_827",
+    "slug": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family",
+    "isOnline": true,
+    "createdAt": "2026-06-13T00:25:42+01:00",
+    "updatedAt": "2026-06-13T00:25:42+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "simple-and-flavorful-grill-recipes-dinner-to-enjoy-with-family/images"
+}
