@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 13:46:35",
-    "count": 561,
+    "generated": "2026-06-13 15:09:35",
+    "count": 562,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -101,6 +101,7 @@
         "chewy-chocolate-chip-cookies-with-juicy-spring-berries-that-melt-in-your-mouth",
         "chewy-maple-walnut-cookies-perfect-for-springtime-snacking",
         "chewy-no-bake-brownie-bites-with-chocolate-chips-that-everyone-will-love",
+        "chocolate-zucchini-bread-that-feels-like-a-cozy-hug-in-every-slice",
         "classic-campfire-meals-that-bring-everyone-together",
         "classic-eggplant-parmesan-recipe-that-feels-like-home-cooking",
         "classic-homemade-orange-slice-that-brings-back-sweet-memories",
@@ -565,6 +566,21 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "chocolate-zucchini-bread-that-feels-like-a-cozy-hug-in-every-slice",
+            "title": "Moist and Chocolatey Zucchini Bread That Sneaks in Veggies",
+            "description": "This chocolate zucchini bread is my go-to when I want a sweet treat that feels indulgent but sneaks in some veggies. The grated zucchini keeps it super moist and adds a subtle natural sweetness. Perfect for breakfast or ",
+            "image": "posts/chocolate-zucchini-bread-that-feels-like-a-cozy-hug-in-every-slice/images/chocolate-zucchini-bread-that-feels-like-a-cozy-hug-in-every-slice_pinrecipes_image_1.png",
+            "category_id": "cat_1761230294_638",
+            "createdAt": "2026-06-13T15:09:35+01:00",
+            "updatedAt": "2026-06-13T15:09:35+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 45,
+            "total_time": null,
+            "servings": 8
+        },
         {
             "slug": "campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly",
             "title": "Nostalgic Campfire Desserts with Gooey Marshmallows and Warm Fruit",
