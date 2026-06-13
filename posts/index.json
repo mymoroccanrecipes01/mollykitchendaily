@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 15:09:35",
-    "count": 562,
+    "generated": "2026-06-13 16:05:00",
+    "count": 563,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -484,6 +484,7 @@
         "refreshing-high-protein-berry-smoothie-for-busy-mornings-that-kickstart-your-day",
         "refreshing-low-calorie-peach-cobbler-with-a-cinnamon-oat-crust-thats-simply-irresistible",
         "refreshing-strawberry-and-spinach-smoothie-bowl-to-start-your-day-right",
+        "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing",
         "rich-5-ingredient-vegan-dark-chocolate-brownies-that-melt-in-your-mouth",
         "salted-caramel-pistachio-brownies-with-sea-salt-flakes-a-perfect-sweet-salty-treat",
         "salted-espresso-chocolate-chip-cookies-for-cozy-evenings-by-the-fire",
@@ -566,6 +567,21 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing",
+            "title": "Refreshing Watermelon Feta Salad with Zesty Lime-Mint Dressing",
+            "description": "This watermelon feta salad is the ultimate summer refresher. Juicy watermelon meets salty feta and a bright lime-mint dressing for a perfect balance. Ideal for backyard barbecues or a light lunch on warm days.",
+            "image": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_1.png",
+            "category_id": "cat_1761230636_499",
+            "createdAt": "2026-06-13T16:05:00+01:00",
+            "updatedAt": "2026-06-13T16:05:00+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 0,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "chocolate-zucchini-bread-that-feels-like-a-cozy-hug-in-every-slice",
             "title": "Moist and Chocolatey Zucchini Bread That Sneaks in Veggies",

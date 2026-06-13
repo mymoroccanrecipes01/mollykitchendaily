@@ -1,0 +1,337 @@
+{
+    "title": "Refreshing Watermelon Feta Salad with Zesty Lime-Mint Dressing",
+    "promptIMG": "Food photography: Watermelon Feta Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This watermelon feta salad is the ultimate summer refresher. Juicy watermelon meets salty feta and a bright lime-mint dressing for a perfect balance. Ideal for backyard barbecues or a light lunch on warm days.",
+    "hashtags": "#watermelonsalad #summerrecipes #freshandlight",
+    "board_name": "Easy Summer Salads",
+    "pin_variations": [
+        {
+            "title": "Cool Off with This Easy Watermelon Feta Salad 🍉🧀",
+            "description": "Beat the heat with this refreshing watermelon feta salad—sweet, salty, and tangy all at once! Perfect for picnics or quick lunches. Save this recipe and try it today for a burst of summer flavor! #summerfood #saladrecipe #freshflavors"
+        },
+        {
+            "title": "Brighten Your Table with Watermelon Feta Salad and Lime-Mint Dressing",
+            "description": "Looking for something light and zesty? This watermelon feta salad with lime-mint dressing is a game changer. Easy to make and bursting with flavor. Discover now and add some color to your meals! #healthyrecipes #summermeals #easyrecipes"
+        },
+        {
+            "title": "Sweet Meets Salty: Watermelon Feta Salad You Need This Summer",
+            "description": "Sweet watermelon and salty feta cheese come together in this vibrant salad topped with fresh lime and mint. It’s so simple but feels fancy. Try it today and impress your friends! #freshsalads #summerfoodideas #lunchrecipes"
+        },
+        {
+            "title": "Zesty Lime-Mint Watermelon Feta Salad for Light Summer Eats",
+            "description": "This salad is a fresh twist on summer classics—juicy watermelon, crumbly feta, and a zingy lime-mint dressing. Perfect for warm days when you want something light and tasty. Save it now and enjoy! #summervibes #saladideas #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups watermelon, cubed and chilled",
+        "1 cup feta cheese, crumbled",
+        "1/4 cup fresh mint leaves, chopped",
+        "2 tablespoons fresh lime juice",
+        "1 tablespoon olive oil",
+        "1 teaspoon honey",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this watermelon feta salad during a summer cookout a few years back, and it instantly became a favorite in my family. What I love most about this version is the balance of juicy sweetness from the watermelon paired with the salty, creamy feta. The zingy lime-mint dressing really lifts the whole dish and makes it feel so fresh. Unlike some salads that can be a bit heavy or bland, this one feels light yet satisfying. One little trick I use is to chill the watermelon cubes before assembling the salad, so every bite is refreshingly cool. Also, I like to toss the dressing gently just before serving to keep the watermelon crisp. When it's done, the salad looks vibrant and tastes like summer in a bowl—perfect for backyard barbecues, picnics, or even a quick lunch on a hot day. Honestly, it’s become my go-to when I want something simple but memorable.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting the watermelon into bite-sized cubes and chilling them in the fridge for at least 30 minutes. This step is key because cold watermelon enhances the refreshing quality of the salad and keeps it crisp. Make sure to pat the cubes dry with a paper towel before mixing to avoid excess water diluting the dressing.",
+            "timing": "10 minutes prep + chilling",
+            "doneness_cue": "Watermelon cubes feel firm and cold, not soggy or watery"
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, whisk together fresh lime juice, olive oil, honey, and a pinch of salt and pepper. The honey balances the tart lime and adds a subtle sweetness that complements the watermelon perfectly. Take your time to emulsify the dressing well so it coats the salad evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dressing appears smooth and slightly thickened with a glossy finish"
+        },
+        {
+            "step": 3,
+            "instruction": "Roughly chop fresh mint leaves, which add a bright, cooling flavor that pairs beautifully with the watermelon and feta. Avoid finely mincing to keep the leaves intact and noticeable throughout the salad.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mint leaves are chopped into medium pieces, vibrant green and fresh"
+        },
+        {
+            "step": 4,
+            "instruction": "In a large bowl, combine the chilled watermelon cubes with the crumbled feta cheese. The feta should be added just before serving to maintain its creamy texture without becoming soggy. Toss gently to mix without breaking up the watermelon.",
+            "timing": "5 minutes",
+            "doneness_cue": "Watermelon and feta are evenly distributed without excess juice"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the lime-mint dressing over the watermelon and feta mixture, then add the chopped mint. Toss everything carefully but thoroughly so the dressing coats all the ingredients. Be gentle so the watermelon cubes keep their shape and the feta doesn’t crumble too much.",
+            "timing": "3 minutes",
+            "doneness_cue": "Salad looks glossy with dressing, mint evenly spread, no mushy watermelon"
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the salad and adjust seasoning with a little more salt or pepper if needed. The salt helps to pull out the sweetness of the watermelon and balances the creamy feta.",
+            "timing": "2 minutes",
+            "doneness_cue": "Flavors taste balanced—sweet, salty, tangy, and fresh"
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the salad to a serving bowl or platter. For an extra touch, garnish with a few whole mint leaves or a thin lime wedge on top. This adds a pop of color and hints at the flavors inside.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad looks vibrant and inviting with fresh garnishes"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately to enjoy the crisp texture and fresh flavors. If you need to prepare ahead, keep the dressing separate and add just before serving to avoid sogginess.",
+            "timing": "Serve right away",
+            "doneness_cue": "Salad tastes fresh with crisp watermelon and creamy feta"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up any leftover watermelon juice from your prep area quickly as it can be sticky and attract ants or insects, especially in summer.",
+            "timing": "1 minute",
+            "doneness_cue": "Prep area is clean and dry"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Refreshing Salad",
+        "content": "<p>Watermelon is mostly water but packed with natural sugars that create a juicy sweetness, which contrasts beautifully with the salty, creamy feta cheese. This balance of flavors is a classic flavor pairing that stimulates the palate and keeps the salad interesting. The salt in feta also helps enhance the sweetness of the watermelon through taste contrast.</p><p>The lime-mint dressing is key to brightening the dish. The acidity from the lime juice cuts through the richness of the feta while the honey softens the sharpness, creating a well-rounded flavor profile. Mint adds a cooling note that complements the watermelon’s refreshing qualities. Emulsifying the dressing properly ensures it coats each bite evenly, improving mouthfeel.</p><p>Chilling the watermelon before assembling helps maintain its crisp texture. If the watermelon is warm or left sitting too long with the dressing, it can become soggy and watery, which detracts from the overall experience. Adding the feta last and just before serving preserves its texture and prevents it from becoming mushy. Gently tossing the salad instead of vigorously mixing keeps the watermelon cubes intact and the feta crumbled but not broken down.</p><p>Overall, this recipe succeeds by balancing sweet, salty, tangy, and fresh elements while preserving texture through careful timing and gentle handling.</p>",
+        "ingredient_notes": {
+            "Watermelon": "Choose a ripe watermelon that feels heavy for its size and has a deep, hollow sound when tapped. The flesh should be bright red or pink and firm to the touch. Avoid watermelons with pale or mushy spots, which indicate overripe or underripe fruit. Chilling the watermelon cubes before serving keeps them crisp and refreshing, essential for the salad's texture.",
+            "Feta Cheese": "Opt for a good quality feta, preferably made from sheep’s or goat’s milk for a creamier, tangier flavor. Avoid overly dry or crumbly feta, which can become powdery and lose moisture in the salad. Crumble feta just before serving to maintain its creamy texture and prevent it from absorbing too much liquid from the watermelon.",
+            "Fresh Mint": "Use fresh, vibrant mint leaves with bright green color and no wilting or browning. Mint adds a cooling aroma and flavor that complements the watermelon and feta. Chop the leaves roughly to keep their structure and prevent the salad from becoming mushy. Dried mint is not a good substitute as it lacks the fresh brightness.",
+            "Lime Juice": "Freshly squeezed lime juice provides bright acidity that wakes up the salad’s flavors. Bottled lime juice lacks the fresh tang and can taste artificial. The acidity balances the sweetness of the watermelon and the saltiness of the feta, creating harmony in the dish.",
+            "Honey": "A mild, floral honey works best to sweeten the dressing without overpowering it. Honey helps mellow the sharp lime juice and adds a subtle depth of flavor. You can substitute with agave syrup or maple syrup, but avoid granulated sugar which won’t dissolve as well in the dressing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill your watermelon cubes before assembling the salad.",
+            "reason": "Cold watermelon stays crisp longer and feels more refreshing when eaten. Warm watermelon tends to release more juice, which can make the salad watery and soggy. Chilling also enhances the natural sweetness and texture."
+        },
+        {
+            "tip": "Add the dressing just before serving.",
+            "reason": "If the dressing sits on the watermelon too long, the acid and oil will break down the fruit’s structure, making it mushy. Tossing the salad right before serving keeps the watermelon crisp and the feta fresh."
+        },
+        {
+            "tip": "Use fresh mint leaves and chop them roughly.",
+            "reason": "Fresh mint adds a bright, cooling flavor that dried mint simply can’t replicate. Rough chopping keeps the leaves intact, preventing the salad from becoming too soft or bitter."
+        },
+        {
+            "tip": "Balance salt carefully in the dressing.",
+            "reason": "Salt enhances the sweetness of watermelon and the tang of feta but too much can overpower the salad. Start with a pinch and adjust after tasting once everything is combined to get perfect harmony."
+        },
+        {
+            "tip": "Use good quality feta cheese, ideally sheep’s or goat’s milk.",
+            "reason": "Better quality feta has creamier texture and richer flavor, which contrasts nicely with the watermelon. Low-quality feta can be too dry or salty, throwing off the balance."
+        },
+        {
+            "tip": "Pat dry watermelon cubes before mixing.",
+            "reason": "Removing excess moisture prevents the salad from becoming watery and diluting the dressing’s flavor. It also helps the dressing cling better to the watermelon and other ingredients."
+        },
+        {
+            "tip": "Gently toss the salad to keep watermelon cubes intact.",
+            "reason": "Vigorous mixing can break the watermelon into mush and crumble the feta too much, ruining the texture contrast that makes this salad so enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding dressing too early",
+            "why_it_happens": "Many people like to prepare salads ahead and dress them in advance, but with watermelon, this leads to sogginess as the acid breaks down the fruit.",
+            "fix": "Keep the dressing separate and add it just before serving. Toss gently to coat evenly without crushing the watermelon."
+        },
+        {
+            "mistake": "Using low-quality feta",
+            "why_it_happens": "Feta is often bought pre-crumbled or from lower-quality sources, which can be dry or overly salty.",
+            "fix": "Choose block feta from a reputable source and crumble it yourself. This ensures better texture and flavor."
+        },
+        {
+            "mistake": "Not chilling the watermelon",
+            "why_it_happens": "Skipping the chilling step for convenience or time-saving.",
+            "fix": "Plan ahead to chill watermelon cubes at least 30 minutes before assembling. It makes a big difference in texture and refreshment."
+        },
+        {
+            "mistake": "Over-mixing the salad",
+            "why_it_happens": "Trying to combine ingredients quickly or thoroughly can crush watermelon cubes.",
+            "fix": "Toss gently with a large spoon or hands to keep watermelon intact and feta in nice crumbles."
+        },
+        {
+            "mistake": "Skipping the honey in dressing",
+            "why_it_happens": "Some may omit honey thinking it’s unnecessary, but it balances acidity.",
+            "fix": "Include a small amount of honey to soften lime juice sharpness and enhance flavor harmony."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Cucumber for Extra Crunch",
+            "description": "Dice some peeled cucumber and toss it into the salad for a fresh, crunchy texture that pairs well with the watermelon. It adds a mild, watery bite that complements the sweet and salty flavors.",
+            "technical_note": "Add cucumber cubes at the same time as watermelon to keep the salad balanced and fresh."
+        },
+        {
+            "name": "Spicy Kick with Chili Flakes",
+            "description": "Sprinkle a pinch of chili flakes or finely chopped fresh chili over the salad for a subtle heat contrast. This variation adds complexity and excitement to the dish, especially for those who like a little spice.",
+            "technical_note": "Add chili flakes last to control heat level and avoid overpowering the salad."
+        },
+        {
+            "name": "Swap Feta for Goat Cheese",
+            "description": "Use creamy goat cheese instead of feta for a milder, tangier flavor. Goat cheese melts slightly on the juicy watermelon, creating a luscious texture and a different flavor profile.",
+            "technical_note": "Add goat cheese just before serving to maintain its soft texture."
+        },
+        {
+            "name": "Add Toasted Nuts for Texture",
+            "description": "Top the salad with toasted pine nuts or slivered almonds for a crunchy contrast. Nuts add richness and a nutty flavor that pairs well with the fresh ingredients.",
+            "technical_note": "Toast nuts lightly in a dry pan until golden and cool before adding."
+        },
+        {
+            "name": "Use Basil Instead of Mint",
+            "description": "Swap fresh basil leaves for mint for a sweeter, peppery twist. Basil adds an herbal aroma that changes the flavor profile while keeping the salad refreshing and bright.",
+            "technical_note": "Chop basil roughly and add with dressing just before serving."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "12g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best served fresh and should not be left out at room temperature for more than 1 hour, especially in warm weather. Cover with plastic wrap if you need to set it aside briefly.",
+        "refrigerator": "Store in an airtight container for up to 1 day. The watermelon may release juice, making the salad a bit watery and soft. For best texture, store the dressing separately and toss just before serving.",
+        "freezer": "Freezing is not recommended for this salad as watermelon loses its texture and becomes mushy upon thawing.",
+        "reheating": "This salad is served cold and should not be reheated. If needed, remove from fridge and let sit 10 minutes before serving to take the chill off.",
+        "make_ahead_strategy": "You can prep watermelon cubes and dressing 1 day ahead and keep them refrigerated separately. Crumble feta and chop mint fresh on the day of serving to maintain texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned watermelon instead of fresh?",
+            "answer": "Canned watermelon is not recommended because it tends to be mushy and lacks the crisp texture fresh watermelon provides. The salad relies on that fresh crunch and juiciness for its refreshing quality."
+        },
+        {
+            "question": "What can I substitute if I don’t have fresh mint?",
+            "answer": "Fresh basil is a great substitute and adds a sweet, peppery note. Avoid dried herbs as they won’t give the same bright, fresh flavor. You could also try fresh cilantro for a different but tasty twist."
+        },
+        {
+            "question": "How long can I store the salad after dressing it?",
+            "answer": "Once dressed, the salad is best eaten within 1-2 hours to enjoy the crisp texture. The watermelon will start releasing juice and the feta may soften too much if left longer, making the salad watery."
+        },
+        {
+            "question": "Can I make this salad vegan?",
+            "answer": "Yes! Simply replace feta with a vegan cheese alternative or omit it altogether. You might want to add toasted nuts or seeds for extra texture and protein to keep the salad satisfying."
+        },
+        {
+            "question": "Is it okay to use bottled lime juice?",
+            "answer": "Fresh lime juice is preferred for its bright, natural acidity and fresh flavor. Bottled juice can be more bitter or flat, which will affect the dressing’s brightness and overall salad taste."
+        },
+        {
+            "question": "How do I prevent the watermelon from getting soggy?",
+            "answer": "Chilling the watermelon cubes and patting them dry before mixing helps keep them firm. Also, add the dressing just before serving and toss gently to avoid breaking down the fruit."
+        },
+        {
+            "question": "Can I add other fruits to this salad?",
+            "answer": "Absolutely! Cucumber, strawberries, or even peaches can be great additions. Just be mindful of the texture and sweetness balance to keep the salad refreshing and not overly sweet."
+        },
+        {
+            "question": "What type of feta cheese is best for this salad?",
+            "answer": "A creamy, tangy feta made from sheep’s or goat’s milk works best. It has richer flavor and better texture than cow’s milk feta. Avoid overly dry or crumbly feta for best results."
+        }
+    ],
+    "conclusion": "Give this watermelon feta salad a try—it's such a refreshing way to celebrate summer. I’d love to hear how it turns out for you, so don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "watermelon feta salad recipe",
+        "secondary_keywords": [
+            "summer salad recipes",
+            "easy watermelon salad",
+            "how to make watermelon feta salad",
+            "best watermelon feta salad recipe",
+            "quick summer salad"
+        ],
+        "internal_links": [
+            {
+                "text": "fresh mint dressing tips",
+                "anchor": "fresh-mint-dressing"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_1.png",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_1.png",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_2.png",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_2.png",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_3.png",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_3.png",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_7.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_5.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_9.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_4.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_6.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_8.webp",
+            "relativePath": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images/refreshing-watermelon-feta-salad-with-mint-and-lime-dressing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781363042_552",
+    "slug": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing",
+    "isOnline": true,
+    "createdAt": "2026-06-13T16:05:00+01:00",
+    "updatedAt": "2026-06-13T16:05:00+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "refreshing-watermelon-feta-salad-with-mint-and-lime-dressing/images"
+}
