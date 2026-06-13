@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 00:25:42",
-    "count": 560,
+    "generated": "2026-06-13 13:46:35",
+    "count": 561,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -86,6 +86,7 @@
         "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight",
         "budget-friendly-cheesy-baked-ziti-with-hidden-veggies-that-everyone-will-love",
         "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights",
+        "campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly",
         "can-you-cook-artichokes-in-an-instant-pot-quick-and-easy-guide",
         "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist",
         "cheesy-bake-recipe-thats-comfort-food-at-its-best",
@@ -564,6 +565,21 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly",
+            "title": "Nostalgic Campfire Desserts with Gooey Marshmallows and Warm Fruit",
+            "description": "These campfire desserts bring back all the cozy feels with melted chocolate and toasted marshmallows over warm fruit. Perfect for sharing around the fire on camping trips or backyard nights!",
+            "image": "posts/campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly/images/campfire-desserts-sweet-treats-to-end-your-outdoor-evenings-perfectly_pinrecipes_image_1.png",
+            "category_id": "cat_1761230221_583",
+            "createdAt": "2026-06-13T13:46:35+01:00",
+            "updatedAt": "2026-06-13T13:46:35+01:00",
+            "isOnline": true,
+            "difficulty": "Easy",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "brownie-cookie-recipe-that-combines-fudgy-goodness-with-chewy-delight",
             "title": "Fudgy Brownie Cookies with Melted Chocolate for Ultimate Chewiness",
