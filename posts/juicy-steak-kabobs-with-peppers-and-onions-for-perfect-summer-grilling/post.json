@@ -1,0 +1,343 @@
+{
+    "title": "Tender Marinated Steak Kabobs with Peppers and Onions for Perfect Backyard Grilling",
+    "promptIMG": "Food photography: Tender Marinated Steak Kabobs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These steak kabobs are a total crowd-pleaser—juicy beef chunks marinated overnight with peppers and onions for that perfect smoky char. Great for summer cookouts or a simple weeknight meal when you want something hearty but easy.",
+    "hashtags": "#steakkabobs #grilling #weeknightdinner #backyardcookout",
+    "board_name": "Easy Beef Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Steak Kabobs with Peppers You’ll Want to Make Tonight!",
+            "description": "These marinated steak kabobs are bursting with flavor and so simple to prep. Perfect for your next BBQ or quick dinner. Save this recipe and impress your friends with juicy, tender bites! 🔥🥩🌶️ #steakkabobs #grillingrecipes #easymeals #bbqtime"
+        },
+        {
+            "title": "Flavor-Packed Steak Kabobs Ready in Just 30 Minutes",
+            "description": "Looking for a quick and delicious meal? These steak kabobs marinated overnight deliver tender, flavorful beef with vibrant veggies. Try it today and enjoy a fuss-free dinner everyone will love! 🍢🍽️🔥 #easygrilling #steakrecipes #weeknightdinner #foodie"
+        },
+        {
+            "title": "How to Make Perfectly Tender Steak Kabobs Every Time",
+            "description": "Discover the secret to juicy steak kabobs with my simple marinade and grilling tips. This recipe is perfect for backyard gatherings or casual dinners. Don’t forget to save it for your next cookout! 🥩🍅🌶️ #grilledsteak #kabobrecipe #summermeals #foodlover"
+        },
+        {
+            "title": "Easy Marinated Steak Kabobs with Colorful Peppers and Onions",
+            "description": "These steak kabobs are easy to make and packed with flavor thanks to an overnight marinade. Great for busy nights or weekend BBQs. Give it a try and share your results! 🍢🔥🥩 #steakdinner #kabobs #grilledmeals #familyfavorite"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds beef sirloin, cut into 1-inch cubes",
+        "1 red bell pepper, cut into chunks",
+        "1 green bell pepper, cut into chunks",
+        "1 large yellow onion, cut into chunks",
+        "3 tablespoons olive oil",
+        "2 tablespoons soy sauce",
+        "2 tablespoons Worcestershire sauce",
+        "2 cloves garlic, minced",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon salt",
+        "1 tablespoon fresh lemon juice",
+        "Wooden or metal skewers (if wooden, soaked in water for 30 minutes)"
+    ],
+    "yield": "Approximately 12 kabobs, 4 servings",
+    "introduction": "I first tried making steak kabobs years ago at a family cookout, and honestly, my first batch was a bit tough and bland. Since then, I've tweaked the marinade and technique until I finally got it just right — tender, juicy beef with peppers and onions that caramelize perfectly on the grill. What makes this version better? The overnight marinade really does the trick, letting the flavors soak in deeply and tenderizing the meat. Plus, I like to soak wooden skewers beforehand so they don’t burn. When you grill these kabobs, you’ll notice how the beef gets that gorgeous char and the veggies soften but still have a slight crunch. It’s a simple recipe, but the balance of smoky, tangy, and savory flavors is what keeps my family coming back for more. If you’ve ever struggled with dry or chewy kabobs, this one’s for you. It’s perfect for summer backyard barbecues or even a casual weeknight dinner when you want something satisfying but not complicated. I hope you love it as much as we do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting your beef sirloin into uniform 1-inch cubes. This size helps the meat cook evenly on the grill without drying out. Make sure your knife is sharp to get clean cuts, which also helps the marinade penetrate better. Uniform pieces are key so some chunks don’t overcook while others remain underdone. Once cut, pat the beef dry with paper towels to help the marinade stick better.",
+            "timing": "10 minutes",
+            "doneness_cue": "Beef cubes are evenly sized and dry enough to absorb marinade well"
+        },
+        {
+            "step": 2,
+            "instruction": "Prepare the marinade by whisking together olive oil, soy sauce, Worcestershire sauce, minced garlic, smoked paprika, black pepper, salt, and fresh lemon juice. This combination adds depth, umami, and a slight tang that brightens the beef. The acids in lemon juice help tenderize the meat gently without making it mushy. Whisk until well combined and aromatic.",
+            "timing": "5 minutes",
+            "doneness_cue": "Marinade is smooth and well blended with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the beef cubes in a large resealable plastic bag or shallow dish, then pour the marinade over the meat. Seal or cover tightly and refrigerate for at least 4 hours, ideally overnight. The longer marinating time allows the flavors to deeply infuse the beef and improves tenderness. Avoid marinating more than 24 hours to prevent the acid from breaking down the meat too much.",
+            "timing": "Overnight (minimum 4 hours)",
+            "doneness_cue": "Beef has taken on a darker hue and smells fragrant"
+        },
+        {
+            "step": 4,
+            "instruction": "While the beef marinates, prep your vegetables by cutting the bell peppers and onion into chunks roughly the same size as the beef. This ensures even cooking on the skewers. Keep the onion layers intact so they hold together on the grill and don’t fall apart. Set aside in a bowl until ready to assemble.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggie chunks are uniform and ready to skewer"
+        },
+        {
+            "step": 5,
+            "instruction": "If using wooden skewers, soak them in water for at least 30 minutes before grilling. This prevents them from burning or catching fire on the grill. Metal skewers don’t require soaking but be cautious when handling as they get very hot. This simple step keeps your kabobs intact and safe to handle.",
+            "timing": "30 minutes soaking",
+            "doneness_cue": "Skewers feel saturated and won’t burn easily"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your grill to medium-high heat (about 400°F). This temperature is ideal for searing the beef quickly, locking in juices, and getting those beautiful grill marks. A too-hot grill will burn the outside before the inside cooks; too low and the meat won’t caramelize properly. Clean and oil the grates to prevent sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill is hot enough to sizzle when you place a piece of meat"
+        },
+        {
+            "step": 7,
+            "instruction": "Assemble the kabobs by threading beef cubes, bell pepper pieces, and onion chunks alternately onto the skewers. Try not to pack the pieces too tightly to allow heat circulation and even cooking. Leave a little space between chunks so they cook uniformly and get that charred flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Kabobs look balanced, colorful, and spaced well"
+        },
+        {
+            "step": 8,
+            "instruction": "Place the kabobs on the grill and cook for about 10 to 12 minutes total, turning every 3-4 minutes. This frequent turning ensures all sides get evenly charred and the meat cooks through without drying. Watch for flare-ups from dripping marinade and move kabobs to cooler spots if needed. The beef should be medium-rare to medium for best juiciness.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Beef is browned with grill marks, veggies softened but not mushy"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the kabobs from the grill and let them rest for 5 minutes before serving. Resting allows the juices to redistribute inside the meat, making each bite tender and flavorful. Serve with your favorite sides like rice, salad, or crusty bread for a complete meal.",
+            "timing": "5 minutes",
+            "doneness_cue": "Kabobs are juicy and ready to enjoy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfectly Tender and Flavorful Steak Kabobs",
+        "content": "<p>This recipe works so well because of the balance between flavor infusion, tenderizing, and cooking technique. The marinade includes acid from lemon juice, which gently breaks down muscle fibers without damaging the meat’s texture if timed correctly. The combination of soy and Worcestershire sauce adds umami depth that complements the beef’s natural richness.</p><p>Marinating overnight allows the flavors to penetrate deeply, not just coat the surface. This results in every bite tasting seasoned and juicy. The olive oil in the marinade also helps conduct heat evenly during grilling and prevents the meat from drying out.</p><p>Grilling at medium-high heat creates the Maillard reaction—the chemical process that browns the meat and develops complex flavors and aromas. Turning the kabobs frequently ensures even cooking and prevents burning. Keeping the veggies slightly spaced on the skewers allows hot air to circulate and caramelize their edges while maintaining some crunch.</p><p>Resting the kabobs after grilling is a crucial step. It stops the cooking process and lets the juices redistribute inside the meat, which is why skipping this can lead to dry bites. This recipe’s carefully timed steps and ingredient choices work together to create tender, flavorful kabobs every time.</p>",
+        "ingredient_notes": {
+            "beef sirloin": "Look for well-marbled sirloin with a bright red color. Marbling (the fat streaks) melts during cooking, keeping the beef juicy and flavorful. Sirloin is a great choice because it’s tender yet affordable. Avoid beef that looks dry or brownish, which indicates older meat. You can substitute with ribeye for extra richness or flank steak for a leaner option, but adjust marinating time accordingly.",
+            "olive oil": "Use a good quality extra virgin olive oil for the marinade. It not only adds flavor but also helps the marinade coat the meat evenly and prevents sticking on the grill. Olive oil’s fats assist in heat transfer and keep the beef moist. Avoid using strong-flavored oils that might overpower the marinade’s balance.",
+            "soy sauce": "Soy sauce brings salty umami flavor and helps tenderize the beef with its natural enzymes. Choose a low-sodium variety if you want more control over salt levels. It also adds color to the marinade, contributing to the kabobs’ appealing look once grilled.",
+            "lemon juice": "Fresh lemon juice provides acidity crucial for tenderizing the beef by breaking down muscle fibers gently. It also brightens the overall flavor, balancing the richness of the meat and oil. Bottled lemon juice lacks the fresh brightness, so using fresh is best for optimal taste and texture.",
+            "bell peppers and onions": "Choosing fresh, firm bell peppers in bright colors adds visual appeal and sweetness that contrasts the savory beef. Onions should be crisp and not overly pungent to avoid overpowering the kabobs. Keeping the chunks uniform ensures they cook evenly with the meat, maintaining a slightly crisp texture that adds a nice bite."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always soak wooden skewers in water before grilling.",
+            "reason": "Soaking prevents skewers from burning or catching fire on the grill. If they’re dry, they can char quickly and even impart a burnt taste to your kabobs. Soaking for at least 30 minutes ensures they stay moist and stable throughout cooking."
+        },
+        {
+            "tip": "Don’t overcrowd the skewers with meat and veggies.",
+            "reason": "Leaving a little space between pieces allows heat to circulate evenly, which promotes better caramelization and prevents steaming. Overcrowded kabobs cook unevenly, and the inside may stay undercooked while the outside burns."
+        },
+        {
+            "tip": "Use a sharp knife to cut beef into uniform cubes.",
+            "reason": "Clean cuts help the marinade penetrate better and ensure even cooking. Jagged or uneven pieces cook at different rates, leading to some bites being tough or overdone while others are undercooked."
+        },
+        {
+            "tip": "Marinate the beef overnight for best flavor and tenderness.",
+            "reason": "The longer marinating time allows the acid and seasonings to deeply penetrate the meat. This process breaks down tougher fibers and infuses flavor throughout, not just on the surface, making the kabobs juicy and tasty."
+        },
+        {
+            "tip": "Preheat the grill to medium-high before adding kabobs.",
+            "reason": "Starting with a hot grill ensures a good sear and the Maillard reaction, which develops flavors and attractive grill marks. A grill that’s too cool will cause the meat to dry out as it cooks longer without browning."
+        },
+        {
+            "tip": "Turn kabobs frequently during grilling.",
+            "reason": "Flipping every few minutes promotes even cooking and prevents burning on one side. It also allows the marinade to caramelize nicely, enhancing flavor and texture."
+        },
+        {
+            "tip": "Let kabobs rest for 5 minutes after grilling.",
+            "reason": "Resting redistributes juices inside the beef, preventing them from spilling out when cut. This step keeps the meat tender and moist, which is essential for a satisfying bite."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold beef straight from the fridge on the grill",
+            "why_it_happens": "Many cooks want to save time and grill immediately, but cold meat doesn’t cook evenly and can result in tough texture.",
+            "fix": "Allow the beef to sit at room temperature for 20-30 minutes before grilling. This helps it cook more evenly and stay tender."
+        },
+        {
+            "mistake": "Skipping the marinade or marinating too briefly",
+            "why_it_happens": "Sometimes people rush and don’t give enough marinating time, leading to bland, tough meat.",
+            "fix": "Plan ahead and marinate for at least 4 hours, ideally overnight, to maximize flavor and tenderness."
+        },
+        {
+            "mistake": "Overcrowding skewers with too much food",
+            "why_it_happens": "Trying to fit as much as possible on a skewer seems efficient but causes uneven cooking.",
+            "fix": "Leave small gaps between pieces to allow heat circulation and even cooking."
+        },
+        {
+            "mistake": "Grilling on too high heat causing burnt exterior and raw interior",
+            "why_it_happens": "High flames can char the outside quickly before the inside cooks through.",
+            "fix": "Use medium-high heat and turn kabobs often to cook evenly without burning."
+        },
+        {
+            "mistake": "Not letting kabobs rest after grilling",
+            "why_it_happens": "Impatience leads to cutting into meat immediately, causing juices to run out and dry texture.",
+            "fix": "Rest kabobs for at least 5 minutes to keep them juicy and tender."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Steak Kabobs",
+            "description": "Add 1 tablespoon Cajun seasoning to the marinade and a pinch of cayenne pepper for heat. These kabobs have a smoky, spicy kick that’s perfect for those who like bold flavors. Serve with a cooling yogurt dip to balance the spice.",
+            "technical_note": "Adjust marinating time to avoid overpowering the beef with spice; 4-6 hours is sufficient."
+        },
+        {
+            "name": "Mediterranean Herb Kabobs",
+            "description": "Swap the smoked paprika for dried oregano and rosemary, and add a splash of red wine vinegar to the marinade. Pair with cherry tomatoes and zucchini instead of bell peppers for a fresh, herbaceous twist.",
+            "technical_note": "Use fresh herbs if possible and reduce lemon juice slightly to keep the balance bright but not acidic."
+        },
+        {
+            "name": "Sweet and Tangy Pineapple Steak Kabobs",
+            "description": "Add pineapple chunks to the skewers and include 2 tablespoons of honey in the marinade. The pineapple caramelizes beautifully on the grill, adding sweetness that complements the savory beef.",
+            "technical_note": "Grill pineapple carefully to avoid burning, turning more frequently due to its sugar content."
+        },
+        {
+            "name": "Garlic Butter Steak Kabobs",
+            "description": "Brush kabobs with garlic butter during the last few minutes of grilling for a rich, indulgent flavor. This variation is perfect for a special occasion or when you want extra decadence.",
+            "technical_note": "Prepare garlic butter ahead and baste kabobs off direct heat to prevent burning the butter."
+        },
+        {
+            "name": "Vegetarian Portobello and Tofu Kabobs",
+            "description": "Replace beef with firm tofu and Portobello mushrooms marinated in the same mixture. These kabobs offer a satisfying, meaty texture for vegetarians and are just as flavorful when grilled well.",
+            "technical_note": "Press tofu to remove excess water before marinating and grill over medium heat to avoid drying out."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "680mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Steak kabobs can safely sit at room temperature for up to 2 hours, covered loosely to prevent contamination. Avoid leaving them out longer to reduce food safety risks.",
+        "refrigerator": "Store leftover kabobs in an airtight container in the fridge for up to 3 days. The flavors will mellow, and the meat may firm up slightly. Reheat gently to avoid drying out.",
+        "freezer": "Freeze kabobs wrapped tightly in foil or freezer bags for up to 3 months. To thaw, move to the fridge overnight and reheat on the grill or stovetop to restore texture.",
+        "reheating": "Reheat kabobs over medium heat on the grill or in a skillet with a splash of water or broth to keep them moist. Avoid microwaving as it can make the beef tough and unevenly heated.",
+        "make_ahead_strategy": "You can prepare and marinate the beef up to 1 day ahead and keep it refrigerated. Chop veggies and soak skewers the day before as well. Assemble and grill kabobs just before serving for best freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use other cuts of beef for these kabobs?",
+            "answer": "Absolutely! While sirloin is tender and affordable, you can also use ribeye for more marbling or flank steak for a leaner option. Just adjust the marinating time—flank steak benefits from a longer soak, while ribeye needs less. Make sure to cut pieces evenly for consistent cooking."
+        },
+        {
+            "question": "How long should I marinate the beef?",
+            "answer": "For best results, marinate for at least 4 hours, but overnight is ideal. This allows the flavors to penetrate deeply and tenderizes the meat. Avoid marinating longer than 24 hours as the acid can start to break down the texture too much, making it mushy."
+        },
+        {
+            "question": "Can I make these kabobs without a grill?",
+            "answer": "Yes! You can cook the kabobs under a broiler or on a grill pan on the stovetop. Just watch closely to avoid burning and turn frequently. Broiling for 8-10 minutes, turning halfway, usually works well to mimic the grill’s high heat."
+        },
+        {
+            "question": "What if I don’t have wooden skewers?",
+            "answer": "Metal skewers are a great reusable alternative and don’t require soaking. Just be careful when handling as they get very hot. If using wooden skewers, soaking is important to prevent burning during grilling."
+        },
+        {
+            "question": "How do I prevent the kabobs from drying out?",
+            "answer": "Don’t overcook the beef—medium-rare to medium is best for tenderness and juiciness. Also, marinating and grilling at medium-high heat with frequent turning helps lock in moisture. Letting the kabobs rest after cooking further ensures juicy bites."
+        },
+        {
+            "question": "Can I prepare kabobs in advance and reheat later?",
+            "answer": "You can marinate and assemble kabobs a day ahead and keep them refrigerated. For best texture, grill just before serving. Leftover cooked kabobs can be reheated gently on the grill or stovetop with a splash of liquid to keep moist."
+        },
+        {
+            "question": "What sides go well with steak kabobs?",
+            "answer": "These kabobs pair wonderfully with rice pilaf, grilled vegetables, fresh salads, or warm pita bread. You can also serve them with tzatziki or chimichurri sauce for extra flavor."
+        },
+        {
+            "question": "Can I add other vegetables to the skewers?",
+            "answer": "Definitely! Cherry tomatoes, zucchini slices, mushrooms, or even chunks of pineapple are great additions. Just make sure to cut everything into similar sizes for even cooking."
+        }
+    ],
+    "conclusion": "I hope you give these marinated steak kabobs a try soon—they’re a true family favorite around here! Let me know how they turn out and what variations you love.",
+    "seo": {
+        "primary_keyword": "marinated steak kabobs recipe",
+        "secondary_keywords": [
+            "easy steak kabobs",
+            "grilled steak kabobs",
+            "how to make steak kabobs",
+            "best steak kabobs recipe",
+            "steak kabobs marinade"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect grilled chicken kabobs",
+                "anchor": "grilled-chicken-kabobs"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_1.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_1.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_2.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_2.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_3.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_3.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_6.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_8.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_4.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_5.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_7.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_9.webp",
+            "relativePath": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781391764_587",
+    "slug": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling",
+    "isOnline": true,
+    "createdAt": "2026-06-14T00:03:41+01:00",
+    "updatedAt": "2026-06-14T00:03:41+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images"
+}

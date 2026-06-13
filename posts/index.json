@@ -1,6 +1,6 @@
 {
-    "generated": "2026-06-13 16:45:48",
-    "count": 564,
+    "generated": "2026-06-14 00:03:41",
+    "count": 565,
     "folders": [
         "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
         "15-minute-5-ingredient-honey-mustard-chicken-dinner-thats-ready-fast",
@@ -331,6 +331,7 @@
         "how-to-cook-artichokes-in-a-pot-simple-steps-for-tender-flavorful-artichokes",
         "how-to-cook-asparagus-in-a-pot-simple-and-delicious-every-time",
         "how-to-crisp-up-radishes-simple-tips-for-perfect-crunch-every-time",
+        "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling",
         "lemon-herb-chicken-breast-with-sauted-spinach-in-25-minutes",
         "lemon-lavender-pound-cake-with-fresh-edible-flowers-for-springtime-bliss",
         "light-and-creamy-spring-berry-cheesecake-cups-for-quick-desserts",
@@ -568,6 +569,21 @@
         "zesty-lemon-herb-chicken-bites-perfect-for-party-platters-for-easy-entertaining"
     ],
     "posts": [
+        {
+            "slug": "juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling",
+            "title": "Tender Marinated Steak Kabobs with Peppers and Onions for Perfect Backyard Grilling",
+            "description": "These steak kabobs are a total crowd-pleaser—juicy beef chunks marinated overnight with peppers and onions for that perfect smoky char. Great for summer cookouts or a simple weeknight meal when you want something hearty ",
+            "image": "posts/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling/images/juicy-steak-kabobs-with-peppers-and-onions-for-perfect-summer-grilling_pinrecipes_image_1.webp",
+            "category_id": "cat_1761229889_885",
+            "createdAt": "2026-06-14T00:03:41+01:00",
+            "updatedAt": "2026-06-14T00:03:41+01:00",
+            "isOnline": true,
+            "difficulty": "Medium",
+            "prep_time": 15,
+            "cook_time": 30,
+            "total_time": null,
+            "servings": 4
+        },
         {
             "slug": "sweet-and-simple-peach-dessert-recipes-to-try-this-summer",
             "title": "Fresh Peach Crumble with Buttery Topping — A Perfect Summer Dessert",
