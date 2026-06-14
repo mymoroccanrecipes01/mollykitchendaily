@@ -1,0 +1,336 @@
+{
+    "title": "Refreshing Watermelon Lime Mint Cooler for Hot Summer Days",
+    "promptIMG": "Food photography: Watermelon Lime Mint Cooler, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This watermelon cooler is my go-to for beating the heat. Just fresh watermelon, a splash of lime, and mint make it naturally sweet and super refreshing. Perfect for backyard BBQs or an easy afternoon pick-me-up!",
+    "hashtags": "#watermelon #summerdrink #refreshingbeverage",
+    "board_name": "Easy Summer Drinks",
+    "pin_variations": [
+        {
+            "title": "Beat the Heat with This Watermelon Mint Lime Cooler!",
+            "description": "Looking for a quick, fresh way to cool down? This watermelon lime mint cooler is naturally sweet and so easy to make. Save this recipe for your next backyard hangout! 🍉🍃 #summerdrinks #refreshing #easyrecipes"
+        },
+        {
+            "title": "Natural Watermelon Drink to Keep You Cool All Day Long",
+            "description": "Discover the perfect balance of sweet watermelon and zesty lime with fresh mint. It’s a breeze to whip up and ideal for hot days. Try it today and stay refreshed! 🌞🍹 #watermelonrecipe #cooldrinks #summerfun"
+        },
+        {
+            "title": "Simple Homemade Watermelon Lime Mint Refresher You’ll Love",
+            "description": "This drink is my secret weapon for hot afternoons—light, sweet, and bursting with fresh flavors. Perfect for sharing or sipping solo. Don’t forget to save this one! 💦🍈 #summerrefreshment #easybeverages #drinkrecipe"
+        },
+        {
+            "title": "Quick & Refreshing: Watermelon Lime Mint Cooler Recipe",
+            "description": "Need a fast, healthy refresher? This watermelon cooler blends fresh fruit and herbs for a natural boost. Perfect for BBQs or anytime you want to chill out. Discover now! 🍉🌿 #naturaldrink #summercooler #quickrecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups fresh watermelon chunks, seeds removed",
+        "1 tablespoon fresh lime juice",
+        "8 fresh mint leaves",
+        "1 cup cold water or sparkling water",
+        "Ice cubes, as needed",
+        "Optional: 1 teaspoon honey or agave syrup for extra sweetness"
+    ],
+    "yield": "About 4 cups, serves 4",
+    "introduction": "I first made this watermelon lime mint cooler on a scorching summer day when I needed something quick and refreshing. Traditional sugary sodas just didn’t feel right, so I grabbed some watermelon from the fridge, squeezed in fresh lime, and tossed in mint leaves. The result was a naturally sweet, cooling drink that felt like a mini-vacation in a glass. What sets this recipe apart is how simple it is—no complicated ingredients or long prep. Plus, using fresh mint leaves adds a bright, herbal note that really lifts the flavors. I like to blend the watermelon until smooth but leave a little texture so it still feels fresh and real. It’s perfect for backyard BBQs, picnics, or just sipping on the porch. The finished drink is light, slightly tangy, and incredibly thirst-quenching—exactly what you want when the heat hits. Honestly, I’ve tried fancy watermelon drinks before, but this one’s my favorite because it’s fast, fresh, and easy to customize. I hope you enjoy it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting fresh watermelon into chunks, removing any seeds you find. Using ripe watermelon is key because it’s naturally sweet and juicy, which means you won’t need to add much extra sugar. Place the chunks into a blender—don’t overfill to ensure smooth blending. Blending the watermelon thoroughly breaks down the fruit fibers and releases the juice, creating a smooth base for the drink. Avoid over-blending into a puree if you want a bit of texture; otherwise, a smooth consistency works well too.",
+            "timing": "5 minutes",
+            "doneness_cue": "The watermelon should be liquefied with no large chunks remaining, slightly pulpy but smooth."
+        },
+        {
+            "step": 2,
+            "instruction": "Add fresh lime juice and mint leaves to the blender. The lime juice adds a fresh tang that balances the sweetness, while the mint brings a cool herbal aroma. Pulse the blender a few times to lightly crush the mint without completely pulverizing it, so you get a subtle mint flavor rather than a strong leafy taste. If you skip this or add too much mint, the drink can taste bitter or overpowering.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mint leaves should be bruised but still visible, and the mixture smells bright and fresh."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in cold water or sparkling water to your desired dilution level. This step is important because pure watermelon juice can be very thick and sweet. Adding water lightens the drink and makes it more refreshing. Sparkling water adds a nice fizz, which makes it feel more special. Stir gently or pulse briefly to combine without losing the fizz if using sparkling water.",
+            "timing": "1 minute",
+            "doneness_cue": "The drink should look well mixed with a light pink color and no separation."
+        },
+        {
+            "step": 4,
+            "instruction": "Taste the cooler and decide if you want to add a touch of sweetness. If your watermelon wasn’t super sweet or you prefer a sweeter drink, add honey or agave syrup a teaspoon at a time. Blend briefly after adding sweetener to incorporate it fully. Be careful not to add too much, as the lime juice should keep the drink balanced and refreshing.",
+            "timing": "2 minutes",
+            "doneness_cue": "The drink tastes balanced—sweet but with a bright citrusy kick."
+        },
+        {
+            "step": 5,
+            "instruction": "Fill glasses with ice cubes. Adding plenty of ice chills the drink and slightly dilutes it as it melts, which helps keep the flavors balanced over time. Using fresh, cold ice is best to avoid watering down the drink too quickly. Avoid crushed ice as it melts faster and can dilute the flavor too much.",
+            "timing": "1 minute",
+            "doneness_cue": "Glasses filled with ice and ready for pouring."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the watermelon cooler over the ice, leaving a little room on top. This presentation keeps the drink cold and refreshing. Garnish with additional mint leaves or a thin lime slice if you want to add a pretty touch and extra aroma. The garnish also signals the flavors inside and makes it inviting to drink.",
+            "timing": "2 minutes",
+            "doneness_cue": "Drinks look vibrant with floating mint or lime garnish."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately for the best flavor and freshness. The cooler tastes best when it’s cold and freshly blended because the watermelon’s natural sweetness and mint’s brightness fade over time. If you need to store it, keep it refrigerated and stir before serving.",
+            "timing": "0 minutes",
+            "doneness_cue": "Drink feels cool and refreshing, with bright, fresh flavors."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to make this drink a bit more special, try adding a splash of ginger ale or a few crushed raspberries to the blender for a fruity twist. These additions add complexity without overpowering the watermelon. Just blend briefly to combine and serve chilled.",
+            "timing": "3 minutes",
+            "doneness_cue": "The drink has a subtle fizz or fruity hue, depending on additions."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender and utensils promptly after making this drink to avoid sticky residue from the watermelon juice. Watermelon juice can stain plastic and is sticky when dried, so rinsing immediately helps keep your kitchen tools fresh and ready for next use.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blender and utensils are clean with no sticky residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Watermelon Cooler Is Perfect for Summer",
+        "content": "<p>Watermelon is naturally high in water content—over 90%—which makes it ideal for hydration and refreshment on hot days. Blending it releases the juice, which is sweet and full of natural sugars, so you rarely need to add extra sweeteners. The lime juice adds acidity, which balances the sweetness and brightens the flavor, preventing the drink from tasting flat or cloying. This acid-base balance is essential for a refreshing beverage.</p><p>The addition of fresh mint leaves contributes essential oils that provide a cool, invigorating aroma and flavor that pairs beautifully with watermelon. Lightly bruising the mint releases these oils without making the drink bitter. If you pulverize the mint too much, chlorophyll and tannins can create an unpleasant taste.</p><p>Using cold water or sparkling water to dilute the juice adjusts the drink’s thickness and sweetness to a pleasant level. Sparkling water adds carbonation, which stimulates the palate and enhances the sensation of refreshment. The ice chills the drink and slowly dilutes it as it melts, softening the intense sweetness and acidity over time, making it enjoyable to sip slowly.</p><p>Finally, serving this drink immediately after blending preserves the fresh flavors and bright colors. Watermelon juice oxidizes and can lose vibrancy if left standing, so freshness is key. The simplicity of this recipe means it’s quick to prepare, requiring minimal ingredients and no cooking, making it perfect for spontaneous summer gatherings or a healthy afternoon treat.</p>",
+        "ingredient_notes": {
+            "Fresh Watermelon": "Choose ripe, seedless watermelon with bright red flesh for maximum sweetness and juiciness. The ideal watermelon is heavy for its size, indicating high water content. Avoid melons with white or pale flesh as they lack flavor. Removing seeds before blending ensures a smooth texture and a pleasant drinking experience.",
+            "Fresh Lime Juice": "Use freshly squeezed lime juice for the best brightness and acidity. Bottled lime juice often contains preservatives and lacks the fresh, zesty flavor that balances sweetness in this recipe. Lime juice not only adds flavor but also helps preserve the color of the watermelon juice by slowing oxidation.",
+            "Fresh Mint Leaves": "Select fresh, vibrant green mint leaves without brown spots or wilting. Spearmint or peppermint both work well, but spearmint is milder and more common in drinks. Mint provides cooling menthol oils that complement the watermelon’s sweetness. Avoid over-blending mint to prevent bitterness.",
+            "Cold or Sparkling Water": "Using cold water dilutes the juice to a refreshing consistency without overpowering the flavors. Sparkling water adds a pleasant fizz that enhances refreshment and mouthfeel. Avoid room temperature water as it can make the drink taste flat and less appealing.",
+            "Honey or Agave Syrup": "Optional sweeteners like honey or agave syrup can be added if your watermelon isn’t very sweet. Use sparingly to avoid overpowering the natural fruit flavor. These natural sweeteners dissolve easily in cold liquids and add subtle floral or caramel notes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe, seedless watermelon for the best natural sweetness and ease of blending.",
+            "reason": "Ripe watermelon contains more natural sugars and water, which means your drink will be sweet without adding extra sugar. Seedless varieties blend more smoothly and save you the hassle of straining seeds out later."
+        },
+        {
+            "tip": "Lightly bruise the mint leaves instead of fully blending them.",
+            "reason": "This releases the mint's essential oils for flavor without turning the drink bitter, which can happen if the leaves are pulverized and release chlorophyll and tannins."
+        },
+        {
+            "tip": "Add sparkling water right before serving to keep fizz.",
+            "reason": "Carbonation dissipates quickly once the drink is mixed. Adding sparkling water last preserves the bubbles, making the drink more refreshing and lively."
+        },
+        {
+            "tip": "Chill your watermelon chunks before blending.",
+            "reason": "Cold fruit blends into a cooler drink and reduces the need for ice, which can dilute flavors as it melts."
+        },
+        {
+            "tip": "Adjust sweetness after blending by tasting first.",
+            "reason": "Watermelon sweetness varies by season and ripeness. Adding sweetener without tasting can result in an overly sweet or unbalanced drink."
+        },
+        {
+            "tip": "Serve immediately for best flavor and color.",
+            "reason": "Watermelon juice oxidizes and loses its vibrant color and fresh taste if left standing for too long."
+        },
+        {
+            "tip": "Use a high-speed blender to get a smooth texture quickly.",
+            "reason": "A powerful blender efficiently breaks down the watermelon fibers, releasing juice and creating a smooth, drinkable consistency."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or pale watermelon",
+            "why_it_happens": "People often pick watermelon based on size or shape rather than ripeness, leading to bland or watery juice.",
+            "fix": "Select a watermelon that’s heavy for its size with deep red flesh. If unsure, taste a small piece before using to ensure sweetness."
+        },
+        {
+            "mistake": "Over-blending mint leaves",
+            "why_it_happens": "In a hurry, it’s easy to blend mint fully, which releases bitterness.",
+            "fix": "Pulse the blender just enough to bruise the leaves and release flavor without pulverizing them."
+        },
+        {
+            "mistake": "Adding too much sweetener without tasting first",
+            "why_it_happens": "Assuming the watermelon isn’t sweet enough can cause over-sweetening.",
+            "fix": "Always taste the blended juice before adding honey or syrup. Add sweetener gradually."
+        },
+        {
+            "mistake": "Using warm water or not chilling the drink",
+            "why_it_happens": "Rushing or forgetting to chill ingredients leads to a less refreshing drink.",
+            "fix": "Use cold water or sparkling water and chill watermelon beforehand. Serve over ice."
+        },
+        {
+            "mistake": "Preparing the drink too far in advance",
+            "why_it_happens": "Planning ahead is good but watermelon juice loses freshness quickly.",
+            "fix": "Blend and serve as close to serving time as possible. Store leftovers in the fridge and stir before drinking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Watermelon Cooler",
+            "description": "Add a small pinch of cayenne pepper or a few slices of jalapeño to the blender for a spicy kick that contrasts beautifully with the sweet watermelon. This variation is perfect if you like your drinks with a little heat and complexity.",
+            "technical_note": "Be careful with the amount of spice; start small and blend well to avoid overpowering the delicate watermelon flavor."
+        },
+        {
+            "name": "Cucumber Mint Watermelon Cooler",
+            "description": "Add half a peeled cucumber to the blender for extra freshness and a subtle vegetal note. This variation is incredibly hydrating and light, great for hot days when you want a cooler that’s not too sweet.",
+            "technical_note": "Use a high-speed blender to fully break down the cucumber and blend evenly with the watermelon."
+        },
+        {
+            "name": "Watermelon Basil Lime Cooler",
+            "description": "Swap mint for fresh basil leaves to give the drink a slightly peppery, aromatic twist. Basil pairs surprisingly well with watermelon and lime, offering a more herbaceous flavor profile.",
+            "technical_note": "Like with mint, bruise basil leaves gently to release oils without bitterness."
+        },
+        {
+            "name": "Frozen Watermelon Slush",
+            "description": "Freeze watermelon chunks ahead of time and blend with lime juice and mint for a slushy, icy texture. This turns the cooler into a fun, frosty treat that’s perfect for summer parties or kids.",
+            "technical_note": "Use frozen watermelon instead of ice to avoid diluting the flavor as the ice melts."
+        },
+        {
+            "name": "Watermelon Lemonade Twist",
+            "description": "Replace lime juice with fresh lemon juice and add a bit of simple syrup for a classic lemonade flavor with a watermelon twist. It’s a nostalgic, sweet-tart combo everyone will enjoy.",
+            "technical_note": "Adjust sweetness carefully, as lemon juice is more tart than lime."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "70 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "0g",
+        "fiber_grams": "1g",
+        "sodium_mg": "5mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This watermelon cooler is best consumed immediately. At room temperature, it can be left out for up to 1 hour if covered to prevent contamination, but flavor and freshness will quickly decline.",
+        "refrigerator": "Store leftover cooler in an airtight container in the fridge for up to 24 hours. Stir well before serving as separation may occur. It will taste less fresh but still enjoyable chilled.",
+        "freezer": "Freezing the blended watermelon drink is not recommended as it alters texture and flavor, causing ice crystals and separation upon thawing.",
+        "reheating": "This drink is served cold and should not be reheated. If it tastes too diluted after chilling, blend briefly with fresh watermelon chunks to refresh the flavor.",
+        "make_ahead_strategy": "You can prepare the watermelon chunks and mint leaves a day ahead and keep them refrigerated. Blend with lime juice and water just before serving for maximum freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use bottled lime juice instead of fresh?",
+            "answer": "While bottled lime juice can work in a pinch, fresh lime juice offers a brighter, more vibrant flavor that really lifts the drink. Bottled juice often contains preservatives and lacks the fresh acidity, which may make the cooler taste flat."
+        },
+        {
+            "question": "How do I make this drink less sweet?",
+            "answer": "Choose ripe but not overly sweet watermelon and reduce or omit any added sweeteners like honey. Adding more water or ice will also dilute the sweetness. The lime juice helps balance sweetness with acidity, so don’t skip it."
+        },
+        {
+            "question": "Can I prepare this drink ahead of time?",
+            "answer": "It’s best to blend and serve watermelon cooler fresh to enjoy its vibrant flavor. You can prep ingredients in advance but blend just before serving. If stored, keep in the fridge no longer than 24 hours and stir well before drinking."
+        },
+        {
+            "question": "What if I don’t have a blender?",
+            "answer": "Without a blender, you can muddle watermelon chunks with a fork or potato masher and strain the juice through a fine sieve. Add lime juice, mint, and water, then stir well. The texture will be different but still refreshing."
+        },
+        {
+            "question": "Can I substitute mint with other herbs?",
+            "answer": "Yes! Basil or cilantro can provide interesting flavor variations. Basil offers a peppery note, while cilantro adds a fresh, citrusy flavor. Just bruise the leaves gently to release oils without bitterness."
+        },
+        {
+            "question": "Is sparkling water necessary?",
+            "answer": "No, still water works fine if you prefer. Sparkling water adds a pleasant fizz that enhances refreshment, but plain cold water will still make a delicious cooler."
+        },
+        {
+            "question": "How do I avoid the drink becoming bitter from mint?",
+            "answer": "Avoid over-blending the mint leaves. Just pulse or stir gently to bruise them and release flavor. Over-processing releases chlorophyll and tannins that can cause bitterness."
+        },
+        {
+            "question": "Can I add alcohol to make a cocktail?",
+            "answer": "Absolutely! Vodka, rum, or tequila pair well with watermelon cooler. Add alcohol after blending and adjust sweetness and lime to balance the flavors. Serve over ice for a refreshing summer cocktail."
+        }
+    ],
+    "conclusion": "I hope you enjoy this watermelon lime mint cooler as much as I do—it's such a simple way to stay refreshed. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "watermelon lime mint cooler",
+        "secondary_keywords": [
+            "summer watermelon drink",
+            "natural refreshing drink",
+            "how to make watermelon cooler",
+            "best watermelon drink recipe",
+            "easy watermelon beverage"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade lemonade recipe",
+                "anchor": "homemade-lemonade"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_1.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_1.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_2.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_2.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_3.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_3.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_4.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_6.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_5.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_9.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_7.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_8.webp",
+            "relativePath": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images/refreshing-homemade-watermelon-drink-to-cool-your-summer-days_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781478249_448",
+    "slug": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days",
+    "isOnline": true,
+    "createdAt": "2026-06-15T00:22:31+01:00",
+    "updatedAt": "2026-06-15T00:22:31+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "refreshing-homemade-watermelon-drink-to-cool-your-summer-days/images"
+}

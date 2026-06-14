@@ -1,0 +1,344 @@
+{
+    "title": "Smoky and Tender Pellet Grill Ribs with a Simple Homemade Rub",
+    "promptIMG": "Food photography: Smoky and Tender Pellet Grill Ribs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These ribs are fall-off-the-bone tender with a smoky flavor that’s all thanks to the pellet grill and a secret spice rub. Perfect for weekend cookouts or a relaxed family dinner. You'll love how easy they come together!",
+    "hashtags": "#pelletgrill #ribsrecipe #smokedmeat #grillingfun",
+    "board_name": "Easy Pellet Grill Recipes",
+    "pin_variations": [
+        {
+            "title": "Melt-in-Your-Mouth Pellet Grill Ribs Everyone Will Love",
+            "description": "Discover the secret to ultra-tender, smoky ribs that are surprisingly easy to make on a pellet grill. Save this recipe and impress your friends at your next cookout! 🔥🍖 #pelletgrill #ribs #smokedmeat #easyrecipes",
+            "hashtags": "#pelletgrill #ribs #smokedmeat #easyrecipes"
+        },
+        {
+            "title": "How to Make Perfectly Smoky Ribs on a Pellet Grill Every Time",
+            "description": "Ready to elevate your grilling game? Try these smoky ribs cooked low and slow on a pellet grill. They’re juicy, tender, and packed with flavor. Try it today and taste the difference! 🍖🔥 #grillingtips #pelletgrillrecipes #smokedribs",
+            "hashtags": "#grillingtips #pelletgrillrecipes #smokedribs"
+        },
+        {
+            "title": "Weekend BBQ Essential: Smoky Pellet Grill Ribs Made Simple",
+            "description": "Weekend plans? Make these smoky ribs on your pellet grill for a crowd-pleaser that’s juicy and flavorful. Easy prep, big payoff—perfect for family dinners or parties. Save this recipe now! 🍴🔥 #bbqrecipes #pelletgrill #ribsrecipe",
+            "hashtags": "#bbqrecipes #pelletgrill #ribsrecipe"
+        },
+        {
+            "title": "Juicy, Tender Pellet Grill Ribs with a Flavor-Packed Rub",
+            "description": "Nothing beats ribs cooked on a pellet grill for that deep smoky flavor. This recipe uses a simple homemade rub that brings out the best in the meat. Discover now and enjoy a juicy feast! 🍖🌿 #smokedmeat #pelletgrill #grillrecipes",
+            "hashtags": "#smokedmeat #pelletgrill #grillrecipes"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 180,
+    "servings": 4,
+    "ingredients": [
+        "2 racks pork baby back ribs, membrane removed",
+        "1/4 cup brown sugar, packed",
+        "2 tablespoons smoked paprika",
+        "1 tablespoon garlic powder",
+        "1 tablespoon onion powder",
+        "1 tablespoon kosher salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon cayenne pepper (optional for heat)",
+        "1/2 cup apple juice",
+        "1/4 cup apple cider vinegar",
+        "Barbecue sauce for glazing (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first tried pellet grill ribs a few summers ago at a friend’s backyard party, and I was hooked immediately. The smoky aroma and tender texture were unlike anything I’d made before. Over time, I tweaked the rub and cooking method to suit my taste — less sugar, a bit more heat, and a slow, steady smoke that locks in juiciness. What makes this version stand out is the balance of sweet and smoky in the rub combined with the gentle steam from apple juice and vinegar during cooking. I also learned to remove the tough membrane on the ribs, which makes a huge difference in tenderness. The ribs come out with a beautiful bark and a melt-in-your-mouth texture that’s perfect for sharing with family or friends. It’s a bit of a wait with the low-and-slow cook, but totally worth it when you bite into those juicy, smoky ribs. Plus, the recipe is forgiving enough for a beginner to pellet grilling, and you can easily add your favorite BBQ sauce at the end if you like. If you love smoky, tender ribs but want a no-fuss method, this is it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by removing the silver skin membrane from the back of the ribs. This thin layer can be tough and prevent seasonings from penetrating. Use a butter knife to gently loosen an edge, then grab it with a paper towel and peel it off. Removing this membrane is key to tender ribs because it allows smoke and rub flavors to soak in better.",
+            "timing": "10 minutes",
+            "doneness_cue": "Ribs feel more pliable and the membrane is fully removed without tearing the meat"
+        },
+        {
+            "step": 2,
+            "instruction": "Mix together brown sugar, smoked paprika, garlic powder, onion powder, kosher salt, black pepper, and cayenne pepper in a bowl. This rub combines sweet, smoky, and a touch of heat to build layers of flavor. Make sure to mix thoroughly so the spices are evenly distributed.",
+            "timing": "5 minutes",
+            "doneness_cue": "Rub mixture is uniform with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Generously coat both sides of the ribs with the rub, pressing it into the meat. Don’t be shy here — the rub forms the flavorful crust, or bark, that makes these ribs special. Let the ribs rest with the rub at room temperature for about 20 minutes to let the spices start to meld with the meat.",
+            "timing": "20 minutes",
+            "doneness_cue": "Ribs feel tacky and well-coated with rub"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your pellet grill to 225°F. Low and slow is the secret here for tender ribs. This temperature allows the collagen in the meat to break down gently while absorbing smoky flavor without drying out. Make sure your pellets are good quality hardwood for the best smoke.",
+            "timing": "15 minutes",
+            "doneness_cue": "Grill reaches steady 225°F with consistent smoke"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the ribs bone-side down directly on the grill grates. Close the lid and let them smoke for about 2 hours. Resist the urge to open the grill too often — every time you do, heat and smoke escape, extending cooking time and affecting bark development.",
+            "timing": "120 minutes",
+            "doneness_cue": "Ribs develop a rich mahogany color and smoky aroma"
+        },
+        {
+            "step": 6,
+            "instruction": "Mix apple juice and apple cider vinegar in a spray bottle. After 2 hours, spritz the ribs every 30 minutes with this mixture to keep them moist and add a slight tangy sweetness. This step helps prevent drying out and enhances tenderness by adding moisture during the long cook.",
+            "timing": "30 minutes",
+            "doneness_cue": "Ribs remain moist and develop a slight sheen from spritzing"
+        },
+        {
+            "step": 7,
+            "instruction": "After about 2.5 hours, wrap the ribs tightly in foil to create a steamy environment. This traps moisture and accelerates tenderization. Return wrapped ribs to the grill and cook for another 45 minutes. This wrapping step is crucial — it transforms the ribs from smoky to fall-off-the-bone tender.",
+            "timing": "45 minutes",
+            "doneness_cue": "Foil is puffed slightly and ribs feel tender when gently pressed"
+        },
+        {
+            "step": 8,
+            "instruction": "Carefully unwrap the ribs and return them to the grill for a final 15 minutes to firm up the bark. If you like sauce, brush your favorite BBQ sauce on now and let it set for 10 minutes. This finishing step adds a sticky glaze and balances smoky flavors with sweet tang.",
+            "timing": "15 minutes",
+            "doneness_cue": "Ribs have a glossy glaze and slightly firm bark"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove ribs from the grill and let them rest for 10 minutes before slicing between the bones. Resting allows juices to redistribute, keeping the meat moist and flavorful. Serve with your favorite sides and enjoy that tender, smoky goodness!",
+            "timing": "10 minutes",
+            "doneness_cue": "Ribs slice easily and juices remain in the meat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Delivers Perfectly Tender, Smoky Ribs",
+        "content": "<p>Pellet grills combine steady heat with consistent wood smoke, making them ideal for slow-cooked meats like ribs. The low temperature of 225°F allows the collagen in the pork to gently break down into gelatin, which results in tender, juicy meat rather than dry toughness. This slow rendering process is why ribs cooked this way are so succulent.</p><p>The homemade rub balances sweetness, smokiness, and spice, creating a flavorful crust or bark. Brown sugar caramelizes during cooking, while smoked paprika adds depth without overpowering. The cayenne pepper is optional but gives a subtle heat that contrasts nicely with the sweet and savory notes.</p><p>Spritzing the ribs with apple juice and cider vinegar during cooking adds moisture and a touch of acidity, which helps tenderize the meat further and prevents it from drying out over the long cook. Wrapping the ribs in foil traps steam, accelerating collagen breakdown and intensifying tenderness while preserving moisture inside the foil packet.</p><p>Finally, the unwrapped finishing step firms up the bark and allows any added BBQ sauce to set beautifully. This multi-step process balances moisture, smoke, and texture to deliver ribs that are tender, flavorful, and visually appealing.</p>",
+        "ingredient_notes": {
+            "pork baby back ribs": "Look for fresh, meaty racks with a good amount of fat marbling but not excessive. Baby back ribs are prized for their tenderness and lean profile. Avoid ribs with too much silver skin intact; removing the membrane ensures better seasoning penetration and tenderness. If unavailable, spare ribs can be used but expect longer cooking times and a slightly different texture.",
+            "brown sugar": "Use packed brown sugar to add sweetness and help create the caramelized bark on the ribs. Dark brown sugar adds more molasses flavor, but light brown works fine too. The sugar’s moisture content helps bind the rub to the meat and balances the savory spices. Avoid substituting with white sugar as it lacks the depth of flavor and moisture.",
+            "smoked paprika": "This spice is essential for imparting a subtle smoky flavor without adding heat. It’s made from dried and smoked red peppers, offering an earthy, rich aroma that complements the wood smoke from the grill. Choose high-quality Spanish smoked paprika for the best flavor. Regular paprika won’t provide the same depth.",
+            "apple juice and apple cider vinegar": "These liquids provide moisture and acidity during cooking. Apple juice adds sweetness and moisture, while apple cider vinegar cuts through the richness of the pork and helps tenderize the meat by breaking down muscle fibers. Use fresh, unsweetened apple juice and raw apple cider vinegar for best results. Avoid overly sweet or flavored juices that may alter the flavor balance.",
+            "barbecue sauce": "Optional but popular for glazing at the end. Choose a sauce that complements the rub—something tangy and slightly sweet works well. Applying sauce too early can cause burning due to sugars, so it’s best added in the final minutes of grilling. Homemade or store-bought sauces both work; just avoid overly watery sauces that can dilute the bark."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always remove the silver skin membrane from ribs before seasoning.",
+            "reason": "The membrane is tough and prevents seasonings and smoke from penetrating the meat. Removing it helps the ribs become more tender and flavorful. Leaving it on can result in chewy ribs with a barrier to flavor."
+        },
+        {
+            "tip": "Use a spray bottle with apple juice and cider vinegar to keep ribs moist while smoking.",
+            "reason": "Spritzing adds moisture and a slight acidity that tenderizes the meat. It also helps prevent the surface from drying out during the long cook, ensuring juicy ribs with a balanced flavor."
+        },
+        {
+            "tip": "Wrap ribs tightly in foil after initial smoking to speed up tenderization.",
+            "reason": "Foil traps steam and moisture, creating a mini braise that breaks down collagen faster and makes ribs fall-off-the-bone tender. Skipping this step leads to drier ribs that take longer to become tender."
+        },
+        {
+            "tip": "Maintain a steady low temperature of 225°F on your pellet grill.",
+            "reason": "Low and slow cooking breaks down connective tissue without drying out the meat. Temperatures too high will cook ribs too fast, causing toughness and less smoke absorption."
+        },
+        {
+            "tip": "Let the ribs rest for 10 minutes after cooking before slicing.",
+            "reason": "Resting allows juices to redistribute throughout the meat, preventing them from running out when cut. This keeps the ribs moist and flavorful."
+        },
+        {
+            "tip": "Use quality hardwood pellets for consistent smoke flavor.",
+            "reason": "Cheap or softwood pellets can produce off-flavors or inconsistent smoke. Hardwood pellets like hickory or applewood provide a clean, balanced smoke that enhances the ribs."
+        },
+        {
+            "tip": "Don’t open the grill too often during cooking.",
+            "reason": "Every time you open the lid, heat and smoke escape, extending cooking time and disrupting the smoke ring formation. Patience is key for great bark and flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the membrane removal from ribs",
+            "why_it_happens": "Many cooks don’t realize the membrane affects tenderness and flavor penetration, or they find it difficult to remove.",
+            "fix": "Use a butter knife to loosen the membrane edge, then grip it with a paper towel and pull firmly but gently. Removing it allows the rub and smoke to better flavor the meat and results in more tender ribs."
+        },
+        {
+            "mistake": "Cooking ribs at too high a temperature",
+            "why_it_happens": "Impatience or unfamiliarity with low-and-slow methods can lead to cranking the heat to save time.",
+            "fix": "Set your pellet grill to 225°F and allow plenty of time for the ribs. This slow cooking breaks down collagen properly. Rushing leads to tough, dry ribs."
+        },
+        {
+            "mistake": "Skipping the spritzing step",
+            "why_it_happens": "Some think spritzing is unnecessary or too much hassle.",
+            "fix": "Use a spray bottle to lightly spritz apple juice and vinegar every 30 minutes after the first two hours. This keeps ribs moist and adds flavor complexity."
+        },
+        {
+            "mistake": "Applying barbecue sauce too early",
+            "why_it_happens": "Eager cooks often glaze ribs too soon, hoping for quick flavor.",
+            "fix": "Wait until the final 15 minutes to brush on sauce. Early application can cause burning due to sugar content and ruin the bark texture."
+        },
+        {
+            "mistake": "Opening the grill frequently during cooking",
+            "why_it_happens": "Curiosity or checking doneness too often.",
+            "fix": "Resist opening the lid except when spritzing or wrapping. Maintaining consistent heat and smoke is crucial for flavor and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Pellet Grill Ribs",
+            "description": "Add 1 tablespoon chipotle chili powder to the rub and increase cayenne pepper for a smoky, spicy kick. The chipotle adds a deep, smoky heat that pairs well with the sweetness of the brown sugar.",
+            "technical_note": "Spicy rubs can darken faster; watch the ribs carefully during the final unwrapped phase to avoid burning."
+        },
+        {
+            "name": "Sweet and Tangy Honey Mustard Ribs",
+            "description": "Mix 2 tablespoons honey and 1 tablespoon Dijon mustard into the rub for a sweet and tangy flavor. Finish with a honey mustard glaze instead of BBQ sauce for a bright twist.",
+            "technical_note": "Honey can burn quickly; apply glaze during the last 10 minutes and keep an eye on the ribs."
+        },
+        {
+            "name": "Asian-Inspired Pellet Grill Ribs",
+            "description": "Swap the rub for a blend of Chinese five spice, brown sugar, garlic powder, and ground ginger. Serve with a hoisin-based glaze for a savory umami flavor profile.",
+            "technical_note": "The five spice blend changes the bark color and aroma; the glaze should be applied late to avoid burning."
+        },
+        {
+            "name": "Dry Rub Only Ribs with Extra Smoke",
+            "description": "Skip the spritzing and wrapping steps for a drier, barkier rib with an intense smoky flavor. Great if you prefer a chewier texture and strong smoke presence.",
+            "technical_note": "Expect longer cooking time and less tender ribs; monitor closely to avoid drying out."
+        },
+        {
+            "name": "Maple Bourbon Glazed Pellet Grill Ribs",
+            "description": "Add 1 tablespoon maple syrup to the rub and finish with a bourbon and maple glaze brushed on at the end. This adds a rich sweetness and depth that pairs beautifully with smoky pork.",
+            "technical_note": "Alcohol in bourbon burns off quickly; apply glaze during the last 10-15 minutes and watch closely."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "45g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "30g",
+        "fiber_grams": "1g",
+        "sodium_mg": "800mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked ribs can be safely left out covered at room temperature for up to 2 hours. Beyond that, refrigerate to prevent bacterial growth. Keep them loosely covered to avoid drying.",
+        "refrigerator": "Store ribs in an airtight container or wrapped tightly in foil for up to 4 days. Flavor and texture may firm up slightly when cold. Reheat gently to preserve moisture.",
+        "freezer": "Wrap ribs tightly in foil and place in a freezer bag to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat ribs in a low oven (275°F) wrapped in foil with a splash of apple juice to restore moisture, about 20 minutes. Avoid microwaving which can dry out the meat.",
+        "make_ahead_strategy": "You can apply the rub and remove the membrane up to 24 hours before cooking and refrigerate. This lets flavors develop. Cook ribs fresh for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use spare ribs instead of baby back ribs?",
+            "answer": "Yes, spare ribs can be used but they are larger and have more fat and connective tissue, so they require longer cooking times (usually 3-4 hours at 225°F). They tend to be meatier but less tender than baby backs. Adjust timing accordingly."
+        },
+        {
+            "question": "What if I don’t have a pellet grill? Can I use a charcoal or gas grill?",
+            "answer": "You can mimic this recipe on a charcoal grill by setting up indirect heat and adding wood chunks for smoke. Gas grills need a smoker box or wood chips to add smoke flavor. The cooking times and temperatures remain similar but expect some variation in smoke intensity."
+        },
+        {
+            "question": "Why do I need to spritz the ribs during cooking?",
+            "answer": "Spritzing adds moisture to the surface, preventing drying and helping develop a tender bark. The acidity in apple cider vinegar also helps break down muscle fibers gently, improving tenderness and flavor."
+        },
+        {
+            "question": "Can I skip the foil wrap step?",
+            "answer": "You can, but the ribs will take longer to become tender and might be less juicy. Wrapping traps steam and speeds up collagen breakdown, making the ribs fall-off-the-bone tender. Without it, expect a firmer texture."
+        },
+        {
+            "question": "How do I know when ribs are done?",
+            "answer": "Look for a deep mahogany color, meat pulling back from the bones by about 1/4 inch, and a tender texture when gently pressed or poked with a toothpick. Internal temperature should be around 195-203°F for ideal tenderness."
+        },
+        {
+            "question": "Can I prepare the rub in advance?",
+            "answer": "Absolutely! The rub keeps well stored in an airtight container for several weeks. Making it ahead saves prep time and allows flavors to meld."
+        },
+        {
+            "question": "What wood pellets work best for ribs?",
+            "answer": "Fruit woods like apple or cherry provide a mild, sweet smoke that complements pork. Hickory and oak offer stronger smoke flavors but can be overpowering if overused. I prefer apple pellets for balanced flavor."
+        },
+        {
+            "question": "Can I add a glaze or sauce during cooking?",
+            "answer": "It’s best to add sauce only in the final 10-15 minutes to prevent burning. Sugar in sauces caramelizes quickly and can ruin the bark if applied too early."
+        }
+    ],
+    "conclusion": "I hope you give these pellet grill ribs a try — they’re a crowd favorite at my house! Let me know how yours turn out and what your favorite rub or sauce combo is.",
+    "seo": {
+        "primary_keyword": "pellet grill ribs recipe",
+        "secondary_keywords": [
+            "smoked ribs on pellet grill",
+            "how to make pellet grill ribs",
+            "best pellet grill rib recipe",
+            "easy pellet grill ribs"
+        ],
+        "internal_links": [
+            {
+                "text": "how to remove rib membrane",
+                "anchor": "remove-rib-membrane"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_1.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_1.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_2.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_2.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_3.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_3.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_9.webp",
+            "relativePath": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images/pellet-grill-recipes-easy-flavorful-meals-for-any-occasion_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781478676_595",
+    "slug": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion",
+    "isOnline": true,
+    "createdAt": "2026-06-15T00:22:31+01:00",
+    "updatedAt": "2026-06-15T00:22:31+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "pellet-grill-recipes-easy-flavorful-meals-for-any-occasion/images"
+}

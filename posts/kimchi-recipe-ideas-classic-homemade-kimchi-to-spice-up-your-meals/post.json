@@ -1,0 +1,340 @@
+{
+    "title": "Homemade Kimchi: Traditional Korean Fermentation Magic in Your Kitchen",
+    "promptIMG": "Food photography: Homemade Kimchi, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This kimchi recipe is a vibrant, spicy, and tangy Korean staple that’s surprisingly easy to make at home. The simple fermentation unlocks deep flavors that brighten any meal. Perfect as a side or ingredient!",
+    "hashtags": "#kimchi #fermentation #koreanfood #homemade",
+    "board_name": "Easy Fermented Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover How to Make Authentic Kimchi at Home with This Easy Recipe!",
+            "description": "Ready to spice up your meals? This homemade kimchi is packed with bold flavors and probiotics. Save this recipe and try it today to enjoy a taste of Korea in your kitchen! 🌶️🥬 #kimchi #fermentedfoods #homemadekimchi"
+        },
+        {
+            "title": "Step-by-Step Guide to Perfect Homemade Kimchi That Everyone Will Love",
+            "description": "Fermenting kimchi might seem tricky, but this simple recipe breaks it down for you. Grab your napa cabbage and get ready for a delicious, tangy treat. Save and share! 🥢✨ #koreanrecipes #fermentation #easykimchi"
+        },
+        {
+            "title": "Spicy & Tangy Homemade Kimchi Recipe to Boost Your Meals Instantly",
+            "description": "Add a punch of flavor with this homemade kimchi — it’s easier than you think! Perfect as a side or in dishes. Discover the secrets to great fermentation and save this for later! 🔥🥬 #kimchirecipe #homemadefermentation #koreanfood"
+        },
+        {
+            "title": "Make Your Own Kimchi at Home: A Traditional Korean Favorite Made Simple",
+            "description": "Want authentic kimchi without the store price? This recipe is your new go-to, with easy steps and amazing flavor. Try it today and impress your friends! 🌶️🥢 #kimchi #homemadekoreanfood #fermentedveggies"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 medium napa cabbage (about 2 pounds), chopped",
+        "1/4 cup sea salt",
+        "4 cups water",
+        "1 tablespoon grated ginger",
+        "4 cloves garlic, minced",
+        "2 teaspoons sugar",
+        "3 tablespoons Korean red pepper flakes (gochugaru)",
+        "4 green onions, sliced",
+        "1 small carrot, julienned",
+        "2 tablespoons fish sauce"
+    ],
+    "yield": "Approximately 4 cups, serves 4",
+    "introduction": "I first tried making kimchi a few years ago after falling in love with Korean food during a trip. I was intimidated at first because fermentation sounded complicated, but once I got the hang of it, I was hooked. What makes my version special is how I balance the spice and tang without it being overwhelming — the trick I learned is salting the cabbage just right to draw out the water and get that perfect crunch. Plus, I add a touch of sugar to mellow the heat and deepen the flavor. The finished kimchi is vibrant, spicy, and has that classic sour kick that makes it addictive. It’s fantastic as a side with rice or mixed into fried rice and stews. I love that it’s not only delicious but also packed with probiotics. Honestly, it’s become a staple in my kitchen, and I’m always excited when I open the jar to that tangy aroma. If you’re new to fermentation, don’t worry — I’ll walk you through each step so you get it just right.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chopping the napa cabbage into bite-sized pieces. Place it in a large bowl and sprinkle the sea salt evenly over the cabbage. Toss well to coat each piece. Then, pour in 4 cups of cold water to cover the cabbage. The salt draws moisture out, which softens the cabbage and helps create the ideal texture for fermentation. Leave it to soak for at least 2 hours, tossing every 30 minutes to ensure even salting. Avoid skimping on this step, as under-salting can lead to soggy kimchi or poor fermentation.",
+            "timing": "2 hours",
+            "doneness_cue": "Cabbage pieces will be wilted and reduced in volume, with a slightly translucent look and a firm but flexible texture."
+        },
+        {
+            "step": 2,
+            "instruction": "While the cabbage is salting, prepare the kimchi paste. In a small bowl, combine the grated ginger, minced garlic, sugar, Korean red pepper flakes, and fish sauce. Mix until you get a thick, vibrant paste. This paste is the flavor powerhouse — the ginger and garlic add warmth, the gochugaru brings heat and color, and the fish sauce gives that umami depth. Be sure to mix thoroughly so the sugar dissolves, which balances the spicy and sour notes during fermentation.",
+            "timing": "10 minutes",
+            "doneness_cue": "The paste should be smooth, bright red, and fragrant with spices and fish sauce."
+        },
+        {
+            "step": 3,
+            "instruction": "After the cabbage has soaked, rinse it thoroughly under cold water at least twice to remove excess salt. Then, drain it well using a colander, pressing lightly to remove extra water but don’t squeeze too hard or the cabbage will lose its crunch. This rinsing step is crucial because if too salty, the kimchi can become overly salty and inhibit fermentation. Once drained, transfer the cabbage back to the large bowl.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cabbage feels salty but not overwhelmingly so, and is moist but not waterlogged."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the prepared kimchi paste to the cabbage along with the sliced green onions and julienned carrot. Using clean hands (wear gloves if you prefer), mix everything thoroughly until every piece of cabbage is coated evenly with the spicy paste. This ensures consistent flavor and proper fermentation. Don’t rush — take your time mixing to distribute the paste well. This step also helps break down the cabbage slightly for better texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "All cabbage pieces are bright red and fully coated, with green onions and carrots evenly dispersed."
+        },
+        {
+            "step": 5,
+            "instruction": "Pack the kimchi mixture tightly into a clean glass jar or fermentation container. Press down firmly to remove air pockets, leaving about 1 inch of space at the top for expansion during fermentation. Air exposure can cause spoilage, so packing tightly is key to a successful ferment. Seal the jar with a lid but don’t screw it on too tight — gases need to escape to prevent pressure buildup.",
+            "timing": "10 minutes",
+            "doneness_cue": "Jar is full with no visible air gaps, and cabbage is submerged slightly in its own juices."
+        },
+        {
+            "step": 6,
+            "instruction": "Leave the jar at room temperature (around 65-75°F) to ferment for 1-2 days. The warmer your kitchen, the faster the fermentation. During this time, the flavors develop and the cabbage softens while gaining that signature tang. Check daily, gently pressing down to keep the cabbage submerged in its brine. If you see bubbles or hear a slight fizz, that’s a good sign fermentation is active. Avoid opening the jar too often as oxygen can interfere with the process.",
+            "timing": "1-2 days",
+            "doneness_cue": "Kimchi smells pleasantly sour and spicy, with visible bubbles or fizz inside the jar."
+        },
+        {
+            "step": 7,
+            "instruction": "After fermenting at room temperature, move the jar to the refrigerator to slow fermentation and develop flavor further. Cold storage keeps the kimchi crisp and lets the flavors mellow over the next week or more. You can eat it right away or let it mature for deeper complexity. Refrigeration also helps preserve the probiotics longer. Always use a clean utensil to scoop out kimchi to avoid contamination.",
+            "timing": "At least 1 week refrigerated",
+            "doneness_cue": "Kimchi tastes tangy, spicy, and crunchy with a balanced flavor profile."
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, give the kimchi a gentle stir to mix the brine and flavors. It’s fantastic as a side dish with rice, grilled meats, or mixed into soups and stews. If you want it spicier, add extra red pepper flakes when mixing the paste. For milder kimchi, reduce the gochugaru. Experiment a bit to find your favorite heat level!",
+            "timing": "5 minutes",
+            "doneness_cue": "Kimchi has a balanced spicy-sour flavor and crunchy texture, ready to serve."
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to speed up fermentation, you can leave the kimchi at room temperature for up to 3 days, but monitor closely to avoid over-fermentation which leads to mushy texture and overly sour taste. Also, always store kimchi in a glass or food-grade plastic container to avoid metallic flavors from reacting with the acids produced during fermentation.",
+            "timing": "Optional 1-3 days room temp",
+            "doneness_cue": "Kimchi is tangy but still crunchy, with a fresh, vibrant aroma."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Kimchi Recipe Delivers Perfect Flavor and Texture",
+        "content": "<p>Fermentation is the heart of kimchi, and the salting step is crucial for drawing moisture out of the cabbage, which helps create the ideal texture and prevents sogginess. Salt also inhibits bad bacteria while encouraging the growth of beneficial lactobacilli that produce lactic acid, giving kimchi its signature tangy flavor. The timing and temperature of fermentation control how sour and soft the kimchi becomes — warmer temps accelerate the process but can lead to mushiness if left too long.</p><p>The kimchi paste combines garlic, ginger, and red pepper flakes to build depth and heat. Garlic and ginger add pungency and warmth, while the gochugaru (Korean chili powder) provides a smoky, spicy kick. Fish sauce contributes umami that balances the spice and sourness, making the flavor complex and layered. Slight sugar addition balances the acidity and rounds out the taste.</p><p>Proper mixing ensures the paste coats every cabbage piece, which is important not only for flavor but also for consistent fermentation. Packing tightly into the jar removes oxygen pockets that could cause spoilage. The natural gases produced during fermentation create bubbles and fizz, a sign that the beneficial bacteria are active and thriving.</p><p>Finally, refrigerating the kimchi slows fermentation, preserving the crunchy texture and allowing flavors to develop more gradually over time. This step also maintains probiotic health benefits longer. Using glass containers avoids off-flavors that can occur when acidic kimchi contacts metal.</p>",
+        "ingredient_notes": {
+            "Napa Cabbage": "Choose fresh, firm napa cabbage heads with bright green leaves and crisp white stems. Avoid wilted or yellowing leaves. Napa cabbage is preferred for kimchi due to its tender texture and mild flavor, which allows the spicy, fermented flavors to shine. Proper salting softens the cabbage just enough to ferment well without becoming mushy.",
+            "Korean Red Pepper Flakes (Gochugaru)": "Look for Korean gochugaru, which is mildly smoky and not overly hot. This chili powder is essential for authentic kimchi flavor and vibrant red color. Avoid substituting with regular chili powders as they lack the unique flavor profile. Adjust quantity based on your spice tolerance.",
+            "Fish Sauce": "Use a quality fish sauce with a clean, balanced umami flavor. It adds depth and savory notes critical to kimchi’s complexity. Too much can overpower; too little and the flavor falls flat. For vegetarian versions, use soy sauce or miso paste as alternatives but expect a different taste.",
+            "Sea Salt": "Coarse sea salt is ideal for salting the cabbage because it dissolves slowly and evenly, drawing out moisture effectively. Table salt can be used but measure carefully to avoid over-salting. The salt also helps inhibit harmful bacteria while promoting the growth of beneficial fermenting microbes.",
+            "Garlic and Ginger": "Fresh garlic and ginger provide pungency and warmth. Grate finely to release maximum flavor and ensure even distribution in the paste. Using powders won’t yield the same fresh, vibrant taste essential for authentic kimchi."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use gloves when mixing the kimchi paste to protect your hands from the chili and to keep everything hygienic.",
+            "reason": "The chili flakes can irritate skin, and your hands can transfer unwanted bacteria to the kimchi. Gloves also help you mix thoroughly without hesitation, ensuring even coating for consistent fermentation."
+        },
+        {
+            "tip": "Don’t skip rinsing the cabbage after salting; it balances the saltiness and prevents kimchi from becoming too salty or harsh.",
+            "reason": "Rinsing removes excess salt which would otherwise inhibit fermentation or make the kimchi unpleasantly salty. Proper rinsing ensures a good balance for the bacteria to thrive and develop the desired tang."
+        },
+        {
+            "tip": "Use a glass jar with a wide mouth for fermenting kimchi to make packing and stirring easier.",
+            "reason": "Glass is non-reactive and won’t absorb odors or flavors, preserving the kimchi’s taste. Wide-mouth jars allow you to press the cabbage down firmly and monitor fermentation without contaminating the batch."
+        },
+        {
+            "tip": "Store your kimchi in the coldest part of the fridge after fermenting to preserve its crunch and slow down fermentation.",
+            "reason": "Cold temperatures slow bacterial activity, preventing over-fermentation which leads to mushy texture and overly sour flavor. Keeping it cold extends shelf life and keeps flavors balanced."
+        },
+        {
+            "tip": "If you want milder kimchi, reduce the amount of gochugaru or add extra julienned carrots for natural sweetness.",
+            "reason": "Adjusting spice levels helps the kimchi suit your palate. Carrots add crunch and a subtle sweetness that balances the heat without diluting the fermentation process."
+        },
+        {
+            "tip": "Press the kimchi down daily during the first fermentation days to keep it submerged under its own juices.",
+            "reason": "Exposure to air can cause mold or undesirable bacteria growth. Keeping the cabbage submerged maintains an anaerobic environment ideal for lactic acid bacteria, ensuring safe and successful fermentation."
+        },
+        {
+            "tip": "Let your kimchi ferment at room temperature for 1-2 days before refrigerating to develop flavor quickly.",
+            "reason": "This initial warm fermentation jump-starts bacterial activity. Refrigeration then slows it down, allowing flavors to mature without turning the cabbage too soft or sour."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not salting the cabbage long enough",
+            "why_it_happens": "Many beginners rush this step because waiting seems tedious, but salt needs time to draw moisture out and soften the cabbage.",
+            "fix": "Allow at least 2 hours of salting, tossing occasionally. This ensures the right texture and flavor balance. Rushing leads to crunchy, bland kimchi that ferments poorly."
+        },
+        {
+            "mistake": "Overpacking the jar without leaving space for gases",
+            "why_it_happens": "It’s tempting to fill the jar completely, but fermentation produces gases that need room to expand.",
+            "fix": "Leave about 1 inch of headspace in the jar. This prevents pressure buildup and potential jar breakage or messy leaks."
+        },
+        {
+            "mistake": "Using metal containers for fermentation",
+            "why_it_happens": "Metal can react with the acidic kimchi, imparting off-flavors and potentially harmful compounds.",
+            "fix": "Always ferment in glass or food-safe plastic containers. These materials are non-reactive and preserve authentic flavor."
+        },
+        {
+            "mistake": "Opening the jar too often during fermentation",
+            "why_it_happens": "Curiosity or impatience leads to frequent opening, introducing oxygen and contaminants.",
+            "fix": "Check kimchi once a day at most, and press down gently without fully opening the lid to maintain an anaerobic environment."
+        },
+        {
+            "mistake": "Skipping the rinsing step after salting the cabbage",
+            "why_it_happens": "Some think rinsing washes away flavor, but it’s actually essential to balance saltiness.",
+            "fix": "Rinse cabbage at least twice under cold water. This ensures the kimchi isn’t overly salty and ferments properly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Kimchi",
+            "description": "Omit fish sauce and replace it with soy sauce or tamari for a plant-based version. You can also add a bit of miso paste for umami depth. The flavor will be slightly different but still delicious and probiotic-rich.",
+            "technical_note": "Fermentation times remain the same, but monitor salt levels carefully to compensate for different umami sources."
+        },
+        {
+            "name": "Quick Kimchi",
+            "description": "For a faster version, reduce the salting time to 1 hour and ferment at room temperature for just 24 hours. This yields a less sour, fresher-tasting kimchi great for beginners or immediate use.",
+            "technical_note": "Shorter fermentation means milder flavor and crunchier texture but less developed probiotics."
+        },
+        {
+            "name": "Spicy Extra Hot Kimchi",
+            "description": "Double the gochugaru and add a diced fresh chili pepper to the paste for an intense heat kick. This is perfect if you love fiery foods and want a bold kimchi experience.",
+            "technical_note": "Be aware that higher spice levels can slow fermentation slightly; keep an eye on taste and texture."
+        },
+        {
+            "name": "White Kimchi (Baek Kimchi)",
+            "description": "Skip the chili flakes and fish sauce for a mild, non-spicy kimchi. Use garlic, ginger, and a little sugar for flavor. It’s refreshing and great for those sensitive to spice.",
+            "technical_note": "Fermentation time is similar but expect a lighter flavor with a clean, crisp finish."
+        },
+        {
+            "name": "Kimchi with Radish",
+            "description": "Add Korean radish cut into matchsticks alongside the cabbage for extra crunch and sweetness. Radish adds a nice contrast and absorbs flavors beautifully.",
+            "technical_note": "Radish releases water, so ensure adequate salting and drainage to prevent sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "40 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "680mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Kimchi can safely ferment at room temperature for up to 3 days. Keep it covered loosely to allow gases to escape but prevent dust or insects. After this, it should be refrigerated to maintain quality and safety.",
+        "refrigerator": "Store kimchi in an airtight glass container for up to 4 weeks. Flavor will deepen over time, but texture may soften. It’s best enjoyed chilled or at room temperature. Avoid leaving kimchi out for extended periods to prevent spoilage.",
+        "freezer": "Kimchi can be frozen up to 3 months, but freezing affects texture, making it softer upon thawing. Use airtight freezer-safe containers or bags, removing as much air as possible. Thaw in the fridge and consume quickly.",
+        "reheating": "Kimchi is typically eaten cold or at room temperature. If using in cooked dishes, add it near the end of cooking to preserve flavor and texture. Avoid prolonged heating which can reduce probiotics and flavor vibrancy.",
+        "make_ahead_strategy": "You can prepare the cabbage and paste separately 1-2 days ahead. Salt the cabbage and keep refrigerated, then mix with the paste just before fermenting. This saves time and ensures freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular cabbage instead of napa cabbage?",
+            "answer": "Regular green cabbage can be used but it’s denser and tougher, so it needs longer salting and fermentation times. The flavor and texture will be different—less tender and more robust. Napa cabbage is preferred for its softer leaves and mild taste, making it ideal for kimchi."
+        },
+        {
+            "question": "How do I know when my kimchi is ready to eat?",
+            "answer": "Kimchi is ready once it has developed a tangy, sour flavor and the cabbage softens slightly but remains crunchy. This usually takes 1-2 days at room temperature plus refrigeration. Taste it daily during fermentation to find your preferred balance of sourness and texture."
+        },
+        {
+            "question": "What if my kimchi smells bad or looks moldy?",
+            "answer": "A strong off-putting smell or mold indicates spoilage. This usually happens if the kimchi isn’t submerged in brine or if contaminated by dirty utensils. Always press kimchi below the liquid and use clean tools. If mold appears, discard the batch to be safe."
+        },
+        {
+            "question": "Can I ferment kimchi without fish sauce?",
+            "answer": "Yes, for a vegan version substitute fish sauce with soy sauce, tamari, or miso paste. The flavor will be less umami-rich but still tasty. Adjust salt and sugar to balance the taste. Fermentation times remain similar."
+        },
+        {
+            "question": "Why is my kimchi too salty?",
+            "answer": "Too much salt or insufficient rinsing after salting causes excessive saltiness. Measure salt carefully and rinse cabbage thoroughly at least twice to remove excess salt. Proper salt balance is essential for good fermentation and flavor."
+        },
+        {
+            "question": "How long does kimchi last in the fridge?",
+            "answer": "Properly stored kimchi lasts about 3-4 weeks in the refrigerator. Over time, it becomes more sour and softer. For best taste and texture, consume within this period and always use clean utensils to avoid contamination."
+        },
+        {
+            "question": "Can I speed up fermentation if I want kimchi quickly?",
+            "answer": "Yes, ferment at room temperature for 1-2 days for quicker results. Warmer temperatures speed up fermentation but watch closely to avoid over-fermentation which makes kimchi mushy and overly sour."
+        },
+        {
+            "question": "Is it normal for kimchi to bubble or fizz?",
+            "answer": "Yes, bubbling and fizzing are signs of active fermentation as beneficial bacteria produce gases. This means your kimchi is fermenting properly. Just be sure to release pressure occasionally and keep it submerged in brine."
+        }
+    ],
+    "conclusion": "Give this homemade kimchi recipe a try and enjoy a delicious taste of Korea right at home! I’d love to hear how your batch turns out, so don’t hesitate to share your results.",
+    "seo": {
+        "primary_keyword": "homemade kimchi recipe",
+        "secondary_keywords": [
+            "easy kimchi recipe",
+            "how to make kimchi",
+            "traditional kimchi recipe",
+            "best kimchi recipe",
+            "korean fermented vegetables"
+        ],
+        "internal_links": [
+            {
+                "text": "How to ferment vegetables safely",
+                "anchor": "fermentation-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_1.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_2.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_3.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_8.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_6.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_7.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_5.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_9.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_4.webp",
+            "relativePath": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images/kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781478894_768",
+    "slug": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals",
+    "isOnline": true,
+    "createdAt": "2026-06-15T00:22:31+01:00",
+    "updatedAt": "2026-06-15T00:22:31+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "kimchi-recipe-ideas-classic-homemade-kimchi-to-spice-up-your-meals/images"
+}

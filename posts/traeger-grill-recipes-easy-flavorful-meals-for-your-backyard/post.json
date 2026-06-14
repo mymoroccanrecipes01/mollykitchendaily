@@ -1,0 +1,349 @@
+{
+    "title": "Simple and Delicious Traeger Grill Recipes for Perfect Weekend Cookouts",
+    "promptIMG": "Food photography: Traeger grilled dishes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These Traeger Grill recipes bring out amazing smoky flavors with minimal fuss. Perfect for casual dinners or weekend cookouts, they make grilling easy and delicious every time.",
+    "hashtags": "#TraegerGrill #GrillingRecipes #WeekendCookout",
+    "board_name": "Easy Grilling Recipes",
+    "pin_variations": [
+        {
+            "title": "Unlock Amazing Smoky Flavors with These Easy Traeger Recipes",
+            "description": "Love grilling? These simple Traeger recipes add incredible smoky flavor with almost no effort. Perfect for your next cookout—save this and try it today! 🔥🍖 #TraegerGrill #BBQ #EasyRecipes"
+        },
+        {
+            "title": "Weekend Cookout Made Easy: Try These Traeger Grill Favorites Now",
+            "description": "Looking for hassle-free grilling ideas? These Traeger recipes are packed with flavor and perfect for casual dinners. Discover now and impress your friends! 🍗🌿 #Grilling #TraegerRecipes #SummerEats"
+        },
+        {
+            "title": "Master the Art of Smoking: Simple Traeger Grill Recipes to Try",
+            "description": "Smoking meat on a Traeger is easier than you think! These recipes deliver smoky goodness that’s perfect for any gathering. Save this recipe and get grilling! 🍖🔥 #SmokedMeat #TraegerCooking #EasyMeals"
+        },
+        {
+            "title": "Your Go-To Guide for Delicious and Easy Traeger Grill Meals",
+            "description": "Want simple but tasty grill recipes? These Traeger ideas bring out bold smoky flavors without complicated steps. Try them and enjoy effortless grilling! 🔥🍴 #TraegerGrill #BBQRecipes #QuickDinners"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 pounds chicken thighs, boneless and skinless",
+        "1/4 cup olive oil",
+        "2 tablespoons Traeger BBQ rub or favorite seasoning",
+        "1 tablespoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "Salt and pepper to taste",
+        "Fresh herbs for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I’ve always loved the idea of grilling but found it intimidating until I tried my Traeger grill. The wood pellet system adds this incredible smoky flavor that just elevates even the simplest recipes. My first time using it, I overcooked the chicken, but once I figured out the right temperature and timing, it became my go-to for weekend meals. What makes this version special is the mix of spices combined with the slow smoking that keeps the chicken juicy and flavorful. Plus, the prep is super easy — just toss everything in a bowl, let it marinate briefly, then grill. The finished dish has this beautiful char and smoky aroma that fills your backyard and makes everyone ask for seconds. If you’re new to Traeger grilling, this recipe is a great place to start. You’ll get tender, smoky chicken that pairs perfectly with grilled veggies or a fresh salad. It’s casual, delicious, and perfect for sharing with friends or family on a sunny afternoon.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your chicken thighs. Pat them dry with paper towels to remove excess moisture, which helps the seasoning stick better and ensures a nice sear on the grill. In a large bowl, combine olive oil, Traeger BBQ rub, smoked paprika, garlic powder, onion powder, salt, and pepper. Toss the chicken thoroughly in this mixture so every piece is well coated. This step is crucial because the oil helps the spices adhere and creates a flavorful crust during grilling. Avoid skipping the drying part; wet chicken won’t brown properly and can steam instead.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken pieces evenly coated with a shiny spice mixture and no excess liquid pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your Traeger grill to 375°F (190°C). This temperature is ideal for cooking chicken thoroughly while allowing the smoky flavor to develop without drying out the meat. Once the grill is hot, place the chicken thighs directly on the grates, spacing them evenly. Close the lid and let them cook for about 25-30 minutes, flipping halfway through. Rushing this step by opening the lid too often will drop the temperature and slow cooking. The goal is steady heat and smoke infusion.",
+            "timing": "30 minutes",
+            "doneness_cue": "Chicken is nicely charred on both sides, internal temperature reaches 165°F, and juices run clear"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken is grilling, prepare any side dishes or a quick salad. Keeping an eye on the chicken is important, but avoid flipping more than once to maintain a good crust. The smoky aroma should become noticeable as the wood pellets do their magic. If you notice flare-ups, move the chicken to a cooler part of the grill briefly to prevent burning. This patience pays off with juicy, tender meat.",
+            "timing": "10 minutes",
+            "doneness_cue": "A steady smoky aroma and no burned spots on the chicken"
+        },
+        {
+            "step": 4,
+            "instruction": "Once cooked, remove the chicken from the grill and let it rest for 5 minutes. Resting allows the juices to redistribute inside the meat, making each bite moist and flavorful. If you slice immediately, the juices will run out and the chicken can dry. Cover loosely with foil during this time to keep warm.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but springs back slightly when pressed"
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the grilled chicken garnished with fresh herbs if you like. This adds a pop of color and a fresh flavor contrast to the smoky meat. Pair with grilled vegetables, corn on the cob, or a crisp salad for a complete meal. The smoky, spicy crust combined with tender, juicy meat makes this dish a crowd-pleaser.",
+            "timing": "5 minutes",
+            "doneness_cue": "Visually appealing plate with vibrant garnish and well-charred chicken"
+        },
+        {
+            "step": 6,
+            "instruction": "For leftovers, cool the chicken completely before storing in an airtight container in the fridge. Reheat gently to avoid drying out. You can slice leftover chicken for sandwiches or salads, making it a versatile ingredient for quick meals later in the week.",
+            "timing": "5 minutes",
+            "doneness_cue": "Leftover chicken retains moisture and flavor when reheated properly"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a smoky glaze, brush the chicken with your favorite BBQ sauce during the last 5 minutes of grilling. This adds a sticky, caramelized finish. Be careful not to apply too early as the sugars can burn quickly and create bitterness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Glaze is shiny and caramelized but not burnt"
+        },
+        {
+            "step": 8,
+            "instruction": "Experiment with different wood pellets like hickory or apple for subtle flavor changes. Each wood type imparts a unique smoky note that can enhance the dish. Just swap pellets before preheating your Traeger and enjoy the flavor variations.",
+            "timing": "N/A",
+            "doneness_cue": "Distinct aroma of chosen wood type during grilling"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your grill grates after cooking to prevent buildup and keep flavors pure for next time. Use a grill brush while the grates are still warm, but not hot enough to burn. This simple habit extends your grill's life and improves every meal.",
+            "timing": "5 minutes",
+            "doneness_cue": "Grates appear clean and free of stuck-on residue"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfectly Smoked Traeger Chicken",
+        "content": "<p>Using a Traeger grill combines the controlled heat of a pellet smoker with the convenience of a grill, creating an ideal environment for cooking chicken evenly while infusing it with smoky flavor. The wood pellets burn slowly and consistently, producing smoke that penetrates the meat without drying it out. This slow infusion is key to achieving the signature Traeger taste.</p><p>Coating the chicken with oil before seasoning helps the spices adhere and promotes browning through the Maillard reaction. This chemical reaction between amino acids and reducing sugars at moderate heat creates the flavorful brown crust that we crave on grilled meats. The moderate 375°F temperature balances cooking speed with moisture retention, ensuring the chicken is cooked safely without becoming tough.</p><p>Letting the chicken rest after grilling allows the redistributed juices to settle back into the muscle fibers, making each bite juicy rather than dry. Skipping this step often leads to disappointing results where the meat loses its moisture immediately after slicing.</p><p>Finally, the choice of seasoning and optional glazes complements the smoky flavor without overpowering it, enhancing the overall taste experience. The Traeger’s consistent temperature control and smoke delivery make it easier to avoid common grilling mistakes like flare-ups or uneven cooking.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose boneless, skinless thighs for even cooking and juicy texture. Thighs are more forgiving than breasts because of their higher fat content, which keeps them moist during grilling. Avoid pre-marinated chicken to control seasoning and smoky flavor fully.",
+            "olive oil": "Use a good quality extra virgin olive oil to help spices stick and create a flavorful crust. The oil also protects the chicken surface from drying out and helps conduct heat evenly during grilling.",
+            "Traeger BBQ rub": "A balanced blend of spices designed to complement smoky flavors. Look for rubs with paprika, garlic, and brown sugar for sweetness and depth. Avoid overly salty rubs to prevent drying out the meat.",
+            "smoked paprika": "Adds a subtle smoky flavor that enhances the wood smoke from the grill. It also contributes to the rich color of the crust. Use fresh paprika for best aroma.",
+            "garlic powder": "Provides a deep, savory note that melds well with smoky flavors. It’s less intense than fresh garlic and doesn’t burn easily on the grill.",
+            "onion powder": "Adds sweetness and depth to the seasoning mix, rounding out the flavor profile without overpowering the chicken.",
+            "salt and pepper": "Essential for bringing out natural flavors and balancing the spice blend. Freshly ground black pepper adds a mild heat that complements the other seasonings.",
+            "fresh herbs": "Optional garnish like parsley or cilantro adds freshness and a pop of color, balancing the smoky richness of the grilled chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry the chicken well before seasoning.",
+            "reason": "Removing surface moisture ensures the spices stick properly and promotes browning through the Maillard reaction. Wet chicken can steam instead of sear, resulting in less flavorful and soggy meat."
+        },
+        {
+            "tip": "Preheat the Traeger grill fully before cooking.",
+            "reason": "A steady, hot grill surface is key to even cooking and smoke infusion. If the grill isn’t hot enough, the chicken cooks unevenly and may absorb too much smoke, resulting in bitter flavors."
+        },
+        {
+            "tip": "Flip the chicken only once during grilling.",
+            "reason": "Frequent flipping interrupts the cooking process and prevents a good crust from forming. One flip ensures even heat exposure and allows the spices to caramelize properly."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken is safely cooked at 165°F internal temperature. Using a thermometer prevents undercooking or overcooking, so your meat stays juicy and safe to eat."
+        },
+        {
+            "tip": "Let the chicken rest after grilling.",
+            "reason": "Resting allows juices to redistribute back into the meat fibers, preventing dry slices. Skipping this step causes juices to spill out immediately, leaving the chicken less moist."
+        },
+        {
+            "tip": "Experiment with different wood pellets for flavor variety.",
+            "reason": "Each wood type imparts unique smoky notes—from sweet apple to robust hickory—allowing you to customize the flavor profile to your liking."
+        },
+        {
+            "tip": "Clean your grill grates after each use.",
+            "reason": "Removing residue prevents flare-ups and off-flavors in future cooks. It also helps maintain consistent heat and extends your grill’s lifespan."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying chicken before seasoning",
+            "why_it_happens": "Many cooks skip this step thinking it saves time, but wet chicken means spices won’t stick well and the meat won’t brown properly.",
+            "fix": "Pat chicken dry with paper towels before seasoning. This simple step ensures better spice adhesion and a flavorful crust after grilling."
+        },
+        {
+            "mistake": "Opening the grill lid too often",
+            "why_it_happens": "It’s tempting to check progress frequently, but opening the lid causes heat loss and prolongs cooking time.",
+            "fix": "Trust the grill and set a timer to flip once halfway through. Keeping the lid closed maintains temperature and smoke levels for even cooking."
+        },
+        {
+            "mistake": "Cooking at too high temperature",
+            "why_it_happens": "Some believe hotter is always better for grilling, but too high heat burns the exterior before the inside cooks through.",
+            "fix": "Set the Traeger to 375°F for balanced cooking. This temp allows smoky flavor development without drying or burning the chicken."
+        },
+        {
+            "mistake": "Skipping the resting step",
+            "why_it_happens": "Eager to eat, cooks often slice right off the grill, but this leads to dry meat as juices escape immediately.",
+            "fix": "Let chicken rest 5 minutes covered loosely with foil to retain moisture and improve tenderness."
+        },
+        {
+            "mistake": "Using too much sugar in rub or glaze",
+            "why_it_happens": "Sugar burns quickly at grilling temps, turning bitter and ruining flavor.",
+            "fix": "Apply sugary sauces only in the last 5 minutes of cooking to avoid burning and achieve a nice caramelized finish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Traeger Chicken",
+            "description": "Add 1 teaspoon chipotle powder and a splash of lime juice to the seasoning mix for a smoky, spicy kick. This variation brings a bold southwestern flavor that pairs well with grilled corn and avocado salsa.",
+            "technical_note": "Chipotle powder can burn if cooked too long; add it to the rub but avoid applying sugary glaze to prevent bitterness."
+        },
+        {
+            "name": "Herb-Marinated Traeger Chicken",
+            "description": "Marinate the chicken overnight in olive oil, garlic, rosemary, and thyme for a fragrant, herbaceous twist. This method deepens flavor and tenderizes the meat further, perfect for spring or summer meals.",
+            "technical_note": "Since herbs add moisture, pat chicken dry before seasoning to ensure good crust formation on the grill."
+        },
+        {
+            "name": "BBQ Glazed Traeger Chicken",
+            "description": "Brush your favorite barbecue sauce on the chicken during the last 5 minutes of grilling for a sticky, flavorful glaze. This adds sweetness and tang, making it a hit at family cookouts.",
+            "technical_note": "Apply glaze late to avoid burning sugar and maintain the smoky flavor balance."
+        },
+        {
+            "name": "Lemon Pepper Traeger Chicken",
+            "description": "Swap smoked paprika for lemon zest and fresh cracked black pepper for a bright, zesty flavor profile. This variation is lighter and pairs nicely with grilled vegetables or a fresh green salad.",
+            "technical_note": "Use fresh lemon zest and add it just before grilling to keep the flavor vibrant."
+        },
+        {
+            "name": "Sweet and Smoky Traeger Chicken",
+            "description": "Add a tablespoon of brown sugar to the rub for a sweet crust that contrasts with the smoky notes. This version caramelizes beautifully and is great with coleslaw or baked beans.",
+            "technical_note": "Brown sugar can burn if cooked too long; apply in the rub and avoid adding extra sugary glaze."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "26g",
+        "fiber_grams": "1g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Chicken can safely sit at room temperature for up to 2 hours if covered loosely to avoid contamination. Beyond that, refrigeration is recommended to prevent bacterial growth.",
+        "refrigerator": "Store leftover chicken in an airtight container for up to 4 days. Flavors may mellow when cold, so reheat gently before serving to restore juiciness and aroma.",
+        "freezer": "Freeze cooked chicken in airtight containers or heavy-duty freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat or in the microwave with a splash of water or broth to maintain moisture. Avoid high heat or prolonged reheating to prevent drying out the meat.",
+        "make_ahead_strategy": "Marinate the chicken up to 24 hours ahead and keep refrigerated. You can prep the spice mix and oil in advance, then toss the chicken right before grilling for fresh flavor and minimal day-of work."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Absolutely! Chicken breasts work too but tend to dry out faster. Cook breasts at a slightly lower temperature or for less time and monitor closely. Consider brining breasts first to keep them juicy."
+        },
+        {
+            "question": "What if I don’t have a Traeger grill?",
+            "answer": "You can still use this recipe on a regular charcoal or gas grill. Add wood chips in a smoker box or foil pouch to mimic the smoky flavor. Adjust cooking times based on your grill's heat control."
+        },
+        {
+            "question": "How long should I marinate the chicken?",
+            "answer": "A quick 10-15 minute toss in the seasoning works well, but for deeper flavor, marinate up to 24 hours in the fridge. Just be sure to pat dry before grilling to get a good crust."
+        },
+        {
+            "question": "Can I use a different type of oil?",
+            "answer": "Yes, oils with high smoke points like avocado or grapeseed oil are great alternatives. Olive oil adds flavor but be cautious with extra virgin olive oil at high heat as it can burn."
+        },
+        {
+            "question": "Why is it important to rest the chicken after grilling?",
+            "answer": "Resting allows juices to redistribute inside the meat fibers, making the chicken more tender and juicy. Cutting immediately causes juices to spill out, resulting in dry meat."
+        },
+        {
+            "question": "How do I avoid flare-ups on the grill?",
+            "answer": "Trim excess fat from chicken and keep the grill clean. If flare-ups happen, move the meat to a cooler part of the grill briefly. Controlling flare-ups prevents burnt spots and bitter flavors."
+        },
+        {
+            "question": "Can I add sauce during grilling?",
+            "answer": "Yes, but only in the last 5 minutes to avoid burning sugar in sauces. Applying sauce earlier can cause bitter burnt spots and overpower the smoky flavor."
+        },
+        {
+            "question": "What wood pellets work best for chicken?",
+            "answer": "Fruit woods like apple or cherry add a mild, sweet smoke that complements chicken nicely. Hickory or mesquite are stronger and great if you like bold smoky flavors."
+        },
+        {
+            "question": "How do I know when the chicken is done?",
+            "answer": "Use a meat thermometer to check for an internal temperature of 165°F. The chicken should be firm but still springy, and juices should run clear when pierced."
+        },
+        {
+            "question": "Is it okay to freeze cooked grilled chicken?",
+            "answer": "Yes! Freeze in airtight containers or bags for up to 3 months. Thaw in the fridge overnight and reheat gently to maintain moisture and flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this smoky, juicy Traeger chicken as much as I do! Give it a try and let me know how it turns out—you might just find your new favorite grill recipe.",
+    "seo": {
+        "primary_keyword": "Traeger grilled chicken recipe",
+        "secondary_keywords": [
+            "smoked chicken on Traeger",
+            "easy Traeger recipes",
+            "how to make Traeger grilled chicken",
+            "best Traeger chicken recipe",
+            "simple Traeger chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Clean Your Traeger Grill",
+                "anchor": "how-to-clean-traeger-grill"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_1.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_1.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_2.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_2.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_3.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_3.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_9.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_5.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_8.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_7.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_6.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_4.webp",
+            "relativePath": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images/traeger-grill-recipes-easy-flavorful-meals-for-your-backyard_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781478348_205",
+    "slug": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard",
+    "isOnline": true,
+    "createdAt": "2026-06-15T00:22:31+01:00",
+    "updatedAt": "2026-06-15T00:22:31+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "traeger-grill-recipes-easy-flavorful-meals-for-your-backyard/images"
+}
