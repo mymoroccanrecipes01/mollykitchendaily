@@ -1,0 +1,340 @@
+{
+    "title": "Classic Cheese Pizza with Crispy Crust and Gooey Melted Cheese",
+    "promptIMG": "Food photography: Classic Cheese Pizza, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This cheese pizza is the ultimate comfort food. The crispy crust pairs perfectly with gooey melted cheese and a rich tomato sauce. I love making it any cozy night in!",
+    "hashtags": "#cheesepizza #comfortfood #homemadepizza",
+    "board_name": "Easy Pizza Recipes",
+    "pin_variations": [
+        {
+            "title": "How to Make the Best Crispy Cheese Pizza at Home",
+            "description": "Discover the secret to a perfectly crispy crust and melty cheese with this easy homemade cheese pizza recipe 🍕✨ Save this recipe to impress your family tonight! #pizza #homemade #comfortfood"
+        },
+        {
+            "title": "Ultimate Cheese Pizza Recipe for Cozy Nights In",
+            "description": "Looking for a cozy dinner idea? This cheese pizza has a rich tomato sauce and a golden crust that’s just irresistible! Try it today and enjoy a slice of comfort 🍅🧀 #cheesepizza #easyrecipes #pizza"
+        },
+        {
+            "title": "Simple Cheese Pizza with Crispy Crust Everyone Will Love",
+            "description": "Make pizza night special with this simple cheese pizza recipe. Crispy, cheesy, and oh-so-delicious! Perfect for busy weeknights or weekend treats. Save and try it now! 🍕🔥 #pizza #comfortfood #easymeals"
+        },
+        {
+            "title": "Step-by-Step Cheese Pizza Recipe for Perfect Homemade Pie",
+            "description": "Want to nail homemade pizza? This cheese pizza recipe walks you through crispy crust and gooey cheese perfection. Discover the tips and tricks now! 🍕👌 #homemadepizza #cheesepizza #weeknightdinner"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 1/4 teaspoons active dry yeast (1 packet), room temperature",
+        "1 1/2 cups warm water (around 110°F/43°C)",
+        "3 1/2 cups all-purpose flour, plus extra for dusting",
+        "2 tablespoons olive oil, plus extra for greasing",
+        "1 teaspoon salt",
+        "1 teaspoon sugar",
+        "1 cup tomato sauce (preferably homemade or good quality canned)",
+        "2 cups shredded mozzarella cheese",
+        "1/2 teaspoon dried oregano",
+        "Fresh basil leaves (optional, for garnish)"
+    ],
+    "yield": "One 12-inch pizza, serves 4",
+    "introduction": "I still remember the first time I made this cheese pizza from scratch — it was a bit of a kitchen experiment that surprised me! Most homemade pizzas I tried before had either a soggy crust or bland sauce, but this recipe nails the perfect balance of crispy crust and rich, melty cheese. What makes it stand out is the simple dough recipe that’s easy to handle even for beginners. I learned that letting the dough rise slowly makes all the difference in texture. Also, I like to use a hot oven and a pizza stone if I have one, which really crisps up the bottom without drying out the toppings. The sauce is straightforward but flavorful, letting the cheese shine. When it comes out of the oven, you get that golden bubbly cheese that pulls apart with every slice — honestly, it feels like a little slice of heaven. This pizza is perfect for casual dinners, movie nights, or whenever you crave something cozy and satisfying. I’m excited to share this with you because it’s become a staple in my kitchen and always a crowd-pleaser.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by proofing the yeast: combine the active dry yeast with warm water (about 110°F or 43°C) and a teaspoon of sugar in a small bowl. Stir gently and let it sit for 5-10 minutes until foamy. This step is crucial because it activates the yeast, ensuring your dough will rise properly. If the mixture doesn’t foam, your yeast might be dead, so it’s best to start over with fresh yeast.",
+            "timing": "10 minutes",
+            "doneness_cue": "Yeast mixture is bubbly and foamy on top"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the flour and salt. Make a well in the center and pour in the yeast mixture along with 2 tablespoons of olive oil. Stir with a wooden spoon or your hands until a shaggy dough forms. Then, turn it out onto a floured surface and knead for about 8-10 minutes until smooth and elastic. Kneading develops gluten, which gives the crust its chewy texture, so don’t rush this step.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dough is smooth, elastic, and springs back when poked"
+        },
+        {
+            "step": 3,
+            "instruction": "Lightly oil a large bowl and place the dough inside, turning it once to coat with oil. Cover with a clean kitchen towel or plastic wrap and let it rise in a warm spot for 1 to 1.5 hours until doubled in size. This slow fermentation deepens the flavor and improves texture. Avoid rushing this step by using too much heat, which can kill the yeast or produce off flavors.",
+            "timing": "1 to 1.5 hours",
+            "doneness_cue": "Dough has doubled in size and feels airy"
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 500°F (260°C) and place a pizza stone or baking sheet inside to heat up. This high temperature is key to getting a crispy crust quickly without drying out the toppings. If you don’t have a pizza stone, a heavy baking sheet turned upside down works well too.",
+            "timing": "30 minutes",
+            "doneness_cue": "Oven and stone are fully preheated and very hot"
+        },
+        {
+            "step": 5,
+            "instruction": "Once risen, punch down the dough gently to release air bubbles. Turn it onto a floured surface and shape it into a 12-inch circle by stretching with your hands or rolling gently with a rolling pin. If the dough resists and snaps back, let it rest for 5 minutes to relax the gluten. Don’t overwork it or the crust will become tough.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Dough is stretched evenly with no thin spots"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the dough to a piece of parchment paper to make it easier to slide onto the hot stone. Spread the tomato sauce evenly over the surface, leaving about a half-inch border for the crust. Using too much sauce can make the crust soggy, so keep it thin but flavorful.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Sauce is evenly coated without pooling or dripping"
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle the shredded mozzarella generously over the sauce. Add a pinch of dried oregano for a subtle herb flavor. The cheese should cover the sauce well but not be piled too thickly, or it won’t melt evenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese is evenly distributed and starts to soften"
+        },
+        {
+            "step": 8,
+            "instruction": "Carefully slide the parchment paper with the pizza onto the hot pizza stone or baking sheet in the oven. Bake for about 10-12 minutes until the crust is golden and crispy and the cheese is bubbly and slightly browned. Keep an eye on it near the end to avoid burning.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Crust is golden brown and cheese bubbles with light browning"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the pizza from the oven and let it rest for a couple of minutes. Garnish with fresh basil leaves if you like. Resting allows the cheese to set slightly, making it easier to slice without the toppings sliding off.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Pizza is warm but toppings are set, basil looks fresh"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cheese Pizza Recipe Works So Well",
+        "content": "<p>The magic behind this cheese pizza lies in the dough preparation and baking technique. Activating the yeast properly ensures a good rise, which creates the airy, chewy texture that makes homemade pizza so satisfying. The slow rise time allows the yeast to ferment the dough gradually, developing deeper flavors and a better crumb structure.</p><p>Using a high oven temperature combined with a preheated pizza stone mimics the intense heat of professional pizza ovens. This rapid baking crisps the crust quickly, locking in moisture and preventing sogginess from the sauce. It also helps melt the cheese perfectly, creating that luscious, bubbly topping we all crave.</p><p>The balance of sauce and cheese is key. Too much sauce can weigh the crust down and make it soggy, while too little cheese results in a dry bite. The oregano adds a subtle aromatic lift without overpowering the tomato and cheese flavors. Finally, letting the pizza rest briefly after baking allows the cheese to set, making slicing cleaner and the eating experience better.</p><p>Altogether, these steps combine simple ingredients with precise techniques to deliver a classic cheese pizza that’s crispy, flavorful, and utterly comforting.</p>",
+        "ingredient_notes": {
+            "active dry yeast": "Choose a fresh packet of active dry yeast for best results. Yeast is a living organism that ferments the dough, producing carbon dioxide gas which makes the dough rise. Store yeast in a cool, dry place and check the expiration date. If your dough isn’t rising, your yeast may be dead. Instant yeast can be used as a substitute but adjust the amount slightly.",
+            "all-purpose flour": "All-purpose flour provides a good balance of protein content for gluten development, which is essential for the chewy texture of pizza crust. Higher protein flours like bread flour can be used for a chewier crust, while lower protein flours yield softer results. Always measure flour by weight or spoon it into the cup to avoid packing, which can make dough dense.",
+            "olive oil": "Olive oil adds flavor and tenderness to the dough. It also helps with the dough’s extensibility, making it easier to stretch without tearing. Use extra-virgin olive oil for the best taste. You can substitute with a neutral oil, but the flavor will be less pronounced. Adding oil also helps the crust brown nicely during baking.",
+            "tomato sauce": "A simple, high-quality tomato sauce works best—too watery sauces will make the crust soggy. Homemade sauce or good-quality canned tomatoes seasoned lightly with salt and garlic are ideal. Avoid thickening the sauce too much as it needs to spread easily. The acidity in tomatoes balances the richness of the cheese perfectly.",
+            "mozzarella cheese": "Use whole milk mozzarella for a creamy, melty texture. Low-moisture mozzarella is ideal for pizza because it melts well without releasing too much water, which can make the pizza soggy. Fresh mozzarella can be used but should be patted dry and used sparingly to avoid excess moisture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Let the dough rise slowly in the fridge overnight if you have time.",
+            "reason": "Cold fermentation slows down yeast activity, allowing flavors to develop more fully and improving the dough’s texture. This results in a more flavorful crust that’s chewy with a nice open crumb. If you skip this, the dough will still work but be less complex in taste."
+        },
+        {
+            "tip": "Use a pizza stone or an inverted baking sheet preheated in the oven.",
+            "reason": "A hot surface mimics the effect of a pizza oven by cooking the crust quickly from below, creating a crisp base without drying out the toppings. Baking on a cold surface leads to a dense, undercooked crust."
+        },
+        {
+            "tip": "Don’t overload the pizza with sauce or cheese.",
+            "reason": "Too much sauce or cheese can weigh down the crust and prevent it from cooking properly, resulting in sogginess. A balanced amount ensures the crust crisps up and the toppings melt evenly."
+        },
+        {
+            "tip": "Use a high oven temperature, around 500°F (260°C).",
+            "reason": "High heat cooks the pizza quickly, which is essential for a crispy crust and bubbly cheese. Lower temperatures make the pizza dry out or cook unevenly."
+        },
+        {
+            "tip": "Allow the dough to rest if it resists stretching.",
+            "reason": "Resting relaxes the gluten, making the dough easier to shape without tearing. Without rest, the dough snaps back and is frustrating to work with."
+        },
+        {
+            "tip": "Use parchment paper to transfer the pizza to the oven.",
+            "reason": "It makes sliding the pizza onto the hot stone much easier and prevents sticking. Without it, the dough can lose shape or stick to the peel or baking surface."
+        },
+        {
+            "tip": "Let the pizza rest a few minutes after baking before slicing.",
+            "reason": "This helps the cheese set slightly and prevents toppings from sliding off. Cutting immediately can make a mess and reduce enjoyment."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using water that’s too hot to activate yeast",
+            "why_it_happens": "Many cooks assume hotter water speeds up yeast activation, but water above 130°F can kill yeast cells.",
+            "fix": "Always measure water temperature with a thermometer or test by touch—warm but not hot (about 110°F). If yeast doesn’t foam, start over with fresh yeast and correct water temp."
+        },
+        {
+            "mistake": "Skipping the dough rising step or rushing it",
+            "why_it_happens": "Impatience or misunderstanding how yeast works leads to skipping proofing or using shortcuts.",
+            "fix": "Give the dough enough time to double in size at room temperature. If short on time, use warm but not hot environment to speed rise slightly but don’t rush."
+        },
+        {
+            "mistake": "Adding too much sauce or cheese",
+            "why_it_happens": "More toppings seem better but overloads the crust and prevents crisping.",
+            "fix": "Use a thin layer of sauce and moderate cheese. This balances moisture and prevents soggy crust."
+        },
+        {
+            "mistake": "Not preheating the oven or pizza stone fully",
+            "why_it_happens": "Skipping preheat to save time or forgetfulness.",
+            "fix": "Preheat oven and stone for at least 30 minutes to ensure high heat for crisp crust and even cooking."
+        },
+        {
+            "mistake": "Rolling dough too thin or thick",
+            "why_it_happens": "Lack of experience or preference leads to inconsistent thickness.",
+            "fix": "Aim for about 12-inch diameter with even thickness. Too thin tears easily; too thick bakes unevenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Whole Wheat Cheese Pizza",
+            "description": "Swap half the all-purpose flour for whole wheat flour for a nuttier, earthier flavor and added fiber. The crust will be denser but still delicious and wholesome.",
+            "technical_note": "Whole wheat absorbs more water, so add an extra tablespoon or two of water during mixing to keep dough soft."
+        },
+        {
+            "name": "Garlic Herb Cheese Pizza",
+            "description": "Add minced garlic and fresh herbs like rosemary or thyme to the dough or sprinkle on top with the cheese for an aromatic twist that complements the classic flavors.",
+            "technical_note": "Add garlic during the sauce spread or mix finely chopped herbs into the dough for even flavor distribution."
+        },
+        {
+            "name": "Spicy Cheese Pizza",
+            "description": "Mix red pepper flakes into the sauce or sprinkle on top before baking for a subtle heat kick. Works great if you love a little spice with your comfort food.",
+            "technical_note": "Adjust heat level to taste; too much can overpower the cheese and tomato balance."
+        },
+        {
+            "name": "Vegan Cheese Pizza",
+            "description": "Use your favorite plant-based cheese alternative and olive oil in the dough. The crust and sauce remain the same, making this a great option for dairy-free diets.",
+            "technical_note": "Vegan cheeses melt differently; consider adding a light spray of oil to help browning."
+        },
+        {
+            "name": "Stuffed Crust Cheese Pizza",
+            "description": "Before baking, fold string cheese or mozzarella sticks into the edges of the dough for a fun, gooey stuffed crust variation that’s sure to impress kids and adults alike.",
+            "technical_note": "Seal the edges well to prevent cheese from leaking during baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pizza can be safely kept at room temperature for up to 2 hours covered loosely with foil or a clean cloth to prevent drying out. Beyond this, refrigeration is recommended to prevent spoilage.",
+        "refrigerator": "Store leftover pizza in an airtight container or wrapped tightly in plastic wrap for up to 3 days. The crust may lose some crispness but flavors remain good. Reheat in the oven for best texture or microwave for convenience.",
+        "freezer": "Freeze pizza slices wrapped tightly in plastic wrap and foil for up to 2 months. To thaw, leave in the fridge overnight or reheat directly from frozen in a hot oven to restore crispness.",
+        "reheating": "Reheat pizza in a preheated 375°F (190°C) oven on a baking sheet for 7-10 minutes to crisp crust and melt cheese. Avoid microwave reheating if possible, as it can make crust soggy. Add a splash of water on a pan below to keep cheese moist if needed.",
+        "make_ahead_strategy": "Prepare the dough a day ahead and refrigerate it for slow fermentation. Assemble the pizza just before baking. Alternatively, pre-bake the crust slightly and refrigerate before adding toppings and finishing baking."
+    },
+    "faq": [
+        {
+            "question": "Can I use instant yeast instead of active dry yeast?",
+            "answer": "Yes, instant yeast can be used and it often doesn’t require proofing. Use about 25% less than active dry yeast called for. Mix it directly with flour. The dough will rise faster, so keep an eye on it to avoid over-proofing."
+        },
+        {
+            "question": "How do I prevent a soggy pizza crust?",
+            "answer": "Use a hot oven and preheated stone or baking sheet to crisp the bottom quickly. Spread sauce thinly and avoid watery toppings. Also, don’t overload cheese and bake the pizza fully until golden. Letting it rest before slicing helps too."
+        },
+        {
+            "question": "Can I make the dough ahead of time?",
+            "answer": "Absolutely! Refrigerate the dough overnight for better flavor and texture. Just bring it to room temperature before shaping. This slow fermentation enhances taste and makes the dough easier to work with."
+        },
+        {
+            "question": "What’s the best way to store leftover pizza?",
+            "answer": "Wrap leftovers tightly and refrigerate within 2 hours of cooking. Store in the fridge for up to 3 days. Reheat in the oven for best texture or microwave if short on time."
+        },
+        {
+            "question": "Why is my dough sticky and hard to work with?",
+            "answer": "Sticky dough usually means too much water or insufficient flour kneading. Add flour gradually during kneading but don’t overdo it or dough will be tough. Also, ensure you knead long enough to develop gluten."
+        },
+        {
+            "question": "How do I get a bubbly, golden cheese topping?",
+            "answer": "Bake at a high temperature (around 500°F) so cheese melts quickly and browns lightly. Using low-moisture mozzarella helps prevent excess water. Keep an eye on the pizza near the end of baking to avoid burning."
+        },
+        {
+            "question": "Can I use fresh mozzarella instead of shredded?",
+            "answer": "Yes, but fresh mozzarella has higher moisture. Pat it dry well to avoid soggy crust and use slightly less. It gives a creamier texture but the pizza might be less crispy."
+        },
+        {
+            "question": "What’s the best flour for pizza dough?",
+            "answer": "All-purpose flour works well for this recipe, balancing chewiness and tenderness. Bread flour with higher protein gives a chewier crust, while cake or pastry flour will be too soft and crumbly."
+        }
+    ],
+    "conclusion": "I hope you love this classic cheese pizza as much as I do! Give it a try and let me know how it turns out — nothing beats homemade pizza night.",
+    "seo": {
+        "primary_keyword": "classic cheese pizza recipe",
+        "secondary_keywords": [
+            "homemade cheese pizza",
+            "easy pizza dough recipe",
+            "how to make cheese pizza",
+            "best cheese pizza recipe",
+            "easy cheese pizza"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pizza dough technique",
+                "anchor": "homemade-pizza-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-cheese-pizza-everyone-will-love-simple-and-delicious/images/classic-cheese-pizza-everyone-will-love-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781565602_105",
+    "slug": "classic-cheese-pizza-everyone-will-love-simple-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-06-16T00:36:58+01:00",
+    "updatedAt": "2026-06-16T00:36:58+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "classic-cheese-pizza-everyone-will-love-simple-and-delicious/images"
+}

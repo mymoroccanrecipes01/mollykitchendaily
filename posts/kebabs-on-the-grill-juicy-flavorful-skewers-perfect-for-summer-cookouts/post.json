@@ -1,0 +1,341 @@
+{
+    "title": "Juicy Grilled Kebabs with Fresh Veggies and Smoky Char",
+    "promptIMG": "Food photography: Juicy Grilled Kebabs with Fresh Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These grilled kebabs are bursting with juicy meat and crisp veggies, marinated simply to highlight natural flavors. The smoky char from the grill adds a perfect touch. Ideal for weekend barbecues or easy dinners.",
+    "hashtags": "#grilledkebabs #barbecue #easymeals",
+    "board_name": "Easy Grilled Recipes",
+    "pin_variations": [
+        {
+            "title": "Try These Mouthwatering Grilled Kebabs for Your Next BBQ!",
+            "description": "If you love juicy meat and fresh veggies, these grilled kebabs are a must-try! Perfect for weekend cookouts or quick dinners. Save this recipe and impress your guests with smoky, tender bites. 🍢🔥 #grilledkebabs #bbqrecipes #summergrilling"
+        },
+        {
+            "title": "How to Make Juicy, Flavor-Packed Grilled Kebabs at Home",
+            "description": "Discover the secret to tender, flavorful kebabs with a simple marinade and perfect grilling technique. Ready in under an hour, these kebabs are great for casual dinners or outdoor parties. Try it today and taste the difference! 🍅🥩 #easygrill #kebabrecipe #weeknightdinner"
+        },
+        {
+            "title": "Simple Grilled Kebabs with Fresh Veggies and Smoky Goodness",
+            "description": "Looking for a quick, delicious meal? These kebabs combine juicy meat and crisp veggies with a smoky char that’s irresistible. Perfect for a light dinner or weekend feast. Save it now and grill away! 🍽️🌿 #grillrecipes #healthygrilling #foodie"
+        },
+        {
+            "title": "Weekend BBQ Essential: Juicy Grilled Kebabs You’ll Love!",
+            "description": "These kebabs bring together fresh veggies and tender meat, marinated to perfection and grilled for that smoky flavor everyone craves. Great for sharing or meal prep. Discover the recipe and grill like a pro! 🔥🍖 #bbqideas #grilledmeat #summerrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless chicken thighs, cut into 1-inch pieces",
+        "1 red bell pepper, cut into chunks",
+        "1 green bell pepper, cut into chunks",
+        "1 red onion, cut into chunks",
+        "1 zucchini, sliced thick",
+        "3 tbsp olive oil",
+        "2 tbsp lemon juice",
+        "2 garlic cloves, minced",
+        "1 tsp smoked paprika",
+        "1 tsp ground cumin",
+        "Salt and pepper to taste",
+        "Wooden or metal skewers"
+    ],
+    "yield": "Approximately 12 kebabs, 4 servings",
+    "introduction": "I first tried grilled kebabs during a summer barbecue with friends, and I was hooked instantly. The combination of juicy meat and fresh veggies charred on the grill is unbeatable. Over time, I tweaked the marinade to be simple but flavorful, focusing on olive oil, lemon juice, and spices that bring out the natural flavors without overpowering them. One thing I learned the hard way was to soak wooden skewers beforehand to prevent burning, and that really makes a difference. Also, cutting the veggies and meat into similar sizes helps everything cook evenly. When these kebabs come off the grill, they have that beautiful smoky char and tender texture that’s just so satisfying. It’s one of those recipes that’s easy to throw together but always impresses guests or just makes a weeknight dinner feel special. I love serving them with a side of rice or a fresh salad, but honestly, they’re perfect on their own too. This recipe is a keeper for anyone who loves simple, flavorful grilling.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade in a medium bowl. Combine olive oil, lemon juice, minced garlic, smoked paprika, ground cumin, salt, and pepper. Whisk everything together to ensure the spices are evenly distributed. This marinade is key for infusing the meat with flavor and helping it stay juicy during grilling. Avoid skipping the lemon juice as it tenderizes the meat and adds brightness. Mix well so every piece will soak up the marinade evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Marinade is smooth and well combined with no clumps of spices"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chicken pieces to the marinade and toss to coat thoroughly. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours for deeper flavor. Marinating longer allows the citrus and spices to penetrate the meat, making it tender and flavorful. Be careful not to over-marinate beyond 2 hours as the lemon juice can start to 'cook' the chicken and affect texture.",
+            "timing": "30 minutes to 2 hours",
+            "doneness_cue": "Chicken pieces are evenly coated and slightly plump from marinating"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken marinates, prepare your vegetables by cutting the bell peppers, onion, and zucchini into chunks about the same size as the chicken pieces. Uniform size ensures even cooking on the grill. Keep the pieces bite-sized but not too small, so they don’t dry out or fall apart. Set aside in a separate bowl to assemble later.",
+            "timing": "10 minutes",
+            "doneness_cue": "Vegetables are cut evenly and ready for skewering"
+        },
+        {
+            "step": 4,
+            "instruction": "If using wooden skewers, soak them in water for at least 20 minutes to prevent burning on the grill. This simple step saves you from charred skewers and helps keep the kebabs intact. Metal skewers don’t need soaking but handle carefully as they conduct heat. Prepare all your skewers before moving on to assembling the kebabs.",
+            "timing": "20 minutes soaking (can overlap with marinating)",
+            "doneness_cue": "Skewers are soaked and flexible without splintering"
+        },
+        {
+            "step": 5,
+            "instruction": "Preheat your grill to medium-high heat, aiming for about 375-400°F. This temperature is perfect for cooking kebabs evenly without burning the outside too fast. A hot grill will give you that beautiful smoky char while keeping the inside juicy. Make sure the grill grates are clean and lightly oiled to prevent sticking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill is hot and grates shimmer with a light coating of oil"
+        },
+        {
+            "step": 6,
+            "instruction": "Assemble the kebabs by threading chicken and vegetables alternately onto the skewers. Try to balance colors and textures for an appealing look and consistent cooking. Don’t pack the pieces too tightly; leave a little space so heat can circulate and cook everything evenly. This step is important to avoid undercooked or burnt spots.",
+            "timing": "10 minutes",
+            "doneness_cue": "Skewers are evenly loaded with alternating pieces and some spacing"
+        },
+        {
+            "step": 7,
+            "instruction": "Place the kebabs on the preheated grill. Cook for about 12-15 minutes total, turning every 3-4 minutes. This frequent turning helps prevent burning and ensures even cooking on all sides. Watch for grill marks and a slight char, but be careful not to overcook the chicken, which can dry it out. The internal temperature should reach 165°F for safety.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Chicken is opaque with grill marks; veggies are tender-crisp"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the kebabs from the grill and let them rest for 5 minutes before serving. Resting allows the juices inside the meat to redistribute, keeping the chicken moist and flavorful. Don’t skip this step as it makes a noticeable difference in texture and juiciness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Kebabs feel warm but juices have settled for tender bites"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve your grilled kebabs with a side of rice, salad, or your favorite dipping sauce. I love a simple yogurt-based sauce or a squeeze of fresh lemon on top. This adds brightness and complements the smoky flavors perfectly. Enjoy immediately for the best taste and texture.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is plated attractively and ready to eat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Grilled Kebab Recipe Succeeds",
+        "content": "<p>Grilled kebabs are all about balancing flavor, moisture, and texture. The marinade in this recipe uses olive oil and lemon juice, which work together to tenderize the meat and infuse it with bright, zesty notes. Olive oil coats the chicken, helping to lock in moisture during grilling so the meat stays juicy instead of drying out. The lemon juice adds acidity, which breaks down muscle fibers slightly, making the chicken more tender.</p><p>Spices like smoked paprika and cumin bring warmth and smokiness that complement the natural char from the grill. This Maillard reaction—the browning that happens when proteins and sugars react under heat—creates complex flavors and an appealing crust. Turning the kebabs frequently ensures even exposure to heat, preventing burning and undercooked spots.</p><p>The choice of vegetables also matters. Bell peppers, onions, and zucchini all have different moisture levels and textures, so cutting them to a uniform size ensures they cook at the same rate as the chicken. Leaving a bit of space on the skewers allows heat to circulate around each piece, promoting even cooking and preventing steaming, which can make the veggies soggy.</p><p>Finally, resting the kebabs after grilling is a crucial step. This pause lets the juices redistribute within the meat instead of spilling out the moment you bite in, resulting in tender, flavorful bites every time. This recipe’s simplicity and attention to technique make it approachable and reliable for home cooks.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good quality extra virgin olive oil with a fresh, fruity aroma. It not only adds flavor but also helps carry the spices and lemon juice evenly across the chicken, preventing it from drying out on the grill. Avoid cheap oils that can have a rancid taste and negatively affect the marinade.",
+            "lemon juice": "Freshly squeezed lemon juice is preferred for its bright acidity and natural enzymes that tenderize meat. Bottled lemon juice lacks the vibrant flavor and can sometimes taste bitter. The acidity also balances the richness of the olive oil and spices, enhancing the overall flavor profile.",
+            "smoked paprika": "Smoked paprika imparts a deep, smoky flavor without needing a long smoke time. It’s essential for giving these kebabs that authentic grilled taste even if you’re using a gas grill. Choose Spanish smoked paprika for the best aroma and color.",
+            "chicken thighs": "Boneless, skinless chicken thighs are ideal because they stay juicy and tender when grilled, unlike breasts which can dry out quickly. They also have more fat, which adds flavor and helps the meat stay moist during cooking.",
+            "vegetables": "Bell peppers, onions, and zucchini are great choices because they grill well and offer a variety of textures and colors. Make sure to cut them into chunks similar in size to the chicken so everything cooks evenly. Avoid watery vegetables that might release too much moisture and cause steaming instead of grilling."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Soak wooden skewers in water for at least 20 minutes before grilling.",
+            "reason": "This prevents the skewers from catching fire or burning on the grill, which can ruin their integrity and flavor. Wet skewers also help keep the kebabs moist by adding slight steam around the edges while cooking."
+        },
+        {
+            "tip": "Cut vegetables and chicken into uniform sizes.",
+            "reason": "Uniform pieces ensure everything cooks evenly, preventing some parts from being underdone while others burn. This helps maintain a consistent texture and flavor across the kebabs."
+        },
+        {
+            "tip": "Turn the kebabs every 3-4 minutes during grilling.",
+            "reason": "Frequent turning promotes even cooking and prevents burning on one side. It also encourages development of grill marks and smokiness from all angles."
+        },
+        {
+            "tip": "Don’t skip the resting step after grilling.",
+            "reason": "Resting allows the juices to redistribute inside the meat, making it juicier and more flavorful. Cutting in immediately causes juices to spill out, drying the meat."
+        },
+        {
+            "tip": "Use boneless chicken thighs instead of breasts.",
+            "reason": "Thighs have more fat and connective tissue, which keeps them tender and juicy on the grill. Breasts tend to dry out quickly and can become tough."
+        },
+        {
+            "tip": "Lightly oil grill grates before cooking.",
+            "reason": "Oiling prevents sticking, which helps kebabs hold together and makes flipping easier. It also promotes those beautiful grill marks."
+        },
+        {
+            "tip": "Marinate chicken for at least 30 minutes but no longer than 2 hours.",
+            "reason": "This timing maximizes flavor and tenderness without letting the acid in lemon juice over-tenderize the meat, which can make it mushy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using unevenly sized pieces on skewers",
+            "why_it_happens": "People often cut whatever size is convenient without considering cooking times. This leads to uneven cooking where some pieces burn while others remain raw.",
+            "fix": "Always cut chicken and veggies into uniform chunks to ensure they cook evenly. Take a little extra time prepping to avoid this common problem."
+        },
+        {
+            "mistake": "Skipping soaking wooden skewers",
+            "why_it_happens": "It’s easy to forget, especially if you’re in a rush. But dry skewers burn quickly, ruining both flavor and presentation.",
+            "fix": "Plan ahead and soak skewers for 20-30 minutes in water before threading ingredients. This simple step prevents burning and keeps kebabs intact."
+        },
+        {
+            "mistake": "Grilling at too high heat",
+            "why_it_happens": "Some think hotter means faster cooking, but this can char the outside while leaving the inside raw.",
+            "fix": "Preheat grill to medium-high (around 375°F) for balanced cooking. Adjust heat as needed to avoid flare-ups and burning."
+        },
+        {
+            "mistake": "Marinating chicken for too long",
+            "why_it_happens": "Leaving acidic marinades on chicken overnight can break down proteins too much, causing mushy texture.",
+            "fix": "Stick to 30 minutes to 2 hours max. More than that can negatively affect texture without improving flavor."
+        },
+        {
+            "mistake": "Not resting kebabs after grilling",
+            "why_it_happens": "Impatience leads to cutting into kebabs immediately, causing juices to run out.",
+            "fix": "Let kebabs rest for 5 minutes before serving to retain moisture and flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Beef and Mushroom Kebabs",
+            "description": "Swap chicken for tender beef sirloin chunks and add button mushrooms to the skewers. Marinate with soy sauce and garlic for an umami boost. Expect richer flavors and a slightly firmer texture from the beef.",
+            "technical_note": "Beef cooks faster than chicken, so grill for slightly less time and aim for medium doneness."
+        },
+        {
+            "name": "Veggie-Only Grilled Kebabs",
+            "description": "Use a variety of vegetables like cherry tomatoes, zucchini, bell peppers, and red onion. Marinate in olive oil, lemon, and herbs. These kebabs are lighter and perfect for vegetarian guests.",
+            "technical_note": "Vegetables cook differently; watch closely to avoid overcooking and maintain crispness."
+        },
+        {
+            "name": "Spicy Mediterranean Kebabs",
+            "description": "Add chili flakes and oregano to the marinade for a spicy, herbaceous twist. Serve with tzatziki sauce to balance the heat. The flavor profile becomes bolder and more aromatic.",
+            "technical_note": "Adjust chili amount to taste; grilling at medium heat prevents burning spicy spices."
+        },
+        {
+            "name": "Pineapple and Chicken Kebabs",
+            "description": "Add chunks of fresh pineapple to the skewers for a sweet, tangy contrast. The pineapple caramelizes on the grill, adding a tropical flair that pairs beautifully with the savory chicken.",
+            "technical_note": "Pineapple cooks faster; place it between chicken pieces to avoid burning."
+        },
+        {
+            "name": "Lamb and Herb Kebabs",
+            "description": "Use lamb cubes marinated with rosemary, garlic, and lemon for a rich, gamey flavor. These kebabs are hearty and perfect for a special occasion or grilling party.",
+            "technical_note": "Lamb benefits from a slightly longer marinating time (up to 4 hours) for tenderness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Kebabs can safely sit at room temperature for up to 2 hours if covered loosely. Avoid leaving out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftover kebabs in an airtight container for up to 3 days. Flavors mellow over time, and texture may firm up slightly. Reheat gently to avoid drying out.",
+        "freezer": "Freeze kebabs individually wrapped in foil and stored in a freezer bag for up to 2 months. Thaw overnight in the fridge and reheat carefully to preserve juiciness.",
+        "reheating": "Reheat kebabs on a stovetop pan over medium heat or in a 350°F oven for 10-15 minutes. Add a splash of water or broth to keep them moist. Avoid microwaving as it can dry out the meat.",
+        "make_ahead_strategy": "Marinate the chicken and prep vegetables 1 day ahead, storing separately in the fridge. Assemble and grill kebabs just before serving for best freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts tend to dry out faster on the grill. To keep them juicy, marinate longer and watch the cooking time closely, removing kebabs as soon as the meat is cooked through."
+        },
+        {
+            "question": "What if I don’t have a grill?",
+            "answer": "You can cook kebabs under a broiler or on a grill pan on the stove. Broil for a few minutes per side until cooked through and slightly charred. Just watch carefully to avoid burning."
+        },
+        {
+            "question": "How long can I marinate the chicken?",
+            "answer": "Ideally, marinate between 30 minutes and 2 hours. Longer than 2 hours may cause the lemon juice to break down the meat too much, resulting in a mushy texture."
+        },
+        {
+            "question": "Can I use metal skewers instead of wooden ones?",
+            "answer": "Absolutely! Metal skewers don’t require soaking and conduct heat, which can help cook food from the inside. Just be careful when handling them as they get hot."
+        },
+        {
+            "question": "How do I prevent vegetables from falling off skewers?",
+            "answer": "Cut vegetables into uniform, firm chunks and thread them snugly but with a bit of space. Avoid overloading skewers which can cause pieces to slip off during turning."
+        },
+        {
+            "question": "What sides go well with grilled kebabs?",
+            "answer": "Rice pilaf, fresh salads, pita bread, or yogurt-based sauces like tzatziki are classic companions. They balance the smoky flavors and add variety to the meal."
+        },
+        {
+            "question": "Can I make these kebabs spicy?",
+            "answer": "Definitely! Add chili flakes, cayenne, or hot paprika to the marinade. Adjust the amount to your heat preference and consider serving with a cooling sauce."
+        },
+        {
+            "question": "Is it better to grill covered or uncovered?",
+            "answer": "Grilling uncovered allows for better char and smoke flavor. Covering traps moisture but can cause steaming, which softens the charred texture you want."
+        }
+    ],
+    "conclusion": "Give these grilled kebabs a try and enjoy juicy, flavorful bites with your favorite fresh veggies. I’d love to hear how they turn out for you!",
+    "seo": {
+        "primary_keyword": "grilled chicken kebabs recipe",
+        "secondary_keywords": [
+            "easy grilled kebabs",
+            "how to make chicken kebabs",
+            "best chicken kebabs recipe",
+            "healthy grilled kebabs"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade marinade tips",
+                "anchor": "homemade-marinade-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_1.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_1.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_2.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_2.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_3.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_3.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_9.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_6.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_7.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_4.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_5.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_8.webp",
+            "relativePath": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images/kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781565139_156",
+    "slug": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts",
+    "isOnline": true,
+    "createdAt": "2026-06-16T00:36:58+01:00",
+    "updatedAt": "2026-06-16T00:36:58+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "kebabs-on-the-grill-juicy-flavorful-skewers-perfect-for-summer-cookouts/images"
+}

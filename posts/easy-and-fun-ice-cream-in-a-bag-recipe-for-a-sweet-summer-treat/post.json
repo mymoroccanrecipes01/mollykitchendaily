@@ -1,0 +1,338 @@
+{
+    "title": "Fun and Easy Ice Cream in a Bag Recipe for Creamy Homemade Treats",
+    "promptIMG": "Food photography: ice cream in a bag, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This ice cream in a bag recipe is a fun, hands-on way to whip up creamy ice cream without any fancy machine. Just a few simple ingredients and some shaking make it perfect for warm afternoons or family hangouts.",
+    "hashtags": "#icecreaminabag #homemadedessert #familyfun",
+    "board_name": "Easy Homemade Desserts",
+    "pin_variations": [
+        {
+            "title": "Shake Up Your Summer with This Easy Ice Cream in a Bag Recipe!",
+            "description": "Cool down fast with this homemade ice cream in a bag—super simple and so fun to make with kids! 🍦✨ Save this recipe and try it today for a sweet summer treat. #homemadeicecream #summerdesserts #kidfriendlyrecipes"
+        },
+        {
+            "title": "No Ice Cream Maker? No Problem! Try This Bagged Ice Cream Hack",
+            "description": "Discover how to make creamy ice cream in a zip-top bag with just a few ingredients and some elbow grease! Perfect for quick desserts or unexpected guests. 🍨💡 Save it now and enjoy! #easyrecipes #dessertideas #summerfun"
+        },
+        {
+            "title": "Whip Up Creamy Ice Cream in Minutes Using Just a Bag and Shaker!",
+            "description": "Want a cool, creamy treat without the fuss? This ice cream in a bag recipe is your new go-to. Great for family nights or warm days. Try it now and share the fun! 🍧👍 #icecreamrecipe #quickdesserts #familytime"
+        },
+        {
+            "title": "The Ultimate No-Machine Ice Cream Recipe You Can Make Anywhere",
+            "description": "All you need is a bag, some cream, and a little shaking to create delicious homemade ice cream. Perfect for picnics or backyard parties! 🍦🌞 Save this easy recipe and whip it up anytime. #homemaderecipes #summerdesserts #easyicecream"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup heavy cream, cold",
+        "1 cup whole milk, cold",
+        "1/2 cup granulated sugar",
+        "1 teaspoon pure vanilla extract",
+        "4 cups ice cubes",
+        "1/3 cup rock salt or kosher salt",
+        "1 large quart-size resealable plastic bag",
+        "1 large gallon-size resealable plastic bag"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this ice cream in a bag recipe years ago during a summer camping trip when we didn’t have an ice cream maker handy. It’s such a simple, hands-on method that instantly became a favorite with my family. What makes this version special is how creamy the ice cream turns out, despite using no machine—just good old-fashioned shaking! I love that kids can get involved, too; it’s a fun activity that ends with a delicious treat. The trick I learned is using rock salt with the ice to lower the freezing point, which helps the mixture freeze faster and creamier. After a few minutes of shaking, you get this rich, smooth ice cream that’s perfect for a hot afternoon or a casual dessert. It’s not just easy, it’s kind of magical, and always brings smiles around the table. Expect a creamy texture with a fresh vanilla flavor that you can customize however you like—add fruit, chocolate chips, or whatever you want. Honestly, it feels like a little homemade celebration every time we make it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Pour the heavy cream, whole milk, sugar, and vanilla extract into the quart-size resealable plastic bag. Seal the bag tightly, making sure there’s no air inside to prevent leaks. This mixture is your ice cream base. Combining these ingredients beforehand ensures the sugar dissolves properly and the flavors blend well, which is key to smooth, creamy ice cream.",
+            "timing": 5,
+            "doneness_cue": "Mixture looks evenly combined and sugar mostly dissolved"
+        },
+        {
+            "step": 2,
+            "instruction": "Fill the gallon-size resealable plastic bag halfway with ice cubes, then add the rock salt over the ice. The salt lowers the freezing point of the ice, which helps the ice cream mixture freeze faster and more evenly. This step is crucial because without salt, the ice alone won’t get cold enough to turn the cream into ice cream.",
+            "timing": 5,
+            "doneness_cue": "Ice looks frosty and salted well distributed"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the sealed quart-size bag with the ice cream mixture inside the larger bag filled with ice and salt. Seal the large bag tightly to avoid leaks. Keeping the bags sealed prevents salty water from mixing with the ice cream base, which would ruin the flavor and texture.",
+            "timing": 2,
+            "doneness_cue": "Both bags tightly sealed with no air pockets"
+        },
+        {
+            "step": 4,
+            "instruction": "Shake the bags vigorously for about 10 to 15 minutes. You can wear oven mitts or wrap the bags in a kitchen towel to protect your hands from the cold. The shaking action churns the mixture, incorporating air and encouraging ice crystals to form, which is how the mixture turns creamy rather than icy. Don’t rush this step—consistent shaking is what makes the ice cream texture just right.",
+            "timing": 15,
+            "doneness_cue": "Mixture inside the smaller bag thickens and solidifies to ice cream consistency"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully remove the smaller bag from the ice mixture and wipe the salt water off before opening. This prevents any salt from getting into your ice cream. Open the bag and check the texture; if it’s too soft, you can seal it again and place it in the freezer for a few minutes to firm up more.",
+            "timing": 3,
+            "doneness_cue": "Ice cream has a firm yet scoopable texture"
+        },
+        {
+            "step": 6,
+            "instruction": "Scoop the ice cream into bowls or cones and serve immediately. If you want to add mix-ins like chocolate chips or fruit, fold them in gently after shaking. Serving right away gives you the best creamy texture and fresh flavor.",
+            "timing": 2,
+            "doneness_cue": "Ice cream holds shape when scooped"
+        },
+        {
+            "step": 7,
+            "instruction": "If you have leftovers, transfer the ice cream to an airtight container and freeze for up to 2 days. Homemade ice cream can harden more than store-bought, so let it sit at room temperature for a few minutes before scooping again.",
+            "timing": 5,
+            "doneness_cue": "Ice cream stored properly without freezer burn"
+        },
+        {
+            "step": 8,
+            "instruction": "For a fun twist, try adding cocoa powder or instant coffee granules to the base before shaking to create chocolate or mocha flavors. Mix thoroughly to avoid clumps. This customization lets you experiment and find your favorite flavor combo.",
+            "timing": 3,
+            "doneness_cue": "Flavor evenly incorporated into the base mixture"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up by recycling or reusing the plastic bags if possible, and wipe down your workspace. Keeping things tidy makes the whole process more enjoyable and ready for your next batch!",
+            "timing": 5,
+            "doneness_cue": "Kitchen is clean and bags disposed of properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Ice Cream in a Bag Recipe Succeeds",
+        "content": "<p>This ice cream in a bag recipe works because it cleverly uses the science of freezing point depression and mechanical agitation to mimic what an ice cream maker does. When you add rock salt to the ice, it lowers the freezing point of the ice water mixture, allowing the ice cream base to freeze at a lower temperature than normal water ice. This colder environment is essential to quickly form tiny ice crystals in the cream mixture, which results in smooth, creamy ice cream rather than a hard block of ice.</p><p>Shaking the bag vigorously is the key mechanical step that churns the mixture. This constant movement prevents large ice crystals from forming, incorporating air into the mixture, and creating a light, fluffy texture. Without this agitation, the ice cream would freeze into a dense, icy mass. The sealed plastic bags keep the mixture contained and prevent contamination from the salty ice water, which would spoil the flavor and texture.</p><p>The choice of ingredients also plays a big role. Heavy cream and whole milk provide fat and protein that stabilize the ice cream structure, making it creamy and rich. Sugar not only sweetens but also lowers the freezing point of the mixture slightly, helping with the texture. Vanilla adds flavor depth, but this recipe is versatile enough for mix-ins or flavor variations.</p><p>Overall, the simplicity of this recipe masks the clever chemistry behind it. It’s a hands-on way to experience how freezing, salt, and agitation combine to create a delicious frozen treat without any special equipment.</p>",
+        "ingredient_notes": {
+            "Heavy Cream": "Look for fresh, cold heavy cream with at least 36% fat content. The fat is essential for rich, creamy texture and smooth mouthfeel. Avoid ultra-pasteurized cream if possible, as it can affect flavor. Heavy cream is the backbone of your ice cream base, helping to trap air and create that luscious consistency.",
+            "Whole Milk": "Whole milk adds liquid and balances the fat content from the cream. It helps the ice cream stay scoopable and not too dense. Choose fresh, cold whole milk with around 3.5% fat. Skim or low-fat milk won’t provide the same creamy texture and might result in icy ice cream.",
+            "Granulated Sugar": "Sugar sweetens the ice cream and also lowers the freezing point, which keeps the ice cream soft and scoopable. Use regular granulated sugar and ensure it’s well dissolved in the mix. If the sugar isn’t fully dissolved, you might get a grainy texture.",
+            "Rock Salt": "Rock salt or kosher salt is key for creating a colder ice bath by lowering the freezing point of ice. Table salt can be used in a pinch but rock salt is preferred because it dissolves slower and creates a more stable cold environment. Be careful to keep the salt water from touching the ice cream mixture.",
+            "Vanilla Extract": "Pure vanilla extract adds a warm, aromatic flavor that complements the creamy base perfectly. Use good quality vanilla for best results. Avoid imitation vanilla as it can taste artificial and overpower the delicate cream flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh, cold ingredients straight from the fridge.",
+            "reason": "Starting with cold cream and milk helps the mixture chill faster when shaken with ice, speeding up freezing and improving texture. Warm ingredients take longer to freeze and can lead to icy or uneven results."
+        },
+        {
+            "tip": "Seal your bags tightly with no air inside.",
+            "reason": "Air pockets can cause leaks or allow salty water to mix with your ice cream base, ruining the texture and flavor. Press out excess air before sealing to keep everything contained and safe."
+        },
+        {
+            "tip": "Wear gloves or use a towel when shaking.",
+            "reason": "The ice and salt mixture gets very cold and can be uncomfortable or even cause mild frostbite with prolonged contact. Protect your hands so you can shake vigorously without pain for best results."
+        },
+        {
+            "tip": "Shake consistently for the full time without breaks.",
+            "reason": "Continuous agitation prevents large ice crystals from forming and incorporates air, creating smooth, creamy ice cream. Stopping early or shaking unevenly leads to icy, hard textures."
+        },
+        {
+            "tip": "Use rock salt instead of table salt when possible.",
+            "reason": "Rock salt dissolves slower and creates a more stable, colder ice bath. Table salt works but can melt the ice too fast, making the temperature less consistent and slowing freezing."
+        },
+        {
+            "tip": "Add mix-ins after shaking is complete.",
+            "reason": "Adding ingredients like chocolate chips or fruit during shaking can damage the bags and interfere with freezing. Fold them in gently at the end to keep the texture intact."
+        },
+        {
+            "tip": "If ice cream is too soft, freeze it briefly before serving.",
+            "reason": "Homemade ice cream made this way can be softer than store-bought. A short stint in the freezer firms it up without losing creaminess, making scooping easier."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not sealing the bags properly.",
+            "why_it_happens": "It’s easy to rush this step or forget to press out air, leading to leaks or salty water mixing with the ice cream. This often happens when multitasking or not paying close attention.",
+            "fix": "Take your time to press out all air and seal the bags twice if needed. Test for leaks before shaking by gently squeezing the bags. Using high-quality resealable bags also helps prevent breaks."
+        },
+        {
+            "mistake": "Using warm or room temperature ingredients.",
+            "why_it_happens": "Sometimes people don’t realize starting cold is important and use ingredients straight from the cupboard or just a bit chilled, which delays freezing.",
+            "fix": "Always use heavy cream and milk cold from the fridge, ideally chilled for several hours. This ensures faster freezing and better texture."
+        },
+        {
+            "mistake": "Stopping shaking too soon.",
+            "why_it_happens": "Shaking can be tiring or boring, so it’s tempting to stop early. But insufficient agitation means your ice cream won’t develop the right texture.",
+            "fix": "Set a timer for 10-15 minutes and keep shaking steadily. Use gloves or towels to protect your hands and make it easier."
+        },
+        {
+            "mistake": "Salt water mixing with ice cream base.",
+            "why_it_happens": "If bags aren’t sealed properly or have tiny holes, salty water can leak in and ruin the taste and texture.",
+            "fix": "Check bag seals carefully, wipe off salt water before opening, and use double bags if needed for extra protection."
+        },
+        {
+            "mistake": "Using the wrong type of salt.",
+            "why_it_happens": "People sometimes grab table salt instead of rock salt, not knowing it affects freezing efficiency.",
+            "fix": "Use rock salt or kosher salt to create the coldest ice bath. If only table salt is available, use a bit less to avoid melting ice too fast."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Ice Cream Variation",
+            "description": "Add 2 tablespoons of unsweetened cocoa powder to the cream and milk mixture before sealing the bag. Mix well to avoid clumps. This gives you a rich chocolate ice cream that’s just as creamy and fun to make.",
+            "technical_note": "Make sure to sift the cocoa powder or whisk vigorously to prevent lumps in the base."
+        },
+        {
+            "name": "Strawberry Swirl Ice Cream",
+            "description": "Fold in 1/3 cup of fresh strawberry puree or jam after shaking but before serving. This adds a fresh fruity twist and pretty pink swirls without affecting the freezing process.",
+            "technical_note": "Add the puree gently to avoid breaking the ice cream’s texture."
+        },
+        {
+            "name": "Coffee Flavored Ice Cream",
+            "description": "Dissolve 1 tablespoon of instant coffee granules in the cream and milk mixture for a subtle mocha flavor. This variation is perfect for coffee lovers wanting a quick homemade treat.",
+            "technical_note": "Ensure coffee granules are fully dissolved to avoid gritty texture."
+        },
+        {
+            "name": "Vegan Coconut Ice Cream",
+            "description": "Swap heavy cream and milk for 1 cup full-fat canned coconut milk and 1 cup coconut water. Use maple syrup instead of sugar. The result is a creamy, dairy-free ice cream with a tropical twist.",
+            "technical_note": "Coconut milk tends to freeze harder; shake a bit longer and serve slightly softened."
+        },
+        {
+            "name": "Mint Chocolate Chip",
+            "description": "Add 1/2 teaspoon peppermint extract to the base and fold in 1/4 cup mini chocolate chips after shaking. This classic combo is refreshing and super easy to make at home.",
+            "technical_note": "Use peppermint extract sparingly as it’s very strong and can overpower the ice cream."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "32g",
+        "fiber_grams": "0g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Homemade ice cream should not be left at room temperature for more than 15-20 minutes to avoid melting and bacterial growth. Keep it covered with plastic wrap or in a container if serving outdoors.",
+        "refrigerator": "Store leftover ice cream in an airtight container in the freezer, not the fridge, to maintain texture. Refrigeration will melt the ice cream and ruin the texture quickly.",
+        "freezer": "Freeze homemade ice cream in a tightly sealed container for up to 2 weeks. To prevent freezer burn, press plastic wrap directly on the surface before sealing the lid. Thaw slightly at room temperature for 5-10 minutes before scooping.",
+        "reheating": "Ice cream is best served cold and does not require reheating. If too hard, let it sit at room temperature for a few minutes to soften before serving. Avoid microwaving as it melts unevenly.",
+        "make_ahead_strategy": "You can prepare the ice cream base up to a day ahead and keep it refrigerated. Shake and freeze on the day you plan to serve for the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular table salt instead of rock salt?",
+            "answer": "You can, but rock salt is preferred because it dissolves more slowly and creates a colder ice bath. Table salt melts the ice too quickly, which can make freezing less efficient and result in icier texture."
+        },
+        {
+            "question": "What if my ice cream is too soft after shaking?",
+            "answer": "If it’s too soft, place the sealed bag in the freezer for 10-15 minutes to firm up. Homemade ice cream made this way tends to be softer than store-bought, so a quick chill helps achieve scoopable texture."
+        },
+        {
+            "question": "How do I prevent salt water from leaking into the ice cream?",
+            "answer": "Make sure the bags are sealed tightly with no holes. Double bagging can help. Also, wipe off salt water from the outer bag before opening the inner bag to keep salt out of the ice cream."
+        },
+        {
+            "question": "Can I add mix-ins like nuts or chocolate chips during shaking?",
+            "answer": "It’s best to add mix-ins after shaking to avoid damaging the bags and to keep the texture smooth. Fold them gently into the ice cream after it’s formed."
+        },
+        {
+            "question": "How long does homemade ice cream last in the freezer?",
+            "answer": "For best taste and texture, consume within 2 weeks. After that, it may develop freezer burn or ice crystals that affect quality."
+        },
+        {
+            "question": "Is it possible to make this recipe dairy-free?",
+            "answer": "Yes! Substitute heavy cream and milk with full-fat coconut milk or other plant-based milks. Keep in mind texture and freezing times may vary slightly."
+        },
+        {
+            "question": "Why do I need to shake for so long?",
+            "answer": "Shaking incorporates air and breaks up ice crystals, which is essential for creamy texture. Stopping early results in icy, dense ice cream."
+        },
+        {
+            "question": "Can I use this method to make other frozen desserts?",
+            "answer": "Absolutely! You can experiment with sorbets, frozen yogurts, or custards by adjusting ingredients but keeping the shaking and ice salt method the same."
+        }
+    ],
+    "conclusion": "Give this ice cream in a bag recipe a try and enjoy a fun, delicious homemade treat. I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "ice cream in a bag recipe",
+        "secondary_keywords": [
+            "homemade ice cream without machine",
+            "easy ice cream recipe",
+            "how to make ice cream in a bag",
+            "best no machine ice cream",
+            "quick ice cream recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade vanilla ice cream",
+                "anchor": "homemade-vanilla-ice-cream"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images/easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781565370_467",
+    "slug": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat",
+    "isOnline": true,
+    "createdAt": "2026-06-16T00:36:58+01:00",
+    "updatedAt": "2026-06-16T00:36:58+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-and-fun-ice-cream-in-a-bag-recipe-for-a-sweet-summer-treat/images"
+}
