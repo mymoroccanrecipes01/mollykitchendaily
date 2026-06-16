@@ -1,0 +1,335 @@
+{
+    "title": "Creamy Brazilian Lemonade with a Refreshing Twist",
+    "promptIMG": "Food photography: Brazilian Lemonade, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy Brazilian Lemonade is unlike any lemonade you've tried — blending whole limes with sweetened condensed milk gives it a tangy yet smooth flavor. It's perfect for cooling down on hot days or impressing guests with something tropical and unique.",
+    "hashtags": "#brazilianlemonade #refreshingdrinks #summerbeverages",
+    "board_name": "Refreshing Summer Drinks",
+    "pin_variations": [
+        {
+            "title": "Discover the Secret to Creamy Brazilian Lemonade That Everyone Loves",
+            "description": "This creamy Brazilian Lemonade is a game changer for summer! Made with whole limes and sweetened condensed milk, it’s tangy and smooth. Save this recipe and try it today to wow your friends! 🍋🥤 #brazilianlemonade #summerdrinks #easyrecipes"
+        },
+        {
+            "title": "How to Make Brazilian Lemonade: A Tangy, Creamy Refreshment",
+            "description": "Want a tropical twist on lemonade? This Brazilian version blends whole limes and condensed milk for a creamy, refreshing treat. Perfect for hot afternoons! Discover now and refresh your summer menu! 🍹✨ #refreshingdrinks #brazilianrecipes #lemonade"
+        },
+        {
+            "title": "Cool Off with This Creamy and Tangy Brazilian Lemonade Recipe",
+            "description": "Beat the heat with this creamy Brazilian Lemonade made from whole limes and sweetened condensed milk. It’s super easy and delicious! Try it today and enjoy a tropical escape at home. 🍋❄️ #summerbeverages #brazilianlemonade #easyrecipes"
+        },
+        {
+            "title": "The Best Brazilian Lemonade Recipe You Need This Summer",
+            "description": "This creamy Brazilian Lemonade combines fresh whole limes with condensed milk for a luscious and tangy drink. Perfect for summer parties or relaxing afternoons. Save this recipe and try it soon! 🥤🌞 #brazilianlemonade #summerdrinks #refreshing"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 whole fresh limes, washed and quartered",
+        "1 cup cold water",
+        "1/2 cup sweetened condensed milk",
+        "1/4 cup granulated sugar (adjust to taste)",
+        "Ice cubes as needed"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon Brazilian Lemonade during a trip to Brazil, and it instantly became one of my favorite summer drinks. What makes this lemonade stand out is the use of whole limes, peel and all, blended to create a creamy, slightly bitter, and tangy flavor that’s balanced perfectly with sweetened condensed milk. It’s unlike any lemonade I’d had before—so much richer and more refreshing at the same time. In my kitchen, I’ve tweaked the sugar level and blending time to get just the right balance between tartness and sweetness without the bitterness turning harsh. The trick I learned is to blend quickly and not overdo it, so the peel doesn’t release too much bitterness. The result is a vibrant green, creamy lemonade with a tropical zing that’s perfect for hot afternoons or anytime you want a cool, exotic treat. My family loves it, and I think you will too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by thoroughly washing the limes — since you'll be blending the whole fruit, it’s important to remove any dirt or wax. Cut each lime into quarters, removing the seeds as much as possible to avoid bitterness. Seeds can add an unpleasant flavor if blended, so try to fish them out carefully. This prep ensures your drink will have a clean, fresh taste without any bitter undertones from the seeds.",
+            "timing": "5 minutes",
+            "doneness_cue": "Limes cut into quarters with minimal seeds left"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the quartered limes to your blender along with cold water, sweetened condensed milk, and sugar. Pulse the blender in short bursts — about 4 to 5 quick pulses — to break down the limes but avoid over-blending. Over-blending can cause the peel to release too much bitterness. The goal is to get a creamy, frothy mixture without turning it overly bitter or gritty.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture looks creamy and frothy but not overly dark or bitter"
+        },
+        {
+            "step": 3,
+            "instruction": "After pulsing, pour the mixture through a fine mesh strainer into a pitcher to remove the pulp and any remaining seeds or tough bits of peel. Use a spoon to press gently on the pulp to extract as much liquid as possible. This step is key to achieving a smooth texture and removing any harsh bits that might spoil the drink’s creamy consistency.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, pale green liquid free of pulp and seeds in the pitcher"
+        },
+        {
+            "step": 4,
+            "instruction": "Taste your lemonade and adjust sweetness if needed. If you want it sweeter, add a bit more sugar or condensed milk, then stir well to combine. Remember, the balance between tart and sweet is what makes this drink special, so adjust gradually to avoid overpowering the lime flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced sweet-tart flavor on tasting"
+        },
+        {
+            "step": 5,
+            "instruction": "Fill glasses with plenty of ice cubes and pour the lemonade over the ice. The cold temperature helps mellow the flavors and makes the drink extra refreshing. Serve immediately for the best taste and texture, as the beverage can separate if left standing too long.",
+            "timing": "1 minute",
+            "doneness_cue": "Glasses filled with ice and vibrant, creamy lemonade"
+        },
+        {
+            "step": 6,
+            "instruction": "Optionally, garnish with thin lime slices or a sprig of fresh mint. This adds a lovely visual touch and a hint of fresh aroma that complements the creamy lemonade perfectly. It’s a simple addition that makes your presentation feel extra special.",
+            "timing": "1 minute",
+            "doneness_cue": "Garnished glasses ready to serve"
+        },
+        {
+            "step": 7,
+            "instruction": "If preparing ahead, keep the lemonade refrigerated and stir gently before serving as natural separation may occur. Avoid freezing as the texture can change and the creaminess might be lost. This drink is best enjoyed fresh but can be stored chilled up to a day.",
+            "timing": "N/A",
+            "doneness_cue": "Lemonade remains creamy and fresh after refrigeration"
+        },
+        {
+            "step": 8,
+            "instruction": "For a fun twist, try adding a splash of sparkling water just before serving to give it a fizzy lift. This adds a lively texture and makes the drink feel even more refreshing and festive.",
+            "timing": "1 minute",
+            "doneness_cue": "Bubbly, sparkling lemonade with creamy texture"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender immediately after use to prevent the lime oils and condensed milk from sticking and causing hard-to-remove stains or smells. Rinse with warm soapy water and blend a little clean water to flush out any residue.",
+            "timing": "5 minutes",
+            "doneness_cue": "Blender clean and odor-free"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Brazilian Lemonade Formula Succeeds",
+        "content": "<p>Brazilian Lemonade stands out because it uses whole limes, including the peel, which contributes unique citrus oils and a slight bitterness that contrasts beautifully with the sweetened condensed milk. The key is balancing this bitterness with sweetness and creaminess, creating a layered flavor profile that is both tangy and smooth.</p><p>The short pulsing in the blender ensures the peel breaks down enough to release flavor without over-extracting bitter compounds like limonin. Over-blending can make the drink unpleasantly bitter and gritty, so controlling blending time is essential.</p><p>Straining the mixture removes pulp and seeds, which can add texture but also bitterness and grit. This step ensures a silky smooth consistency that feels indulgent and refreshing. Sweetened condensed milk acts not only as a sweetener but also adds body and creaminess, which balances the acidity of the limes.</p><p>The cold water dilutes the intensity, while the ice further chills and mellows the flavors at serving. Together, these elements produce a refreshing yet creamy beverage that is perfect for hot weather and offers a tropical twist on traditional lemonade.</p>",
+        "ingredient_notes": {
+            "whole fresh limes": "Using whole fresh limes, peel included, is essential for authentic Brazilian Lemonade. Choose firm, bright green limes without blemishes. The peel contains aromatic oils that add complexity but can become bitter if over-processed. Always remove seeds before blending to avoid unwanted bitterness.",
+            "sweetened condensed milk": "This ingredient provides both sweetness and creamy texture. It's thicker than regular milk and adds a luscious mouthfeel that balances the tartness of the lime. Use full-fat condensed milk for best results, and avoid substitutes like evaporated milk, which lack sweetness.",
+            "granulated sugar": "Sugar lets you adjust sweetness to taste. Although condensed milk is sweet, the tartness of whole limes sometimes calls for extra sugar. Use fine granulated sugar so it dissolves easily during blending, preventing graininess.",
+            "cold water": "Cold water dilutes the concentrated lime and milk mixture, lightening the drink to a refreshing level. Using cold water also helps maintain the creamy texture and prevents the fats in the condensed milk from separating.",
+            "ice cubes": "Ice chills the drink instantly and helps mellow the sharp citrus notes when served. Use fresh, odor-free ice to keep the lemonade tasting clean. Avoid crushed ice if you want to maintain the creamy texture without too much dilution."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pulse the blender instead of blending continuously.",
+            "reason": "Pulsing breaks down the lime peel gently, releasing essential oils without over-extracting bitter compounds. Continuous blending can make the drink gritty and overly bitter, ruining the balance."
+        },
+        {
+            "tip": "Remove seeds before blending.",
+            "reason": "Seeds contain bitter substances that can overpower the lemonade’s fresh flavor. Removing them keeps the drink smooth and pleasant, avoiding harsh bitterness."
+        },
+        {
+            "tip": "Use fresh, firm limes for best flavor.",
+            "reason": "Older or soft limes can be dry or have off flavors, which dull the lemonade’s bright citrus notes. Fresh limes ensure maximum juice and aromatic oils."
+        },
+        {
+            "tip": "Adjust sugar to taste after blending.",
+            "reason": "Lime tartness can vary, so it’s better to sweeten after blending to avoid making the drink too sweet or too sour. Gradual adjustment lets you find the perfect balance."
+        },
+        {
+            "tip": "Serve immediately over ice.",
+            "reason": "The creamy texture and flavor are best fresh. Over time, separation occurs, and the drink can become less appealing. Ice also helps mellow the acidity and enhances refreshment."
+        },
+        {
+            "tip": "Strain the mixture for smoothness.",
+            "reason": "Straining removes pulp and peel bits that can be gritty or bitter, resulting in a silky, smooth drink that’s more enjoyable to sip."
+        },
+        {
+            "tip": "Clean your blender right after use.",
+            "reason": "Lime oils and condensed milk residue can stick and cause odors or stains if left too long. Immediate cleaning keeps your equipment fresh and ready."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Over-blending the limes.",
+            "why_it_happens": "It’s easy to think blending longer will make the drink smoother, but this releases too much bitter oil from the peel.",
+            "fix": "Pulse the blender in short bursts and stop as soon as the limes are broken down. Avoid continuous blending to keep bitterness in check."
+        },
+        {
+            "mistake": "Not removing seeds.",
+            "why_it_happens": "Seeds are small and can be overlooked, but they add a strong bitter flavor when blended.",
+            "fix": "Take a moment to pick out seeds before blending. This prevents bitterness and keeps the lemonade tasting fresh."
+        },
+        {
+            "mistake": "Using old or soft limes.",
+            "why_it_happens": "Older limes lose juice and flavor, making the drink less vibrant.",
+            "fix": "Choose firm, bright green limes with no spots to ensure fresh, juicy fruit."
+        },
+        {
+            "mistake": "Skipping straining.",
+            "why_it_happens": "Hurrying to serve might tempt you to skip straining, but this leaves pulp and peel bits that can be unpalatable.",
+            "fix": "Always strain the mixture through a fine mesh to get a silky smooth texture."
+        },
+        {
+            "mistake": "Storing the lemonade too long before serving.",
+            "why_it_happens": "The creamy mixture can separate and lose its fresh flavor if left too long.",
+            "fix": "Make the lemonade just before serving or stir well and serve chilled within a few hours."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Sparkling Brazilian Lemonade",
+            "description": "Add a splash of sparkling water just before serving for a fizzy twist that adds refreshing bubbles and lightens the creamy texture. It’s perfect for summer parties and gives the drink a festive feel.",
+            "technical_note": "Add sparkling water after straining and just before serving to maintain bubbles and creamy texture."
+        },
+        {
+            "name": "Mint-Infused Brazilian Lemonade",
+            "description": "Blend a handful of fresh mint leaves with the limes for a cooling herbal note. Mint pairs beautifully with the citrus and creaminess, creating a more complex flavor profile.",
+            "technical_note": "Add mint leaves in the initial blending step; strain as usual to remove pulp."
+        },
+        {
+            "name": "Coconut Brazilian Lemonade",
+            "description": "Replace half the water with coconut water for a tropical sweetness and subtle nutty flavor. This variation enhances the creamy texture and adds natural electrolytes.",
+            "technical_note": "Use chilled coconut water and blend with limes and condensed milk as usual."
+        },
+        {
+            "name": "Sugar-Free Brazilian Lemonade",
+            "description": "Use a sugar substitute like stevia or erythritol instead of granulated sugar and opt for unsweetened condensed milk alternatives to reduce calories while keeping the creamy texture.",
+            "technical_note": "Adjust sweetness carefully as sugar substitutes vary in potency and aftertaste."
+        },
+        {
+            "name": "Ginger-Spiced Brazilian Lemonade",
+            "description": "Add a small knob of fresh ginger to the blender for a spicy kick that complements the citrus and creaminess. It’s warming and refreshing at the same time.",
+            "technical_note": "Blend ginger with the limes and strain thoroughly to remove fibrous bits."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "6g",
+        "fiber_grams": "2g",
+        "sodium_mg": "10mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brazilian Lemonade should not be kept at room temperature for more than 1 hour as it contains dairy and fresh citrus, which can spoil quickly. Keep it covered and chilled for safety and freshness.",
+        "refrigerator": "Store the lemonade in an airtight container in the refrigerator for up to 24 hours. Stir gently before serving, as separation may occur but the flavor remains fresh. It’s best served cold and not left overnight for optimal taste.",
+        "freezer": "Freezing is not recommended since the creamy texture will be compromised and separation will occur. If you must freeze, use airtight containers and thaw in the fridge, stirring well before serving, but expect some texture changes.",
+        "reheating": "This drink is best served cold and should not be reheated. If it’s too cold, let it sit at room temperature for a few minutes or add a splash of water to loosen the texture.",
+        "make_ahead_strategy": "You can prepare the blended mixture and strain it up to a day in advance, storing it in the fridge. Add ice and any sparkling water just before serving to keep it fresh and bubbly."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular lime juice instead of whole limes?",
+            "answer": "Using whole limes is essential for the authentic creamy texture and slightly bitter complexity from the peel. Lime juice alone won’t provide the same flavor or texture. If you must substitute, add a bit of lime zest and adjust sweetness accordingly."
+        },
+        {
+            "question": "Why does my Brazilian Lemonade taste too bitter?",
+            "answer": "Bitterness often results from over-blending the limes or including seeds. To fix this, pulse the blender gently and remove seeds before blending. Straining well also helps remove bitter bits from the peel."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Traditional sweetened condensed milk is dairy-based, but you can substitute with sweetened condensed coconut milk or other plant-based versions. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How sweet should the lemonade be?",
+            "answer": "Sweetness is a personal preference, but Brazilian Lemonade balances tart lime flavors with creamy condensed milk and added sugar. Start with less sugar, taste, and adjust gradually to avoid over-sweetening."
+        },
+        {
+            "question": "Is it okay to blend the limes longer for smoother texture?",
+            "answer": "Longer blending extracts more bitter oils from the peel and can make the drink gritty. Short pulses are better to keep it smooth and pleasantly tart without harsh bitterness."
+        },
+        {
+            "question": "Can I store the lemonade overnight?",
+            "answer": "Yes, store in the refrigerator in an airtight container for up to 24 hours. Stir gently before serving as some separation is natural. Flavor may mellow but remains tasty."
+        },
+        {
+            "question": "What’s the best way to serve Brazilian Lemonade?",
+            "answer": "Serve it cold over plenty of ice. You can garnish with lime slices or mint. Adding sparkling water just before serving adds a refreshing fizz."
+        },
+        {
+            "question": "Why does my lemonade separate after blending?",
+            "answer": "Separation is natural because the ingredients have different densities. Stir gently before serving to recombine. Serving immediately after blending minimizes this."
+        }
+    ],
+    "conclusion": "Give this creamy Brazilian Lemonade a try — it’s a refreshing, tropical twist you’ll want to make again and again. I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "brazilian lemonade recipe",
+        "secondary_keywords": [
+            "how to make brazilian lemonade",
+            "best brazilian lemonade recipe",
+            "easy brazilian lemonade",
+            "creamy lime drink",
+            "tropical lemonade recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade lemonade variations",
+                "anchor": "homemade-lemonade-variations"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_1.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_1.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_2.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_2.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_3.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_3.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_5.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_9.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_8.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_6.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_7.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_4.webp",
+            "relativePath": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images/refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781651499_150",
+    "slug": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days",
+    "isOnline": true,
+    "createdAt": "2026-06-17T00:38:41+01:00",
+    "updatedAt": "2026-06-17T00:38:41+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "refreshing-brazilian-lemonade-thats-perfect-for-hot-summer-days/images"
+}

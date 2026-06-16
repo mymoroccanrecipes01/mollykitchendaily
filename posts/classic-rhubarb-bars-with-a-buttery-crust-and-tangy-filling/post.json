@@ -1,0 +1,341 @@
+{
+    "title": "Classic Rhubarb Bars with a Buttery Shortbread Crust and a Hint of Cinnamon",
+    "promptIMG": "Food photography: Rhubarb Bars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These rhubarb bars bring back cozy memories with their crisp buttery crust and tangy rhubarb filling. A sprinkle of cinnamon adds warmth, making them perfect for afternoon tea or a comforting dessert any day.",
+    "hashtags": "#rhubarbbars #dessert #homemade",
+    "board_name": "Classic Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Taste the Nostalgia with These Easy Rhubarb Bars!",
+            "description": "If you love cozy desserts, you need to try these rhubarb bars. The buttery crust and tangy filling with cinnamon will remind you of grandma’s kitchen. Save this recipe for your next tea time! 🍰🌿 #rhubarbbars #dessertlover #easybaking"
+        },
+        {
+            "title": "Perfect Rhubarb Bars for a Cozy Afternoon Treat",
+            "description": "Looking for a simple but delicious dessert? These rhubarb bars are buttery, tart, and just the right amount of cinnamon-spiced. Try it today and impress your friends! 🍴💛 #homemadedessert #rhubarb #bakingfun"
+        },
+        {
+            "title": "How to Make Rhubarb Bars with a Perfect Shortbread Crust",
+            "description": "Learn the secret to a flaky, buttery crust and a tangy rhubarb filling with just a touch of cinnamon. These bars are easy to make and perfect for any occasion. Discover now! 🍓✨ #rhubarbrecipe #shortbread #desserttime"
+        },
+        {
+            "title": "Cozy Up with These Tart and Buttery Rhubarb Bars",
+            "description": "These rhubarb bars are the ultimate comfort dessert — crisp shortbread crust, tart rhubarb, and a hint of cinnamon. Save this recipe and try it soon for a sweet treat! 🌸🍂 #comfortdessert #rhubarb #bakinglove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "1/2 cup granulated sugar",
+        "1/4 teaspoon salt",
+        "3/4 cup unsalted butter, cold and cubed",
+        "3 cups fresh rhubarb, chopped into 1/2-inch pieces",
+        "1 cup granulated sugar",
+        "2 tablespoons cornstarch",
+        "1/2 teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 large egg, beaten (for egg wash)",
+        "Optional: powdered sugar for dusting"
+    ],
+    "yield": "Approximately 8 bars, serves 8",
+    "introduction": "I first stumbled upon this rhubarb bar recipe during a rainy spring afternoon when rhubarb was in season and I was craving something both tart and sweet. These bars immediately reminded me of the kind of treats my grandma used to bake — simple, comforting, and made with love. What makes this version stand out is the buttery shortbread crust that’s crisp but tender, paired with a rhubarb filling that’s perfectly balanced by a touch of cinnamon. The cinnamon isn’t overpowering; it just adds a little warmth and depth that transforms the bars from ordinary to something special. One trick I learned after a few attempts is to keep the butter cold and work quickly when making the crust to get that lovely crumbly texture. Also, mixing the rhubarb with cornstarch ensures the filling sets just right without being soggy. When baked, these bars have a beautiful golden crust with a slightly tangy, fragrant filling that’s just right for afternoon tea or a cozy dessert. Honestly, they’ve become my go-to when I want something nostalgic yet fresh. I think you’ll love how easy they are to whip up, and how they make your kitchen smell like springtime.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the shortbread crust. In a large bowl, whisk together the sifted flour, sugar, and salt. Add the cold, cubed butter and use a pastry cutter or your fingers to quickly cut the butter into the dry ingredients until the mixture resembles coarse crumbs with some pea-sized bits. This technique helps create a tender, flaky crust because the butter pieces melt during baking, creating steam pockets. Be careful not to overwork the dough, or the crust will become tough.",
+            "timing": "10 minutes",
+            "doneness_cue": "The dough should hold together when pressed but still feel crumbly and cool to the touch."
+        },
+        {
+            "step": 2,
+            "instruction": "Press about two-thirds of the dough evenly into the bottom of a greased 9x9-inch baking pan, forming the base crust. Make sure to press firmly but not too thickly, aiming for an even layer. The remaining dough will be used for the topping later. An even crust ensures it bakes through properly without sogginess.",
+            "timing": "5 minutes",
+            "doneness_cue": "The crust should look evenly compacted and smooth before baking."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your oven to 350°F (175°C). Bake the crust alone for about 12 minutes or until it’s just starting to turn golden around the edges. This pre-baking step, called blind baking, prevents the crust from becoming soggy once the rhubarb filling is added. It also helps the crust hold its shape and crispiness.",
+            "timing": "12 minutes",
+            "doneness_cue": "Edges should be lightly golden and the surface firm to the touch."
+        },
+        {
+            "step": 4,
+            "instruction": "While the crust is baking, prepare the rhubarb filling. In a medium bowl, toss the chopped rhubarb with sugar, cornstarch, cinnamon, and vanilla extract. The cornstarch thickens the filling as it bakes, preventing watery bars. The cinnamon adds warmth and a subtle spice that complements the tartness of the rhubarb.",
+            "timing": "5 minutes",
+            "doneness_cue": "The rhubarb should be evenly coated and the mixture slightly glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Once the crust is partially baked, remove it from the oven and spread the rhubarb mixture evenly over the top. Distribute the rhubarb filling carefully to avoid breaking the crust. This layering ensures a nice balance of crust to filling in every bite.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling should cover the crust completely without spilling over the edges."
+        },
+        {
+            "step": 6,
+            "instruction": "Crumble the remaining dough over the rhubarb filling to create a streusel-like topping. It’s okay if the topping pieces are uneven; they’ll bake into a lovely, buttery crust. For extra shine, brush the top with beaten egg. This adds a golden color and a slight gloss to the finished bars.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping should cover the filling in small chunks with some gaps."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the pan to the oven and bake for another 25-30 minutes until the topping is golden brown and the filling bubbles gently around the edges. Baking fully at this stage ensures the rhubarb softens and the flavors meld beautifully while the crust crisps up.",
+            "timing": "30 minutes",
+            "doneness_cue": "Look for bubbling filling and a golden, crisp topping."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the bars from the oven and let them cool completely in the pan on a wire rack. Cooling allows the filling to set, so when you cut the bars, they hold their shape and don’t spill out. Patience here makes a big difference in the final texture.",
+            "timing": "1 hour",
+            "doneness_cue": "Bars should be cool to the touch and filling firm but tender."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, slice into squares with a sharp knife. For a pretty finish, dust lightly with powdered sugar before serving. These bars are perfect with a cup of tea or coffee and can be enjoyed at room temperature or slightly chilled.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean cuts with minimal filling sticking to the knife."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Rhubarb Bar Recipe Works So Well",
+        "content": "<p>The success of these rhubarb bars hinges on balancing texture and flavor through careful ingredient choices and technique. The shortbread crust is made with cold butter cut into flour, which creates small pockets of fat that melt during baking, leaving a tender, flaky texture. Keeping the butter cold is crucial because if it melts too early, the crust becomes dense and greasy rather than crumbly and light.</p><p>The rhubarb filling uses cornstarch as a thickener to absorb the natural juices released during baking. Without this, the bars would be soggy and fall apart. The cornstarch also helps the filling hold together, giving you neat bars that slice cleanly. Adding cinnamon is a simple but effective way to add warmth and complexity to the tart rhubarb, balancing the flavors without overpowering.</p><p>Pre-baking the crust (blind baking) is another key step. It creates a sturdy base that resists sogginess from the juicy filling. This step also starts the browning process, enhancing the buttery flavor. Finally, the crumbly topping made from leftover dough adds texture contrast, making each bite interesting with a crisp layer on top.</p><p>Altogether, these techniques produce bars that are perfectly balanced — crisp crust, tart and thick filling, and a lightly spiced crumb topping. This recipe is a great example of how small details and understanding ingredient roles elevate a simple dessert into something memorable.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a good-quality, unbleached all-purpose flour for this recipe. It provides the right protein content to develop just enough gluten to hold the crust together without making it tough. Bleached flours can sometimes affect flavor and texture negatively. Store flour in a cool, dry place and sift it before use to avoid lumps and ensure an even dough.",
+            "unsalted butter": "Using cold unsalted butter is essential here. The butter’s fat creates the flaky texture in the crust, and controlling salt lets you adjust seasoning precisely. Butter should be cubed and chilled to prevent it from melting too soon while mixing. You can substitute with European-style butter for richer flavor, but avoid margarine or spreads as they contain more water and will alter texture.",
+            "rhubarb": "Fresh rhubarb is best when it’s firm and brightly colored with no signs of wilting. Rhubarb provides the tartness and moisture for the filling. If fresh isn’t available, frozen rhubarb can work but may release more water, so adjust cornstarch accordingly. Always chop evenly to ensure uniform cooking and avoid mushy spots.",
+            "cornstarch": "Cornstarch acts as a thickener to bind the rhubarb’s juices during baking, preventing a soggy crust. It’s important to mix it thoroughly with the sugar and rhubarb so it’s evenly distributed. Avoid substituting with flour unless you adjust quantities, as flour thickens differently and can affect texture and flavor.",
+            "ground cinnamon": "A small amount of ground cinnamon adds warmth and complexity that complements the rhubarb’s tartness. Use a fresh, high-quality cinnamon for best flavor. Too much cinnamon can overpower the filling, so stick to the recommended amount. If you prefer, you can experiment with other spices like nutmeg or ginger, but cinnamon is classic here."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter cold until the last moment.",
+            "reason": "Cold butter creates small pockets of steam during baking, which makes the crust flaky and tender. If the butter melts too early, the dough becomes greasy and dense instead of crumbly and light."
+        },
+        {
+            "tip": "Don’t skip the blind baking step for the crust.",
+            "reason": "Pre-baking the crust helps it set and prevents sogginess from the juicy rhubarb filling. It also starts browning, adding a richer buttery flavor."
+        },
+        {
+            "tip": "Use cornstarch to thicken the filling.",
+            "reason": "Cornstarch absorbs excess moisture released by the rhubarb while baking, ensuring a firm filling that slices cleanly without being runny or watery."
+        },
+        {
+            "tip": "Let the bars cool completely before slicing.",
+            "reason": "Cooling allows the filling to set and the crust to firm up, which means cleaner cuts and better texture. Cutting too soon can lead to a messy, falling-apart dessert."
+        },
+        {
+            "tip": "Use a sharp knife dipped in hot water for slicing.",
+            "reason": "Wiping the knife blade clean between cuts prevents filling from sticking and tearing the bars, giving you neat, attractive squares."
+        },
+        {
+            "tip": "Add a light dusting of powdered sugar before serving.",
+            "reason": "Powdered sugar adds a touch of sweetness and a pretty finish that contrasts nicely with the tart rhubarb and buttery crust."
+        },
+        {
+            "tip": "Chill the dough if it feels too soft before pressing into the pan.",
+            "reason": "Chilling firms up the butter, making the dough easier to handle and preventing it from sticking to your hands or pan, which helps maintain the crumbly texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter in the crust",
+            "why_it_happens": "Many home cooks don’t realize the importance of cold butter and use it straight from the fridge or slightly softened, thinking it’s easier to mix.",
+            "fix": "Always cube and keep butter cold until just before mixing. Work quickly to cut it into the flour, stopping as soon as you see pea-sized chunks. This prevents the dough from becoming greasy and ensures a flaky crust."
+        },
+        {
+            "mistake": "Skipping the blind baking step",
+            "why_it_happens": "Some think it’s unnecessary and want to save time, but this leads to a soggy crust because the filling releases moisture during baking.",
+            "fix": "Bake the crust alone for about 12 minutes until lightly golden before adding the filling. This sets the base and prevents sogginess."
+        },
+        {
+            "mistake": "Not using enough thickener in the filling",
+            "why_it_happens": "People often underestimate how much juice rhubarb releases and skip or reduce the cornstarch.",
+            "fix": "Use the full amount of cornstarch and mix it well with the sugar and rhubarb. This ensures the filling thickens properly and holds its shape."
+        },
+        {
+            "mistake": "Cutting bars too soon after baking",
+            "why_it_happens": "Impatience or wanting to serve warm can cause messy bars that fall apart.",
+            "fix": "Allow bars to cool completely, ideally an hour or more, so the filling sets and the crust firms up for clean slices."
+        },
+        {
+            "mistake": "Unevenly chopped rhubarb",
+            "why_it_happens": "In a rush, chopping sizes can vary widely, causing uneven cooking and texture.",
+            "fix": "Take a few extra minutes to chop rhubarb into uniform 1/2-inch pieces. This ensures even cooking and a consistent texture throughout the bars."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Strawberry Rhubarb Bars",
+            "description": "Add 1 cup of chopped fresh strawberries to the rhubarb filling for a sweeter, more colorful twist. Strawberries complement rhubarb’s tartness beautifully and add a juicy texture. You might want to increase the sugar slightly to balance the tartness of both fruits.",
+            "technical_note": "Because strawberries release more juice, increase the cornstarch by 1 tablespoon to prevent a runny filling."
+        },
+        {
+            "name": "Oat Crumble Topping",
+            "description": "Swap the crumbly shortbread topping for an oat-based crumble by mixing rolled oats, brown sugar, butter, and a pinch of cinnamon. This adds a hearty texture and nutty flavor that pairs well with the rhubarb filling.",
+            "technical_note": "Bake the oat topping until golden and crisp, watching closely to avoid burning due to the sugar content."
+        },
+        {
+            "name": "Gluten-Free Rhubarb Bars",
+            "description": "Use a gluten-free all-purpose flour blend in place of regular flour to make these bars gluten-free without sacrificing texture. Choose a blend that includes xanthan gum for structure and use the same quantities as the original recipe.",
+            "technical_note": "Gluten-free dough may be more delicate; chill it well before pressing into the pan to help it hold together."
+        },
+        {
+            "name": "Vegan Rhubarb Bars",
+            "description": "Replace butter with vegan butter or coconut oil and use a flax egg (1 tbsp ground flaxseed + 3 tbsp water) instead of the egg wash. This keeps the bars moist and flavorful while making them vegan-friendly.",
+            "technical_note": "Coconut oil may slightly change the flavor and texture; chill the dough thoroughly to maintain crumbly consistency."
+        },
+        {
+            "name": "Spiced Rhubarb Bars with Ginger",
+            "description": "Add 1/2 teaspoon ground ginger along with the cinnamon for a spicier, warmer flavor profile. This variation gives the bars a subtle zing and is perfect for cooler seasons or when you want a little extra kick.",
+            "technical_note": "Adjust sugar if needed to balance the added spice and prevent bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "17g",
+        "fiber_grams": "3g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These rhubarb bars can be kept at room temperature for up to 2 days if stored in an airtight container. Keep them away from direct sunlight or heat sources to avoid the filling becoming too soft or the crust losing its crispness.",
+        "refrigerator": "Store bars in an airtight container in the fridge for up to 5 days. The filling will firm up more when chilled, and the crust may soften slightly but remains tasty. Serve cold or let sit at room temperature for 15 minutes before eating.",
+        "freezer": "Freeze rhubarb bars wrapped tightly in plastic wrap and then in a freezer-safe container for up to 3 months. To thaw, move bars to the refrigerator overnight. Reheat gently in a warm oven to restore some crispness in the crust.",
+        "reheating": "Reheat bars in a 350°F oven for 8-10 minutes to warm through and crisp the crust. Avoid microwaving as it can make the crust soggy. If needed, cover edges with foil to prevent over-browning.",
+        "make_ahead_strategy": "You can prepare the crust and rhubarb filling separately up to 1 day in advance. Keep the crust dough chilled and rhubarb filling refrigerated. Assemble and bake on the day you want to serve for the freshest texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen rhubarb instead of fresh?",
+            "answer": "Yes, frozen rhubarb works well but tends to release more water. To compensate, slightly increase the cornstarch by a tablespoon or two to ensure the filling thickens properly. Thaw and drain excess liquid before mixing for best results."
+        },
+        {
+            "question": "What can I substitute for cornstarch if I don’t have any?",
+            "answer": "You can use arrowroot powder or potato starch as a 1:1 substitute for cornstarch. Flour can also be used but may make the filling less glossy and slightly denser. Avoid skipping the thickener as the filling will be too runny."
+        },
+        {
+            "question": "Why is my crust tough instead of crumbly?",
+            "answer": "This usually happens if the butter was too warm or the dough was overworked, developing too much gluten. To fix this, keep ingredients cold, handle the dough gently, and avoid overmixing."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Absolutely! Replace butter with vegan butter or coconut oil and use a flax egg for the egg wash or skip the egg wash altogether. This will slightly change the texture but still yields delicious bars."
+        },
+        {
+            "question": "How do I store leftover bars?",
+            "answer": "Store leftovers in an airtight container in the refrigerator for up to 5 days. For longer storage, freeze them wrapped well. Let refrigerated bars come to room temperature or warm slightly before serving for best texture."
+        },
+        {
+            "question": "Can I add other fruits to the filling?",
+            "answer": "Yes! Strawberries, blueberries, or even chopped apples pair well with rhubarb. Adjust sugar and thickener as needed depending on the fruit’s juiciness to maintain the right consistency."
+        },
+        {
+            "question": "What’s the best way to cut these bars cleanly?",
+            "answer": "Use a sharp knife dipped in hot water and wiped dry between cuts. This prevents the filling and crust from sticking and tearing, giving you neat slices."
+        },
+        {
+            "question": "Why does the filling sometimes leak out during baking?",
+            "answer": "If the filling is too watery or the crust isn’t sturdy enough, juices can bubble over. Make sure to use enough thickener and blind bake the crust to set it firmly before adding filling."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these rhubarb bars as much as I do. They’re a cozy, nostalgic treat that’s sure to brighten any afternoon — let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "classic rhubarb bars recipe",
+        "secondary_keywords": [
+            "rhubarb dessert bars",
+            "easy rhubarb bars",
+            "how to make rhubarb bars",
+            "best rhubarb bars recipe",
+            "simple rhubarb shortbread bars"
+        ],
+        "internal_links": [
+            {
+                "text": "easy shortbread crust recipe",
+                "anchor": "easy-shortbread-crust"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_1.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_2.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_3.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images/classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1781651003_741",
+    "slug": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling",
+    "isOnline": true,
+    "createdAt": "2026-06-17T00:38:41+01:00",
+    "updatedAt": "2026-06-17T00:38:41+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "classic-rhubarb-bars-with-a-buttery-crust-and-tangy-filling/images"
+}
