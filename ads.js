@@ -13,43 +13,24 @@
             "injectionDelay": 300,
             "placements": [
                 {
-                    "selector": ".post-description",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "8684648378",
-                    "className": "ad-after-description"
-                },
-                {
                     "selector": ".story-section",
                     "position": "before",
                     "format": "in-article",
                     "pages": "all",
                     "slots": [
                         "4055138220",
-                        "4055138220",
-                        "4055138220",
-                        "8684648378",
-                        "4055138220"
+                        "8684648378"
                     ],
-                    "everyNth": 2,
-                    "maxAds": 5,
+                    "everyNth": 3,
+                    "maxAds": 2,
                     "className": "ad-in-article"
-                },
-                {
-                    "selector": "#instructions",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
-                    "slot": "4055138220",
-                    "className": "ad-after-recipe-box"
                 },
                 {
                     "selector": "footer.footer",
                     "position": "before",
                     "format": "horizontal",
                     "pages": "all",
-                    "slot": "4055138220",
+                    "slot": "8684648378",
                     "className": "ad-before-footer"
                 },
                 {
@@ -57,26 +38,15 @@
                     "position": "after",
                     "format": "auto",
                     "pages": "spa",
-                    "slot": "4055138220",
-                    "className": "ad-top-content"
-                },
-                {
-                    "selector": ".breadcrumb",
-                    "position": "after",
-                    "format": "auto",
-                    "pages": "all",
                     "slot": "8684648378",
-                    "className": "ad-after-breadcrumb"
+                    "className": "ad-top-content"
                 },
                 {
                     "selector": ".header",
                     "position": "after",
                     "format": "auto",
                     "pages": "all",
-                    "slots": [
-                        "4055138220",
-                        "8684648378"
-                    ],
+                    "slot": "4055138220",
                     "className": "Ad-header"
                 }
             ]
