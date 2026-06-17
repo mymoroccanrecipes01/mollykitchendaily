@@ -28,15 +28,15 @@
     "servings": 4,
     "ingredients": [
         "5 cups fresh peaches, peeled and sliced",
-        "1/4 cup granulated sugar",
+        "1\/4 cup granulated sugar",
         "1 tablespoon lemon juice",
         "1 teaspoon vanilla extract",
-        "3/4 cup all-purpose flour",
-        "3/4 cup rolled oats",
-        "1/2 cup packed brown sugar",
-        "1/2 teaspoon ground cinnamon",
-        "1/4 teaspoon salt",
-        "1/2 cup unsalted butter, cold and cut into cubes"
+        "3\/4 cup all-purpose flour",
+        "3\/4 cup rolled oats",
+        "1\/2 cup packed brown sugar",
+        "1\/2 teaspoon ground cinnamon",
+        "1\/4 teaspoon salt",
+        "1\/2 cup unsalted butter, cold and cut into cubes"
     ],
     "yield": "4 servings",
     "introduction": "I first made this peach crumble on a lazy summer afternoon when I had a basket of ripe peaches that begged to be used. I wanted something simple yet satisfying, and this recipe quickly became a family favorite. What sets my version apart is the combination of oats and flour in the crumb topping, which creates a perfect balance of crunch and tenderness. Plus, using cold butter cut into cubes helps the topping bake up into those delightful little crispy clusters instead of a flat crust. I've learned that letting the peaches sit with lemon juice and a bit of sugar before baking brings out their natural juices and keeps the filling wonderfully juicy but not soggy. When it’s done, the crumble is golden on top, with bubbling peach juices underneath. It’s the kind of dessert that feels like a warm hug, especially when paired with a scoop of vanilla ice cream. I love making this for weekend dinners or casual get-togethers because it’s fuss-free but always impresses. Honestly, the first time I made it, I forgot to add the vanilla extract and thought it tasted a bit flat—so don’t skip that part! This recipe is forgiving and straightforward, perfect for any home cook looking to celebrate summer’s best flavors.",
@@ -92,13 +92,13 @@
         {
             "step": 9,
             "instruction": "After baking and cooling, store any leftovers in an airtight container in the fridge. The crumble topping may soften over time, but reheating can bring back some crispness. Enjoy within 3 days for the best flavor and texture.",
-            "timing": "N/A",
+            "timing": "N\/A",
             "doneness_cue": "Stored properly without moisture buildup or sogginess"
         }
     ],
     "why_this_recipe_works": {
         "section": "The Science Behind the Perfect Peach Crumble",
-        "content": "<p>Peach crumble is a deceptively simple dessert, but understanding how its components work together is key to getting that perfect balance of juicy fruit and crisp topping. First, the peaches need to be macerated with sugar and lemon juice. The sugar draws moisture out of the fruit through osmosis, creating a natural syrup that thickens as it bakes. The lemon juice not only brightens the flavor but also prevents enzymatic browning, keeping the peaches vibrant and fresh-looking.</p><p>The crumble topping is where texture magic happens. Combining flour and rolled oats gives both structure and chewiness. Flour provides the base that crisps up, while oats add rustic crunch and a slight nuttiness. The cold butter cut into cubes is crucial; as it melts slowly in the oven, it creates small pockets of steam that puff up the topping and make it flaky. If the butter were melted or too warm when mixed, the topping would turn dense and greasy instead of crumbly and light.</p><p>During baking, the Maillard reaction occurs on the topping’s surface, browning the sugars and proteins to produce that irresistible golden color and deep flavor. Meanwhile, the peach filling bubbles as the natural sugars caramelize and thicken, melding all the flavors together. Allowing the crumble to rest after baking helps the juices set, preventing a runny mess and making serving easier.</p><p>Each ingredient and technique plays a role: the acidity balances sweetness, the oats add texture, and the cold butter ensures a perfect topping. Together, they create a dessert that’s both comforting and fresh, capturing summer’s essence in every bite.</p>",
+        "content": "<p>Peach crumble is a deceptively simple dessert, but understanding how its components work together is key to getting that perfect balance of juicy fruit and crisp topping. First, the peaches need to be macerated with sugar and lemon juice. The sugar draws moisture out of the fruit through osmosis, creating a natural syrup that thickens as it bakes. The lemon juice not only brightens the flavor but also prevents enzymatic browning, keeping the peaches vibrant and fresh-looking.<\/p><p>The crumble topping is where texture magic happens. Combining flour and rolled oats gives both structure and chewiness. Flour provides the base that crisps up, while oats add rustic crunch and a slight nuttiness. The cold butter cut into cubes is crucial; as it melts slowly in the oven, it creates small pockets of steam that puff up the topping and make it flaky. If the butter were melted or too warm when mixed, the topping would turn dense and greasy instead of crumbly and light.<\/p><p>During baking, the Maillard reaction occurs on the topping’s surface, browning the sugars and proteins to produce that irresistible golden color and deep flavor. Meanwhile, the peach filling bubbles as the natural sugars caramelize and thicken, melding all the flavors together. Allowing the crumble to rest after baking helps the juices set, preventing a runny mess and making serving easier.<\/p><p>Each ingredient and technique plays a role: the acidity balances sweetness, the oats add texture, and the cold butter ensures a perfect topping. Together, they create a dessert that’s both comforting and fresh, capturing summer’s essence in every bite.<\/p>",
         "ingredient_notes": {
             "fresh peaches": "Look for peaches that are ripe but still firm to the touch. Overripe peaches can become mushy and release too much juice, which can make the filling watery. If peaches are slightly underripe, adding a bit more sugar during maceration helps balance tartness. Always peel peaches for a smooth texture and better mouthfeel in the crumble. Use freestone varieties if possible, as they’re easier to pit and slice.",
             "rolled oats": "Rolled oats provide chewiness and a hearty texture to the crumble topping. Avoid instant oats, which can turn mushy when baked. The oats help absorb some of the fruit juices, preventing the topping from becoming soggy. They also add a subtle nutty flavor that complements the peaches perfectly. For gluten-free versions, use certified gluten-free oats.",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Spiced Peach Crumble",
-            "description": "Add 1/2 teaspoon ground ginger and a pinch of nutmeg to the topping for a warming spice note. These spices pair beautifully with peaches and add complexity.",
+            "description": "Add 1\/2 teaspoon ground ginger and a pinch of nutmeg to the topping for a warming spice note. These spices pair beautifully with peaches and add complexity.",
             "technical_note": "Spices intensify during baking, so use sparingly to avoid overpowering the fruit."
         },
         {
@@ -263,35 +263,89 @@
     "images": [
         {
             "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
-            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
-            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
-            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
-            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
-            "filePath": "posts/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
-            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images\/simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1781651726_159",
     "slug": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite",
-    "isOnline": false,
-    "createdAt": "2026-06-16T23:15:26+00:00",
-    "updatedAt": "2026-06-16T23:15:26+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-17T18:32:24+01:00",
+    "updatedAt": "2026-06-17T18:32:24+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230294_638",
-    "image_dir": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite/images"
+    "image_dir": "simple-sweet-peach-dessert-that-feels-like-summer-in-every-bite\/images"
 }

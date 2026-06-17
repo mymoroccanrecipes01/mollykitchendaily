@@ -27,10 +27,10 @@
     "cook_time": 10,
     "servings": 4,
     "ingredients": [
-        "4 medium zucchinis, sliced lengthwise into 1/4-inch thick strips",
+        "4 medium zucchinis, sliced lengthwise into 1\/4-inch thick strips",
         "2 tablespoons olive oil, extra virgin",
-        "1/2 teaspoon sea salt",
-        "1/4 teaspoon freshly ground black pepper",
+        "1\/2 teaspoon sea salt",
+        "1\/4 teaspoon freshly ground black pepper",
         "Optional: fresh lemon juice for drizzling",
         "Optional: fresh herbs like thyme or parsley, chopped"
     ],
@@ -39,7 +39,7 @@
     "instructions": [
         {
             "step": 1,
-            "instruction": "Start by washing your zucchinis thoroughly and slicing them lengthwise into strips about 1/4 inch thick. This thickness helps the zucchini hold together on the grill without becoming mushy. If the slices are too thin, they can fall apart; too thick, and they won't cook evenly. Try to keep the slices uniform so they cook at the same rate.",
+            "instruction": "Start by washing your zucchinis thoroughly and slicing them lengthwise into strips about 1\/4 inch thick. This thickness helps the zucchini hold together on the grill without becoming mushy. If the slices are too thin, they can fall apart; too thick, and they won't cook evenly. Try to keep the slices uniform so they cook at the same rate.",
             "timing": "5 minutes",
             "doneness_cue": "Even, clean slices with no tears or ragged edges"
         },
@@ -94,7 +94,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Grilled Zucchini Recipe Shines",
-        "content": "<p>Grilling zucchini transforms its texture and flavor by applying direct dry heat, which caramelizes the natural sugars through the Maillard reaction. This chemical process creates those signature brown grill marks and deepens the vegetable’s inherent sweetness, making it much more flavorful than boiling or steaming. The olive oil acts as a heat conductor and prevents the zucchini from sticking to the grill grates, while also adding a subtle richness that complements the veggie’s mild taste.</p><p>Slicing the zucchini lengthwise into uniform strips of about 1/4 inch thickness is crucial. This size ensures the zucchini cooks evenly, becoming tender without turning mushy or falling apart. Thinner slices tend to dry out or break, and thicker ones may stay too firm inside. The medium-high grill temperature quickly sears the surface, locking moisture inside and producing a tender interior with a slight bite.</p><p>Seasoning with sea salt right before grilling draws out some moisture but also concentrates flavor. Adding fresh lemon juice or herbs after grilling introduces acidity and brightness that balances the smoky, caramelized notes. Overall, the simplicity of this recipe is its strength: minimal ingredients, careful technique, and attention to timing come together to highlight the zucchini’s natural qualities in a way that feels fresh and satisfying.</p><p>Finally, avoiding overcrowding on the grill is important to prevent steaming. Proper air circulation and direct heat contact ensure that the zucchini chars beautifully rather than becoming soggy. This recipe’s success lies in respecting the ingredient's delicate structure and enhancing its flavor through heat and seasoning.</p>",
+        "content": "<p>Grilling zucchini transforms its texture and flavor by applying direct dry heat, which caramelizes the natural sugars through the Maillard reaction. This chemical process creates those signature brown grill marks and deepens the vegetable’s inherent sweetness, making it much more flavorful than boiling or steaming. The olive oil acts as a heat conductor and prevents the zucchini from sticking to the grill grates, while also adding a subtle richness that complements the veggie’s mild taste.<\/p><p>Slicing the zucchini lengthwise into uniform strips of about 1\/4 inch thickness is crucial. This size ensures the zucchini cooks evenly, becoming tender without turning mushy or falling apart. Thinner slices tend to dry out or break, and thicker ones may stay too firm inside. The medium-high grill temperature quickly sears the surface, locking moisture inside and producing a tender interior with a slight bite.<\/p><p>Seasoning with sea salt right before grilling draws out some moisture but also concentrates flavor. Adding fresh lemon juice or herbs after grilling introduces acidity and brightness that balances the smoky, caramelized notes. Overall, the simplicity of this recipe is its strength: minimal ingredients, careful technique, and attention to timing come together to highlight the zucchini’s natural qualities in a way that feels fresh and satisfying.<\/p><p>Finally, avoiding overcrowding on the grill is important to prevent steaming. Proper air circulation and direct heat contact ensure that the zucchini chars beautifully rather than becoming soggy. This recipe’s success lies in respecting the ingredient's delicate structure and enhancing its flavor through heat and seasoning.<\/p>",
         "ingredient_notes": {
             "Zucchini": "Choose firm, medium-sized zucchinis with smooth, unblemished skin for the best grilling results. Smaller zucchinis tend to be sweeter and have fewer seeds, which improves texture. Avoid overly large or soft zucchinis as they can be watery and mushy when grilled. Wash thoroughly and slice evenly to ensure consistent cooking.",
             "Olive Oil": "Use extra virgin olive oil for its fruity, robust flavor and healthy fats. It helps prevent sticking and promotes even browning on the grill. Avoid using oils with low smoke points like unrefined oils, which can burn and create off-flavors. Brush lightly to avoid greasy flare-ups on the grill.",
@@ -137,7 +137,7 @@
         {
             "mistake": "Slicing zucchini too thin or too thick",
             "why_it_happens": "Many cooks underestimate how thickness affects cooking time and texture, leading to uneven grilling.",
-            "fix": "Aim for even 1/4 inch slices. This thickness holds together well on the grill and cooks evenly without becoming mushy or underdone."
+            "fix": "Aim for even 1\/4 inch slices. This thickness holds together well on the grill and cooks evenly without becoming mushy or underdone."
         },
         {
             "mistake": "Not preheating the grill enough",
@@ -260,35 +260,89 @@
     "images": [
         {
             "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_1.webp",
-            "filePath": "posts/simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_1.webp",
-            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_1.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_1.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_2.webp",
-            "filePath": "posts/simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_2.webp",
-            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_2.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_2.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_3.webp",
-            "filePath": "posts/simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_3.webp",
-            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs/images/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_3.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_3.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images\/simple-and-delicious-grilled-zucchini-for-summer-bbqs_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1781652289_647",
     "slug": "simple-and-delicious-grilled-zucchini-for-summer-bbqs",
-    "isOnline": false,
-    "createdAt": "2026-06-16T23:24:49+00:00",
-    "updatedAt": "2026-06-16T23:24:49+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-17T18:32:23+01:00",
+    "updatedAt": "2026-06-17T18:32:23+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230221_583",
-    "image_dir": "simple-and-delicious-grilled-zucchini-for-summer-bbqs/images"
+    "image_dir": "simple-and-delicious-grilled-zucchini-for-summer-bbqs\/images"
 }
