@@ -1,0 +1,339 @@
+{
+    "title": "Classic Homemade Tomato Soup with Fresh Basil for Cozy Nights",
+    "promptIMG": "Food photography: Classic Homemade Tomato Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This tomato soup is the ultimate comfort food—rich, velvety, and brightened with fresh basil. It’s easy to whip up and perfect for chilly evenings or a quick, warming lunch.",
+    "hashtags": "#tomatosoup #comfortfood #easyrecipes",
+    "board_name": "Comfort Food Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Cozy Tomato Basil Soup Recipe",
+            "description": "Craving something cozy? This tomato basil soup is creamy, flavorful, and ready in under an hour. Save this recipe for your next chilly day meal! 🍅🍲 #tomatosoup #comfortfood #homemade"
+        },
+        {
+            "title": "Simple Tomato Soup with Fresh Basil—A Family Favorite!",
+            "description": "Nothing beats a bowl of homemade tomato soup with basil. It’s easy, comforting, and perfect for any meal. Try it today and taste the love! ❤️🍅 #easyrecipes #souprecipe #familymeals"
+        },
+        {
+            "title": "How to Make Creamy Tomato Soup in Just 45 Minutes",
+            "description": "Discover the secret to silky tomato soup with fresh herbs. This recipe is straightforward and delicious—ideal for weeknight dinners. Don’t forget to save it! 🍅🌿 #quickmeals #healthycomfortfood #tomatosoup"
+        },
+        {
+            "title": "Cozy Up with This Classic Tomato Basil Soup Recipe",
+            "description": "Looking for a simple, heartwarming soup? This tomato basil version is packed with flavor and easy to make. Perfect for sharing or solo nights in. Try it now! 🍲❤️ #comfortfood #souprecipes #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, extra virgin",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "2 cans (28 ounces each) whole peeled tomatoes",
+        "2 cups vegetable broth",
+        "1 teaspoon sugar",
+        "Salt and freshly ground black pepper, to taste",
+        "1/2 cup fresh basil leaves, chopped",
+        "1/2 cup heavy cream or coconut cream (optional for creaminess)"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I’ve been making this tomato soup recipe for years, and it’s become my go-to whenever I want something comforting and simple. The first time I tried a homemade tomato soup, it was a bit too acidic and watery, but I learned a few tricks that totally changed the game. Adding a touch of sugar balances the natural acidity of the tomatoes, and using fresh basil at the end brings this bright, fresh note that makes the soup sing. I also like to finish it with a splash of cream for that extra velvety texture, but that’s totally optional if you want to keep it lighter. What I love about this soup is how easy it is to make from pantry staples and how it fills your kitchen with the most wonderful aromas. It’s perfect for chilly evenings when you want to curl up with a warm bowl, maybe with some crusty bread on the side. The color is a gorgeous deep red, and the texture is smooth but still has a little body — not too thin, not too thick. Plus, it’s forgiving if you’re new to cooking soups, which makes it my favorite recipe to share with friends who are just starting out.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the chopped onion and cook gently until translucent and soft, about 7-8 minutes. This slow cooking draws out the natural sweetness of the onion, which is key to balancing the tomato’s acidity later. Avoid browning the onions, as that can add a bitter note. Stir occasionally to ensure even cooking and prevent sticking.",
+            "timing": "8 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and slightly glossy without any brown spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and cook for about 1 minute, stirring constantly. Garlic cooks quickly and can burn easily, which makes it taste bitter, so keep a close eye on it. This step releases the garlic’s aroma and builds the flavor base for your soup.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic becomes fragrant but not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the canned whole peeled tomatoes with their juice, breaking them up gently with your spoon or a potato masher. The tomatoes will release their juices and start to meld with the onion and garlic flavors. Using whole peeled tomatoes instead of crushed gives you more control over texture and flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Tomatoes are softened and slightly broken down in the pot."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the vegetable broth and stir in the teaspoon of sugar. The broth adds depth and volume, while the sugar cuts through the natural acidity of the tomatoes without making the soup sweet. Stir everything together and bring the mixture to a gentle simmer.",
+            "timing": "3 minutes",
+            "doneness_cue": "Soup starts to bubble gently around the edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Reduce the heat to low and let the soup simmer uncovered for about 20 minutes. This simmering step helps the flavors meld and the soup reduce slightly, intensifying the tomato taste. Stir occasionally to prevent sticking. Don’t rush this part — a slow simmer is what brings out the best flavor.",
+            "timing": "20 minutes",
+            "doneness_cue": "Soup thickens slightly and aromas deepen."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the pot from heat and use an immersion blender to puree the soup until smooth and creamy. If you don’t have an immersion blender, carefully transfer the soup in batches to a regular blender. Blending breaks down the tomato chunks and creates that silky texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soup is smooth with no large tomato pieces."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the blended soup to low heat, then stir in the chopped fresh basil and cream if using. Heat gently for 2-3 minutes to warm through, but don’t boil once the cream is added or it might separate. The fresh basil adds a bright herbaceous note that balances the richness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Soup is steaming hot with fresh basil aroma."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with salt and pepper. This final step is important because the flavors can change during cooking, and seasoning helps bring everything together. Add a pinch at a time and taste as you go.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with no harsh acidity or blandness."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with your favorite crusty bread or grilled cheese. This soup is best enjoyed hot and fresh, but it also reheats well if you want leftovers. Garnish with a few basil leaves or a drizzle of olive oil for an extra touch.",
+            "timing": "0 minutes",
+            "doneness_cue": "Soup is hot and garnished, ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Tomato Soup Is So Comforting and Flavorful",
+        "content": "<p>Tomato soup is a classic comfort dish, but the magic lies in balancing acidity, sweetness, and texture. Using whole peeled tomatoes gives you control over the final consistency and flavor, as opposed to pre-crushed or diced versions that can sometimes be watery or bland. The slow cooking of onions softens their sharpness and brings out natural sugars, which counteracts the tomato’s acidity.</p><p>Adding a small amount of sugar is a traditional trick to mellow the tomatoes without making the soup sugary. It’s a subtle balance that makes the flavor round and inviting. The simmering time is crucial for melding flavors and reducing the soup to a luscious consistency. Too short, and the soup tastes raw; too long, and it can become overly thick or lose brightness.</p><p>Pureeing the soup creates a smooth, velvety texture that’s satisfying and cozy. An immersion blender is ideal because it allows you to control the texture right in the pot, avoiding extra dishes. Adding fresh basil at the end preserves its bright, herbal notes, which freshen the rich tomato base and elevate the overall flavor profile.</p><p>Finally, finishing with cream (or coconut cream for a dairy-free option) adds a luscious mouthfeel and softens the acidity further. Each step builds on the last to create a soup that’s both simple and deeply satisfying—perfect for warming up on a cold day or impressing family and friends with a homemade touch.</p>",
+        "ingredient_notes": {
+            "whole peeled tomatoes": "When selecting canned tomatoes, look for high-quality brands with minimal additives. Whole peeled tomatoes retain their texture and flavor better than diced or crushed varieties, allowing you to control the soup’s consistency. They tend to be more flavorful and less processed, which makes a noticeable difference in the final dish.",
+            "fresh basil": "Fresh basil adds a bright, herbaceous note that pairs perfectly with tomato’s acidity. Choose vibrant green leaves without brown spots or wilting. Adding basil at the end of cooking preserves its flavor and aroma, while cooking it too long can make it lose its freshness and turn bitter.",
+            "olive oil": "Extra virgin olive oil is best for sautéing the onions and garlic due to its fruity flavor and moderate smoking point. It helps soften the aromatics gently without overpowering the soup. Using a good quality olive oil enhances the overall depth of flavor.",
+            "vegetable broth": "Using a flavorful vegetable broth adds depth and rounds out the tomato’s brightness. Homemade broth is ideal, but a good quality store-bought version works well too. Avoid broths with too much salt or artificial flavors, as it can throw off the seasoning balance.",
+            "sugar": "A small amount of sugar tempers the natural acidity of tomatoes, balancing the flavor without making the soup sweet. It’s an old but effective trick that prevents the soup from tasting sharp or sour. Brown sugar or honey can be used as alternatives but will slightly alter the flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use whole peeled tomatoes instead of diced for better texture.",
+            "reason": "Whole peeled tomatoes break down during cooking, allowing you to control the soup’s smoothness and avoid a watery texture. Diced tomatoes often contain added liquids, which can dilute the flavor and affect consistency."
+        },
+        {
+            "tip": "Simmer the soup gently and don’t rush the cooking process.",
+            "reason": "Slow simmering allows flavors to meld and intensify while preventing the soup from becoming bitter or overly thick. High heat can cause uneven cooking and harsh flavors, so patience is key."
+        },
+        {
+            "tip": "Add fresh basil at the very end for maximum flavor.",
+            "reason": "Basil’s delicate oils dissipate quickly when cooked for too long. Adding it just before serving preserves its fresh aroma and bright taste, which balances the richness of the soup."
+        },
+        {
+            "tip": "Finish with a splash of cream or coconut cream for richness.",
+            "reason": "Cream adds a velvety texture and softens acidity, creating a comforting mouthfeel. Coconut cream offers a dairy-free alternative that still provides creaminess without overpowering the tomato flavor."
+        },
+        {
+            "tip": "Use an immersion blender to puree the soup directly in the pot.",
+            "reason": "This method is safe, quick, and reduces cleanup. It also lets you control the soup texture easily, from chunky to silky smooth, based on personal preference."
+        },
+        {
+            "tip": "Season gradually and taste often during cooking.",
+            "reason": "Tomato soup’s flavor evolves as it cooks. Adding salt and pepper little by little ensures balanced seasoning and prevents over-salting, which is hard to fix later."
+        },
+        {
+            "tip": "Serve with crusty bread or grilled cheese for a classic combo.",
+            "reason": "The crispy, buttery bread contrasts the smooth soup, making the meal more satisfying and texturally interesting. It’s a simple addition that elevates the entire experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using low-quality canned tomatoes",
+            "why_it_happens": "It’s tempting to grab whatever’s on sale, but not all canned tomatoes are created equal. Many contain added salt, preservatives, or are watery, which can dull the soup’s flavor.",
+            "fix": "Look for brands with minimal ingredients and no added salt. Whole peeled tomatoes from trusted brands offer the best flavor and texture, so invest a bit more here for a tastier soup."
+        },
+        {
+            "mistake": "Skipping the sugar to balance acidity",
+            "why_it_happens": "Some assume sugar will make the soup too sweet, but it’s actually essential to temper the tomatoes’ natural sharpness.",
+            "fix": "Add a small amount of sugar (about a teaspoon) and taste as you go. It won’t make the soup sweet but will balance the flavors beautifully."
+        },
+        {
+            "mistake": "Cooking garlic too long or burning it",
+            "why_it_happens": "Garlic cooks quickly and can easily burn if left unattended, causing bitterness.",
+            "fix": "Add garlic after the onions are softened and cook it just until fragrant, about 30-60 seconds, stirring constantly."
+        },
+        {
+            "mistake": "Blending soup while it’s too hot in a regular blender",
+            "why_it_happens": "Hot liquids can cause pressure buildup in blenders, leading to spills or burns.",
+            "fix": "Use an immersion blender or cool the soup slightly before blending in batches, venting the lid to release steam safely."
+        },
+        {
+            "mistake": "Overcooking basil",
+            "why_it_happens": "Adding basil too early causes loss of its fresh flavor and can make it taste bitter.",
+            "fix": "Add fresh basil at the very end of cooking or just before serving to retain its vibrant taste and aroma."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Tomato Soup with Red Pepper Flakes",
+            "description": "Add a pinch of red pepper flakes when sautéing the onions for a gentle kick of heat. This variation adds warmth and complexity without overpowering the tomato flavor.",
+            "technical_note": "Be cautious with the amount of spice; start small and adjust to your heat tolerance to keep the soup balanced."
+        },
+        {
+            "name": "Creamy Vegan Tomato Soup",
+            "description": "Use coconut cream instead of dairy cream and vegetable broth for a vegan-friendly version. This keeps the soup rich and smooth with a subtle coconut undertone.",
+            "technical_note": "Coconut cream can separate if boiled, so add it off heat or warm gently."
+        },
+        {
+            "name": "Roasted Tomato Soup",
+            "description": "Roast fresh tomatoes, onion, and garlic before blending for a deeper, smoky flavor. This version takes longer but adds a rich, caramelized dimension.",
+            "technical_note": "Roasting concentrates sugars and flavors, so reduce or omit added sugar accordingly."
+        },
+        {
+            "name": "Herbed Tomato Soup with Thyme and Oregano",
+            "description": "Add a teaspoon of dried thyme and oregano during the simmering step for a Mediterranean twist. These herbs complement the basil and enrich the soup’s aroma.",
+            "technical_note": "Dried herbs are added earlier to extract flavor; fresh herbs should still be added at the end."
+        },
+        {
+            "name": "Chunky Tomato Soup with Vegetables",
+            "description": "Add diced carrots and celery with onions for a heartier soup. Leave some tomato pieces unblended for texture. This variation makes the soup more filling and nutritious.",
+            "technical_note": "Cook vegetables until tender before adding tomatoes to ensure they soften properly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "8g",
+        "fiber_grams": "4g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the soup covered at room temperature for up to 2 hours safely. Beyond that, it’s best to refrigerate to avoid bacterial growth.",
+        "refrigerator": "Store the soup in an airtight container for up to 4 days. The flavor may deepen overnight, but the texture might thicken slightly. Reheat gently on the stove or microwave, adding a splash of broth or water if needed.",
+        "freezer": "Freeze the soup in airtight containers or freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge and reheat slowly to restore texture.",
+        "reheating": "Reheat over low to medium heat on the stovetop, stirring occasionally. If the soup has thickened, add a splash of broth or water to loosen it. Avoid boiling once cream has been added to prevent curdling.",
+        "make_ahead_strategy": "You can prepare the soup base (onions, garlic, tomatoes, broth) up to 2 days ahead and refrigerate. Blend and add basil and cream just before serving to keep flavors fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh tomatoes instead of canned?",
+            "answer": "Yes, fresh tomatoes work well, especially ripe and flavorful ones. You’ll need about 3 pounds, peeled and chopped. Roasting them first can deepen the flavor. Keep in mind fresh tomatoes might require longer cooking time to break down and develop richness compared to canned."
+        },
+        {
+            "question": "How can I make the soup thicker or thinner?",
+            "answer": "For thicker soup, simmer longer to reduce the liquid or add a small amount of tomato paste. To thin it out, add more broth or water gradually until you reach your desired consistency. Blending also affects thickness—blend less for chunkier texture."
+        },
+        {
+            "question": "Is it necessary to add sugar to tomato soup?",
+            "answer": "Adding a little sugar helps balance the acidity of the tomatoes, making the soup taste smoother and less sharp. It’s not mandatory, but especially with canned tomatoes, it really improves the flavor. You can adjust or omit based on your taste preference."
+        },
+        {
+            "question": "Can I make this soup vegan?",
+            "answer": "Absolutely! Simply omit the heavy cream or substitute it with coconut cream or other plant-based creams. Use vegetable broth to keep the base vegan as well. The soup will still be rich and delicious."
+        },
+        {
+            "question": "How do I store leftovers safely?",
+            "answer": "Cool the soup to room temperature within two hours, then transfer to airtight containers and refrigerate. It stays good for up to 4 days. For longer storage, freeze in suitable containers and thaw in the fridge before reheating."
+        },
+        {
+            "question": "Can I freeze this soup with cream added?",
+            "answer": "It’s best to freeze the soup without cream, as dairy can separate and become grainy after freezing. Freeze the base soup and add cream fresh when reheating for the best texture."
+        },
+        {
+            "question": "What can I serve with tomato soup?",
+            "answer": "Classic pairings include grilled cheese sandwiches, crusty bread, or a simple green salad. The creamy, tangy soup pairs well with buttery or toasted bread for a comforting meal."
+        },
+        {
+            "question": "How do I avoid a bitter taste in the soup?",
+            "answer": "Avoid burning the garlic and onions, as that can create bitterness. Also, don’t overcook the basil. Balancing acidity with a pinch of sugar helps prevent harshness. Using quality tomatoes is key for a naturally sweet and balanced soup."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this cozy tomato basil soup as much as I do. Don’t forget to share your soup stories and any tweaks you try—I love hearing from you!",
+    "seo": {
+        "primary_keyword": "classic tomato basil soup recipe",
+        "secondary_keywords": [
+            "easy tomato soup",
+            "homemade tomato soup",
+            "how to make tomato soup",
+            "best tomato soup recipe",
+            "simple tomato basil soup"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast tomatoes for soup",
+                "anchor": "roast-tomatoes-for-soup"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-soup-recipe-that-warms-you-right-up/images/classic-tomato-soup-recipe-that-warms-you-right-up_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1781824014_910",
+    "slug": "classic-tomato-soup-recipe-that-warms-you-right-up",
+    "isOnline": true,
+    "createdAt": "2026-06-19T00:36:27+01:00",
+    "updatedAt": "2026-06-19T00:36:27+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "classic-tomato-soup-recipe-that-warms-you-right-up/images"
+}

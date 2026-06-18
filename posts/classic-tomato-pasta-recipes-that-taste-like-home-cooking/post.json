@@ -1,0 +1,337 @@
+{
+    "title": "Simple Tomato Garlic Pasta That Feels Like Sunday Dinner",
+    "promptIMG": "Food photography: Tomato Garlic Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This tomato garlic pasta is super easy and comforting, with fresh tomatoes and just the right garlic punch. It’s my go-to for cozy dinners when I want something light but satisfying.",
+    "hashtags": "#tomatopasta #easyweeknightmeal #comfortfood",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Simple Tomato Garlic Pasta Tonight!",
+            "description": "Looking for a quick, comforting dinner? This tomato garlic pasta uses fresh ingredients for a bright, cozy flavor. Save this recipe and try it today! 🍅🍝 #tomatopasta #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Fresh Tomato Pasta That’s Ready in 30 Minutes!",
+            "description": "Fresh tomatoes and garlic make this pasta a winner for busy nights. It's light, fresh, and full of flavor. Discover how easy it is to whip up this classic dish! 🍅🧄 #weeknightdinner #easymeals #pasta"
+        },
+        {
+            "title": "Why This Tomato Garlic Pasta Will Be Your New Favorite Dinner",
+            "description": "Simple, fresh, and packed with flavor, this tomato garlic pasta is perfect for any night. Try it now and enjoy a taste of home-cooked goodness! 🍝❤️ #comfortfood #tomatopasta #quickdinner"
+        },
+        {
+            "title": "Make Fresh Tomato Garlic Pasta in Under 30 Minutes!",
+            "description": "Bright, fresh, and satisfying—this tomato garlic pasta is super easy to make. Perfect for cozy family dinners or a quick solo meal. Save it for your next cooking day! 🍅🍴 #easyrecipes #pastalover #homecooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 oz spaghetti pasta, dry",
+        "4 large fresh tomatoes, diced",
+        "4 cloves garlic, minced",
+        "3 tbsp olive oil",
+        "1/2 tsp red pepper flakes (optional)",
+        "Salt to taste",
+        "Fresh basil leaves, chopped, for garnish",
+        "Freshly grated Parmesan cheese, for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this tomato garlic pasta on a lazy Sunday when I had a bunch of fresh tomatoes from the farmers' market and just wanted something simple and satisfying. It’s nothing fancy, but it’s exactly the kind of dish that feels like a warm hug after a long day. What makes this version special is using fresh, ripe tomatoes instead of canned sauce — it gives the pasta a bright, natural sweetness and a little texture that I love. Plus, the garlic isn’t just thrown in; it’s gently sautéed in olive oil to bring out its mellow, nutty flavor without overwhelming the dish. I’ve made this several times, and the trick I learned is to cook the pasta just shy of al dente and finish it in the sauce so it soaks up all those fresh tomato juices. The result is a light but deeply flavorful pasta that’s perfect for a cozy family dinner or a quick weeknight meal. It’s simple, fresh, and always hits the spot.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil. Salt is crucial here because it seasons the pasta from within, enhancing its flavor. Add the spaghetti and cook until just shy of al dente, about 8 minutes. You want the pasta slightly undercooked because it will finish cooking in the sauce, absorbing all those lovely tomato flavors. Overcooking at this stage can leave the pasta mushy later, so keep a close eye and taste frequently.",
+            "timing": "8 minutes",
+            "doneness_cue": "Pasta is firm but not hard, with a slight bite in the center when bitten."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium heat. Add the minced garlic and red pepper flakes, if using. Sauté gently for 2-3 minutes until the garlic is fragrant and golden but not burnt. This step is key to developing a mellow garlic flavor that infuses the oil, which will coat the pasta beautifully. Avoid high heat here, as burnt garlic tastes bitter and will ruin the dish.",
+            "timing": "3 minutes",
+            "doneness_cue": "Garlic turns lightly golden and smells fragrant without any burnt aroma."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the diced fresh tomatoes to the skillet. Cook them over medium heat, stirring occasionally, until they soften and release their juices, about 10 minutes. This helps create a fresh, chunky sauce that feels homemade and vibrant. If the tomatoes aren’t juicy enough, you can add a splash of pasta water to loosen the sauce later. Patience here is important — rushing this step means you miss out on the fresh, natural sweetness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomatoes have softened and the sauce has a slightly thickened, saucy texture."
+        },
+        {
+            "step": 4,
+            "instruction": "Drain the pasta, reserving about 1 cup of the pasta cooking water. Add the pasta to the skillet with the tomato sauce. Toss gently over low heat, adding reserved pasta water as needed to help the sauce cling evenly to every strand. This starchy water acts as a natural emulsifier, binding the oil and tomato juices to the pasta perfectly. Stirring carefully ensures the pasta finishes cooking in the sauce and soaks up all the flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pasta looks glossy and coated with sauce, with no dry spots."
+        },
+        {
+            "step": 5,
+            "instruction": "Season the pasta with salt to taste. Remember, the pasta water was salted, but the tomatoes might need a little extra seasoning to brighten the flavors. Taste as you go and adjust carefully. Over-salting is easy to do, so add a pinch at a time. Freshly ground black pepper can also be added here if you like a little bite.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning with no bland or overly salty bites."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the skillet from heat and stir in chopped fresh basil leaves. The residual warmth gently releases the basil’s aroma without cooking away its bright, herbal notes. Adding herbs at the end keeps the flavor fresh and vibrant, contrasting beautifully with the sweetness of the tomatoes.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh basil releases aroma and adds visible green flecks throughout."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the pasta immediately on warm plates. Top generously with freshly grated Parmesan cheese. The salty, nutty cheese melts slightly on the warm pasta, adding depth and richness without overpowering the fresh tomato flavors. This final touch elevates the dish from simple to special.",
+            "timing": "Immediate",
+            "doneness_cue": "Cheese softens on the hot pasta, creating a creamy finish."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add a little extra texture or flavor, sprinkle some toasted pine nuts or chili flakes on top. These optional garnishes add a nice crunch or heat kick and personalize the dish to your taste. It’s a simple way to make it feel a little more festive or special.",
+            "timing": "Optional, 1 minute",
+            "doneness_cue": "Garnishes add contrasting texture or spice without overwhelming."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your tomato garlic pasta fresh, ideally right after cooking for the best texture and flavor. Pasta tends to absorb sauce and get drier as it sits, so reheating gently with a splash of water or olive oil helps revive it. This dish pairs wonderfully with a simple green salad or crusty bread to soak up any leftover sauce.",
+            "timing": "Serving",
+            "doneness_cue": "Pasta is warm, saucy, and flavorful with a fresh, vibrant taste."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Fresh Tomato Garlic Pasta",
+        "content": "<p>Using fresh tomatoes instead of canned sauce gives this pasta a bright, natural flavor that’s hard to beat. The tomatoes break down gently when cooked, releasing juices that create a light sauce, while still retaining some texture. This contrasts beautifully with the smoothness of the olive oil and the firm bite of perfectly cooked pasta.</p><p>Cooking the pasta just shy of al dente and finishing it in the sauce allows the noodles to absorb the tomato juices and garlic-infused oil. This process, called 'marrying flavors,' ensures every strand is coated and flavorful rather than just sitting on top of a watery sauce. It’s important that the pasta water is reserved because it contains starch that helps emulsify the sauce, giving it a silky texture.</p><p>Garlic is gently sautéed to mellow its sharpness and develop a nutty aroma. High heat burns garlic quickly, making it bitter, so keeping the temperature moderate is essential. The addition of fresh basil at the end adds a fragrant herbal note that would be lost if cooked for too long. Parmesan cheese adds umami and richness, balancing the acidity of the tomatoes perfectly.</p><p>Each ingredient plays a role in balancing the dish: acidity from tomatoes, richness from olive oil and cheese, pungency from garlic, and freshness from basil. The interplay of these flavors, combined with the proper cooking techniques, creates a simple yet deeply satisfying pasta that feels like home.</p>",
+        "ingredient_notes": {
+            "fresh tomatoes": "Choose ripe, firm tomatoes with vibrant color and a slight give when pressed. Varieties like Roma or vine-ripened tomatoes work well because they have good flesh-to-juice ratio, making a flavorful sauce without being too watery. Avoid overly soft or mealy tomatoes, as they can make the sauce too loose and bland.",
+            "garlic": "Fresh garlic cloves are key for the best flavor. Mince finely to release maximum aroma but sauté gently in olive oil over medium heat to avoid burning. Burnt garlic tastes bitter and can ruin the dish. If you prefer milder garlic, slice instead of mince and cook slowly.",
+            "olive oil": "Use a good-quality extra virgin olive oil for its fruity, peppery notes that complement the garlic and tomatoes. It acts as the fat base, carrying flavors and creating a silky texture. Avoid using low-quality or refined oils that lack flavor.",
+            "basil": "Fresh basil leaves add a bright, herbal aroma that lifts the dish. Add at the end of cooking to preserve its flavor and vibrant green color. Dried basil won’t give the same fresh punch and can taste flat.",
+            "Parmesan cheese": "Use freshly grated Parmesan or Parmigiano-Reggiano for its nutty, salty flavor and fine texture. Pre-grated cheese often contains anti-caking agents that affect melting and texture. Parmesan adds umami and richness, balancing the acidity of tomatoes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Reserve some pasta cooking water before draining.",
+            "reason": "The starchy pasta water helps emulsify and thicken the sauce when mixed with olive oil and tomato juices, creating a silky coating on the pasta instead of a watery sauce. Neglecting this step can result in a thin, separated sauce."
+        },
+        {
+            "tip": "Cook garlic over medium heat until fragrant but not brown.",
+            "reason": "Garlic burns quickly and turns bitter if cooked at too high a temperature. Cooking it gently extracts its sweet, nutty flavor that infuses the oil and enhances the entire dish."
+        },
+        {
+            "tip": "Finish cooking pasta in the sauce rather than fully in water.",
+            "reason": "This technique allows the pasta to absorb the fresh tomato flavors and oils, making the dish taste more cohesive and less like plain noodles with sauce poured on top."
+        },
+        {
+            "tip": "Use fresh, ripe tomatoes instead of canned for best flavor.",
+            "reason": "Fresh tomatoes provide brighter acidity and natural sweetness, giving the sauce a lighter, fresher taste. Canned tomatoes are more uniform but often lack the nuanced flavor of fresh."
+        },
+        {
+            "tip": "Add fresh basil at the very end of cooking.",
+            "reason": "Basil’s delicate oils and aroma dissipate quickly with heat. Adding it last preserves its vibrant flavor and color, enhancing the overall freshness of the dish."
+        },
+        {
+            "tip": "Salt the pasta water generously.",
+            "reason": "Pasta absorbs salt as it cooks, seasoning it internally. Under-salted water leads to bland pasta, even if the sauce is flavorful."
+        },
+        {
+            "tip": "Serve immediately with freshly grated Parmesan cheese.",
+            "reason": "Parmesan melts slightly on hot pasta, adding richness and umami that elevates the dish. Pre-grated cheese doesn’t melt as well and may contain additives."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the garlic.",
+            "why_it_happens": "Often cooks use too high heat or leave garlic unattended, causing it to brown too quickly and turn bitter.",
+            "fix": "Cook garlic over medium or medium-low heat and watch closely. Stir frequently and remove from heat as soon as it’s golden and fragrant."
+        },
+        {
+            "mistake": "Overcooking the pasta in boiling water.",
+            "why_it_happens": "People follow package instructions strictly or don’t test pasta early enough, leading to mushy noodles.",
+            "fix": "Cook pasta 1-2 minutes less than package directions and finish cooking in the sauce to achieve perfect texture."
+        },
+        {
+            "mistake": "Not using enough salt in pasta water.",
+            "why_it_happens": "Some avoid salting water due to health concerns or forgetfulness, resulting in bland pasta.",
+            "fix": "Add about 1-2 tbsp salt per 4 quarts of water. The pasta should taste slightly salty when bitten."
+        },
+        {
+            "mistake": "Skipping reserved pasta water.",
+            "why_it_happens": "People drain pasta and discard all water, missing the thickening and emulsifying properties it offers.",
+            "fix": "Always save at least 1/2 cup pasta water before draining to adjust sauce consistency."
+        },
+        {
+            "mistake": "Adding basil too early.",
+            "why_it_happens": "Some add basil during cooking, which causes loss of flavor and dull color.",
+            "fix": "Add fresh basil right at the end, off the heat, to preserve aroma and vibrancy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Tomato Garlic Pasta",
+            "description": "Add extra red pepper flakes or a dash of cayenne pepper during garlic sautéing for a spicy kick. This variation warms things up and pairs well with a sprinkle of fresh parsley for contrast.",
+            "technical_note": "Be careful not to burn the chili flakes; add them early with garlic on medium heat for balanced heat."
+        },
+        {
+            "name": "Creamy Tomato Garlic Pasta",
+            "description": "Stir in a splash of cream or half-and-half after adding the tomatoes to create a silky, rich sauce. This makes the dish more indulgent and smooth, perfect for cooler nights.",
+            "technical_note": "Add cream off heat or on very low heat to prevent curdling and maintain a smooth texture."
+        },
+        {
+            "name": "Roasted Tomato Garlic Pasta",
+            "description": "Roast the tomatoes and garlic in the oven before adding them to the pasta. This intensifies the flavors and adds a subtle smoky sweetness that makes the sauce richer and more complex.",
+            "technical_note": "Roast tomatoes at 400°F for 20 minutes until caramelized; adjust cooking times accordingly."
+        },
+        {
+            "name": "Vegetable Boosted Tomato Garlic Pasta",
+            "description": "Add sautéed vegetables like zucchini, bell peppers, or spinach for extra nutrition and texture. This turns the pasta into a more substantial meal with fresh garden flavors.",
+            "technical_note": "Sauté vegetables separately and fold in at the end to keep them vibrant and tender."
+        },
+        {
+            "name": "Vegan Tomato Garlic Pasta",
+            "description": "Skip the Parmesan and add nutritional yeast or vegan cheese alternatives. Use extra olive oil for richness. This keeps the dish plant-based but still flavorful and satisfying.",
+            "technical_note": "Nutritional yeast adds umami but won’t melt like cheese, so add just before serving."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "65g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta can be safely left at room temperature for up to 2 hours if covered. Beyond that, bacteria growth risks increase, so it’s best to refrigerate promptly after serving.",
+        "refrigerator": "Store leftover pasta in an airtight container for up to 3 days. The sauce may thicken and pasta can absorb more liquid, so reheat gently with a splash of water or olive oil to restore creaminess. It can be eaten cold but tastes best warmed.",
+        "freezer": "Freeze the pasta in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat gently on stovetop with a bit of water to loosen the sauce.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring frequently. Add a splash of olive oil or reserved pasta water to prevent drying out. Avoid high heat or microwave reheating without moisture, as pasta can become tough.",
+        "make_ahead_strategy": "You can prepare the tomato sauce 1-2 days ahead and refrigerate. Cook pasta just before serving and toss together fresh to keep noodles firm. This saves time and keeps the dish tasting fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned tomatoes instead of fresh?",
+            "answer": "Yes, canned tomatoes work in a pinch, especially whole peeled or crushed varieties. However, fresh tomatoes offer a brighter, fresher flavor and more texture. If using canned, simmer longer to reduce excess liquid and concentrate flavors."
+        },
+        {
+            "question": "What if I don’t have fresh basil?",
+            "answer": "Dried basil won’t provide the same fresh aroma, but you can substitute with a pinch of dried herbs like oregano or Italian seasoning. Add dried herbs earlier in cooking so they have time to release flavor."
+        },
+        {
+            "question": "How do I prevent garlic from burning?",
+            "answer": "Cook garlic over medium or medium-low heat and watch it carefully. Stir frequently and remove from heat as soon as it turns light golden and fragrant. Garlic burns fast, so don’t walk away during this step."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Absolutely! Use your favorite gluten-free pasta and follow the same instructions. Cooking times may vary slightly, so check pasta frequently for doneness."
+        },
+        {
+            "question": "Is this pasta good for meal prep?",
+            "answer": "It’s best fresh but can be made ahead by preparing sauce separately and cooking pasta fresh. Leftovers keep well refrigerated for 3 days but reheat gently to maintain texture."
+        },
+        {
+            "question": "How spicy is this dish with red pepper flakes?",
+            "answer": "The red pepper flakes add a gentle warmth, not overpowering heat. You can adjust the amount to your preference or omit completely if you prefer mild flavors."
+        },
+        {
+            "question": "Can I add protein to this pasta?",
+            "answer": "Yes! Grilled chicken, shrimp, or sautéed mushrooms all pair nicely. Add cooked protein at the end when tossing pasta with the sauce to keep everything warm and evenly coated."
+        },
+        {
+            "question": "Why do I need to save pasta water?",
+            "answer": "Pasta water contains starch that helps bind the sauce and pasta together, creating a creamy texture instead of a watery one. Adding it gradually ensures the sauce clings well to the noodles."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this fresh tomato garlic pasta as much as I do. Don’t forget to share your version—I’d love to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "fresh tomato garlic pasta",
+        "secondary_keywords": [
+            "easy tomato pasta recipe",
+            "how to make tomato garlic pasta",
+            "best fresh tomato pasta",
+            "simple garlic pasta recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pasta sauce basics",
+                "anchor": "homemade_pasta_sauce_basics"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pasta-recipes-that-taste-like-home-cooking/images/classic-tomato-pasta-recipes-that-taste-like-home-cooking_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781824249_800",
+    "slug": "classic-tomato-pasta-recipes-that-taste-like-home-cooking",
+    "isOnline": true,
+    "createdAt": "2026-06-19T00:36:27+01:00",
+    "updatedAt": "2026-06-19T00:36:27+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "classic-tomato-pasta-recipes-that-taste-like-home-cooking/images"
+}

@@ -1,0 +1,338 @@
+{
+    "title": "Classic Southern Tomato Pie with Flaky Crust and Creamy Cheese Filling",
+    "promptIMG": "Food photography: Southern Tomato Pie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This Southern tomato pie is all about juicy ripe tomatoes and a flaky crust with a creamy, cheesy mayo filling. It’s a perfect dish for warm days or a casual potluck with friends.",
+    "hashtags": "#tomatopie #southernfood #comfortfood",
+    "board_name": "Easy Southern Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Best Southern Tomato Pie Recipe Ever!",
+            "description": "This tomato pie is packed with fresh, juicy tomatoes and a creamy, cheesy filling that’s just irresistible. Perfect for summer lunches or family gatherings. Save this recipe and try it today! 🍅🧀 #southernfood #tomatopie #easyrecipes"
+        },
+        {
+            "title": "How to Make a Flaky Southern Tomato Pie That Everyone Loves",
+            "description": "Learn the secret to a flaky crust and rich, cheesy filling with fresh tomatoes. This pie is a Southern classic that’s perfect for potlucks or weeknight dinners. Give it a go and share your results! 🍽️❤️ #comfortfood #tomatopie #southernrecipes"
+        },
+        {
+            "title": "Simple Southern Tomato Pie Recipe with a Creamy Twist",
+            "description": "Juicy tomatoes meet a creamy mayo and cheese filling in this easy Southern tomato pie. It’s perfect for warm weather meals and impresses every time. Try it now and save for later! 🌞🍅 #tomatopie #easymeals #southerncooking"
+        },
+        {
+            "title": "The Ultimate Southern Tomato Pie – Flaky, Creamy, and Delicious!",
+            "description": "If you love fresh tomatoes and flaky crusts, this Southern tomato pie is for you. Creamy, cheesy, and perfect for any casual meal. Discover this recipe and make it your new favorite! 🥧🍅 #southernfood #tomatopie #weeknightdinner"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 pie crust, homemade or store-bought, chilled",
+        "4 large ripe tomatoes, sliced 1/4 inch thick",
+        "1 teaspoon salt",
+        "1/2 cup mayonnaise",
+        "1 cup shredded sharp cheddar cheese",
+        "1/2 cup shredded mozzarella cheese",
+        "1/4 cup grated Parmesan cheese",
+        "1/4 cup chopped fresh basil",
+        "1/4 teaspoon black pepper"
+    ],
+    "yield": "One 9-inch pie, 6 servings",
+    "introduction": "I first made this Southern tomato pie during a summer family reunion, and it quickly became a staple. The beauty of this pie lies in its simplicity and the freshness of the ingredients. Using ripe, juicy tomatoes is key to getting that sweet, tangy flavor that balances perfectly with the creamy cheese filling. I like to add a little mayo to the filling—it might sound unusual, but it adds richness and helps bind everything together without being heavy. One trick I learned is to salt the tomato slices beforehand; this draws out excess moisture so the crust stays flaky and crisp instead of soggy. The finished pie has a golden, flaky crust with layers of fresh tomatoes and a luscious, cheesy topping that melts beautifully. It’s perfect for warm-weather lunches, potlucks, or just a casual dinner. Honestly, I’ve tried a few tomato pies before, but this recipe nails that perfect balance of creaminess and freshness every time. Plus, it’s not complicated, which I love. If you’re a fan of Southern comfort food with a fresh twist, this tomato pie is definitely worth trying!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Roll out the pie crust and fit it into a 9-inch pie pan. Press the crust gently into the edges and prick the bottom a few times with a fork to prevent bubbling during baking. Blind bake the crust for about 10 minutes to get it partially cooked; this helps keep it crisp when we add the juicy tomatoes later. Make sure the crust is lightly golden but not fully browned at this stage, or it may burn in the final bake.",
+            "timing": "10 minutes",
+            "doneness_cue": "Crust edges are lightly golden and the bottom is set but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "While the crust bakes, slice your ripe tomatoes about 1/4 inch thick. Lay the slices on paper towels and sprinkle them evenly with 1 teaspoon of salt. Let them sit for 10-15 minutes to draw out excess moisture. This step is crucial because it prevents the pie from becoming soggy and concentrates the tomato flavor. After resting, gently pat the slices dry with more paper towels to remove the released liquid.",
+            "timing": "15 minutes",
+            "doneness_cue": "Tomato slices feel less wet and have released liquid onto the paper towels"
+        },
+        {
+            "step": 3,
+            "instruction": "In a medium bowl, combine the mayonnaise, shredded cheddar, mozzarella, Parmesan, chopped basil, and black pepper. Mix until well blended. This creamy cheese mixture is the heart of the pie, adding richness and a melty texture that contrasts wonderfully with the fresh tomatoes. Don’t skip the basil—it brightens the flavors and adds a fresh, herbaceous note.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cheese mixture is smooth, creamy, and evenly combined"
+        },
+        {
+            "step": 4,
+            "instruction": "Arrange a single layer of the tomato slices over the partially baked crust. Spread about half of the cheese mixture evenly over the tomatoes. Then add another layer of tomatoes and top with the remaining cheese mixture. Layering like this ensures every bite has a balance of tomato and creamy cheese, creating a beautiful texture and flavor contrast.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even layers of tomato and cheese filling visible in the pie"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the pie back into the oven and bake at 375°F (190°C) for 30 minutes. During baking, the cheese mixture melts and browns slightly, while the tomatoes soften but hold their shape. This baking time allows the crust to finish cooking and become golden and flaky. Keep an eye on the crust edges; if they brown too quickly, loosely cover with foil to prevent burning.",
+            "timing": "30 minutes",
+            "doneness_cue": "Top is bubbly, golden brown, and crust edges are crisp and browned"
+        },
+        {
+            "step": 6,
+            "instruction": "Once baked, remove the pie from the oven and let it cool for at least 15 minutes before slicing. Cooling helps the filling set so the slices hold together nicely. If you cut it too soon, the filling may be too soft and runny. The pie should be warm but firm with a flaky crust and a creamy, cheesy tomato topping.",
+            "timing": "15 minutes",
+            "doneness_cue": "Pie is warm and filling is set enough to slice cleanly"
+        },
+        {
+            "step": 7,
+            "instruction": "For serving, garnish with a few fresh basil leaves if you like. This adds a pop of color and a fresh herbal aroma that complements the savory pie. Serve it alongside a crisp green salad or enjoy it on its own for a light meal. It’s also fantastic at room temperature, making it great for picnics or potlucks.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fresh basil adds aroma and color enhancing the presentation"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to prepare ahead, you can assemble the pie and store it uncovered in the fridge for up to 12 hours before baking. Just be sure the tomato slices are well drained to avoid sogginess. Bring the pie to room temperature before baking to ensure even cooking.",
+            "timing": "N/A",
+            "doneness_cue": "Pie is chilled but tomatoes are dry and crust is firm"
+        },
+        {
+            "step": 9,
+            "instruction": "To reheat leftover tomato pie, warm it in a 350°F (175°C) oven for 10-15 minutes until heated through and the crust is crisp again. Avoid microwaving as it can make the crust soggy. A splash of water on a pan while reheating helps keep the filling moist without drying out.",
+            "timing": "10-15 minutes",
+            "doneness_cue": "Pie is hot throughout with a crisp crust and melted cheese"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Tomato Pie Recipe Succeeds",
+        "content": "<p>Tomato pies can be tricky because tomatoes release a lot of moisture, which often leads to soggy crusts. The secret here is salting the tomato slices ahead of time, which draws out excess water through osmosis. This step not only prevents sogginess but also intensifies the tomato’s natural sweetness and flavor. Patting them dry afterward ensures the moisture isn’t reabsorbed.</p><p>The flaky crust is achieved by blind baking it partially before adding the filling. This step sets the crust, so it doesn't get overwhelmed by the juicy tomatoes. The crust’s fat content, usually from butter or shortening, creates layers that crisp up beautifully during baking, providing a lovely contrast to the creamy filling.</p><p>The cheese and mayo mixture is what gives the pie its rich, creamy texture. Mayonnaise acts as an emulsifier, blending the oils and moisture from the cheeses into a smooth filling that melts evenly. Using a combination of sharp cheddar, mozzarella, and Parmesan adds depth: sharp cheddar brings tang, mozzarella adds gooey meltiness, and Parmesan contributes a nutty, savory finish. Fresh basil brightens the dish with its aromatic oils, balancing the richness.</p><p>Baking at a moderate temperature allows the filling to melt and set without burning the crust. Watching the crust edges and covering them if they brown too fast ensures even cooking. Cooling the pie before slicing lets the filling firm up, so slices hold their shape perfectly.</p>",
+        "ingredient_notes": {
+            "Tomatoes": "Choose ripe, firm tomatoes with vibrant color for the best flavor and texture. Heirloom or vine-ripened tomatoes work wonderfully. Avoid overly watery varieties to keep the pie from becoming soggy. Salting and resting the slices before baking reduces moisture and concentrates flavor.",
+            "Pie Crust": "A flaky, tender crust is essential. Homemade crusts made with cold butter or shortening yield the best texture, but a good-quality store-bought crust works too. Blind baking the crust partially before filling prevents sogginess and ensures a crisp base.",
+            "Mayonnaise": "Mayonnaise adds moisture and richness while acting as an emulsifier in the cheese filling. Use a good-quality mayo for best flavor; it blends the cheeses smoothly and helps the filling set without being heavy or greasy.",
+            "Cheese Blend": "Using a mix of sharp cheddar, mozzarella, and Parmesan creates a complex flavor and texture. Cheddar provides sharpness, mozzarella adds gooey creaminess, and Parmesan offers a nutty finish. Freshly shredded cheese melts better than pre-shredded varieties.",
+            "Fresh Basil": "Fresh basil adds a bright, herbal note that cuts through the richness of the cheese and mayo. Use fresh leaves for the best aroma and flavor. Dried basil won’t provide the same freshness and can taste muted."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Salt the tomato slices and let them rest before baking.",
+            "reason": "Salting draws out excess moisture from tomatoes, which prevents the pie crust from becoming soggy and intensifies the tomato’s natural sweetness. This simple step is crucial for a perfectly textured pie."
+        },
+        {
+            "tip": "Blind bake the pie crust before adding the filling.",
+            "reason": "Pre-baking the crust sets it and creates a barrier to stop the juicy filling from soaking through. It ensures the crust stays flaky and crisp, a key characteristic of a great tomato pie."
+        },
+        {
+            "tip": "Use a blend of cheeses for depth of flavor.",
+            "reason": "Combining sharp cheddar, mozzarella, and Parmesan balances meltiness, tanginess, and nuttiness. This layered flavor profile makes the filling rich but not one-dimensional."
+        },
+        {
+            "tip": "Cool the pie before slicing.",
+            "reason": "Allowing the pie to rest after baking lets the filling set and firm up, making it easier to cut clean slices without the filling running out."
+        },
+        {
+            "tip": "Cover crust edges with foil if they brown too quickly.",
+            "reason": "Pie crust edges tend to brown faster than the center. Foil shields them from direct heat to prevent burning while the filling finishes baking evenly."
+        },
+        {
+            "tip": "Use fresh basil rather than dried.",
+            "reason": "Fresh basil adds vibrant flavor and aroma that dried herbs can't match, brightening the rich and creamy filling."
+        },
+        {
+            "tip": "Avoid microwaving leftovers to reheat.",
+            "reason": "Microwaving can make the crust soggy and the cheese unevenly heated. Reheating in the oven keeps the crust crisp and the filling creamy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the tomato salting step",
+            "why_it_happens": "Many cooks overlook this step thinking it’s unnecessary or too time-consuming.",
+            "fix": "Make sure to salt and rest the tomato slices for at least 10 minutes to draw out moisture. Then pat dry with paper towels before assembling to avoid a soggy crust."
+        },
+        {
+            "mistake": "Not pre-baking the crust",
+            "why_it_happens": "Sometimes people add filling directly to raw crust to save time.",
+            "fix": "Blind bake the crust for 10 minutes before filling to ensure it gets crisp and doesn’t become soggy from the juicy tomatoes."
+        },
+        {
+            "mistake": "Using watery or underripe tomatoes",
+            "why_it_happens": "Choosing tomatoes based on size or price instead of ripeness and firmness.",
+            "fix": "Select ripe, firm tomatoes with bright color. Avoid overly watery varieties like some beefsteak types to maintain the pie’s texture."
+        },
+        {
+            "mistake": "Overfilling with cheese mixture",
+            "why_it_happens": "Adding too much filling can make the pie heavy and messy.",
+            "fix": "Stick to the recommended cheese quantities to keep the pie balanced and prevent overflow."
+        },
+        {
+            "mistake": "Cutting the pie too soon after baking",
+            "why_it_happens": "Impatience or wanting to serve immediately.",
+            "fix": "Let the pie cool for at least 15 minutes so the filling sets and slices hold together neatly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Fresh Herbs and Garlic",
+            "description": "Mix minced garlic and a blend of fresh herbs like thyme, oregano, and parsley into the cheese filling for a more aromatic and savory tomato pie. The garlic adds a subtle kick, while the herbs deepen the flavor complexity.",
+            "technical_note": "Watch the garlic quantity to avoid overpowering the delicate tomato flavor; finely mince to distribute evenly."
+        },
+        {
+            "name": "Use a Whole Wheat or Gluten-Free Crust",
+            "description": "Swap the traditional pie crust for a whole wheat or gluten-free version to add nuttiness or accommodate dietary preferences. The texture will be slightly different but still delicious and flaky.",
+            "technical_note": "Blind bake carefully as gluten-free crusts can be more fragile; consider using pie weights."
+        },
+        {
+            "name": "Add Bacon or Pancetta",
+            "description": "Sprinkle cooked, crumbled bacon or pancetta over the first tomato layer before adding cheese for a smoky, savory twist. This adds crunch and a meaty flavor that pairs beautifully with the creamy filling.",
+            "technical_note": "Drain bacon well to avoid adding excess grease that could sog the crust."
+        },
+        {
+            "name": "Make it Spicy with Red Pepper Flakes",
+            "description": "Add a pinch of red pepper flakes to the cheese mixture or sprinkle on top before baking for a subtle heat that livens up the flavors. Great if you like a little kick in your savory pies.",
+            "technical_note": "Adjust the amount of flakes to taste; start small as it can become overpowering."
+        },
+        {
+            "name": "Switch Cheeses to Goat Cheese and Gruyere",
+            "description": "For a more sophisticated flavor, replace the cheddar and mozzarella with creamy goat cheese and nutty Gruyere. This combo melts well and adds a tangy, rich twist to the pie.",
+            "technical_note": "Goat cheese is softer and tangier; blend well to avoid lumps in the filling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Tomato pie can be kept safely at room temperature for up to 2 hours when covered loosely with foil or a pie dome. Beyond that, bacteria growth risk increases, so refrigerate promptly.",
+        "refrigerator": "Store leftover pie in an airtight container or wrapped tightly in plastic wrap for up to 3 days. The pie is still tasty cold but reheat gently in the oven for the best texture.",
+        "freezer": "Freeze the pie wrapped tightly in plastic wrap and foil for up to 2 months. To thaw, move to the fridge overnight and reheat in the oven to restore crispness.",
+        "reheating": "Reheat slices in a 350°F oven for 10-15 minutes until warmed through and crust crisps up. Avoid microwaving to prevent sogginess. Adding a small splash of water to the pan during reheating can keep the filling moist.",
+        "make_ahead_strategy": "You can assemble the pie a day ahead and keep it uncovered in the fridge. Bring it to room temperature before baking to ensure even cooking and avoid a cold center."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned tomatoes instead of fresh?",
+            "answer": "Canned tomatoes are too watery and soft for this pie. Fresh, ripe tomatoes provide the best texture and flavor. If you only have canned, drain them very well and pat dry, but results won’t be as good."
+        },
+        {
+            "question": "How do I prevent the crust from getting soggy?",
+            "answer": "Salting and resting the tomatoes to draw out moisture, blind baking the crust, and patting tomatoes dry are key steps. These prevent excess liquid from soaking into the crust and keep it flaky."
+        },
+        {
+            "question": "Can I make this pie vegan?",
+            "answer": "You can substitute vegan mayonnaise and use plant-based cheeses. Keep in mind texture and flavor will differ, but it can still be tasty. Use a vegan pie crust as well."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Keep leftovers refrigerated in an airtight container for up to 3 days. Reheat in the oven for best texture. Avoid storing at room temperature for long to prevent spoilage."
+        },
+        {
+            "question": "Can I freeze the pie after baking?",
+            "answer": "Yes, but freezing after baking may affect crust texture. Wrap tightly and freeze up to 2 months. Thaw in the fridge and reheat in the oven to restore crispness."
+        },
+        {
+            "question": "Is it okay to use pre-shredded cheese?",
+            "answer": "Freshly shredded cheese melts better because pre-shredded often has anti-caking agents that can affect texture. For best results, shred your own cheese."
+        },
+        {
+            "question": "Can I add other vegetables to the pie?",
+            "answer": "Sure! Sliced zucchini or roasted peppers can be layered with tomatoes for extra flavor. Just be mindful of moisture content and salt accordingly."
+        },
+        {
+            "question": "How do I know when the pie is done baking?",
+            "answer": "It’s done when the top is bubbly and golden brown, and the crust edges are crisp and browned. The filling should be set but still creamy."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this Southern tomato pie as much as I do! It’s a comforting, fresh dish that’s perfect for sharing—let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "southern tomato pie recipe",
+        "secondary_keywords": [
+            "tomato pie southern style",
+            "how to make tomato pie",
+            "best southern tomato pie recipe",
+            "easy tomato pie recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect flaky pie crust recipe",
+                "anchor": "flaky_pie_crust"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images/classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1781824580_849",
+    "slug": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate",
+    "isOnline": true,
+    "createdAt": "2026-06-19T00:36:27+01:00",
+    "updatedAt": "2026-06-19T00:36:27+01:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "classic-tomato-pie-recipe-that-feels-like-summer-on-a-plate/images"
+}
