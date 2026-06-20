@@ -31,7 +31,7 @@
         "4 cloves garlic, thinly sliced",
         "1 can (28 ounces) crushed tomatoes",
         "1 teaspoon salt",
-        "1/2 teaspoon freshly ground black pepper",
+        "1\/2 teaspoon freshly ground black pepper",
         "1 teaspoon dried oregano",
         "1 teaspoon sugar (optional)",
         "Fresh basil leaves for garnish (optional)"
@@ -96,7 +96,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Tomato Sauce Recipe Works",
-        "content": "<p>This tomato sauce recipe succeeds because of the careful layering and timing of flavors. Starting with gently sautéed garlic in olive oil infuses the base with a mellow, aromatic depth that raw garlic alone can’t achieve. The low and slow simmer allows the crushed tomatoes to break down gradually, releasing natural sugars and acids that balance each other out through gentle evaporation of excess water.</p><p>The Maillard reaction doesn’t play a big role here since we avoid browning the tomatoes, but the caramelization of the garlic in the oil adds subtle complexity. Using crushed tomatoes instead of whole or pureed helps maintain a slightly textured sauce that feels fresh yet rich. The addition of a pinch of sugar is optional but often necessary to counteract canned tomatoes' acidity, making the sauce taste rounder and less sharp.</p><p>Herbs like oregano and fresh basil add layers of flavor that complement the tomato’s natural sweetness and acidity. The timing of adding basil at the end preserves its bright, fresh aroma without overpowering the sauce. Finally, seasoning adjustments at the end ensure the sauce matches your palate, since canned tomato acidity and sweetness can vary between brands.</p><p>Overall, this recipe balances acid, sweetness, and savory garlic notes through simple techniques and well-chosen ingredients, resulting in a classic sauce that’s versatile and full of flavor.</p>",
+        "content": "<p>This tomato sauce recipe succeeds because of the careful layering and timing of flavors. Starting with gently sautéed garlic in olive oil infuses the base with a mellow, aromatic depth that raw garlic alone can’t achieve. The low and slow simmer allows the crushed tomatoes to break down gradually, releasing natural sugars and acids that balance each other out through gentle evaporation of excess water.<\/p><p>The Maillard reaction doesn’t play a big role here since we avoid browning the tomatoes, but the caramelization of the garlic in the oil adds subtle complexity. Using crushed tomatoes instead of whole or pureed helps maintain a slightly textured sauce that feels fresh yet rich. The addition of a pinch of sugar is optional but often necessary to counteract canned tomatoes' acidity, making the sauce taste rounder and less sharp.<\/p><p>Herbs like oregano and fresh basil add layers of flavor that complement the tomato’s natural sweetness and acidity. The timing of adding basil at the end preserves its bright, fresh aroma without overpowering the sauce. Finally, seasoning adjustments at the end ensure the sauce matches your palate, since canned tomato acidity and sweetness can vary between brands.<\/p><p>Overall, this recipe balances acid, sweetness, and savory garlic notes through simple techniques and well-chosen ingredients, resulting in a classic sauce that’s versatile and full of flavor.<\/p>",
         "ingredient_notes": {
             "extra virgin olive oil": "Choose a good quality extra virgin olive oil with a fruity, peppery flavor. This oil is the foundation of the sauce’s flavor and carries the garlic aroma throughout. Avoid refined oils, as they lack depth and can taste bland. Olive oil’s healthy fats also help extract flavor compounds from garlic and herbs, enriching the sauce.",
             "garlic": "Fresh garlic cloves sliced thinly are essential here. Crushing or mincing garlic releases more allicin but can cause bitterness if cooked too fast or hot. Thin slices gently infuse the oil, mellowing the flavor. Avoid pre-minced garlic or powders for this recipe—they don’t develop the same rich aroma and can taste artificial.",
@@ -258,35 +258,89 @@
     "images": [
         {
             "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_1.webp",
-            "filePath": "posts/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_1.webp",
-            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_1.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_1.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_2.webp",
-            "filePath": "posts/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_2.webp",
-            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_2.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_2.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_3.webp",
-            "filePath": "posts/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_3.webp",
-            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_3.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_3.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images\/classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1781824354_853",
     "slug": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch",
-    "isOnline": false,
-    "createdAt": "2026-06-18T23:12:34+00:00",
-    "updatedAt": "2026-06-18T23:12:34+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-20T11:06:52+01:00",
+    "updatedAt": "2026-06-20T11:06:52+01:00",
     "author_id": "author_001",
     "category_id": "cat_1761230294_638",
-    "image_dir": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch/images"
+    "image_dir": "classic-tomato-sauce-recipe-italian-simple-and-delicious-from-scratch\/images"
 }
