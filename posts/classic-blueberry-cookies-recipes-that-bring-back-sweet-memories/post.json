@@ -1,0 +1,339 @@
+{
+    "title": "Soft and Tender Blueberry Cookies Bursting with Juicy Berries",
+    "promptIMG": "Food photography: Blueberry Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These blueberry cookies are soft and tender, packed with fresh juicy berries that burst in every bite. They’re perfect for a cozy afternoon tea or a sweet snack anytime you crave something comforting.",
+    "hashtags": "#blueberrycookies #snacktime #homemadecookies",
+    "board_name": "Easy Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Irresistibly Soft Blueberry Cookies You’ll Want to Bake Again and Again",
+            "description": "Discover the secret to soft, juicy blueberry cookies that melt in your mouth. Perfect for afternoon treats or sharing with friends. Save this recipe and try it today! 🫐🍪 #blueberrycookies #bakinglove #homemade"
+        },
+        {
+            "title": "How to Make Moist and Tender Blueberry Cookies That Burst with Flavor",
+            "description": "These blueberry cookies are packed with fresh berries and have the perfect soft texture. Easy to make and delicious every time. Don’t miss out—give them a try! 🫐💙 #cookies #berrydesserts #easybaking"
+        },
+        {
+            "title": "Cozy Up with These Soft Blueberry Cookies Full of Juicy Sweetness",
+            "description": "If you love fresh berries, these blueberry cookies are your new go-to snack. Soft, tender, and bursting with flavor—perfect for tea time or anytime! Save this recipe now. 🍪☕ #blueberrylove #homemadecookies #snackideas"
+        },
+        {
+            "title": "Bite into Soft Blueberry Cookies That Are Simply Irresistible and Easy",
+            "description": "Soft, tender, and loaded with juicy blueberries, these cookies are a treat for any day. Quick and easy to bake, they’ll become a family favorite. Try them today! 🫐🍴 #blueberrycookies #easyrecipes #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 12,
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar, packed",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "2 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 1/2 cups fresh blueberries"
+    ],
+    "yield": "Approximately 12 cookies, 12 servings",
+    "introduction": "I stumbled on this blueberry cookie recipe when I was craving something sweet but fresh and light. Most cookie recipes with berries tend to get soggy or dry, but this one nails that perfect soft, tender texture every time. What makes it special is using fresh blueberries rather than frozen—they add little bursts of juicy sweetness that make each bite pop. I’ve tried a few times to get the balance right between enough flour to hold the cookies together and enough moisture so they don’t dry out. The trick I learned was to gently fold the berries in at the end, so they don’t get crushed and the dough stays light. When these come out of the oven, they’re golden at the edges but still soft in the center, with those little blue jewels dotted all over. They’re my go-to for afternoon tea or a cozy snack that feels homemade and comforting. Plus, the smell baking in the oven is just heavenly. I hope you enjoy making and eating them as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C) and lining a baking sheet with parchment paper. This ensures your cookies won’t stick and will bake evenly. Preheating is key so the cookies start cooking immediately, which helps them keep their shape and texture. Avoid skipping this step as it can cause uneven baking.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully heated and baking sheet is ready with parchment"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream together the softened butter, granulated sugar, and brown sugar using a hand mixer or stand mixer on medium speed. Creaming incorporates air, making your cookies light and tender. Beat until the mixture is pale and fluffy, about 3-4 minutes. If you rush this step, the dough can be dense and the cookies won’t have that soft texture.",
+            "timing": 4,
+            "doneness_cue": "Butter and sugars form a light, fluffy, pale yellow mixture"
+        },
+        {
+            "step": 3,
+            "instruction": "Add eggs one at a time, mixing well after each addition, then stir in the vanilla extract. The eggs add moisture and structure, while vanilla brings a warm, sweet aroma that enhances the berries. Make sure to mix thoroughly so the eggs fully incorporate, which helps the dough bind properly.",
+            "timing": 3,
+            "doneness_cue": "Smooth, glossy dough with no streaks of egg visible"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the all-purpose flour, baking soda, and salt. This step ensures the baking soda is evenly distributed, which helps the cookies rise uniformly. Skipping this can cause uneven texture or salty pockets in your cookies.",
+            "timing": 2,
+            "doneness_cue": "Dry ingredients are fully combined and lump-free"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, mixing on low speed just until combined. Overmixing can develop gluten, leading to tougher cookies, so stop as soon as you see no more flour. The dough should be thick but soft.",
+            "timing": 3,
+            "doneness_cue": "Dough is uniform in color and texture, no flour streaks"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the fresh blueberries with a spatula, taking care not to crush them. This preserves their shape and prevents the dough from turning blue or too wet. Folding rather than mixing vigorously keeps the dough light and the berries intact.",
+            "timing": 2,
+            "doneness_cue": "Blueberries are evenly distributed without breaking apart"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop rounded tablespoons of dough onto the prepared baking sheet, spacing them about 2 inches apart to allow spreading. Using a cookie scoop helps keep sizes even, which ensures consistent baking. If cookies are too close, they’ll merge and lose their shape.",
+            "timing": 5,
+            "doneness_cue": "Evenly spaced mounds of dough on the sheet, uniform size"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 12-15 minutes until the edges are golden and the centers look set but still soft. The baking time may vary slightly depending on your oven, so start checking at 12 minutes. Overbaking will dry out the cookies, so watch carefully.",
+            "timing": 15,
+            "doneness_cue": "Edges are lightly golden, centers no longer shiny or wet"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the cookies from the oven and let them cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting time lets them firm up without breaking. Moving them too soon can cause them to fall apart, while waiting too long can make them stick.",
+            "timing": 5,
+            "doneness_cue": "Cookies are firm enough to lift without breaking but still soft"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Blueberry Cookies Turn Out Soft, Tender, and Flavorful Every Time",
+        "content": "<p>The success of these blueberry cookies hinges on a few key factors that balance moisture, texture, and flavor beautifully. First, creaming the butter and sugars properly incorporates air, which creates a tender crumb and slight lift. This process also helps dissolve the sugar, which contributes to a soft texture rather than a grainy bite.</p><p>Second, the fresh blueberries provide natural moisture and bursts of sweetness, but folding them gently into the dough prevents them from breaking and turning the dough soggy or blue-tinted. The berries’ juices release gradually during baking, keeping the cookies moist without weighing them down.</p><p>Third, using baking soda as the leavening agent reacts with the acidic components in the brown sugar and blueberries, producing carbon dioxide that helps the cookies rise and spread just right. This reaction also encourages browning through the Maillard reaction, giving the edges a lovely golden color and slightly crisp texture while the centers remain soft.</p><p>Finally, the balance of flour and fats is crucial. Too much flour and the cookies become dry and cakey; too little and they spread excessively and become greasy. This recipe strikes that perfect harmony, resulting in cookies that hold their shape but melt in your mouth, with a fresh fruity zing in every bite.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter that is fresh and not overly soft. Butter provides richness and moisture, and its fat content affects cookie texture. Using unsalted allows you to control salt precisely. For best results, soften butter at room temperature but avoid melting it, which can cause greasy dough.",
+            "fresh blueberries": "Use ripe, fresh blueberries rather than frozen to avoid excess moisture that can make the dough soggy. Fresh berries burst with natural sweetness and add a juicy pop to each cookie. Gently wash and dry them thoroughly before folding into dough to prevent excess water from affecting texture.",
+            "all-purpose flour": "All-purpose flour strikes a balance between protein content and tenderness, creating the right dough structure. Avoid using cake or bread flour as they alter texture. Sift or whisk flour to remove lumps and ensure even distribution of leavening agents.",
+            "baking soda": "Baking soda acts as a leavening agent reacting with acidic ingredients like brown sugar and blueberries. It helps cookies rise and develop a golden crust. Measure accurately as too much can cause a soapy taste, too little results in dense cookies.",
+            "brown sugar": "Brown sugar adds moisture and a subtle caramel flavor thanks to its molasses content. It interacts with baking soda to promote leavening and browning. Using packed brown sugar ensures consistent sweetness and texture in the dough."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always soften butter to room temperature before creaming.",
+            "reason": "Softened butter blends more easily with sugar, trapping air that helps create a light, tender cookie. If butter is too cold, it won’t incorporate well; if melted, it can make the dough greasy and flat."
+        },
+        {
+            "tip": "Fold in blueberries gently at the end.",
+            "reason": "Blueberries are delicate and release juice quickly. Folding gently keeps them intact, preventing the dough from turning blue or soggy, and helps maintain those juicy bursts in the finished cookie."
+        },
+        {
+            "tip": "Use parchment paper for baking.",
+            "reason": "Parchment prevents sticking and promotes even baking by insulating the cookies. It’s also easier to clean up and helps cookies slide off the pan without breaking."
+        },
+        {
+            "tip": "Don’t overmix after adding flour.",
+            "reason": "Overmixing develops gluten, which can make cookies tough and chewy instead of soft. Mix just until the flour disappears for the perfect tender crumb."
+        },
+        {
+            "tip": "Check cookies a minute or two before baking time ends.",
+            "reason": "Ovens vary, so checking early helps avoid overbaking, which dries out cookies. Look for golden edges and set centers to know they’re ready."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform size.",
+            "reason": "Even-sized cookies bake evenly and look professional. Uneven sizes can cause some to burn while others remain underbaked."
+        },
+        {
+            "tip": "Cool cookies on the baking sheet before transferring.",
+            "reason": "Letting cookies rest allows them to firm up, reducing the chance of breaking or sticking when moved to a cooling rack."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using frozen blueberries instead of fresh",
+            "why_it_happens": "Many assume frozen berries are just as good and convenient, but they release extra moisture when thawed, making the dough soggy.",
+            "fix": "Always use fresh blueberries and make sure they’re dry before folding in. If you must use frozen, toss them in a little flour first and add them frozen to minimize juice release."
+        },
+        {
+            "mistake": "Overmixing the dough after adding flour",
+            "why_it_happens": "In a rush to combine ingredients, it’s easy to keep mixing, but this develops gluten, making cookies tough.",
+            "fix": "Mix just until no flour streaks remain. Use a spatula for the last fold if needed to be gentle."
+        },
+        {
+            "mistake": "Skipping the creaming step or not creaming long enough",
+            "why_it_happens": "Some think mixing butter and sugar quickly is enough, but proper creaming incorporates air for light texture.",
+            "fix": "Beat butter and sugars until pale and fluffy, about 3-4 minutes, to trap air and dissolve sugar."
+        },
+        {
+            "mistake": "Baking at incorrect oven temperature",
+            "why_it_happens": "Ovens can run hot or cold, and not preheating causes uneven baking.",
+            "fix": "Use an oven thermometer to check your oven’s accuracy and always preheat fully before baking."
+        },
+        {
+            "mistake": "Adding blueberries too early in the mixing process",
+            "why_it_happens": "Mixing them in too soon causes them to break down and color the dough blue.",
+            "fix": "Fold berries in gently at the very end to keep their shape and color."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Zest Blueberry Cookies",
+            "description": "Add 1 tablespoon of fresh lemon zest to the dough for a bright citrus twist that complements the blueberries beautifully. The lemon adds a fresh zing and enhances the berries’ sweetness.",
+            "technical_note": "Add zest with vanilla extract in step 3 for even flavor distribution."
+        },
+        {
+            "name": "Oatmeal Blueberry Cookies",
+            "description": "Replace 1 cup of flour with rolled oats for a heartier texture and nutty flavor. These cookies have a lovely chewiness and more rustic look, great for breakfast or snacks.",
+            "technical_note": "Mix oats with dry ingredients to ensure even blending."
+        },
+        {
+            "name": "White Chocolate Blueberry Cookies",
+            "description": "Fold in 1/2 cup chopped white chocolate or white chocolate chips along with the blueberries for a sweet, creamy contrast that pairs perfectly with the tart berries.",
+            "technical_note": "Add chocolate chips with blueberries at the end to avoid melting during mixing."
+        },
+        {
+            "name": "Gluten-Free Blueberry Cookies",
+            "description": "Swap all-purpose flour with a 1:1 gluten-free baking blend. These cookies maintain their tender texture and juicy blueberry bursts but are safe for gluten-sensitive eaters.",
+            "technical_note": "Ensure your gluten-free flour blend contains xanthan gum or add 1/2 tsp for structure."
+        },
+        {
+            "name": "Vegan Blueberry Cookies",
+            "description": "Use coconut oil instead of butter, and substitute eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg). These cookies are just as soft and flavorful, perfect for plant-based diets.",
+            "technical_note": "Chill dough for 30 minutes before baking to help coconut oil solidify and prevent spreading."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "8g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cookies keep well at room temperature for 2 days when stored in an airtight container. Make sure they’re completely cooled before storing to avoid condensation, which can make them soggy.",
+        "refrigerator": "Store cookies in an airtight container for up to 5 days. Refrigeration may firm them up and slightly change texture, so let them come to room temperature or warm briefly before serving for best softness.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Wrap tightly to prevent freezer burn. Thaw at room temperature before eating.",
+        "reheating": "Warm cookies gently in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel to restore softness. Avoid overheating which can dry them out.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead, wrap it tightly, and refrigerate. This resting helps flavors develop. Scoop and bake fresh when ready, adding 1-2 minutes to baking time if going straight from fridge."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries for these cookies?",
+            "answer": "Frozen blueberries can be used but they release extra moisture that can make the dough soggy and blue. If you do use them, don’t thaw first. Instead, toss the frozen berries in a little flour before folding in to absorb some juice and reduce spreading."
+        },
+        {
+            "question": "How do I keep the cookies soft and not dry?",
+            "answer": "Proper creaming of butter and sugars and not overbaking are key. Remove cookies when edges are golden but centers still look slightly soft. Also, avoid overmixing flour to keep texture tender."
+        },
+        {
+            "question": "Why do my cookies spread too much?",
+            "answer": "This often happens if the dough is too warm or if too little flour is used. Chill your dough for 15-30 minutes before baking and measure flour accurately. Also, make sure your baking soda is fresh to provide proper leavening."
+        },
+        {
+            "question": "Can I substitute the butter with oil?",
+            "answer": "Butter provides flavor and structure that oil can’t fully replicate. Using oil may result in flatter, greasier cookies. If substituting, use solid coconut oil and chill dough well to help maintain shape."
+        },
+        {
+            "question": "How do I store these cookies to keep them fresh?",
+            "answer": "Store completely cooled cookies in an airtight container at room temperature for up to 2 days. For longer storage, refrigerate or freeze as described. Avoid stacking warm cookies to prevent sogginess."
+        },
+        {
+            "question": "Can I make these cookies vegan?",
+            "answer": "Yes! Substitute butter with coconut oil and eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg). Chill the dough before baking to help maintain texture."
+        },
+        {
+            "question": "What if I don’t have baking soda?",
+            "answer": "Baking soda is essential here for browning and rise. Baking powder won’t give the same texture or color. If you must substitute, use 3 times the amount of baking powder, but expect a different texture and less browning."
+        },
+        {
+            "question": "Can I add other mix-ins?",
+            "answer": "Absolutely! White chocolate chips, nuts, or lemon zest work wonderfully. Just fold them in gently with the blueberries to avoid breaking the berries."
+        }
+    ],
+    "conclusion": "Give these blueberry cookies a try—you’ll love how soft and bursting with flavor they are. Don’t forget to share your baking wins with me!",
+    "seo": {
+        "primary_keyword": "soft blueberry cookies recipe",
+        "secondary_keywords": [
+            "easy blueberry cookies",
+            "how to make blueberry cookies",
+            "best blueberry cookie recipe",
+            "homemade blueberry cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookie recipe",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_1.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_2.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_3.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images/classic-blueberry-cookies-recipes-that-bring-back-sweet-memories_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782295846_659",
+    "slug": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories",
+    "isOnline": false,
+    "createdAt": "2026-06-24T10:10:46+00:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-24T11:19:52+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "classic-blueberry-cookies-recipes-that-bring-back-sweet-memories/images",
+    "has_reel": true
+}

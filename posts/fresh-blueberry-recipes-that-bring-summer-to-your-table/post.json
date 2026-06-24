@@ -1,0 +1,342 @@
+{
+    "title": "Summer's Best Fresh Blueberry Muffins With a Juicy Burst in Every Bite",
+    "promptIMG": "Food photography: Fresh Blueberry Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These blueberry muffins are my go-to summer treat—soft, fluffy, and bursting with fresh berries. The secret? A quick toss of blueberries in flour before mixing to keep them from sinking. Perfect for breakfast or a sweet snack anytime!",
+    "hashtags": "#blueberrymuffins #summerbaking #freshfruit",
+    "board_name": "Easy Summer Baking",
+    "pin_variations": [
+        {
+            "title": "Fluffy Blueberry Muffins That Will Brighten Your Morning",
+            "description": "Start your day right with these fluffy blueberry muffins filled with juicy bursts of fresh berries. Save this recipe and whip them up in no time! 🫐🥧 #BlueberryMuffins #BreakfastTreat #EasyBaking"
+        },
+        {
+            "title": "How to Make Perfect Blueberry Muffins Every Time",
+            "description": "Discover the simple trick to prevent blueberries from sinking and get moist, tender muffins every time. Try it today and impress your family! 🍽️💙 #BakingTips #FreshBlueberries #MuffinRecipe"
+        },
+        {
+            "title": "The Best Fresh Blueberry Muffins You’ll Ever Taste",
+            "description": "These muffins are packed with fresh blueberries and have a tender crumb that melts in your mouth. Perfect for brunch or a light dessert. Don’t forget to save this recipe! 🫐✨ #SummerBaking #FruitDesserts #BlueberryLove"
+        },
+        {
+            "title": "Quick & Easy Blueberry Muffins for Busy Mornings",
+            "description": "Whip up these quick blueberry muffins with minimal fuss. Juicy berries and a soft crumb make them a family favorite. Give it a go and share your results! 🥄🫐 #EasyRecipes #BlueberryMuffins #QuickBreakfast"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 12,
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup buttermilk, room temperature",
+        "1/3 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon pure vanilla extract",
+        "1 1/2 cups fresh blueberries"
+    ],
+    "yield": "Approximately 12 muffins",
+    "introduction": "I first baked blueberry muffins as a kid with my grandma, and they quickly became a family favorite. Over the years, I’ve tweaked the recipe to get that perfect balance of fluffy crumb and juicy bursts of berry in every bite. My secret? Tossing the blueberries in a bit of flour before folding them into the batter. It keeps the berries suspended throughout the muffins instead of sinking to the bottom, which I always found disappointing in other recipes. Plus, I use buttermilk for a tender crumb with a slight tang that complements the sweetness of the berries beautifully. These muffins are perfect for a lazy weekend breakfast or an afternoon snack with tea. They bake up golden brown with a slightly crisp top and a soft, moist inside that’s studded with fresh blueberries. Honestly, they’re one of those recipes I keep coming back to, especially in summer when blueberries are at their peak. I love how they’re simple enough to whip up quickly but still feel like a special treat. Give them a try, and I hope they become a favorite in your kitchen too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C) and line a 12-cup muffin tin with paper liners or lightly grease it. This step ensures even baking and prevents sticking. Setting the oven temperature properly is key to achieving that golden crust without overbaking the inside.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully heated and muffin tin is ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, granulated sugar, brown sugar, baking powder, baking soda, and salt until evenly combined. This dry mix forms the base of your muffins and helps distribute the leavening agents uniformly, which is essential for a good rise.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well blended with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk the buttermilk, vegetable oil, eggs, and vanilla extract until smooth and combined. Using room temperature ingredients helps the batter come together smoothly, preventing curdling or lumps.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wet ingredients are fully mixed with no streaks"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly pour the wet ingredients into the dry ingredients and gently fold them together with a spatula until just combined. Avoid overmixing here; it’s okay if a few lumps remain. Overmixing develops gluten and will make muffins tough instead of tender.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined but still slightly lumpy"
+        },
+        {
+            "step": 5,
+            "instruction": "Toss the fresh blueberries in a small bowl with about 1 tablespoon of flour from your measured amount. This creates a light coating that prevents the berries from sinking to the bottom during baking, keeping them evenly distributed in every bite.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly coated with flour"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold the floured blueberries into the batter, being careful not to crush them. Folding gently preserves the berry shape and prevents the batter from turning purple or watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly mixed without breaking"
+        },
+        {
+            "step": 7,
+            "instruction": "Divide the batter evenly among the muffin cups, filling each about 3/4 full. This ensures the muffins rise nicely without spilling over and creates a nice domed top.",
+            "timing": "5 minutes",
+            "doneness_cue": "Muffin cups are evenly filled with batter"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the muffins in the preheated oven for 22 to 25 minutes. Check doneness by inserting a toothpick into the center; it should come out clean or with just a few moist crumbs. Avoid opening the oven too early to prevent collapsing.",
+            "timing": "22-25 minutes",
+            "doneness_cue": "Golden tops and toothpick test passed"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the muffins cool in the pan for 5 minutes before transferring them to a wire rack to cool completely. Cooling slightly helps them set without becoming soggy, and the wire rack prevents condensation buildup underneath.",
+            "timing": "10 minutes",
+            "doneness_cue": "Muffins are cool enough to handle and not steaming"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Blueberry Muffin Recipe Works So Well",
+        "content": "<p>These blueberry muffins owe their success to a few key techniques that balance texture and flavor perfectly. First, the use of buttermilk adds acidity which reacts with the baking soda, creating bubbles that help the muffins rise light and fluffy. This tangy element also tenderizes the crumb, preventing dryness common in quick breads.</p><p>Coating the blueberries in flour before folding them in is a small but crucial step. Fresh berries contain moisture that can make batter runny if they sink and burst early during baking. The flour coating absorbs some of this moisture and helps suspend the berries evenly throughout the muffins, ensuring every bite has a juicy pop.</p><p>Mixing the batter just until combined protects the delicate texture. Overmixing develops gluten strands in the flour, which can make muffins tough and chewy instead of tender and soft. By folding gently, we keep the batter light and airy, which contributes to the soft crumb and nicely domed tops.</p><p>Finally, baking at 375°F creates a golden crust that contrasts with the moist interior. The heat is high enough to trigger the Maillard reaction on the muffin surface, adding flavor and that appealing golden color, while baking long enough to cook through without drying out.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for fresh, unbleached all-purpose flour with moderate protein content. This flour provides enough structure for the muffins without making them dense. Avoid self-rising flour since we use specific leavening agents. Store flour in a cool, dry place to prevent off-flavors.",
+            "buttermilk": "Buttermilk adds acidity that reacts with baking soda to create lift and tenderizes the crumb for softness. Use full-fat buttermilk at room temperature for best emulsification and flavor. If unavailable, mix milk with lemon juice and let sit 10 minutes as a substitute.",
+            "fresh blueberries": "Choose plump, firm blueberries without wrinkles or mold. Fresh berries hold up better during baking and provide that juicy burst. Frozen berries can be used but toss them in flour while still frozen and expect slightly more moisture in the batter.",
+            "baking powder and baking soda": "Baking powder provides general leavening, while baking soda reacts with acidic buttermilk for additional rise. Using both creates a balanced lift and tender texture. Make sure your leavening agents are fresh for best results.",
+            "vegetable oil": "Neutral vegetable oil keeps muffins moist and tender without adding extra flavor. It emulsifies well with wet ingredients and prevents dryness. Avoid butter here unless you want a different texture and flavor, but oil is best for moistness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs and buttermilk for smooth batter.",
+            "reason": "Cold ingredients can cause the batter to seize or curdle, leading to uneven texture. Room temperature ingredients emulsify better, resulting in a uniform, tender crumb."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten, making muffins tough and dense instead of soft and fluffy. Gently folding until just combined keeps the crumb tender."
+        },
+        {
+            "tip": "Lightly coat blueberries in flour before folding them in.",
+            "reason": "This prevents the berries from sinking to the bottom and bursting early, which can make the batter watery and uneven."
+        },
+        {
+            "tip": "Fill muffin cups about three-quarters full to avoid overflow.",
+            "reason": "Overfilling causes muffins to spill and bake unevenly, while underfilling yields flat muffins without a nice dome."
+        },
+        {
+            "tip": "Bake muffins in the center rack for even heat distribution.",
+            "reason": "Positioning ensures muffins cook evenly without burning on the bottom or browning too fast on top."
+        },
+        {
+            "tip": "Cool muffins in the pan for 5 minutes before removing.",
+            "reason": "This rest time helps muffins firm up so they don’t fall apart when handled, but cooling on a rack prevents sogginess."
+        },
+        {
+            "tip": "Use fresh baking powder and soda for best rise.",
+            "reason": "Old leavening agents lose potency, resulting in flat, dense muffins. Test freshness by adding a little to vinegar or hot water to see if it bubbles."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many home cooks think mixing longer ensures better ingredient incorporation, but this develops gluten and toughens muffins.",
+            "fix": "Mix just until dry ingredients are moistened and lumps remain. Use a gentle folding motion and stop as soon as combined."
+        },
+        {
+            "mistake": "Skipping the flour toss on blueberries",
+            "why_it_happens": "It’s an easy step to overlook, especially if you’re in a hurry or haven’t tried it before.",
+            "fix": "Always toss berries in a tablespoon of flour before adding to batter to keep them suspended and prevent soggy bottoms."
+        },
+        {
+            "mistake": "Baking at incorrect temperature",
+            "why_it_happens": "Oven temperatures vary and home cooks often guess or set wrong temps.",
+            "fix": "Use an oven thermometer to ensure 375°F. Too low results in dense muffins; too high burns outsides before inside cooks."
+        },
+        {
+            "mistake": "Using frozen blueberries without adjustment",
+            "why_it_happens": "Frozen berries release more moisture, making batter watery and muffins soggy.",
+            "fix": "Toss frozen berries in flour while still frozen and reduce any added liquid slightly to compensate."
+        },
+        {
+            "mistake": "Not using fresh leavening agents",
+            "why_it_happens": "Leavening agents lose potency over time and home cooks forget to replace them.",
+            "fix": "Test freshness yearly and replace baking powder/soda if no bubbles form when tested in vinegar or hot water."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Blueberry Muffins",
+            "description": "Add 1 tablespoon lemon zest to the batter and a teaspoon of lemon juice to brighten the flavor. The citrus complements the berries and adds freshness. Expect a slightly tangier and more fragrant muffin.",
+            "technical_note": "Add zest with wet ingredients and juice with buttermilk to maintain balance."
+        },
+        {
+            "name": "Blueberry Oat Muffins",
+            "description": "Replace 1/2 cup of flour with rolled oats for a heartier texture and nutty flavor. These muffins feel more rustic and filling, great for breakfast on the go.",
+            "technical_note": "Use old-fashioned oats, not instant, to maintain texture."
+        },
+        {
+            "name": "Gluten-Free Blueberry Muffins",
+            "description": "Use a gluten-free all-purpose flour blend with xanthan gum instead of regular flour. The texture will be slightly denser but still moist and delicious.",
+            "technical_note": "Ensure blend contains leavening; if not, adjust baking powder accordingly."
+        },
+        {
+            "name": "Vegan Blueberry Muffins",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flax + 3 tbsp water per egg) and use plant-based milk with a splash of vinegar instead of buttermilk. Use coconut oil or vegetable oil.",
+            "technical_note": "Mix flax eggs and let sit 5 minutes before adding to wet ingredients."
+        },
+        {
+            "name": "Blueberry Streusel Muffins",
+            "description": "Top muffins with a crumbly streusel made from butter, flour, sugar, and cinnamon before baking for added crunch and sweetness. It’s a classic twist that adds texture contrast.",
+            "technical_note": "Apply streusel topping evenly and bake immediately to prevent sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "7g",
+        "fiber_grams": "2g",
+        "sodium_mg": "190mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight and heat to maintain moisture and prevent drying out.",
+        "refrigerator": "You can refrigerate muffins in an airtight container for up to 5 days. They may lose some softness but reheat well in the microwave for a few seconds to restore moisture.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer bag for up to 3 months. Thaw at room temperature or warm gently in the oven to refresh texture.",
+        "reheating": "Reheat muffins in a 350°F oven for 5-7 minutes or microwave for 15-20 seconds with a damp paper towel to keep them moist. Avoid overheating which dries them out.",
+        "make_ahead_strategy": "You can prepare the batter up to 1 day ahead and refrigerate it covered. Stir gently before scooping into muffin tins and baking. This helps save time on busy mornings."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, you can use frozen blueberries but toss them in flour while still frozen to prevent sinking and bleeding color. The muffins may be slightly moister, so consider reducing other liquids slightly."
+        },
+        {
+            "question": "What can I substitute for buttermilk if I don’t have any?",
+            "answer": "Mix 1 cup of milk with 1 tablespoon of lemon juice or white vinegar and let it sit for 10 minutes. This homemade buttermilk substitute adds the acidity needed for tender muffins and proper rise."
+        },
+        {
+            "question": "Why did my muffins turn out dense and heavy?",
+            "answer": "Dense muffins often result from overmixing batter or expired leavening agents. Mix just until combined and ensure baking powder/soda are fresh for best rise and light texture."
+        },
+        {
+            "question": "How do I prevent blueberries from sinking to the bottom?",
+            "answer": "Coat the blueberries in a tablespoon of flour before folding them into the batter. This absorbs excess moisture and helps suspend the berries evenly throughout."
+        },
+        {
+            "question": "Can I make these muffins vegan?",
+            "answer": "Yes! Replace eggs with flax eggs and use plant-based milk with vinegar instead of buttermilk. Use vegetable or coconut oil in place of butter for moist, vegan-friendly muffins."
+        },
+        {
+            "question": "Is it okay to use whole wheat flour instead of all-purpose?",
+            "answer": "You can substitute whole wheat flour but expect a denser, nuttier muffin. Consider using half whole wheat and half all-purpose for lighter texture and retain moisture."
+        },
+        {
+            "question": "Why are my muffins dry after baking?",
+            "answer": "Dry muffins usually mean they were overbaked or the batter was overmixed. Keep an eye on the baking time and mix gently to keep the crumb tender and moist."
+        },
+        {
+            "question": "Can I freeze these muffins?",
+            "answer": "Absolutely! Wrap muffins individually in plastic wrap and place in a freezer bag for up to 3 months. Thaw at room temperature or warm in the oven for a fresh taste."
+        }
+    ],
+    "conclusion": "I hope you enjoy these blueberry muffins as much as my family does. Give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "fresh blueberry muffins",
+        "secondary_keywords": [
+            "blueberry muffin recipe",
+            "easy blueberry muffins",
+            "how to make blueberry muffins",
+            "best blueberry muffins recipe",
+            "summer blueberry baking"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Make Perfect Muffins",
+                "anchor": "perfect-muffins-guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_9.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_4.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_5.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_8.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_6.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_7.webp",
+            "relativePath": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-blueberry-recipes-that-bring-summer-to-your-table/images/fresh-blueberry-recipes-that-bring-summer-to-your-table_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782296173_140",
+    "slug": "fresh-blueberry-recipes-that-bring-summer-to-your-table",
+    "isOnline": false,
+    "createdAt": "2026-06-24T10:16:13+00:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-24T11:18:48+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "fresh-blueberry-recipes-that-bring-summer-to-your-table/images",
+    "has_reel": true
+}
