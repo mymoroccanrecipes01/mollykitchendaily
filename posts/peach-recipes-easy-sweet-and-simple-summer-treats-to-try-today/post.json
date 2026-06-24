@@ -332,10 +332,11 @@
     ],
     "id": "post_1782295711_828",
     "slug": "peach-recipes-easy-sweet-and-simple-summer-treats-to-try-today",
-    "isOnline": false,
-    "createdAt": "2026-06-24T10:08:31+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-24T11:26:40+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-24T11:19:01+01:00",
+    "updatedAt": "2026-06-24T11:26:40+01:00",
     "category_id": "cat_1761230221_583",
-    "image_dir": "peach-recipes-easy-sweet-and-simple-summer-treats-to-try-today/images"
+    "image_dir": "peach-recipes-easy-sweet-and-simple-summer-treats-to-try-today/images",
+    "has_reel": true
 }
