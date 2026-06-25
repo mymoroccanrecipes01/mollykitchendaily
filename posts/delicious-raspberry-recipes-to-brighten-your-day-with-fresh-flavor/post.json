@@ -1,0 +1,338 @@
+{
+    "title": "Fresh Raspberry Pancakes with a Sweet-Tart Burst of Flavor",
+    "promptIMG": "Food photography: Fresh Raspberry Pancakes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These fluffy pancakes studded with fresh raspberries are my go-to weekend treat. The berries add a bright, tangy pop that pairs perfectly with maple syrup. Great for lazy mornings or anytime you want a cheerful breakfast!",
+    "hashtags": "#raspberrypancakes #breakfastideas #freshberries",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Fluffy Raspberry Pancakes You’ll Want Every Morning!",
+            "description": "Wake up to these fluffy pancakes bursting with fresh raspberries 🍓. Sweet, tart, and super simple to make. Save this recipe and treat yourself soon! #pancakes #breakfastlover #freshfruit #easyrecipes"
+        },
+        {
+            "title": "How to Make Perfect Raspberry Pancakes That Impress Every Time",
+            "description": "Learn my favorite tips for pancakes loaded with juicy raspberries. They’re soft, flavorful, and perfect for weekend brunch 🥞. Try it today and see the difference! #brunchideas #raspberryrecipes #homemadepancakes"
+        },
+        {
+            "title": "Quick Raspberry Pancakes for a Bright and Tasty Breakfast",
+            "description": "Short on time? These quick raspberry pancakes come together fast and taste amazing! Perfect for busy mornings or a sweet snack 🍴. Discover now and enjoy! #quickbreakfast #berrypancakes #easymeals"
+        },
+        {
+            "title": "Sweet and Tangy Raspberry Pancakes to Brighten Your Day",
+            "description": "Brighten your breakfast with pancakes loaded with fresh raspberries. The natural tartness balances the sweetness perfectly 🍓✨. Save this recipe and make your mornings special! #freshberries #breakfastrecipes #pancaketime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon granulated sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tablespoons unsalted butter, melted",
+        "1 cup fresh raspberries"
+    ],
+    "yield": "Approximately 12 pancakes, 4 servings",
+    "introduction": "I first made these raspberry pancakes on a chilly weekend morning when I wanted something comforting but fresh. The burst of tangy berries in each bite instantly lifted my spirits! What sets this recipe apart is how I gently fold the raspberries into the batter just before cooking, so they don’t get crushed and keep their bright flavor and pretty shape. Also, I use melted butter in the batter for a richer taste and a tender crumb. I’ve tried other recipes that mix berries in too early or stir too vigorously, and the pancakes turn soggy or dull in flavor. But these come out fluffy, lightly golden, and studded with juicy raspberries that pop with every bite. It’s a simple way to turn ordinary pancakes into something special — perfect for a weekend breakfast or brunch with friends. Plus, they’re easy enough to whip up even on a busy morning if you’re craving a little indulgence. You’ll love how the natural sweetness and tang of the fresh raspberries balance the buttery pancakes. It’s like a little celebration on your plate!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large bowl, whisk together the flour, baking powder, salt, and sugar. This dry mix is the base and helps ensure your pancakes rise nicely and have a light texture. Make sure to sift or stir well to evenly distribute the baking powder, which is crucial for fluffiness. Avoid overmixing later to keep the batter tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly combined with no clumps or uneven pockets of baking powder"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, beat the egg with milk and melted butter until smooth. The melted butter adds richness and moisture, while the egg binds everything together. Mixing these wet ingredients separately helps you control the batter texture and prevents overmixing when combined with dry ingredients.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wet ingredients are fully combined with a smooth, slightly frothy texture"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently stir with a spatula until just combined. The batter should be lumpy but without large pockets of flour. Overmixing develops gluten, making pancakes tough instead of soft and fluffy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter looks slightly lumpy and thick but homogenous with no dry flour"
+        },
+        {
+            "step": 4,
+            "instruction": "Carefully fold in the fresh raspberries using a spatula. This step requires a gentle touch to avoid breaking the berries and turning the batter pink. The goal is to distribute the berries evenly while keeping them mostly intact for bursts of flavor in the cooked pancakes.",
+            "timing": "2 minutes",
+            "doneness_cue": "Raspberries are evenly distributed without crushing or bleeding too much juice"
+        },
+        {
+            "step": 5,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat and lightly grease with butter or oil. The pan should be hot enough that a drop of batter sizzles immediately on contact, but not so hot that the pancakes burn before cooking through.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is evenly heated with a slight shimmer of oil but no smoking"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon 1/4 cup of batter onto the skillet for each pancake. Don’t overcrowd the pan to allow space for flipping. Cook until bubbles form on the surface and the edges look set, about 2-3 minutes. This signals the bottom is golden and the inside is cooking through.",
+            "timing": "3 minutes per batch",
+            "doneness_cue": "Bubbles appear and pop on the surface; edges look dry and slightly firm"
+        },
+        {
+            "step": 7,
+            "instruction": "Flip the pancakes carefully with a spatula and cook the other side for 1-2 minutes until golden brown. Avoid pressing down on the pancakes to keep them fluffy. The second side cooks faster, so watch closely to prevent burning.",
+            "timing": "2 minutes per batch",
+            "doneness_cue": "Second side is golden and the pancake springs back lightly when touched"
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer cooked pancakes to a warm plate and cover loosely with foil to keep warm while cooking the rest. This helps maintain moisture and temperature without steaming them soggy.",
+            "timing": "1 minute",
+            "doneness_cue": "Pancakes stay warm and soft without condensation forming under foil"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve pancakes immediately with maple syrup, a pat of butter, or extra fresh raspberries. The contrast of warm, fluffy pancakes and cool berries is delightful. Enjoy right away for best texture and flavor.",
+            "timing": "Immediate",
+            "doneness_cue": "Pancakes are warm, soft, and bursting with fresh raspberry flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Delivers Fluffy Raspberry Pancakes Every Time",
+        "content": "<p>The magic behind these raspberry pancakes lies in balancing moisture, texture, and timing. The baking powder creates carbon dioxide bubbles that expand during cooking, giving the pancakes their characteristic fluffiness. It’s essential to mix the dry ingredients well so the leavening agent is evenly distributed, avoiding uneven rising or dense spots.</p><p>Using melted butter in the wet ingredients adds fat that tenderizes the batter, preventing toughness. The egg acts as a binder and adds structure, while the milk hydrates the flour and activates the baking powder. Stirring the batter just until combined keeps gluten development minimal, ensuring a soft crumb rather than a chewy one.</p><p>Folding in fresh raspberries at the end preserves their shape and vibrant flavor. If you stir them in too early or roughly, the berries break down and release juice that can make the batter watery and the pancakes dense. Cooking at medium heat allows the pancakes to brown slowly and cook through without burning the exterior or leaving the center raw.</p><p>Covering the cooked pancakes loosely keeps them warm and moist without trapping steam, which could make them soggy. This method ensures you serve warm pancakes with a light texture and bright bursts of raspberry in every bite.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-12%) to achieve the ideal balance between structure and tenderness. Too much protein can make pancakes dense, while too little may cause them to fall apart. Sifting the flour before mixing helps prevent lumps and ensures even distribution of leavening.",
+            "baking powder": "Use fresh, double-acting baking powder for reliable leavening. It reacts once when mixed with wet ingredients and again when exposed to heat, giving pancakes their fluffy rise. Old or expired baking powder loses potency, resulting in flat, dense pancakes.",
+            "fresh raspberries": "Pick ripe, firm raspberries that are bright red and free of mold or mushy spots. Freshness is key for flavor and texture. Gently fold them into the batter last to prevent breaking and bleeding juice, which can affect batter consistency and color.",
+            "unsalted butter": "Melted unsalted butter enriches the batter with fat, improving moisture and flavor without adding extra salt. Using salted butter can throw off the recipe’s seasoning balance. Melt the butter and cool it slightly before mixing to avoid cooking the egg prematurely.",
+            "milk": "Whole milk adds richness and helps activate the baking powder through its acidity and moisture content. You can substitute with buttermilk for a tangier flavor and even fluffier texture due to its acidity enhancing leavening, but adjust baking powder accordingly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature ingredients for smoother batter.",
+            "reason": "Room temperature eggs and milk blend more evenly with dry ingredients, creating a uniform batter that cooks consistently. Cold ingredients can cause lumps or uneven cooking, leading to dense pancakes."
+        },
+        {
+            "tip": "Don’t overmix the batter to keep pancakes tender.",
+            "reason": "Overmixing develops gluten in the flour, making pancakes tough and chewy. Stir just until the dry ingredients are moistened, with a few lumps remaining for the best texture."
+        },
+        {
+            "tip": "Cook pancakes on medium heat to avoid burning.",
+            "reason": "Too high heat browns the outside too fast while leaving the center raw. Medium heat allows pancakes to cook evenly, achieving a golden crust and fluffy interior."
+        },
+        {
+            "tip": "Fold raspberries in gently at the end to keep them intact.",
+            "reason": "Raspberries are delicate and release juice easily. Folding them in last prevents the batter from becoming watery and preserves the fresh berry bursts in the cooked pancakes."
+        },
+        {
+            "tip": "Use a non-stick skillet or well-seasoned griddle for easy flipping.",
+            "reason": "A non-stick surface prevents sticking and tearing, helping you flip pancakes neatly and maintain their fluffy shape."
+        },
+        {
+            "tip": "Keep cooked pancakes warm by covering loosely with foil.",
+            "reason": "Covering traps heat without creating condensation, which keeps pancakes moist and warm until serving without sogginess."
+        },
+        {
+            "tip": "Serve immediately for best texture and flavor.",
+            "reason": "Pancakes begin to lose fluffiness and fresh flavor as they cool. Serving them right away ensures the perfect balance of warmth, softness, and juicy raspberry bursts."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many cooks think a smooth batter means better pancakes and mix too vigorously, developing gluten.",
+            "fix": "Mix batter gently until just combined with some lumps. Use a spatula instead of a whisk to fold ingredients together carefully."
+        },
+        {
+            "mistake": "Cooking on too high heat",
+            "why_it_happens": "Rushing the cooking process or wanting a quick golden color leads to too hot a pan, burning the outside before the inside cooks.",
+            "fix": "Preheat skillet on medium and adjust heat if pancakes brown too fast. Aim for a gentle sizzle when batter hits the pan."
+        },
+        {
+            "mistake": "Adding raspberries too early",
+            "why_it_happens": "Some mix berries right into the batter to save time, but this crushes the fruit and releases juice.",
+            "fix": "Fold berries in last, gently, just before cooking to keep them intact and preserve batter consistency."
+        },
+        {
+            "mistake": "Using old baking powder",
+            "why_it_happens": "Expired leavening loses power, producing flat pancakes.",
+            "fix": "Test baking powder by mixing a bit in warm water; it should bubble vigorously. Replace if inactive."
+        },
+        {
+            "mistake": "Pressing pancakes while cooking",
+            "why_it_happens": "Pressing flattens pancakes, squeezing out air and moisture.",
+            "fix": "Resist the urge to press; flip gently and let pancakes rise and cook undisturbed for fluffy results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Buttermilk Raspberry Pancakes",
+            "description": "Swap regular milk for buttermilk to add a slight tang and extra fluffiness. The acidity in buttermilk reacts with baking powder creating more lift and a tender crumb. Expect a richer flavor and a slightly softer texture.",
+            "technical_note": "Reduce baking powder slightly if using buttermilk to balance acidity and leavening."
+        },
+        {
+            "name": "Gluten-Free Raspberry Pancakes",
+            "description": "Use a gluten-free flour blend in place of all-purpose flour. These pancakes will be just as fluffy but with a slightly different texture. Make sure your baking powder is gluten-free and add a teaspoon of xanthan gum if your blend lacks it for structure.",
+            "technical_note": "Batter may be a bit thinner; monitor cooking time closely to avoid overcooking."
+        },
+        {
+            "name": "Vegan Raspberry Pancakes",
+            "description": "Replace the egg with a flax or chia egg (1 tablespoon ground seed + 3 tablespoons water) and use plant-based milk and vegan butter. The texture will be slightly denser but still delicious and berry-packed.",
+            "technical_note": "Let the flax/chia egg sit for 5 minutes to gel before mixing into wet ingredients."
+        },
+        {
+            "name": "Lemon Raspberry Pancakes",
+            "description": "Add a teaspoon of lemon zest to the batter to brighten the flavor and complement the raspberries' tartness. The citrus adds a fresh aroma and a zesty twist to your stack.",
+            "technical_note": "Fold zest into dry ingredients to evenly distribute before adding wet ingredients."
+        },
+        {
+            "name": "Chocolate Chip Raspberry Pancakes",
+            "description": "Mix in 1/4 cup mini chocolate chips along with the raspberries for a sweet and tart combo that kids and adults will love. The melty chocolate adds richness and fun to breakfast.",
+            "technical_note": "Add chips gently to avoid melting them into the batter before cooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "10g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pancakes can be left at room temperature for up to 2 hours covered loosely with foil or a clean cloth to prevent drying out.",
+        "refrigerator": "Store pancakes in an airtight container or wrapped tightly in plastic wrap for up to 3 days. They may lose some fluffiness but reheat well in a toaster or microwave.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer bag for up to 2 months. Use parchment paper between layers to prevent sticking. Thaw overnight in the fridge or reheat from frozen.",
+        "reheating": "Reheat pancakes in a toaster or on a non-stick skillet over low heat until warmed through. Avoid microwaving too long as it can make them rubbery. Add a splash of milk or butter when reheating to restore moisture.",
+        "make_ahead_strategy": "Prepare batter the night before and store covered in the fridge. Fold in raspberries just before cooking. Alternatively, cook pancakes ahead and freeze for quick breakfasts."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen raspberries instead of fresh?",
+            "answer": "You can, but frozen raspberries release more juice and can make the batter watery. Thaw and drain them well on paper towels before folding in gently. This helps maintain batter consistency and prevents soggy pancakes."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "Baking powder is key for fluffy pancakes, but you can substitute with baking soda and an acid like buttermilk or yogurt. Use 1/4 teaspoon baking soda plus 1/2 cup buttermilk to replace 1 teaspoon baking powder. Adjust liquids accordingly."
+        },
+        {
+            "question": "How do I prevent pancakes from being tough?",
+            "answer": "Avoid overmixing the batter, cook at medium heat, and don’t press pancakes while cooking. These steps keep gluten development low and ensure a tender, fluffy texture."
+        },
+        {
+            "question": "Can I make the batter ahead of time?",
+            "answer": "Yes! Make the batter and store it covered in the fridge overnight. Just fold in raspberries right before cooking to keep them fresh and intact."
+        },
+        {
+            "question": "Why are my pancakes not rising?",
+            "answer": "Old or expired baking powder is usually the culprit. Test your leavening agent or replace it to get the fluffy rise you want."
+        },
+        {
+            "question": "Can I add other fruits instead of raspberries?",
+            "answer": "Absolutely! Blueberries, sliced strawberries, or chopped peaches work well. Add them gently at the end to avoid crushing."
+        },
+        {
+            "question": "What’s the best way to flip pancakes?",
+            "answer": "Use a wide, thin spatula and wait until bubbles form and edges look set. Flip quickly but gently to keep pancakes intact and fluffy."
+        },
+        {
+            "question": "How do I keep pancakes warm while cooking the rest?",
+            "answer": "Place cooked pancakes on a plate and cover loosely with foil. Keep in a warm (not hot) oven around 200°F to maintain warmth without drying them out."
+        }
+    ],
+    "conclusion": "Give these raspberry pancakes a try and brighten your breakfast table! I’d love to hear how they turn out—don’t forget to share your pics and tweaks.",
+    "seo": {
+        "primary_keyword": "fresh raspberry pancakes",
+        "secondary_keywords": [
+            "easy raspberry pancakes",
+            "how to make raspberry pancakes",
+            "best raspberry pancake recipe",
+            "breakfast with fresh raspberries"
+        ],
+        "internal_links": [
+            {
+                "text": "classic buttermilk pancake recipe",
+                "anchor": "buttermilk-pancakes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_1.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_2.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_3.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images/delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782429365_365",
+    "slug": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor",
+    "isOnline": true,
+    "createdAt": "2026-06-26T00:40:58+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-26T00:40:58+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "delicious-raspberry-recipes-to-brighten-your-day-with-fresh-flavor/images",
+    "has_reel": true
+}

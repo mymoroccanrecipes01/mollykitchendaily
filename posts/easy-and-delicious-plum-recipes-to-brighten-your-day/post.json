@@ -1,0 +1,341 @@
+{
+    "title": "Fresh Plum Crisp with a Buttery Oat Topping You’ll Crave",
+    "promptIMG": "Food photography: Fresh Plum Crisp, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This plum crisp is my go-to for summer nights. Juicy plums get baked under a crunchy, buttery oat topping that’s just the right mix of sweet and tart. Perfect for sharing with friends or cozy solo treats!",
+    "hashtags": "#plumcrisp #summerdessert #fruitrecipes",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Juicy Plum Crisp with Crunchy Oat Topping — A Summer Favorite!",
+            "description": "This plum crisp is bursting with fresh fruit and a buttery oat topping that’s pure comfort. 🍑✨ Save this recipe for your next summer dessert night! #plumrecipes #dessertideas #easybaking"
+        },
+        {
+            "title": "How to Make the Best Plum Crisp with Simple Ingredients 🍽️🍂",
+            "description": "Discover the secret to a perfectly balanced plum crisp—sweet, tart, and crunchy. Ready in under an hour, it’s an easy crowd-pleaser. Try it today and impress your guests! #fruitdesserts #summerbaking #homemade"
+        },
+        {
+            "title": "Sweet & Tangy Plum Crisp Recipe You’ll Want on Repeat 🍮💜",
+            "description": "Warm, juicy plums topped with a golden oat crust make this crisp irresistible. Perfect for cozy evenings or summer gatherings. Don’t miss out—discover this recipe now! #plumdessert #easyrecipes #comfortfood"
+        },
+        {
+            "title": "Easy Plum Crisp with Oats and Brown Sugar — So Delicious! 🍴🌿",
+            "description": "This plum crisp is a simple, rustic dessert that’s bursting with flavor. Fresh plums and a crunchy oat topping come together beautifully. Save this for your next family dinner! #dessertrecipe #plumseason #bakinglove"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh plums, pitted and sliced",
+        "3/4 cup granulated sugar",
+        "2 tablespoons lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 cup old-fashioned rolled oats",
+        "3/4 cup all-purpose flour",
+        "1/2 cup packed light brown sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cubed"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this plum crisp a few summers ago when my local farmer’s market was overflowing with juicy, ripe plums. Honestly, I wasn’t sure how to use that many plums, but I wanted something simple and homey — not too fussy. This recipe has become a favorite because it highlights the natural sweetness and tang of fresh plums without drowning them in sugar. Plus, the buttery oat topping adds a lovely crunch that contrasts perfectly with the tender fruit beneath. One trick I learned was to toss the plums with lemon juice and vanilla before baking; it really brightens the flavors and keeps the fruit from turning dull. When it comes out of the oven, the crisp is bubbling and golden, smelling irresistible — it’s the kind of dessert that makes everyone ask for seconds. I love serving it warm with a scoop of vanilla ice cream for extra indulgence, but it’s also great on its own. This plum crisp is a simple, rustic dessert that’s perfect for summer evenings or casual weekend get-togethers. It’s easy enough for a weeknight but special enough for guests, and I think you’ll love how it celebrates fresh fruit in such an honest way.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). In a large bowl, combine the sliced plums with granulated sugar, lemon juice, and vanilla extract. Toss gently to coat the fruit evenly. This step is crucial because the lemon juice adds brightness and prevents the plums from oxidizing and losing their vibrant color. Letting the mixture sit for 10 minutes allows the sugar to start drawing out the juices, which will help create a juicy filling when baked. Avoid stirring too aggressively to keep the fruit slices intact.",
+            "timing": "10 minutes",
+            "doneness_cue": "Plums should look glossy and slightly softened, with sugar dissolved."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, mix the rolled oats, flour, brown sugar, cinnamon, and salt. Add the cold, cubed butter and use your fingers or a pastry cutter to blend it into the dry ingredients until the mixture resembles coarse crumbs. This technique is important because small bits of butter create pockets of richness and flakiness when baked, leading to a tender, crumbly topping. If you rush this or the butter melts too much, the topping can become greasy or dense instead of crisp.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping looks crumbly with small pea-sized butter pieces visible."
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the plum mixture into a greased 9x13-inch baking dish, spreading it into an even layer. This ensures the fruit cooks evenly and the juices don’t pool too much on one side. An even layer also helps the topping bake uniformly without burning in spots. Avoid overcrowding the dish as this can cause sogginess.",
+            "timing": "3 minutes",
+            "doneness_cue": "Fruit layer is evenly spread without gaps or clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle the oat topping evenly over the plums, covering the entire surface. Don’t press it down; keeping it loose helps the topping bake crisp and golden rather than dense and chewy. If the topping is too thick in some areas, it might stay doughy instead of crunchy. Aim for a uniform layer about 1/2 inch thick.",
+            "timing": "2 minutes",
+            "doneness_cue": "Topping covers the fruit completely and looks crumbly."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the crisp in the preheated oven for 35 to 40 minutes. You want the topping to turn a deep golden brown and the fruit filling to be bubbly around the edges. This bubbling is a sign that the fruit has released its juices and the sugar has caramelized slightly, creating that luscious, jammy texture. Avoid opening the oven door too often, as it can lower the temperature and extend cooking time.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Topping is golden brown and fruit juices bubble visibly."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the crisp from the oven and let it cool for at least 10 minutes before serving. This resting time helps the juices thicken slightly so the crisp isn’t runny when you scoop it out. Also, the topping firms up a bit as it cools, giving you that perfect contrast of textures. If you serve it too hot, the filling will be very liquid and hard to plate neatly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Fruit filling thickens slightly and topping firms up."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the plum crisp warm, ideally with a scoop of vanilla ice cream or a dollop of whipped cream. The cold creaminess pairs beautifully with the warm, tangy fruit and crunchy topping, creating a lovely balance. If you prefer, you can also enjoy it at room temperature or chilled, but the textures and flavors are most vibrant when warm.",
+            "timing": "Immediate",
+            "doneness_cue": "Ice cream melts slightly against the warm crisp, enhancing flavors."
+        },
+        {
+            "step": 8,
+            "instruction": "If you have leftovers, cover the crisp tightly with plastic wrap or foil and store in the fridge. Reheat gently in the oven before serving to bring back the crisp topping texture. Avoid microwaving as it can make the topping soggy. Reheating in the oven at 325°F for 10-15 minutes works best.",
+            "timing": "10-15 minutes reheating",
+            "doneness_cue": "Topping regains some crunch and filling is warm."
+        },
+        {
+            "step": 9,
+            "instruction": "For a deeper flavor, try mixing in a pinch of ground ginger or nutmeg to the oat topping before baking. These warm spices complement the plums beautifully and add complexity without overpowering the fruit. Adding spices is optional but highly recommended if you want to elevate the crisp for holiday meals or special occasions.",
+            "timing": "Optional step during topping prep",
+            "doneness_cue": "Aromatic spices blend subtly into the topping."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Plum Crisp’s Irresistible Texture and Flavor",
+        "content": "<p>At the heart of this plum crisp’s success is the balance between juicy fruit and a crunchy, buttery topping. When you toss the plums with lemon juice and sugar, the acid from the lemon helps maintain the fruit’s vibrant color and brightens its natural tartness. The sugar draws out juices through osmosis, creating a syrupy filling that thickens as it bakes. This interplay ensures the fruit is tender but not mushy.</p><p>The oat topping is a classic crumble mixture, but the key is using cold butter cut into the dry ingredients. Those small butter pieces melt during baking, creating steam pockets that contribute to a flaky, crumbly texture. If the butter gets too warm, the topping can become greasy and dense instead of light and crisp.</p><p>Oats add texture and a nutty flavor that pairs beautifully with plums’ tartness. The cinnamon and brown sugar in the topping not only add warmth and sweetness but also enhance caramelization through the Maillard reaction, giving the crisp its golden color and rich aroma. Baking the crisp until the fruit bubbles ensures the filling is thick and luscious, while the topping turns perfectly golden and crunchy.</p><p>Resting the crisp after baking is also crucial. It allows the juices to thicken just enough to prevent runniness and helps the topping set, so you get that signature contrast of textures. This recipe’s simplicity highlights fresh plums without overwhelming them, making it a timeless dessert that feels both cozy and fresh.</p>",
+        "ingredient_notes": {
+            "fresh plums": "When selecting plums, look for ones that are ripe but still firm to the touch. Overripe plums can become mushy during baking and create too much liquid, making the crisp soggy. The variety matters too; European plums tend to be sweeter and juicier, while Japanese plums offer a nice balance of tartness. Always pit and slice them evenly for consistent cooking.",
+            "rolled oats": "Old-fashioned rolled oats work best because they provide a chewy texture and hold their shape during baking. Instant oats can become too mushy, and steel-cut oats are too coarse and require longer cooking. Oats add a nutty flavor and absorb some of the fruit juices, helping to keep the topping crisp rather than soggy.",
+            "unsalted butter": "Cold, unsalted butter is essential for creating the crumbly topping texture. Using salted butter can throw off the flavor balance, and softened butter won’t create the same flaky pockets when baked. Cut the butter into small cubes and incorporate it quickly to prevent it from melting before baking.",
+            "brown sugar": "Light brown sugar adds moisture and a subtle molasses flavor that deepens the topping’s taste. It also helps with caramelization, contributing to the crisp’s golden color. Using white sugar alone can make the topping drier and less flavorful, so a mix or exclusively brown sugar is preferred.",
+            "lemon juice": "Fresh lemon juice is key to balancing the sweetness of the plums and preserving their color. The acidity slows oxidation, preventing the fruit from turning brown. Bottled lemon juice lacks the brightness and can sometimes add unwanted bitterness, so fresh is best when possible."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a mix of plum varieties if possible for complexity.",
+            "reason": "Different plums vary in sweetness and acidity, so combining them creates a more balanced flavor profile. This also affects the texture, as some plums hold their shape better while others become juicier, contributing to a luscious filling."
+        },
+        {
+            "tip": "Chill your baking dish before adding the topping.",
+            "reason": "A cold dish helps the topping stay crisp longer by slowing the melting of butter. This results in a more distinct crumbly texture rather than a greasy, dense layer."
+        },
+        {
+            "tip": "Don’t skip the resting time after baking.",
+            "reason": "Allowing the crisp to cool for at least 10 minutes lets the fruit juices thicken and the topping firm up. Serving immediately can result in runny filling and a less satisfying texture contrast."
+        },
+        {
+            "tip": "Cut butter into small cubes and keep it cold.",
+            "reason": "Cold butter creates pockets of steam as it melts, producing a flaky, crumbly topping. Warm butter blends too much with the flour and oats, making the topping dense."
+        },
+        {
+            "tip": "Add a pinch of cinnamon or nutmeg for extra warmth.",
+            "reason": "Warm spices enhance the natural sweetness of the plums and add depth to the overall flavor without overpowering the fruit’s freshness."
+        },
+        {
+            "tip": "Use fresh lemon juice instead of bottled.",
+            "reason": "Fresh lemon juice has a brighter, cleaner acidity that preserves the fruit’s color and flavor better than bottled varieties, which can sometimes taste bitter or dull."
+        },
+        {
+            "tip": "Serve with vanilla ice cream or whipped cream.",
+            "reason": "The cold creaminess contrasts beautifully with the warm, tart fruit and crunchy topping, elevating the dessert experience and balancing the flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overripe or mushy plums",
+            "why_it_happens": "People often grab whatever fruit is available without checking ripeness, assuming all plums behave the same in baking.",
+            "fix": "Choose plums that are ripe but still firm to maintain structure during baking. If your plums are very soft, reduce sugar slightly and bake for less time to avoid a watery filling."
+        },
+        {
+            "mistake": "Not cutting cold butter into the topping properly",
+            "why_it_happens": "Rushing or using melted butter leads to a greasy topping with poor texture.",
+            "fix": "Keep butter chilled and use your fingers or a pastry cutter to quickly incorporate it into the dry ingredients until crumbly. Work fast to prevent melting."
+        },
+        {
+            "mistake": "Skipping the lemon juice",
+            "why_it_happens": "Some think lemon juice isn’t necessary or forget it, leading to dull, brown fruit after baking.",
+            "fix": "Always toss the fruit with fresh lemon juice to brighten flavor and prevent oxidation. It’s a small step with big impact."
+        },
+        {
+            "mistake": "Adding too much sugar",
+            "why_it_happens": "Trying to make the dessert very sweet can overpower the natural plum flavor and cause excess syrup.",
+            "fix": "Stick to the recommended sugar amount or taste the fruit first. Adjust sugar based on plum sweetness to keep balance."
+        },
+        {
+            "mistake": "Overbaking the crisp",
+            "why_it_happens": "Leaving it in too long dries out the topping and can burn the edges.",
+            "fix": "Check for bubbling fruit and golden topping at 35 minutes, then remove promptly. Use visual cues rather than just time."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spiced Plum and Apple Crisp",
+            "description": "Add 2 cups of peeled, sliced apples to the plums for extra texture and sweetness. Increase cinnamon to 1 1/2 teaspoons and add 1/4 teaspoon ground cloves for warmth. The apples create a firmer filling and the spices deepen the flavor, making it perfect for fall.",
+            "technical_note": "Apples release less juice than plums, so you may need to bake an extra 5 minutes to get bubbling."
+        },
+        {
+            "name": "Gluten-Free Plum Crisp",
+            "description": "Replace all-purpose flour with an equal amount of almond flour or a gluten-free baking blend. Use certified gluten-free oats to keep the topping crisp. This swap maintains the dessert’s texture and flavor without gluten.",
+            "technical_note": "Almond flour can brown faster, so watch the topping closely to avoid burning."
+        },
+        {
+            "name": "Vegan Plum Crisp",
+            "description": "Use coconut oil or vegan butter instead of dairy butter, and substitute brown sugar with coconut sugar for a slightly different sweetness. This version still yields a rich, crumbly topping and juicy filling without animal products.",
+            "technical_note": "Coconut oil melts faster, so chill the topping mixture before baking to keep texture."
+        },
+        {
+            "name": "Plum Crisp with Nutty Topping",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the oat topping for extra crunch and flavor. Toast the nuts lightly before mixing to enhance their nuttiness. This variation adds complexity and a pleasing texture contrast.",
+            "technical_note": "Nuts can brown quickly; stir halfway through baking if needed."
+        },
+        {
+            "name": "Spiked Plum Crisp",
+            "description": "For adults, add 2 tablespoons of bourbon or brandy to the plum mixture before baking. The alcohol cooks off but leaves a warm, rich flavor that pairs beautifully with the fruit’s tartness.",
+            "technical_note": "Alcohol increases liquid slightly; bake until juices bubble and topping is golden."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "370 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "15g",
+        "fiber_grams": "6g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The plum crisp can safely sit at room temperature for up to 2 hours when covered loosely with foil or a clean kitchen towel. Beyond this, the risk of bacterial growth increases, especially because of the fruit filling.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The topping may soften slightly, but reheating in the oven restores some crispness. The flavors often deepen after a day, making it delicious cold or warmed.",
+        "freezer": "Freeze the crisp in a freezer-safe container for up to 3 months. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the fridge then reheat in the oven to restore texture.",
+        "reheating": "Reheat leftovers in a 325°F oven for 10-15 minutes until warmed through and topping crisps back up. Avoid microwaving as it makes the topping soggy. Add a splash of water or lemon juice to the fruit if it seems dry.",
+        "make_ahead_strategy": "You can prepare the plum filling and topping separately up to 2 days ahead. Store the fruit mixture in the fridge and keep the topping in an airtight container. Assemble and bake just before serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen plums for this recipe?",
+            "answer": "Yes, but thaw and drain frozen plums well before using to avoid excess water making the crisp soggy. You might also reduce added sugar slightly since frozen fruit can be sweeter or more watery depending on the brand."
+        },
+        {
+            "question": "What if I don’t have rolled oats?",
+            "answer": "You can substitute quick oats but the topping will be less chewy and more crumbly. Avoid steel-cut oats as they won’t soften properly during baking."
+        },
+        {
+            "question": "How do I make the topping extra crunchy?",
+            "answer": "Make sure your butter is cold and cut into small pieces. Also, avoid packing the topping down; keep it loose so it crisps up well. Baking uncovered helps too."
+        },
+        {
+            "question": "Can I make this crisp gluten-free?",
+            "answer": "Absolutely! Use gluten-free flour blends and certified gluten-free oats. Almond flour is a great substitute but watch the topping closely to prevent burning as it browns faster."
+        },
+        {
+            "question": "What’s the best way to serve plum crisp?",
+            "answer": "Warm from the oven with vanilla ice cream or whipped cream is classic. You can also enjoy it at room temperature or even cold, though the textures and flavors are best warm."
+        },
+        {
+            "question": "Can I prepare the crisp ahead of time?",
+            "answer": "Yes, you can assemble it and refrigerate for up to 24 hours before baking. Just add a few extra minutes to the baking time if baking from cold."
+        },
+        {
+            "question": "Why is my crisp watery after baking?",
+            "answer": "This usually happens if the fruit is too juicy or not enough thickener is used. Tossing the fruit with sugar and lemon juice helps, as does baking until juices bubble. You can also add a tablespoon of cornstarch next time to absorb excess liquid."
+        },
+        {
+            "question": "Can I add other fruits to the crisp?",
+            "answer": "Definitely! Apples, berries, or peaches work well combined with plums. Just adjust sugar and baking time as needed since different fruits release different amounts of juice."
+        }
+    ],
+    "conclusion": "I hope you enjoy this plum crisp as much as my family does! It’s a simple way to celebrate fresh fruit, so give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "fresh plum crisp recipe",
+        "secondary_keywords": [
+            "easy plum dessert",
+            "summer fruit crisp",
+            "how to make plum crisp",
+            "best plum crisp recipe",
+            "easy fruit crisp"
+        ],
+        "internal_links": [
+            {
+                "text": "classic apple crisp recipe",
+                "anchor": "classic-apple-crisp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-plum-recipes-to-brighten-your-day/images/easy-and-delicious-plum-recipes-to-brighten-your-day_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1782429747_706",
+    "slug": "easy-and-delicious-plum-recipes-to-brighten-your-day",
+    "isOnline": true,
+    "createdAt": "2026-06-26T00:40:58+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-26T00:40:58+01:00",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "easy-and-delicious-plum-recipes-to-brighten-your-day/images",
+    "has_reel": true
+}

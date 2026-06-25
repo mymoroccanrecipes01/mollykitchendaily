@@ -1,0 +1,338 @@
+{
+    "title": "Fresh Homemade Salsa with Lime Juice for Bright Flavor",
+    "promptIMG": "Food photography: Fresh Homemade Salsa, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This homemade salsa is a fresh burst of flavor thanks to ripe tomatoes and a splash of lime juice. It's tangy, bright, and perfect for casual gatherings or taco nights. Super easy to whip up!",
+    "hashtags": "#homemadesalsa #freshsalsa #easyrecipes",
+    "board_name": "Easy Salsa Recipes",
+    "pin_variations": [
+        {
+            "title": "Bright and Tangy Homemade Salsa You’ll Love to Dip Into",
+            "description": "This fresh salsa is loaded with ripe tomatoes and a zesty lime kick. Perfect for chips or tacos, it’s a quick recipe to brighten up any snack time. Save this for your next party! 🌶️🍅 #homemadesalsa #freshflavors #snackideas"
+        },
+        {
+            "title": "How to Make Fresh Salsa with Just a Few Simple Ingredients",
+            "description": "Want a salsa that’s fresh and full of flavor? This recipe uses ripe tomatoes and lime juice to make a tangy dip in minutes. Try it today and impress your friends! 🥑🍋 #salsarecipe #easyrecipes #homemadedip"
+        },
+        {
+            "title": "Easy Homemade Salsa Recipe for Taco Night or Snacks",
+            "description": "This salsa is bright, fresh, and packed with natural flavors from ripe tomatoes and lime. It’s so simple to make, you’ll want to keep it on hand for all your meals. Discover the recipe now! 🌮🔥 #freshsalsa #taconight #quickrecipes"
+        },
+        {
+            "title": "Simple Fresh Salsa with Lime Juice – Perfect for Every Occasion",
+            "description": "A tangy salsa made with fresh tomatoes and a splash of lime juice that’s great for chips or topping your favorite dishes. Quick and delicious, save this recipe for easy entertaining! 🍅🌿 #homemadesalsa #freshrecipes #partyfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups ripe tomatoes, chopped",
+        "1 small red onion, finely diced",
+        "1 jalapeño, seeded and minced",
+        "1/4 cup fresh cilantro, chopped",
+        "2 tablespoons fresh lime juice",
+        "1 teaspoon salt",
+        "1/2 teaspoon ground cumin",
+        "1 garlic clove, minced"
+    ],
+    "yield": "Approximately 2 cups, 4 servings",
+    "introduction": "I’ve been making this fresh homemade salsa for years, especially when friends drop by unexpectedly or during casual weekend hangouts. The first time I tried it, I was amazed at how just a few fresh ingredients could come together to make such a bright, tangy, and flavorful salsa. What sets this version apart is the splash of fresh lime juice—it really lifts the flavors and keeps the salsa tasting vibrant and fresh. I also like to finely dice the ingredients rather than blending them, so you get a nice chunky texture that feels homemade and hearty. The trick I learned is to let the salsa sit for at least 15 minutes before serving to let the flavors meld. The result is a perfect balance of zingy, fresh, and slightly spicy, great for dipping chips or topping tacos. Honestly, it’s become a staple in my kitchen because it’s so quick to throw together but tastes like you spent hours on it. I think you’ll love how fresh and simple it is, and it’s flexible enough to tweak based on your heat preference or what you have on hand.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chopping your ripe tomatoes into small, even pieces. Using ripe tomatoes is key because they provide the natural sweetness and juiciness that forms the salsa’s base. Make sure to remove any excess liquid or seeds if your tomatoes are very watery, as too much moisture can make the salsa runny. The goal is to have a chunky but not soupy texture, so chopping evenly helps everything blend well without turning mushy. Avoid using canned tomatoes here because they tend to be too soft and lack that fresh brightness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomatoes should be uniformly chopped with no large watery pockets"
+        },
+        {
+            "step": 2,
+            "instruction": "Finely dice the red onion and mince the garlic clove. Both add sharpness and depth to the salsa. It’s important to dice the onion finely so it mixes well and doesn’t overpower any single bite. If you want to mellow the onion’s bite, soak the diced pieces in cold water for 5 minutes and drain before adding. This step is optional but can help balance the flavors if you’re sensitive to raw onion. The garlic should be minced very finely so it disperses evenly and doesn’t leave overpowering chunks.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onion and garlic should be finely chopped and evenly distributed"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the seeds from the jalapeño to control heat and finely mince it. The jalapeño adds a subtle kick and complexity, but seeding it keeps the salsa from becoming too spicy for most palates. If you prefer more heat, you can leave some seeds in or add a pinch of cayenne. Always wash your hands after handling chili peppers to avoid irritation. The finely minced jalapeño should blend evenly throughout the salsa, giving it a gentle warmth without overwhelming the fresh flavors.",
+            "timing": "5 minutes",
+            "doneness_cue": "Jalapeño pieces are small and well mixed without large chunks"
+        },
+        {
+            "step": 4,
+            "instruction": "Chop the fresh cilantro leaves roughly but discard thick stems. Cilantro brings a fresh, herbal note that brightens the salsa. Using fresh cilantro is essential here because dried herbs won’t give the same punch of flavor. Add it last to keep its bright color and fragrance intact. If you’re not a fan of cilantro, you can substitute with fresh parsley, but the flavor profile will shift noticeably.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cilantro is fresh, bright green, and evenly mixed"
+        },
+        {
+            "step": 5,
+            "instruction": "In a large bowl, combine the chopped tomatoes, onion, garlic, jalapeño, and cilantro. Stir gently but thoroughly to mix all the ingredients evenly. This ensures every bite has a balanced flavor. Avoid over-stirring which can break down the tomatoes too much and release excess juice, making the salsa watery.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients are well combined but still hold their shape"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the fresh lime juice, salt, and ground cumin to the mixture. The lime juice adds acidity that brightens the salsa and balances the sweetness of the tomatoes. Salt enhances all the flavors and helps draw out juices from the tomatoes, melding everything together. Cumin adds a subtle earthiness that rounds out the salsa’s flavor profile. Taste and adjust salt or lime juice as needed to suit your preference.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salsa has a balanced tangy and savory flavor"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the salsa and let it rest at room temperature for 15-20 minutes before serving. This resting period is crucial because it allows the flavors to meld and develop depth. The salt and lime juice draw out the tomato juices, softening the sharpness of the onion and garlic, resulting in a harmonious blend. Don’t skip this step; freshly mixed salsa tastes less integrated and more one-dimensional.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Salsa looks juicy and aromatic with evenly blended flavors"
+        },
+        {
+            "step": 8,
+            "instruction": "Give the salsa one last gentle stir before serving. Check the seasoning and add more salt or lime juice if needed. Serve it chilled or at room temperature with tortilla chips or as a topping for tacos, grilled meats, or eggs. The freshness and texture should be vibrant and chunky, not mushy or watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salsa is fresh, bright, and ready to enjoy"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container in the refrigerator. The flavors will continue to develop overnight, but the salsa is best eaten within 2-3 days for maximum freshness. Stir before serving again to redistribute ingredients. Avoid freezing the salsa as the texture will degrade significantly.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers remain flavorful and fresh when stored properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Fresh Salsa’s Flavor and Texture",
+        "content": "<p>This salsa’s success comes from the harmony of fresh ingredients and simple chemistry. The ripe tomatoes provide natural sugars and moisture, forming the juicy base. Their acidity balances with the lime juice, which brightens the overall flavor and helps preserve freshness. Lime juice also helps break down the cell walls of the tomato and onion slightly, releasing more flavor compounds.</p><p>Salt is essential not just for seasoning but for drawing out moisture from the tomatoes and onions. This process, called osmosis, softens the vegetables and blends their flavors without making the salsa watery. The cumin adds an earthy warmth, complementing the bright and spicy notes from the jalapeño. The careful chopping technique preserves texture, giving the salsa a satisfying chunkiness rather than a puree.</p><p>The resting step lets all these chemical and physical interactions happen fully. The flavors meld and mellow, the sharpness of raw onion and garlic softens, and the salsa develops a balanced profile. The fresh cilantro adds a burst of herbal freshness that contrasts beautifully with the other ingredients. Altogether, these factors create a salsa that tastes fresh, lively, and perfectly balanced.</p>",
+        "ingredient_notes": {
+            "Ripe Tomatoes": "When choosing tomatoes, look for ones that are firm but yield slightly to gentle pressure. They should smell fragrant and have a deep red color. Ripe tomatoes provide natural sweetness and juiciness essential for fresh salsa. Avoid overly soft or mealy tomatoes as they can make the salsa watery and bland. Roma or vine-ripened tomatoes work well here.",
+            "Fresh Lime Juice": "Freshly squeezed lime juice is key for this salsa’s bright acidity. Bottled lime juice lacks the fresh citrus oils and can taste flat. The lime juice not only adds sharpness but helps balance the tomato’s sweetness and activates flavor compounds in the other ingredients. Use about 2 tablespoons for the right tang without overpowering the salsa.",
+            "Red Onion": "Red onions add a mild sharpness and crunch. Finely dicing prevents large onion chunks that can dominate the salsa. Soaking diced onion in cold water can mellow harshness if desired. Avoid yellow or white onions here as they have a stronger, more pungent flavor that can overpower the fresh salsa.",
+            "Jalapeño Pepper": "Jalapeños add a gentle heat and complexity. Removing the seeds controls the spice level and prevents overwhelming heat. Finely mincing ensures even distribution so no single bite is too spicy. For milder salsa, use half a jalapeño or substitute with a mild green pepper.",
+            "Cilantro": "Fresh cilantro brings a bright, herbal note that elevates the salsa. Use fresh leaves and avoid thick stems which can be bitter. Cilantro’s essential oils provide a unique freshness that dried herbs can’t replicate. If you’re not a fan, parsley can be used but expect a different flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe but firm tomatoes for best texture.",
+            "reason": "Ripe tomatoes provide natural sweetness and juiciness, but if they’re too soft, the salsa becomes watery and mushy. Firm tomatoes hold their shape and give the salsa a fresh, chunky texture."
+        },
+        {
+            "tip": "Let the salsa rest before serving.",
+            "reason": "Resting allows the salt and lime juice to draw out flavors and soften the sharpness of raw onion and garlic. This melding creates a balanced, harmonious flavor that tastes more complex and fresh."
+        },
+        {
+            "tip": "Remove seeds from jalapeño to control heat.",
+            "reason": "Jalapeño seeds contain most of the pepper’s heat. Removing them prevents the salsa from becoming too spicy while still imparting a pleasant warmth and flavor."
+        },
+        {
+            "tip": "Finely dice ingredients instead of blending.",
+            "reason": "Chopping preserves texture, giving the salsa a chunky, homemade feel. Blending can make it too smooth and watery, losing the satisfying bite that fresh salsa should have."
+        },
+        {
+            "tip": "Use fresh lime juice instead of bottled.",
+            "reason": "Fresh lime juice has vibrant citrus oils and a bright acidity that bottled juice lacks, which significantly enhances the salsa’s flavor and freshness."
+        },
+        {
+            "tip": "Soak diced onion in cold water if you want milder flavor.",
+            "reason": "Soaking reduces the sharp bite of raw onion by leaching out sulfur compounds, making the salsa more approachable for those sensitive to strong onion flavor."
+        },
+        {
+            "tip": "Store salsa in an airtight container in the fridge.",
+            "reason": "Proper storage prevents the salsa from absorbing other odors and keeps it fresh longer. It also slows down oxidation, preserving the bright flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using unripe or overly soft tomatoes.",
+            "why_it_happens": "People often grab whatever tomatoes are on hand without checking ripeness, assuming any will work. Unripe tomatoes lack sweetness, and overly soft ones make salsa watery.",
+            "fix": "Choose tomatoes that are ripe but firm, smelling fragrant and yielding slightly to gentle pressure. Avoid canned or processed tomatoes for fresh salsa to maintain the right texture and flavor."
+        },
+        {
+            "mistake": "Skipping the resting time before serving.",
+            "why_it_happens": "Impatience or thinking salsa tastes best fresh from mixing leads to skipping the wait. This results in less blended and sharper flavors.",
+            "fix": "Let the salsa rest at room temperature for at least 15 minutes. This allows salt and lime juice to meld flavors and soften harsh notes, creating a more balanced taste."
+        },
+        {
+            "mistake": "Not removing jalapeño seeds.",
+            "why_it_happens": "Assuming the whole pepper should be used or not knowing seeds affect heat level.",
+            "fix": "Remove seeds and membranes before mincing to control spiciness. Add seeds back gradually if more heat is desired."
+        },
+        {
+            "mistake": "Over-blending salsa in a food processor.",
+            "why_it_happens": "Trying to speed up the process or achieve a smooth texture leads to over-processing.",
+            "fix": "Chop ingredients by hand for a chunky texture. If using a blender, pulse gently and briefly to avoid turning salsa into a puree."
+        },
+        {
+            "mistake": "Using bottled lime juice.",
+            "why_it_happens": "Convenience or not having fresh limes on hand leads to using bottled juice.",
+            "fix": "Always use freshly squeezed lime juice for bright acidity and fresh citrus oils that bottled juice lacks, enhancing flavor dramatically."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chunky Pineapple Salsa",
+            "description": "Add 1 cup of finely chopped fresh pineapple for a sweet and tangy twist. The pineapple’s juicy sweetness pairs beautifully with the spicy jalapeño and lime, making it perfect for summer grilling or fish tacos.",
+            "technical_note": "Pineapple adds extra moisture, so reduce tomatoes slightly to keep salsa from becoming watery."
+        },
+        {
+            "name": "Roasted Tomato Salsa",
+            "description": "Roast the tomatoes and jalapeño under a broiler until charred for a smoky depth. This variation adds complexity and works great for hearty dishes like grilled meats or enchiladas.",
+            "technical_note": "Roasting softens the vegetables and intensifies flavor; chop after roasting to desired texture."
+        },
+        {
+            "name": "Mild Mango Salsa",
+            "description": "Replace jalapeño with 1 cup diced ripe mango and omit seeds for a sweeter, milder salsa. This is fantastic for those who prefer less heat but still want a vibrant topping for chicken or fish.",
+            "technical_note": "Mango adds sweetness and moisture; balance with extra lime juice to keep flavors bright."
+        },
+        {
+            "name": "Spicy Serrano Salsa",
+            "description": "Swap jalapeño for serrano peppers for a more intense heat. Perfect if you love your salsa spicy but keep seeds removed to avoid overwhelming heat.",
+            "technical_note": "Serranos are hotter; add gradually and taste as you go to control spice level."
+        },
+        {
+            "name": "Avocado Salsa",
+            "description": "Fold in 1 ripe diced avocado just before serving for creamy texture and richness. This version is great as a dip or topping, adding smoothness to the fresh salsa base.",
+            "technical_note": "Add avocado last to prevent browning and keep salsa fresh-looking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "70 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "3g",
+        "sodium_mg": "400mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Salsa can safely sit at room temperature for up to 2 hours covered. Beyond this, bacteria growth risk increases. Keep it covered with plastic wrap or a lid to prevent contamination.",
+        "refrigerator": "Store salsa in an airtight container in the fridge for up to 3 days. Flavors will deepen overnight but texture may soften slightly. Serve cold or bring to room temperature before serving for best taste.",
+        "freezer": "Freezing fresh salsa is not recommended as tomatoes and onions become watery and lose texture. If freezing is necessary, store in a freezer-safe container for up to 1 month and thaw in the fridge. Expect a softer texture after thawing.",
+        "reheating": "This salsa is best served fresh or cold and is not typically reheated. If using as a topping on hot dishes, add salsa fresh to preserve texture and flavor.",
+        "make_ahead_strategy": "You can prep all chopping and mixing steps 1 day ahead, store in the fridge covered, and add lime juice and cilantro just before serving to keep flavors bright and fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned tomatoes instead of fresh for this salsa?",
+            "answer": "While canned tomatoes can work in a pinch, fresh ripe tomatoes provide much better flavor and texture for this salsa. Canned tomatoes tend to be softer and can make the salsa watery and less vibrant. If using canned, drain excess liquid and adjust seasoning accordingly."
+        },
+        {
+            "question": "How spicy is this salsa and can I adjust the heat?",
+            "answer": "This salsa has a mild to medium heat level thanks to the seeded jalapeño. To make it milder, remove all seeds or reduce the jalapeño amount. For more heat, leave some seeds in or add a pinch of cayenne or hot sauce."
+        },
+        {
+            "question": "Can I make this salsa ahead of time?",
+            "answer": "Yes! It actually tastes better after resting for at least 15 minutes, and you can make it up to 1 day ahead. Store in an airtight container in the fridge and add fresh cilantro just before serving for maximum freshness."
+        },
+        {
+            "question": "What can I use if I don’t like cilantro?",
+            "answer": "If you’re not a cilantro fan, fresh parsley is a good substitute though the flavor will be different. You can also omit herbs altogether, but the salsa will miss some brightness and herbal notes."
+        },
+        {
+            "question": "Why does my salsa turn watery sometimes?",
+            "answer": "Watery salsa usually happens when tomatoes are overly ripe or chopped too roughly, releasing too much juice. To avoid this, use firm ripe tomatoes and chop evenly. Also, avoid blending or over-stirring which breaks down the tomatoes too much."
+        },
+        {
+            "question": "Can I use other peppers instead of jalapeño?",
+            "answer": "Yes, serrano peppers are a great substitute for more heat, while milder green bell peppers can be used for a gentle flavor without spice. Adjust quantities to your heat preference."
+        },
+        {
+            "question": "How long does homemade salsa last in the fridge?",
+            "answer": "Stored in an airtight container, this salsa stays fresh for about 3 days. After that, the flavors may dull and texture softens. Always smell and taste before serving to ensure freshness."
+        },
+        {
+            "question": "Is it better to blend or chop salsa ingredients?",
+            "answer": "Chopping ingredients by hand preserves texture and gives a chunky, fresh feel. Blending creates a smooth salsa but can become watery and lose the satisfying bite. For this recipe, chopping is preferred."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this fresh homemade salsa as much as I do! It’s simple, bright, and perfect for any casual meal or snack. Don’t forget to share your salsa adventures with me!",
+    "seo": {
+        "primary_keyword": "fresh homemade salsa recipe",
+        "secondary_keywords": [
+            "easy salsa recipe",
+            "how to make salsa",
+            "best fresh salsa",
+            "quick homemade salsa"
+        ],
+        "internal_links": [
+            {
+                "text": "easy guacamole recipe",
+                "anchor": "easy-guacamole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_1.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_2.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_3.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images/homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782429463_662",
+    "slug": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack",
+    "isOnline": true,
+    "createdAt": "2026-06-26T00:40:58+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-26T00:40:58+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "homemade-salsa-recipe-thats-fresh-tangy-and-perfect-for-every-snack/images",
+    "has_reel": true
+}

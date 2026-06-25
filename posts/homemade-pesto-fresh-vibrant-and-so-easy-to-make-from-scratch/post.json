@@ -1,0 +1,338 @@
+{
+    "title": "Fresh and Easy Homemade Basil Pesto Sauce for Pasta and More",
+    "promptIMG": "Food photography: homemade basil pesto sauce, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant basil pesto is packed with fresh herbs and just the right touch of garlic. It’s super quick to make with a blender, perfect for tossing with pasta or spreading on crusty bread. A fresh burst anytime!",
+    "hashtags": "#pesto #homemadesauce #basilrecipe #easyrecipes",
+    "board_name": "Easy Pasta Sauces",
+    "pin_variations": [
+        {
+            "title": "Make This Fresh Basil Pesto in Under 10 Minutes!",
+            "description": "Whip up this fresh basil pesto in no time! It’s bursting with flavor and perfect for quick weeknight dinners 🍝🌿. Save this recipe for your next easy meal. #pesto #freshherbs #quickrecipes"
+        },
+        {
+            "title": "How to Make Classic Basil Pesto at Home Easily",
+            "description": "Discover the secret to a creamy, garlicky pesto that's better than store-bought! Try it today and elevate your pasta nights 🍃🧄. Don’t forget to save this gem! #homemadepesto #basil #pastasauce"
+        },
+        {
+            "title": "Brighten Up Any Dish with This Vibrant Basil Pesto",
+            "description": "Add a fresh, herby kick to your meals with this simple basil pesto recipe. Perfect as a spread or pasta sauce 🌿🥖. Give it a try and share your results! #pestosauce #freshbasil #easycooking"
+        },
+        {
+            "title": "Quick and Flavorful Basil Pesto You’ll Love to Make",
+            "description": "This pesto is a game changer for fast, flavorful meals. Blend it up and enjoy on pasta, sandwiches, or veggies 🌱🍽️. Save this recipe and try it soon! #basilpesto #quickmeals #homemaderecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "2 cups fresh basil leaves, packed",
+        "1/3 cup pine nuts, toasted",
+        "2 cloves garlic, peeled",
+        "1/2 cup extra virgin olive oil",
+        "1/3 cup freshly grated Parmesan cheese",
+        "Salt to taste",
+        "Freshly ground black pepper to taste",
+        "Optional: 1 tablespoon lemon juice"
+    ],
+    "yield": "Approximately 1 cup pesto, 4 servings",
+    "introduction": "I first made this basil pesto when I stumbled upon an overgrown basil plant in my garden last summer. I wanted something fresh and quick to use up all those fragrant leaves, and this simple recipe quickly became a favorite. What I love most is how versatile it is—thrown on pasta, spread on toast, or even as a dip. Unlike some recipes that call for tons of ingredients, this one keeps it straightforward with fresh basil, toasted pine nuts, and a punch of garlic. The trick I learned was to toast the pine nuts lightly—this adds a subtle nuttiness that really deepens the flavor. Also, blending everything just enough so it’s still a little chunky gives it a homemade, rustic texture. The finished pesto is bright green, richly aromatic, and creamy without any cream. It feels like summer in a jar and makes any meal instantly more special. I usually make this in big batches and keep it in the fridge to brighten up weeknight dinners whenever I want. Plus, it’s so quick to whip up, you’ll wonder why you ever bought pre-made pesto!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by toasting the pine nuts in a dry skillet over medium heat. Stir them frequently and watch closely as they can burn quickly. Toasting releases their oils and deepens their flavor, which adds a rich nuttiness to your pesto. This step is crucial because raw pine nuts can taste bland and grassy. Once they’re golden and fragrant, transfer them to a plate to cool so they don’t keep cooking in the hot pan.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pine nuts are lightly browned and smell nutty but not burnt"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the fresh basil leaves, cooled pine nuts, and garlic cloves into a food processor or blender. Pulse a few times to start breaking everything down. This initial mixing helps evenly distribute the ingredients before adding the oil. If you skip pulsing and just pour in oil, your pesto might not blend smoothly or evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Basil and pine nuts are roughly chopped into small pieces"
+        },
+        {
+            "step": 3,
+            "instruction": "Slowly drizzle in the extra virgin olive oil while the blender or food processor is running on low speed. This slow addition helps emulsify the mixture, creating a creamy texture without separating. If you add the oil too quickly, the pesto can become oily and thin rather than thick and luscious. Stop adding oil when the pesto reaches your desired consistency.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pesto is creamy and smooth but still has some texture"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the freshly grated Parmesan cheese next and pulse a few more times to combine. The cheese adds savory depth and helps thicken the pesto. Avoid over-processing at this stage because too much blending can cause the cheese to become grainy and affect the texture.",
+            "timing": "1 minute",
+            "doneness_cue": "Cheese is fully incorporated and pesto looks creamy"
+        },
+        {
+            "step": 5,
+            "instruction": "Season the pesto with salt and freshly ground black pepper to taste. Taste as you go – you might need more salt depending on how salty your cheese is. Adding seasoning at the end ensures you don’t overdo it early on.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced flavor with a slight savory kick"
+        },
+        {
+            "step": 6,
+            "instruction": "For a bright finish, stir in about a tablespoon of fresh lemon juice if you like. This adds a subtle acidity that balances the richness of the oil and cheese. It’s optional but highly recommended for a fresher flavor profile.",
+            "timing": "1 minute",
+            "doneness_cue": "Pesto has a fresh, slightly tangy aroma"
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the pesto to a clean jar or airtight container. To keep it vibrant green, pour a thin layer of olive oil on top before sealing. This helps prevent oxidation and browning. Store in the refrigerator until ready to use.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pesto is bright green and smooth with a thin oil layer on top"
+        },
+        {
+            "step": 8,
+            "instruction": "When ready to serve, toss the pesto with freshly cooked pasta, spoon it over grilled veggies, or spread it on warm bread. If the pesto thickened too much in the fridge, stir in a little olive oil or pasta water to loosen it up. This flexibility means you can adjust to your preferred consistency easily.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pesto coats pasta evenly and looks glossy"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your homemade pesto fresh within 3-4 days, or freeze leftovers in small portions for up to 3 months. Freezing preserves the vibrant flavor and lets you enjoy this fresh sauce anytime. Just thaw in the fridge overnight and stir well before serving.",
+            "timing": "N/A",
+            "doneness_cue": "Pesto remains vibrant and flavorful after thawing"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Basil Pesto Recipe Shines Every Time",
+        "content": "<p>This pesto recipe works because it balances freshness with rich flavors through simple, thoughtful techniques. Toasting pine nuts first unlocks their natural oils and adds a toasty depth that raw nuts can’t provide. This step also improves the texture, preventing the pesto from tasting flat or bitter.</p><p>Using fresh basil leaves is crucial; their aromatic oils create the signature bright, herby flavor that defines pesto. The quick pulse blending keeps those essential oils intact while still breaking down the leaves enough to create a creamy yet slightly textured sauce. Overblending can cause bitterness and a mushy consistency.</p><p>Slowly incorporating olive oil while blending emulsifies the mixture, producing a smooth, luscious sauce. This gradual addition helps suspend the tiny bits of basil and nuts evenly in the oil, avoiding separation. Parmesan cheese adds savory umami and thickens the sauce but must be added at the end to keep the texture silky.</p><p>Finishing with salt, pepper, and optional lemon juice balances the flavors perfectly, making the pesto taste vibrant and well-rounded. This recipe’s simplicity lets each ingredient shine, while the technique ensures a fresh, flavorful, and creamy pesto every time.</p>",
+        "ingredient_notes": {
+            "Fresh Basil Leaves": "Look for vibrant, dark green basil with no wilting or browning. Fresh basil is essential for that bright, peppery flavor and aromatic oils that give pesto its signature taste. Avoid basil that looks dull or has yellow spots, as it will produce a less flavorful sauce. Use leaves only, discarding tough stems to prevent bitterness.",
+            "Pine Nuts": "Choose raw pine nuts and toast them lightly to enhance their buttery flavor. Pine nuts add a creamy texture and subtle nuttiness that balances the herbal basil. Avoid over-toasting, which can cause bitterness. If pine nuts are unavailable, walnuts are a common substitute but will alter the flavor slightly.",
+            "Garlic": "Use fresh garlic cloves, as pre-minced or powdered garlic won’t provide the same pungency or freshness. Garlic adds a sharp, savory note that complements the basil and nuts. Adjust the amount to your taste; too much can overpower the pesto, while too little makes it bland.",
+            "Extra Virgin Olive Oil": "Select a fruity, high-quality extra virgin olive oil for the best flavor and smooth texture. The oil emulsifies the pesto and carries the flavors. Avoid cheap or heavily processed oils, which can taste greasy or bland. The oil’s richness balances the sharpness of garlic and brightness of basil.",
+            "Parmesan Cheese": "Freshly grated Parmesan or Parmigiano-Reggiano adds umami depth and a slight saltiness that rounds out the pesto. Pre-grated cheese often contains anti-caking agents that affect texture. Add cheese at the end of blending to maintain creaminess without graininess."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast pine nuts gently until golden but not brown.",
+            "reason": "Toasting releases the nuts’ oils and enhances flavor without bitterness. Over-toasting makes them taste burnt, ruining your pesto’s delicate balance."
+        },
+        {
+            "tip": "Use a food processor instead of a blender for better texture control.",
+            "reason": "A food processor pulses ingredients more evenly, preserving some chunkiness essential for rustic pesto. Blenders can over-process and turn it into a puree."
+        },
+        {
+            "tip": "Add olive oil slowly while blending to emulsify properly.",
+            "reason": "Slow addition prevents separation and creates a smooth, creamy sauce. Pouring oil too quickly results in a greasy, thin pesto."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese instead of pre-grated.",
+            "reason": "Fresh cheese melts better and enhances texture and flavor. Pre-grated often contains additives that affect pesto’s creaminess."
+        },
+        {
+            "tip": "Store pesto with a thin layer of olive oil on top to prevent browning.",
+            "reason": "Exposure to air causes oxidation, turning pesto brown and dull. The oil barrier keeps it vibrant and fresh longer."
+        },
+        {
+            "tip": "Adjust garlic quantity to suit your taste; start with less if unsure.",
+            "reason": "Raw garlic can be very strong and overpower the pesto. It’s easier to add more later than to fix an overly garlicky sauce."
+        },
+        {
+            "tip": "If pesto thickens after refrigeration, loosen with olive oil or pasta water.",
+            "reason": "Cold causes oil to solidify, thickening the pesto. Adding liquid restores spreadable consistency without compromising flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using wilted or old basil leaves",
+            "why_it_happens": "Sometimes cooks use whatever basil is on hand without checking freshness, assuming flavor won’t be affected.",
+            "fix": "Always pick fresh, vibrant basil leaves for the best flavor. If basil is limp, the pesto will taste dull and may turn brown quickly."
+        },
+        {
+            "mistake": "Skipping toasting pine nuts",
+            "why_it_happens": "Some think raw nuts are fine or want to save time, not realizing the flavor difference.",
+            "fix": "Toast nuts lightly in a dry pan until golden to unlock their full flavor, which makes a richer pesto."
+        },
+        {
+            "mistake": "Over-blending pesto into a puree",
+            "why_it_happens": "Using a blender on high speed or blending too long can cause this.",
+            "fix": "Pulse gently to keep some texture. Over-processed pesto loses its rustic charm and can taste bitter."
+        },
+        {
+            "mistake": "Adding too much garlic at once",
+            "why_it_happens": "Garlic lovers sometimes add extra without testing, overpowering the sauce.",
+            "fix": "Start with less garlic and add more if needed after tasting to keep balance."
+        },
+        {
+            "mistake": "Not seasoning pesto properly",
+            "why_it_happens": "Some skip seasoning or add too much salt at the start.",
+            "fix": "Season at the end, tasting as you go, to achieve perfectly balanced flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Basil Pesto",
+            "description": "Swap pine nuts with toasted walnuts for a slightly earthier, richer pesto. This variation has a deeper, nuttier flavor and a bit more texture. Great if pine nuts are pricey or hard to find.",
+            "technical_note": "Walnuts are softer than pine nuts, so pulse less to avoid a pasty texture."
+        },
+        {
+            "name": "Spinach and Basil Pesto",
+            "description": "Add fresh spinach leaves along with basil for a milder, greener pesto packed with extra nutrients. It’s lighter in flavor but still creamy and perfect for kids or picky eaters.",
+            "technical_note": "Use equal parts spinach and basil to keep the bright pesto color and flavor balance."
+        },
+        {
+            "name": "Vegan Basil Pesto",
+            "description": "Replace Parmesan with nutritional yeast or vegan cheese to keep the cheesy flavor without dairy. Use the same method for a creamy, flavorful vegan-friendly pesto.",
+            "technical_note": "Nutritional yeast adds umami but doesn’t melt, so texture will be slightly different."
+        },
+        {
+            "name": "Spicy Basil Pesto",
+            "description": "Add a pinch of red pepper flakes or a small fresh chili to the blender for a spicy kick. This variation pairs beautifully with grilled meats or roasted vegetables for extra flavor dimension.",
+            "technical_note": "Adjust chili quantity carefully to avoid overpowering the basil’s freshness."
+        },
+        {
+            "name": "Lemon Basil Pesto",
+            "description": "Increase lemon juice and zest for a bright, citrusy pesto that’s perfect for summer salads or seafood dishes. The lemon adds a fresh zing and keeps the pesto vibrant longer.",
+            "technical_note": "Add zest before blending for maximum flavor, and adjust acidity to taste."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "4g",
+        "fat_grams": "27g",
+        "fiber_grams": "1g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific brands and ingredient quantities."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pesto can safely sit out for up to 2 hours if covered, but it’s best stored chilled to keep its vibrant color and fresh flavor.",
+        "refrigerator": "Store pesto in an airtight container with a thin layer of olive oil on top for up to 4 days. Flavor may mellow and darken slightly; stir before serving.",
+        "freezer": "Freeze pesto in small portions (ice cube trays work well) for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and stir well before use.",
+        "reheating": "Pesto is best served cold or at room temperature. If warming, gently heat on low in a saucepan or microwave with a splash of olive oil or pasta water to loosen it, avoiding overheating which can dull flavor.",
+        "make_ahead_strategy": "Prepare pesto 1-2 days ahead and store refrigerated with olive oil on top. This lets flavors meld nicely. For longer storage, freeze and thaw as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I use other nuts instead of pine nuts?",
+            "answer": "Absolutely! Walnuts, almonds, or cashews work well and add different flavor notes. Just toast them lightly for best results. Keep in mind the flavor will shift slightly with each nut choice."
+        },
+        {
+            "question": "How long does homemade pesto last in the fridge?",
+            "answer": "Stored properly in an airtight container with a layer of olive oil on top, pesto lasts about 3 to 4 days. After that, it may start to brown and lose freshness, so it’s best to consume it quickly."
+        },
+        {
+            "question": "Why is my pesto bitter?",
+            "answer": "Bitterness often comes from over-blending the basil or using basil stems. Also, over-toasting pine nuts or garlic can cause bitterness. Pulse gently and use only basil leaves to avoid this."
+        },
+        {
+            "question": "Can I freeze pesto?",
+            "answer": "Yes! Freeze in small portions to make it easy to use later. Use ice cube trays and transfer frozen cubes to freezer bags. Thaw in the fridge overnight and stir well before serving."
+        },
+        {
+            "question": "Do I have to use Parmesan cheese?",
+            "answer": "Parmesan adds umami and creaminess, but you can omit it for a dairy-free or vegan pesto. Nutritional yeast is a popular substitute that provides a cheesy flavor without dairy."
+        },
+        {
+            "question": "Can I make pesto without a food processor?",
+            "answer": "Yes, you can finely chop the basil, garlic, and nuts by hand and mix with oil and cheese. It takes more time but results in a chunkier, rustic pesto."
+        },
+        {
+            "question": "How do I keep pesto green and fresh looking?",
+            "answer": "Store pesto with a thin layer of olive oil on top and airtight to prevent air contact. Using lemon juice also helps prevent browning. Refrigerate promptly after making."
+        },
+        {
+            "question": "What’s the best way to serve pesto?",
+            "answer": "Pesto is delicious tossed with hot pasta, spread on sandwiches, dolloped on grilled veggies, or stirred into soups. Use it fresh or slightly loosen with olive oil or pasta water for easy mixing."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this fresh basil pesto as much as I do! It’s a simple, flavorful way to brighten your meals—don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "homemade basil pesto recipe",
+        "secondary_keywords": [
+            "easy basil pesto",
+            "how to make pesto",
+            "best pesto sauce recipe",
+            "quick homemade pesto"
+        ],
+        "internal_links": [
+            {
+                "text": "classic spaghetti with tomato sauce",
+                "anchor": "classic-spaghetti-tomato-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_1.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_2.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_3.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images/homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782428973_803",
+    "slug": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch",
+    "isOnline": true,
+    "createdAt": "2026-06-26T00:40:58+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-26T00:40:58+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "homemade-pesto-fresh-vibrant-and-so-easy-to-make-from-scratch/images",
+    "has_reel": true
+}
