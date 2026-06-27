@@ -1,0 +1,348 @@
+{
+    "title": "Hearty Slow Cooker Vegetarian Chili for Easy Party Hosting",
+    "promptIMG": "Food photography: Hearty Slow Cooker Vegetarian Chili, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This slow cooker vegetarian chili is packed with colorful veggies and warming spices, simmered low and slow for deep flavor. It’s a fuss-free crowd-pleaser that’s perfect for potlucks or cozy nights in.",
+    "hashtags": "#vegetarianchili #slowcookerrecipes #partyfood",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Slow Cooker Veggie Chili Tonight!",
+            "description": "Warm up your evening with this flavorful slow cooker vegetarian chili. Loaded with beans and spices, it’s a simple recipe that’s perfect for busy days or casual get-togethers. Save this for your next dinner! 🌶️🍲 #vegetarianrecipes #slowcookermeals #comfortfood"
+        },
+        {
+            "title": "The Easiest Slow Cooker Chili to Feed a Crowd",
+            "description": "Hosting a party? This vegetarian chili is your new best friend. Just toss everything in the slow cooker and forget it. Delicious, hearty, and meat-free! Try it today and impress your guests. 🥄🌱 #partyrecipes #veggiechili #slowcooking"
+        },
+        {
+            "title": "Rich & Flavorful Vegetarian Chili Made in the Slow Cooker",
+            "description": "Discover how easy it is to make a rich, hearty vegetarian chili with minimal effort. Perfect for potlucks or weeknight dinners. Give this recipe a try and enjoy all the cozy flavors! 🍛🔥 #vegetarianmeals #slowcookerrecipes #easymeals"
+        },
+        {
+            "title": "Set It and Forget It: Slow Cooker Vegetarian Chili Magic",
+            "description": "No fuss, just flavor! This slow cooker vegetarian chili is loaded with veggies and spices that develop beautifully over hours. Perfect for busy cooks who want a tasty meal waiting. Save it for your next meal prep! 🥕🍅 #slowcookerdinners #vegetarianrecipes #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 360,
+    "servings": 6,
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 large onion, diced",
+        "3 cloves garlic, minced",
+        "1 red bell pepper, diced",
+        "1 green bell pepper, diced",
+        "2 medium carrots, diced",
+        "2 celery stalks, diced",
+        "1 can (15 oz) black beans, drained and rinsed",
+        "1 can (15 oz) kidney beans, drained and rinsed",
+        "1 can (15 oz) diced tomatoes",
+        "1 cup vegetable broth",
+        "2 tablespoons chili powder",
+        "1 teaspoon ground cumin",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "Optional: chopped fresh cilantro for garnish"
+    ],
+    "yield": "Approximately 6 hearty servings",
+    "introduction": "I first made this slow cooker vegetarian chili on a chilly fall evening when I wanted something warm and comforting but didn’t feel like fussing over the stove. It’s become a go-to recipe in my house because it’s so simple to assemble and then just let the slow cooker do its magic. What I love about this version is the balance of hearty beans and fresh veggies that soak up all those cozy spices. The trick I learned early on is to sauté the aromatics first—onion, garlic, and peppers—because it deepens the flavor in a way that just dumping everything raw in the slow cooker doesn’t achieve. Plus, using smoked paprika gives it a subtle smoky note without needing any meat, which makes it perfect for vegetarians and meat-eaters alike. When it’s done, the chili is thick, rich, and full of layers of flavor that taste even better the next day. It’s great for casual dinners, potlucks, or anytime you want a comforting bowl that feels like a warm hug. Honestly, I’ve had friends swear it’s better than their usual chili, and that always makes me smile!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet over medium heat. Add the diced onion, garlic, red and green bell peppers, carrots, and celery. Sauté for about 8-10 minutes, stirring occasionally until the vegetables soften and the onions turn translucent. This step is crucial because it releases the natural sweetness and deepens the flavor of the veggies, which will make your chili taste richer. Avoid rushing this step or cooking on too high heat, or the garlic might burn and turn bitter.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggies should be tender and onions translucent without browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Transfer the sautéed vegetables to your slow cooker. Add the drained black beans, kidney beans, diced tomatoes with their juice, and vegetable broth. Stir in the chili powder, ground cumin, smoked paprika, dried oregano, salt, and pepper. Mixing the spices in now allows them to infuse the chili slowly as it cooks, building a deep, harmonious flavor. Skipping or rushing this step can result in uneven seasoning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients well combined with spices evenly distributed"
+        },
+        {
+            "step": 3,
+            "instruction": "Set your slow cooker to low heat and cook the chili for 6 hours, stirring once or twice if possible during cooking. The low and slow cooking process allows the flavors to meld beautifully and the beans and veggies to soften perfectly without becoming mushy. Resist the urge to lift the lid too often, as it lets heat escape and prolongs cooking time.",
+            "timing": "6 hours",
+            "doneness_cue": "Chili thickened, beans tender, and aroma rich and inviting"
+        },
+        {
+            "step": 4,
+            "instruction": "About 30 minutes before serving, taste your chili and adjust the seasoning if needed. Sometimes a pinch more salt or a splash of broth can help balance flavors. This final seasoning tweak makes a big difference, so don’t skip it. If you want a little heat, you can add a dash of cayenne or hot sauce now.",
+            "timing": "5 minutes",
+            "doneness_cue": "Flavor balanced and chili has a pleasant, spicy warmth"
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the chili hot, garnished with chopped fresh cilantro if you like. It pairs beautifully with warm cornbread or over rice for a complete meal. The fresh herb adds a bright pop that contrasts nicely with the rich, smoky chili flavors.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chili steaming hot with fresh garnish on top"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to thicken the chili further, mix 1 tablespoon of cornstarch with 2 tablespoons of cold water and stir it into the chili about 15 minutes before the end of cooking. This will give you a heartier texture without altering the flavor.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chili noticeably thicker and glossy in appearance"
+        },
+        {
+            "step": 7,
+            "instruction": "For an extra flavor boost, try toasting the chili powder and cumin in the dry skillet for a minute before adding them to the slow cooker. Toasting spices releases their oils and makes the chili taste more vibrant and complex.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices become fragrant and slightly darker in color"
+        },
+        {
+            "step": 8,
+            "instruction": "If you prefer a chunkier chili, add an extra can of diced tomatoes or some corn kernels during the last hour of cooking. This adds texture and sweetness that balances the smoky spices.",
+            "timing": "1 hour",
+            "doneness_cue": "Chili has visible chunks of tomato and corn with vibrant colors"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the chili rest for 10-15 minutes after turning off the slow cooker before serving. This resting time lets the flavors settle and meld even further, ensuring every bite tastes delicious.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chili smells aromatic and flavors feel fully rounded"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Slow Cooker Vegetarian Chili Works So Well",
+        "content": "<p>This slow cooker vegetarian chili succeeds because of the way the ingredients and cooking methods interact to develop deep, layered flavors with minimal effort. Starting with sautéing the aromatics like onion, garlic, and bell peppers is key—it softens them and releases natural sugars, creating a flavorful base that a slow cooker alone can't replicate. The Maillard reaction during this step adds subtle complexity that elevates the final dish.</p><p>Using a mix of beans provides both texture and protein, making it hearty and satisfying. Beans also absorb the spices and broth over the slow cooking period, which helps the chili taste rich and cohesive. The slow, low heat gently breaks down the beans and veggies without turning them mushy, maintaining pleasant mouthfeel.</p><p>The spices—chili powder, cumin, smoked paprika, and oregano—are balanced carefully to provide warmth and smokiness without overwhelming heat. Smoked paprika adds a subtle smoky flavor that mimics the depth you’d get from meat, making this vegetarian chili feel indulgent. Toasting the spices before simmering releases essential oils, boosting aroma and flavor intensity.</p><p>Finally, slow cooking allows the flavors to meld gradually, resulting in a chili that’s more harmonious and nuanced than a quick stovetop version. The resting time after cooking further enhances this effect, rounding out the taste and ensuring each bite is comforting and satisfying.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good quality extra virgin olive oil with a fresh, fruity aroma. It’s important because it forms the flavor base when sautéing vegetables, helping to carry and meld the spices. Avoid using oils with strong or off flavors, as they can overpower the delicate balance in the chili.",
+            "black beans": "Black beans are a great choice for chili because they hold their shape well and have a creamy texture inside. Always drain and rinse canned beans to reduce sodium and remove canning liquid flavors. For dried beans, soak and cook fully before adding to the chili to ensure even texture.",
+            "chili powder": "Look for chili powder that’s fresh and vibrant, often a blend of ground dried chilies, cumin, garlic, and oregano. This spice is the backbone of the chili’s flavor. If it’s old or stale, the chili will taste flat. Toasting the powder briefly in a dry pan releases its essential oils, intensifying the aroma.",
+            "diced tomatoes": "Use good quality canned diced tomatoes with their juice to add acidity and sweetness. This ingredient balances the richness of the beans and spices. If tomatoes are too watery, the chili may be thin, so choose brands that have a firm texture and rich flavor.",
+            "smoked paprika": "Smoked paprika adds a subtle smoky flavor without heat, perfect for vegetarian dishes. Spanish smoked paprika is preferred for its depth and complexity. It’s important not to substitute with regular paprika, as it lacks the smoky notes that give this chili its character."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sauté your aromatics before adding them to the slow cooker.",
+            "reason": "Sautéing onions, garlic, and peppers caramelizes their natural sugars through the Maillard reaction, adding depth and sweetness that a slow cooker alone can't develop. Skipping this step often results in a one-dimensional flavor."
+        },
+        {
+            "tip": "Rinse canned beans to reduce excess salt and improve flavor.",
+            "reason": "Canned beans are packed in salty liquid which can make your chili overly salty or metallic-tasting. Rinsing them removes this and prevents the chili from being too salty while also improving texture."
+        },
+        {
+            "tip": "Toast your chili powder and cumin briefly before adding.",
+            "reason": "Heating spices in a dry pan releases their essential oils and dramatically boosts their aroma and flavor. This simple step makes a big difference in the final complexity of the chili."
+        },
+        {
+            "tip": "Cook chili on low heat for at least 6 hours for best flavor.",
+            "reason": "Low and slow cooking allows flavors to meld and beans to soften perfectly without breaking down too much. Rushing with high heat can lead to uneven texture and muted flavors."
+        },
+        {
+            "tip": "Add fresh herbs like cilantro just before serving.",
+            "reason": "Fresh herbs provide a bright contrast to the rich, smoky chili flavors. Adding them too early causes them to wilt and lose their vibrancy."
+        },
+        {
+            "tip": "Adjust seasoning towards the end of cooking.",
+            "reason": "Flavors concentrate and meld during slow cooking, so the seasoning needs tweaking at the end to balance salt, acidity, and heat perfectly."
+        },
+        {
+            "tip": "Let chili rest for 10-15 minutes after cooking.",
+            "reason": "Resting allows the flavors to settle and develop further, resulting in a more harmonious taste and better texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sauté step for aromatics",
+            "why_it_happens": "Many cooks want to save time and toss everything raw into the slow cooker, assuming slow cooking will develop flavor.",
+            "fix": "Take the extra 10 minutes to sauté onions, garlic, and peppers first. This step caramelizes the sugars and unlocks deeper flavor that slow cooking alone can't achieve."
+        },
+        {
+            "mistake": "Not rinsing canned beans",
+            "why_it_happens": "People often use canned beans straight from the can to save time, unaware of the salty packing liquid.",
+            "fix": "Drain and rinse canned beans under cold water before adding to the chili. This reduces excess sodium and improves the taste and texture."
+        },
+        {
+            "mistake": "Cooking chili on high heat in slow cooker",
+            "why_it_happens": "Impatience or lack of knowledge leads to setting the slow cooker to high to shorten cook time.",
+            "fix": "Use low heat for at least 6 hours. High heat can break down beans too much and produce uneven flavors."
+        },
+        {
+            "mistake": "Adding fresh herbs too early",
+            "why_it_happens": "Some add herbs at the start thinking it will infuse flavor better.",
+            "fix": "Add fresh herbs like cilantro just before serving to keep their bright flavor and color intact."
+        },
+        {
+            "mistake": "Not adjusting seasoning at the end",
+            "why_it_happens": "Assuming the initial seasoning is enough without tasting after cooking.",
+            "fix": "Always taste and adjust salt, pepper, and spices at the end to balance the flavors perfectly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Vegetarian Chili",
+            "description": "Add 1-2 chopped chipotle peppers in adobo sauce along with the spices for a smoky, spicy kick. This variation brings a deeper heat and smokiness that complements the beans beautifully.",
+            "technical_note": "Reduce smoked paprika slightly to balance the chipotle’s intensity and watch the chili closely near the end to avoid overpowering heat."
+        },
+        {
+            "name": "Sweet Potato and Black Bean Chili",
+            "description": "Add 1 large diced sweet potato along with the other vegetables for a natural sweetness and creamier texture. Sweet potatoes pair well with the smoky spices and add extra nutrition.",
+            "technical_note": "Cut sweet potatoes into small, even cubes to ensure they cook through in the slow cooker within 6 hours."
+        },
+        {
+            "name": "Quinoa Boosted Vegetarian Chili",
+            "description": "Stir in 1 cup rinsed quinoa about 30 minutes before the end of cooking. Quinoa adds protein and a pleasant texture, making the chili even more filling and nutritious.",
+            "technical_note": "Add extra 1/2 cup vegetable broth when adding quinoa to prevent the chili from becoming too thick."
+        },
+        {
+            "name": "Creamy Vegetarian Chili with Coconut Milk",
+            "description": "For a creamier chili, stir in 1 cup coconut milk during the last hour of cooking. The coconut adds a subtle sweetness and richness that balances the spices nicely.",
+            "technical_note": "Use full-fat coconut milk for best texture and avoid curdling by adding it late in the cooking process."
+        },
+        {
+            "name": "Chunky Corn and Tomato Vegetarian Chili",
+            "description": "Add 1 cup fresh or frozen corn kernels and an extra can of diced tomatoes for a chunkier, sweeter chili. This variation adds texture and bright pops of flavor.",
+            "technical_note": "Add corn and extra tomatoes during the last hour to keep their texture vibrant."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "14g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "6g",
+        "fiber_grams": "13g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This chili can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly if not eating right away.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen as it sits, but the texture may thicken. Reheat gently on the stovetop or microwave with a splash of broth to loosen it up.",
+        "freezer": "Freeze chili in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge and reheat thoroughly before serving.",
+        "reheating": "Reheat chili slowly over medium-low heat on the stovetop, stirring occasionally. Add a splash of vegetable broth or water if it’s too thick. Avoid high heat to prevent scorching. Microwave reheating works too, but stir every minute for even warming.",
+        "make_ahead_strategy": "You can prepare the sautéed veggies and spice mix 1-2 days ahead and store separately in the fridge. Assemble the chili in the slow cooker and cook on the day you want to serve. This saves time and enhances flavor melding."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried beans instead of canned?",
+            "answer": "Absolutely! If using dried beans, soak them overnight and cook them fully before adding to the slow cooker. This ensures they become tender and digestible. Adding raw dried beans directly to a slow cooker chili without pre-cooking may result in hard beans and uneven cooking."
+        },
+        {
+            "question": "How can I make this chili spicier?",
+            "answer": "To add heat, try adding cayenne pepper, chopped jalapeños, or chipotle peppers in adobo sauce. Start with small amounts and taste as you go to avoid overpowering the dish. Spicy chili powder brands also help intensify heat naturally."
+        },
+        {
+            "question": "What can I substitute for smoked paprika?",
+            "answer": "If you don’t have smoked paprika, regular paprika can work but will lack the smoky depth. To mimic smokiness, add a small amount of liquid smoke or chipotle powder, but use sparingly as these are more intense."
+        },
+        {
+            "question": "Can I make this chili on the stovetop instead of a slow cooker?",
+            "answer": "Yes! Sauté the veggies as directed, then simmer everything in a large pot over low heat for about 45 minutes to an hour, stirring occasionally. This speeds up cooking but the flavors won’t meld quite as deeply as slow cooking."
+        },
+        {
+            "question": "How thick should the chili be?",
+            "answer": "The chili should be thick enough to hold its shape on a spoon but still moist and saucy. If it’s too thin, simmer uncovered for 15-20 minutes to reduce liquid. If too thick, stir in a bit more broth or water."
+        },
+        {
+            "question": "Is this chili gluten-free?",
+            "answer": "Yes, all ingredients used are naturally gluten-free. Just be sure to check your spice blends and canned goods for any gluten-containing additives if you have a sensitivity."
+        },
+        {
+            "question": "Can I add meat to this recipe?",
+            "answer": "Definitely! Brown ground beef or turkey separately, drain fat, and add to the slow cooker with the other ingredients. This will add richness and protein, but keep in mind it will change the flavor profile."
+        },
+        {
+            "question": "How do I prevent the chili from burning in the slow cooker?",
+            "answer": "Make sure to stir the chili once or twice during cooking to prevent sticking, especially around the edges. Also, avoid using the high heat setting for long periods, as this can cause scorching."
+        }
+    ],
+    "conclusion": "I hope you enjoy this slow cooker vegetarian chili as much as my family does! It’s a simple, comforting recipe that’s perfect for any occasion. Don’t forget to share your results!",
+    "seo": {
+        "primary_keyword": "slow cooker vegetarian chili",
+        "secondary_keywords": [
+            "easy vegetarian chili",
+            "slow cooker chili recipe",
+            "how to make vegetarian chili",
+            "best vegetarian chili recipe",
+            "healthy slow cooker meals"
+        ],
+        "internal_links": [
+            {
+                "text": "best slow cooker soups",
+                "anchor": "best-slow-cooker-soups"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_1.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_1.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_2.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_2.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_3.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_3.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_7.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_9.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_5.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_6.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_4.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_8.webp",
+            "relativePath": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images/slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        }
+    ],
+    "id": "post_1782591007_108",
+    "slug": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly",
+    "isOnline": true,
+    "createdAt": "2026-06-27T21:16:45+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-27T21:16:45+01:00",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "slow-cooker-party-recipes-vegetarian-easy-flavorful-and-crowd-friendly/images",
+    "has_reel": true
+}

@@ -1,0 +1,342 @@
+{
+    "title": "Cozy Slow Cooker Pulled Pork for Easy Party Feasts",
+    "promptIMG": "Food photography: Slow Cooker Pulled Pork, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This slow cooker pulled pork is the ultimate fuss-free party dish. It’s juicy, tender, and packed with smoky flavor thanks to a simple spice rub. Perfect for casual gatherings or game day!",
+    "hashtags": "#pulledpork #slowcookerrecipes #partyfood",
+    "board_name": "Easy Slow Cooker Recipes",
+    "pin_variations": [
+        {
+            "title": "Make Party Prep a Breeze with This Slow Cooker Pulled Pork!",
+            "description": "Throw this pork in the slow cooker and forget it till mealtime. Juicy, tender, and full of smoky goodness, it’s a crowd-pleaser every time. Save this recipe for your next get-together! 🐖🔥 #pulledpork #slowcooker #partyrecipes"
+        },
+        {
+            "title": "Tender Slow Cooker Pulled Pork That Melts in Your Mouth",
+            "description": "Looking for easy party food? This pulled pork is slow-cooked to perfection with a flavorful spice rub. Serve it on buns or over rice and watch it disappear! Try it today and impress your guests. 🍖✨ #slowcookermeals #pulledporkrecipe #easyentertaining"
+        },
+        {
+            "title": "The Best Slow Cooker Pulled Pork for Stress-Free Entertaining",
+            "description": "Set it and forget it! This pulled pork recipe is juicy, tender, and effortlessly delicious. Perfect for casual family celebrations or game day. Discover how easy party food can be! 🎉🍽️ #pulledpork #slowcookerrecipes #partyfoodideas"
+        },
+        {
+            "title": "Slow Cooker Pulled Pork: Your New Go-To Party Dish",
+            "description": "This pulled pork comes out tender and packed with smoky flavor every time. Great for feeding a crowd without the fuss. Save this recipe and make your next party a hit! 🥳🍖 #pulledpork #slowcookerdinner #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 480,
+    "servings": 8,
+    "ingredients": [
+        "4 pounds pork shoulder, trimmed",
+        "2 tablespoons smoked paprika",
+        "1 tablespoon brown sugar",
+        "1 tablespoon garlic powder",
+        "1 tablespoon onion powder",
+        "1 teaspoon chili powder",
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1 cup barbecue sauce",
+        "1/2 cup apple cider vinegar",
+        "1/2 cup chicken broth"
+    ],
+    "yield": "Approximately 8 servings",
+    "introduction": "I first made this slow cooker pulled pork a few years ago when I wanted something easy to feed a crowd without spending hours in the kitchen. The magic is in the pork shoulder slowly cooking all day, soaking up a smoky, sweet spice rub that I mix together myself. I’ve tried a bunch of recipes, but this one stands out because it’s simple yet packed with flavor — no complicated ingredients or steps. What really makes it different is adding a splash of apple cider vinegar and broth to keep the meat juicy and tender as it cooks. The slow cooker does all the work, so you can relax or prep sides while it simmers away. When it’s done, the pork just falls apart perfectly, making it ideal for sandwiches or tacos. I love how the spice blend is just right—not too spicy, but enough to give it a nice kick. Plus, it’s great for casual get-togethers, game days, or any time you want hearty, comforting food without the stress. Honestly, I’ve burned my fair share of pork before discovering this method, but this recipe is foolproof. The end result is juicy, tender pork that tastes like you spent hours on it. It’s become a family favorite and a go-to for entertaining, and I think you’ll love it too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing together the smoked paprika, brown sugar, garlic powder, onion powder, chili powder, salt, and black pepper in a small bowl. This spice rub is the backbone of the flavor, so take a moment to combine everything well. The brown sugar helps create a subtle caramelization during cooking, while the paprika adds a smoky depth. Make sure you evenly coat the pork shoulder all over with this rub, pressing it into the meat so it sticks. This step is crucial because it builds the flavor foundation that will infuse the pork as it slowly cooks. Avoid skipping this or applying the rub unevenly, as that can lead to bland spots in the meat.",
+            "timing": 10,
+            "doneness_cue": "Pork shoulder fully coated and dry to the touch without clumps of spice"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the seasoned pork shoulder into the slow cooker. Pour in the apple cider vinegar and chicken broth around the pork, avoiding washing off the rub. The vinegar helps tenderize the meat and cuts through the richness, while the broth adds moisture to keep the pork juicy. Pour in the barbecue sauce on top or save some for serving later, depending on your preference. Cooking low and slow for about 8 hours allows the connective tissues in the pork to break down gently, resulting in melt-in-your-mouth tenderness. Rushing this step by cooking on high or shortening the time will yield tougher meat with less flavor.",
+            "timing": 480,
+            "doneness_cue": "Pork is tender enough to shred easily with two forks and juices are bubbling gently"
+        },
+        {
+            "step": 3,
+            "instruction": "Once the pork is cooked, transfer it to a large cutting board or bowl and use two forks to shred the meat. Shredding while it’s hot helps it pull apart easily and soak up any remaining juices. Be sure to remove any large chunks of fat or gristle as you go. Mixing the shredded pork back into the slow cooker juices enhances the flavor and keeps it moist for serving. This step is where the texture really comes together, so don’t rush it or you’ll end up with uneven pieces.",
+            "timing": 10,
+            "doneness_cue": "Meat easily pulls apart without resistance and looks juicy"
+        },
+        {
+            "step": 4,
+            "instruction": "Taste the pulled pork and adjust seasoning if needed — sometimes a pinch more salt or a drizzle of barbecue sauce can brighten the flavor. Keep it warm on the slow cooker’s warm setting until ready to serve. This resting period lets the flavors meld even more. Avoid letting it sit uncovered or it may dry out.",
+            "timing": 5,
+            "doneness_cue": "Balanced, flavorful taste with a moist texture"
+        },
+        {
+            "step": 5,
+            "instruction": "Prepare buns, tortillas, or sides while the pork finishes cooking. Classic pairings include coleslaw, pickles, or baked beans. This complements the pork’s richness and adds texture contrast. Planning your sides ahead ensures everything is ready to go when the meat is done.",
+            "timing": 15,
+            "doneness_cue": "Sides prepped and ready to serve alongside pork"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the pulled pork piled high on buns or plates with your favorite toppings. Adding a spoonful of extra barbecue sauce or a tangy slaw gives it that perfect balance of sweet, smoky, and fresh. Encourage guests to customize their sandwiches for a fun, casual vibe. Presentation is simple but inviting.",
+            "timing": 5,
+            "doneness_cue": "Dish looks colorful and appetizing with contrasting textures"
+        },
+        {
+            "step": 7,
+            "instruction": "If you have leftovers, store them in an airtight container with some of the cooking juices to keep the pork moist. Reheat gently on the stove or microwave, adding a splash of water or broth if needed. This helps prevent drying out and keeps the pork tender for the next meal.",
+            "timing": 5,
+            "doneness_cue": "Leftover pork reheated evenly without drying"
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra smoky flavor, try adding a few drops of liquid smoke to the slow cooker at the start. This mimics traditional smoking and deepens the flavor profile. Use sparingly, as too much can overpower the pork. Experiment to find your preferred balance.",
+            "timing": 2,
+            "doneness_cue": "Subtle smoky aroma without bitterness"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your slow cooker promptly after use to prevent stubborn residue. Soaking the pot with warm soapy water makes cleanup easier and keeps your appliance in great condition for future recipes. This small step saves time and frustration later.",
+            "timing": 10,
+            "doneness_cue": "Slow cooker pot clean and free of stuck-on food"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Slow Cooker Pulled Pork",
+        "content": "<p>Slow cooking pork shoulder is a classic technique that works because of the cut's high collagen content. As the pork cooks low and slow, the collagen breaks down into gelatin, which tenderizes the meat and keeps it juicy. This process takes several hours but yields that signature fall-apart texture that makes pulled pork so irresistible.</p><p>The spice rub not only flavors the meat but also contributes to the Maillard reaction during cooking, especially if you sear the pork before slow cooking (optional). This reaction creates complex, savory flavors and a deeper color. The brown sugar in the rub caramelizes slightly, adding a subtle sweetness that balances the smoky paprika and chili powder.</p><p>Adding apple cider vinegar is a smart choice because its acidity helps break down muscle fibers and tenderizes the meat further. It also brightens the overall flavor, preventing the dish from tasting too heavy. The broth adds moisture, ensuring the pork doesn’t dry out during the long cooking time.</p><p>When shredding the pork, doing it while hot is critical because the meat fibers are still soft and pliable. Mixing the shredded pork back into the cooking juices helps rehydrate the meat and infuses it with even more flavor. Altogether, these techniques create a juicy, flavorful pulled pork that’s perfect for casual entertaining or family meals.</p>",
+        "ingredient_notes": {
+            "pork shoulder": "Look for a well-marbled pork shoulder (also called pork butt) with plenty of fat running through it. This fat melts during cooking, keeping the meat tender and juicy. Avoid very lean cuts, as they can dry out. If possible, buy a bone-in shoulder for extra flavor, but boneless works fine too.",
+            "smoked paprika": "Smoked paprika adds a rich, smoky flavor without needing a smoker. Choose Spanish smoked paprika for authentic taste. It’s essential for giving the pork that subtle smokiness that complements the slow cooking process perfectly.",
+            "brown sugar": "Brown sugar provides sweetness and helps with caramelization. Use light or dark brown sugar depending on your preference for molasses flavor. It balances the spices and adds depth to the rub.",
+            "apple cider vinegar": "Apple cider vinegar tenderizes the meat thanks to its acidity and brightens the flavor profile. It’s a classic ingredient in barbecue recipes. Avoid using too much, or the pork might become overly tangy.",
+            "barbecue sauce": "Choose a barbecue sauce that matches your flavor preference—sweet, tangy, or spicy. Adding it during cooking infuses the pork, but you can also serve extra on the side for more punch. Homemade or store-bought both work well."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sear the pork shoulder before slow cooking for extra flavor.",
+            "reason": "Searing the meat caramelizes the surface, triggering the Maillard reaction that develops deep, savory flavors and a richer color. While optional, this step adds complexity and a slightly crispy crust that contrasts nicely with the tender inside."
+        },
+        {
+            "tip": "Use the slow cooker’s low setting for best tenderness.",
+            "reason": "Cooking on low allows the collagen to break down gradually, ensuring the meat becomes tender without drying out. High heat can cook the pork too quickly, resulting in tougher texture and less flavor development."
+        },
+        {
+            "tip": "Don’t skip the spice rub—it’s the flavor foundation.",
+            "reason": "The rub infuses the pork with layers of smoky, sweet, and spicy notes. Applying it evenly and letting it sit for a bit before cooking allows the flavors to penetrate the meat more deeply, enhancing the final taste."
+        },
+        {
+            "tip": "Add a splash of liquid smoke if you want more smokiness.",
+            "reason": "Liquid smoke mimics the flavor of traditional smoking without the equipment. A little goes a long way, so add sparingly to avoid overpowering the pork with bitterness or artificial taste."
+        },
+        {
+            "tip": "Shred the pork while it’s hot for easier shredding.",
+            "reason": "Hot meat fibers are soft and separate easily, resulting in even, tender shreds. Waiting until the pork cools makes shredding more difficult and can produce stringier pieces."
+        },
+        {
+            "tip": "Mix shredded pork back into cooking juices for moistness.",
+            "reason": "The cooking liquid is packed with flavor and moisture. Combining it with the shredded meat keeps the pork juicy and infuses every bite with rich taste, preventing it from drying out when served."
+        },
+        {
+            "tip": "Store leftovers with some cooking juices to preserve texture.",
+            "reason": "Leftover pork tends to dry out in the fridge. Storing it with cooking juices maintains moisture and flavor, so when reheated, the pork remains tender and delicious."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the spice rub or applying it unevenly",
+            "why_it_happens": "Sometimes cooks rush through seasoning or don’t coat the meat well, assuming the slow cooker will add enough flavor.",
+            "fix": "Take your time mixing and applying the rub evenly over the entire pork shoulder. Press it into the meat so it sticks well. This ensures every bite is flavorful and not bland."
+        },
+        {
+            "mistake": "Cooking on high heat to save time",
+            "why_it_happens": "Impatience or busy schedules lead some to crank up the heat, hoping to speed the process.",
+            "fix": "Plan ahead and use the low setting for at least 8 hours. This slow, gentle cooking breaks down collagen properly, producing tender pork. High heat can dry out and toughen the meat."
+        },
+        {
+            "mistake": "Not adding enough liquid to the slow cooker",
+            "why_it_happens": "Assuming the pork will release enough juices on its own.",
+            "fix": "Always add broth and vinegar to keep the environment moist. This prevents drying and helps tenderize the pork while cooking."
+        },
+        {
+            "mistake": "Shredding pork after it cools down",
+            "why_it_happens": "Waiting because the pork is too hot to handle comfortably.",
+            "fix": "Shred the pork while it’s still hot or warm. Use two forks and work quickly for even, tender shreds. If it cools too much, reheat gently before shredding."
+        },
+        {
+            "mistake": "Forgetting to remove excess fat or gristle after shredding",
+            "why_it_happens": "In the rush to serve, some skip trimming leftover fat or connective tissue.",
+            "fix": "Take a moment to pick out any large chunks of fat or gristle after shredding. This improves texture and eating experience."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chipotle Pulled Pork",
+            "description": "Add chipotle powder or canned chipotles in adobo to the spice rub for a smoky, spicy kick. This variation has a bolder flavor and a little heat, perfect if you like your pulled pork with some fire.",
+            "technical_note": "Adjust the amount of chipotle to control spiciness; too much can overpower the pork’s natural flavor."
+        },
+        {
+            "name": "Sweet and Tangy Hawaiian Style",
+            "description": "Mix pineapple juice into the cooking liquid and add a bit of ginger to the rub for a tropical twist. This version is slightly sweeter and pairs amazingly with fresh pineapple or coleslaw.",
+            "technical_note": "Pineapple juice speeds up tenderizing due to its enzymes, so reduce cooking time slightly to avoid mushy meat."
+        },
+        {
+            "name": "Asian-Inspired Pulled Pork",
+            "description": "Use soy sauce, hoisin, and five-spice powder in the rub and cooking liquid for an umami-rich flavor. Serve with steamed buns and pickled veggies for a delicious fusion meal.",
+            "technical_note": "Five-spice powder is potent; use sparingly to avoid overpowering other flavors."
+        },
+        {
+            "name": "Mustard and Herb Pulled Pork",
+            "description": "Incorporate Dijon mustard into the rub and fresh herbs like thyme or rosemary. This gives the pork a bright, savory flavor that’s a bit different from traditional barbecue.",
+            "technical_note": "Mustard acts as a tenderizer and flavor enhancer; make sure to coat the pork well."
+        },
+        {
+            "name": "Slow Cooker Pulled Chicken",
+            "description": "Substitute pork shoulder with boneless chicken thighs and adjust cooking time to 4-5 hours. The same spice rub works well and yields tender, flavorful shredded chicken.",
+            "technical_note": "Chicken cooks faster and has less fat, so monitor cooking closely to avoid dryness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "450 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "28g",
+        "fiber_grams": "1g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pulled pork can be safely left out at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria can grow, so it’s best to refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container with some cooking juices for up to 4 days. The pork may firm up in the fridge but reheats well and can be served warm or cold in sandwiches or salads.",
+        "freezer": "Freeze pulled pork in freezer-safe containers or heavy-duty zip-top bags for up to 3 months. Remove as much air as possible to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat or in the microwave, adding a splash of broth or water to restore moisture. Avoid overheating, which can dry out the pork or make it tough.",
+        "make_ahead_strategy": "You can prepare the spice rub and season the pork up to 24 hours ahead and keep it refrigerated. The pork can also be cooked a day before and reheated gently, which often improves flavor as it allows spices to meld."
+    },
+    "faq": [
+        {
+            "question": "Can I use other cuts of pork instead of shoulder?",
+            "answer": "Pork shoulder is preferred because of its fat content and connective tissue, which break down during slow cooking to create tender, juicy meat. Leaner cuts like loin can dry out and become tough. If you must use another cut, add extra liquid and reduce cooking time."
+        },
+        {
+            "question": "Do I need to sear the pork before slow cooking?",
+            "answer": "Searing adds flavor and color but isn’t mandatory. If you’re short on time, you can skip it and still get great results. However, searing enhances the Maillard reaction, giving the pork a richer taste and appealing crust."
+        },
+        {
+            "question": "How do I know when the pork is done?",
+            "answer": "The pork is done when it’s tender enough to shred easily with forks and the internal temperature reaches around 195°F (90°C). It should feel soft and juicy, not tough or dry."
+        },
+        {
+            "question": "Can I freeze the pulled pork after cooking?",
+            "answer": "Yes, pulled pork freezes well. Store it in airtight containers or freezer bags with some cooking juices to keep it moist. Thaw in the fridge overnight and reheat gently to preserve texture."
+        },
+        {
+            "question": "What if my pulled pork is dry after cooking?",
+            "answer": "Dry pork usually means it was overcooked or lacked enough moisture. Try reheating with added broth or barbecue sauce to rehydrate it. Next time, ensure you add enough liquid and cook on low for the right amount of time."
+        },
+        {
+            "question": "Can I make this recipe spicy?",
+            "answer": "Absolutely! Add chili powder, cayenne, or chipotle peppers to the spice rub to increase heat. Start with small amounts and adjust to taste to avoid overpowering the pork’s natural flavor."
+        },
+        {
+            "question": "How long can I keep leftovers in the fridge?",
+            "answer": "Leftovers last up to 4 days refrigerated if stored properly in airtight containers with cooking juices. For longer storage, freeze as soon as possible."
+        },
+        {
+            "question": "Is it okay to cook the pork overnight?",
+            "answer": "Yes, cooking on low overnight works well and is convenient. Just make sure your slow cooker has a timer or automatically switches to warm after cooking to prevent overcooking."
+        }
+    ],
+    "conclusion": "Give this slow cooker pulled pork a try—it's easy, flavorful, and perfect for feeding a hungry crowd. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "slow cooker pulled pork recipe",
+        "secondary_keywords": [
+            "easy pulled pork",
+            "best slow cooker pork",
+            "how to make pulled pork",
+            "slow cooker party recipes",
+            "simple pulled pork recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade barbecue sauce recipe",
+                "anchor": "homemade-bbq-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_5.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_6.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_8.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_9.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_4.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_7.webp",
+            "relativePath": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images/slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782590905_342",
+    "slug": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings",
+    "isOnline": true,
+    "createdAt": "2026-06-27T21:16:45+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-27T21:16:45+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "slow-cooker-party-recipes-uk-easy-crowd-pleasing-comfort-food-for-gatherings/images",
+    "has_reel": true
+}
