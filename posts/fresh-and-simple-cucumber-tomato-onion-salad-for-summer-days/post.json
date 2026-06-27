@@ -1,0 +1,347 @@
+{
+    "title": "Refreshing Summer Tomato Cucumber Salad with Zesty Red Onion",
+    "promptIMG": "Food photography: Tomato Cucumber Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crisp salad blends juicy tomatoes, crunchy cucumbers, and zesty red onions tossed in a light vinaigrette. It’s a perfect cool side for summer BBQs or easy weeknight dinners.",
+    "hashtags": "#tomatosalad #summersalad #freshrecipes",
+    "board_name": "Easy Summer Salads",
+    "pin_variations": [
+        {
+            "title": "Cool Down with This Juicy Tomato Cucumber Salad Recipe",
+            "description": "Looking for a fresh, easy salad? This tomato cucumber combo with tangy red onion dressing is your new summer go-to! 🥒🍅 Save this recipe for your next BBQ. #FreshSalad #EasyRecipes #SummerEats"
+        },
+        {
+            "title": "The Best Tomato Cucumber Salad for Hot Weather Days",
+            "description": "Beat the heat with this crisp salad full of juicy tomatoes and crunchy cucumbers, plus a zing from red onion! Perfect side dish to keep things light and fresh. Try it today! 🥗🌞 #HealthySides #SummerSalad #QuickRecipes"
+        },
+        {
+            "title": "Simple & Zesty Tomato Cucumber Salad You’ll Love",
+            "description": "This salad is so easy to make and tastes amazing with fresh veggies and a light vinaigrette. Great for lunch or dinner sides. Discover how simple fresh can be! 🍅🥒✨ #TomatoSalad #EasyCooking #FreshAndHealthy"
+        },
+        {
+            "title": "Quick Tomato Cucumber Salad with a Kick of Red Onion",
+            "description": "Want a salad that’s fresh and flavorful? This tomato cucumber mix with sharp red onion and a light dressing is a winner every time. Perfect for busy nights! Save it now! 🥗🔥 #SummerRecipes #FreshSaladIdeas #EasyMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "3 cups cherry tomatoes, halved",
+        "2 large cucumbers, diced",
+        "1 small red onion, thinly sliced",
+        "1/4 cup extra virgin olive oil",
+        "2 tablespoons red wine vinegar",
+        "1 teaspoon honey or maple syrup",
+        "Salt and freshly ground black pepper to taste",
+        "2 tablespoons fresh parsley, chopped (optional)"
+    ],
+    "yield": "Approximately 6 cups, serves 4",
+    "introduction": "I first made this tomato cucumber salad on a sweltering summer evening when I wanted something light but flavorful. What really makes this salad stand out is the sharpness of the red onion paired with the sweet burst of cherry tomatoes and cool crunch of cucumbers. Unlike some salads that can be soggy or heavy, this one stays crisp thanks to the simple vinaigrette that coats the veggies lightly without weighing them down. I’ve found that slicing the onion very thinly and letting it soak briefly in the vinegar mixture mellows its bite just enough while keeping that signature zing. The freshness of the parsley at the end adds a lovely herbal note that brightens every bite. It’s the kind of salad you can throw together in minutes, perfect for summer dinners or BBQs when you want something refreshing but satisfying. Plus, it looks gorgeous on the plate — those vibrant reds and greens just scream summer. I think once you try this, you’ll keep coming back to it as a go-to side dish whenever the weather heats up.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your vegetables. Wash the cherry tomatoes thoroughly and cut each in half to release their juicy sweetness. Dice the cucumbers into bite-sized pieces, leaving the skin on for extra crunch and color contrast. Thinly slice the red onion as thin as possible — this helps balance its sharpness and allows it to absorb the dressing better. Taking your time here ensures each bite has the perfect texture and flavor balance between juicy, crisp, and zesty.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are uniformly cut with thin onion slices that look almost translucent."
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, whisk together the olive oil, red wine vinegar, honey, salt, and freshly ground black pepper until the mixture emulsifies into a smooth vinaigrette. The honey adds a subtle sweetness that tames the acidity of the vinegar. Taste and adjust seasoning — the dressing should be bright but balanced, not too sharp or sweet. This step is crucial because a well-balanced dressing brings all the salad ingredients together harmoniously.",
+            "timing": 5,
+            "doneness_cue": "Dressing is smooth, slightly thickened, and tastes balanced between tangy, sweet, and salty."
+        },
+        {
+            "step": 3,
+            "instruction": "Place the sliced red onions in a small bowl and pour half of the vinaigrette over them. Let them marinate for about 10 minutes. This quick pickling mellows the onion’s pungency and infuses it with flavor, making the bite less harsh but still lively. Skipping this step can leave the onion overpowering, so don’t rush it.",
+            "timing": 10,
+            "doneness_cue": "Onions look slightly softened and less opaque, with a mild tangy aroma."
+        },
+        {
+            "step": 4,
+            "instruction": "In a large mixing bowl, combine the halved tomatoes and diced cucumbers. Pour the remaining vinaigrette over them and gently toss to coat evenly. Use a light hand here to avoid bruising the tomatoes. The goal is to distribute the dressing without breaking down the veggies, preserving their fresh texture.",
+            "timing": 3,
+            "doneness_cue": "Vegetables glisten with dressing but remain firm and intact."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the marinated red onions to the large bowl with the other vegetables. Toss everything together gently to combine. The onions add a nice zing and a pop of color. Mixing at this stage ensures the flavors marry well without the onions overwhelming the salad.",
+            "timing": 2,
+            "doneness_cue": "Salad has an even distribution of red onion slices among the tomatoes and cucumbers."
+        },
+        {
+            "step": 6,
+            "instruction": "Chop fresh parsley finely and sprinkle it over the salad. Parsley adds a fresh herbal note that lightens the overall flavor and brings a lovely color contrast. If you don’t have parsley, fresh basil or dill also work beautifully here.",
+            "timing": 2,
+            "doneness_cue": "Bright green flecks are visible throughout the salad."
+        },
+        {
+            "step": 7,
+            "instruction": "Give the salad one final gentle toss to incorporate the parsley. Taste and adjust seasoning with salt and pepper if needed. This last step lets you tailor the salad to your preference before serving.",
+            "timing": 1,
+            "doneness_cue": "Balanced seasoning evident with no overpowering flavor."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the salad immediately for the freshest crunch, or chill it in the fridge for up to an hour to let flavors meld more deeply. If chilled, bring it back to room temperature for 10 minutes before serving to bring out the best flavors.",
+            "timing": 0,
+            "doneness_cue": "Salad looks fresh and vibrant, with no watery pooling at the bottom."
+        },
+        {
+            "step": 9,
+            "instruction": "Pair this salad with grilled meats, sandwiches, or as a light lunch on its own. Its refreshing crispness and subtle zing make it a versatile side that brightens any meal. Enjoy!",
+            "timing": 0,
+            "doneness_cue": "Salad complements main dishes well and holds its texture."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Salad Stays Crisp and Flavorful",
+        "content": "<p>One of the secrets to this salad’s success is the balance between juicy and crisp textures. The cherry tomatoes provide a burst of sweetness and moisture, while the cucumbers add a refreshing crunch. Using firm cucumbers with skin on helps maintain texture and adds a slight bitterness that complements the sweetness of the tomatoes.</p><p>The red onion’s sharpness is tamed by quick marination in a vinaigrette that contains acidity and a touch of honey. This process lightly pickles the onion slices, softening their bite without losing their characteristic zing, which is key to adding complexity without overpowering the salad.</p><p>The vinaigrette itself is a simple emulsion of olive oil and red wine vinegar, balanced with honey, salt, and pepper. Emulsifying the dressing ensures it coats the vegetables evenly, locking in flavor and preventing sogginess. The acidity brightens the dish and helps preserve the fresh vegetables.</p><p>Finally, fresh parsley adds a subtle herbal freshness that lifts the whole salad, while the gentle tossing technique preserves the integrity of the vegetables. This recipe is all about layering flavors and textures thoughtfully for a salad that tastes vibrant and stays crisp even after some resting time.</p>",
+        "ingredient_notes": {
+            "Cherry Tomatoes": "Look for firm, ripe cherry tomatoes that are bright red and free from blemishes. Their natural sweetness and juiciness are essential for this salad’s flavor profile. Avoid overly ripe tomatoes that can be mushy and watery, which would make the salad soggy.",
+            "Cucumbers": "Choose firm cucumbers with smooth skin; English cucumbers work well but regular slicing cucumbers are fine if peeled if the skin is waxy. The cucumber’s crunch adds texture contrast and freshness, so avoid soft or limp ones.",
+            "Red Onion": "Select a small red onion that’s firm and fresh. Red onions have a milder taste than white or yellow onions, which makes them perfect for salads. Thin slicing and marinating them in the vinaigrette helps mellow their sharpness.",
+            "Extra Virgin Olive Oil": "Use a good quality extra virgin olive oil with a balanced, fruity flavor. It acts as the fat base of the vinaigrette, carrying the acidity and seasoning across the salad evenly. Poor quality oil can taste bitter or greasy.",
+            "Red Wine Vinegar": "Red wine vinegar provides the acidic tang that brightens the salad. Choose one that’s not too harsh or overly sharp; a mellow vinegar helps balance the dressing’s flavor and softens the onion during marination."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice the red onion as thinly as possible and let it marinate in the dressing.",
+            "reason": "Thin slices absorb the vinaigrette quickly, mellowing the onion’s sharpness while preserving its zing. Without marination, the onion can overpower the salad with a harsh bite."
+        },
+        {
+            "tip": "Use cherry tomatoes instead of large slicing tomatoes.",
+            "reason": "Cherry tomatoes have a sweeter, juicier flavor and firmer texture that holds up better in salads. Larger tomatoes tend to be watery and can make the salad soggy."
+        },
+        {
+            "tip": "Toss the salad gently to avoid bruising the tomatoes.",
+            "reason": "Rough handling breaks down the tomatoes, releasing excess juice that can water down the salad. Gentle tossing keeps the vegetables intact, maintaining texture and appearance."
+        },
+        {
+            "tip": "Let the salad rest for 10-15 minutes before serving.",
+            "reason": "This allows the flavors to meld and the vegetables to soak up the dressing slightly without losing their crispness, enhancing the overall taste experience."
+        },
+        {
+            "tip": "Add fresh herbs like parsley just before serving.",
+            "reason": "Herbs lose their vibrant color and fresh flavor quickly when mixed too early. Adding them last preserves their brightness and aroma."
+        },
+        {
+            "tip": "Use a balanced vinaigrette with a touch of sweetness.",
+            "reason": "The sweetness in the dressing balances the acidity of the vinegar and the sharpness of the onion, creating a harmonious flavor that’s not too tart or bitter."
+        },
+        {
+            "tip": "Chill the salad briefly before serving for extra refreshment.",
+            "reason": "A short chill enhances the crispness and makes it especially refreshing on hot days, but avoid long chilling which can cause the salad to become soggy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using thickly sliced red onions without marinating",
+            "why_it_happens": "Many cooks underestimate how strong raw red onion can be and skip marinating to save time.",
+            "fix": "Slice onions very thin and soak them in the vinaigrette for at least 10 minutes before adding to the salad. This softens the flavor and prevents overpowering sharpness."
+        },
+        {
+            "mistake": "Over-tossing the salad causing bruised tomatoes",
+            "why_it_happens": "In a rush, it’s tempting to mix vigorously, but tomatoes are delicate and easily break.",
+            "fix": "Gently fold the salad ingredients with a large spoon or hands to preserve the tomatoes’ shape and texture."
+        },
+        {
+            "mistake": "Using watery or overripe tomatoes",
+            "why_it_happens": "Sometimes cooks grab whatever tomatoes are on hand without checking ripeness or firmness.",
+            "fix": "Choose firm, ripe cherry tomatoes to avoid excess water that can dilute the salad’s flavor and make it soggy."
+        },
+        {
+            "mistake": "Not balancing the dressing properly",
+            "why_it_happens": "Skipping tasting the vinaigrette before adding can lead to a dressing that’s too acidic or bland.",
+            "fix": "Always taste and adjust vinegar, oil, honey, salt, and pepper to create a balanced dressing that complements the vegetables."
+        },
+        {
+            "mistake": "Adding herbs too early",
+            "why_it_happens": "Adding fresh herbs at the start causes them to wilt and lose flavor.",
+            "fix": "Add fresh parsley or herbs just before serving to keep their color and aroma vibrant."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Feta Cheese and Olives",
+            "description": "Sprinkle crumbled feta and a handful of sliced Kalamata olives into the salad for a Mediterranean twist. The salty cheese and briny olives add richness and depth, making the salad heartier.",
+            "technical_note": "Add feta and olives last to keep their texture intact and avoid excess moisture release."
+        },
+        {
+            "name": "Include Fresh Mint and Lemon Zest",
+            "description": "Swap parsley for fresh mint and add a teaspoon of lemon zest to the dressing. This variation gives the salad a bright, refreshing flavor perfect for hot days.",
+            "technical_note": "Use mint sparingly as its strong flavor can dominate. Lemon zest should be finely grated for best balance."
+        },
+        {
+            "name": "Make It Spicy with Jalapeño",
+            "description": "Add thin slices of jalapeño or a pinch of red pepper flakes to the salad for a spicy kick. It pairs well with the cool cucumbers and juicy tomatoes, adding complexity.",
+            "technical_note": "Adjust spice level carefully to avoid overpowering the fresh flavors."
+        },
+        {
+            "name": "Use Balsamic Vinegar Instead of Red Wine Vinegar",
+            "description": "Swap out the red wine vinegar for balsamic vinegar for a sweeter, richer flavor profile. This gives the salad a deeper color and a slightly syrupy finish.",
+            "technical_note": "Balsamic vinegar is less acidic, so reduce honey slightly to keep balance."
+        },
+        {
+            "name": "Add Avocado for Creaminess",
+            "description": "Toss in diced avocado for a creamy texture contrast. This makes the salad more filling and adds healthy fats, perfect for a light meal.",
+            "technical_note": "Add avocado last and gently fold to avoid mashing it."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "9g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best eaten fresh but can safely sit at room temperature for up to 2 hours if covered. Beyond that, the vegetables may start to lose their crispness and freshness.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 2 days. The salad may become slightly watery as the vegetables release moisture. Bring to room temperature before serving for best flavor and texture.",
+        "freezer": "Freezing is not recommended for this salad as the fresh vegetables will become mushy and lose their texture upon thawing.",
+        "reheating": "This salad is served cold or at room temperature and should not be reheated. If you want a warm version, try gently sautéing the vegetables separately instead.",
+        "make_ahead_strategy": "You can prepare the vinaigrette and slice the vegetables a few hours ahead, storing them separately. Marinate the onions in the dressing just before assembling the salad to keep everything fresh and crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular onions instead of red onions?",
+            "answer": "Regular white or yellow onions are stronger and more pungent than red onions, so they might overpower the salad. If you must use them, slice very thinly and soak in the vinaigrette longer to mellow the sharpness."
+        },
+        {
+            "question": "How long can I store this salad in the fridge?",
+            "answer": "It keeps well for up to 2 days in an airtight container. However, the cucumbers and tomatoes may release water and soften over time, so it’s best enjoyed fresh or within a day for optimal texture."
+        },
+        {
+            "question": "Can I add other vegetables to this salad?",
+            "answer": "Absolutely! Bell peppers, radishes, or snap peas can add crunch and color. Just be mindful of balancing flavors and textures so the salad stays light and refreshing."
+        },
+        {
+            "question": "What’s the best way to slice the onions thinly?",
+            "answer": "Use a sharp knife or a mandoline slicer for uniform thin slices. Thin onion slices absorb dressing better and taste milder, which is key for this salad."
+        },
+        {
+            "question": "Can I make this salad vegan?",
+            "answer": "Yes, this recipe is naturally vegan. Just ensure your honey substitute is vegan-friendly or omit it if you prefer."
+        },
+        {
+            "question": "Is it okay to prepare the salad entirely in advance?",
+            "answer": "I recommend prepping ingredients separately but assembling the salad shortly before serving to keep the veggies crisp and fresh."
+        },
+        {
+            "question": "What vinegar can I substitute if I don’t have red wine vinegar?",
+            "answer": "Apple cider vinegar or white wine vinegar are good substitutes. They have a similar acidity and flavor profile that works well in the vinaigrette."
+        },
+        {
+            "question": "Can I add cheese to this salad?",
+            "answer": "Yes, crumbled feta or goat cheese pairs wonderfully here. Add it just before serving to maintain its texture and flavor."
+        },
+        {
+            "question": "How can I make the salad spicier?",
+            "answer": "Add thinly sliced jalapeños, red pepper flakes, or a dash of hot sauce to the vinaigrette. Start with small amounts and adjust to your preferred heat level."
+        },
+        {
+            "question": "Is it better to peel the cucumbers?",
+            "answer": "The cucumber skin adds crunch and nutrients, but if it’s waxy or bitter, peeling is a good option. English cucumbers usually don’t need peeling."
+        }
+    ],
+    "conclusion": "Give this crisp tomato cucumber salad a try—it’s super easy and so refreshing. I’d love to hear how yours turns out, so don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "tomato cucumber salad recipe",
+        "secondary_keywords": [
+            "fresh summer salad",
+            "easy vegetable salad",
+            "how to make tomato cucumber salad",
+            "best cucumber salad recipe",
+            "easy tomato salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple homemade vinaigrette recipe",
+                "anchor": "homemade-vinaigrette"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_1.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_1.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_2.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_2.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_3.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_3.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_5.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_9.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_4.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_7.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_8.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_6.webp",
+            "relativePath": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images/fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782581606_960",
+    "slug": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days",
+    "isOnline": true,
+    "createdAt": "2026-06-27T18:46:36+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-27T18:46:36+01:00",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "fresh-and-simple-cucumber-tomato-onion-salad-for-summer-days/images",
+    "has_reel": true
+}
