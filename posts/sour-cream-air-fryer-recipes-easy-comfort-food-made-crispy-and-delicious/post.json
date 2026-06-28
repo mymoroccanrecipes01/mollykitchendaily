@@ -1,0 +1,340 @@
+{
+    "title": "Crispy Sour Cream Air Fryer Chicken Tenders for Busy Weeknights",
+    "promptIMG": "Food photography: Crispy Sour Cream Air Fryer Chicken Tenders, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chicken tenders get extra juicy and tangy thanks to a sour cream marinade. The air fryer makes them crispy without the mess. Perfect for a quick family dinner that feels special!",
+    "hashtags": "#chickentenders #airfryerrecipes #quickdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Air Fryer Chicken Tenders with Tangy Sour Cream Marinade",
+            "description": "Want super tender chicken tenders with a crispy crust? This sour cream air fryer recipe nails it every time! Save this for your next weeknight meal 🍗✨ #airfryer #chickentenders #easyrecipes"
+        },
+        {
+            "title": "How To Make Crispy Chicken Tenders in the Air Fryer with Sour Cream",
+            "description": "Discover the secret to juicy, crispy chicken tenders using sour cream and your air fryer. Quick, easy, and perfect for busy nights. Try it today! 🍽️🔥 #quickdinner #airfryerrecipes #familymeals"
+        },
+        {
+            "title": "Easy Sour Cream Marinated Chicken Tenders Air Fried to Perfection",
+            "description": "These chicken tenders soaked in sour cream turn out moist inside and crispy outside. A foolproof recipe for busy cooks. Don’t miss out—make it tonight! 🥄💛 #comfortfood #airfryertenders #weeknightdinner"
+        },
+        {
+            "title": "The Best Chicken Tenders with a Crispy Sour Cream Coating in Air Fryer",
+            "description": "Crispy, tangy, and juicy—these air fryer chicken tenders with sour cream are a game changer. Perfect for family dinners or meal prep. Discover now! 🍴👌 #easychicken #airfryermeals #crispychicken"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 lb chicken tenders, fresh",
+        "1/2 cup sour cream, full fat",
+        "1 teaspoon garlic powder",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1 cup panko breadcrumbs",
+        "2 tablespoons grated Parmesan cheese",
+        "Cooking spray or oil mist"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've been making chicken tenders for years, but this sour cream air fryer version quickly became a household favorite. The first time I tried adding sour cream to the marinade, I was skeptical—would it make the chicken soggy? Turns out, it does the opposite. The sour cream adds this subtle tang and keeps the tenders incredibly juicy while helping the coating stick perfectly. Plus, using the air fryer means you get that crispy golden crust without deep frying or a huge mess. I love this recipe because it comes together in under 30 minutes, making it ideal for busy weeknights when you want something comforting but quick. One trick I learned is to mix Parmesan into the panko breadcrumbs; it adds a lovely nutty flavor and extra crispness. When they come out of the air fryer, the tenders are crunchy on the outside, tender inside, with a slight tangy kick from the sour cream. My family can't get enough, and I bet yours will love it too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a medium bowl, combine the sour cream, garlic powder, smoked paprika, salt, and black pepper. Whisk these together until smooth. This marinade is key because the sour cream tenderizes the chicken while the spices infuse flavor deeply. Make sure to fully coat each chicken tender for even seasoning. Avoid skipping the paprika—it adds a subtle smoky depth that lifts the whole dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, evenly mixed marinade with no lumps."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chicken tenders to the marinade and toss to coat thoroughly. Let them sit for at least 10 minutes at room temperature or up to 30 minutes in the fridge. This resting time allows the sour cream to penetrate the meat, making each bite juicy and flavorful. Don’t rush this step; the longer it marinates, the better the texture.",
+            "timing": "10-30 minutes",
+            "doneness_cue": "Chicken tenders fully coated and slightly plumped from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken marinates, mix the panko breadcrumbs and Parmesan cheese in a shallow dish. The Parmesan adds a savory richness and helps the coating crisp up beautifully in the air fryer. Using panko instead of regular breadcrumbs ensures a lighter, crunchier crust. Make sure your panko is fresh and not stale for best texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly combined breadcrumb and cheese mixture with no clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove each chicken tender from the marinade, letting the excess drip off, then dredge thoroughly in the panko-Parmesan mixture. Press gently to help the coating stick well. This step is crucial because too much marinade left on the chicken can make the coating soggy, so shake off extra before coating. A good even crust means maximum crunch.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken tenders evenly coated with breadcrumb mixture and no wet spots."
+        },
+        {
+            "step": 5,
+            "instruction": "Preheat your air fryer to 400°F (200°C) for about 3 minutes. Preheating helps the tenders start crisping immediately when placed inside, locking in moisture and preventing sogginess. Skipping this step can result in uneven cooking and less crispy results.",
+            "timing": "3 minutes",
+            "doneness_cue": "Air fryer is hot and ready to crisp the chicken."
+        },
+        {
+            "step": 6,
+            "instruction": "Arrange the chicken tenders in a single layer in the air fryer basket. Avoid overcrowding to ensure hot air circulates evenly around each piece for the crispiest crust. If needed, cook in batches. Spray the tenders lightly with cooking spray to encourage browning and crunch.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken tenders spaced apart with a light coating of oil."
+        },
+        {
+            "step": 7,
+            "instruction": "Cook the tenders at 400°F for 7 minutes. Then flip each tender carefully and spray the other side with cooking spray. Flip midway ensures both sides crisp up evenly without burning. If you skip flipping, one side might be soggy or less golden.",
+            "timing": "7 minutes",
+            "doneness_cue": "Golden brown edges and crispy texture on the cooked side."
+        },
+        {
+            "step": 8,
+            "instruction": "Continue cooking for another 6-8 minutes after flipping, checking for a golden crust and internal temperature of 165°F (74°C). The tenders should be cooked through but still juicy inside. Avoid overcooking or they’ll dry out.",
+            "timing": "6-8 minutes",
+            "doneness_cue": "Juicy inside with a crisp, golden-brown crust."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the tenders from the air fryer and let them rest for 3-5 minutes before serving. Resting allows the juices to redistribute, keeping the meat tender and moist. Serve with your favorite dipping sauce or a fresh salad for an easy meal.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Tender chicken with no pink inside and a crunchy exterior."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Delivers Juicy, Crispy Chicken Every Time",
+        "content": "<p>This recipe hinges on a few key principles that work together for the perfect chicken tenders. First, the sour cream marinade is a game changer. Sour cream contains lactic acid and fat, which tenderize the meat by breaking down proteins and adding moisture. This means the chicken stays juicy even with the high heat of the air fryer. The tangy flavor also brightens the dish, balancing the richness of the coating.</p><p>Next, the coating uses panko breadcrumbs mixed with Parmesan cheese. Panko is lighter and flakier than regular breadcrumbs, creating a crispier crust that holds up well in the air fryer. Parmesan adds umami and a subtle nuttiness that deepens the flavor profile. Pressing the coating firmly onto the marinated chicken ensures it adheres well and crisps evenly.</p><p>Preheating the air fryer is essential because it jumpstarts the Maillard reaction—the chemical browning process that develops flavor and crunch. Cooking at a high temperature (400°F) crisps the exterior quickly while sealing in juices. Flipping halfway through ensures both sides get evenly browned without burning. Lastly, resting the tenders lets the juices redistribute so the meat stays moist, not dry.</p><p>Each step is designed to balance moisture retention with a crunchy exterior, using simple ingredients and techniques that anyone can master at home. The result is juicy, flavorful chicken tenders with a satisfyingly crisp coating every time.</p>",
+        "ingredient_notes": {
+            "Sour Cream": "When choosing sour cream, opt for full-fat versions as they provide the best moisture and tang. The lactic acid helps tenderize the chicken while the fat adds richness. Avoid low-fat or non-dairy alternatives here, as they won’t produce the same tenderizing effect or flavor depth. Sour cream also helps the coating stick better, making it essential for this recipe’s success.",
+            "Chicken Tenders": "Fresh, boneless chicken tenders are ideal for quick cooking and even breading. They cook faster than breasts and stay moist due to their thinner size. If you use frozen, thaw completely and pat dry to avoid soggy coating. Quality matters too—look for tender, pale pink meat without any odor or discoloration.",
+            "Panko Breadcrumbs": "Panko breadcrumbs create a light, crunchy crust because of their airy, flaky texture. They absorb less oil and crisp up better than regular breadcrumbs. Use fresh panko for the best crunch. If unavailable, crushed cornflakes or crushed crackers can be a substitute but will change the texture.",
+            "Parmesan Cheese": "Freshly grated Parmesan adds a salty, nutty flavor and helps the coating brown nicely. Pre-grated powders lack the moisture and flavor depth, so grate your own if possible. Parmesan also contributes to the crust’s crispness through its dry texture and melting properties.",
+            "Cooking Spray": "A light mist of cooking spray or oil helps the coating brown evenly in the air fryer. It promotes the Maillard reaction and prevents the crust from drying out or sticking. Avoid heavy oils that can cause sogginess; a fine mist is enough for a golden finish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before marinating for better coating adherence.",
+            "reason": "Excess moisture on the chicken can dilute the marinade and cause the breadcrumb coating to slide off or become soggy during cooking. Drying the surface ensures the sour cream sticks well and the crust crisps up nicely in the air fryer."
+        },
+        {
+            "tip": "Don’t overcrowd the air fryer basket; cook in batches if needed.",
+            "reason": "Crowding traps steam and prevents hot air circulation, leading to uneven cooking and soggy breading. Spacing out the tenders allows each piece to crisp evenly and get that perfect golden crust."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese instead of pre-grated for better flavor.",
+            "reason": "Fresh Parmesan has a richer, nuttier flavor and melts more evenly, enhancing the crust’s texture and taste. Pre-grated cheese often contains anti-caking agents that can affect browning and flavor."
+        },
+        {
+            "tip": "Flip the tenders halfway through cooking for even crispiness.",
+            "reason": "Flipping exposes both sides to direct heat, ensuring a balanced golden crust. Skipping this step can result in one side being overcooked and the other underdone."
+        },
+        {
+            "tip": "Let the tenders rest a few minutes before serving.",
+            "reason": "Resting allows the juices to redistribute inside the meat, keeping it moist and tender. Cutting or biting immediately can cause the juices to spill out, drying the chicken."
+        },
+        {
+            "tip": "Add a pinch of smoked paprika to the marinade for a subtle smoky flavor.",
+            "reason": "Smoked paprika adds depth and warmth, enhancing the overall flavor without overpowering. It complements the tanginess of the sour cream beautifully."
+        },
+        {
+            "tip": "Use an instant-read thermometer to check doneness.",
+            "reason": "Chicken should reach an internal temperature of 165°F to be safe and juicy. This prevents undercooking or overcooking, which can lead to dry meat or food safety issues."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinade time",
+            "why_it_happens": "Sometimes cooks want to rush dinner and skip marinating, thinking it’s extra work.",
+            "fix": "Allow at least 10 minutes for the sour cream marinade to work its magic. This tenderizes the meat and boosts flavor. Even a short soak makes a noticeable difference in juiciness and taste."
+        },
+        {
+            "mistake": "Overcrowding the air fryer basket",
+            "why_it_happens": "Trying to cook everything at once to save time leads to crowded baskets.",
+            "fix": "Cook in batches if necessary. Give each tender enough space so hot air can circulate. This ensures even crisping and prevents soggy spots."
+        },
+        {
+            "mistake": "Not pressing the breadcrumb coating firmly",
+            "why_it_happens": "Some think just tossing the chicken in breadcrumbs is enough.",
+            "fix": "Press the coating gently but firmly onto each piece. This helps it adhere during cooking and creates a crunchier crust."
+        },
+        {
+            "mistake": "Using low-fat sour cream or substitutes",
+            "why_it_happens": "Choosing lighter options for health reasons without realizing the impact on texture.",
+            "fix": "Use full-fat sour cream for best results. It adds richness and tenderizes the chicken. Low-fat or non-dairy versions won’t provide the same moisture or flavor."
+        },
+        {
+            "mistake": "Not preheating the air fryer",
+            "why_it_happens": "Skipping preheating to save time or because some models don’t require it.",
+            "fix": "Preheat the air fryer to 400°F before adding tenders. This jumpstarts crisping and prevents sogginess."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Sour Cream Tenders",
+            "description": "Add 1-2 tablespoons of sriracha to the sour cream marinade for a spicy kick. This changes the flavor profile to a tangy, fiery treat that pairs well with cooling ranch dip. Expect a slight red tint and bold heat that complements the crispy crust.",
+            "technical_note": "Spicy marinade may brown faster; watch cooking time closely to avoid burning."
+        },
+        {
+            "name": "Herb-Infused Sour Cream Chicken",
+            "description": "Mix chopped fresh herbs like parsley, thyme, or rosemary into the marinade for a fresh, aromatic flavor. This variation brightens the dish and adds complexity without extra heat. The herbs blend beautifully with the sour cream tang.",
+            "technical_note": "Fresh herbs can burn if exposed too long; adding them to the marinade rather than the coating keeps flavor balanced."
+        },
+        {
+            "name": "Gluten-Free Almond Flour Coating",
+            "description": "Swap panko breadcrumbs for finely ground almond flour to make this recipe gluten-free. The coating will be slightly denser but still crisp and nutty. Perfect for those avoiding gluten or wanting a low-carb option.",
+            "technical_note": "Almond flour browns faster; reduce air fryer time by 1-2 minutes and monitor closely."
+        },
+        {
+            "name": "Parmesan-Free Cheesy Coating",
+            "description": "If you don’t have Parmesan, substitute with nutritional yeast or omit cheese entirely. The coating will be less rich but still crispy thanks to panko. Add extra seasoning like garlic powder or smoked paprika to compensate.",
+            "technical_note": "Without cheese, the crust may be less golden; consider a light oil spray to enhance browning."
+        },
+        {
+            "name": "Buttermilk Sour Cream Combo Marinade",
+            "description": "Combine equal parts buttermilk and sour cream for a tangier, extra tender marinade. This mix adds acidity and moisture, creating ultra-soft chicken with a slightly different tang profile.",
+            "technical_note": "Buttermilk thins the marinade; be careful when coating with crumbs to avoid sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "20g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked chicken tenders can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond this, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store tenders in an airtight container for up to 3 days. They may lose some crispness but reheat well in the air fryer or oven to restore crunch. Avoid microwaving as it can make the coating soggy.",
+        "freezer": "Freeze cooked tenders in a single layer on a baking sheet, then transfer to a freezer-safe bag or container. Freeze for up to 2 months. Thaw overnight in the fridge before reheating to maintain texture and flavor.",
+        "reheating": "Reheat in a preheated air fryer at 375°F for 5-7 minutes until hot and crispy. Alternatively, warm in a 350°F oven on a wire rack to keep crust crisp. Avoid microwaving or reheating too long, which softens the coating.",
+        "make_ahead_strategy": "Marinate chicken up to 24 hours ahead and keep refrigerated. Coat and air fry just before serving for freshest texture. You can also prepare and freeze uncooked breaded tenders; cook from frozen, adding a few extra minutes to air fryer time."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of tenders?",
+            "answer": "Yes, you can use thinly sliced chicken breasts, but tenders cook faster and stay juicier due to their size. If using breasts, pound them to an even thickness for uniform cooking and adjust air fryer time accordingly to avoid drying out."
+        },
+        {
+            "question": "What if I don’t have an air fryer?",
+            "answer": "You can bake these tenders in a 425°F oven on a wire rack for about 15-20 minutes, flipping halfway. This helps mimic the air fryer’s crisping effect. Alternatively, shallow fry in oil for a crisp crust but it’s less healthy and messier."
+        },
+        {
+            "question": "Can I prepare the marinade the night before?",
+            "answer": "Absolutely! Marinating overnight enhances flavor and tenderness even more. Just cover and refrigerate the chicken in the marinade. Bring to room temperature before breading and cooking for even results."
+        },
+        {
+            "question": "How do I keep the coating from falling off?",
+            "answer": "Pat excess marinade off before dredging in breadcrumbs and press coating firmly onto the chicken. Also, flipping gently during cooking prevents crust from breaking apart."
+        },
+        {
+            "question": "Is sour cream necessary in the marinade?",
+            "answer": "Yes, sour cream is crucial for moisture and flavor. Greek yogurt is a good substitute but avoid watery or fat-free versions as they won’t tenderize as effectively."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "For a vegan version, substitute chicken with plant-based tenders and use a dairy-free sour cream alternative. Nutritional yeast can replace Parmesan. Cooking times may vary, so watch closely for doneness and crispness."
+        },
+        {
+            "question": "Why does preheating the air fryer matter?",
+            "answer": "Preheating ensures the tenders start cooking at the right temperature immediately, which helps develop a crispy crust and prevents sogginess. Without it, the coating may absorb moisture and become less crunchy."
+        },
+        {
+            "question": "How can I make the tenders extra crispy?",
+            "answer": "Use panko breadcrumbs and press the coating firmly. Lightly spray the tenders with cooking spray before and after placing them in the air fryer. Also, don’t overcrowd the basket so hot air can circulate freely."
+        }
+    ],
+    "conclusion": "I hope you give these sour cream air fryer chicken tenders a try—they’re a simple way to get crispy, juicy chicken on the table fast. Let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "sour cream air fryer chicken tenders",
+        "secondary_keywords": [
+            "crispy chicken tenders air fryer",
+            "easy air fryer chicken recipe",
+            "how to make air fryer chicken tenders",
+            "best air fryer chicken tenders recipe",
+            "quick sour cream chicken tenders"
+        ],
+        "internal_links": [
+            {
+                "text": "air fryer basics and tips",
+                "anchor": "air-fryer-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_9.webp",
+            "relativePath": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images/sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        }
+    ],
+    "id": "post_1782688319_159",
+    "slug": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-06-29T00:35:30+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-29T00:35:30+01:00",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "sour-cream-air-fryer-recipes-easy-comfort-food-made-crispy-and-delicious/images",
+    "has_reel": true
+}
