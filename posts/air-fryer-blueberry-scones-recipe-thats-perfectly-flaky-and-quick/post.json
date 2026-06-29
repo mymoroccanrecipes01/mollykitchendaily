@@ -1,0 +1,337 @@
+{
+    "title": "Flaky Air Fryer Blueberry Scones with a Zesty Lemon Twist",
+    "promptIMG": "Food photography: Air Fryer Blueberry Scones, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These blueberry scones are perfectly flaky and golden, thanks to the air fryer magic. Fresh berries burst in every bite, and a hint of lemon zest adds a lovely brightness. Ideal for a cozy weekend breakfast or tea time treat.",
+    "hashtags": "#blueberryscones #airfryerrecipes #breakfastbakes",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Perfectly Flaky Blueberry Scones Made in Your Air Fryer!",
+            "description": "Love scones but short on time? These air fryer blueberry scones come out golden and flaky in no time. Bursting with fresh berries and lemon zest, they’re a must-try! Save this recipe and enjoy a cozy breakfast 🍋🫐 #airfryerrecipes #blueberryscones #breakfastideas"
+        },
+        {
+            "title": "Quick & Delicious Air Fryer Blueberry Scones with a Citrus Kick",
+            "description": "Craving fresh scones? These blueberry treats are ready fast in the air fryer, with a bright lemon twist that lifts every bite. Perfect for weekend mornings or afternoon tea. Try it today and impress your family! 🍴🫐🍋 #easybakes #breakfastrecipes #blueberryscones"
+        },
+        {
+            "title": "Air Fryer Blueberry Scones: Golden, Flaky & Bursting with Flavor",
+            "description": "Discover the secret to flaky, golden scones made right in your air fryer! Fresh blueberries and lemon zest make these irresistible. Great for a cozy brunch or snack. Don’t miss out—discover this simple recipe now! 🫐✨ #scones #airfryercooking #breakfastbakes"
+        },
+        {
+            "title": "Cozy Up with These Air Fryer Blueberry Scones Filled with Zest",
+            "description": "Warm, flaky, and bursting with juicy blueberries plus a hint of lemon zest—these air fryer scones are a game changer. Perfect for lazy mornings or tea time. Save it and bake soon! 🍋🫐💛 #blueberryscones #breakfastideas #airfryerrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1/3 cup granulated sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup cold unsalted butter, cubed",
+        "1/2 cup fresh blueberries",
+        "1 large egg",
+        "1/2 cup heavy cream, plus extra for brushing",
+        "1 teaspoon lemon zest",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "6 medium-sized scones",
+    "introduction": "I stumbled upon this air fryer blueberry scone recipe during a weekend when my oven was out of commission, and honestly, it was a game changer. I’d always thought scones needed the oven’s steady heat, but the air fryer gave these scones such a flaky, golden crust that I was hooked instantly. What makes this version different is how quick and fuss-free it is—no preheating giant ovens, no waiting forever. Plus, the fresh blueberries burst with juicy sweetness, while the lemon zest adds this lovely, unexpected brightness that balances the richness. I learned a neat trick to keep the butter really cold and cut into the flour quickly, which helps create that tender, flaky texture. When these scones come out, they’re golden and slightly crisp on the outside but tender and soft inside, with pockets of juicy blueberry and a subtle citrus kick. Perfect for a cozy breakfast or a special teatime treat. I’ve made these multiple times and shared them with friends, and they always ask for the recipe. You’ll love how easy and rewarding they are!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whisking together the sifted flour, sugar, baking powder, and salt in a large bowl. This ensures even distribution of the leavening agent and seasoning, which is key for consistent rise and flavor. Sifting also helps aerate the flour, contributing to the scones’ tender crumb. Take your time here to avoid clumps, as uneven mixing can cause dense spots in the final bake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no visible clumps or uneven patches."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, add the cold, cubed butter to the flour mixture. Using a pastry cutter or your fingertips, quickly cut the butter into the dry ingredients until it resembles coarse crumbs with some pea-sized bits. The key is to keep the butter cold so it creates steam during cooking, which is what makes the scones flaky and tender. Avoid overworking or warming the butter, or you’ll lose that flaky texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter pieces are well distributed and the mixture looks crumbly with small pea-sized lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Gently fold in the fresh blueberries and lemon zest. Be careful not to crush the berries, or the dough will turn purple and sticky. The zest adds a fresh citrus aroma that brightens the scones beautifully. Folding rather than stirring preserves the berry shape and texture, giving you those delightful bursts of flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly distributed without breaking, and lemon zest is visible throughout."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the egg, heavy cream, and vanilla extract until smooth. This liquid mixture adds richness and moisture, helping to bind the dough while keeping the scones tender. The vanilla complements the lemon and blueberry flavors subtly. Make sure the egg is well beaten to avoid any streaks in the dough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is smooth and homogenous with no visible egg whites."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the wet ingredients into the dry mixture and gently stir with a spatula until just combined. Don’t overmix—overworking will develop gluten, making the scones tough. The dough should be slightly sticky but hold together when pressed. If it feels too wet, sprinkle a bit more flour, but be cautious not to dry it out.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough holds together without being overly sticky or crumbly."
+        },
+        {
+            "step": 6,
+            "instruction": "Turn the dough out onto a lightly floured surface and gently pat it into a 7-inch circle about 1-inch thick. Using a sharp knife or bench scraper, cut the circle into 6 equal wedges. Keeping the dough cold and handling it minimally here helps maintain flakiness. If the dough softens too much, chill it briefly before cutting.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wedges are cleanly cut with defined edges and uniform thickness."
+        },
+        {
+            "step": 7,
+            "instruction": "Preheat your air fryer to 350°F (175°C) for about 3 minutes. This step ensures even cooking from the start, so the scones rise properly and develop a golden crust. A cold air fryer can cause uneven baking and a soggy texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Air fryer is at a steady 350°F, ready for baking."
+        },
+        {
+            "step": 8,
+            "instruction": "Place the scones in a single layer in the air fryer basket, leaving a little space between each. Brush the tops lightly with heavy cream to encourage browning and a slight sheen. Cook for 12-15 minutes, checking halfway to ensure they aren’t browning too fast. The air fryer’s hot, circulating air crisps the exterior while keeping the inside tender.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Scones are golden brown on top and firm to the touch but still tender inside."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the scones and let them cool on a wire rack for at least 10 minutes before serving. This resting time allows steam to escape, preventing sogginess and letting the flavors settle. Warm scones are amazing, but too hot and they might crumble or fall apart when sliced.",
+            "timing": "10 minutes",
+            "doneness_cue": "Scones are slightly warm, firm on the outside, and no longer steaming."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Air Fryer Blueberry Scones Turn Out Perfect Every Time",
+        "content": "<p>Making scones in an air fryer might sound unconventional, but it’s a fantastic way to get that flaky, golden crust without heating up your whole kitchen. The air fryer’s rapid hot air circulation mimics the dry heat of an oven but concentrates it, helping scones rise evenly and brown beautifully on all sides. Because the heat is intense and direct, it’s crucial to keep the butter cold and the dough handled minimally to maintain the delicate layers that give scones their signature flakiness.</p><p>The cold butter pieces in the dough melt during cooking, releasing steam that creates pockets inside the scone, making them tender and light. If the butter warms too much before baking, it blends completely into the flour, resulting in a dense, crumbly texture. That’s why cutting the butter quickly and chilling the dough if needed is essential.</p><p>Fresh blueberries add moisture and a natural sweetness that pairs perfectly with the subtle zing of lemon zest. The lemon zest brightens the flavor and cuts through the richness of the butter and cream, balancing the scone’s profile. The egg and cream mixture binds the dough while adding richness and a tender crumb. Overmixing develops gluten, which could make scones tough, so gentle folding is key.</p><p>Finally, brushing the tops with cream before air frying encourages even browning and a slight crispness, giving the scones that irresistible golden finish. Cooling them slightly before eating lets the texture set and the flavors meld, making every bite a little moment of joy.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a good-quality, unbleached all-purpose flour as it provides the right protein content for tender yet sturdy scones. Bleached flour can sometimes affect flavor and texture negatively. Sifting the flour before use helps aerate it, leading to lighter scones with a finer crumb.",
+            "unsalted butter": "Use cold, unsalted butter cut into small cubes. Keeping it cold is crucial for flakiness because the butter melts during cooking, creating steam pockets that lift the dough. Avoid using melted or room-temperature butter, as it will blend too much with the flour, resulting in dense scones.",
+            "fresh blueberries": "Fresh blueberries are preferred for their burst of juicy flavor and texture. Frozen berries can be used but should be thawed and drained to avoid excess moisture that can make the dough soggy. Gently fold berries in to prevent crushing and color bleed.",
+            "lemon zest": "Fresh lemon zest adds a bright, citrus aroma that balances the richness of the butter and cream. Use a microplane to zest only the yellow part, avoiding the bitter white pith. The zest’s essential oils release during mixing, infusing the dough with subtle brightness.",
+            "heavy cream": "Heavy cream adds moisture and richness, contributing to a tender crumb. It also helps bind the dough and, when brushed on top, promotes browning. You can substitute with half-and-half in a pinch, but the scones may be less rich and slightly less tender."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter and liquids very cold until mixing.",
+            "reason": "Cold ingredients help create flaky layers because the butter stays solid longer during mixing and baking. If the butter melts too soon, it blends into the flour and the scones become dense instead of light and flaky."
+        },
+        {
+            "tip": "Don’t overmix the dough once you add wet ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which tightens the dough and makes scones tough. Stir just until combined to keep the crumb tender and soft."
+        },
+        {
+            "tip": "Use fresh blueberries and fold them in gently.",
+            "reason": "Fresh berries hold their shape and burst with flavor. Folding gently prevents crushing, which would color the dough and make it sticky."
+        },
+        {
+            "tip": "Brush the tops with cream before air frying.",
+            "reason": "This encourages even browning and gives the scones a lovely golden color and slight crispness on top."
+        },
+        {
+            "tip": "Preheat the air fryer before baking.",
+            "reason": "Starting with a hot air fryer ensures the scones rise properly and develop a crisp crust quickly, avoiding sogginess."
+        },
+        {
+            "tip": "Let scones cool slightly before serving.",
+            "reason": "Cooling allows steam to escape and the texture to set, making them easier to slice and enjoy without crumbling."
+        },
+        {
+            "tip": "Cut the dough into equal wedges for even cooking.",
+            "reason": "Uniform sizes ensure all scones cook evenly, preventing some from being undercooked or overdone."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter",
+            "why_it_happens": "People often forget to chill the butter or let it soften too much while prepping, thinking it will mix easier.",
+            "fix": "Always start with cold butter straight from the fridge and cut it into small cubes just before mixing. Work quickly to keep it cold. If it softens, chill the dough briefly before baking."
+        },
+        {
+            "mistake": "Overmixing the dough",
+            "why_it_happens": "It’s tempting to mix thoroughly to combine everything, but this develops gluten and toughens scones.",
+            "fix": "Mix wet and dry ingredients just until combined. Use a spatula and fold gently; the dough should look slightly shaggy, not smooth."
+        },
+        {
+            "mistake": "Crushing the blueberries",
+            "why_it_happens": "Stirring too aggressively or using a spoon instead of folding can burst the berries, turning the dough purple and sticky.",
+            "fix": "Fold in berries gently with a spatula, barely mixing to keep them intact."
+        },
+        {
+            "mistake": "Skipping air fryer preheat",
+            "why_it_happens": "People assume the air fryer heats quickly enough during cooking.",
+            "fix": "Preheat the air fryer for a few minutes to ensure even heat distribution, so scones bake properly and brown evenly."
+        },
+        {
+            "mistake": "Not spacing scones apart in the air fryer",
+            "why_it_happens": "Trying to fit too many scones in the basket to save time.",
+            "fix": "Place scones in a single layer with space between to allow hot air circulation, ensuring even cooking and browning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Poppy Seed Scones",
+            "description": "Swap blueberries for poppy seeds and increase the lemon zest for a bright, nutty twist. These scones have a lovely crunch from the seeds and a fresh citrus aroma that pairs well with tea.",
+            "technical_note": "The dough will be slightly drier; you might need to add a tablespoon more cream for the right consistency."
+        },
+        {
+            "name": "Chocolate Chip and Orange Zest Scones",
+            "description": "Replace blueberries with mini chocolate chips and use orange zest instead of lemon. This combo feels indulgent and perfect for a sweet breakfast treat or dessert.",
+            "technical_note": "Chocolate chips can melt quickly; fold in gently and watch baking time to avoid over-browning."
+        },
+        {
+            "name": "Mixed Berry Scones",
+            "description": "Use a mix of fresh raspberries, blackberries, and blueberries for a colorful, juicy scone. The variety adds complexity and different bursts of flavor.",
+            "technical_note": "Because some berries are softer, fold carefully to avoid crushing and adjust cream slightly if dough feels wet."
+        },
+        {
+            "name": "Savory Cheddar and Chive Scones",
+            "description": "Omit the sugar and lemon zest, add shredded sharp cheddar and chopped fresh chives. These scones are perfect for brunch or as a side for soups.",
+            "technical_note": "Reduce cream slightly as cheese adds moisture; brush tops with cream or beaten egg for golden finish."
+        },
+        {
+            "name": "Gluten-Free Blueberry Scones",
+            "description": "Use a gluten-free all-purpose flour blend and add 1/2 teaspoon xanthan gum if not included. These scones keep the same tender texture with a slightly different crumb.",
+            "technical_note": "Gluten-free dough is more delicate; handle gently and consider a shorter air fryer time to prevent dryness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "15g",
+        "fiber_grams": "2g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Scones can be kept at room temperature, covered with a clean kitchen towel or in an airtight container, for up to 1 day. They are best eaten fresh but will remain tasty for a short period.",
+        "refrigerator": "Store leftover scones in an airtight container in the fridge for up to 3 days. They may firm up and lose some flakiness but can be warmed gently before serving to refresh texture.",
+        "freezer": "Wrap scones individually in plastic wrap and place in a freezer-safe bag or container for up to 2 months. Thaw at room temperature or gently warm in the air fryer or oven to restore crispness.",
+        "reheating": "Reheat scones in the air fryer at 320°F for 3-5 minutes or in a 350°F oven for 5-7 minutes. Avoid microwaving as it makes them soggy. Adding a small splash of cream before reheating can help revive moisture.",
+        "make_ahead_strategy": "You can prepare the dough 1 day ahead, wrap tightly, and refrigerate. Cut and air fry fresh the next day for best texture. Alternatively, bake scones fully and freeze for later reheating."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but thaw and drain them well first to avoid excess moisture that can make the dough soggy. Gently fold them in to prevent breaking and color bleed."
+        },
+        {
+            "question": "How do I keep my scones flaky?",
+            "answer": "Use cold butter and handle the dough as little as possible. Cutting butter into pea-sized pieces and folding gently keeps layers intact, producing flakiness during baking."
+        },
+        {
+            "question": "Can I make these scones dairy-free?",
+            "answer": "You can substitute heavy cream with coconut cream or a plant-based alternative and use a dairy-free butter substitute. Texture may be slightly different but still delicious."
+        },
+        {
+            "question": "How do I know when scones are done in the air fryer?",
+            "answer": "They should be golden brown on top, firm to the touch, and a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid overcooking to keep them tender."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Absolutely! Chopped walnuts or almonds add crunch and flavor. Fold them in gently with the berries to avoid overmixing."
+        },
+        {
+            "question": "How long can I store the dough before baking?",
+            "answer": "You can refrigerate the dough wrapped tightly for up to 24 hours. Let it come to room temperature briefly before cutting and air frying for even cooking."
+        },
+        {
+            "question": "Why are my scones dry or crumbly?",
+            "answer": "Dry scones usually result from overmixing, too much flour, or not enough moisture. Measure ingredients carefully and mix gently for best results."
+        }
+    ],
+    "conclusion": "Give these air fryer blueberry scones a try and enjoy a quick, flaky treat that’s bursting with fresh flavor. I’d love to hear how yours turn out—happy baking!",
+    "seo": {
+        "primary_keyword": "air fryer blueberry scones",
+        "secondary_keywords": [
+            "easy blueberry scones",
+            "air fryer breakfast recipes",
+            "how to make blueberry scones",
+            "best air fryer scone recipe",
+            "quick blueberry scones"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade scone dough tips",
+                "anchor": "homemade-scone-dough-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_1.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_1.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_2.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_2.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_3.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_3.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_9.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_7.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_6.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_8.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_5.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_4.webp",
+            "relativePath": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images/air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782775217_551",
+    "slug": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick",
+    "isOnline": true,
+    "createdAt": "2026-06-30T00:33:47+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-30T00:33:47+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "air-fryer-blueberry-scones-recipe-thats-perfectly-flaky-and-quick/images",
+    "has_reel": true
+}

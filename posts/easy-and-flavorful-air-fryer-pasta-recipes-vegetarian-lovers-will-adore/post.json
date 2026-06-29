@@ -38,10 +38,10 @@
         "2 tablespoons olive oil",
         "2 cloves garlic, minced",
         "1 teaspoon dried oregano",
-        "1/2 teaspoon salt",
-        "1/4 teaspoon black pepper",
-        "1/4 cup fresh basil leaves, chopped",
-        "1/4 cup grated Parmesan cheese (optional)"
+        "1\/2 teaspoon salt",
+        "1\/4 teaspoon black pepper",
+        "1\/4 cup fresh basil leaves, chopped",
+        "1\/4 cup grated Parmesan cheese (optional)"
     ],
     "yield": "4 servings",
     "introduction": "I stumbled upon this air fryer veggie pasta recipe a few months ago when I wanted a quick, comforting meal without heating up the whole kitchen. At first, I was skeptical—pasta in an air fryer? But after trying it, I was hooked! The trick I learned is to cook the pasta just shy of al dente on the stove, then toss it with fresh veggies and herbs before air frying. This creates a crispy, golden texture on the outside while keeping the inside tender. Plus, using fresh basil and a touch of Parmesan really elevates the flavor in a way that feels both fresh and indulgent. This dish is perfect for those busy weeknights when you want something satisfying but don’t want to spend hours cooking. The combination of crispy veggies and pasta with fragrant herbs makes it feel like a treat, not just another quick meal. I love how versatile this recipe is too—you can swap in your favorite vegetables or add a sprinkle of chili flakes for a little kick. It’s quickly become a favorite in my rotation, and I think you’ll love it too!",
@@ -103,7 +103,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Why This Air Fryer Veggie Pasta Recipe Works So Well",
-        "content": "<p>The magic of this recipe lies in combining traditional pasta cooking with the air fryer’s ability to create crisp textures. Cooking the pasta just under al dente ensures it finishes cooking in the air fryer without becoming mushy. This technique leverages the air fryer’s convection heat to fry the pasta and veggies lightly, producing a golden, crispy exterior that contrasts beautifully with the tender inside.</p><p>Using olive oil and fresh herbs like basil and oregano adds layers of flavor and helps the pasta crisp up without drying out. The oil coats each piece, enabling the Maillard reaction — the browning process that creates complex, savory notes and that irresistible crunch. The fresh herbs added at the end maintain their bright aroma and flavor, balancing the richness of the crispy pasta.</p><p>Preheating the air fryer is essential. It ensures the temperature is high enough to crisp the pasta immediately, avoiding steaming. Plus, tossing the pasta and veggies halfway through cooking promotes even browning and prevents burning. This recipe’s success depends on these small but crucial details that turn simple ingredients into a dish with texture and depth.</p><p>Finally, the flexibility of this recipe makes it a winner. You can swap vegetables depending on the season or what’s in your fridge, and it still crisps up beautifully. The balance of textures, fresh flavors, and quick cooking time make it perfect for busy weeknights or casual dinners.</p>",
+        "content": "<p>The magic of this recipe lies in combining traditional pasta cooking with the air fryer’s ability to create crisp textures. Cooking the pasta just under al dente ensures it finishes cooking in the air fryer without becoming mushy. This technique leverages the air fryer’s convection heat to fry the pasta and veggies lightly, producing a golden, crispy exterior that contrasts beautifully with the tender inside.<\/p><p>Using olive oil and fresh herbs like basil and oregano adds layers of flavor and helps the pasta crisp up without drying out. The oil coats each piece, enabling the Maillard reaction — the browning process that creates complex, savory notes and that irresistible crunch. The fresh herbs added at the end maintain their bright aroma and flavor, balancing the richness of the crispy pasta.<\/p><p>Preheating the air fryer is essential. It ensures the temperature is high enough to crisp the pasta immediately, avoiding steaming. Plus, tossing the pasta and veggies halfway through cooking promotes even browning and prevents burning. This recipe’s success depends on these small but crucial details that turn simple ingredients into a dish with texture and depth.<\/p><p>Finally, the flexibility of this recipe makes it a winner. You can swap vegetables depending on the season or what’s in your fridge, and it still crisps up beautifully. The balance of textures, fresh flavors, and quick cooking time make it perfect for busy weeknights or casual dinners.<\/p>",
         "ingredient_notes": {
             "penne pasta": "Look for high-quality durum wheat pasta for the best texture. Durum wheat holds its shape well and has a firm bite, which is important since the pasta will be cooked twice—first boiled and then air fried. Avoid overcooking the pasta initially; it should be slightly underdone to prevent mushiness after air frying. Whole wheat or gluten-free varieties can be used but may require adjustments in cooking time and texture expectations.",
             "cherry tomatoes": "Choose ripe, firm cherry tomatoes for natural sweetness and vibrant color. Their small size and high moisture content make them perfect for quick cooking in the air fryer, where they soften slightly but retain shape. Overripe tomatoes can become mushy and watery, which might affect the crispness of the dish. You can substitute with grape tomatoes or diced regular tomatoes if needed.",
@@ -269,35 +269,89 @@
     "images": [
         {
             "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_1.webp",
-            "filePath": "posts/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_1.webp",
-            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_1.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_2.webp",
-            "filePath": "posts/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_2.webp",
-            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_2.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_3.webp",
-            "filePath": "posts/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_3.webp",
-            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_3.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images\/easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1782725848_462",
     "slug": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore",
-    "isOnline": false,
-    "createdAt": "2026-06-29T09:37:28+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-29T12:19:46+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-29T10:54:31+01:00",
+    "updatedAt": "2026-06-29T12:19:46+01:00",
     "category_id": "cat_1761230383_494",
-    "image_dir": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore/images"
+    "image_dir": "easy-and-flavorful-air-fryer-pasta-recipes-vegetarian-lovers-will-adore\/images"
 }

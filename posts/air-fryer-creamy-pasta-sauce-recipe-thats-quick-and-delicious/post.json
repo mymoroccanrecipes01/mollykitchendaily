@@ -97,7 +97,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Creamy Air Fryer Pasta Works So Well",
-        "content": "<p>Cooking pasta directly in a liquid mixture inside the air fryer might sound unconventional, but it’s a clever technique that yields a rich, creamy sauce with minimal fuss. The key is the balance of liquid and temperature. The air fryer heats the broth and cream gently, allowing the pasta to absorb the flavorful liquid gradually, which mimics the slow simmering process on a stovetop but with less hands-on time.</p><p>The Maillard reaction, responsible for browning and flavor development, is minimal here because the dish relies on moist heat rather than dry heat, which keeps the sauce smooth and velvety instead of crispy or burnt. The butter and Parmesan cheese emulsify into the cream, creating a luscious texture that coats each pasta piece perfectly. Stirring halfway through is crucial to prevent clumping and ensure even heat distribution, which helps the pasta cook uniformly and the sauce thicken properly.</p><p>Using chicken broth instead of water adds depth to the flavor, while the garlic infuses the sauce with a warm, aromatic base. The Italian seasoning adds subtle herbal notes that complement the richness without overpowering it. Because the pasta cooks right in the sauce, the starch released naturally thickens the sauce, which is why no additional thickening agents are needed.</p><p>Finally, finishing the dish by stirring in freshly grated Parmesan while still hot ensures the cheese melts smoothly, enhancing the creaminess and flavor. This technique also prevents the cheese from clumping or becoming grainy, which can happen if added too late or to cold pasta.</p>",
+        "content": "<p>Cooking pasta directly in a liquid mixture inside the air fryer might sound unconventional, but it’s a clever technique that yields a rich, creamy sauce with minimal fuss. The key is the balance of liquid and temperature. The air fryer heats the broth and cream gently, allowing the pasta to absorb the flavorful liquid gradually, which mimics the slow simmering process on a stovetop but with less hands-on time.<\/p><p>The Maillard reaction, responsible for browning and flavor development, is minimal here because the dish relies on moist heat rather than dry heat, which keeps the sauce smooth and velvety instead of crispy or burnt. The butter and Parmesan cheese emulsify into the cream, creating a luscious texture that coats each pasta piece perfectly. Stirring halfway through is crucial to prevent clumping and ensure even heat distribution, which helps the pasta cook uniformly and the sauce thicken properly.<\/p><p>Using chicken broth instead of water adds depth to the flavor, while the garlic infuses the sauce with a warm, aromatic base. The Italian seasoning adds subtle herbal notes that complement the richness without overpowering it. Because the pasta cooks right in the sauce, the starch released naturally thickens the sauce, which is why no additional thickening agents are needed.<\/p><p>Finally, finishing the dish by stirring in freshly grated Parmesan while still hot ensures the cheese melts smoothly, enhancing the creaminess and flavor. This technique also prevents the cheese from clumping or becoming grainy, which can happen if added too late or to cold pasta.<\/p>",
         "ingredient_notes": {
             "penne pasta": "Choose quality penne pasta made from durum wheat semolina for the best texture. This type holds its shape well when cooked in liquid and has a firm bite that contrasts nicely with creamy sauces. Avoid overcooking to prevent mushiness since the pasta will continue to absorb sauce after cooking.",
             "chicken broth": "Using low sodium chicken broth allows you to control the saltiness of the dish more precisely. The broth adds savory depth and richness that plain water cannot provide. For a vegetarian version, substitute with vegetable broth, but expect a slightly different flavor profile.",
@@ -263,35 +263,89 @@
     "images": [
         {
             "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_1.webp",
-            "filePath": "posts/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_1.webp",
-            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_2.webp",
-            "filePath": "posts/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_2.webp",
-            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_3.webp",
-            "filePath": "posts/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_3.webp",
-            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_9.webp",
+            "relativePath": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images\/air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1782688494_346",
     "slug": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious",
-    "isOnline": false,
-    "createdAt": "2026-06-28T23:14:54+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-29T12:19:44+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-29T00:23:23+01:00",
+    "updatedAt": "2026-06-29T12:19:44+01:00",
     "category_id": "cat_1761230383_494",
-    "image_dir": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious/images"
+    "image_dir": "air-fryer-creamy-pasta-sauce-recipe-thats-quick-and-delicious\/images"
 }

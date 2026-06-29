@@ -32,10 +32,10 @@
         "2 tablespoons unsalted butter",
         "2 tablespoons all-purpose flour",
         "2 cups whole milk, warmed",
-        "1/2 teaspoon garlic powder",
-        "1/2 teaspoon onion powder",
+        "1\/2 teaspoon garlic powder",
+        "1\/2 teaspoon onion powder",
         "Salt and black pepper, to taste",
-        "1/2 cup panko breadcrumbs",
+        "1\/2 cup panko breadcrumbs",
         "Cooking spray"
     ],
     "yield": "Approximately 4 servings",
@@ -61,7 +61,7 @@
         },
         {
             "step": 4,
-            "instruction": "Remove the saucepan from heat and stir in 1 1/2 cups of shredded cheddar cheese, garlic powder, onion powder, salt, and pepper. Stir until the cheese is fully melted and the sauce is smooth. Adding the cheese off the heat prevents it from becoming grainy or separating. Use sharp cheddar for that classic tangy flavor and creamy melt.",
+            "instruction": "Remove the saucepan from heat and stir in 1 1\/2 cups of shredded cheddar cheese, garlic powder, onion powder, salt, and pepper. Stir until the cheese is fully melted and the sauce is smooth. Adding the cheese off the heat prevents it from becoming grainy or separating. Use sharp cheddar for that classic tangy flavor and creamy melt.",
             "timing": "3 minutes",
             "doneness_cue": "Cheese sauce should be smooth, creamy, and glossy without lumps"
         },
@@ -73,7 +73,7 @@
         },
         {
             "step": 6,
-            "instruction": "Transfer the macaroni and cheese mixture into an air fryer-safe baking dish or pan. Sprinkle the remaining 1/2 cup of shredded cheddar cheese evenly over the top. This layer will melt and brown during air frying, creating that irresistible cheesy crust.",
+            "instruction": "Transfer the macaroni and cheese mixture into an air fryer-safe baking dish or pan. Sprinkle the remaining 1\/2 cup of shredded cheddar cheese evenly over the top. This layer will melt and brown during air frying, creating that irresistible cheesy crust.",
             "timing": "3 minutes",
             "doneness_cue": "Even layer of cheese spread on top, ready for air frying"
         },
@@ -98,7 +98,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Air Fryer Macaroni and Cheese Works So Well",
-        "content": "<p>This recipe combines classic cheese sauce techniques with the unique benefits of air frying to create a macaroni and cheese that’s creamy inside and perfectly crispy on top. The roux-based cheese sauce thickens the milk with cooked flour and butter, allowing the cheese to melt smoothly without separating. Using sharp cheddar adds that signature tang and depth of flavor.</p><p>Cooking the pasta al dente ensures it holds up through the air frying process without turning mushy. The air fryer’s circulating hot air crisps the breadcrumb and cheese topping evenly, creating a golden crust that’s hard to achieve in a conventional oven without drying out the pasta beneath.</p><p>The butter-coated panko breadcrumbs are essential because butter helps conduct heat and encourages browning via the Maillard reaction, which produces complex flavors and aromas. The final broil step in the air fryer intensifies this effect, adding a restaurant-quality crunch. This technique also prevents the common issue of soggy toppings that can happen when baked traditionally.</p><p>Overall, this method balances creamy, tender pasta with a crunchy, flavorful crust, making every bite satisfying. The air fryer’s quick, even heat distribution means less cooking time and a consistently crispy topping, elevating a humble classic into something special and easy to make at home.</p>",
+        "content": "<p>This recipe combines classic cheese sauce techniques with the unique benefits of air frying to create a macaroni and cheese that’s creamy inside and perfectly crispy on top. The roux-based cheese sauce thickens the milk with cooked flour and butter, allowing the cheese to melt smoothly without separating. Using sharp cheddar adds that signature tang and depth of flavor.<\/p><p>Cooking the pasta al dente ensures it holds up through the air frying process without turning mushy. The air fryer’s circulating hot air crisps the breadcrumb and cheese topping evenly, creating a golden crust that’s hard to achieve in a conventional oven without drying out the pasta beneath.<\/p><p>The butter-coated panko breadcrumbs are essential because butter helps conduct heat and encourages browning via the Maillard reaction, which produces complex flavors and aromas. The final broil step in the air fryer intensifies this effect, adding a restaurant-quality crunch. This technique also prevents the common issue of soggy toppings that can happen when baked traditionally.<\/p><p>Overall, this method balances creamy, tender pasta with a crunchy, flavorful crust, making every bite satisfying. The air fryer’s quick, even heat distribution means less cooking time and a consistently crispy topping, elevating a humble classic into something special and easy to make at home.<\/p>",
         "ingredient_notes": {
             "elbow macaroni": "Choose good-quality elbow macaroni that holds its shape well during cooking. Avoid overcooking to keep a firm texture. Whole wheat or gluten-free versions can work but may affect texture and cooking time.",
             "sharp cheddar cheese": "Sharp cheddar is key for flavor and meltability. Look for freshly shredded or block cheddar for best results, as pre-shredded often contains anti-caking agents that affect melt quality.",
@@ -264,35 +264,89 @@
     "images": [
         {
             "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_1.webp",
-            "filePath": "posts/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_1.webp",
-            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_1.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_1.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_2.webp",
-            "filePath": "posts/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_2.webp",
-            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_2.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_2.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_3.webp",
-            "filePath": "posts/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_3.webp",
-            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_3.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_3.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_4.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_5.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_6.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_7.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_8.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card"
+        },
+        {
+            "fileName": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_9.webp",
+            "relativePath": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images\/air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list"
         }
     ],
     "id": "post_1782726078_404",
     "slug": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food",
-    "isOnline": false,
-    "createdAt": "2026-06-29T09:41:18+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-29T12:19:45+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-29T10:53:26+01:00",
+    "updatedAt": "2026-06-29T12:19:45+01:00",
     "category_id": "cat_1761230383_494",
-    "image_dir": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food/images"
+    "image_dir": "air-fryer-macaroni-recipe-a-crispy-cheesy-twist-on-comfort-food\/images"
 }
