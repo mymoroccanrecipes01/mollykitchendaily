@@ -1,0 +1,341 @@
+{
+    "title": "Creamy Air Fryer Chicken Pasta That’s Ready in 30 Minutes",
+    "promptIMG": "Food photography: Creamy Air Fryer Chicken Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken pasta cooked in the air fryer is a lifesaver for busy nights. The chicken stays juicy, and the sauce is rich without being heavy. Great for a quick dinner that feels a bit fancy!",
+    "hashtags": "#chickenpasta #airfryerrecipes #quickdinner",
+    "board_name": "Easy Chicken Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Air Fryer Chicken Pasta in Under 30 Minutes!",
+            "description": "Looking for a quick dinner that’s creamy and delicious? Try this air fryer chicken pasta recipe that’s packed with flavor and cooks fast. Save this for your next meal! 🍝🔥 #easyrecipes #chickenpasta #weeknightdinner"
+        },
+        {
+            "title": "How To Make Creamy Chicken Pasta With The Air Fryer",
+            "description": "Discover the magic of cooking chicken and pasta in the air fryer for a creamy, tender dish in no time. Perfect for busy days when you want comfort food without the fuss. Try it today! 🧄🍗 #airfryerdinner #comfortfood #pastarecipe"
+        },
+        {
+            "title": "Quick & Creamy Chicken Pasta That Everyone Will Love",
+            "description": "This creamy chicken pasta is a crowd-pleaser and only takes 30 minutes thanks to the air fryer. Juicy chicken meets a rich sauce—perfect for busy weeknights. Don’t miss out, give it a go! 🍽️💛 #quickmeals #chickenrecipes #easycooking"
+        },
+        {
+            "title": "Simple Air Fryer Chicken Pasta Recipe for Busy Families",
+            "description": "Busy schedule but craving something homemade? This air fryer chicken pasta is creamy, quick, and super satisfying. Make dinner easy and delicious tonight! 🍴✨ #familymeals #airfryerrecipes #pastadinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 boneless skinless chicken breasts, cut into bite-sized pieces",
+        "8 oz penne pasta, uncooked",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup chicken broth",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon dried Italian seasoning",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried making chicken pasta in my air fryer a few months ago when I was desperate for a quick dinner that didn’t feel like takeout. Honestly, I was skeptical—could the air fryer handle pasta and chicken together? But it worked like a charm! The chicken turns out incredibly juicy and tender, while the creamy sauce comes together beautifully without needing a stove or a ton of pots. What’s different about this version is the way the air fryer cooks the chicken so evenly and locks in moisture, and I use a simple but flavorful garlic cream sauce that clings to every bite of pasta. Plus, you only need one pan for the chicken, and the sauce is finished on the stovetop while the pasta cooks separately, making cleanup a breeze. The result is a comforting, creamy dish with just the right hint of garlic and herbs. It’s perfect for weeknights when you want something warm and satisfying but don’t want to spend hours in the kitchen. I’ve made it countless times now, and every time I’m reminded how easy and delicious it is. If you’re on the fence about air fryer meals, give this one a shot—you might just fall in love with how fast and flavorful it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your air fryer to 400°F (200°C). While it’s heating, pat the chicken pieces dry with paper towels and toss them in olive oil, salt, pepper, and Italian seasoning. This step is crucial because drying the chicken helps it brown nicely in the air fryer, creating a flavorful crust. The oil helps conduct heat and keeps the chicken moist inside. Avoid overcrowding the basket so the hot air can circulate evenly—if the pieces are too close, they’ll steam instead of crisp. Spread the chicken in a single layer for best results.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces should be golden brown on the outside and firm to the touch"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the seasoned chicken pieces in the air fryer basket and cook for 12-15 minutes, shaking the basket halfway through for even cooking. Air fryers vary, so start checking around 12 minutes to avoid overcooking. The goal is juicy, cooked-through chicken without dryness. If you rush this step or cook at too low a temperature, the chicken will be rubbery or undercooked. Let the chicken rest briefly after cooking to redistribute juices.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Chicken reaches an internal temperature of 165°F (74°C) and looks opaque all the way through"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken cooks, bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente. Cooking the pasta properly is important because overcooked pasta will become mushy when mixed with the sauce later. Stir occasionally to prevent sticking. Drain the pasta and set aside, reserving about 1/4 cup of pasta water to loosen the sauce if needed.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Pasta is tender but still has a slight bite when tasted"
+        },
+        {
+            "step": 4,
+            "instruction": "In a large skillet over medium heat, add a splash of olive oil and sauté the minced garlic until fragrant and golden, about 1-2 minutes. Garlic releases its aroma and flavor quickly, so watch closely to avoid burning, which would make it bitter. This step flavors the sauce base and gives it depth.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is lightly golden and aromatic"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth and heavy cream, stirring to combine. Bring the mixture to a gentle simmer, which helps thicken the sauce as the liquid reduces slightly. Simmering also melds the garlic flavor into the cream. Avoid boiling rapidly as it can cause the cream to separate. Stir occasionally to prevent sticking on the bottom.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and coats the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the grated Parmesan cheese slowly while stirring continuously. The cheese melts into the sauce, creating a silky texture and rich flavor. Adding it gradually prevents clumping. If the sauce becomes too thick, add reserved pasta water a little at a time to loosen it to your desired consistency.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is smooth, creamy, and coats the spoon evenly"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the cooked chicken pieces into the sauce, stirring gently to coat them completely. This step allows the chicken to soak up some of the creamy sauce flavors and keeps it warm without drying out. Be careful not to stir too aggressively to maintain the chicken’s juicy texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken pieces are fully coated and heated through"
+        },
+        {
+            "step": 8,
+            "instruction": "Add the drained pasta to the skillet with the chicken and sauce. Toss everything together gently to combine and coat the pasta evenly. This final step ensures every bite has that creamy, garlicky goodness. If the sauce feels too thick, add a splash of pasta water to loosen it and help it cling better.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta is glossy and evenly coated with sauce"
+        },
+        {
+            "step": 9,
+            "instruction": "Taste and adjust seasoning with salt and pepper as needed. Finish with a sprinkle of fresh chopped parsley for color and freshness. Serve immediately while warm. The fresh herbs brighten the dish and add a lovely contrast to the rich sauce.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish is vibrant in color and balanced in flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Works So Well",
+        "content": "<p>The magic behind this creamy air fryer chicken pasta lies in the unique way the air fryer cooks the chicken. Unlike traditional pan-frying or baking, the air fryer uses rapid hot air circulation to cook the chicken evenly and quickly, which locks in moisture and creates a crisp exterior without excess oil. This results in tender, juicy chicken pieces that don’t dry out, which is often a challenge with chicken breasts.</p><p>The creamy sauce benefits from a careful balance of ingredients and technique. Starting with a garlic-infused olive oil base allows the sauce to have a fragrant backbone. Adding chicken broth before the cream not only adds depth but also helps thin the cream for a luscious yet light texture. Simmering gently prevents the cream from breaking or curdling, which can easily happen if boiled too hard or too fast.</p><p>Parmesan cheese acts as an emulsifier, blending the fat and liquid into a smooth, velvety sauce. Adding it slowly while stirring prevents clumping and ensures the sauce coats the pasta beautifully. The reserved pasta water is a classic trick to adjust consistency and help the sauce cling better to the noodles due to its starch content.</p><p>Finally, combining everything at the end and finishing with fresh parsley adds brightness and freshness, balancing the richness. Each step is designed to maximize flavor and texture, making this recipe both foolproof and delicious every time.</p>",
+        "ingredient_notes": {
+            "Chicken Breasts": "Look for fresh, boneless skinless chicken breasts with a consistent pink color and firm texture. These cook quickly and stay tender when air fried. Avoid frozen or previously frozen chicken for best texture. Cutting into uniform bite-sized pieces helps them cook evenly and ensures each bite is juicy without drying out.",
+            "Penne Pasta": "Choose a good-quality dried penne pasta that holds its shape well when cooked al dente. Avoid overcooking to prevent mushiness when tossed in sauce. The tube shape is perfect for catching creamy sauce inside, giving you flavor in every bite.",
+            "Heavy Cream": "Use heavy cream with at least 36% fat for the richest, creamiest sauce. Lower-fat creams won’t thicken as well and can separate when cooked. Gently simmering the cream helps it thicken without curdling, creating that luxurious texture.",
+            "Parmesan Cheese": "Freshly grated Parmesan is best for melting smoothly into the sauce. Pre-grated cheeses often contain anti-caking agents that can prevent proper melting and cause clumping. Parmesan adds umami depth and helps emulsify the sauce for a silky finish.",
+            "Garlic": "Fresh garlic cloves release a bright, pungent flavor that’s essential for this sauce. Mince finely so it infuses the oil evenly. Watch carefully when sautéing to avoid burning, which would add bitterness and spoil the sauce’s delicate balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry the chicken pieces thoroughly before seasoning.",
+            "reason": "Removing surface moisture lets the chicken brown properly in the air fryer, creating a flavorful crust and preventing steaming. This step is key for juicy, well-textured chicken."
+        },
+        {
+            "tip": "Don’t overcrowd the air fryer basket.",
+            "reason": "Proper air circulation is critical for even cooking and browning. Crowding traps moisture and results in soggy chicken instead of crisp, tender bites."
+        },
+        {
+            "tip": "Reserve some pasta water before draining.",
+            "reason": "Starchy pasta water helps loosen the sauce and improves its ability to cling to noodles, creating a cohesive dish without thinning out the flavor."
+        },
+        {
+            "tip": "Simmer the cream gently, don’t boil.",
+            "reason": "Boiling cream can cause it to separate and curdle, ruining the sauce’s texture. A gentle simmer thickens the sauce smoothly and develops flavor."
+        },
+        {
+            "tip": "Add Parmesan cheese gradually while stirring.",
+            "reason": "Slow incorporation prevents clumping and ensures a smooth, silky sauce by allowing the cheese to melt evenly into the cream."
+        },
+        {
+            "tip": "Let the chicken rest a few minutes after air frying.",
+            "reason": "Resting redistributes the juices inside the meat, making each bite juicy and tender instead of dry."
+        },
+        {
+            "tip": "Use fresh herbs for garnish.",
+            "reason": "Fresh parsley adds a pop of color and freshness that balances the richness of the creamy sauce, enhancing the overall flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the chicken in the air fryer",
+            "why_it_happens": "Many assume air fryer cooking is fast and rush the time, leading to dry, tough chicken.",
+            "fix": "Check the chicken’s internal temperature with a meat thermometer around 12 minutes. Remove it once it hits 165°F (74°C) and let it rest to retain juices."
+        },
+        {
+            "mistake": "Burning the garlic when sautéing",
+            "why_it_happens": "Garlic cooks quickly and can turn bitter if left unattended or cooked on too high heat.",
+            "fix": "Sauté on medium heat for just 1-2 minutes, stirring constantly. Remove from heat as soon as it’s fragrant and lightly golden."
+        },
+        {
+            "mistake": "Overcooking pasta until mushy",
+            "why_it_happens": "Cooking pasta past al dente makes it absorb too much sauce and become soggy.",
+            "fix": "Follow package instructions closely and test pasta a minute or two before the minimum time to ensure it’s firm to the bite."
+        },
+        {
+            "mistake": "Adding cream too quickly or boiling it",
+            "why_it_happens": "Rapid temperature changes can cause cream to curdle or separate.",
+            "fix": "Add cream slowly and keep the sauce at a gentle simmer, stirring constantly to maintain a smooth texture."
+        },
+        {
+            "mistake": "Not seasoning the chicken enough",
+            "why_it_happens": "Underseasoned chicken tastes bland and dulls the overall dish.",
+            "fix": "Generously season with salt, pepper, and Italian herbs before air frying to build flavor from the start."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Chicken Pasta",
+            "description": "Swap Italian seasoning for Cajun spices and add a pinch of cayenne for heat. Use smoked paprika and garlic powder for a smoky, spicy twist. The creamy sauce balances the heat perfectly.",
+            "technical_note": "Adjust spice levels carefully and consider adding a little extra cream to mellow the heat if desired."
+        },
+        {
+            "name": "Mushroom and Spinach Chicken Pasta",
+            "description": "Add sautéed mushrooms and fresh spinach to the sauce for extra veggies and earthiness. The mushrooms soak up the creamy sauce, while spinach adds freshness and color.",
+            "technical_note": "Sauté mushrooms before adding garlic to develop flavor; add spinach last to wilt gently in the sauce."
+        },
+        {
+            "name": "Lemon Garlic Chicken Pasta",
+            "description": "Add fresh lemon zest and a squeeze of lemon juice to the sauce for a bright, tangy flavor. This variation feels lighter and fresher, perfect for spring or summer dinners.",
+            "technical_note": "Add lemon juice off the heat to avoid curdling the cream."
+        },
+        {
+            "name": "Pesto Chicken Pasta",
+            "description": "Stir in 1/3 cup of basil pesto into the sauce just before adding chicken and pasta. The pesto adds herbal complexity and vibrant color, creating a delicious fusion.",
+            "technical_note": "Reduce Italian seasoning slightly to avoid overpowering the pesto’s fresh flavors."
+        },
+        {
+            "name": "Cheesy Bacon Chicken Pasta",
+            "description": "Add crispy cooked bacon bits to the sauce for smoky, savory depth. Consider using smoked cheese like gouda or smoked mozzarella for extra richness.",
+            "technical_note": "Cook bacon separately and add at the end to maintain crispiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "42g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "640mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left out at room temperature for more than 2 hours. Cover with foil or a clean towel if serving buffet style to keep it warm.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken when cold; reheat gently and add a splash of broth or cream to loosen it. Pasta can firm up but reheats well.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap tightly with plastic wrap before placing in the container. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat, stirring gently and adding a little broth or cream if the sauce is too thick. Avoid microwaving at high heat, which can cause the sauce to separate.",
+        "make_ahead_strategy": "Cook the chicken and pasta separately a day ahead. Prepare the sauce fresh on serving day and combine everything just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen chicken for this recipe?",
+            "answer": "Frozen chicken pieces can be used but should be fully thawed before air frying to ensure even cooking. Cooking frozen chicken directly in the air fryer may result in uneven texture and longer cook times, risking dryness on the outside and undercooked inside."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can substitute half-and-half or whole milk mixed with a tablespoon of flour or cornstarch to thicken. However, the sauce will be less rich and creamy. Be careful with heat to avoid curdling when using lower-fat alternatives."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes! Use dairy-free cream alternatives like coconut cream or cashew cream and a dairy-free Parmesan substitute. Keep in mind the flavor and texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Is it possible to cook the pasta in the air fryer too?",
+            "answer": "Pasta needs boiling water to cook properly, so it’s best to cook it on the stovetop. The air fryer can’t provide the necessary moisture or temperature for pasta to cook evenly."
+        },
+        {
+            "question": "How do I prevent the sauce from breaking?",
+            "answer": "Keep the sauce at a low simmer and avoid boiling. Adding cheese gradually and stirring constantly helps maintain a smooth texture. Also, adding acidic ingredients like lemon juice off the heat prevents curdling."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "You can double the ingredients, but cook the chicken in batches in the air fryer to avoid overcrowding. Prepare sauce and pasta accordingly. Overcrowding the air fryer reduces circulation and affects cooking quality."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently on the stovetop over low heat, stirring often and adding a splash of broth or cream to loosen the sauce. Avoid high heat or microwave reheating which may separate the sauce."
+        },
+        {
+            "question": "Can I add vegetables to this dish?",
+            "answer": "Absolutely! Sauté vegetables like spinach, mushrooms, or bell peppers separately and add them to the sauce with the chicken. This adds nutrition and flavor without changing the cooking method."
+        }
+    ],
+    "conclusion": "I hope you give this creamy air fryer chicken pasta a try—it’s one of those recipes that feels like a treat but comes together so easily. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "air fryer chicken pasta",
+        "secondary_keywords": [
+            "creamy chicken pasta",
+            "easy chicken pasta recipe",
+            "how to make chicken pasta",
+            "best air fryer chicken recipe",
+            "quick chicken pasta dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "how to cook chicken in air fryer",
+                "anchor": "air-fryer-chicken-cooking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images/easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1782726675_399",
+    "slug": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-06-29T11:06:14+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-06-29T11:06:14+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "easy-and-delicious-air-fryer-chicken-pasta-recipes-youll-love/images",
+    "has_reel": true
+}

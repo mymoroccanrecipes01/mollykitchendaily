@@ -284,14 +284,57 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_5.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_8.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_4.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_9.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_7.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_6.webp",
+            "relativePath": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images/delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food_Mollykitchendaily_image_6.webp",
+            "type": "template"
         }
     ],
     "id": "post_1782688128_638",
     "slug": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food",
-    "isOnline": false,
-    "createdAt": "2026-06-28T23:08:48+00:00",
+    "isOnline": true,
+    "createdAt": "2026-06-29T11:06:14+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-06-29T00:22:12+01:00",
+    "updatedAt": "2026-06-29T11:06:14+01:00",
     "category_id": "cat_1761230221_583",
-    "image_dir": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images"
+    "image_dir": "delicious-cream-cheese-air-fryer-recipes-for-quick-comfort-food/images",
+    "has_reel": true
 }
