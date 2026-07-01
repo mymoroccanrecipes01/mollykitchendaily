@@ -1,0 +1,346 @@
+{
+    "title": "Detroit Style Pizza with Cheesy Caramelized Crust You’ll Love",
+    "promptIMG": "Food photography: Detroit Style Pizza, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This Detroit style pizza is all about that thick, airy crust with a golden, crispy cheesy edge. The trick? Cheese goes under the sauce to get that perfect caramelized crust. Ideal for cozy weekend dinners or sharing with friends!",
+    "hashtags": "#DetroitStylePizza #ComfortFood #PizzaNight",
+    "board_name": "Easy Pizza Recipes",
+    "pin_variations": [
+        {
+            "title": "How To Make The Ultimate Detroit Style Pizza At Home",
+            "description": "Discover the secret to a crispy, cheesy Detroit style pizza with my easy step-by-step guide! 🍕 Perfect for weekend dinners or game nights. Save this recipe and try it today! #DetroitPizza #HomemadePizza #EasyDinner 🍅🧀"
+        },
+        {
+            "title": "Crispy, Cheesy Detroit Style Pizza Recipe You Can’t Resist",
+            "description": "Love thick crust and a bubbly cheese edge? This Detroit style pizza recipe nails it every time. Try it now and impress your family! 🍕🔥 Save and share for your next pizza night. #PizzaLovers #ComfortFood #CheesyPizza"
+        },
+        {
+            "title": "Weekend Pizza Night: Detroit Style with Crispy Cheese Edges",
+            "description": "Make your weekend extra special with this Detroit style pizza that’s crispy on the edges and soft inside. Easy to follow and so delicious! 🍕🥳 Try it today and save for later! #PizzaNight #DetroitStyle #FoodieFavorites"
+        },
+        {
+            "title": "The Secret To Perfect Detroit Style Pizza Crust Revealed!",
+            "description": "Want that iconic caramelized cheese crust? This Detroit style pizza recipe shows you how to get it right every time. Perfect for sharing with friends! 🍕✨ Save this one and make it soon! #DetroitStylePizza #PizzaRecipe #CheeseLovers"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "2 1/4 teaspoons active dry yeast (one 0.25-ounce packet)",
+        "1 1/2 cups warm water (about 110°F)",
+        "3 1/2 cups bread flour",
+        "1 teaspoon sugar",
+        "1 1/2 teaspoons salt",
+        "2 tablespoons olive oil (plus extra for pan)",
+        "12 ounces brick cheese, cut into small cubes or shredded",
+        "1 cup pizza sauce (preferably slightly chunky)",
+        "Optional: pepperoni slices or other toppings"
+    ],
+    "yield": "One 10x14 inch Detroit style pizza, 4 servings",
+    "introduction": "I first fell in love with Detroit style pizza during a trip to the Motor City a few years back. The thick, airy crust with those crispy, cheesy edges was a game changer for me. Ever since, I’ve been obsessed with trying to recreate that perfect balance at home. What sets this pizza apart is definitely the technique of layering the cheese directly on the dough before adding the sauce on top — it creates that signature caramelized cheesy crust that’s just irresistible. I’ve experimented with different cheeses and doughs, but using brick cheese and a well-oiled pan really nails the texture and flavor. The crust comes out thick yet light and airy, with a crunchy edge that’s almost addictive. This pizza is perfect for weekend dinners or when you want to impress friends with something a little different but still super comforting. Trust me, once you try this method, you won’t want to go back to your regular pizza routine. The finished pizza is golden, bubbly, and full of flavor with a texture that’s both crispy and tender. It’s a little bit of Detroit magic right in your own kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Activate your yeast by stirring it into the warm water with the sugar. Let it sit for about 5-10 minutes until it’s foamy. This step is crucial because it ensures the yeast is alive and ready to help your dough rise. If the mixture doesn’t foam, your yeast may be dead and the dough won’t rise properly. Using water that’s too hot can kill the yeast, so aim for about 110°F. This initial proofing step sets the foundation for a light, airy crust.",
+            "timing": "10 minutes",
+            "doneness_cue": "Foamy, bubbly surface on the yeast mixture"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the bread flour and salt. Slowly add the yeast mixture and olive oil, mixing until a rough dough forms. Knead the dough on a floured surface for about 8-10 minutes until it’s smooth and elastic. Kneading develops the gluten network which traps air, giving the crust its structure and chewiness. Under-kneading leads to dense dough, so don’t rush this step. The dough should be tacky but not sticky.",
+            "timing": "10 minutes",
+            "doneness_cue": "Smooth, elastic dough that springs back when poked"
+        },
+        {
+            "step": 3,
+            "instruction": "Lightly oil a large bowl and place your dough inside. Cover it with a clean kitchen towel or plastic wrap and let it rise in a warm spot until doubled in size, about 1 to 1.5 hours. This rising allows the yeast to ferment and produce gases that puff up the dough. Make sure the dough is in a draft-free area for best results. If it doesn’t double, the dough won’t be as airy and light.",
+            "timing": "1 to 1.5 hours",
+            "doneness_cue": "Dough has visibly doubled in volume"
+        },
+        {
+            "step": 4,
+            "instruction": "Generously oil a 10x14 inch Detroit style pizza pan or a similar rectangular pan. Press the dough into the pan, stretching it to fill the corners. Don’t be afraid of a slightly uneven shape — that’s part of the charm. The oil helps create a crispy, fried bottom crust. If the dough resists stretching, let it rest for 5 minutes and try again to avoid tearing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough evenly spread and touching all edges of the pan"
+        },
+        {
+            "step": 5,
+            "instruction": "Scatter the brick cheese evenly over the dough, making sure to cover the edges. This step is the key to that caramelized crispy cheese crust. Using brick cheese is traditional because it melts beautifully and browns perfectly. Don’t skimp on the cheese near the edges — that’s where the magic happens!",
+            "timing": "5 minutes",
+            "doneness_cue": "Cheese covers dough completely, including edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon the pizza sauce evenly over the cheese. Unlike traditional pizzas, the sauce goes on top of the cheese here. This layering prevents the crust from getting soggy and allows the cheese to caramelize directly against the pan. Use a slightly chunky sauce for texture and flavor, but avoid watery sauces that can make the dough soggy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce evenly spread without pooling"
+        },
+        {
+            "step": 7,
+            "instruction": "Add any additional toppings you like, such as pepperoni slices or sautéed vegetables. Be mindful not to overload the pizza, as too many toppings can weigh down the crust and affect baking. Less is more to keep the crust crispy and airy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Toppings evenly distributed without overcrowding"
+        },
+        {
+            "step": 8,
+            "instruction": "Preheat your oven to 500°F (260°C). Place the pizza pan on the middle rack and bake for 15-20 minutes until the cheese is bubbly and golden and the crust is crispy. The high temperature helps develop that perfect crust and caramelized cheese edges. Avoid opening the oven frequently, as it lowers the temperature and affects cooking.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Golden-brown bubbly cheese and crisp crust edges"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the pizza from the oven and let it rest for 5 minutes before slicing. This resting time allows the cheese to set slightly for easier slicing and prevents burns. Use a sharp knife or pizza cutter to slice into squares — the classic Detroit style shape. Serve warm and enjoy the crispy, cheesy, airy goodness!",
+            "timing": "5 minutes",
+            "doneness_cue": "Pizza slightly cooled and cheese set for clean slices"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Detroit Style Pizza Works",
+        "content": "<p>Detroit style pizza is unique because of its thick, airy crust combined with an irresistibly crispy cheese edge. The science behind this starts with the dough. Using bread flour with higher protein content helps develop strong gluten strands, which trap the gases produced by yeast during fermentation. This results in a chewy yet light crust rather than a dense, heavy base.</p><p>Another key is the layering technique: cheese goes directly on the dough before the sauce. This allows the cheese to melt against the pan’s oiled surface, creating that signature caramelized edge through the Maillard reaction — a chemical process that browns proteins and sugars, giving depth of flavor and crunch. The sauce on top protects the cheese from burning and adds moisture and tang.</p><p>High oven temperatures are crucial. Baking at 500°F ensures rapid crust development and cheese caramelization without drying out the interior. The oil in the pan acts like a shallow fryer, crisping the bottom crust beautifully. Finally, letting the pizza rest after baking allows the cheese to set slightly, making slicing neater and the eating experience more enjoyable.</p><p>Every step — from yeast activation and kneading to the order of toppings and baking temperature — works together to produce the perfect balance of airy softness inside and crispy, cheesy edges outside. This recipe captures the authentic Detroit style pizza experience in your own kitchen.</p>",
+        "ingredient_notes": {
+            "bread flour": "Bread flour is essential here because its higher protein content (typically 12-14%) develops more gluten than all-purpose flour. Gluten forms an elastic network that traps carbon dioxide from yeast, giving the crust its chewy, airy texture. Using all-purpose flour can result in a denser crust, so try to find bread flour for best results.",
+            "active dry yeast": "Active dry yeast needs to be proofed in warm water to activate. This process wakes the yeast cells and starts fermentation, which produces carbon dioxide that makes the dough rise. Using fresh yeast and the right water temperature (around 110°F) ensures a good rise. Too hot water kills yeast; too cold slows activation.",
+            "brick cheese": "Brick cheese is traditional for Detroit style pizza because it melts smoothly and browns beautifully without turning oily. It has a mild, buttery flavor that crisps nicely when baked against the pan, creating those coveted caramelized edges. If unavailable, a mix of mozzarella and Monterey Jack can be a substitute, but the texture may differ.",
+            "pizza sauce": "A slightly chunky pizza sauce works best here to add fresh tomato flavor and moisture without making the crust soggy. Avoid watery sauces, as they can seep into the dough and prevent the crust from crisping properly. The sauce placed on top of the cheese helps protect the cheese from burning during baking.",
+            "olive oil": "Olive oil is used both in the dough and to grease the pan. In the dough, it adds tenderness and flavor. In the pan, the oil helps fry the dough’s bottom and edges during baking, contributing to the signature crispy crust. Using a good quality olive oil can subtly enhance flavor, but any neutral oil will work if needed."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t rush the dough rise; let it double fully before baking.",
+            "reason": "Allowing the dough to fully rise gives the yeast enough time to produce gas bubbles that create an airy, light crust. Rushing this step results in a dense, heavy pizza base. Patience here means a better texture and more flavorful dough."
+        },
+        {
+            "tip": "Use a well-oiled pan to get that crispy, fried crust effect.",
+            "reason": "The oil in the pan acts like a shallow fryer, crisping the bottom and edges of the dough. Skipping this step or using too little oil can cause sticking and a less crispy crust, losing the signature Detroit style texture."
+        },
+        {
+            "tip": "Cut the brick cheese into small cubes for even melting.",
+            "reason": "Cubing the cheese ensures it melts evenly and creates pockets of caramelized cheese along the edges. Larger chunks may melt unevenly or leave unmelted bits, affecting texture and flavor balance."
+        },
+        {
+            "tip": "Let the pizza rest 5 minutes after baking before slicing.",
+            "reason": "Resting allows the cheese and sauce to set slightly, making slicing cleaner and preventing burns. Cutting immediately can cause the cheese to slide and the slices to be messy."
+        },
+        {
+            "tip": "Use a high oven temperature (around 500°F) for best results.",
+            "reason": "High heat promotes rapid crust browning and cheese caramelization without drying the interior. Lower temperatures yield pale, softer crusts lacking that signature crunch and flavor depth."
+        },
+        {
+            "tip": "Stretch the dough gently to avoid tearing and uneven thickness.",
+            "reason": "Overstretching or forcing the dough can cause tears that lead to uneven baking and sauce leakage. Resting the dough briefly if it resists helps it relax and stretch smoothly."
+        },
+        {
+            "tip": "Avoid watery pizza sauces to keep crust crisp.",
+            "reason": "Watery sauces seep into the dough, making the crust soggy and preventing proper caramelization. A thicker, chunkier sauce maintains structure and flavor balance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold water to activate yeast",
+            "why_it_happens": "Many assume any water temperature works, but cold water slows or stops yeast activation, leading to poor dough rise.",
+            "fix": "Always use warm water around 110°F to proof yeast. Test by touching the water—it should feel warm but not hot. If the yeast doesn’t foam within 10 minutes, start over with fresh yeast."
+        },
+        {
+            "mistake": "Skipping kneading or under-kneading the dough",
+            "why_it_happens": "Some cooks rush this step or don’t know its importance, resulting in dense dough.",
+            "fix": "Knead the dough for at least 8 minutes until smooth and elastic. This develops gluten that traps gas for a light crust. If needed, use a stand mixer with dough hook for consistent kneading."
+        },
+        {
+            "mistake": "Not oiling the pan enough",
+            "why_it_happens": "Assuming a non-stick pan is enough or wanting to reduce oil leads to sticking and less crispy crust.",
+            "fix": "Generously oil the pan before pressing in dough. The oil fries the dough edges, creating the signature crunch. Don’t skimp here for best texture and easy removal."
+        },
+        {
+            "mistake": "Applying sauce under the cheese",
+            "why_it_happens": "Traditional pizza layering habits lead to sauce under cheese, but Detroit style reverses this.",
+            "fix": "Place cheese directly on dough, then spoon sauce over cheese. This keeps cheese in contact with the pan for caramelization and prevents sogginess."
+        },
+        {
+            "mistake": "Overloading with toppings",
+            "why_it_happens": "Adding too many toppings can weigh down the dough and prevent proper baking.",
+            "fix": "Use toppings sparingly to maintain crust crispness and even cooking. Less is more to keep the texture balanced."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Pepperoni Detroit Style Pizza",
+            "description": "Add spicy pepperoni slices on top of the sauce and sprinkle with red pepper flakes for a kick. The spicy fat from the pepperoni crisps up beautifully with the cheese edges, adding a bold flavor contrast to the creamy cheese and tangy sauce.",
+            "technical_note": "Add pepperoni in step 7 before baking; watch for slightly faster browning due to fat rendering."
+        },
+        {
+            "name": "Vegetarian Detroit Style with Roasted Veggies",
+            "description": "Top the pizza with roasted bell peppers, mushrooms, and caramelized onions instead of meat. The roasting concentrates the veggies' sweetness, complementing the rich cheese and tangy sauce for a balanced veggie-forward pizza.",
+            "technical_note": "Roast vegetables ahead of time to remove excess moisture and prevent sogginess."
+        },
+        {
+            "name": "Four Cheese Detroit Style Pizza",
+            "description": "Mix brick cheese with mozzarella, provolone, and Parmesan for a complex cheesy flavor. The blend melts well and creates a rich, gooey texture with a sharp, nutty finish from the Parmesan.",
+            "technical_note": "Use finely grated Parmesan sprinkled on top before baking to enhance browning."
+        },
+        {
+            "name": "Gluten-Free Detroit Style Pizza",
+            "description": "Use a gluten-free flour blend designed for bread baking and adjust hydration slightly. This version may be a bit more delicate but still delivers that caramelized cheese crust with a slightly different texture.",
+            "technical_note": "Add xanthan gum if not included in the flour blend to help with dough elasticity."
+        },
+        {
+            "name": "Vegan Detroit Style Pizza",
+            "description": "Swap dairy cheese for a plant-based melting cheese and use a vegan pizza sauce. The dough remains the same, and with a well-chosen vegan cheese, you can still get a crispy edge and a satisfying melt.",
+            "technical_note": "Use nutritional yeast or vegan cheese blends with good melting properties to mimic brick cheese."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "60g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "850mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep leftover Detroit style pizza at room temperature covered loosely for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly for safety.",
+        "refrigerator": "Store pizza slices in an airtight container or wrapped tightly in plastic wrap for up to 3 days. The crust may lose some crispness when cold but reheats well in the oven to restore texture.",
+        "freezer": "Freeze leftover pizza slices wrapped tightly in plastic and foil for up to 2 months. To thaw, place in the fridge overnight. Reheat in the oven to revive the crispy edges.",
+        "reheating": "Reheat pizza in a preheated 375°F oven for 8-10 minutes until warmed through and crust is crisp again. Avoid microwaving as it makes the crust soggy. A splash of water in the oven can help keep toppings moist.",
+        "make_ahead_strategy": "You can prepare the dough a day ahead and refrigerate it after the first rise. Let it come to room temperature before shaping. Assemble the pizza just before baking for fresh crust and best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use all-purpose flour instead of bread flour?",
+            "answer": "You can, but the crust will be less chewy and airy because all-purpose flour has less protein, which means less gluten development. For the best Detroit style texture, bread flour is recommended. If you only have all-purpose, try adding a tablespoon of vital wheat gluten if you have it."
+        },
+        {
+            "question": "Why does the cheese need to go under the sauce?",
+            "answer": "Placing cheese directly on the dough allows it to melt and caramelize against the oiled pan, forming the signature crispy edges. The sauce on top prevents the cheese from burning and keeps the pizza moist. This layering is key to the Detroit style pizza’s unique crust and flavor."
+        },
+        {
+            "question": "What if I don’t have brick cheese?",
+            "answer": "Brick cheese is ideal for its meltability and browning, but a mix of low-moisture mozzarella and Monterey Jack can work as a substitute. The texture and flavor might be slightly different, but you’ll still get a tasty crispy cheese edge."
+        },
+        {
+            "question": "How do I know when the pizza is done baking?",
+            "answer": "Look for bubbly, golden-brown cheese with crispy, caramelized edges and a crust that’s firm and browned on the bottom. The cheese should not be pale or rubbery, and the crust should have a slight crunch when tapped."
+        },
+        {
+            "question": "Can I make the dough ahead of time?",
+            "answer": "Absolutely! After the first rise, punch down the dough and refrigerate it in a covered bowl for up to 24 hours. Bring it to room temperature before shaping and baking. This slow fermentation can actually improve flavor."
+        },
+        {
+            "question": "Why is my crust dense and not airy?",
+            "answer": "This usually happens if the yeast isn’t active, the dough wasn’t kneaded enough, or the rise time was too short. Make sure your yeast is fresh and proofed properly, knead until elastic, and allow the dough to double in size in a warm spot."
+        },
+        {
+            "question": "Can I add toppings before the cheese and sauce?",
+            "answer": "Traditionally, the cheese goes on the dough first, then sauce, then toppings. Adding toppings under the cheese can prevent the cheese from caramelizing properly. If you want to add toppings under the cheese, be mindful it changes the texture and crispiness."
+        },
+        {
+            "question": "How do I prevent the pizza from sticking to the pan?",
+            "answer": "Generously oil the pan before pressing in the dough, making sure the oil coats the entire surface and edges. This frying effect prevents sticking and helps create a crispy crust. If your pan isn’t non-stick, consider using parchment paper or a well-seasoned steel pan."
+        }
+    ],
+    "conclusion": "Give this Detroit style pizza a try — it’s a fun twist on classic pizza with that irresistible crispy cheese crust. I’d love to hear how yours turns out, so don’t forget to share your pics and tips!",
+    "seo": {
+        "primary_keyword": "Detroit style pizza recipe",
+        "secondary_keywords": [
+            "how to make Detroit style pizza",
+            "best Detroit style pizza",
+            "easy Detroit pizza recipe",
+            "thick crust pizza recipe",
+            "crispy cheese crust pizza"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pizza dough basics",
+                "anchor": "homemade-pizza-dough-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_1.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_1.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_2.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_2.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_3.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_3.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_7.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "The Secret To Perfect Detroit Style Pizza Crust Revealed!"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_4.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "How To Make The Ultimate Detroit Style Pizza At Home"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_8.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "How To Make The Ultimate Detroit Style Pizza At Home"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_6.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Weekend Pizza Night: Detroit Style with Crispy Cheese Edges"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_9.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "How To Make The Ultimate Detroit Style Pizza At Home"
+        },
+        {
+            "fileName": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_5.webp",
+            "relativePath": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images/detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Crispy, Cheesy Detroit Style Pizza Recipe You Can’t Resist"
+        }
+    ],
+    "id": "post_1782947251_173",
+    "slug": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive",
+    "isOnline": true,
+    "createdAt": "2026-07-02T00:35:17+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-02T00:35:17+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "detroit-style-pizza-recipe-crispy-cheesy-and-totally-addictive/images",
+    "has_reel": true
+}

@@ -1,0 +1,350 @@
+{
+    "title": "Hearty Slow-Simmered Steak Soup for Cozy Nights In",
+    "promptIMG": "Food photography: Hearty Slow-Simmered Steak Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This steak soup is pure comfort—slow-simmered beef with fresh veggies makes every spoonful rich and cozy. Great for chilly evenings when you crave something warm and filling.",
+    "hashtags": "#steaksoup #comfortfood #heartymeals",
+    "board_name": "Comfort Food Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Cozy Steak Soup Recipe 🍲",
+            "description": "Looking for the perfect soup to warm your soul? This hearty steak soup is packed with tender beef and fresh veggies. Save this recipe for your next chilly night! #steaksoup #comfortfood #easyrecipes 🍅🥕"
+        },
+        {
+            "title": "Slow-Simmered Steak Soup That Feels Like a Hug in a Bowl",
+            "description": "Tender beef and fresh vegetables come together in this rich, slow-cooked soup. Try it today and discover why it’s my go-to comfort meal! #comfortsoup #heartymeals #homecooking 🥩🍲"
+        },
+        {
+            "title": "Cozy Up with This Delicious Steak and Veggie Soup Tonight",
+            "description": "This steak soup is loaded with flavor and perfect for a cozy night in. It’s easy to make and packed with goodness. Give it a try and warm up your evening! #souprecipes #steaksoup #comfortfood 🥕🔥"
+        },
+        {
+            "title": "The Ultimate Hearty Steak Soup You’ll Want on Repeat",
+            "description": "Rich, filling, and packed with tender beef, this slow-simmered soup is pure comfort. Discover the secret to deep flavors and hearty satisfaction. Save it now! #heartyrecipes #steaksoup #comfortmeals 🍲❤️"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 120,
+    "servings": 6,
+    "ingredients": [
+        "1.5 pounds beef chuck, cut into 1-inch cubes",
+        "2 tablespoons olive oil",
+        "1 large onion, diced",
+        "3 cloves garlic, minced",
+        "3 carrots, peeled and sliced",
+        "2 celery stalks, sliced",
+        "4 cups beef broth",
+        "2 cups water",
+        "1 can (14.5 oz) diced tomatoes",
+        "1 teaspoon dried thyme",
+        "1 bay leaf",
+        "Salt and pepper to taste",
+        "2 cups chopped kale or spinach"
+    ],
+    "yield": "Approximately 8 cups, 6 servings",
+    "introduction": "I first made this steak soup on a particularly cold fall evening when I wanted something hearty and satisfying without too much fuss. I’ve always loved soups, but beef soups can sometimes be tough or bland. After a few attempts, I nailed this slow-simmered version that’s rich, tender, and full of flavor. The trick I learned was browning the beef well before simmering—it seals in the juices and adds a deep, caramelized flavor that you just can’t get otherwise. Also, adding fresh kale near the end keeps the soup vibrant and adds a nice texture. The finished soup is thick, comforting, and perfect for chilly nights when you want a warm meal that feels like a hug. It’s a bit of a slow process, but totally worth the wait. Plus, it reheats beautifully, so it’s great for leftovers too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by trimming any excess fat from the beef chuck and cutting it into 1-inch cubes. Pat the pieces dry with paper towels to ensure a good sear. Heat olive oil in a large heavy-bottomed pot over medium-high heat. Add the beef cubes in batches to avoid overcrowding the pan, which would cause steaming instead of browning. Sear the meat until all sides are a deep golden brown, about 5 minutes per batch. This caramelization is crucial as it develops the rich flavor base for the soup. Avoid stirring too often to let the beef form a crust, which locks in juices and enhances the final taste.",
+            "timing": 15,
+            "doneness_cue": "Beef cubes are evenly browned on all sides with a rich, deep color but not burnt."
+        },
+        {
+            "step": 2,
+            "instruction": "Once all the beef is browned, remove it and set aside. In the same pot, reduce heat to medium and add diced onions. Cook, stirring occasionally, until they soften and start to turn translucent, about 5 minutes. Add minced garlic and cook for another minute until fragrant. This step builds layers of flavor from the aromatics. If you skip this, the soup can taste flat. Be careful not to burn the garlic as it will turn bitter and spoil the soup's taste.",
+            "timing": 6,
+            "doneness_cue": "Onions are soft and translucent; garlic is aromatic but not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Return the browned beef to the pot along with any juices that have collected. Add sliced carrots and celery, stirring to combine. Pour in the beef broth, water, and the canned diced tomatoes with their juices. Stir in the dried thyme and add the bay leaf. Season lightly with salt and pepper, remembering you can adjust later. Bring the soup to a boil over high heat, then immediately reduce to a low simmer. Cover the pot partially to let steam escape while cooking. This slow simmer lets the beef become tender and the flavors meld beautifully.",
+            "timing": 10,
+            "doneness_cue": "Soup bubbles gently with a savory aroma filling the kitchen."
+        },
+        {
+            "step": 4,
+            "instruction": "Let the soup simmer gently for about 1.5 to 2 hours, stirring occasionally. The beef should become fork-tender and the broth will deepen in flavor. If the liquid reduces too much, add a little water to maintain the desired soup consistency. Avoid boiling vigorously, as this can toughen the meat. Slow simmering breaks down connective tissues in the beef, resulting in a tender texture and rich mouthfeel.",
+            "timing": 90,
+            "doneness_cue": "Beef is tender and easily pierced with a fork; broth is flavorful and slightly thickened."
+        },
+        {
+            "step": 5,
+            "instruction": "About 10 minutes before serving, stir in the chopped kale or spinach. This adds a fresh, slightly bitter note and bright green color. Cook just until the greens wilt but still retain some texture and nutrients. Overcooking the greens can make them mushy and dull the soup’s appearance. Taste and adjust seasoning with salt and pepper as needed.",
+            "timing": 10,
+            "doneness_cue": "Greens are vibrant and tender but not limp; soup is well-seasoned."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the bay leaf before serving. Ladle the soup into bowls and serve hot, ideally with crusty bread or a simple side salad. The soup can be garnished with fresh parsley or a squeeze of lemon for brightness if you like. This final touch can lift the flavors and add a fresh contrast to the rich broth.",
+            "timing": 5,
+            "doneness_cue": "Soup is steaming hot and ready to enjoy with vibrant garnish."
+        },
+        {
+            "step": 7,
+            "instruction": "If you plan to store leftovers, let the soup cool to room temperature before transferring to airtight containers. This prevents condensation that can dilute the soup. Refrigerate for up to 4 days or freeze for longer storage. Reheat gently on the stovetop, adding a splash of broth or water if needed to restore consistency.",
+            "timing": 5,
+            "doneness_cue": "Soup reheated evenly and tastes fresh without separation."
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra depth of flavor, you can add a splash of Worcestershire sauce or a teaspoon of smoked paprika during the simmering stage. These ingredients add umami and subtle smokiness that complement the beef beautifully. Use sparingly to avoid overpowering the natural flavors.",
+            "timing": 2,
+            "doneness_cue": "Soup has a subtle smoky aroma enhancing the beefy taste."
+        },
+        {
+            "step": 9,
+            "instruction": "To make the soup more filling, consider adding diced potatoes or barley along with the vegetables. These starches absorb the broth and add heartiness. Just be mindful to adjust cooking time accordingly, as potatoes need about 20-30 minutes to become tender.",
+            "timing": 3,
+            "doneness_cue": "Additional starches are cooked through and tender without falling apart."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Steak Soup Is So Comforting and Flavorful",
+        "content": "<p>This steak soup recipe succeeds because of careful ingredient selection and cooking methods that maximize flavor and texture. Browning the beef at the start triggers the Maillard reaction, which develops complex flavors and a rich color that forms the foundation of the soup. This step is essential; skipping it results in a flatter, less satisfying broth.</p><p>Slow simmering breaks down the collagen in the chuck roast, turning tough meat into tender, melt-in-your-mouth bites. The low and slow heat also allows the broth to deepen in flavor as the beef, vegetables, and herbs release their essence gradually. The addition of fresh greens near the end adds brightness and a slight bitterness that balances the richness.</p><p>The use of aromatics like garlic and onion builds layers of flavor early on. Cooking them until soft but not browned ensures a sweet, mellow base without bitterness. The canned tomatoes add acidity and umami, which brighten and round out the soup’s profile. Finally, seasoning gradually and tasting at the end prevents over-salting and lets you tailor the soup perfectly.</p><p>Each technique and ingredient plays a role in creating a hearty, comforting soup that feels like a warm hug. From the initial sear to the slow simmer and finishing greens, this recipe carefully balances texture, flavor, and nutrition for a truly satisfying meal.</p>",
+        "ingredient_notes": {
+            "Beef Chuck": "Beef chuck is ideal for slow-cooked soups because it's well-marbled with fat and connective tissue that breaks down into gelatin, giving the broth body and richness. Look for fresh beef with a bright red color and some fat marbling. Avoid lean cuts as they can become dry and tough. When cutting, aim for uniform cubes to ensure even cooking.",
+            "Olive Oil": "Using olive oil for browning adds a subtle fruity note and helps conduct heat evenly. Choose a good quality extra virgin olive oil for flavor, but a neutral oil can substitute if preferred. Avoid overheating the oil to prevent smoking, which can impart bitterness.",
+            "Carrots": "Carrots add natural sweetness and color to the soup. Fresh, firm carrots with bright orange color work best. Peel them to remove any bitterness from the skin. Slicing them evenly ensures they cook at the same rate, contributing texture and flavor without becoming mushy.",
+            "Beef Broth": "A rich, well-seasoned beef broth is the backbone of this soup’s flavor. Homemade broth is ideal, but high-quality store-bought broth works well too. Check for low sodium versions if you want more control over seasoning. The broth provides depth and umami that elevates the dish.",
+            "Kale or Spinach": "Adding kale or spinach near the end keeps the greens vibrant and nutrient-packed. Kale provides a firmer texture and earthy flavor, whereas spinach wilts softer and has a milder taste. Wash thoroughly to remove grit and chop into bite-sized pieces for even cooking."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t rush the browning of the beef; let it develop a deep crust.",
+            "reason": "The Maillard reaction that occurs during browning creates complex flavor compounds and a rich color that are the foundation of a great beef soup. If you stir too often or overcrowd the pan, the meat steams instead of browns, leading to less flavor and a pale broth."
+        },
+        {
+            "tip": "Simmer the soup gently with the lid slightly ajar.",
+            "reason": "A low simmer breaks down tough meat fibers slowly while preventing the broth from boiling off too quickly. Leaving the lid partially on retains moisture but allows steam to escape, concentrating flavors without drying out the soup."
+        },
+        {
+            "tip": "Add greens just before serving to keep them fresh and bright.",
+            "reason": "Cooking greens too early causes them to become mushy and dull in color. Adding them at the end preserves their texture, vibrant green color, and nutritional value, enhancing both the look and taste of the soup."
+        },
+        {
+            "tip": "Season gradually and taste often during cooking.",
+            "reason": "Salt levels can concentrate as the liquid reduces during simmering. Adding salt little by little helps you avoid over-seasoning. Tasting along the way ensures the final soup is perfectly balanced."
+        },
+        {
+            "tip": "Use a heavy-bottomed pot or Dutch oven for even heat distribution.",
+            "reason": "Even heat prevents hot spots that can burn ingredients and ensures the beef browns evenly. Heavy pots retain heat well, making simmering more consistent and effective."
+        },
+        {
+            "tip": "Let the soup rest for 10 minutes after cooking before serving.",
+            "reason": "Resting allows the flavors to meld and the soup to thicken slightly. This step enhances the overall taste and texture, making the soup feel more cohesive and satisfying."
+        },
+        {
+            "tip": "Cut vegetables uniformly for even cooking.",
+            "reason": "When carrots, celery, and onions are cut into similar sizes, they cook evenly and maintain a pleasant texture. Inconsistent sizes can lead to some pieces being mushy while others remain crunchy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step",
+            "why_it_happens": "Many home cooks want to save time and toss everything in the pot, assuming simmering will develop enough flavor.",
+            "fix": "Always brown the beef in batches without overcrowding the pan. This step adds essential depth and richness. Take your time here—rushing leads to bland soup."
+        },
+        {
+            "mistake": "Boiling the soup vigorously",
+            "why_it_happens": "It’s tempting to turn up the heat to speed cooking, especially when in a hurry.",
+            "fix": "Maintain a gentle simmer instead of a boil. Boiling toughens meat fibers and can make broth cloudy. Adjust heat to keep small bubbles and avoid overcooking."
+        },
+        {
+            "mistake": "Overcooking greens",
+            "why_it_happens": "Adding kale or spinach too early because you think they need long cooking.",
+            "fix": "Add greens only in the last 5-10 minutes. This keeps them vibrant and prevents mushiness, preserving flavor and nutrients."
+        },
+        {
+            "mistake": "Not tasting and adjusting seasoning",
+            "why_it_happens": "Assuming the initial seasoning is enough without checking during cooking.",
+            "fix": "Taste the soup periodically and adjust salt and pepper as needed, especially after long simmering when flavors concentrate."
+        },
+        {
+            "mistake": "Using lean beef cuts",
+            "why_it_happens": "Some might choose lean cuts for health reasons or convenience.",
+            "fix": "Opt for chuck or other well-marbled cuts for tenderness and flavor. Lean cuts can become tough and dry in long cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Steak Soup",
+            "description": "Add a diced jalapeño or a pinch of red pepper flakes when cooking the onions for a spicy kick. You can also finish with a squeeze of lime and chopped cilantro for a fresh twist. The heat complements the rich beef and brightens the dish.",
+            "technical_note": "Adjust spice levels carefully and add fresh herbs at the end to preserve their brightness."
+        },
+        {
+            "name": "Steak and Barley Soup",
+            "description": "Include ½ cup pearl barley with the vegetables for a heartier texture and nutty flavor. Barley absorbs the broth and thickens the soup slightly, making it extra filling and comforting.",
+            "technical_note": "Simmer an extra 20-30 minutes to allow barley to cook fully and soften."
+        },
+        {
+            "name": "Creamy Steak Soup",
+            "description": "Stir in ½ cup heavy cream or coconut milk near the end for a luscious, creamy texture. This variation adds richness and smoothness, perfect if you want a more indulgent soup.",
+            "technical_note": "Add cream off heat or on very low heat to prevent curdling."
+        },
+        {
+            "name": "Vegetable-Packed Steak Soup",
+            "description": "Boost the veggie content by adding diced potatoes, green beans, and corn. This makes the soup colorful and nutritious, turning it into a full meal that satisfies all tastes.",
+            "technical_note": "Adjust cooking time to ensure all vegetables are tender but not mushy."
+        },
+        {
+            "name": "Steak Soup with Red Wine",
+            "description": "Deglaze the pan with ½ cup red wine after browning the beef for added depth and complexity. The wine's acidity enhances the beefy flavor and adds a subtle richness.",
+            "technical_note": "Allow alcohol to cook off fully before adding broth to avoid bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "360 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The soup can safely sit at room temperature for up to 2 hours. Cover loosely to prevent contamination but avoid tight seals that trap steam, which can encourage bacterial growth.",
+        "refrigerator": "Store the cooled soup in an airtight container for up to 4 days. The flavors may deepen, but the texture of the greens might soften further. Reheat gently on the stovetop or microwave before serving.",
+        "freezer": "Freeze the soup in airtight containers or heavy-duty freezer bags for up to 3 months. Leave some headspace for expansion. Thaw overnight in the refrigerator and reheat slowly to preserve texture and flavor.",
+        "reheating": "Reheat on the stovetop over low to medium heat, stirring occasionally. Add a splash of broth or water if the soup has thickened too much. Avoid boiling to maintain tender beef and prevent greens from overcooking.",
+        "make_ahead_strategy": "You can prepare the soup base (browned beef, sautéed veggies, broth) up to 2 days ahead and refrigerate. Add fresh greens and simmer the final 10 minutes on the day of serving for best freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different cut of beef for this soup?",
+            "answer": "Yes, but choose cuts suitable for slow cooking like brisket or short ribs. Leaner cuts like sirloin cook faster but can become tough if simmered too long. Chuck is preferred for its marbling and tenderness after slow cooking."
+        },
+        {
+            "question": "How do I make this soup gluten-free?",
+            "answer": "This recipe is naturally gluten-free if you avoid adding barley or other grains containing gluten. Always check broth labels to ensure they don’t contain gluten additives or thickeners."
+        },
+        {
+            "question": "Can I prepare this soup in a slow cooker?",
+            "answer": "Absolutely! Brown the beef and sauté the veggies first, then transfer everything to the slow cooker. Cook on low for 6-8 hours or high for 3-4 hours until the beef is tender. Add greens in the last 30 minutes."
+        },
+        {
+            "question": "Why is my beef tough after cooking?",
+            "answer": "This usually happens if the beef wasn’t simmered long enough or cooked at too high a temperature. Low and slow cooking breaks down connective tissues. Make sure to maintain a gentle simmer and cook until fork-tender."
+        },
+        {
+            "question": "Can I freeze the soup with the greens added?",
+            "answer": "It’s better to add greens fresh after reheating because freezing can make them mushy and dull the color. Freeze the soup base without greens for best texture upon thawing."
+        },
+        {
+            "question": "How can I thicken the soup if it’s too thin?",
+            "answer": "Simmer uncovered for a bit longer to reduce liquid or mash some cooked vegetables into the broth. Avoid adding flour or cornstarch unless you want a thicker stew-like texture."
+        },
+        {
+            "question": "What can I serve with this steak soup?",
+            "answer": "Crusty bread, garlic toast, or a fresh green salad make great accompaniments. The soup is hearty enough to be a meal on its own but pairs well with simple sides."
+        },
+        {
+            "question": "Is there a vegetarian version of this soup?",
+            "answer": "You can substitute beef with mushrooms or lentils and use vegetable broth. The flavor will be different but still hearty and satisfying with the right seasoning."
+        }
+    ],
+    "conclusion": "Give this hearty steak soup a try on your next chilly evening—you’ll love how comforting and flavorful it is. Don’t forget to share your cozy bowl moments with me!",
+    "seo": {
+        "primary_keyword": "hearty steak soup recipe",
+        "secondary_keywords": [
+            "slow simmer beef soup",
+            "comforting steak soup",
+            "how to make steak soup",
+            "best steak soup recipe",
+            "easy beef soup"
+        ],
+        "internal_links": [
+            {
+                "text": "slow cooker beef stew",
+                "anchor": "slow-cooker-beef-stew"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_1.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_1.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_2.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_2.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_3.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_3.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_6.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Cozy Up with This Delicious Steak and Veggie Soup Tonight"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_8.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Up Fast with This Cozy Steak Soup Recipe 🍲"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_9.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Up Fast with This Cozy Steak Soup Recipe 🍲"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_4.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Warm Up Fast with This Cozy Steak Soup Recipe 🍲"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_7.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "The Ultimate Hearty Steak Soup You’ll Want on Repeat"
+        },
+        {
+            "fileName": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_5.webp",
+            "relativePath": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images/hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Slow-Simmered Steak Soup That Feels Like a Hug in a Bowl"
+        }
+    ],
+    "id": "post_1782947826_352",
+    "slug": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day",
+    "isOnline": true,
+    "createdAt": "2026-07-02T00:35:17+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-02T00:35:17+01:00",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "hearty-steak-soup-recipes-that-feel-like-a-warm-hug-on-a-cold-day/images",
+    "has_reel": true
+}

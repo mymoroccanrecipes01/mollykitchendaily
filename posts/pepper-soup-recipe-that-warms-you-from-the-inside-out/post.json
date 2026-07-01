@@ -1,0 +1,347 @@
+{
+    "title": "Cozy Spicy Pepper Soup That Warms You Right Up",
+    "promptIMG": "Food photography: Cozy Spicy Pepper Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This pepper soup is my ultimate comfort food — spicy, soothing, and packed with fresh peppers and warming spices. It’s perfect for chilly evenings or when you need a little extra warmth and a kick.",
+    "hashtags": "#peppersoup #comfortfood #spicyrecipes",
+    "board_name": "Comforting Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Spicy Pepper Soup Recipe!",
+            "description": "Feeling chilly? This spicy pepper soup is the perfect fix! It’s easy to make and full of bold flavors that warm you from the inside out. Save this recipe and try it tonight! 🌶️🍲🔥 #spicysoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Simple Pepper Soup That’s Both Fiery and Soothing",
+            "description": "Discover how fresh peppers and warming spices come together in this simple pepper soup. It’s cozy, comforting, and ready in under an hour. Try it today and feel the heat! 🌶️🍜 #peppersoup #homemade #spicycomfort"
+        },
+        {
+            "title": "Your New Favorite Cozy Pepper Soup to Try Now",
+            "description": "This pepper soup is packed with fresh, vibrant flavors and just the right amount of heat. Perfect for cold nights or when you want to feel cozy. Don’t wait—make it tonight! 🍲❤️🌶️ #comfortfood #spicysoup #easymeals"
+        },
+        {
+            "title": "How to Make Spicy Pepper Soup That Feels Like a Hug",
+            "description": "Warm up your soul with this spicy pepper soup recipe. It’s loaded with fresh peppers and spices that comfort and excite your taste buds. Save this recipe for your next cozy night in! 🌶️🥣🔥 #souprecipes #spicycomfort #homecooking"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 medium onion, chopped",
+        "3 cloves garlic, minced",
+        "2 fresh red chili peppers, sliced",
+        "1 fresh green bell pepper, chopped",
+        "1 teaspoon ground cumin",
+        "1 teaspoon smoked paprika",
+        "4 cups vegetable broth",
+        "1 large tomato, diced",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh cilantro or parsley for garnish"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this pepper soup recipe during a chilly autumn evening when I craved something spicy yet soothing. It was a bit of an experiment, tossing in fresh peppers and warming spices, and honestly, it quickly became my go-to comfort soup. What sets my version apart is the balance between heat and warmth — not just fiery spice but also a cozy depth from smoked paprika and cumin. The trick I learned is to sweat the onions and garlic slowly to develop a rich base before adding the peppers and broth. This technique really brings out the natural sweetness of the veggies and layers the flavors beautifully. When finished, the soup has this vibrant red color, a gentle kick that lingers, and a silky texture that feels like a warm hug in a bowl. It’s great for dinner on a cold night or anytime you need a little pick-me-up. Plus, it’s super easy to whip up, making it perfect for weeknights or lazy weekends alike. I hope you love it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil over medium heat in a large pot. Add the chopped onion and cook gently, stirring occasionally, for about 7-8 minutes until softened and translucent but not browned. This slow cooking releases the onion’s natural sweetness and forms a flavorful base for the soup. Avoid rushing this step or turning up the heat too high, as browned onions can add bitterness. You want a soft, fragrant foundation that complements the spices and peppers.",
+            "timing": 8,
+            "doneness_cue": "Onions are soft, translucent, and slightly glossy without any browning."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and sliced chili peppers to the pot. Stir and cook for 1-2 minutes until fragrant. Garlic can burn quickly, so keep the heat moderate and stir often. The fresh chili peppers start releasing their heat here, infusing the oil and aromatics with spice. This step is key to layering the flavors deeply before adding liquids.",
+            "timing": 2,
+            "doneness_cue": "Aromatic garlic scent fills the kitchen without any burnt smell."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the chopped green bell pepper, ground cumin, and smoked paprika. Cook for another 3-4 minutes, stirring frequently. The bell pepper softens slightly and melds with the spices, while cumin and paprika toast gently in the oil, enhancing their earthy and smoky notes. This step infuses the soup with warmth and complexity.",
+            "timing": 4,
+            "doneness_cue": "Spices smell toasted and the bell pepper looks softened but still vibrant."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the vegetable broth and add the diced tomato. Stir well to combine everything. Turn the heat up to bring the soup to a gentle boil. The broth dissolves the sautéed bits at the bottom, lifting all those flavors into the liquid. Tomatoes add subtle acidity, brightening the soup and balancing the spices.",
+            "timing": 5,
+            "doneness_cue": "Soup reaches a gentle rolling boil with a rich, reddish color."
+        },
+        {
+            "step": 5,
+            "instruction": "Reduce the heat to low and let the soup simmer uncovered for 20 minutes. This simmer allows the flavors to meld and the peppers to soften fully. Stir occasionally to prevent sticking. Simmering gently rather than boiling vigorously keeps the flavors balanced and the broth clear rather than cloudy.",
+            "timing": 20,
+            "doneness_cue": "Peppers are tender and the soup’s aroma is rich and inviting."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the soup and season with salt and freshly ground black pepper. Adjust spice levels by adding more fresh chili slices if you want extra heat. Seasoning at this stage lets you control the final flavor since the broth has concentrated during simmering.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with a gentle spicy kick and no blandness."
+        },
+        {
+            "step": 7,
+            "instruction": "For a smoother texture, use an immersion blender to partially puree the soup, leaving some chunks for body. This step is optional but adds a lovely creamy feel without cream. Blending also helps thicken the broth slightly while keeping the fresh pepper pieces intact.",
+            "timing": 3,
+            "doneness_cue": "Soup is thicker with a mix of smooth and chunky textures."
+        },
+        {
+            "step": 8,
+            "instruction": "Ladle the soup into bowls and garnish with fresh cilantro or parsley. The fresh herbs add brightness and a pop of color, balancing the warm spices and heat. Serve immediately with crusty bread or your favorite side.",
+            "timing": 2,
+            "doneness_cue": "Soup looks vibrant with fresh green garnish."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your spicy pepper soup while hot! This soup is best eaten fresh but can be refrigerated and gently reheated. The flavors deepen after resting, making leftovers even better the next day.",
+            "timing": 0,
+            "doneness_cue": "Soup is piping hot and flavorful on serving."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Pepper Soup Hits the Spot Every Time",
+        "content": "<p>This recipe works because it balances heat and comfort through deliberate layering of flavors and careful cooking techniques. The gentle sweating of onions and garlic at the start releases natural sugars without bitterness, creating a sweet and savory base. Adding fresh chili peppers early in the process allows their capsaicin oils to infuse the oil and aromatics, distributing spiciness evenly rather than it being a sharp, isolated heat.</p><p>The use of smoked paprika and cumin introduces earthy and smoky notes that complement the peppers’ brightness and add depth. Toasting these spices in oil helps unlock their full aroma and flavor, a crucial step to avoid flat or dull-tasting soup. The vegetable broth dissolves the sautéed ingredients, capturing all those layers in the liquid.</p><p>Simmering gently rather than boiling vigorously keeps the broth clear and the flavors balanced. It also softens the peppers perfectly, ensuring they meld into the broth without turning mushy. The optional partial blending adds texture and body, making the soup feel richer without cream or thickening agents.</p><p>Finally, seasoning at the end ensures the soup is neither under- nor over-salted, and fresh herbs add brightness and contrast to the warm spices. This thoughtful process results in a pepper soup that’s spicy but soothing, complex but approachable, and perfect for cozy nights.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good quality extra virgin olive oil for this recipe. It acts as the flavor carrier, helping release the aromas from the onions, garlic, and spices. Olive oil’s fruity, slightly peppery notes add subtle complexity. Avoid using strong-flavored or refined oils that can mask the delicate spice balance. Also, olive oil has a moderate smoke point, so cook gently to prevent burning.",
+            "fresh chili peppers": "Fresh red chili peppers provide natural heat and vibrant flavor. When selecting, look for firm, glossy peppers without soft spots. The heat level varies by type, so choose according to your spice tolerance. Slicing them thinly releases more capsaicin into the soup. Removing seeds reduces heat if desired. Fresh peppers add brightness and a natural kick that dried chili powders can’t replicate.",
+            "smoked paprika": "Smoked paprika is key for adding warmth and a subtle smoky flavor that deepens the soup’s profile. Opt for Spanish smoked paprika if possible for authenticity. It’s milder than chili powder and adds color and aroma. Don’t skip this spice, as it balances the fresh pepper’s brightness and brings a comforting earthiness to the dish.",
+            "vegetable broth": "A good quality vegetable broth is essential since it forms the soup’s base. Homemade broth is ideal for fresh flavor, but store-bought works if low sodium and natural. The broth dissolves the sautéed aromatics and spices, distributing flavor evenly. Avoid broths with overpowering salt or artificial flavors that can clash with the spices.",
+            "fresh herbs": "Fresh cilantro or parsley adds a bright, herbaceous note that contrasts the warm spices and spicy heat. Choose fresh, vibrant leaves without yellowing. Adding herbs just before serving preserves their flavor and color. They also add a fresh aroma and visual appeal, rounding out the soup’s profile beautifully."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sweat the onions slowly over medium-low heat.",
+            "reason": "Sweating onions gently releases their natural sugars and sweetness without browning, which can cause bitterness. This slow cooking builds a rich, flavorful base essential for a balanced soup. Rushing or using high heat can burn the onions and negatively affect the overall taste."
+        },
+        {
+            "tip": "Toast spices in oil before adding broth.",
+            "reason": "Toasting spices like cumin and smoked paprika in oil activates their essential oils, releasing deeper aromas and flavors. This step intensifies the soup’s warmth and complexity. Skipping it leads to a flat, less vibrant flavor profile."
+        },
+        {
+            "tip": "Simmer soup gently, don’t boil hard.",
+            "reason": "A gentle simmer allows flavors to meld without breaking down ingredients too aggressively. Boiling vigorously can cause a cloudy broth and mushy vegetables, losing the soup’s bright, clean taste and appealing texture."
+        },
+        {
+            "tip": "Add fresh herbs right before serving.",
+            "reason": "Fresh herbs lose their vibrant flavor and color if cooked too long. Adding them at the end preserves their brightness, aroma, and visual appeal, enhancing the soup’s final presentation and taste."
+        },
+        {
+            "tip": "Use an immersion blender to partially puree.",
+            "reason": "Partially blending the soup thickens the broth and creates a creamy texture without adding dairy. This technique balances the chunky pepper pieces with a smooth base, making the soup feel richer and more satisfying."
+        },
+        {
+            "tip": "Adjust chili heat by removing seeds.",
+            "reason": "Capsaicin is concentrated in the seeds and membranes of chili peppers. Removing them reduces heat without sacrificing pepper flavor, allowing you to customize the soup’s spiciness to your preference."
+        },
+        {
+            "tip": "Serve with crusty bread for soaking.",
+            "reason": "Crusty bread complements the spicy soup by adding texture and a neutral base to temper heat. It also helps soak up the flavorful broth, making the meal more filling and enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking onions too quickly or burning them",
+            "why_it_happens": "Many cooks rush this step to save time or turn up the heat, thinking it speeds things up. However, onions burn easily if not watched closely.",
+            "fix": "Cook onions over medium-low heat, stirring occasionally, until soft and translucent. If they start browning, lower the heat or add a splash of broth to cool the pan. This ensures a sweet, mellow base."
+        },
+        {
+            "mistake": "Skipping toasting spices",
+            "why_it_happens": "It’s tempting to add spices directly to the broth to save time or simplify the process.",
+            "fix": "Always toast spices in oil with aromatics for a few minutes before adding liquid. This maximizes their flavor and aroma, making the soup more complex and satisfying."
+        },
+        {
+            "mistake": "Boiling soup vigorously during simmer",
+            "why_it_happens": "Some think a rolling boil cooks soup faster and releases flavors better.",
+            "fix": "Keep the soup at a gentle simmer to maintain clarity and texture. Vigorous boiling breaks down vegetables too quickly and can cause a cloudy broth."
+        },
+        {
+            "mistake": "Over-blending the soup",
+            "why_it_happens": "Wanting a creamy texture, cooks sometimes puree the entire soup.",
+            "fix": "Partially blend to keep some chunks for texture. Full blending removes the fresh pepper pieces that add body and bite to the soup."
+        },
+        {
+            "mistake": "Adding fresh herbs too early",
+            "why_it_happens": "Adding herbs at the start seems logical to infuse flavor, but many don’t realize herbs lose aroma when cooked too long.",
+            "fix": "Add herbs at the end of cooking or as a garnish to preserve their fresh flavor and color."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Coconut Pepper Soup",
+            "description": "Add 1 cup of coconut milk in the last 5 minutes of simmering for a creamy, tropical twist. The coconut mellows the heat and adds richness, making the soup silky and slightly sweet.",
+            "technical_note": "Reduce broth slightly to accommodate coconut milk volume and avoid thinning the soup."
+        },
+        {
+            "name": "Spicy Chicken Pepper Soup",
+            "description": "Add diced cooked chicken or shredded rotisserie chicken during the last 10 minutes of simmering. This boosts protein and makes it a heartier meal perfect for dinner or lunch.",
+            "technical_note": "Ensure chicken is cooked through before adding and adjust seasoning accordingly."
+        },
+        {
+            "name": "Vegetable Pepper Soup with Beans",
+            "description": "Add 1 cup of cooked white beans or chickpeas for extra fiber and protein. This variation makes the soup more filling and adds a creamy texture from the beans.",
+            "technical_note": "Add beans after simmering to avoid overcooking and maintain shape."
+        },
+        {
+            "name": "Smoky Chipotle Pepper Soup",
+            "description": "Replace fresh chili peppers with 1-2 chipotle peppers in adobo sauce for a smoky, smoky heat. This variation adds a deep, rich flavor and smoky aroma to the soup.",
+            "technical_note": "Use sparingly as chipotle peppers are quite spicy and smoky."
+        },
+        {
+            "name": "Herby Lemon Pepper Soup",
+            "description": "Add a squeeze of fresh lemon juice and chopped fresh basil or thyme just before serving. This brightens the soup and adds a fresh herbal note, perfect for spring or summer.",
+            "technical_note": "Add lemon juice last to preserve its brightness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "9g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pepper soup can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly to keep it fresh and safe.",
+        "refrigerator": "Store the soup in an airtight container in the fridge for up to 4 days. The flavors deepen overnight but the broth may thicken slightly. Reheat gently on the stove or microwave, adding a splash of broth or water if needed to loosen consistency.",
+        "freezer": "Freeze the soup in airtight containers or heavy-duty freezer bags for up to 3 months. To avoid freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge before reheating gently to preserve texture and flavor.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or water if the soup has thickened. Avoid boiling rapidly to keep flavors balanced and prevent overcooking the peppers.",
+        "make_ahead_strategy": "You can prepare the soup base (sautéed onions, garlic, peppers, and spices) 1-2 days ahead and refrigerate. Add broth and simmer fresh when ready to serve to preserve the vibrant pepper flavors and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I make this soup vegan?",
+            "answer": "Absolutely! This recipe is naturally vegan since it uses vegetable broth and no animal products. Just ensure your broth is vegan-friendly and skip any garnishes like cheese or meat."
+        },
+        {
+            "question": "How can I reduce the heat if I’m sensitive to spice?",
+            "answer": "Remove the seeds and membranes from the fresh chili peppers before adding. You can also reduce the number of chilies or substitute with milder peppers like bell peppers. Adding a splash of coconut milk at the end also mellows the heat."
+        },
+        {
+            "question": "Can I use dried chili powder instead of fresh peppers?",
+            "answer": "Dried powders deliver flavor differently; fresh peppers provide a lively, fresh heat and texture that is key to this soup’s character."
+        },
+        {
+            "question": "Is it okay to make this soup in advance?",
+            "answer": "Yes! The soup actually tastes better the next day as flavors meld. Store it in the fridge and reheat gently. Just add fresh herbs right before serving to keep them vibrant."
+        },
+        {
+            "question": "Can I freeze this pepper soup?",
+            "answer": "Definitely. Freeze in airtight containers for up to 3 months. Thaw overnight in the fridge and reheat gently. The texture might change slightly, but the flavors remain delicious."
+        },
+        {
+            "question": "What can I serve with this pepper soup?",
+            "answer": "Crusty bread, cornbread, or a simple green salad work beautifully. The bread helps soak up the flavorful broth and balances the spice."
+        },
+        {
+            "question": "How spicy is this soup?",
+            "answer": "It has a moderate heat level that warms the palate without overwhelming it. You can easily adjust spice by adding or removing chili peppers or seeds."
+        },
+        {
+            "question": "Can I add protein to make it a full meal?",
+            "answer": "Yes! Adding cooked chicken, beans, or tofu during the last simmer makes it heartier. Adjust seasoning accordingly to balance flavors."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and savoring this spicy pepper soup as much as I do! Don’t forget to share your cozy creations with friends and family.",
+    "seo": {
+        "primary_keyword": "spicy pepper soup recipe",
+        "secondary_keywords": [
+            "easy pepper soup",
+            "how to make pepper soup",
+            "best pepper soup recipe",
+            "comforting spicy soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade vegetable broth",
+                "anchor": "homemade-vegetable-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_2.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_2.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_3.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_3.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_7.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "How to Make Spicy Pepper Soup That Feels Like a Hug"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_9.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Up Fast with This Spicy Pepper Soup Recipe!"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_8.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Up Fast with This Spicy Pepper Soup Recipe!"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_6.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Your New Favorite Cozy Pepper Soup to Try Now"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_5.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Simple Pepper Soup That’s Both Fiery and Soothing"
+        },
+        {
+            "fileName": "pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_4.webp",
+            "relativePath": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/pepper-soup-recipe-that-warms-you-from-the-inside-out/images/pepper-soup-recipe-that-warms-you-from-the-inside-out_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Warm Up Fast with This Spicy Pepper Soup Recipe!"
+        }
+    ],
+    "id": "post_1782946978_788",
+    "slug": "pepper-soup-recipe-that-warms-you-from-the-inside-out",
+    "isOnline": true,
+    "createdAt": "2026-07-02T00:35:17+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-02T00:35:17+01:00",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "pepper-soup-recipe-that-warms-you-from-the-inside-out/images",
+    "has_reel": true
+}
