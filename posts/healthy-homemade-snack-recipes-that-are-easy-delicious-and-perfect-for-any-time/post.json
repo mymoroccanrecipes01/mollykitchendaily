@@ -1,0 +1,350 @@
+{
+    "title": "Simple Homemade Nut and Fruit Energy Bites for Anytime Snacking",
+    "promptIMG": "Food photography: Nut and Fruit Energy Bites, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These energy bites are my go-to snack when I need a quick pick-me-up. Packed with nuts and dried fruit, they’re naturally sweet and super satisfying. Great for lunchboxes or a mid-afternoon boost!",
+    "hashtags": "#energybites #healthysnacks #homemade",
+    "board_name": "Healthy Snack Ideas",
+    "pin_variations": [
+        {
+            "title": "Wholesome Nut and Fruit Energy Bites You’ll Love",
+            "description": "Looking for a snack that’s both tasty and healthy? These nut and fruit energy bites are perfect for on-the-go moments. Save this recipe and try it today for a natural energy boost! 🍎🥜 #healthysnacks #energybites #snackideas"
+        },
+        {
+            "title": "Easy No-Bake Energy Bites with Nuts and Dried Fruit",
+            "description": "Whip up these no-bake energy bites in minutes! They’re packed with wholesome ingredients and perfect for busy days. Discover now and keep your snack game strong! 💪🍇 #nobakesnacks #energysnacks #quickrecipes"
+        },
+        {
+            "title": "Healthy Homemade Energy Bites for Busy Days",
+            "description": "Fuel your day with these simple homemade energy bites. Loaded with nuts and dried fruit, they’re a delicious, guilt-free treat. Save this recipe and snack smarter! 🥜🍒 #healthysnacks #homemadebites #snacksmart"
+        },
+        {
+            "title": "Nutty Fruit Energy Bites That Keep You Going",
+            "description": "Need a quick snack that tastes amazing? These nutty fruit energy bites are packed with flavor and natural goodness. Try making them today and keep your energy up! ✨🍏 #energysnacks #naturalenergy #healthybites"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 12,
+    "ingredients": [
+        "1 cup raw almonds, roughly chopped",
+        "1 cup raw walnuts, roughly chopped",
+        "1 cup dried cranberries, chopped",
+        "1/2 cup rolled oats",
+        "1/4 cup chia seeds",
+        "1/2 cup natural peanut butter",
+        "1/4 cup honey",
+        "1 teaspoon vanilla extract",
+        "Pinch of sea salt"
+    ],
+    "yield": "Approximately 12 energy bites",
+    "introduction": "I first stumbled upon energy bites when I was desperately searching for a healthy snack to keep at my desk. I’ve always been a fan of nuts and dried fruit, so combining them into a bite-sized snack felt like a natural fit. Over time, I tweaked the recipe to balance sweetness and texture just right — the trick I learned was adding a pinch of sea salt to really bring out the flavors. Plus, using natural peanut butter keeps it creamy without any weird additives. These bites are perfect for when I need a quick energy boost without crashing later. I love how versatile they are too — sometimes I swap in different nuts or fruits depending on what I have on hand. When you bite into one, you get a nice crunch followed by a subtle sweetness that’s just enough to satisfy. They’re perfect for busy mornings, afternoon slumps, or even as a pre-workout snack. Honestly, once you make a batch, you’ll keep coming back for more!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by roughly chopping the almonds and walnuts. This step is important because it ensures you get a good crunch in every bite without the nuts being too large to hold together. Be careful not to chop them too finely, or the bites will lose their texture. Use a sharp knife or pulse a few times in a food processor. You want uneven pieces for that perfect bite.",
+            "timing": "5 minutes",
+            "doneness_cue": "Nuts are chopped into small, uneven pieces about pea-sized"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the chopped nuts, dried cranberries, rolled oats, and chia seeds. Mixing these dry ingredients first helps distribute everything evenly, so each bite has a balanced flavor and texture. Make sure the dried fruit is chopped finely enough to mix well. If you skip this, you might get bites with too much fruit or none at all.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no large clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a small microwave-safe bowl, warm the peanut butter and honey together for about 20-30 seconds until they’re soft and easy to stir. This helps them combine smoothly and act as the glue for the bites. Don’t overheat or the honey might get too runny, making the mixture hard to form into balls.",
+            "timing": "1 minute",
+            "doneness_cue": "Peanut butter and honey are warm, smooth, and well combined"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the vanilla extract and a pinch of sea salt to the peanut butter and honey mixture. The vanilla adds a subtle depth of flavor while the salt balances the sweetness and enhances the nutty taste. Stir thoroughly until everything is well incorporated.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is uniform with no separation"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the wet mixture over the dry ingredients. Using a sturdy spoon or your hands, mix everything together until the nuts and fruit are evenly coated and sticky enough to hold shape. If the mixture seems too dry, add a teaspoon of water or more honey sparingly. Too much liquid will make it hard to form.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture sticks together when pressed but is not overly wet"
+        },
+        {
+            "step": 6,
+            "instruction": "Line a baking sheet with parchment paper. Scoop out about a tablespoon of the mixture and roll it between your palms to form a compact ball. Press firmly so the bites hold together well. If they crumble, the mixture needs a bit more binder like peanut butter or honey.",
+            "timing": "5 minutes",
+            "doneness_cue": "Balls are firm, smooth, and hold shape without cracking"
+        },
+        {
+            "step": 7,
+            "instruction": "Place the formed bites on the baking sheet and chill in the fridge for at least 30 minutes. This helps them firm up so they won’t fall apart when you grab one. Don’t skip chilling, or the bites may be too soft and sticky to handle.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bites are firm and slightly cool to the touch"
+        },
+        {
+            "step": 8,
+            "instruction": "Once chilled, transfer the bites to an airtight container for storage. Keeping them cold maintains their texture and freshness. If you leave them out too long, they might soften and become sticky.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bites stored in container with tight lid"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your energy bites as a quick snack or pack them into lunchboxes. They’re perfect to grab on the go and give you a natural energy boost without any guilt. If you'd like, try experimenting with different nuts or dried fruits for variety!",
+            "timing": "No time",
+            "doneness_cue": "Bites eaten and enjoyed!"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Perfect Energy Bites",
+        "content": "<p>Energy bites rely on a balance of dry and wet ingredients to hold together without baking. The mixture of nuts and oats provides texture and substance, while the peanut butter and honey act as natural binders. Peanut butter contains oils that help emulsify the mixture, creating a sticky matrix that holds the bites intact. Honey contributes both moisture and sweetness, improving palatability and helping the bites stay cohesive.</p><p>Chia seeds add an extra binding effect due to their ability to absorb liquid and form a gel-like coating. This not only helps with texture but also boosts nutritional value with fiber and omega-3s. The chopped nuts are critical for crunch and mouthfeel; uneven chopping ensures you get a satisfying bite with varied textures.</p><p>Adding a pinch of sea salt is an often overlooked step that enhances the flavors by balancing sweetness and highlighting the natural nuttiness. The chilling step is crucial because it solidifies the fats in the peanut butter and honey, firming up the bites so they hold shape at room temperature.</p><p>Overall, the success of this recipe hinges on ingredient ratios and technique—too much wet ingredient and the bites become mushy, too little and they crumble. The choice of natural peanut butter with no added oils or sugars ensures a clean flavor that complements the dried fruit perfectly.</p>",
+        "ingredient_notes": {
+            "raw almonds": "Look for raw, unsalted almonds for the best flavor and crunch. Raw nuts have a fresher taste and provide healthy fats and protein. Avoid pre-roasted or salted nuts as they can overpower the natural sweetness and add unwanted sodium. Rough chopping helps maintain texture and prevents the bites from becoming too dense.",
+            "raw walnuts": "Choose fresh raw walnuts without any rancid smell. Walnuts add a slightly bitter, earthy flavor that balances the sweet cranberries. They’re rich in omega-3 fatty acids, contributing to the nutritional profile. Roughly chopping them preserves their crunch and prevents the bites from becoming pasty.",
+            "dried cranberries": "Use unsweetened or lightly sweetened dried cranberries to avoid excess sugar. Chop them finely so they distribute evenly in the mixture, preventing clumps. Cranberries add a tart contrast that brightens the flavor and complements the nuts beautifully.",
+            "rolled oats": "Old-fashioned rolled oats are best as they provide chewiness and body. Instant oats are too fine and can make the bites dense and gummy. Oats also add fiber and help absorb moisture, improving the overall texture and stability of the bites.",
+            "chia seeds": "Chia seeds swell and form a gel when mixed with moisture, helping bind the ingredients together naturally. They also boost fiber and omega-3 content. Use whole chia seeds for texture; ground seeds would absorb too much moisture and alter the consistency.",
+            "natural peanut butter": "Choose peanut butter with just peanuts and maybe a pinch of salt—no added oils or sugars. This keeps the flavor pure and the texture ideal for binding. Natural peanut butter’s oils solidify when chilled, helping the bites hold their shape without baking.",
+            "honey": "Raw or natural honey adds sweetness and moisture, helping bind the ingredients. It also contributes to the chewiness and flavor depth. Avoid overly processed or flavored honeys that can introduce unwanted tastes.",
+            "vanilla extract": "Pure vanilla extract adds a subtle aromatic complexity that enhances the overall flavor without overpowering. Avoid imitation vanilla as it can have a harsh taste.",
+            "sea salt": "A small pinch of flaky sea salt balances sweetness and intensifies flavors. Using fine table salt is fine but sea salt offers a more nuanced flavor and better texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a food processor for chopping nuts if you’re short on time.",
+            "reason": "A quick pulse in a food processor ensures evenly chopped nuts without turning them into powder. This helps maintain the crunchy texture essential for these bites. Over-processing can release too much oil and make the mixture greasy, so pulse carefully."
+        },
+        {
+            "tip": "Chill the mixture before forming balls if it feels too sticky.",
+            "reason": "Cooling firms up the peanut butter and honey, making the mixture easier to handle and less sticky. This prevents frustration and ensures the bites hold their shape better when rolled."
+        },
+        {
+            "tip": "Add a teaspoon of water or nut milk if the mixture is too dry.",
+            "reason": "Sometimes dry ingredients absorb more moisture, making the mixture crumbly. Adding a small amount of liquid helps bind the ingredients without making it too wet. Be cautious—too much liquid will make the bites fall apart."
+        },
+        {
+            "tip": "Store energy bites in the fridge for longer freshness.",
+            "reason": "Keeping the bites cold solidifies the fats and prevents them from becoming too soft or sticky, especially in warmer climates. This also slows down any potential spoilage."
+        },
+        {
+            "tip": "Experiment with different nut butters like almond or cashew.",
+            "reason": "Different nut butters vary in oil content and flavor, which can change the texture and taste. Almond butter tends to be less sticky, so you might need to adjust the honey amount to get the right consistency."
+        },
+        {
+            "tip": "Toast the oats lightly before mixing for a nuttier flavor.",
+            "reason": "Light toasting deepens the oat’s flavor and adds an extra layer of aroma. It also helps reduce moisture content, improving the bite’s texture."
+        },
+        {
+            "tip": "Use parchment paper when rolling the bites to prevent sticking.",
+            "reason": "Parchment paper keeps your hands clean and prevents the sticky mixture from adhering to surfaces. This makes rolling quicker and easier."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Mixture too wet or sticky to form balls",
+            "why_it_happens": "Often happens when too much honey or peanut butter is used or the mixture isn’t chilled enough. It can also result from skipping the chilling step before rolling.",
+            "fix": "Add dry ingredients like oats or chia seeds gradually to absorb excess moisture. Chill the mixture for 20-30 minutes to firm up the fats. Roll your bites quickly to avoid warming the mixture with your hands."
+        },
+        {
+            "mistake": "Bites fall apart after chilling",
+            "why_it_happens": "This usually means there’s not enough binder (peanut butter/honey) or the ingredients weren’t mixed thoroughly. Sometimes nuts are chopped too finely, reducing texture.",
+            "fix": "Ensure you mix thoroughly so every piece is coated. Add a bit more peanut butter or honey if needed. Use uneven chopped nuts to create better structure."
+        },
+        {
+            "mistake": "Bites taste bland or overly sweet",
+            "why_it_happens": "Using overly sweet dried fruit or skipping the pinch of salt can throw off the flavor balance. Also, low-quality peanut butter can taste flat.",
+            "fix": "Use unsweetened or lightly sweetened dried fruit. Always add a pinch of salt to enhance flavor. Choose natural peanut butter with no additives for a richer taste."
+        },
+        {
+            "mistake": "Energy bites are too hard or dry",
+            "why_it_happens": "Too many dry ingredients or over-chopping nuts can make bites crumbly and dry. Also, skipping the honey reduces moisture.",
+            "fix": "Stick to the recipe ratios. Don’t chop nuts too finely. Add honey carefully and mix well. If dry, add a teaspoon of water or more honey before forming."
+        },
+        {
+            "mistake": "Bites stick to hands while rolling",
+            "why_it_happens": "The mixture is too warm or sticky, usually from too much wet ingredients or not chilling enough.",
+            "fix": "Chill the mixture before rolling. Lightly oil your hands or use parchment paper to roll the bites without sticking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Chip Energy Bites",
+            "description": "Add 1/4 cup mini dark chocolate chips to the mixture for a sweet twist. The chocolate adds richness and pairs beautifully with the nuts and fruit. These are perfect for when you want a little indulgence without guilt.",
+            "technical_note": "Fold in the chocolate chips gently after mixing the wet and dry ingredients to prevent melting. Chill thoroughly to keep chips intact."
+        },
+        {
+            "name": "Tropical Coconut Energy Bites",
+            "description": "Swap dried cranberries for dried pineapple or mango and add 1/4 cup shredded unsweetened coconut. This variation brings a refreshing tropical flair and a chewy texture from the coconut.",
+            "technical_note": "Use unsweetened coconut to avoid extra sugar. Toast the coconut lightly for extra flavor before mixing."
+        },
+        {
+            "name": "Spiced Pumpkin Energy Bites",
+            "description": "Incorporate 1/2 teaspoon pumpkin pie spice and 1/4 cup pumpkin puree to the wet ingredients. This variation is seasonal and adds warmth and moisture, perfect for fall snacking.",
+            "technical_note": "Reduce honey slightly to compensate for moisture in pumpkin puree. Chill longer for firmer bites."
+        },
+        {
+            "name": "Vegan Maple Nut Bites",
+            "description": "Replace honey with pure maple syrup and use almond butter instead of peanut butter. This makes the recipe vegan-friendly with a lovely maple flavor and a slightly softer texture.",
+            "technical_note": "Maple syrup is thinner than honey, so add extra oats or chia seeds to balance moisture."
+        },
+        {
+            "name": "Seed and Nut Power Bites",
+            "description": "Add 1/4 cup pumpkin seeds and 1/4 cup sunflower seeds along with the nuts. This boosts the nutrient content and gives a delightful crunch with a variety of textures.",
+            "technical_note": "Toast seeds lightly before adding to enhance flavor. Adjust binder amounts if mixture feels too dry."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "45mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Energy bites can be kept at room temperature for up to 24 hours if stored in an airtight container away from heat and sunlight. Beyond that, they risk becoming soft or developing an off flavor.",
+        "refrigerator": "Store energy bites in an airtight container in the fridge for up to 7 days. The cold keeps them firm and fresh. They’re delicious served cold but can be left out for a few minutes to soften slightly before eating.",
+        "freezer": "Freeze energy bites in a sealed container or freezer bag for up to 3 months. To prevent freezer burn, separate layers with parchment paper. Thaw in the fridge overnight or at room temperature for 1-2 hours before eating.",
+        "reheating": "No reheating needed since these are no-bake snacks. If desired, let them sit at room temperature for a bit to soften. Avoid microwaving as it can melt the peanut butter and change texture.",
+        "make_ahead_strategy": "You can prepare the mixture up to 2 days ahead and keep it covered in the fridge. Roll the bites fresh on the day you want to serve for best texture. This saves time and keeps them tasting fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use other nut butters instead of peanut butter?",
+            "answer": "Absolutely! Almond or cashew butter works well, but keep in mind their oil content varies. You might need to adjust the amount of honey or oats to get the right consistency. Natural nut butters without added oils or sugars are best for flavor and texture."
+        },
+        {
+            "question": "What if I don’t have chia seeds?",
+            "answer": "You can omit chia seeds, but they help with binding and add nutrition. As a substitute, try ground flaxseeds or add a little extra oats to improve the texture. Just be aware the bites might be slightly less firm."
+        },
+        {
+            "question": "How long do these energy bites last?",
+            "answer": "Stored properly in the fridge, they stay fresh for up to a week. For longer storage, freeze them for up to 3 months. Always keep them in airtight containers to maintain texture and flavor."
+        },
+        {
+            "question": "Can I make these gluten-free?",
+            "answer": "Yes! Use certified gluten-free oats to keep the recipe gluten-free. All other ingredients are naturally gluten-free, so it’s a great snack option for those avoiding gluten."
+        },
+        {
+            "question": "My mixture is too crumbly. What should I do?",
+            "answer": "If your mixture isn’t sticking together, add a little more peanut butter or honey, a teaspoon at a time. Mixing thoroughly and chilling the mixture before rolling also helps it bind better."
+        },
+        {
+            "question": "Is it okay to use roasted nuts instead of raw?",
+            "answer": "Roasted nuts add a deeper flavor, but be mindful of salted or flavored varieties that might affect the final taste. Raw nuts keep the flavor cleaner and let the natural sweetness shine through."
+        },
+        {
+            "question": "Can I add protein powder to these bites?",
+            "answer": "Yes, adding a tablespoon or two of protein powder can boost nutrition. You may need to slightly increase the wet ingredients to keep the mixture from becoming too dry."
+        },
+        {
+            "question": "What’s the best way to store and transport these bites?",
+            "answer": "Keep them in an airtight container, preferably refrigerated, especially in warm weather. For transport, use a small cooler or insulated bag to prevent them from getting too soft or melting."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and snacking on these energy bites as much as I do! Don’t forget to share your favorite variations or tweaks with me.",
+    "seo": {
+        "primary_keyword": "homemade energy bites recipe",
+        "secondary_keywords": [
+            "healthy snack bites",
+            "no bake energy balls",
+            "how to make energy bites",
+            "easy energy bites recipe",
+            "nut and fruit energy bites"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy homemade snacks",
+                "anchor": "healthy-homemade-snacks"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_1.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_2.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_3.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Easy No-Bake Energy Bites with Nuts and Dried Fruit"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_9.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wholesome Nut and Fruit Energy Bites You’ll Love"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wholesome Nut and Fruit Energy Bites You’ll Love"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Wholesome Nut and Fruit Energy Bites You’ll Love"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Nutty Fruit Energy Bites That Keep You Going"
+        },
+        {
+            "fileName": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images/healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Healthy Homemade Energy Bites for Busy Days"
+        }
+    ],
+    "id": "post_1783120129_899",
+    "slug": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time",
+    "isOnline": true,
+    "createdAt": "2026-07-04T00:33:23+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-04T00:33:23+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "healthy-homemade-snack-recipes-that-are-easy-delicious-and-perfect-for-any-time/images",
+    "has_reel": true
+}

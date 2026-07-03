@@ -1,0 +1,344 @@
+{
+    "title": "Crunchy Homemade Snack Bites You’ll Love Anytime",
+    "promptIMG": "Food photography: Crunchy Homemade Snack Bites, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These crunchy snack bites are my go-to when I want something quick and satisfying. Made with pantry staples, they’re perfect for afternoon cravings or sharing with friends. Plus, they come together in just minutes!",
+    "hashtags": "#homemadesnacks #quickbites #snackideas",
+    "board_name": "Easy Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy Crunchy Snack Bites Ready in Minutes",
+            "description": "Looking for a quick and tasty snack? These crunchy bites are super simple to make and perfect for any time of day. Save this recipe and try it today! 🥜🍯 #homemadesnacks #quickrecipes #snacktime"
+        },
+        {
+            "title": "Simple Homemade Snacks That Beat Store-Bought",
+            "description": "Ditch the store-bought stuff and whip up these crunchy snack bites at home. They’re packed with flavor and so easy to make. Discover now and impress your family! 🍽️✨ #snackideas #homemade #familyfriendly"
+        },
+        {
+            "title": "Tasty Crunchy Bites for Quick Energy Boosts",
+            "description": "Need a quick energy boost? These crunchy snack bites are perfect and made from pantry staples. Try making a batch this afternoon! 🌟🥜 #energysnack #quickbites #snackrecipes"
+        },
+        {
+            "title": "Whip Up Crunchy Snack Bites with Simple Ingredients",
+            "description": "Whip up these crunchy snack bites with just a few pantry staples. They’re perfect for a quick snack or sharing at gatherings. Save this recipe now! 🍯🍪 #snackideas #easyrecipes #homemadesnacks"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 15,
+    "servings": 6,
+    "ingredients": [
+        "1 cup rolled oats, dry",
+        "1/2 cup chopped nuts (almonds or walnuts), toasted",
+        "1/4 cup honey or maple syrup",
+        "2 tablespoons peanut butter, smooth",
+        "1/4 cup dried cranberries or raisins",
+        "1/2 teaspoon cinnamon",
+        "Pinch of salt"
+    ],
+    "yield": "Approximately 24 snack bites, 6 servings",
+    "introduction": "I first stumbled upon this recipe when I wanted a quick, homemade snack that wasn’t loaded with weird preservatives or excess sugar. I’ve tried a bunch of store-bought options before, but nothing beats the crunch and flavor of these snack bites I make at home. What makes this version stand out is the simple combo of oats, nuts, and a touch of cinnamon that gives them a warm, cozy flavor. Also, I found that toasting the nuts beforehand really amps up the nuttiness and crunch, which is a game changer. The binding with peanut butter and honey keeps everything together without feeling sticky or overly sweet. Whenever I whip these up, my family dives right in, especially during those afternoon slumps or before heading out for a hike. They’re easy to customize too, which I love — sometimes I swap the dried fruit or nuts depending on what’s in the pantry. The finished bites are golden, crunchy, and just the right balance of sweet and nutty, making them a perfect snack to keep on hand. Honestly, these have become a staple in my kitchen, and I think you’ll love making them as much as I do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 325°F (160°C). Spread the chopped nuts evenly on a baking sheet and toast them for about 8-10 minutes. Toasting nuts brings out their natural oils and intensifies their flavor, which adds a wonderful depth to your snack bites. Watch them carefully so they don't burn—once you notice a fragrant aroma and a light golden color, they're done. Over-toasting can make them bitter, so keep an eye on the clock and smell.",
+            "timing": 10,
+            "doneness_cue": "Nuts are lightly golden with a fragrant, toasted smell."
+        },
+        {
+            "step": 2,
+            "instruction": "While the nuts are toasting, mix the rolled oats, cinnamon, and salt in a large bowl. This dry base is the backbone of your snack bites, so make sure the oats are evenly coated with cinnamon for a consistent flavor. The pinch of salt balances the sweetness and enhances the overall taste. If you skip this, the bites might taste flat or overly sweet.",
+            "timing": 5,
+            "doneness_cue": "Oats are evenly mixed and lightly dusted with cinnamon."
+        },
+        {
+            "step": 3,
+            "instruction": "Once the nuts are toasted and slightly cooled, add them to the oat mixture along with the dried fruit. Stir everything gently so the fruit doesn't get squished and the nuts stay chunky. This mix of textures is what makes these bites so satisfying, so be gentle but thorough.",
+            "timing": 3,
+            "doneness_cue": "Nuts and fruit are evenly distributed throughout the oat base."
+        },
+        {
+            "step": 4,
+            "instruction": "In a small saucepan over low heat, combine the peanut butter and honey. Stir continuously until smooth and slightly runny, about 2-3 minutes. Warming these ingredients helps them blend better and makes it easier to coat the dry ingredients. Avoid overheating as it can make the mixture too thin and affect the binding.",
+            "timing": 5,
+            "doneness_cue": "Peanut butter and honey form a smooth, pourable glaze."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the warm peanut butter and honey mixture over the oat and nut mixture. Using a spatula, fold everything together until the dry ingredients are fully coated. This step is critical because proper coating ensures the bites stick together once baked. If you rush or don’t mix well, the bites may crumble apart later.",
+            "timing": 4,
+            "doneness_cue": "All dry ingredients are evenly coated with the glaze."
+        },
+        {
+            "step": 6,
+            "instruction": "Line a baking pan with parchment paper and press the mixture firmly into an even layer, about 1/2 inch thick. Pressing firmly is key to achieving that satisfying crunch and to make sure the bites hold their shape when cut. Use the back of a spatula or your hands (slightly dampened) to do this.",
+            "timing": 5,
+            "doneness_cue": "Mixture is packed tightly and evenly spread in the pan."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the mixture in the preheated oven for 12-15 minutes. This baking step not only crisps the bites but also helps the ingredients meld together. Watch closely towards the end; you want a golden color, not brown edges. If you overbake, the bites will become too hard and lose their pleasant chew.",
+            "timing": 15,
+            "doneness_cue": "Edges turn golden and the snack layer feels firm to the touch."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pan from the oven and let it cool completely on a wire rack. Cooling is essential because the mixture will harden and become easier to cut. If you try cutting too soon, the bites might crumble or fall apart. Patience here pays off!",
+            "timing": 30,
+            "doneness_cue": "The snack layer is firm and cool to touch."
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, use a sharp knife to cut into bite-sized squares or rectangles. Store the snack bites in an airtight container at room temperature or in the fridge. These bites stay crunchy and flavorful for several days, making them perfect to prepare ahead.",
+            "timing": 5,
+            "doneness_cue": "Clean cuts with no crumbling, snack bites hold their shape."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Snack Bites Turn Out Perfect Every Time",
+        "content": "<p>These snack bites succeed because of the balance between dry and wet ingredients and the toasting technique that brings out deeper flavors. Toasting the nuts first releases their natural oils and enhances their crunch, which gives the bites a rich, nutty base that stands out from ordinary snacks. The oats provide a hearty texture, and coating them with cinnamon and salt creates a flavor contrast that's subtle but essential.</p><p>Heating the peanut butter and honey allows them to combine smoothly, acting as a natural binder that holds the bites together without making them overly sticky or greasy. This warming also helps the honey's sugars to slightly caramelize during baking, adding a golden color and a hint of toasted sweetness. Pressing the mixture firmly before baking ensures the bites will hold their shape and have that satisfying crunch, while baking at a moderate temperature avoids burning and keeps the texture just right.</p><p>The cooling step is often overlooked but critical; it lets the bites set firmly so they don’t crumble when cut. Overall, this recipe balances flavor, texture, and technique in a way that makes these snack bites both delicious and easy to prepare, perfect for any time you need a quick, homemade treat.</p>",
+        "ingredient_notes": {
+            "rolled oats": "Look for old-fashioned rolled oats rather than instant or steel-cut oats. Rolled oats retain their shape and texture during baking, providing the chewy, hearty bite that’s essential for this recipe. Instant oats can become mushy, while steel-cut oats are too hard and won’t bind well. Store oats in a cool, dry place and check for freshness; stale oats can taste bitter.",
+            "nuts": "Choose raw or dry-roasted nuts like almonds or walnuts for the best flavor and crunch. Toasting them yourself enhances their aroma and taste, which pre-toasted nuts may lack. Avoid salted or flavored nuts here as they can overpower the subtle sweetness and cinnamon. Chop nuts uniformly to ensure even toasting and texture in each bite.",
+            "honey or maple syrup": "Use pure honey or 100% maple syrup as your natural sweetener and binder. These liquid sweeteners help hold the mixture together while adding depth of flavor. Honey tends to make the bites a bit stickier and richer, while maple syrup adds a lighter, earthier sweetness. Avoid artificial syrups as they can alter texture and taste.",
+            "peanut butter": "Smooth peanut butter works best as a binder because it melts easily and coats the dry ingredients uniformly. Natural peanut butter with no added sugars or oils is ideal for a clean, nutty flavor. Chunky peanut butter can be used for extra texture but may make binding less uniform. If allergic, almond or sunflower seed butter are good substitutes but may change flavor slightly.",
+            "dried fruit": "Choose unsweetened dried cranberries, raisins, or chopped dates for natural sweetness and chewiness. Avoid overly sugary or coated fruits as they can add unwanted sweetness or moisture. Chop larger dried fruits to distribute flavor evenly and prevent bites from falling apart."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast the nuts just before mixing to maximize flavor and crunch.",
+            "reason": "Toasting nuts releases their natural oils and enhances aroma, which deeply improves the overall flavor profile. If you skip toasting or use old toasted nuts, the bites will lack that fresh, rich nuttiness that makes them so addictive."
+        },
+        {
+            "tip": "Use parchment paper when pressing the mixture into the pan.",
+            "reason": "Parchment paper prevents sticking and makes it easy to lift out the snack layer as one piece for cutting. Without it, the mixture can stick to the pan and break apart when you try to remove or cut it."
+        },
+        {
+            "tip": "Press the mixture firmly and evenly before baking.",
+            "reason": "Firm pressing compacts the ingredients, which helps the bites hold together after baking and cooling. If you don’t press enough, the bites will crumble and fall apart when cut."
+        },
+        {
+            "tip": "Let the baked mixture cool completely before cutting.",
+            "reason": "Cooling solidifies the binding agents and prevents crumbling. Cutting while warm can cause the snack bites to break apart because they haven’t set properly yet."
+        },
+        {
+            "tip": "Adjust cinnamon and salt to your taste for balanced flavor.",
+            "reason": "Cinnamon adds warmth and subtle spice while salt enhances sweetness and depth. Too little salt can make the bites taste flat, while too much can overpower. Tweak these to your preference."
+        },
+        {
+            "tip": "Store snack bites in an airtight container to maintain crunch.",
+            "reason": "Exposure to air causes moisture to soften the bites, making them less crunchy. Airtight storage helps preserve texture and flavor for several days."
+        },
+        {
+            "tip": "Experiment with different nuts and dried fruits for variety.",
+            "reason": "Swapping ingredients keeps the recipe exciting and allows you to tailor flavor and texture. Just be mindful of how changes might affect binding and moisture content."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not toasting the nuts properly",
+            "why_it_happens": "People often rush or skip toasting because it adds extra time, or they underestimate its impact.",
+            "fix": "Always toast nuts at a moderate temperature until golden and fragrant. Watch closely to avoid burning, which can cause bitterness and ruin the flavor."
+        },
+        {
+            "mistake": "Pressing the mixture too lightly into the pan",
+            "why_it_happens": "Some think a loose mixture will bake better, but it actually causes crumbling.",
+            "fix": "Use firm, even pressure to compact the mixture before baking. This helps the bites stick together and hold their shape after baking."
+        },
+        {
+            "mistake": "Cutting the snack bites before they cool",
+            "why_it_happens": "Impatience or wanting to eat immediately leads to cutting warm bites.",
+            "fix": "Wait until completely cooled so the binding agents have set. This prevents the bites from falling apart and keeps the shape intact."
+        },
+        {
+            "mistake": "Overbaking and drying out the bites",
+            "why_it_happens": "Leaving the bites in the oven too long to get extra crunch.",
+            "fix": "Bake just until golden and firm, not browned. Overbaking makes the bites hard and brittle instead of pleasantly crunchy."
+        },
+        {
+            "mistake": "Using sticky or chunky peanut butter without adjustment",
+            "why_it_happens": "Some substitute chunky peanut butter or refrigerated peanut butter without warming.",
+            "fix": "Use smooth peanut butter and warm it with honey to create an even coating and proper binding. Chunky types can be used but expect uneven texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Drizzle Snack Bites",
+            "description": "After baking and cooling, drizzle melted dark chocolate over the snack bites for an indulgent twist. This adds a rich flavor contrast and a glossy finish. Great for chocolate lovers looking to elevate the basic recipe.",
+            "technical_note": "Ensure bites are completely cooled before drizzling chocolate to prevent melting. Allow chocolate to set at room temperature or in fridge before cutting."
+        },
+        {
+            "name": "Spicy Cinnamon Snack Bites",
+            "description": "Add a pinch of cayenne pepper or chili powder to the cinnamon and salt mix for a subtle spicy kick. This variation works well if you want a sweet and spicy snack with a little extra warmth.",
+            "technical_note": "Start with a small amount of spice and adjust to taste; too much can overpower the sweetness."
+        },
+        {
+            "name": "Nut-Free Sunflower Seed Bites",
+            "description": "Replace nuts with toasted sunflower seeds and use sunflower seed butter instead of peanut butter for a nut-free version. The texture remains crunchy and the flavor is pleasantly nutty but safe for those with allergies.",
+            "technical_note": "Sunflower seed butter may have a thinner consistency, so reduce honey slightly if mixture feels too wet."
+        },
+        {
+            "name": "Tropical Fruit Snack Bites",
+            "description": "Swap dried cranberries for chopped dried mango or pineapple for a tropical flavor twist. This adds a chewy, fruity sweetness that pairs beautifully with the cinnamon and nuts.",
+            "technical_note": "Tropical dried fruits tend to be stickier; press mixture extra firmly before baking to ensure binding."
+        },
+        {
+            "name": "Vegan Maple Almond Bites",
+            "description": "Use maple syrup instead of honey and almond butter instead of peanut butter for a vegan-friendly snack. Almonds add a subtle sweetness and maple syrup gives a lighter, earthier flavor than honey.",
+            "technical_note": "Maple syrup is thinner than honey, so you might need to bake a minute longer to achieve the right texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "65mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the snack bites in an airtight container at room temperature for up to 3 days. Keep them away from humidity to preserve crunchiness. Covering with plastic wrap or a tight lid works well.",
+        "refrigerator": "You can refrigerate the bites in an airtight container for up to one week. They might lose some crunch but will still taste great. Let them come to room temperature for a few minutes before serving for best texture.",
+        "freezer": "Freeze the snack bites in a sealed container or freezer bag for up to 2 months. Use parchment paper between layers to prevent sticking. Thaw overnight in the fridge or at room temperature before eating.",
+        "reheating": "No reheating needed; these bites are best enjoyed cold or at room temperature. If you prefer a softer texture, warm gently in the microwave for 10-15 seconds but avoid overheating.",
+        "make_ahead_strategy": "You can prepare the mixture and press it into the pan 1-2 days ahead, then store covered in the fridge. Bake fresh on the day you want to serve to keep maximum crunch and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use crunchy peanut butter instead of smooth?",
+            "answer": "Yes, but keep in mind that crunchy peanut butter will add texture and might make binding less uniform. To compensate, warm the peanut butter and honey mixture well to help coat the dry ingredients evenly. The final bites may have extra crunch from peanut pieces, which some people enjoy."
+        },
+        {
+            "question": "What if I don't have honey? Can I use another sweetener?",
+            "answer": "Maple syrup is a great substitute for honey and works well as a binder. It has a thinner consistency, so you might need to bake the bites a little longer to achieve the right texture. Avoid very liquid sweeteners like agave as they can make the mixture too wet."
+        },
+        {
+            "question": "How do I prevent the snack bites from crumbling?",
+            "answer": "The key is pressing the mixture firmly before baking and letting the bites cool completely before cutting. Also, ensure the peanut butter and honey mixture is warm and fully coats the dry ingredients to bind them properly."
+        },
+        {
+            "question": "Can I make these gluten-free?",
+            "answer": "Absolutely! Use certified gluten-free rolled oats to avoid any gluten contamination. All other ingredients are naturally gluten-free, so this recipe is easy to adapt for gluten sensitivity."
+        },
+        {
+            "question": "How long do these snack bites last?",
+            "answer": "Stored properly in an airtight container, they last about 3 days at room temperature and up to a week in the fridge. For longer storage, freezing is best and they keep well for up to 2 months."
+        },
+        {
+            "question": "Can I add chocolate chips?",
+            "answer": "You can stir in mini chocolate chips after mixing the wet and dry ingredients but before baking. Be aware that chocolate chips may melt and spread during baking, altering texture slightly. Alternatively, drizzle melted chocolate after baking for a cleaner look."
+        },
+        {
+            "question": "What if my mixture feels too dry or too wet?",
+            "answer": "If too dry and crumbly, add a bit more honey or peanut butter warmed slightly. If too wet and sticky, add extra oats or nuts to absorb moisture. Achieving the right balance helps the bites hold together well."
+        },
+        {
+            "question": "Can I use other nuts besides almonds or walnuts?",
+            "answer": "Yes, feel free to use pecans, cashews, or pistachios. Just toast them lightly and chop uniformly to maintain texture. Different nuts will slightly change the flavor but keep the recipe’s integrity."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and munching on these homemade snack bites as much as I do. Give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "homemade crunchy snack bites",
+        "secondary_keywords": [
+            "easy snack bites recipe",
+            "healthy homemade snacks",
+            "how to make snack bites",
+            "best snack bites recipe",
+            "quick crunchy snacks"
+        ],
+        "internal_links": [
+            {
+                "text": "easy homemade granola bars",
+                "anchor": "easy-homemade-granola-bars"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Whip Up Crunchy Snack Bites with Simple Ingredients"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Easy Crunchy Snack Bites Ready in Minutes"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Tasty Crunchy Bites for Quick Energy Boosts"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Easy Crunchy Snack Bites Ready in Minutes"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Easy Crunchy Snack Bites Ready in Minutes"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Simple Homemade Snacks That Beat Store-Bought"
+        }
+    ],
+    "id": "post_1783119775_913",
+    "slug": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime",
+    "isOnline": true,
+    "createdAt": "2026-07-04T00:33:23+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-04T00:33:23+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime/images",
+    "has_reel": true
+}

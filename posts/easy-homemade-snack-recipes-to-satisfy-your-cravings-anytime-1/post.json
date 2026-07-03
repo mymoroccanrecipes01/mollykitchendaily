@@ -1,0 +1,344 @@
+{
+    "title": "Quick and Tasty Homemade Snacks for Every Craving",
+    "promptIMG": "Food photography: Homemade Snacks, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These homemade snacks come together easily with simple ingredients and a little twist to keep things interesting. Perfect for those afternoons when you want something tasty but don’t want to fuss. I love whipping these up for casual hangouts!",
+    "hashtags": "#homemadesnacks #easysnacks #quickbites",
+    "board_name": "Easy Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up These Easy Homemade Snacks in Minutes!",
+            "description": "Craving something quick and delicious? These homemade snacks are my go-to for busy days and casual get-togethers. Try them today and see how simple ingredients transform into something special! 🍽️✨ #snackideas #quickrecipes #homemade"
+        },
+        {
+            "title": "Delicious Homemade Snacks That Everyone Will Love",
+            "description": "Looking for a snack that’s both satisfying and easy to make? These recipes have a little twist that makes them stand out. Save this for your next snack attack! 😋👌 #snacktime #homemadesnacks #easyrecipes"
+        },
+        {
+            "title": "Quick Bites: Homemade Snacks Perfect for Any Occasion",
+            "description": "I love these snacks because they’re simple but never boring. Whether it’s a busy afternoon or a casual get-together, these will hit the spot. Discover the secret twist inside! 🥨🍅 #snackrecipes #quickbites #homemade"
+        },
+        {
+            "title": "Simple, Tasty Homemade Snacks You Can Make Today",
+            "description": "Need an easy snack fix? These homemade treats are quick to prepare and full of flavor. Perfect for sharing or keeping all to yourself. Try them out and enjoy! 🍴😄 #snacks #homemadefood #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 cup mixed nuts, roasted and unsalted",
+        "1/2 cup dried cranberries",
+        "1/2 cup dark chocolate chips",
+        "1 tablespoon honey",
+        "1 teaspoon sea salt",
+        "2 cups popped popcorn, unsalted"
+    ],
+    "yield": "Approximately 4 cups, 4 servings",
+    "introduction": "I first started making these homemade snacks years ago when I wanted something quick and satisfying without turning to store-bought junk. What I love about this recipe is how simple pantry staples come together to create a mix that feels special and a little indulgent. I added a touch of honey and a sprinkle of sea salt to balance the sweetness and crunch — it’s that little twist that makes all the difference. Over time, I’ve tweaked the ratios to get the perfect combo of salty, sweet, and crunchy that my family always asks for. These snacks are perfect for when you’re craving something light but flavorful, and they’re super easy to whip up whether it’s a weekday afternoon or a casual hangout with friends. Plus, no baking means you can have them ready in minutes! The finished mix is a colorful, inviting bowl of goodies that tastes both familiar and exciting. I think you’ll love how versatile and fuss-free this snack is — it’s become my go-to anytime I need a quick bite that feels homemade and thoughtful.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by gathering all your ingredients and placing the roasted nuts, dried cranberries, and dark chocolate chips in a large mixing bowl. The nuts provide a satisfying crunch, the cranberries add a tart sweetness, and the chocolate chips offer that rich, melty surprise. Mixing these dry ingredients first ensures an even distribution and prevents clumping when you add the honey later.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients are evenly combined with no clumps or uneven patches."
+        },
+        {
+            "step": 2,
+            "instruction": "Drizzle the honey over the nut and fruit mixture, then sprinkle the sea salt evenly on top. Gently toss everything together with a spatula or your hands to coat the ingredients lightly. The honey acts as a natural binder and adds subtle sweetness, while the sea salt enhances all the flavors and balances the sweetness. Be careful not to overmix, or the chocolate chips might melt too much.",
+            "timing": "3 minutes",
+            "doneness_cue": "Honey and salt are evenly distributed, and the mixture looks glossy but not sticky."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the popped popcorn to the bowl and fold it in gently. The popcorn adds a light, airy crunch that contrasts nicely with the dense nuts and chewy cranberries. Folding rather than stirring vigorously keeps the popcorn from breaking up and turning into crumbs, preserving the texture of the snack mix.",
+            "timing": "2 minutes",
+            "doneness_cue": "Popcorn is evenly mixed without getting crushed."
+        },
+        {
+            "step": 4,
+            "instruction": "Once everything is mixed, spread the snack mix out on a baking sheet lined with parchment paper to let it air out a bit. This prevents the honey from making the mix too sticky and helps the flavors meld together. Leaving it to rest for 15 minutes at room temperature is perfect.",
+            "timing": "15 minutes",
+            "doneness_cue": "Snack mix feels dry to the touch and holds together without clumping."
+        },
+        {
+            "step": 5,
+            "instruction": "Transfer the snack mix to an airtight container or serving bowl. This keeps the mix fresh and crunchy. Store any leftovers in a sealed container at room temperature to maintain texture and freshness for a few days.",
+            "timing": "2 minutes",
+            "doneness_cue": "Snack mix is stored properly and ready to enjoy or share."
+        },
+        {
+            "step": 6,
+            "instruction": "For serving, scoop out your desired portion and enjoy immediately. This snack is great on its own or paired with a cup of tea or coffee. The combination of sweet, salty, and crunchy will keep you coming back for more, and it’s perfect for sharing at casual get-togethers or family movie nights.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack is fresh, flavorful, and balanced in taste."
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to customize, feel free to swap the dried cranberries for another dried fruit like cherries or apricots, or use different nuts like almonds or pecans. Just keep the balance of sweet, salty, and crunchy in mind to maintain the snack’s harmony.",
+            "timing": "0 minutes",
+            "doneness_cue": "Variations maintain the snack’s texture and flavor balance."
+        },
+        {
+            "step": 8,
+            "instruction": "Avoid adding too much honey, as it can make the snack overly sticky and cause the chocolate chips to melt too much, resulting in clumping. Less is more here to keep that perfect crumbly texture.",
+            "timing": "0 minutes",
+            "doneness_cue": "Snack remains dry and crumbly, not sticky or gooey."
+        },
+        {
+            "step": 9,
+            "instruction": "When mixing, be gentle especially once the popcorn is added. Rough handling can crush the popcorn and change the texture, so folding gently is key to preserving the light crunch that makes this snack so enjoyable.",
+            "timing": "0 minutes",
+            "doneness_cue": "Popcorn stays intact and crunchy within the mix."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Snack Mix Is So Perfect",
+        "content": "<p>What makes this snack mix work so well is the balance of textures and flavors. The crunchy roasted nuts provide a satisfying bite that contrasts beautifully with the airy popped popcorn and chewy dried fruit. This combination keeps the snack interesting and prevents it from becoming monotonous. The addition of honey acts as a mild binder, lightly coating the ingredients to keep everything together without making it sticky. This subtle sweetness also enhances the natural flavors of the nuts and fruit.</p><p>The sea salt is the unsung hero here, playing a crucial role in balancing the sweetness and amplifying the overall taste. Salt triggers our taste buds and can make sweet flavors pop more vividly. It also tempers the richness of the chocolate chips, preventing them from feeling overly sweet or cloying. The technique of folding the popcorn gently into the mix is essential to maintain its delicate texture; overmixing would crush it and ruin the lightness.</p><p>Another key factor is letting the mix rest after combining. This short resting period allows the honey to set slightly, giving the mix a cohesive texture without turning sticky. It also lets the flavors meld together, so every bite tastes harmonious. By using simple, high-quality ingredients and a few mindful techniques, this snack mix delivers a complex flavor and texture profile that feels homemade and thoughtful, yet comes together in minutes.</p>",
+        "ingredient_notes": {
+            "roasted nuts": "Choose unsalted roasted nuts like almonds, cashews, or peanuts for their natural crunch and flavor. Roasting enhances their nuttiness and makes the texture more satisfying. Avoid raw nuts here as they can be too soft and lack that toasted depth. You can substitute with your favorite nut as long as it’s roasted and not salted to keep control over the saltiness.",
+            "dried cranberries": "Dried cranberries add a tart sweetness and chewy texture that contrasts nicely with the crunch of nuts. Look for varieties without added sugar for a more natural flavor. You can swap them for other dried fruits like cherries or raisins, but cranberries provide a bright pop of color and flavor that stands out.",
+            "dark chocolate chips": "Use good quality dark chocolate chips with at least 60% cocoa for a rich, slightly bitter flavor that balances the sweetness of the honey and fruit. Lower quality chocolate can be too sweet or waxy. The chocolate adds indulgence without overwhelming the snack’s lightness.",
+            "honey": "Honey acts as a natural binder and sweetener, lightly coating the ingredients to hold them together without stickiness. Raw or local honey adds extra flavor notes. Be cautious with quantity; too much makes the mix sticky and heavy. You can substitute with maple syrup but expect a slightly different flavor profile.",
+            "sea salt": "A coarse sea salt enhances and balances the sweetness in the snack mix. It triggers taste buds and prevents the mix from being cloying. Fine table salt won’t provide the same texture contrast or flavor punch, so coarse or flaky sea salt is best.",
+            "popped popcorn": "Use freshly popped, unsalted popcorn to add a light, airy crunch that contrasts the denser nuts and fruit. Avoid pre-packaged flavored popcorn to keep control over salt and sugar levels. The popcorn’s texture is key to making this snack mix feel light and satisfying."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use freshly roasted nuts for the best crunch and flavor.",
+            "reason": "Roasting nuts enhances their natural oils and flavor, making them crunchier and more aromatic. Using stale or raw nuts results in a less satisfying texture and muted taste, which can make the snack mix feel flat."
+        },
+        {
+            "tip": "Fold popcorn gently to keep it from breaking.",
+            "reason": "Popcorn is fragile and crushing it turns the texture from light and airy to dense and crumbly. Folding gently ensures the popcorn stays whole, preserving the snack’s signature crunch and mouthfeel."
+        },
+        {
+            "tip": "Don’t overdo the honey; less is more.",
+            "reason": "Too much honey makes the mix sticky and clumpy, which ruins the texture and can cause the chocolate chips to melt excessively. A light coating is enough to bind ingredients and add subtle sweetness."
+        },
+        {
+            "tip": "Let the mix rest before storing or serving.",
+            "reason": "Allowing the mix to sit for 10-15 minutes lets the honey set slightly and flavors meld. This resting period prevents stickiness and ensures every bite is balanced and cohesive."
+        },
+        {
+            "tip": "Use coarse sea salt instead of fine salt.",
+            "reason": "Coarse salt adds a pleasant crunch and bursts of saltiness that elevate the flavor. Fine salt dissolves too quickly and doesn’t provide the same texture or flavor contrast."
+        },
+        {
+            "tip": "Store in an airtight container to keep the snack fresh.",
+            "reason": "Exposure to air makes the nuts go stale and the popcorn lose its crispness. Airtight storage preserves freshness and crunch for several days."
+        },
+        {
+            "tip": "Experiment with different dried fruits and nuts.",
+            "reason": "Swapping ingredients lets you customize flavor and texture. Just keep the balance of sweet, salty, and crunchy to maintain the snack’s satisfying harmony."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using too much honey and making the mix sticky.",
+            "why_it_happens": "Many assume more honey will make the snack sweeter and better, but it often leads to clumping and stickiness that ruins texture.",
+            "fix": "Measure honey carefully and drizzle it gradually while mixing. Stop as soon as ingredients are lightly coated, and let the mix rest to set the honey without becoming sticky."
+        },
+        {
+            "mistake": "Roughly mixing after adding popcorn, crushing it.",
+            "why_it_happens": "Popcorn is fragile, and vigorous mixing breaks it down, losing the light crunch that makes the snack enjoyable.",
+            "fix": "Fold popcorn in gently with a spatula or your hands, mixing just enough to combine without crushing the pieces."
+        },
+        {
+            "mistake": "Using salted or flavored nuts or popcorn.",
+            "why_it_happens": "Pre-seasoned ingredients can make the snack overly salty or sweet, upsetting the balance of flavors.",
+            "fix": "Use unsalted roasted nuts and plain popped popcorn, then control seasoning yourself with measured salt and honey."
+        },
+        {
+            "mistake": "Skipping the resting period after mixing.",
+            "why_it_happens": "Rushing to eat or store the mix right away can lead to sticky clumps or uneven flavor distribution.",
+            "fix": "Spread the snack mix on parchment and let it rest 10-15 minutes at room temperature to let the honey set and flavors meld."
+        },
+        {
+            "mistake": "Storing the snack in non-airtight containers.",
+            "why_it_happens": "Exposure to air causes nuts to go stale and popcorn to lose crispness quickly.",
+            "fix": "Always store the snack mix in an airtight container to maintain freshness and crunch for several days."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cinnamon Snack Mix",
+            "description": "Add a teaspoon of cinnamon and a pinch of cayenne pepper to the mix for a warm, spicy kick that pairs beautifully with the nuts and chocolate. This variation brings a cozy twist perfect for chilly afternoons or holiday snacking.",
+            "technical_note": "Cinnamon blends well with honey, but cayenne should be added sparingly to avoid overpowering the sweetness."
+        },
+        {
+            "name": "Tropical Twist with Coconut and Pineapple",
+            "description": "Swap dried cranberries for dried pineapple chunks and add 1/4 cup toasted shredded coconut. This version adds a bright, tropical flair with a chewy texture and a hint of coconutty sweetness.",
+            "technical_note": "Make sure to toast the coconut lightly to enhance flavor without burning it, which can turn bitter."
+        },
+        {
+            "name": "Nut-Free Snack Mix",
+            "description": "Replace nuts with extra popcorn and pumpkin seeds to make this snack mix safe for nut allergies. The seeds add crunch and nutrition while keeping the mix just as satisfying.",
+            "technical_note": "Pumpkin seeds should be roasted for best texture and flavor; avoid raw to prevent a soft bite."
+        },
+        {
+            "name": "Peanut Butter Drizzle Mix",
+            "description": "Drizzle melted peanut butter over the snack mix instead of honey for a rich, nutty flavor that clings to the ingredients. This adds creaminess and a different kind of sweetness that peanut butter lovers will adore.",
+            "technical_note": "Melt peanut butter gently and apply sparingly to avoid making the mix too sticky."
+        },
+        {
+            "name": "Chocolate Lover’s Mix",
+            "description": "Add white chocolate chips and mini marshmallows to the original mix for a fun, dessert-like treat. This version is perfect for kids or anyone with a sweet tooth craving a little extra indulgence.",
+            "technical_note": "Add marshmallows last to prevent them from melting or sticking during mixing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "310 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the snack mix in an airtight container at room temperature for up to 3 days. Avoid leaving it uncovered as nuts can go stale and popcorn loses its crunch quickly. Perfect for quick grab-and-go snacking.",
+        "refrigerator": "You can refrigerate the snack mix in a sealed container for up to one week. Note that refrigeration may slightly soften the popcorn, so it’s best eaten soon after removing from the fridge or allowed to come to room temperature before serving.",
+        "freezer": "Freeze the snack mix in an airtight container or zip-top bag for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw at room temperature before serving; avoid microwaving to maintain texture.",
+        "reheating": "This snack mix is best enjoyed at room temperature and doesn’t require reheating. If you prefer it warm, gently warm in a low oven (250°F) for 5 minutes, stirring occasionally to prevent melting the chocolate chips.",
+        "make_ahead_strategy": "Prepare the dry ingredients and store them separately up to 2 days in advance. Add the honey and salt just before serving to keep the popcorn crisp and the mix fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the nuts for seeds if I have allergies?",
+            "answer": "Absolutely! Pumpkin seeds, sunflower seeds, or even roasted chickpeas work well as nut substitutes. They provide a similar crunch and keep the snack mix allergy-friendly. Just roast seeds lightly to enhance flavor."
+        },
+        {
+            "question": "What if I don’t have honey? Can I use another sweetener?",
+            "answer": "You can substitute honey with maple syrup or agave nectar. Both provide a similar sticky sweetness and help bind the mix. Keep in mind flavors will vary slightly, and the texture might be a bit different."
+        },
+        {
+            "question": "How long does this snack mix keep fresh?",
+            "answer": "Stored properly in an airtight container at room temperature, the mix stays fresh and crunchy for about 3 days. Refrigeration can extend this to a week, but popcorn texture may soften."
+        },
+        {
+            "question": "Can I make this snack mix in advance for a party?",
+            "answer": "Yes! Prepare the dry ingredients ahead and store separately. Add honey and salt just before serving to maintain freshness and texture. This way, the popcorn stays crisp and the mix doesn’t clump."
+        },
+        {
+            "question": "Is it okay if the chocolate chips melt a little when mixing?",
+            "answer": "A slight softening is fine and can help the chips stick to other ingredients. But avoid heavy melting which causes clumps. To prevent this, mix gently and avoid warm hands or bowls."
+        },
+        {
+            "question": "Can I use flavored popcorn instead of plain?",
+            "answer": "It’s best to use plain, unsalted popcorn so you control the salt and sweetness levels. Flavored popcorn can overpower or unbalance the snack mix’s flavor profile."
+        },
+        {
+            "question": "How can I make the snack mix crunchier?",
+            "answer": "Use freshly roasted nuts and freshly popped popcorn. Avoid refrigeration which softens popcorn. Also, store in airtight containers to keep moisture out and crunch intact."
+        },
+        {
+            "question": "What’s the best way to mix ingredients without crushing the popcorn?",
+            "answer": "Use a large bowl and fold ingredients gently with a spatula or your hands. Avoid vigorous stirring or shaking, which breaks popcorn and changes texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and snacking on this easy homemade mix as much as I do! Let me know how it turns out and feel free to share your favorite twists.",
+    "seo": {
+        "primary_keyword": "easy homemade snack recipes",
+        "secondary_keywords": [
+            "quick snack ideas",
+            "healthy homemade snacks",
+            "how to make snack mix",
+            "best snack mix recipe",
+            "easy snack recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade granola bars",
+                "anchor": "homemade-granola-bars"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Quick Bites: Homemade Snacks Perfect for Any Occasion"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Delicious Homemade Snacks That Everyone Will Love"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up These Easy Homemade Snacks in Minutes!"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple, Tasty Homemade Snacks You Can Make Today"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up These Easy Homemade Snacks in Minutes!"
+        },
+        {
+            "fileName": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images/easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Whip Up These Easy Homemade Snacks in Minutes!"
+        }
+    ],
+    "id": "post_1783120758_669",
+    "slug": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1",
+    "isOnline": true,
+    "createdAt": "2026-07-04T00:33:23+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-04T00:33:23+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-homemade-snack-recipes-to-satisfy-your-cravings-anytime-1/images",
+    "has_reel": true
+}
