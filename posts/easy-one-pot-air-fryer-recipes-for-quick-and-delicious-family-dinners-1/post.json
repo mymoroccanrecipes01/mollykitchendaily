@@ -1,0 +1,346 @@
+{
+    "title": "Easy One-Pot Air Fryer Chicken and Veggie Dinner Ready in 30 Minutes",
+    "promptIMG": "Food photography: One-Pot Air Fryer Chicken and Veggie Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot air fryer chicken dinner is a total game changer for busy nights. Toss your chicken and veggies in one dish, and let the air fryer do the magic—crispy edges, juicy inside. Perfect for quick family meals!",
+    "hashtags": "#airfryerrecipes #onepotmeal #quickdinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "30-Minute One-Pot Air Fryer Chicken Dinner You’ll Love",
+            "description": "Looking for a fuss-free dinner? This one-pot air fryer chicken and veggie recipe is ready in just 30 minutes! Crispy, juicy, and packed with flavor. Save this easy meal idea now! 🍗🥦 #airfryerdinner #quickmeals #familydinner"
+        },
+        {
+            "title": "How to Make the Best One-Pot Air Fryer Chicken & Veggies",
+            "description": "Discover the secret to a juicy, crispy chicken dinner with veggies all cooked in one pot. Perfect for busy weeknights when you want something fast and delicious. Try it today! 🍽️🔥 #easyrecipes #airfryercooking #onepotmeal"
+        },
+        {
+            "title": "Simple One-Pot Air Fryer Dinner for Busy Weeknights",
+            "description": "No mess, no stress! This one-pot air fryer chicken and veggies dish is your new go-to for quick dinners. Healthy, tasty, and ready in 30 minutes. Don’t miss out—give it a try! 🥕🍗 #quickdinnerideas #airfryerrecipes #weeknightmeals"
+        },
+        {
+            "title": "Juicy Air Fryer Chicken & Veggies in One Pot—Fast & Easy!",
+            "description": "Say goodbye to cleanup and hello to flavor! This one-pot air fryer chicken and vegetable dinner comes together fast and tastes amazing. Perfect for busy families. Save and make it tonight! 🥦🍗 #easymeals #airfryerdinner #familyfriendly"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, trimmed",
+        "2 cups baby potatoes, halved",
+        "1 cup baby carrots",
+        "1 cup broccoli florets",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon smoked paprika",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've always loved quick dinners that don't feel like a compromise on flavor, and this one-pot air fryer chicken and veggie meal hits the spot perfectly. I first tried a version of this when I was pressed for time on a hectic weeknight, and honestly, it saved me from ordering takeout. What makes this recipe stand out is how everything cooks together in one pot—no juggling pans or dirtying the kitchen. The chicken thighs stay juicy and tender, thanks to the air fryer’s even heat, while the veggies get those perfect crispy edges. A little smoked paprika and garlic powder go a long way to add depth without fuss. The secret I discovered was tossing the potatoes and carrots in oil and spices first to ensure they crisp nicely before adding the chicken on top. When it’s done, the aroma alone makes you eager to dig in. It’s a straightforward meal but feels special enough for a family dinner or even a casual weekend lunch. Plus, cleanup is a breeze, which is always a win in my book!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your air fryer to 400°F (200°C) for about 5 minutes. This step ensures that when you add your ingredients, they start cooking immediately at the right temperature, which helps the chicken skin crisp up nicely and the veggies roast evenly. Skipping preheating can result in uneven cooking or soggy textures, so it's worth the short wait.",
+            "timing": "5 minutes",
+            "doneness_cue": "Air fryer beeps or timer reaches preheat time; basket feels warm when touched carefully"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the halved baby potatoes and baby carrots with 1 tablespoon olive oil, salt, pepper, garlic powder, and smoked paprika. Coating the veggies evenly in oil and spices is crucial because it helps them roast to a golden, crispy finish while infusing flavor throughout. If you don’t do this, the potatoes might steam rather than roast, leading to a mushy texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies look evenly coated and slightly glossy from the oil"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the coated potatoes and carrots in the air fryer basket, spreading them out evenly in a single layer. Crowding the basket can cause steaming instead of roasting, so make sure there’s some space between pieces. Cook for 10 minutes, shaking the basket halfway through to promote even browning.",
+            "timing": "10 minutes",
+            "doneness_cue": "Potatoes and carrots are golden brown with crispy edges"
+        },
+        {
+            "step": 4,
+            "instruction": "While the veggies are cooking, pat dry the chicken thighs with paper towels. Drying the chicken is important because moisture on the surface can prevent the skin from crisping up properly. Season both sides with salt, pepper, and a little garlic powder for extra flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken skin feels dry to the touch and evenly seasoned"
+        },
+        {
+            "step": 5,
+            "instruction": "After the veggies have cooked for 10 minutes, nestle the chicken thighs on top of the potatoes and carrots in the air fryer basket. This layering allows the chicken juices to drip down and flavor the veggies below. Cook everything together for another 15 minutes, flipping the chicken halfway through to ensure even cooking and browning.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chicken skin is golden brown and juices run clear when pierced"
+        },
+        {
+            "step": 6,
+            "instruction": "Five minutes before the cooking time ends, add the broccoli florets on top of the chicken and veggies. Broccoli cooks quickly and adding it later prevents it from becoming mushy. Toss the broccoli with the remaining tablespoon of olive oil and a pinch of salt before placing it in the air fryer.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broccoli is tender but still bright green with slightly crisp edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Once cooking is complete, carefully remove the basket and transfer the chicken and veggies to a serving plate. Let the chicken rest for 5 minutes before serving to allow the juices to redistribute, keeping the meat juicy and tender. Resting is often skipped but makes a noticeable difference in texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but springs back slightly when pressed"
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with freshly chopped parsley for a pop of color and fresh flavor. This simple step brightens the dish and adds a subtle herbal note that complements the smoky spices nicely.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley looks vibrant and fresh on top of the dish"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with your favorite dipping sauce or a squeeze of lemon if you like a bit of acidity. This meal pairs well with a light salad or crusty bread for a complete, satisfying dinner.",
+            "timing": "Serve immediately",
+            "doneness_cue": "All components are hot and flavorful on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Air Fryer Dinner Comes Out Perfect Every Time",
+        "content": "<p>The magic behind this recipe lies in the air fryer’s ability to circulate hot air rapidly around the food, creating that crispy exterior without the need for excessive oil. This convection process promotes even cooking and browning, which is especially important for chicken skin and roasted vegetables. The initial preheating ensures the surface temperature is high enough to trigger the Maillard reaction—the chemical process responsible for the savory, browned crust on meats and veggies.</p><p>Coating the potatoes and carrots with oil and seasoning before cooking is key because oil acts as a heat conductor and flavor carrier. It also helps prevent the natural moisture in the vegetables from steaming them, which would result in a soggy texture instead of the desired crispness. The spices, like smoked paprika and garlic powder, add depth and warmth without overpowering the natural flavors.</p><p>Layering the chicken on top of the veggies allows the drippings to infuse flavor and moisture into the potatoes and carrots below. This technique also means everything cooks in one pot, reducing cleanup and blending flavors beautifully. Adding broccoli later prevents it from overcooking and losing its vibrant color and crunch, maintaining a balanced texture in the final dish.</p><p>Resting the chicken after cooking is a small but important step. It lets the juices redistribute through the meat fibers, resulting in a juicier, more tender bite. Skipping this can cause the juices to spill out immediately when cutting, leaving the meat dry. Together, these techniques ensure a flavorful, well-textured meal with minimal fuss.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Boneless skinless chicken thighs are a great choice for this recipe because they stay moist and tender during cooking, unlike leaner cuts like breasts that can dry out. When buying, look for thighs that are uniform in size for even cooking. Patting them dry before seasoning is essential to achieve crisp skin in the air fryer. You can substitute with chicken breasts, but expect a less juicy result and adjust cooking time accordingly.",
+            "baby potatoes": "Baby potatoes roast quickly due to their small size and thin skin, making them perfect for air frying. Choose firm potatoes without blemishes or sprouts. Halving them exposes more surface area for crisping and seasoning absorption. Russet or Yukon gold varieties work well here; avoid waxy potatoes that tend to stay soft and less crispy.",
+            "baby carrots": "Baby carrots add sweetness and color to the dish, and their small size allows them to roast evenly alongside potatoes. Look for bright orange carrots with no signs of shriveling. Tossing them with oil and spices ensures they caramelize nicely rather than steam. You can swap for sliced regular carrots if needed but adjust cooking time for thickness.",
+            "olive oil": "Extra virgin olive oil is used here for its flavor and healthy fats. It helps transfer heat evenly and promotes crisp texture on the veggies and chicken skin. Using too little oil can result in dry, uneven cooking, while too much can cause sogginess. If you prefer, avocado or grapeseed oil can be substituted due to their high smoke points.",
+            "smoked paprika": "Smoked paprika brings a subtle smoky depth and vibrant color to the dish without heat. It pairs beautifully with roasted chicken and vegetables, enhancing their natural flavors. When selecting smoked paprika, opt for a fresh jar to avoid a dull taste. It’s a key ingredient that elevates this simple meal from ordinary to memorable."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat chicken dry before seasoning.",
+            "reason": "Drying the chicken skin removes excess moisture, which is essential for crisping. Moisture on the surface steam-cooks the skin instead of roasting it, leading to a rubbery texture rather than a crispy crust. This small step dramatically improves the final texture."
+        },
+        {
+            "tip": "Don’t overcrowd the air fryer basket.",
+            "reason": "Crowding traps steam and prevents hot air circulation, causing uneven cooking and soggy spots. Leaving space allows the air fryer to crisp everything evenly, especially important for the potatoes and chicken skin."
+        },
+        {
+            "tip": "Shake or toss veggies halfway through cooking.",
+            "reason": "Turning or shaking the basket redistributes the food, exposing all sides to the hot circulating air. This promotes consistent browning and prevents burning on one side while the other remains pale."
+        },
+        {
+            "tip": "Add delicate veggies like broccoli later in the cooking process.",
+            "reason": "Broccoli cooks faster than root vegetables and chicken thighs. Adding it too early leads to mushy, overcooked florets. Adding it in the last 5 minutes keeps it tender-crisp with vibrant color."
+        },
+        {
+            "tip": "Use a meat thermometer to check chicken doneness.",
+            "reason": "Chicken thighs are safe to eat at 165°F internally. Using a thermometer prevents overcooking and drying out, ensuring juicy meat every time."
+        },
+        {
+            "tip": "Rest the chicken before slicing.",
+            "reason": "Resting allows the juices to redistribute throughout the meat fibers, making the chicken more tender and flavorful. Cutting immediately after cooking causes juices to escape, resulting in dryness."
+        },
+        {
+            "tip": "Use fresh spices for best flavor.",
+            "reason": "Old spices lose potency over time. Fresh smoked paprika and garlic powder deliver vibrant, rich flavors that really enhance the dish. Replacing stale spices can leave the meal tasting flat."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the preheat step.",
+            "why_it_happens": "People often want to save time and assume preheating isn't necessary, but this leads to uneven cooking and less crisp results.",
+            "fix": "Always preheat your air fryer to the recommended temperature before adding food. This jump-starts the cooking process and ensures even heat distribution from the get-go."
+        },
+        {
+            "mistake": "Not drying the chicken skin.",
+            "why_it_happens": "It's easy to overlook patting chicken dry, especially when in a hurry.",
+            "fix": "Use paper towels to thoroughly dry chicken before seasoning. This step is crucial for achieving crispy, golden skin in the air fryer."
+        },
+        {
+            "mistake": "Overcrowding the air fryer basket.",
+            "why_it_happens": "Trying to cook too much at once to save time or dishes.",
+            "fix": "Cook in batches if needed, leaving space between pieces. This allows hot air to circulate and crisp the food properly."
+        },
+        {
+            "mistake": "Adding all veggies at the same time.",
+            "why_it_happens": "Assuming all vegetables cook at the same rate.",
+            "fix": "Add quicker-cooking veggies like broccoli later to avoid mushy textures. Start with root veggies, then add delicate ones near the end."
+        },
+        {
+            "mistake": "Not letting chicken rest before serving.",
+            "why_it_happens": "Impatience to eat often leads to skipping resting time.",
+            "fix": "Set the cooked chicken aside for 5 minutes before cutting to keep it juicy and tender."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy One-Pot Air Fryer Chicken",
+            "description": "Add 1 teaspoon of cayenne pepper and a pinch of chili flakes to the seasoning mix for a spicy kick. Swap baby carrots for sliced bell peppers to complement the heat. Expect a bolder, warmer flavor profile with slightly more vibrant colors on the plate.",
+            "technical_note": "Spicy seasonings can brown faster; keep an eye on cooking times to avoid burning."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Use lemon zest, oregano, and rosemary along with olive oil for seasoning. Add halved cherry tomatoes and sliced red onion in the last 5 minutes. This variation offers fresh, herbaceous notes and a slightly tangy finish.",
+            "technical_note": "Tomatoes release moisture quickly; add them late to prevent sogginess."
+        },
+        {
+            "name": "Garlic Butter Chicken and Veggies",
+            "description": "Brush the chicken with melted garlic butter before cooking and toss veggies in butter instead of olive oil. This adds richness and a deep savory flavor, making it feel more indulgent without extra effort.",
+            "technical_note": "Butter burns faster than oil; watch cooking progress closely and consider lowering temperature slightly."
+        },
+        {
+            "name": "Vegan One-Pot Air Fryer Meal",
+            "description": "Replace chicken with firm tofu cubes marinated in soy sauce and smoked paprika. Increase veggies like zucchini and mushrooms. This keeps the dish hearty and flavorful while fully plant-based.",
+            "technical_note": "Tofu cooks faster; add halfway through the veggie roasting time to avoid drying out."
+        },
+        {
+            "name": "Herb-Crusted Chicken with Root Veggies",
+            "description": "Mix fresh chopped thyme, parsley, and sage into the seasoning. Use a mix of parsnips and sweet potatoes with the baby potatoes for a sweet and earthy flavor. The herb crust adds fragrance and complexity to the chicken.",
+            "technical_note": "Fresh herbs can brown quickly; mix with oil to protect them during cooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken may firm up and veggies soften slightly when cold. Reheat gently to preserve texture and moisture.",
+        "freezer": "Freeze cooked chicken and veggies separately for up to 2 months. Wrap airtight with freezer-safe bags or containers to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in the air fryer at 350°F for 5-7 minutes to revive crispness, or microwave covered with a splash of water for 2-3 minutes. Avoid overheating which dries out the chicken.",
+        "make_ahead_strategy": "You can prep and season the veggies and chicken 1 day ahead, storing them separately in the fridge. On cooking day, simply assemble and air fry as directed for fresh, fast dinner."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, you can substitute chicken breasts, but they tend to dry out faster. To keep them juicy, reduce the cooking time by a few minutes and consider marinating beforehand. Also, use a meat thermometer to avoid overcooking."
+        },
+        {
+            "question": "Is it okay to use frozen vegetables?",
+            "answer": "Frozen veggies can work but expect more moisture release, which might prevent crisping. If using frozen, pat them dry thoroughly and reduce added oil slightly. Add them later in the cooking process to avoid sogginess."
+        },
+        {
+            "question": "How do I make this recipe spicier?",
+            "answer": "Add cayenne pepper, chili powder, or red pepper flakes to the seasoning mix. Start with small amounts and adjust to taste. You can also serve with a spicy dipping sauce or hot sauce on the side."
+        },
+        {
+            "question": "Can I double this recipe for more servings?",
+            "answer": "You can double the ingredients but cook in batches if your air fryer basket is small. Overcrowding reduces air circulation, leading to uneven cooking and less crispy results."
+        },
+        {
+            "question": "What’s the best way to clean the air fryer after this recipe?",
+            "answer": "Let the basket cool completely, then soak it in warm soapy water. Use a non-abrasive sponge to remove any stuck-on bits. Wipe the interior with a damp cloth and avoid harsh chemicals to preserve the coating."
+        },
+        {
+            "question": "Can I add other vegetables to this dish?",
+            "answer": "Absolutely! Just consider their cooking times. Harder veggies like parsnips or sweet potatoes can go in early; softer ones like bell peppers or zucchini should be added later to prevent overcooking."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "Use a meat thermometer to check the internal temperature. It should reach 165°F (74°C) in the thickest part. The juices should run clear, and the skin should be golden and crisp."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as is. Just be sure any additional seasonings or sauces you add are certified gluten-free."
+        }
+    ],
+    "conclusion": "I hope you give this one-pot air fryer chicken and veggie dinner a try soon—it’s become a favorite in my house for quick, tasty meals. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "one pot air fryer chicken dinner",
+        "secondary_keywords": [
+            "easy air fryer chicken",
+            "one pot chicken recipes",
+            "how to make air fryer chicken dinner",
+            "best air fryer chicken recipe",
+            "easy one pot chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "air fryer basics and tips",
+                "anchor": "air-fryer-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_1.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_2.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_3.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Simple One-Pot Air Fryer Dinner for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "30-Minute One-Pot Air Fryer Chicken Dinner You’ll Love"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make the Best One-Pot Air Fryer Chicken & Veggies"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "30-Minute One-Pot Air Fryer Chicken Dinner You’ll Love"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Juicy Air Fryer Chicken & Veggies in One Pot—Fast & Easy!"
+        },
+        {
+            "fileName": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images/easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "30-Minute One-Pot Air Fryer Chicken Dinner You’ll Love"
+        }
+    ],
+    "id": "post_1783206639_100",
+    "slug": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1",
+    "isOnline": true,
+    "createdAt": "2026-07-05T00:30:45+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-05T00:30:45+01:00",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-one-pot-air-fryer-recipes-for-quick-and-delicious-family-dinners-1/images",
+    "has_reel": true
+}
