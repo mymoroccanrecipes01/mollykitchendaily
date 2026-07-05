@@ -1,0 +1,345 @@
+{
+    "title": "Classic Southern Pecan Pie That Feels Like a Warm Hug",
+    "promptIMG": "Food photography: Classic Southern Pecan Pie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This pecan pie is pure comfort—rich, buttery, and loaded with toasted pecans. The secret? A touch of vanilla and a perfectly gooey filling. Ideal for holiday dinners or cozy evenings with family.",
+    "hashtags": "#pecanpie #southerndessert #holidaybaking",
+    "board_name": "Classic Southern Desserts",
+    "pin_variations": [
+        {
+            "title": "Irresistible Pecan Pie Recipe for Holiday Gatherings",
+            "description": "Looking for the perfect pecan pie? This recipe is buttery, nutty, and just sweet enough to delight everyone at your table. Save this for your next holiday feast! 🥧✨ #pecanpie #holidaydesserts #southernbaking"
+        },
+        {
+            "title": "How to Make Gooey, Crunchy Pecan Pie from Scratch",
+            "description": "Master the art of pecan pie with this easy-to-follow recipe. Crispy crust meets a luscious filling topped with toasted pecans. Try it today and impress your friends! 🥜🔥 #pecanpie #dessertlover #bakingtips"
+        },
+        {
+            "title": "The Best Pecan Pie You’ll Ever Taste—No Fuss Needed!",
+            "description": "This classic pecan pie is simple yet indulgent, perfect for any occasion. The buttery crust and rich filling will have you hooked. Discover now and bake your new favorite dessert! 🍂🍰 #southerndessert #pecanpie #easybaking"
+        },
+        {
+            "title": "Warm Up Your Holidays with This Classic Pecan Pie Recipe",
+            "description": "Nothing says cozy like a slice of pecan pie fresh from the oven. This recipe balances sweet and nutty perfectly. Save it for your next family gathering! 🎉🥧 #holidaybaking #pecanpie #comfortfood"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "1 cup light corn syrup",
+        "3/4 cup packed light brown sugar",
+        "3 large eggs, beaten",
+        "2 tablespoons unsalted butter, melted",
+        "1 teaspoon pure vanilla extract",
+        "1/2 teaspoon salt",
+        "1 1/2 cups pecan halves",
+        "1 unbaked 9-inch pie crust"
+    ],
+    "yield": "1 9-inch pie, 8 servings",
+    "introduction": "I've been making pecan pie every holiday season since I was a kid. My grandma’s recipe was always a family favorite, but I found it could be a bit too sweet or sometimes the filling didn’t set quite right. Over the years, I tweaked the sugar and syrup balance and added a splash of vanilla to deepen the flavor. The trick I learned is to toast the pecans lightly before adding them—it brings out their nutty aroma and adds a subtle crunch. Also, I always use fresh eggs and real butter to get that rich, silky filling. When it comes out of the oven, the pie is golden with a glossy top that jiggles just slightly—perfectly gooey inside but firm enough to slice. It’s the kind of dessert that feels like a warm hug, especially when shared with loved ones on chilly evenings. I think what makes this version stand out is how balanced it tastes—sweet, nutty, buttery, and not overly heavy. It’s a classic, but with a little homemade love that makes all the difference.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Lightly toast the pecan halves on a baking sheet for about 8 minutes, stirring halfway through. Toasting the nuts enhances their flavor and crunch, which really makes a difference in the finished pie. Be careful not to burn them; you want a fragrant, golden brown color. This step adds a lovely depth that raw nuts can’t provide.",
+            "timing": "8 minutes",
+            "doneness_cue": "Pecans are fragrant and lightly browned, not dark or smoky"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the corn syrup, brown sugar, beaten eggs, melted butter, vanilla extract, and salt until smooth and fully combined. This mixture is the base of your filling, and whisking it well ensures a silky texture without lumps. If you rush this step or don’t mix thoroughly, the filling can separate or become grainy after baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth, glossy, and uniform in color"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the unbaked pie crust in a 9-inch pie dish and gently press it into the corners without stretching. Crimp the edges decoratively if you like. A well-fitted crust prevents leaks and ensures even baking. Avoid overhandling the dough to keep it tender and flaky.",
+            "timing": "5 minutes",
+            "doneness_cue": "Crust fits snugly with no holes or thin spots"
+        },
+        {
+            "step": 4,
+            "instruction": "Scatter the toasted pecan halves evenly over the bottom of the pie crust. Distributing the nuts evenly helps every slice have a good crunch and flavor balance. If you pile them unevenly, some pieces might be too nut-heavy or too syrupy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pecans cover the crust evenly in a single layer"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly pour the filling mixture over the pecans, letting it settle naturally without stirring the nuts around. The filling will seep between the nuts, binding everything together as it bakes. Pouring carefully prevents the nuts from floating to the top unevenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Filling evenly covers the pecans without overflow"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the pie on the middle rack of the preheated oven. Bake for 50-55 minutes, checking after 45 minutes. The filling should be set but still slightly jiggly in the center—like gelatin. Overbaking causes a dry, crumbly texture, while underbaking leaves it too runny.",
+            "timing": "50 minutes",
+            "doneness_cue": "Filling is golden brown with a gentle wobble in the center"
+        },
+        {
+            "step": 7,
+            "instruction": "If the crust edges brown too quickly, shield them with foil or a pie crust protector after 25 minutes. This keeps the crust from burning while the filling finishes baking. Uneven browning can ruin the pie’s appearance and taste.",
+            "timing": "During baking",
+            "doneness_cue": "Crust edges stay golden, not dark or burnt"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pie from the oven and let it cool completely on a wire rack for at least 2 hours. Cooling allows the filling to firm up properly, making slicing easier and preventing it from falling apart. Patience here means a perfect slice every time.",
+            "timing": "2 hours",
+            "doneness_cue": "Filling is set and pie slices cleanly without oozing"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the pie slightly chilled or at room temperature, optionally with whipped cream or vanilla ice cream. The contrast between the warm, nutty pie and the cold cream is heavenly. Plus, it adds a fresh, creamy element that balances the sweetness.",
+            "timing": "Optional serving step",
+            "doneness_cue": "Pie is enjoyed with complementary texture and flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pecan Pie Is So Irresistible",
+        "content": "<p>Pecan pie’s magic lies in balancing the sweet, nutty, and buttery elements without overwhelming the palate. The key ingredient, corn syrup, acts as a stabilizer and sweetener, creating that signature gooey texture. Its viscosity prevents sugar crystallization, ensuring the filling stays smooth and luscious rather than gritty.</p><p>Toasting the pecans before baking is another game-changer. Heat activates their natural oils, releasing aromatic compounds that deepen their flavor and enhance crunch. This step makes the nuts pop against the sweet filling rather than getting lost in it.</p><p>The eggs and butter are essential for structure and richness. Eggs coagulate as they bake, setting the filling, while butter adds silkiness and a tender mouthfeel. The vanilla extract complements the nutty notes and rounds out the flavor profile, making the pie taste more complex and homemade.</p><p>Finally, baking at a moderate temperature allows the filling to set evenly without curdling or cracking. The crust acts as a sturdy base, providing a crisp contrast to the soft, gooey center. Together, these elements create a harmonious dessert that’s both comforting and impressive.</p>",
+        "ingredient_notes": {
+            "corn syrup": "Look for light corn syrup as it provides sweetness without overpowering flavor. It’s a key ingredient for that classic chewy filling because it prevents sugar crystals from forming, keeping the texture smooth. Avoid dark corn syrup unless you want a molasses-like taste, which changes the pie’s character.",
+            "pecan halves": "Choose fresh, high-quality pecans that are plump and free from shriveling. Toasting them before baking enhances their natural oils and flavor, giving the pie a rich, nutty aroma. Avoid pre-salted or roasted nuts as they can make the pie too salty or greasy.",
+            "eggs": "Fresh large eggs provide structure by coagulating during baking, which helps the filling set properly. Using older eggs or substitutes can result in a runny or crumbly pie. Always beat the eggs well to incorporate air and ensure a smooth filling.",
+            "unsalted butter": "Butter adds richness and a tender mouthfeel to the filling. Unsalted is best so you can control the salt level precisely. Melted butter blends easily with the sugar and syrup, contributing to the pie’s glossy texture and deep flavor.",
+            "vanilla extract": "Pure vanilla extract elevates the flavor by adding warmth and complexity. It balances the sweetness and nutty notes, making the pie taste homemade and well-rounded. Avoid imitation vanilla, which can taste artificial and dull the overall flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast pecans just before baking for maximum flavor.",
+            "reason": "Toasting nuts activates their natural oils and enhances aroma. If you skip this, the pecans can taste raw and less flavorful, which dulls the pie’s overall impact."
+        },
+        {
+            "tip": "Use room temperature eggs for easier mixing.",
+            "reason": "Cold eggs can cause the filling mixture to seize or curdle. Room temp eggs blend smoothly with the syrup and sugar, ensuring a uniform, silky filling."
+        },
+        {
+            "tip": "Shield crust edges with foil midway through baking.",
+            "reason": "Pie crust edges bake faster than the filling and can burn if unprotected. Foil prevents overbrowning, keeping the crust golden and tender."
+        },
+        {
+            "tip": "Let the pie cool fully before slicing.",
+            "reason": "Cooling allows the filling to set and firm up. Cutting too soon results in a runny pie and messy slices."
+        },
+        {
+            "tip": "Use a glass or metal pie dish for even heat distribution.",
+            "reason": "These materials conduct heat well, promoting even baking of both crust and filling. Ceramic can sometimes cause uneven cooking."
+        },
+        {
+            "tip": "Avoid overmixing the filling to prevent air bubbles.",
+            "reason": "Too much air can cause cracks or holes in the filling after baking, ruining the smooth texture."
+        },
+        {
+            "tip": "Add a pinch of salt to balance sweetness.",
+            "reason": "Salt enhances flavor by cutting through the sugar’s intensity, making the pie taste richer and more complex."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Filling too runny or not setting",
+            "why_it_happens": "Often caused by underbaking or using cold ingredients that affect the filling’s ability to coagulate properly.",
+            "fix": "Bake the pie at the right temperature for the full time and use room temperature eggs. Also, ensure the filling mixture is well combined for consistent texture."
+        },
+        {
+            "mistake": "Burnt crust edges",
+            "why_it_happens": "Crust edges bake faster than the center and can easily overbrown if unprotected.",
+            "fix": "Cover edges with foil or a crust shield about halfway through baking to prevent burning while the filling finishes cooking."
+        },
+        {
+            "mistake": "Pecans sinking to the bottom",
+            "why_it_happens": "Pouring filling too quickly or stirring nuts into the filling can cause them to sink.",
+            "fix": "Scatter pecans evenly on the crust first, then slowly pour filling over them without stirring."
+        },
+        {
+            "mistake": "Grainy or crystallized filling",
+            "why_it_happens": "Sugar can crystallize if corn syrup isn’t used or if the filling isn’t mixed thoroughly.",
+            "fix": "Use light corn syrup and whisk the filling well to create a smooth, glossy texture."
+        },
+        {
+            "mistake": "Piec crust shrinking or tough",
+            "why_it_happens": "Overworking the dough or stretching it too much when fitting it in the pan.",
+            "fix": "Handle dough gently and chill the crust before baking to relax gluten and prevent shrinking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Pecan Pie",
+            "description": "Add 1/2 cup melted dark chocolate to the filling mixture for a rich twist. The chocolate pairs beautifully with the toasted pecans and adds depth. Expect a slightly firmer texture and a decadent flavor profile.",
+            "technical_note": "Melt chocolate gently to avoid seizing and fold it into the filling mixture before pouring over pecans."
+        },
+        {
+            "name": "Bourbon Pecan Pie",
+            "description": "Stir in 2 tablespoons of bourbon whiskey into the filling for a warm, boozy note. This variation adds complexity and a subtle kick, perfect for adult gatherings.",
+            "technical_note": "Add bourbon after mixing eggs and sugars to maintain smoothness; bake as usual."
+        },
+        {
+            "name": "Maple Pecan Pie",
+            "description": "Replace half the corn syrup with pure maple syrup for a deeper, woodsy sweetness. This version has a lighter texture and a lovely maple aroma that complements the nuts.",
+            "technical_note": "Monitor baking time closely as maple syrup can brown faster."
+        },
+        {
+            "name": "Gluten-Free Pecan Pie",
+            "description": "Use a gluten-free pie crust and ensure all ingredients are gluten-free. The filling remains the same, offering the classic flavor with a safe crust for gluten-sensitive folks.",
+            "technical_note": "Blind bake the gluten-free crust slightly before filling to prevent sogginess."
+        },
+        {
+            "name": "Vegan Pecan Pie",
+            "description": "Substitute eggs with a flaxseed mixture and use coconut oil instead of butter. Use a vegan pie crust. The texture is a bit different—less firm but still deliciously sweet and nutty.",
+            "technical_note": "Bake at a slightly lower temperature to prevent drying out the vegan filling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pecan pie can safely sit covered at room temperature for up to 2 days. Keep it wrapped with plastic wrap or in a pie box to prevent it from drying out or absorbing odors.",
+        "refrigerator": "Store the pie in an airtight container or cover tightly with plastic wrap. It stays fresh for up to 4 days. The texture firms up in the fridge, so let it sit at room temperature for 20 minutes before serving for best flavor.",
+        "freezer": "Wrap the cooled pie tightly in plastic wrap and then aluminum foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge and warm slightly in the oven to restore texture.",
+        "reheating": "Reheat slices in a 325°F oven for 10-15 minutes until warm. Avoid microwaving as it can make the crust soggy. Add a splash of cream or butter on reheating if it feels dry.",
+        "make_ahead_strategy": "Prepare the pie crust a day ahead and keep chilled. You can also mix the filling and store it in the fridge overnight. Assemble and bake on the day you plan to serve for the freshest result."
+    },
+    "faq": [
+        {
+            "question": "Can I use dark corn syrup instead of light?",
+            "answer": "Yes, but dark corn syrup will add a molasses-like flavor and darker color to your pie. It’s delicious but changes the classic taste. If you prefer a more traditional flavor, stick to light corn syrup."
+        },
+        {
+            "question": "Why did my pecan pie filling crack after baking?",
+            "answer": "Cracks usually happen if the pie is overbaked or cooled too quickly. Baking at a lower temperature and cooling the pie gradually at room temperature helps prevent cracking."
+        },
+        {
+            "question": "What’s the best way to prevent a soggy crust?",
+            "answer": "Blind baking the crust for 8-10 minutes before filling helps create a barrier so the filling doesn’t soak in. Also, using a metal or glass pie dish promotes even baking."
+        },
+        {
+            "question": "Can I make pecan pie ahead of time?",
+            "answer": "Absolutely! You can bake it a day in advance and store it covered in the fridge. Just bring it to room temperature before serving. This actually lets the flavors meld beautifully."
+        },
+        {
+            "question": "How do I know when the pie filling is done?",
+            "answer": "Look for a golden brown top and a filling that jiggles slightly in the center when you gently shake the pan. It will firm up as it cools, so don’t wait for it to be completely set in the oven."
+        },
+        {
+            "question": "Can I use chopped pecans instead of halves?",
+            "answer": "Yes, chopped pecans work fine and distribute more evenly throughout the pie, but halves offer a nicer texture and visual appeal on top."
+        },
+        {
+            "question": "What’s the shelf life of pecan pie?",
+            "answer": "At room temperature, about 2 days covered. In the fridge, up to 4 days. For longer storage, freeze for up to 3 months. Always store tightly wrapped to maintain freshness."
+        },
+        {
+            "question": "Is there a substitute for corn syrup?",
+            "answer": "You can try maple syrup or honey, but they’ll alter the flavor and texture. Corn syrup’s unique property prevents crystallization, so substitutions may result in a less smooth filling."
+        }
+    ],
+    "conclusion": "I hope you give this pecan pie a try and enjoy every bite as much as my family does. Don’t forget to share how it turns out—I love hearing your baking stories!",
+    "seo": {
+        "primary_keyword": "classic pecan pie recipe",
+        "secondary_keywords": [
+            "southern pecan pie",
+            "easy pecan pie recipe",
+            "how to make pecan pie",
+            "best pecan pie recipe",
+            "traditional pecan pie"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pie crust recipe",
+                "anchor": "homemade-pie-crust"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_1.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_1.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_2.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_2.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_3.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_3.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_4.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Irresistible Pecan Pie Recipe for Holiday Gatherings"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_8.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Irresistible Pecan Pie Recipe for Holiday Gatherings"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_5.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make Gooey, Crunchy Pecan Pie from Scratch"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_9.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Irresistible Pecan Pie Recipe for Holiday Gatherings"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_6.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Best Pecan Pie You’ll Ever Taste—No Fuss Needed!"
+        },
+        {
+            "fileName": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_7.webp",
+            "relativePath": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images/the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Warm Up Your Holidays with This Classic Pecan Pie Recipe"
+        }
+    ],
+    "id": "post_1783293275_921",
+    "slug": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite",
+    "isOnline": true,
+    "createdAt": "2026-07-06T00:35:08+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-06T00:35:08+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "the-best-pecan-desserts-recipes-that-bring-comfort-to-every-bite/images",
+    "has_reel": true
+}

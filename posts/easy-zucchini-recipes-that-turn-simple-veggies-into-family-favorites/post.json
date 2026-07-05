@@ -1,0 +1,343 @@
+{
+    "title": "Simple and Delicious Sautéed Zucchini with Garlic and Herbs",
+    "promptIMG": "Food photography: Sautéed Zucchini with Garlic and Herbs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sautéed zucchini dish is a quick, fresh way to enjoy summer veggies. Garlic and fresh herbs add a lovely punch without overpowering the natural sweetness. Perfect for a light dinner or as a side to grilled meats.",
+    "hashtags": "#zucchinirecipe #easyveggies #weeknightdinner",
+    "board_name": "Easy Vegetable Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Garlic Zucchini Recipe You’ll Love Tonight",
+            "description": "Ready in just 20 minutes, this garlic zucchini sauté is a total game changer for weeknight dinners! Fresh, flavorful, and so easy to make 🍽️🌿 Save this recipe and try it today! #zucchini #quickmeals #garlicrecipes"
+        },
+        {
+            "title": "How to Make Perfect Sautéed Zucchini Every Time",
+            "description": "Discover the secret to tender, flavorful zucchini with garlic and herbs. This simple side is a must-try for any veggie lover 🌱👌 Save it now and impress your family tonight! #veggieside #healthyrecipes #easycooking"
+        },
+        {
+            "title": "Light & Fresh Zucchini Side Dish for Busy Nights",
+            "description": "Need a quick veggie side? This sautéed zucchini with garlic is fresh, light, and bursting with flavor. Perfect for busy evenings or healthy lunches 🥒✨ Don’t forget to save it! #healthyeats #zucchinirecipes #simplemeals"
+        },
+        {
+            "title": "Easy Zucchini with Garlic and Herbs for Weeknight Dinners",
+            "description": "This easy zucchini recipe is loaded with garlic and herbs, bringing out the best in summer squash. It’s a fast, healthy side you’ll want to make again and again 🌿🍳 Try it tonight! #easyveggies #weeknightdinner #garliczucchini"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "4 medium zucchini, sliced into 1/4 inch rounds",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 teaspoon fresh thyme leaves",
+        "Salt and freshly ground black pepper, to taste",
+        "1 tablespoon fresh parsley, chopped (optional)",
+        "1 teaspoon lemon juice (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this sautéed zucchini recipe on a whim one busy weeknight when I had just a few minutes and some fresh zucchini from my garden. It quickly became a favorite because it’s so simple yet full of flavor. What sets this version apart is the way the garlic is gently cooked in olive oil before adding the zucchini, infusing the dish with a rich aroma without burning the garlic’s delicate flavor. I also love adding fresh herbs like thyme and parsley to brighten things up. The zucchini ends up tender but still with a slight bite, and the natural sweetness really shines through. It’s a perfect side dish to almost any meal or even a light, healthy snack if you’re craving something fresh. I think you’ll appreciate how fast it comes together and how versatile it is. Plus, it’s a great way to get some extra veggies on the table without any fuss. This recipe is one I’ve kept coming back to, especially when zucchini is in season and I want something quick, wholesome, and satisfying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet over medium heat. This moderate temperature allows the garlic to slowly infuse the oil without burning, which would make it bitter. Once the oil is shimmering, add the minced garlic and sauté for about 1 to 2 minutes, stirring often. You want the garlic to become fragrant and slightly golden but not browned. If the garlic starts to brown too quickly, lower the heat. This step is crucial because it builds the base flavor for the dish and ensures the zucchini absorbs that lovely garlic aroma.",
+            "timing": 3,
+            "doneness_cue": "Garlic is fragrant and just turning light golden without any burnt bits"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced zucchini to the skillet in a single layer if possible. Avoid overcrowding, as this will steam the zucchini instead of sautéing it, resulting in a mushy texture. Cook for about 4 to 5 minutes without stirring too much, allowing one side to brown slightly. This browning is important because it creates a richer flavor and a more appealing texture. After the first side has lightly caramelized, stir and continue cooking for another 3 to 4 minutes until the zucchini is tender but still has a bit of bite. Season with salt and pepper toward the end to taste.",
+            "timing": 8,
+            "doneness_cue": "Zucchini is tender with golden edges and no longer raw inside"
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle fresh thyme leaves over the zucchini and give it a quick stir to distribute the herb evenly. Thyme adds a subtle earthiness that complements the garlic and zucchini perfectly. Cook for an additional minute to let the aroma develop. If using, stir in chopped parsley and a splash of lemon juice just before serving to add brightness and freshness. These finishing touches lift the dish and balance the flavors beautifully.",
+            "timing": 2,
+            "doneness_cue": "Herbs are wilted slightly and dish smells fresh and vibrant"
+        },
+        {
+            "step": 4,
+            "instruction": "Taste the zucchini and adjust seasoning with extra salt or pepper if needed. Sometimes a pinch of salt can enhance the zucchini’s natural sweetness. If you want a bit more depth, a tiny drizzle of extra olive oil or a sprinkle of chili flakes can add interest. Serve immediately while warm to enjoy the best texture and flavor.",
+            "timing": 1,
+            "doneness_cue": "Balanced seasoning and warm, inviting aroma"
+        },
+        {
+            "step": 5,
+            "instruction": "For a variation, you can add thinly sliced shallots or onions in step one along with the garlic. This adds a gentle sweetness and more complexity. Just cook them until translucent before adding zucchini. This layering of flavors is a simple way to tailor the dish to your taste.",
+            "timing": 2,
+            "doneness_cue": "Shallots are soft and fragrant before zucchini is added"
+        },
+        {
+            "step": 6,
+            "instruction": "If you prefer your zucchini softer, cover the skillet during the last few minutes of cooking to trap steam. This technique helps break down the zucchini more quickly but be careful not to overdo it or it will become mushy. Uncover and stir occasionally to monitor texture.",
+            "timing": 3,
+            "doneness_cue": "Zucchini feels tender when pierced with a fork but not falling apart"
+        },
+        {
+            "step": 7,
+            "instruction": "To keep the zucchini crispier, cook it over medium-high heat and avoid covering the pan. This encourages evaporation of moisture and helps develop those golden edges. Stir frequently to prevent burning. This method works great if you want a bit more bite and texture.",
+            "timing": 5,
+            "doneness_cue": "Zucchini has golden brown spots and a firm texture"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add protein, toss in cooked chickpeas or white beans at the end and warm through. This makes the dish a more substantial meal without losing its fresh vegetable character.",
+            "timing": 2,
+            "doneness_cue": "Beans are heated and integrated without losing texture"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the zucchini warm as a side to grilled chicken, fish, or tofu. It also pairs wonderfully with a grain bowl or tossed into pasta for a quick veggie boost. Garnish with extra fresh herbs or a sprinkle of parmesan if desired.",
+            "timing": 1,
+            "doneness_cue": "Dish looks vibrant and inviting on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sautéed Zucchini Recipe Works So Well",
+        "content": "<p>The success of this zucchini recipe lies in how the ingredients and cooking technique come together to highlight the vegetable's natural sweetness while adding layers of flavor. First, sautéing garlic gently in olive oil infuses the oil with its aromatic compounds without burning, which would otherwise create bitterness. The oil acts as a flavor carrier, evenly distributing the garlic essence throughout the dish.</p><p>Next, cooking zucchini in a single layer over moderate heat encourages caramelization through the Maillard reaction. This browning adds a subtle nuttiness and depth that elevates the simple vegetable. Avoiding overcrowding prevents steaming, which would result in a mushy texture and less flavor development.</p><p>Fresh herbs like thyme and parsley introduce aromatic oils that complement the garlic and enhance the zucchini's freshness. Adding lemon juice at the end balances the richness of the oil and the sweetness of the zucchini with bright acidity. This final touch brightens the dish and prevents it from tasting heavy.</p><p>Overall, the technique balances heat, timing, and seasoning to produce zucchini that is tender yet slightly crisp, flavorful but not overpowering. The interplay of gentle garlic infusion, precise sautéing, and fresh herbs creates a harmonious and satisfying side dish that feels both comforting and light.</p>",
+        "ingredient_notes": {
+            "zucchini": "Choose medium-sized zucchini that are firm with smooth skin and no soft spots. Smaller zucchini tend to be sweeter and less watery, which helps keep the dish from becoming soggy. Avoid overly large or mature zucchini as they can have tough seeds and a more fibrous texture. Washing and slicing evenly ensures uniform cooking.",
+            "olive oil": "Extra virgin olive oil is best for its flavor and quality. It has a moderate smoke point suitable for sautéing at medium heat. The oil acts as a flavor carrier for the garlic and herbs, so using a good quality oil really affects the final taste. Avoid heating oil too high to prevent bitterness.",
+            "garlic": "Fresh garlic cloves provide the best aroma and flavor. Mince finely to release maximum flavor quickly. Be careful not to burn garlic during cooking as it turns bitter and unpleasant. Adding it early in the oil allows gentle infusion without scorching.",
+            "fresh thyme": "Thyme’s earthy and slightly floral notes complement zucchini beautifully. Use fresh rather than dried for a brighter taste. Adding it toward the end preserves its aromatic oils. It pairs well with garlic and olive oil to create a balanced flavor profile.",
+            "lemon juice": "A splash of fresh lemon juice added just before serving brightens the dish by adding acidity that contrasts the richness of olive oil and sweetness of zucchini. It prevents the dish from tasting flat or heavy. Use fresh juice rather than bottled for the best flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice zucchini evenly to ensure uniform cooking.",
+            "reason": "Uneven slices cook at different rates, causing some pieces to be overcooked and mushy while others remain underdone. This affects texture and presentation. Uniform slices create a balanced dish and help achieve that tender-but-crisp bite."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when sautéing zucchini.",
+            "reason": "Overcrowding traps moisture and causes the zucchini to steam rather than brown, leading to a soggy texture and less flavor. Cooking in batches or using a larger pan allows evaporation and proper caramelization."
+        },
+        {
+            "tip": "Cook garlic on medium heat to avoid burning.",
+            "reason": "Burnt garlic tastes bitter and ruins the dish’s flavor. Medium heat allows garlic to slowly infuse the oil with its aroma without scorching. Watching closely and stirring frequently prevents this common mistake."
+        },
+        {
+            "tip": "Add fresh herbs at the end of cooking.",
+            "reason": "Fresh herbs contain volatile oils that dissipate with prolonged heat. Adding them near the end preserves their bright aroma and flavor, enhancing the dish’s freshness and complexity."
+        },
+        {
+            "tip": "Use a light splash of lemon juice before serving.",
+            "reason": "Acidity balances the richness from olive oil and enhances the natural sweetness of zucchini. It brightens the dish and prevents it from tasting heavy or dull, making it more appetizing."
+        },
+        {
+            "tip": "Serve zucchini immediately for best texture.",
+            "reason": "Zucchini tends to release moisture as it cools, which can make the dish soggy. Serving warm preserves the crisp edges and fresh flavor, making the eating experience more enjoyable."
+        },
+        {
+            "tip": "Try using a cast iron or stainless steel skillet for better browning.",
+            "reason": "These pans retain and distribute heat evenly, promoting better caramelization of zucchini. Nonstick pans can sometimes trap moisture, leading to steaming rather than sautéing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Many cooks turn the heat too high or add garlic too early, causing it to brown quickly and become bitter.",
+            "fix": "Cook garlic on medium heat and watch carefully. Add garlic just after the oil is hot but not smoking. Stir frequently and remove from heat if it starts browning too fast."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to cook all zucchini at once in a small skillet traps steam and prevents browning.",
+            "fix": "Use a larger pan or cook in batches. Spread zucchini in a single layer to allow moisture to evaporate and develop those desirable golden edges."
+        },
+        {
+            "mistake": "Using overly large zucchini",
+            "why_it_happens": "Large zucchini have more water and tougher seeds, leading to mushy texture and bland flavor.",
+            "fix": "Choose medium or small zucchini. If using large ones, peel and remove seeds before slicing to improve texture."
+        },
+        {
+            "mistake": "Adding salt too early",
+            "why_it_happens": "Salt draws out moisture from zucchini, causing it to become watery during cooking.",
+            "fix": "Season toward the end of cooking to help zucchini retain its texture and avoid excess liquid in the pan."
+        },
+        {
+            "mistake": "Not stirring enough",
+            "why_it_happens": "Leaving zucchini untouched for too long can cause uneven cooking or burning.",
+            "fix": "Stir occasionally to brown zucchini evenly but allow enough time between stirs for caramelization."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Zucchini with Cherry Tomatoes and Basil",
+            "description": "Add halved cherry tomatoes and fresh basil leaves in the last few minutes of cooking for a bright, summery twist. The tomatoes soften and release juices, creating a light sauce that complements the zucchini perfectly.",
+            "technical_note": "Add tomatoes at step 3 and cook just until softened to avoid breaking down too much."
+        },
+        {
+            "name": "Spicy Zucchini with Red Pepper Flakes",
+            "description": "Sprinkle in red pepper flakes along with garlic for a spicy kick. This variation adds warmth without overpowering the zucchini’s natural flavor, perfect if you like a bit of heat.",
+            "technical_note": "Add red pepper flakes with the garlic to infuse the oil evenly."
+        },
+        {
+            "name": "Zucchini with Parmesan and Pine Nuts",
+            "description": "Finish the dish by tossing in toasted pine nuts and grated Parmesan cheese. This adds a nutty crunch and savory depth, turning the side into something a bit more decadent.",
+            "technical_note": "Add cheese and nuts just before serving to keep textures distinct."
+        },
+        {
+            "name": "Asian-Inspired Zucchini Stir-Fry",
+            "description": "Use sesame oil instead of olive oil, add minced ginger with garlic, and finish with a splash of soy sauce. This twist gives zucchini a savory, umami flavor perfect as a side to rice or noodles.",
+            "technical_note": "Cook ginger and garlic first, then add zucchini and soy sauce near the end."
+        },
+        {
+            "name": "Zucchini and Mushroom Medley",
+            "description": "Add sliced mushrooms to the pan with the zucchini for an earthy flavor combination. Mushrooms release moisture, so cook them first to evaporate excess water before adding zucchini.",
+            "technical_note": "Sauté mushrooms separately or first to brown and reduce moisture before combining with zucchini."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "90 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "7g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This sautéed zucchini can safely sit at room temperature for up to 2 hours when covered. Leaving it uncovered may cause it to dry out or attract contaminants, so it’s best to cover it loosely with foil or a clean kitchen towel.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The zucchini may release some moisture and become softer when cold. Reheat gently to restore texture or enjoy chilled as a salad topping or side.",
+        "freezer": "Freezing is not recommended as zucchini’s high water content causes it to become mushy and watery after thawing. If you must freeze, store in a freezer-safe container for up to 1 month and thaw slowly in the fridge.",
+        "reheating": "Reheat in a skillet over medium-low heat with a splash of olive oil to prevent drying out. Microwave reheating is possible but may cause uneven texture. Avoid overheating to keep zucchini tender and flavorful.",
+        "make_ahead_strategy": "You can slice the zucchini and mince garlic 1 day ahead and store them separately in the fridge. The sautéing step is best done just before serving to maintain freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Frozen zucchini tends to be watery once thawed, which can make sautéing tricky and result in a soggy dish. If you use frozen, be sure to thaw and drain it thoroughly, then cook it over higher heat to evaporate excess moisture."
+        },
+        {
+            "question": "What can I substitute for fresh thyme?",
+            "answer": "If you don’t have fresh thyme, dried thyme works but use about half the amount as it’s more concentrated. Alternatively, fresh oregano or rosemary can provide a similar earthy flavor, though the taste will vary slightly."
+        },
+        {
+            "question": "How do I prevent zucchini from becoming mushy?",
+            "answer": "Avoid overcrowding the pan and cook over medium heat to allow caramelization. Also, slice zucchini evenly and avoid adding salt too early, which draws out moisture and softens the vegetable prematurely."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! This recipe is naturally vegan as it uses olive oil and fresh herbs. Just skip any optional cheese toppings or replace with a vegan alternative."
+        },
+        {
+            "question": "How long does this zucchini dish keep in the fridge?",
+            "answer": "Stored in an airtight container, it keeps well for up to 3 days. The texture softens over time, so reheat gently or enjoy cold in salads."
+        },
+        {
+            "question": "Can I add other vegetables to this sauté?",
+            "answer": "Definitely! Bell peppers, mushrooms, or cherry tomatoes work great. Add firmer veggies earlier in cooking and softer ones toward the end to ensure even doneness."
+        },
+        {
+            "question": "What’s the best oil to use for sautéing zucchini?",
+            "answer": "Extra virgin olive oil is ideal for flavor and moderate heat. You can also use avocado or grapeseed oil if you prefer a higher smoke point, but olive oil’s flavor complements zucchini best."
+        },
+        {
+            "question": "Is it better to peel zucchini for this recipe?",
+            "answer": "I usually leave the skin on for extra color, texture, and nutrients. Just wash thoroughly. If you prefer a softer texture, peeling is fine but not necessary."
+        }
+    ],
+    "conclusion": "I hope you give this simple sautéed zucchini a try soon—it’s one of those easy, tasty dishes that feels like a little celebration of fresh veggies. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "easy sautéed zucchini recipe",
+        "secondary_keywords": [
+            "garlic zucchini side dish",
+            "how to make sautéed zucchini",
+            "best sautéed zucchini recipe",
+            "quick zucchini recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to perfectly sauté vegetables",
+                "anchor": "perfect-vegetable-saute"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick Garlic Zucchini Recipe You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick Garlic Zucchini Recipe You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Light & Fresh Zucchini Side Dish for Busy Nights"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make Perfect Sautéed Zucchini Every Time"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick Garlic Zucchini Recipe You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images/easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Easy Zucchini with Garlic and Herbs for Weeknight Dinners"
+        }
+    ],
+    "id": "post_1783293375_134",
+    "slug": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites",
+    "isOnline": true,
+    "createdAt": "2026-07-06T00:35:08+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-06T00:35:08+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-zucchini-recipes-that-turn-simple-veggies-into-family-favorites/images",
+    "has_reel": true
+}
