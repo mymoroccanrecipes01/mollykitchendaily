@@ -1,0 +1,356 @@
+{
+    "title": "Classic Homemade Chocolate Chip Cookies That Melt in Your Mouth",
+    "promptIMG": "Food photography: Classic Homemade Chocolate Chip Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate chip cookies are my go-to when I want a quick sweet fix. Crispy edges with a chewy center, thanks to a little brown sugar magic. Perfect for sharing with friends or a cozy treat any time!",
+    "hashtags": "#chocolatechipcookies #homemadedessert #bakinglove",
+    "board_name": "Classic Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Chocolate Chip Cookies You’ll Crave Every Day",
+            "description": "These cookies have the perfect crisp-chewy combo that’s impossible to resist. Save this recipe and bake a batch today for an instant mood booster! 🍪❤️ #chocolatechipcookies #bakingfun #homemade",
+            "hashtags": "#chocolatechipcookies #bakingfun #homemade #dessertlover"
+        },
+        {
+            "title": "Easy Chocolate Chip Cookies With a Secret Ingredient Twist!",
+            "description": "Discover my little trick that makes these cookies extra soft and flavorful. Try them now and see why everyone’s obsessed! Don’t forget to save this recipe for later! 🍫✨ #cookiehack #easybaking #desserttime",
+            "hashtags": "#cookiehack #easybaking #desserttime #sweettooth"
+        },
+        {
+            "title": "How to Make Classic Chocolate Chip Cookies That Actually Taste Homemade",
+            "description": "Baking these cookies feels like a warm hug from grandma. Follow my simple steps and enjoy the rich, buttery flavor in every bite. Perfect for any occasion! Save it for your next baking spree! 🍪👩‍🍳 #homemadecookies #classicdessert #bakingjoy",
+            "hashtags": "#homemadecookies #classicdessert #bakingjoy #familyfavorites"
+        },
+        {
+            "title": "Soft and Chewy Chocolate Chip Cookies for Every Sweet Tooth",
+            "description": "Want cookies that stay soft days later? This recipe nails it every time. Grab your mixing bowl and try it today — your family will thank you! Don’t forget to save for later! 🍪💕 #chewycookies #homemadebaking #sweettooth",
+            "hashtags": "#chewycookies #homemadebaking #sweettooth #cookierecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 large eggs",
+        "2 cups semisweet chocolate chips"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I still remember the first time I baked chocolate chip cookies from scratch — the smell that filled the kitchen was unforgettable! Over the years, I’ve tweaked the recipe to get that perfect balance of crispy edges and a chewy, soft center. What makes this version stand out? I use a mix of brown and granulated sugar, which keeps the cookies moist and adds a subtle caramel flavor. Plus, chilling the dough for at least 30 minutes before baking helps prevent spreading and intensifies the flavor. I’ve learned that rushing this step leads to flat cookies, so patience really pays off here. The finished cookies are golden brown with melty chocolate pockets that make each bite a delight. Whether it’s a quick after-school snack or a cozy weekend treat with coffee, these cookies have become a family favorite I love sharing with friends. I think you’ll find this recipe pretty straightforward, but the little details — like the dough chill and sugar combo — are what make the difference. Give it a try and let me know if it becomes your go-to cookie too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 375°F (190°C). Then, in a medium bowl, whisk together the sifted flour, baking soda, and salt. This ensures your leavening agent is evenly distributed and prevents clumps, which helps your cookies rise properly and have a consistent texture. Be sure to sift to aerate the flour, making the dough lighter and smoother.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, beat the softened butter with both sugars until the mixture is creamy and fluffy—this usually takes about 3-4 minutes with an electric mixer. This step is crucial because it incorporates air into the butter, helping to create that tender, light texture in your cookies. Don’t rush it; you want the sugar to dissolve slightly for the best texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is pale and fluffy with no visible sugar granules"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the vanilla extract and eggs one at a time to the butter-sugar mixture, beating well after each addition. This gradual incorporation helps the eggs emulsify properly, giving your dough structure and richness. If you add eggs too quickly, the mixture can curdle, which affects the texture of your cookies.",
+            "timing": "3 minutes",
+            "doneness_cue": "Smooth, glossy batter with no streaks of egg"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly add the dry ingredients to the wet mixture, mixing on low speed or folding by hand just until combined. Overmixing can develop gluten, making cookies tough rather than tender. Stop as soon as you don’t see streaks of flour.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough holds together, no visible flour streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough. Distribute them well so every cookie gets that melty chocolate goodness. Using a spatula rather than a mixer prevents breaking the chips and keeps the dough texture intact.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips evenly dispersed in the dough"
+        },
+        {
+            "step": 6,
+            "instruction": "Cover the dough and chill it in the fridge for at least 30 minutes, ideally up to 2 hours. Chilling solidifies the butter, which prevents the cookies from spreading too much in the oven, resulting in thicker, chewier cookies. It also allows the flavors to meld and intensify.",
+            "timing": "30-120 minutes",
+            "doneness_cue": "Dough is firm to the touch and cool"
+        },
+        {
+            "step": 7,
+            "instruction": "Line baking sheets with parchment paper or silicone mats to prevent sticking and promote even baking. Using parchment helps with easy cleanup and prevents bottoms from burning or sticking to the pan.",
+            "timing": "5 minutes",
+            "doneness_cue": "Baking sheets are fully lined and ready for dough"
+        },
+        {
+            "step": 8,
+            "instruction": "Scoop dough using a tablespoon or cookie scoop onto the prepared sheets, spacing them about 2 inches apart. This spacing prevents the cookies from merging as they spread. Be consistent with scoop size for even baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Evenly spaced dough balls of uniform size on sheets"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in the preheated oven for 10-12 minutes, rotating the pans halfway through for even browning. Watch for edges to turn golden while centers still look slightly soft—this ensures chewy centers. Overbaking will dry out the cookies.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Golden edges with soft, slightly underbaked centers"
+        },
+        {
+            "step": 10,
+            "instruction": "Remove cookies from oven and let them cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting time lets the cookies set up so they don’t break apart. Cooling on a rack helps prevent sogginess.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are firm enough to handle but still warm"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cookie Recipe Delivers Perfect Results Every Time",
+        "content": "<p>Creating the perfect chocolate chip cookie is all about balancing texture and flavor, and this recipe nails it through a few key techniques. The combination of brown and granulated sugar is essential—brown sugar contains molasses, which adds moisture and a rich caramel note, while granulated sugar helps the cookies crisp up around the edges. This dual sugar approach creates that classic chewy yet crisp contrast.</p><p>Another important factor is chilling the dough. Cold dough slows down the melting of butter during baking, preventing the cookies from spreading too thin. This results in thicker cookies with a tender crumb. Additionally, chilling allows the flour to fully hydrate and the flavors to meld, deepening the overall taste.</p><p>The creaming step of butter and sugars is more than just mixing; it incorporates air into the dough, which lightens the texture and helps the cookies rise just enough without becoming cakey. Overmixing after adding flour can develop gluten, making cookies tough, so mixing just until combined is critical.</p><p>Finally, baking just until the edges are golden and the centers still look slightly underbaked is key. Cookies continue to cook from residual heat once out of the oven, so this technique ensures a soft interior. These combined techniques create cookies with a perfect balance of flavor, texture, and appearance.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour for balanced protein content, which helps cookies hold their shape while staying tender. Sifting flour aerates it and removes lumps, ensuring even mixing and a lighter texture.",
+            "unsalted butter": "Use unsalted butter softened at room temperature to control salt levels and achieve a creamy dough. Butter’s fat content contributes to flavor, moisture, and helps create crisp edges through Maillard reactions during baking.",
+            "brown sugar": "Light or dark brown sugar adds moisture and a subtle molasses flavor that keeps cookies chewy. Packing the sugar ensures accurate measurement, which affects texture significantly.",
+            "granulated sugar": "Regular granulated sugar helps cookies spread and crisp up. It also balances the moisture from brown sugar, preventing cookies from becoming overly soft or cakey.",
+            "baking soda": "Baking soda acts as a leavening agent, reacting with acidic components like brown sugar to produce carbon dioxide bubbles. This lightens the dough and promotes spread, contributing to the cookie’s texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your cookie dough before baking.",
+            "reason": "Chilling solidifies the butter, which slows spreading and promotes thicker cookies. It also allows flour to hydrate fully, improving texture and flavor. Skipping this step often results in flat, greasy cookies."
+        },
+        {
+            "tip": "Use room temperature eggs for better emulsification.",
+            "reason": "Room temperature eggs blend more evenly with butter and sugar, creating a smooth, homogenous dough. Cold eggs can cause the mixture to curdle, affecting the cookie’s texture and rise."
+        },
+        {
+            "tip": "Don’t overmix after adding flour.",
+            "reason": "Overmixing develops gluten, making cookies tough and dense. Mixing just until combined keeps cookies tender and soft, which is the hallmark of a great chocolate chip cookie."
+        },
+        {
+            "tip": "Use parchment paper or silicone baking mats.",
+            "reason": "These liners prevent sticking and promote even baking by insulating the cookie bottoms. Without them, cookies can burn or stick to pans, ruining their texture and appearance."
+        },
+        {
+            "tip": "Rotate baking sheets halfway through baking.",
+            "reason": "Ovens often have hot spots; rotating ensures even browning and prevents some cookies from burning while others remain undercooked."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform size.",
+            "reason": "Uniform cookie sizes bake evenly, so you avoid some being overdone while others are undercooked. It also makes portioning easier and presentation consistent."
+        },
+        {
+            "tip": "Remove cookies from the oven when edges are golden but centers look soft.",
+            "reason": "Cookies continue cooking from residual heat after removal. Taking them out too late results in dry, hard cookies, while this timing ensures a chewy, soft center."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the dough chilling step",
+            "why_it_happens": "Many want to speed up baking and overlook chilling, assuming dough can go straight to the oven. It seems like an unnecessary wait when you’re eager to bake.",
+            "fix": "Plan ahead and chill dough for at least 30 minutes. The cold dough prevents excessive spreading and intensifies flavor. If you’re short on time, pop the dough in the freezer for 15-20 minutes as a quick fix."
+        },
+        {
+            "mistake": "Overmixing the dough after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but overmixing can develop gluten, making cookies tough.",
+            "fix": "Mix just until you can’t see flour anymore. Use a spatula to fold gently instead of beating vigorously."
+        },
+        {
+            "mistake": "Using melted butter instead of softened butter",
+            "why_it_happens": "Some think melted butter is easier to mix or makes moister cookies but it changes the dough’s structure.",
+            "fix": "Use softened (not melted) butter to cream with sugars, which traps air and creates a lighter dough and better cookie texture."
+        },
+        {
+            "mistake": "Baking at too high or inconsistent oven temperature",
+            "why_it_happens": "Ovens can vary, and some cooks guess the temperature or don’t preheat properly.",
+            "fix": "Always preheat your oven fully to 375°F (190°C) and consider using an oven thermometer to check accuracy for consistent results."
+        },
+        {
+            "mistake": "Scoop sizes vary widely",
+            "why_it_happens": "Not using a cookie scoop leads to uneven cookie sizes, which bake unevenly.",
+            "fix": "Use a standard cookie scoop or tablespoon measure so cookies are uniform and bake evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Oatmeal Chocolate Chip Cookies",
+            "description": "Swap half the flour for rolled oats for a hearty texture and nutty flavor. This adds chewiness and a bit more fiber, making the cookies feel more wholesome. You might want to slightly reduce baking time since oats brown faster.",
+            "technical_note": "Oats add chew and absorb moisture differently, so watch baking closely to avoid burning."
+        },
+        {
+            "name": "Peanut Butter Chocolate Chip Cookies",
+            "description": "Add 1/2 cup creamy peanut butter to the butter and sugar mixture for rich flavor and a soft, fudgy texture. These cookies have a lovely nutty twist that pairs perfectly with chocolate chips.",
+            "technical_note": "Peanut butter adds fat and moisture, so reduce butter slightly to keep dough consistency balanced."
+        },
+        {
+            "name": "Vegan Chocolate Chip Cookies",
+            "description": "Replace butter with coconut oil and eggs with flax eggs (1 tbsp ground flax + 3 tbsp water per egg). These cookies still have great chew and flavor but are dairy- and egg-free, perfect for plant-based diets.",
+            "technical_note": "Flax eggs add moisture but less structure; chilling dough longer helps maintain shape."
+        },
+        {
+            "name": "Double Chocolate Chip Cookies",
+            "description": "Add 1/4 cup unsweetened cocoa powder to the flour mixture and use white chocolate chips instead of semisweet for a rich, chocolaty twist. These are decadent and perfect for chocolate lovers who want extra indulgence.",
+            "technical_note": "Cocoa changes dough color and density; watch baking times to avoid dryness."
+        },
+        {
+            "name": "Salted Caramel Chocolate Chip Cookies",
+            "description": "Fold in small caramel bits and sprinkle flaky sea salt on top before baking. The salty-sweet combo elevates these cookies to a gourmet level and adds a delightful surprise with every bite.",
+            "technical_note": "Caramel bits can melt and spread; spacing dough balls well prevents sticking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "8g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days to maintain softness. Avoid direct sunlight or heat sources which can dry them out.",
+        "refrigerator": "Cookies can be stored in an airtight container in the fridge for up to 1 week. They may firm up but can be warmed slightly before serving to regain softness.",
+        "freezer": "Freeze cookies in a sealed bag or container for up to 3 months. Separate layers with parchment paper to prevent sticking. Thaw at room temperature or warm briefly in the oven.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes to refresh softness. Avoid microwaving too long as it can make them tough or rubbery. A splash of milk alongside is a classic pairing!",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it chilled. This actually improves flavor. Scoop out dough balls and freeze them individually; bake straight from frozen adding a couple extra minutes to baking time."
+    },
+    "faq": [
+        {
+            "question": "Can I use margarine instead of butter?",
+            "answer": "Butter provides flavor and texture that margarine can’t fully replicate due to differences in fat content and water. Using margarine may result in flatter, less flavorful cookies. If you must substitute, choose a high-quality margarine with at least 80% fat and expect some textural changes."
+        },
+        {
+            "question": "Why did my cookies spread too much?",
+            "answer": "This usually happens if the dough isn’t chilled, the butter is too warm, or the flour measurement is off. Always chill dough before baking and measure flour correctly by spooning into the cup and leveling off. Warmer dough melts quickly in the oven causing excess spreading."
+        },
+        {
+            "question": "Can I mix different types of chocolate chips?",
+            "answer": "Absolutely! Mixing semisweet, milk, white, or even dark chocolate chips can add complexity to your cookies. Just keep the total amount about the same. Different chocolates melt differently, so watch baking times to avoid burning."
+        },
+        {
+            "question": "What if I don’t have brown sugar?",
+            "answer": "You can substitute with granulated sugar plus a tablespoon of molasses per cup to mimic brown sugar’s moisture and flavor. The texture might be slightly different, but it works well in a pinch."
+        },
+        {
+            "question": "How do I make my cookies chewier?",
+            "answer": "Use more brown sugar than granulated sugar and avoid overbaking. Also, adding an extra egg yolk can increase chewiness. Chilling dough helps too, as it controls spread and moisture retention."
+        },
+        {
+            "question": "Can I make the dough ahead and freeze it?",
+            "answer": "Yes! Freezing dough balls is a great way to have fresh cookies anytime. Just freeze on a tray, then transfer to a bag. Bake from frozen, adding a few extra minutes to the bake time."
+        },
+        {
+            "question": "Why are my cookies cakey instead of chewy?",
+            "answer": "Too much flour or overmixing can cause cakey cookies. Measure flour carefully and mix just until combined. Also, baking too long dries out cookies making them more cake-like."
+        },
+        {
+            "question": "Can I add nuts to this recipe?",
+            "answer": "Definitely! Chopped walnuts or pecans add great texture and flavor. Stir them in with the chocolate chips, about 1 cup total. Toasting nuts beforehand boosts their flavor even more."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these classic chocolate chip cookies as much as I do. Don’t forget to tell me how yours turn out—I’d love to hear!",
+    "seo": {
+        "primary_keyword": "classic chocolate chip cookies",
+        "secondary_keywords": [
+            "easy chocolate chip cookies",
+            "best homemade cookies",
+            "how to make chocolate chip cookies",
+            "chewy chocolate chip cookies",
+            "simple cookie recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to chill cookie dough properly",
+                "anchor": "chilling-cookie-dough"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "The Ultimate Chocolate Chip Cookies You’ll Crave Every Day"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Easy Chocolate Chip Cookies With a Secret Ingredient Twist!"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Soft and Chewy Chocolate Chip Cookies for Every Sweet Tooth"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "The Ultimate Chocolate Chip Cookies You’ll Crave Every Day"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "The Ultimate Chocolate Chip Cookies You’ll Crave Every Day"
+        },
+        {
+            "fileName": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images/easy-homemade-desserts-recipes-for-every-sweet-tooth-craving_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "How to Make Classic Chocolate Chip Cookies That Actually Taste Homemade"
+        }
+    ],
+    "id": "post_1783379744_120",
+    "slug": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving",
+    "isOnline": true,
+    "createdAt": "2026-07-07T00:29:18+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-07T00:29:18+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-homemade-desserts-recipes-for-every-sweet-tooth-craving/images",
+    "has_reel": true
+}
