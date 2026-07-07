@@ -1,0 +1,353 @@
+{
+    "title": "Quick and Colorful Veggie Stir Fry That’s Perfect for Weeknights",
+    "promptIMG": "Food photography: Veggie Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This veggie stir fry is a vibrant, crunchy mix of fresh vegetables tossed in a simple, tasty sauce. I love how it stays crisp and colorful, making it ideal for a quick dinner or light lunch.",
+    "hashtags": "#veggiestirfry #quickdinner #healthyrecipes",
+    "board_name": "Easy Vegetarian Meals",
+    "pin_variations": [
+        {
+            "title": "Easy Veggie Stir Fry for Busy Weeknights",
+            "description": "Looking for a quick, healthy dinner? This veggie stir fry is packed with fresh crunch and flavor. Save this recipe and whip it up in just 30 minutes! 🥦🥕🍽️ #quickmeals #vegetarian #stirfry"
+        },
+        {
+            "title": "Colorful Veggie Stir Fry That’s Ready in 30 Minutes",
+            "description": "Brighten your dinner table with this colorful veggie stir fry. It’s fast, fresh, and perfect for a light lunch or dinner. Try it today and enjoy all the crisp veggies! 🌈🍲👌 #healthyfood #weeknightdinner #veggies"
+        },
+        {
+            "title": "Fresh and Crunchy Vegetable Stir Fry Recipe",
+            "description": "This fresh vegetable stir fry keeps all the veggies crisp and vibrant. Quick to make and full of flavor—discover how easy healthy cooking can be! Save it for your next meal. 🥒🌶️🥢 #vegetarianrecipes #easyveggies #healthydinner"
+        },
+        {
+            "title": "Simple and Flavorful Veggie Stir Fry You’ll Love",
+            "description": "Enjoy a simple, flavorful veggie stir fry that’s bursting with color and crunch. Perfect for busy days when you want something healthy fast. Give it a try and let me know what you think! 🥬🔥🍴 #quickrecipes #veganmeals #stirfry"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil, divided",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 red bell pepper, thinly sliced",
+        "1 yellow bell pepper, thinly sliced",
+        "1 medium carrot, julienned",
+        "1 cup broccoli florets",
+        "1 cup snap peas",
+        "1 cup sliced mushrooms",
+        "3 green onions, chopped",
+        "3 tablespoons soy sauce",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon sesame oil",
+        "1 teaspoon honey or maple syrup",
+        "Salt and pepper to taste",
+        "Sesame seeds for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tossed together this veggie stir fry on a hectic weeknight when I needed something fast and healthy. I wanted a dish that kept the fresh crunch of the veggies instead of turning mushy, and after a couple of tries, I nailed it! What makes this version stand out is the simple sauce I use — it’s tangy yet lightly sweet, which really lifts the natural flavors of the vegetables without overpowering them. Plus, I always add the veggies in stages to keep their texture intact. My family loves how colorful and fresh it looks on the plate, and it’s a great way to get everyone eating more greens without complaints. This stir fry comes together in under 30 minutes, making it my go-to for busy evenings or when I want a light, satisfying meal. You’ll notice the garlic and ginger aroma filling your kitchen as it cooks, which is always a good sign. Trust me, once you try this, it’ll become a staple in your rotation too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Once hot, add the minced garlic and grated ginger. Sauté for about 30 seconds until fragrant but not browned; this step infuses the oil with those wonderful aromatics that form the base of your stir fry’s flavor. Be careful not to burn the garlic as it can turn bitter, so keep it moving in the pan.",
+            "timing": "2 minutes",
+            "doneness_cue": "Aromatic smell and garlic just turning golden"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced bell peppers and carrot to the pan. Stir-fry for about 3-4 minutes, tossing frequently. These vegetables take a bit longer to soften, so giving them a head start ensures everything finishes cooking evenly. You want them tender-crisp, not mushy, so watch the timing closely.",
+            "timing": "4 minutes",
+            "doneness_cue": "Vegetables slightly softened but still bright and firm"
+        },
+        {
+            "step": 3,
+            "instruction": "Add broccoli florets and snap peas to the pan. Stir everything together and cook for another 3 minutes. These veggies cook quickly and retain a nice crunch when not overcooked. Adding them now helps keep the overall texture balanced across all veggies.",
+            "timing": "3 minutes",
+            "doneness_cue": "Broccoli turns bright green and snap peas remain crisp"
+        },
+        {
+            "step": 4,
+            "instruction": "Incorporate the sliced mushrooms and chopped green onions next. Mushrooms release moisture and soften fast, so adding them later prevents the stir fry from becoming watery. Stir-fry for about 3 minutes until mushrooms shrink and soften.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mushrooms softened and slightly browned"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix together soy sauce, rice vinegar, sesame oil, and honey or maple syrup in a small bowl. This simple sauce brings a perfect balance of salty, tangy, and sweet flavors that coat the veggies beautifully. Whisk well to combine all ingredients so the sauce is smooth.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smooth, emulsified sauce"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the sauce over the vegetables in the pan. Toss everything quickly but gently to coat the veggies evenly without bruising them. Stir-fry for an additional 2 minutes to let the sauce thicken slightly and cling to the vegetables. This step seals in the flavor and adds a glossy finish.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickened and vegetables glistening"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the stir fry and season with salt and pepper as needed. Remember that soy sauce adds saltiness, so adjust carefully. If you want a little extra punch, a pinch of crushed red pepper flakes works well here.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced savory and sweet flavor"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pan from heat and sprinkle sesame seeds over the stir fry if using. The seeds add a subtle nutty crunch and a nice visual touch. Give one last gentle toss to distribute them evenly.",
+            "timing": "1 minute",
+            "doneness_cue": "Evenly distributed sesame seeds"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately over steamed rice or noodles for a complete meal. The stir fry is best enjoyed fresh to keep the veggies crisp and vibrant. If you let it sit too long, the vegetables will soften and lose their bright texture.",
+            "timing": "Serve right away",
+            "doneness_cue": "Hot, colorful, and crisp vegetables on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind a Perfect Veggie Stir Fry",
+        "content": "<p>One of the key reasons this veggie stir fry works so well is the timing of adding vegetables. Different veggies have varying densities and water content, so adding them in stages ensures each cooks perfectly without turning mushy. For example, bell peppers and carrots are firmer and need more time, while mushrooms and green onions cook faster and are added later to preserve their texture.</p><p>The simple sauce combines soy sauce, rice vinegar, sesame oil, and a touch of sweetness to create a balanced flavor profile. Soy sauce provides saltiness and umami, rice vinegar adds acidity to brighten the dish, sesame oil gives a nutty aroma, and honey rounds it out with subtle sweetness. This combination enhances the natural flavors of the vegetables without overpowering them.</p><p>Using high heat for stir-frying is essential to achieving that signature slightly charred, caramelized exterior on the vegetables, thanks to the Maillard reaction. This reaction creates complex flavors and appealing textures. However, it’s important to keep the veggies moving in the pan to avoid burning or steaming, which would soften them too much.</p><p>Finally, the quick cooking time preserves the nutrients and vibrant colors of the vegetables. Overcooking not only dulls the appearance but also causes nutrient loss. This recipe strikes the right balance between cooking enough to develop flavor and keeping the fresh crunch that makes stir fry so satisfying.</p>",
+        "ingredient_notes": {
+            "vegetable oil": "Choose a neutral oil with a high smoke point like vegetable or canola oil for stir-frying. These oils tolerate the high heat required without burning and impart no strong flavors, allowing the vegetables and sauce to shine. Avoid olive oil here as it smokes at lower temperatures.",
+            "soy sauce": "Use naturally brewed soy sauce for a richer, more complex umami flavor. Light soy sauce is preferred as it’s saltier and less thick than dark soy sauce, which can overpower the dish. Look for low-sodium versions if you want to control salt content.",
+            "rice vinegar": "Rice vinegar adds gentle acidity that brightens the dish without harshness. It’s milder than other vinegars and complements Asian flavors beautifully. Avoid seasoned rice vinegar with added sugar or salt for better control over the recipe’s taste.",
+            "sesame oil": "Sesame oil is used as a finishing oil here for its distinct nutty aroma and flavor. Use toasted sesame oil sparingly; a little goes a long way. Adding it too early can cause it to burn and turn bitter, so it’s best stirred in near the end.",
+            "fresh ginger": "Fresh ginger root adds a spicy, warm note that’s essential for authentic stir fry flavor. Use fresh rather than powdered for brightness and zing. Peel before grating to avoid fibrous bits, and add it early in the cooking to infuse the oil."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Prep all your vegetables before you start cooking.",
+            "reason": "Stir frying happens fast, so having everything chopped and ready prevents overcooking or burning. This mise en place approach keeps the cooking smooth and the textures perfect."
+        },
+        {
+            "tip": "Don’t overcrowd the pan.",
+            "reason": "Crowding traps steam and causes the vegetables to steam rather than fry, resulting in soggy texture. Cook in batches if necessary to maintain high heat and crisp veggies."
+        },
+        {
+            "tip": "Use a wok or large skillet with good heat retention.",
+            "reason": "A wok’s shape allows for even heat distribution and quick tossing, which encourages caramelization and prevents burning. A heavy skillet can also work well if a wok isn’t available."
+        },
+        {
+            "tip": "Add sauce gradually and toss gently.",
+            "reason": "Adding sauce all at once can cause the veggies to get soggy. Tossing gently ensures an even coating without bruising or breaking them apart."
+        },
+        {
+            "tip": "Use fresh garlic and ginger for best flavor.",
+            "reason": "Fresh aromatics release essential oils that create the dish’s signature fragrance and taste. Pre-minced or powdered versions lack the same intensity and freshness."
+        },
+        {
+            "tip": "Serve immediately after cooking.",
+            "reason": "Stir fry is best enjoyed fresh. Waiting too long makes the veggies lose their crunch and can cause the sauce to thicken or separate."
+        },
+        {
+            "tip": "Toast sesame seeds before garnishing.",
+            "reason": "Toasting enhances their nutty flavor and adds a subtle crunch. Raw seeds can taste bland and lack aroma."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the vegetables",
+            "why_it_happens": "Cooks often leave the veggies in the pan too long, thinking more cooking equals better flavor or safety. This results in mushy, dull-colored vegetables.",
+            "fix": "Add vegetables in stages based on their cooking times and stir-fry over high heat just until tender-crisp. Keep the veggies moving in the pan to avoid steaming or burning."
+        },
+        {
+            "mistake": "Using too much sauce",
+            "why_it_happens": "Some believe a saucier stir fry is more flavorful, but excess liquid dilutes texture and can make the dish soggy.",
+            "fix": "Measure sauce ingredients carefully and add gradually, tossing to coat without drowning the vegetables."
+        },
+        {
+            "mistake": "Not prepping ingredients ahead",
+            "why_it_happens": "Jumping into cooking without chopping everything slows the process, leading to uneven cooking or burning.",
+            "fix": "Prepare all vegetables and sauce ingredients before heating the pan to maintain a smooth workflow."
+        },
+        {
+            "mistake": "Using low heat",
+            "why_it_happens": "Low heat causes steaming rather than frying, losing the characteristic crisp texture and caramelization.",
+            "fix": "Use medium-high to high heat and a suitable pan to get that signature stir fry sear and crunch."
+        },
+        {
+            "mistake": "Burning garlic or ginger",
+            "why_it_happens": "Adding garlic or ginger too early or overheating the oil causes bitterness.",
+            "fix": "Sauté aromatics briefly at the start over medium heat and watch carefully to prevent burning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Veggie Stir Fry",
+            "description": "Add chili paste or flakes and a splash of Szechuan peppercorn oil to give the stir fry a bold, spicy kick. This variation adds heat and numbing spice, perfect for those who like a little fire in their meals.",
+            "technical_note": "Add chili paste with the sauce and adjust spice level to taste. Be careful not to overpower the fresh vegetable flavors."
+        },
+        {
+            "name": "Tofu and Veggie Stir Fry",
+            "description": "Toss in cubed, firm tofu for added protein. Press the tofu well before cooking to avoid sogginess, then pan-fry separately until golden before mixing with veggies and sauce.",
+            "technical_note": "Cook tofu first in a separate pan to get a crispy exterior, then combine with vegetables for even coating."
+        },
+        {
+            "name": "Noodle Stir Fry with Veggies",
+            "description": "Add cooked rice noodles or egg noodles at the end, tossing everything together for a hearty meal. This makes the dish more filling and perfect for dinner.",
+            "technical_note": "Cook noodles al dente, rinse under cold water to stop cooking, and add in the last step to warm through without overcooking."
+        },
+        {
+            "name": "Peanut Sauce Veggie Stir Fry",
+            "description": "Swap the soy-based sauce for a creamy peanut sauce made with peanut butter, soy sauce, lime juice, and a touch of honey. It adds richness and a nutty depth to the dish.",
+            "technical_note": "Thin the peanut sauce with warm water or broth so it coats veggies smoothly without clumping."
+        },
+        {
+            "name": "Miso Glazed Vegetable Stir Fry",
+            "description": "Incorporate white miso paste into the sauce for an umami boost and slightly sweet flavor. This twist adds an interesting depth and complexity to the classic stir fry.",
+            "technical_note": "Dissolve miso paste in a bit of warm water before adding to the sauce to ensure even distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "10g",
+        "fiber_grams": "4g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The stir fry can be safely kept at room temperature for up to 2 hours if covered. Beyond that, bacteria can grow, so it’s best to refrigerate promptly.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The vegetables may soften as they cool, so reheat gently to restore some texture. It can also be enjoyed cold as a salad.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 1 month. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce and prevent drying. Avoid microwaving too long as it can make veggies mushy.",
+        "make_ahead_strategy": "Chop all vegetables and prepare the sauce up to 2 days ahead, storing separately in the fridge. When ready to cook, stir-fry veggies quickly and toss with sauce for fresh flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables for this stir fry?",
+            "answer": "You can, but frozen veggies release more water and may become soggy. It's best to thaw and drain them well, then cook on higher heat to evaporate excess moisture. Fresh vegetables give the best texture and flavor."
+        },
+        {
+            "question": "What can I substitute for soy sauce if I’m gluten-free?",
+            "answer": "Tamari is a great gluten-free alternative with a similar flavor profile. Coconut aminos also work if you want a slightly sweeter, less salty option. Adjust quantities as tamari can be saltier."
+        },
+        {
+            "question": "How do I keep the vegetables from getting mushy?",
+            "answer": "Cook veggies over high heat in batches if needed, and add them in order of cooking time. Avoid overcrowding the pan to prevent steaming, which softens them too much."
+        },
+        {
+            "question": "Can I make the sauce ahead of time?",
+            "answer": "Yes! The sauce can be mixed and stored in the fridge for up to 3 days. Give it a quick stir before using, as some ingredients may settle or thicken."
+        },
+        {
+            "question": "Is it okay to add meat or tofu to this recipe?",
+            "answer": "Absolutely. Cook meat or tofu separately first to ensure proper browning, then add to the stir fry at the end to combine flavors without overcooking."
+        },
+        {
+            "question": "What’s the best way to chop vegetables for stir fry?",
+            "answer": "Aim for uniform, bite-sized pieces so they cook evenly. Thin slices or julienned cuts work well for quick cooking and appealing texture."
+        },
+        {
+            "question": "Can I add nuts or seeds for extra crunch?",
+            "answer": "Yes! Toasted sesame seeds are classic, but chopped peanuts or cashews also add great texture and flavor. Add them at the end to keep them crunchy."
+        },
+        {
+            "question": "How do I make this stir fry spicier?",
+            "answer": "Add chili flakes, fresh chopped chilies, or a spoonful of chili garlic sauce when adding the sauce. Start with a small amount and adjust to your heat preference."
+        }
+    ],
+    "conclusion": "Give this vibrant veggie stir fry a try—you’ll love how fresh and quick it is. Don’t forget to share your results; I’m excited to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "quick vegetable stir fry",
+        "secondary_keywords": [
+            "easy veggie stir fry",
+            "healthy vegetable stir fry",
+            "how to make vegetable stir fry",
+            "best veggie stir fry recipe",
+            "quick vegetable stir fry recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade stir fry sauce",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Easy Veggie Stir Fry for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Easy Veggie Stir Fry for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Easy Veggie Stir Fry for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Colorful Veggie Stir Fry That’s Ready in 30 Minutes"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple and Flavorful Veggie Stir Fry You’ll Love"
+        },
+        {
+            "fileName": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images/easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Fresh and Crunchy Vegetable Stir Fry Recipe"
+        }
+    ],
+    "id": "post_1783466009_473",
+    "slug": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-07-08T00:31:15+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-08T00:31:15+01:00",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "easy-veg-stir-fry-recipe-with-fresh-veggies-and-simple-sauce-for-weeknights/images",
+    "has_reel": true
+}

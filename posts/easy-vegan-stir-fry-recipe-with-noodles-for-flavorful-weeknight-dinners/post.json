@@ -1,0 +1,352 @@
+{
+    "title": "Quick and Flavorful Vegan Stir Fry with Noodles for Busy Nights",
+    "promptIMG": "Food photography: Vegan Stir Fry with Noodles, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vegan stir fry is my ultimate weeknight lifesaver—loaded with crisp veggies and a savory sauce that hits all the right notes. It’s quick, satisfying, and perfect when you want something healthy without the hassle.",
+    "hashtags": "#veganstirfry #quickdinner #plantbased",
+    "board_name": "Easy Vegan Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Easy Vegan Stir Fry Noodle Bowl Tonight!",
+            "description": "Looking for a quick vegan meal packed with flavor? Try this vibrant stir fry with noodles that's ready in under 30 minutes. Save this recipe and enjoy a healthy dinner tonight! 🥢🌱 #veganrecipes #easymeals #stirfry"
+        },
+        {
+            "title": "Delicious Vegan Noodle Stir Fry That’s Ready Fast and Tasty",
+            "description": "This stir fry is loaded with fresh veggies and a savory sauce that makes dinner a breeze. Perfect for busy evenings when you want something nutritious and delicious. Try it today! 🍜✨ #plantbased #weeknightdinner #veganfood"
+        },
+        {
+            "title": "Healthy Vegan Stir Fry with Noodles Everyone Will Love",
+            "description": "Fresh, quick, and packed with flavor—this vegan noodle stir fry is a winner for any night. Discover how easy it is to make this wholesome meal and save it for later! 🥦🍅 #veganmeal #quickrecipes #healthyfood"
+        },
+        {
+            "title": "Your New Favorite Vegan Stir Fry Noodle Recipe Awaits!",
+            "description": "Ready in 30 minutes, this vegan stir fry with noodles is perfect when you want tasty and simple. Packed with veggies and umami sauce, it’s a must-try. Save this recipe now! 🌿🍜 #easyvegan #stirfryrecipe #plantpowered"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "8 ounces rice noodles, dry",
+        "2 tablespoons vegetable oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 red bell pepper, thinly sliced",
+        "1 cup broccoli florets",
+        "1 cup snap peas",
+        "2 medium carrots, julienned",
+        "3 green onions, sliced",
+        "1/4 cup soy sauce or tamari",
+        "2 tablespoons maple syrup",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon toasted sesame oil",
+        "Optional: chili flakes or sriracha for heat",
+        "Sesame seeds for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled on this vegan stir fry recipe during a hectic week when I desperately needed a quick, wholesome dinner. What I love about it is how effortlessly it comes together, yet it bursts with fresh flavors and satisfying textures. Unlike heavier takeout options, this stir fry feels light but still filling thanks to the colorful veggies and chewy noodles. I’ve tweaked the sauce over time to balance savory, sweet, and tangy notes perfectly — the maple syrup and rice vinegar combo is my secret weapon here. Also, tossing the noodles separately before combining ensures they don’t clump, which I learned after a few messy attempts. The final dish looks vibrant and smells amazing — it’s a real crowd-pleaser even when I’m short on time. Plus, it’s easy to customize with whatever veggies you have on hand. I usually make a big batch and have leftovers for lunch the next day, which is a win in my book. If you want a fuss-free vegan dinner that doesn’t skimp on flavor, this recipe is for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by soaking or cooking the rice noodles according to the package instructions, usually by soaking in hot water for about 8-10 minutes until tender but still a bit firm. This step is crucial because overcooked noodles become mushy and lose their texture. After draining, toss them with a little oil to prevent sticking. Taking your time here ensures each bite has that perfect chewy bite that balances the veggies in the stir fry.",
+            "timing": 10,
+            "doneness_cue": "Noodles should be pliable with a slight bite, not mushy or brittle"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat the vegetable oil in a large skillet or wok over medium-high heat until shimmering but not smoking. Add the minced garlic and grated ginger, stirring quickly for about 30 seconds until fragrant. This step flavors the oil and builds the base of your sauce. Be careful not to burn the garlic as it can turn bitter; keep it moving in the pan for even cooking.",
+            "timing": 1,
+            "doneness_cue": "Aromatic and lightly golden garlic and ginger, no burnt bits"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sliced red bell pepper, broccoli florets, snap peas, and julienned carrots to the pan. Stir-fry the vegetables for 4-5 minutes until they are tender-crisp. This technique keeps them bright and crunchy, preserving nutrients and texture. Avoid overcrowding the pan as that can cause steaming instead of stir-frying, which makes veggies soggy.",
+            "timing": 5,
+            "doneness_cue": "Veggies are vibrant in color and slightly softened but still crisp"
+        },
+        {
+            "step": 4,
+            "instruction": "Mix together the soy sauce, maple syrup, rice vinegar, and toasted sesame oil in a small bowl. Pour this sauce over the veggies in the skillet, stirring to coat everything evenly. The balance of salty, sweet, and tangy flavors will elevate the dish. Let it cook for another 2 minutes so the sauce thickens slightly and clings to the vegetables.",
+            "timing": 2,
+            "doneness_cue": "Sauce is glossy, slightly thickened, and evenly coats the veggies"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the drained noodles and sliced green onions to the skillet. Toss everything gently but thoroughly to combine. Warming the noodles in the sauce lets them soak up flavor without getting mushy. This final toss brings the whole dish together and ensures every bite is balanced.",
+            "timing": 2,
+            "doneness_cue": "Noodles are heated through, coated with sauce, and mixed with veggies"
+        },
+        {
+            "step": 6,
+            "instruction": "If you like a bit of heat, sprinkle chili flakes or drizzle sriracha over the stir fry now and toss again. This adds a nice kick that complements the sweet and savory sauce. Adjust to taste, but start small to avoid overpowering the other flavors.",
+            "timing": 1,
+            "doneness_cue": "Even distribution of spice with no clumps or overly hot spots"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the stir fry from heat and transfer to serving bowls. Garnish with toasted sesame seeds for a nutty crunch and extra visual appeal. This finishing touch adds texture contrast that makes the dish feel a bit more special and complete.",
+            "timing": 1,
+            "doneness_cue": "Dish looks colorful, garnished evenly, and ready to serve"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately while warm, ideally with chopsticks or a fork, and enjoy the medley of fresh vegetables, chewy noodles, and that perfectly balanced sauce. This dish pairs well with a simple cucumber salad or steamed edamame for a full meal.",
+            "timing": 0,
+            "doneness_cue": "Dish is hot and fresh, with vibrant colors and inviting aroma"
+        },
+        {
+            "step": 9,
+            "instruction": "To store leftovers, cool the stir fry completely before placing in an airtight container. Reheat gently in a skillet or microwave with a splash of water to revive the sauce and noodles without drying out. This keeps the flavors intact and the texture pleasant for next-day meals.",
+            "timing": 0,
+            "doneness_cue": "Leftovers reheat evenly without becoming mushy or dry"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Stir Fry Formula Succeeds",
+        "content": "<p>The success of this vegan stir fry hinges on balancing texture and flavor while keeping the dish quick and simple. The rice noodles provide a tender yet chewy base that soaks up the savory sauce without becoming mushy, thanks to careful timing during soaking and cooking. Stir-frying the vegetables over high heat ensures they stay crisp and vibrant, preserving their natural sweetness and nutrients. This technique prevents sogginess and keeps the dish visually appealing.</p><p>The sauce is a harmonious blend of salty soy, sweet maple syrup, tangy rice vinegar, and aromatic toasted sesame oil. This combination creates layers of flavor that elevate the humble veggies and noodles, making the dish satisfying and complex. The slight thickening of the sauce during cooking helps it cling to every ingredient, enhancing each bite.</p><p>Garlic and ginger are quickly cooked at the start to infuse the oil with their fragrant, spicy notes without burning, which would impart bitterness. This foundational step builds depth and aroma. The final garnish of sesame seeds adds a pleasant crunch and nutty flavor, rounding out the texture profile. Altogether, these elements work in harmony to deliver a quick, nutritious, and delicious vegan meal that’s perfect for busy nights.</p>",
+        "ingredient_notes": {
+            "rice noodles": "Choose thin to medium-width rice noodles for this stir fry. They cook quickly and have a pleasant chewiness that holds up well against the sauce and veggies. Avoid thick noodles that can become heavy or gummy. Soaking them just until tender but still firm helps maintain texture and prevents clumping.",
+            "vegetable oil": "Use a neutral oil like vegetable or canola oil with a high smoke point to achieve a proper stir-fry sear without burning. Oils with low smoke points can impart off-flavors or burn quickly, spoiling the dish's taste. The oil also helps distribute the garlic and ginger flavors evenly.",
+            "soy sauce": "Opt for low-sodium soy sauce or tamari to control saltiness. Soy sauce provides umami depth and saltiness essential for balancing the sweetness of maple syrup and acidity of rice vinegar. Using tamari makes the dish gluten-free and slightly richer in flavor.",
+            "maple syrup": "Pure maple syrup adds natural sweetness and a subtle caramel note that balances the savory and tangy elements. It’s a healthier alternative to refined sugar and complements the earthy flavors of the stir fry. Adjust the amount to your preferred sweetness level.",
+            "toasted sesame oil": "A little toasted sesame oil goes a long way for adding nutty aroma and depth. Add it near the end or in the sauce mix to preserve its delicate flavor. Using plain sesame oil or adding it too early can cause it to lose its fragrance or become bitter."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Soak rice noodles in hot water instead of boiling to prevent overcooking.",
+            "reason": "Soaking noodles gently softens them without breaking down their structure, keeping the texture chewy and pleasant. Boiling can quickly turn them mushy, which ruins the dish’s mouthfeel."
+        },
+        {
+            "tip": "Cook veggies in batches if your pan is small to avoid steaming.",
+            "reason": "Overcrowding the pan releases moisture, causing vegetables to steam rather than stir-fry. This results in soggy veggies with muted flavors. Cooking in smaller batches ensures high heat contact and crisp texture."
+        },
+        {
+            "tip": "Toss noodles with a bit of oil after draining to prevent sticking.",
+            "reason": "Rice noodles are sticky by nature and can clump together quickly. A light coating of oil separates them, making it easier to mix with the sauce and veggies without lumps."
+        },
+        {
+            "tip": "Add garlic and ginger to hot oil and stir constantly to avoid burning.",
+            "reason": "Garlic and ginger burn fast and develop bitterness when left unattended. Stirring keeps them moving, releasing their flavor into the oil evenly without charring."
+        },
+        {
+            "tip": "Use fresh veggies for the best texture and flavor contrast.",
+            "reason": "Fresh vegetables retain their natural sweetness and crunch, which balances the soft noodles. Frozen or wilted veggies can add unwanted moisture or dullness to the dish."
+        },
+        {
+            "tip": "Let the sauce simmer briefly to thicken and intensify flavors.",
+            "reason": "Simmering reduces excess liquid and allows the flavors to meld, creating a glossy coating that clings to the noodles and veggies, enhancing each bite."
+        },
+        {
+            "tip": "Garnish with toasted sesame seeds just before serving for crunch.",
+            "reason": "Adding sesame seeds at the end preserves their crunch and nutty aroma, elevating the dish’s texture and visual appeal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the noodles until mushy",
+            "why_it_happens": "Many cooks boil noodles too long or soak them in water that’s too hot, thinking it speeds up cooking. This breaks down their texture quickly.",
+            "fix": "Follow package instructions carefully and soak noodles in hot (not boiling) water just until tender with a slight bite. Drain and toss with oil immediately to stop cooking."
+        },
+        {
+            "mistake": "Crowding the pan with too many vegetables at once",
+            "why_it_happens": "Trying to cook everything at once to save time can cause the veggies to steam instead of stir-fry.",
+            "fix": "Use a large pan or wok and cook veggies in smaller batches over high heat to maintain crispness and vibrant color."
+        },
+        {
+            "mistake": "Burning garlic and ginger at the start",
+            "why_it_happens": "Garlic and ginger cook very fast and burn if left without stirring or cooked on too high heat.",
+            "fix": "Add them to hot oil and stir constantly for just 30 seconds until fragrant; remove from heat if they start to brown too much."
+        },
+        {
+            "mistake": "Skipping the splash of vinegar in the sauce",
+            "why_it_happens": "Some think the vinegar is optional and omit it, missing out on the bright balance it provides.",
+            "fix": "Include rice vinegar to add acidity that cuts through sweetness and saltiness, creating a more balanced and complex flavor."
+        },
+        {
+            "mistake": "Not tossing noodles with oil after draining",
+            "why_it_happens": "Noodles stick together naturally, and forgetting this step results in clumps that are hard to mix with sauce and veggies.",
+            "fix": "Toss noodles with a little oil right after draining to keep strands separate for easier mixing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Peanut Noodle Stir Fry",
+            "description": "Add a tablespoon of peanut butter and some chili garlic sauce to the sauce mix for a creamy, spicy twist. Top with crushed peanuts for extra crunch. This gives the dish a richer, nutty flavor that pairs beautifully with the veggies.",
+            "technical_note": "Peanut butter thickens the sauce, so add a splash of water or broth to loosen it if needed."
+        },
+        {
+            "name": "Tofu-Powered Vegan Stir Fry",
+            "description": "Incorporate cubed, pan-fried tofu for added protein and texture. Press tofu beforehand to remove moisture, then crisp it in the pan before adding the veggies. This makes the meal more filling and adds a satisfying bite.",
+            "technical_note": "Cook tofu separately to get a crispy crust before mixing with the sauced veggies."
+        },
+        {
+            "name": "Gluten-Free Veggie Noodle Stir Fry",
+            "description": "Use tamari or coconut aminos instead of soy sauce to keep it gluten-free. Swap rice noodles for zucchini noodles for a low-carb option. This variation is fresh and light but still packs great flavor.",
+            "technical_note": "Zucchini noodles cook very quickly; add them last and toss just until warmed."
+        },
+        {
+            "name": "Mushroom and Baby Corn Stir Fry",
+            "description": "Add sliced mushrooms and baby corn for an earthy, sweet crunch. These veggies complement the sauce nicely and add more variety to the textures. Great for when you want a heartier stir fry.",
+            "technical_note": "Sauté mushrooms first to release moisture, then add other veggies to avoid sogginess."
+        },
+        {
+            "name": "Sesame Ginger Stir Fry with Cashews",
+            "description": "Include toasted cashews and extra fresh ginger slices for a crunchy, zesty upgrade. Cashews bring richness and a satisfying bite, while more ginger amps up the aromatic punch.",
+            "technical_note": "Add cashews at the end to keep them crunchy and ginger early for flavor infusion."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "10g",
+        "carbohydrates_grams": "65g",
+        "fat_grams": "8g",
+        "fiber_grams": "7g",
+        "sodium_mg": "850mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the stir fry at room temperature no longer than 2 hours to avoid bacterial growth. Cover with a clean cloth or lid if leaving out briefly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors meld nicely but the noodles may absorb more sauce and soften. Reheat gently to avoid drying out.",
+        "freezer": "Freeze the stir fry for up to 1 month in a freezer-safe container. To prevent freezer burn, press plastic wrap directly on the surface before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a skillet over medium heat with a splash of water or broth to loosen the sauce and prevent sticking. Microwave on medium power in short intervals works too, stirring in between.",
+        "make_ahead_strategy": "You can prep and chop all veggies 1-2 days ahead and store them separately. Cook and soak noodles fresh to maintain texture, then assemble and stir-fry on the day you want to eat."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of noodles instead of rice noodles?",
+            "answer": "Yes! While rice noodles are traditional and cook quickly, you can substitute with soba, udon, or even spaghetti. Just adjust cooking times accordingly to avoid overcooking and ensure the noodles stay firm enough to hold the sauce."
+        },
+        {
+            "question": "How can I make this stir fry spicier?",
+            "answer": "Add chili flakes, sriracha, or a dash of hot sauce either during cooking or as a topping. Start with a small amount and taste as you go to avoid overpowering the dish. Fresh chopped chilies also work well if you want a fresher heat."
+        },
+        {
+            "question": "Can I prepare this recipe completely ahead of time?",
+            "answer": "You can chop veggies and mix the sauce ahead, but it's best to cook the stir fry fresh to preserve textures. Noodles tend to clump and veggies can get soggy if cooked too early. Storing components separately helps maintain quality."
+        },
+        {
+            "question": "What can I use if I don't have maple syrup?",
+            "answer": "You can substitute maple syrup with agave nectar, brown sugar, or even a little honey if not strictly vegan. Each will add sweetness but adjust quantities to taste since sweetness intensity varies."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "It can be! Use gluten-free tamari instead of soy sauce and confirm your noodles are gluten-free rice noodles. Always check labels to avoid hidden gluten, especially in sauces or pre-packaged noodles."
+        },
+        {
+            "question": "How do I keep the vegetables crisp and not soggy?",
+            "answer": "Cook veggies quickly over high heat without overcrowding the pan. Stir-fry in batches if necessary. This technique sears the veggies, locking in moisture and texture instead of steaming them."
+        },
+        {
+            "question": "Can I add protein to this vegan stir fry?",
+            "answer": "Absolutely! Tofu, tempeh, or edamame beans make great plant-based protein additions. Press and pan-fry tofu cubes separately to get a crispy texture before mixing into the stir fry."
+        },
+        {
+            "question": "Why does my stir fry sauce sometimes taste bitter?",
+            "answer": "Burnt garlic or ginger is often the culprit. Make sure to stir constantly when cooking these aromatics and keep heat moderate. Also, avoid overcooking the sauce or using old soy sauce, which can develop off-flavors."
+        }
+    ],
+    "conclusion": "Give this vibrant vegan stir fry a try and enjoy a quick, tasty dinner that feels homemade and fresh. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "vegan stir fry noodles",
+        "secondary_keywords": [
+            "easy vegan stir fry",
+            "quick vegan dinner",
+            "how to make vegan stir fry noodles",
+            "best vegan stir fry recipe",
+            "healthy vegan stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "simple peanut sauce recipe",
+                "anchor": "simple-peanut-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Whip Up This Easy Vegan Stir Fry Noodle Bowl Tonight!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Delicious Vegan Noodle Stir Fry That’s Ready Fast and Tasty"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Healthy Vegan Stir Fry with Noodles Everyone Will Love"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Whip Up This Easy Vegan Stir Fry Noodle Bowl Tonight!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Your New Favorite Vegan Stir Fry Noodle Recipe Awaits!"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images/easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Whip Up This Easy Vegan Stir Fry Noodle Bowl Tonight!"
+        }
+    ],
+    "id": "post_1783465634_373",
+    "slug": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-08T00:31:15+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-08T00:31:15+01:00",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-vegan-stir-fry-recipe-with-noodles-for-flavorful-weeknight-dinners/images",
+    "has_reel": true
+}

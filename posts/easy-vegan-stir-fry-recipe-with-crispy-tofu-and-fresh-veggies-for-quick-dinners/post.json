@@ -1,0 +1,352 @@
+{
+    "title": "Colorful Vegan Stir Fry with Crispy Tofu and Fresh Veggies",
+    "promptIMG": "Food photography: Colorful Vegan Stir Fry with Crispy Tofu and Fresh Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant vegan stir fry combines crisp tofu and fresh vegetables with a simple homemade sauce that really ties it all together. It’s quick to make and perfect for a healthy weeknight meal when you want something satisfying but light.",
+    "hashtags": "#veganstirfry #tofu #quickdinner #healthyrecipes",
+    "board_name": "Easy Vegan Dinner Ideas",
+    "pin_variations": [
+        {
+            "title": "Quick & Tasty Vegan Stir Fry with Crispy Tofu",
+            "description": "Looking for a speedy vegan dinner? This stir fry is loaded with fresh veggies and crispy tofu, all tossed in a flavorful sauce. Save this recipe for your next weeknight meal! 🥦🍽️ #veganrecipes #stirfry #quickmeals"
+        },
+        {
+            "title": "How to Make Crispy Tofu Stir Fry in 30 Minutes",
+            "description": "Discover the secret to perfectly crisp tofu and colorful veggies in this easy stir fry. Ready in just 30 minutes, it’s a crowd-pleaser! Try it today and enjoy a healthy dinner. 🌱🔥 #tofu #veganmeal #weeknightdinner"
+        },
+        {
+            "title": "Vegan Stir Fry That’s Both Healthy and Delicious",
+            "description": "This vegan stir fry is packed with nutrients and flavor thanks to fresh veggies and a homemade sauce. Perfect for a quick, wholesome dinner. Discover now and add it to your favorites! 🥕✨ #healthyvegan #plantbased #stirfryrecipes"
+        },
+        {
+            "title": "Easy Homemade Vegan Stir Fry with Crispy Tofu",
+            "description": "Whip up this easy vegan stir fry that balances crisp tofu and fresh vegetables in a savory sauce. It’s a great way to eat clean without sacrificing flavor. Save it for your next meal prep! 🍽️🌿 #vegandinner #tofurecipes #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "14 oz firm tofu, pressed and cubed",
+        "2 tbsp vegetable oil, divided",
+        "1 red bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, julienned",
+        "1 cup snap peas",
+        "3 cloves garlic, minced",
+        "1 tbsp fresh ginger, grated",
+        "3 tbsp soy sauce or tamari",
+        "1 tbsp maple syrup",
+        "1 tbsp rice vinegar",
+        "1 tsp toasted sesame oil",
+        "1 tsp cornstarch mixed with 2 tbsp water",
+        "2 green onions, sliced",
+        "Sesame seeds for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this vegan stir fry during a hectic week when I needed something quick, healthy, and filling. The beauty of this dish is how the tofu gets perfectly crispy without frying it in a ton of oil, and the veggies stay vibrant and fresh. What sets this recipe apart from others is the homemade sauce that’s balanced with a touch of sweetness from maple syrup and a zing from fresh ginger and rice vinegar. The cornstarch slurry thickens the sauce just right, coating every bite without being too heavy. I love that it comes together in about 30 minutes, making it my go-to when I need a fuss-free dinner that doesn’t skimp on flavor or texture. Plus, it’s colorful and just feels good to eat — like a little bowl of sunshine after a long day. I’ve tried this recipe a few times now, and the trick I learned is to press the tofu really well to get that crunch, and to add the sauce at the right moment so it doesn’t get watery. The finished dish has a nice balance of crispness, tangy-sweet sauce, and fresh veggies that still have a bit of snap. You’ll want to make this again and again!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pressing the tofu for at least 20 minutes to remove excess moisture. This is key to getting the tofu crispy when cooked. After pressing, cut the tofu into even cubes about 1-inch in size. A uniform cut helps the tofu cook evenly. If the tofu is too wet, it will steam instead of crisp up, so don’t skip this step!",
+            "timing": "20 minutes (pressing), 5 minutes (cutting)",
+            "doneness_cue": "Tofu feels firm and dry to the touch before cooking"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large non-stick skillet over medium-high heat. Add the tofu cubes in a single layer and cook without moving them for about 4-5 minutes until the bottoms are golden brown and crispy. Then flip and crisp the other sides. Avoid overcrowding the pan to ensure even browning.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tofu cubes are golden brown and have a crispy crust on all sides"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the tofu from the pan and set aside. In the same skillet, add the remaining oil and toss in garlic and ginger. Sauté for about 30 seconds until fragrant but not burnt. This step infuses the oil with flavor that will coat the veggies beautifully.",
+            "timing": "1 minute",
+            "doneness_cue": "Aromatic garlic and ginger scent fills the kitchen"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the broccoli, bell pepper, carrot, and snap peas to the skillet. Stir-fry the vegetables over medium-high heat for 5-7 minutes, stirring frequently so they cook evenly but still retain their crunch. Don’t overcook here; you want bright colors and crisp textures.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Veggies are vibrant and just tender-crisp when pierced with a fork"
+        },
+        {
+            "step": 5,
+            "instruction": "While veggies cook, whisk together soy sauce, maple syrup, rice vinegar, sesame oil, and cornstarch slurry in a small bowl. This sauce is the magic — the cornstarch thickens it so it clings to tofu and veggies without being watery.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is smooth and slightly viscous before adding to the pan"
+        },
+        {
+            "step": 6,
+            "instruction": "Return the tofu to the skillet with the veggies, then pour the sauce over everything. Stir well to coat all ingredients evenly. Cook for another 2-3 minutes until the sauce thickens and becomes glossy. This step brings everything together and intensifies the flavors.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce has thickened and coats tofu and vegetables with a shiny glaze"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the skillet from heat and sprinkle sliced green onions and sesame seeds on top. These add a fresh bite and a nice visual contrast. Serve immediately while warm with steamed rice or noodles for a complete meal.",
+            "timing": "2 minutes",
+            "doneness_cue": "Green onions look bright and sesame seeds are evenly distributed"
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: For extra heat, add a pinch of red pepper flakes or drizzle with chili oil before serving. This adds a subtle kick that complements the sweet and savory sauce beautifully.",
+            "timing": "1 minute",
+            "doneness_cue": "Spicy aroma mingles with the rest of the dish"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up by wiping down your cutting board and soaking the skillet promptly to avoid tofu residue sticking. Keeping your workspace tidy makes cooking more enjoyable and efficient next time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Skillet and tools are clean and ready for next use"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Crispy Tofu and Vibrant Veggies",
+        "content": "<p>Getting tofu crispy is all about moisture control and cooking temperature. Pressing removes water that would otherwise steam the tofu, preventing crispness. Cooking in a hot pan with enough oil allows the Maillard reaction to create that golden, flavorful crust. The timing and pan space are crucial—crowding the pan traps steam and makes tofu soggy.</p><p>The vegetables are stir-fried quickly over high heat to preserve their bright color and crisp texture. Stir-frying is a fast, intense cooking method that locks in nutrients and flavor while preventing sogginess. The quick sauté of garlic and ginger in oil infuses the dish with aromatic oils, enhancing overall depth.</p><p>The homemade sauce balances sweet, salty, and tangy notes, with cornstarch acting as a thickener. When heated, cornstarch molecules swell and create a glossy, clingy sauce that coats tofu and veggies without pooling. This emulsification step is key to delivering a cohesive flavor experience.</p><p>Finally, finishing with fresh green onions and sesame seeds adds texture and a fresh bite, creating a well-rounded dish that’s visually appealing and satisfying in every mouthful.</p>",
+        "ingredient_notes": {
+            "tofu": "Firm or extra-firm tofu is best for stir fry because it holds its shape and crisps up well. When buying, look for fresh tofu with minimal water content. Pressing tofu before cooking is essential to remove moisture that would otherwise steam it, preventing a crispy texture. If you can’t find firm tofu, freeze and thaw it to improve texture, then press thoroughly.",
+            "vegetable oil": "Choose a neutral oil with a high smoke point like vegetable, canola, or grapeseed oil. This allows you to cook at high temperatures without burning the oil, which could add off-flavors. Avoid olive oil for stir-frying since its lower smoke point can cause it to smoke and degrade.",
+            "soy sauce": "Use low-sodium soy sauce or tamari for a gluten-free option. Soy sauce adds umami and saltiness that balances the sweetness and acidity in the sauce. Fresh soy sauce tends to have a cleaner flavor, so avoid overly aged or artificial-tasting brands.",
+            "cornstarch": "Cornstarch is the perfect thickener here because it creates a glossy sheen without changing flavor. Mix it with cold water first to avoid clumps. Adding it at the end of cooking and simmering briefly activates its thickening properties. Avoid overcooking after adding or the sauce may thin out again.",
+            "fresh ginger": "Fresh ginger provides a bright, spicy note that lifts the entire dish. Use freshly grated ginger rather than powdered for the best flavor and aroma. Ginger’s oils infuse the cooking oil during sautéing, creating a fragrant base. Avoid substituting with dried ginger as it lacks the fresh zing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press tofu thoroughly before cooking.",
+            "reason": "Removing excess moisture from tofu is crucial to achieving a crispy texture. If tofu is too wet, it will steam rather than brown, resulting in a soggy texture. Pressing helps the tofu absorb the oil better and develop a golden crust."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying tofu.",
+            "reason": "Overcrowding traps steam, which prevents the tofu from crisping properly. Cooking tofu in batches if necessary allows each piece to brown evenly and develop a crunchy exterior."
+        },
+        {
+            "tip": "Use high heat for stir-frying veggies quickly.",
+            "reason": "High heat cooks vegetables fast, preserving their bright colors and crisp texture. Lower heat would cause them to release water and become soggy, losing that fresh bite."
+        },
+        {
+            "tip": "Add sauce at the end and cook until thickened.",
+            "reason": "Adding the cornstarch-thickened sauce at the end allows it to cling to tofu and veggies without becoming watery. Cooking just until thickened ensures a glossy finish and balanced flavor."
+        },
+        {
+            "tip": "Use fresh ginger and garlic for maximum aroma.",
+            "reason": "Fresh aromatics release essential oils when sautéed, creating a fragrant base that elevates the entire dish. Powdered substitutes lack this depth and can taste flat."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "Tofu and vegetables are at their crispiest and freshest right after cooking. Waiting too long causes the tofu to soften and the veggies to lose their crunch."
+        },
+        {
+            "tip": "Garnish with green onions and sesame seeds.",
+            "reason": "These add a fresh, crunchy contrast and a subtle nutty flavor, enhancing both texture and visual appeal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not pressing tofu enough before cooking.",
+            "why_it_happens": "Many cooks underestimate how much water tofu holds and skip pressing to save time.",
+            "fix": "Set aside at least 20 minutes to press tofu using a tofu press or heavy plates on paper towels. This step is essential for crispiness."
+        },
+        {
+            "mistake": "Overcrowding the pan when frying tofu.",
+            "why_it_happens": "Trying to cook everything at once to save time can cause steaming instead of frying.",
+            "fix": "Cook tofu in batches if needed, leaving space around cubes to allow even browning."
+        },
+        {
+            "mistake": "Overcooking vegetables until mushy.",
+            "why_it_happens": "Cooking veggies too long or at low heat can make them soggy and dull in color.",
+            "fix": "Use high heat and stir-fry quickly, aiming for tender-crisp texture and vibrant color."
+        },
+        {
+            "mistake": "Adding sauce too early or cooking it too long.",
+            "why_it_happens": "Some add sauce at the start, causing it to separate or thin out.",
+            "fix": "Add sauce near the end and cook just until it thickens and coats ingredients."
+        },
+        {
+            "mistake": "Skipping fresh aromatics like ginger and garlic.",
+            "why_it_happens": "Relying on powders or omitting aromatics for convenience.",
+            "fix": "Use fresh minced garlic and grated ginger sautéed briefly for best flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Style Stir Fry",
+            "description": "Add chili paste or dried red chilies to the garlic and ginger sauté for a spicy kick. Use Szechuan peppercorns for a unique numbing heat. Expect a bold, fiery flavor profile with the same crisp textures.",
+            "technical_note": "Adjust spice level carefully and add chili early in the cooking to infuse the oil."
+        },
+        {
+            "name": "Peanut Sauce Vegan Stir Fry",
+            "description": "Swap the soy sauce maple sauce for a creamy peanut sauce made with peanut butter, lime juice, and soy sauce. This variation is richer and adds a nutty depth that pairs well with the crunchy tofu and veggies.",
+            "technical_note": "Thin the peanut sauce with warm water to desired consistency before adding to the pan."
+        },
+        {
+            "name": "Gluten-Free Tamari Stir Fry",
+            "description": "Use tamari instead of soy sauce to make this dish gluten-free. The flavor is slightly milder but just as savory. Perfect for those avoiding gluten but still craving a flavorful stir fry.",
+            "technical_note": "Check all other ingredients for gluten content to keep the dish safe."
+        },
+        {
+            "name": "Tofu and Mushroom Stir Fry",
+            "description": "Add sliced shiitake or cremini mushrooms for an earthy flavor and meaty texture. Mushrooms absorb the sauce beautifully and add umami richness to the dish.",
+            "technical_note": "Sauté mushrooms first until browned before adding other vegetables to prevent excess moisture."
+        },
+        {
+            "name": "Low-Sodium Stir Fry",
+            "description": "Reduce soy sauce by half and add a splash of vegetable broth for flavor without extra salt. This is great for those watching sodium intake but still wanting a tasty meal.",
+            "technical_note": "Taste the sauce before adding to adjust seasoning as needed."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "18g",
+        "fiber_grams": "6g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can be kept at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The tofu may soften, and veggies lose some crunch, but reheating gently helps revive flavors. Serve warm or at room temperature.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap the container in foil or freezer bags. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce. Avoid microwaving for long periods as tofu texture can become rubbery. Heat until warmed through but not boiling.",
+        "make_ahead_strategy": "Press and cube tofu 1 day ahead and store in the fridge. Chop vegetables the day before and keep in sealed containers. Prepare the sauce in advance and combine everything just before cooking for fresh results."
+    },
+    "faq": [
+        {
+            "question": "Can I use silken tofu instead of firm tofu?",
+            "answer": "Silken tofu is too soft and fragile for stir-frying; it won't crisp up and will likely fall apart. Firm or extra-firm tofu is necessary to hold shape and develop a crispy texture."
+        },
+        {
+            "question": "What can I substitute for cornstarch?",
+            "answer": "Arrowroot powder or potato starch can be used as thickening agents instead of cornstarch. Use the same amount mixed with cold water to avoid lumps. Avoid flour as it will cloud the sauce and change texture."
+        },
+        {
+            "question": "How do I store leftovers to keep tofu crispy?",
+            "answer": "Tofu loses crispiness after refrigeration due to moisture. Store leftovers in an airtight container and reheat in a hot pan with a bit of oil to help regain some crunch."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Feel free to add mushrooms, zucchini, baby corn, or bok choy. Adjust cooking times as some veggies cook faster or slower. Keep stir-fry technique intact for best texture."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "It can be made gluten-free by using tamari instead of soy sauce. Also check that other ingredients like sauces and seasonings are gluten-free to avoid cross-contamination."
+        },
+        {
+            "question": "Why is my tofu soggy instead of crispy?",
+            "answer": "Usually due to insufficient pressing or overcrowding the pan. Make sure to press tofu well and cook in batches with enough space to allow moisture to evaporate and the tofu to brown."
+        },
+        {
+            "question": "Can I make this recipe oil-free?",
+            "answer": "You can try using a non-stick pan and cooking spray, but oil helps achieve crispiness and flavor. Without oil, tofu may stick and veggies might steam rather than sauté."
+        },
+        {
+            "question": "How spicy is this recipe?",
+            "answer": "This basic version isn’t spicy, but you can easily add chili flakes or hot sauce to taste if you like heat."
+        }
+    ],
+    "conclusion": "Give this colorful vegan stir fry a try — it’s quick, tasty, and healthy! I’d love to hear how it turns out for you, so don’t forget to share your photos and tips.",
+    "seo": {
+        "primary_keyword": "vegan tofu stir fry",
+        "secondary_keywords": [
+            "easy vegan stir fry",
+            "tofu stir fry recipe",
+            "healthy vegan dinner",
+            "quick tofu stir fry",
+            "best vegan stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "how to press tofu",
+                "anchor": "how-to-press-tofu"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Easy Homemade Vegan Stir Fry with Crispy Tofu"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make Crispy Tofu Stir Fry in 30 Minutes"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick & Tasty Vegan Stir Fry with Crispy Tofu"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick & Tasty Vegan Stir Fry with Crispy Tofu"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Vegan Stir Fry That’s Both Healthy and Delicious"
+        },
+        {
+            "fileName": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images/easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick & Tasty Vegan Stir Fry with Crispy Tofu"
+        }
+    ],
+    "id": "post_1783465362_688",
+    "slug": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-08T00:31:15+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-08T00:31:15+01:00",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-vegan-stir-fry-recipe-with-crispy-tofu-and-fresh-veggies-for-quick-dinners/images",
+    "has_reel": true
+}
