@@ -1,0 +1,349 @@
+{
+    "title": "Fresh and Easy No-Cook Bean Salad with Zesty Herb Dressing",
+    "promptIMG": "Food photography: No-Cook Bean Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-cook bean salad is my go-to when I want something fresh and protein-packed without heating up the kitchen. The zesty herb dressing brightens it up, making it perfect for quick lunches or light dinners.",
+    "hashtags": "#BeanSalad #NoCookRecipe #HealthyLunch",
+    "board_name": "Easy Bean Salad Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick No-Cook Bean Salad Ready in Minutes!",
+            "description": "Looking for a fast, fresh meal? This no-cook bean salad is bursting with flavor and protein. Perfect for busy days or light dinners 🍅🥗. Save this recipe and try it today! #BeanSalad #HealthyEating #QuickMeals"
+        },
+        {
+            "title": "Zesty Herb Bean Salad for Light Lunches and Dinners",
+            "description": "Brighten your meal with this vibrant bean salad tossed in a zesty herb dressing. It’s super easy and no cooking needed! 🥒🍋 Discover this fresh recipe now and enjoy healthy eating. #NoCookMeals #BeanSalad #FreshAndEasy"
+        },
+        {
+            "title": "Protein-Packed No-Cook Bean Salad You’ll Love",
+            "description": "This bean salad is a lifesaver for busy days—fresh, flavorful, and full of protein. Tossed with herbs and zingy dressing, it’s a perfect light meal 🥗✨. Try it and save for later! #HealthyLunch #BeanSalad #EasyRecipes"
+        },
+        {
+            "title": "Simple and Delicious No-Cook Bean Salad Recipe",
+            "description": "No cooking, no fuss! This bean salad is fresh, vibrant, and packed with flavor thanks to a zesty herb dressing 🍃🍅. Perfect for quick lunches or dinners. Save this recipe and give it a go! #NoCookRecipe #BeanSalad #HealthyMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 can (15 oz) black beans, rinsed and drained",
+        "1 can (15 oz) chickpeas, rinsed and drained",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup red bell pepper, diced",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup fresh parsley, chopped",
+        "2 tablespoons fresh cilantro, chopped",
+        "3 tablespoons olive oil",
+        "2 tablespoons fresh lemon juice",
+        "1 teaspoon honey or maple syrup",
+        "1 clove garlic, minced",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I stumbled upon this no-cook bean salad on one of those scorching summer days when I just didn't want to turn on the stove. Honestly, it's become a staple in my kitchen ever since. What I love about this recipe is how fresh and vibrant it tastes despite being so simple. The combination of black beans and chickpeas packs a punch of protein, while the lemony herb dressing adds a bright, zesty kick that wakes up every bite. I used to shy away from bean salads because they sometimes felt bland or mushy, but tossing the beans with fresh herbs and crisp veggies changed everything. The trick I learned is to rinse the canned beans well and let the salad rest for at least 10 minutes before serving so the flavors meld beautifully. The end result? A colorful, satisfying salad that's great for lunch, a light dinner, or even as a side at a barbecue. Plus, it’s ready in minutes, which is perfect for busy days when you want something healthy without much fuss. Honestly, this salad feels like a little burst of sunshine in a bowl, and I’m pretty sure you’ll love it just as much as I do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by thoroughly rinsing and draining the canned black beans and chickpeas. This removes excess sodium and any canning liquid that might dull the flavor or affect the salad's texture. Rinsing also helps prevent any metallic taste and ensures the beans are fresh and ready to absorb the dressing. Place them in a large mixing bowl to prepare for tossing. Avoid skipping this step, as it’s key to bright, clean flavors in the final salad.",
+            "timing": "5 minutes",
+            "doneness_cue": "Beans are thoroughly rinsed, shiny, and free of canning liquid."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the halved cherry tomatoes, diced red bell pepper, and finely chopped red onion to the bowl with the beans. These fresh vegetables add crunch and sweetness, balancing the creaminess of the beans. Chop everything evenly for consistent texture and flavor in every bite. Mixing the veggies in now allows their juices to mingle with the beans, which enhances the salad’s overall freshness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are evenly chopped and combined with beans, colors are vibrant."
+        },
+        {
+            "step": 3,
+            "instruction": "In a small bowl, whisk together the olive oil, fresh lemon juice, honey or maple syrup, and minced garlic. This simple dressing balances acidity, sweetness, and savory notes. The olive oil adds richness, while the lemon juice brightens the entire dish. Whisking well emulsifies the dressing, ensuring it coats every ingredient evenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dressing is smooth, glossy, and well combined."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the dressing over the bean and vegetable mixture, then gently toss everything together to coat evenly. Be careful not to mash the beans; use a light hand to maintain their shape and texture. Tossing allows the dressing to infuse the salad, marrying all the flavors beautifully. This step is where the salad really comes alive.",
+            "timing": "3 minutes",
+            "doneness_cue": "All ingredients are evenly coated with dressing, salad looks glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the chopped fresh parsley and cilantro to the salad, folding them in gently. These herbs add a fresh, aromatic layer that elevates the salad beyond just beans and veggies. Fresh herbs are delicate, so mix them in last to preserve their flavor and texture. If you don’t have cilantro, fresh basil or mint can be a nice alternative.",
+            "timing": "2 minutes",
+            "doneness_cue": "Herbs are evenly distributed and vibrant green."
+        },
+        {
+            "step": 6,
+            "instruction": "Season the salad with salt and freshly ground black pepper to taste. Salt enhances all the flavors, while pepper adds a subtle kick. Taste as you go to avoid oversalting, especially since canned beans can retain some sodium even after rinsing. Adjust seasoning gradually for the best balance.",
+            "timing": "2 minutes",
+            "doneness_cue": "Seasoning is balanced and enhances overall flavor without overpowering."
+        },
+        {
+            "step": 7,
+            "instruction": "Let the salad rest at room temperature for at least 10 minutes before serving. This resting time allows the beans and vegetables to soak up the dressing and the flavors to meld together. It also softens the sharpness of the raw onion slightly. If you’re short on time, even 5 minutes helps, but longer resting deepens the taste.",
+            "timing": "10 minutes",
+            "doneness_cue": "Salad tastes more balanced and cohesive, veggies slightly softened."
+        },
+        {
+            "step": 8,
+            "instruction": "Give the salad a final gentle toss before serving to redistribute any dressing that may have settled. This ensures each serving is flavorful and fresh. Serve chilled or at room temperature depending on your preference. It pairs wonderfully with grilled meats, as a light lunch, or a picnic side.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad looks fresh, evenly coated, and ready to enjoy."
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: Garnish with a sprinkle of crumbled feta or toasted nuts for extra texture and flavor. These add-ons bring a salty or crunchy contrast that complements the creamy beans and bright herbs. Adding them just before serving keeps their texture intact. Try walnuts, almonds, or pepitas for a nice crunch.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garnish is fresh and adds a contrasting texture to the salad."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Cook Bean Salad Shines",
+        "content": "<p>The magic behind this salad lies in balancing texture and flavor without any cooking. Canned beans are pre-cooked, so rinsing them removes excess sodium and preserves their creamy texture. The combination of black beans and chickpeas offers a satisfying protein and fiber boost, making the salad filling and nutritious. Fresh vegetables like cherry tomatoes and bell peppers add crispness and sweetness, which contrast nicely with the beans’ softness.</p><p>The zesty dressing is simple but crucial. Lemon juice provides acidity that brightens the dish and helps meld the flavors, while olive oil adds richness and smoothness. Honey or maple syrup balances the tartness, creating a well-rounded taste. Garlic introduces a mild savory note without overpowering the other ingredients.</p><p>Fresh herbs like parsley and cilantro contribute aromatic freshness and a burst of green color, making the salad visually appealing and more complex in flavor. Allowing the salad to rest before serving is a small but important step; it lets the dressing soak into the beans and veggies, softens the raw onion’s sharpness, and brings the flavors together harmoniously.</p><p>Finally, the gentle tossing technique preserves the beans’ shape and texture, preventing mushiness that can occur if mixed too roughly. This recipe’s success comes from respecting the ingredients’ natural qualities and letting simple, fresh components shine through.</p>",
+        "ingredient_notes": {
+            "black beans": "Look for canned black beans labeled low sodium or no salt added to control seasoning. Black beans add a creamy, slightly earthy flavor and a dense texture that holds well in salads. Rinsing them thoroughly is key to remove canning liquid and excess salt. You can substitute with cooked dried black beans if preferred, but canned saves time and works perfectly here.",
+            "chickpeas": "Canned chickpeas bring a mild, nutty flavor and a firm texture that contrasts nicely with black beans. Choose chickpeas that are plump and intact, avoiding any mushy or broken ones. Rinsing is essential to avoid a metallic or canned taste. Chickpeas are a great protein source and help make this salad more filling.",
+            "olive oil": "Use extra virgin olive oil for its fruity, peppery notes that complement the lemon and garlic in the dressing. The oil provides richness and helps carry the flavors throughout the salad. Avoid light or refined olive oils as they lack flavor. The oil also contributes to a smooth mouthfeel that balances the beans’ firmness.",
+            "lemon juice": "Freshly squeezed lemon juice is essential for bright acidity that lifts the entire dish. Bottled lemon juice lacks the fresh, vibrant notes and can taste harsh. The acidity not only enhances flavor but also helps soften the raw onion and meld the herbs into the salad. It’s the star ingredient in the dressing’s zing.",
+            "fresh herbs": "Parsley and cilantro bring fresh, green flavors and an aromatic lift that brightens the salad visually and on the palate. Use fresh herbs rather than dried for maximum flavor and texture. They add complexity and a garden-fresh note that makes this salad feel vibrant and alive."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always rinse canned beans well under cold water.",
+            "reason": "Rinsing removes excess sodium and the starchy canning liquid that can dull flavor or cause a metallic taste. It also improves the texture, making beans less mushy and more pleasant in salads. Skipping this step often results in a flat-tasting dish."
+        },
+        {
+            "tip": "Let the salad rest for at least 10 minutes before serving.",
+            "reason": "This resting period allows the dressing to soak into the beans and veggies, softening sharp flavors like raw onion and letting the herbs infuse their aroma. Without resting, the salad can taste disjointed or overly sharp."
+        },
+        {
+            "tip": "Use fresh lemon juice instead of bottled.",
+            "reason": "Fresh lemon juice has brighter, more complex acidity that balances the flavors better. Bottled lemon juice can be harsh or bitter, which might overpower the delicate herbs and beans."
+        },
+        {
+            "tip": "Chop vegetables evenly and not too small.",
+            "reason": "Evenly sized pieces ensure balanced texture and flavor in every bite. If veggies are too small, they can get lost or make the salad mushy; too large, and they overpower the beans."
+        },
+        {
+            "tip": "Gently toss the salad to avoid breaking beans.",
+            "reason": "Beans can be delicate and easily mash if mixed too roughly. A light hand preserves their shape and texture, keeping the salad visually appealing and texturally satisfying."
+        },
+        {
+            "tip": "Add herbs last to maintain their fresh flavor and color.",
+            "reason": "Fresh herbs are sensitive to bruising and heat. Adding them last preserves their bright color and aromatic quality, which is essential for the salad’s fresh taste."
+        },
+        {
+            "tip": "Adjust seasoning gradually and taste as you go.",
+            "reason": "Canned beans vary in salt content, so seasoning needs to be balanced carefully. Tasting as you go prevents over-salting and ensures the final salad is perfectly seasoned."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the bean rinsing step",
+            "why_it_happens": "Many assume canned beans are ready to eat straight from the can and don’t realize the canning liquid affects flavor and texture.",
+            "fix": "Always rinse beans thoroughly under cold water before use to remove excess sodium and canning liquid. This step brightens the flavor and improves texture significantly."
+        },
+        {
+            "mistake": "Mixing the salad too aggressively",
+            "why_it_happens": "In a hurry, cooks might toss the salad roughly, thinking it will blend flavors faster.",
+            "fix": "Use gentle folding motions to combine ingredients, preserving the beans’ shape and avoiding mushiness. This keeps the salad visually appealing and texturally balanced."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Convenience often leads to bottled juice being used, but it lacks brightness.",
+            "fix": "Squeeze fresh lemons for juice to get vibrant acidity that lifts the salad’s flavor. The difference is noticeable and worth the extra effort."
+        },
+        {
+            "mistake": "Not letting the salad rest before serving",
+            "why_it_happens": "Impatience or lack of planning leads to serving immediately, missing flavor melding.",
+            "fix": "Allow the salad to rest at room temperature for 10 minutes so the dressing infuses and flavors marry, resulting in a more harmonious taste."
+        },
+        {
+            "mistake": "Over-seasoning without tasting",
+            "why_it_happens": "Assuming canned beans are unsalted, cooks add too much salt upfront.",
+            "fix": "Season gradually and taste frequently, adjusting salt and pepper as needed to avoid an overly salty salad."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mediterranean Twist",
+            "description": "Add chopped cucumber, Kalamata olives, and crumbled feta cheese for a Mediterranean flair. Swap cilantro for fresh oregano and drizzle with a splash of red wine vinegar. Expect a tangier, briny salad with creamy cheese notes.",
+            "technical_note": "Include feta just before serving to maintain texture; olives add saltiness, so reduce added salt."
+        },
+        {
+            "name": "Spicy Southwest Bean Salad",
+            "description": "Mix in diced jalapeños, corn kernels, and chopped cilantro. Use lime juice instead of lemon and add a pinch of cumin and smoked paprika. This version has a smoky, spicy kick with sweet corn balances.",
+            "technical_note": "Adjust jalapeño quantity to control heat; cumin should be added sparingly to avoid bitterness."
+        },
+        {
+            "name": "Avocado and Lime Bean Salad",
+            "description": "Gently fold in diced ripe avocado and replace lemon juice with lime juice. Add chopped green onions and a sprinkle of chili flakes for creaminess and a mild heat. The avocado adds richness and smooth texture.",
+            "technical_note": "Add avocado last to avoid browning and toss gently to keep chunks intact."
+        },
+        {
+            "name": "Herbed Quinoa and Bean Salad",
+            "description": "Stir cooked and cooled quinoa into the bean salad for extra fiber and texture. Use a mix of parsley, mint, and dill for a fresh herb combo. This makes the salad more substantial and grain-filled.",
+            "technical_note": "Ensure quinoa is fully cooled to prevent wilting fresh herbs and veggies."
+        },
+        {
+            "name": "Asian-Inspired Bean Salad",
+            "description": "Swap lemon juice for rice vinegar and add grated ginger, chopped scallions, and a drizzle of sesame oil. Top with toasted sesame seeds for a nutty crunch. This version is bright, tangy, and has subtle umami notes.",
+            "technical_note": "Use toasted sesame oil sparingly as it has a strong flavor that can overpower the salad."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "14g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "10g",
+        "fiber_grams": "10g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This bean salad can safely sit at room temperature for up to 2 hours if covered. Beyond that, it’s best refrigerated to prevent spoilage. Cover tightly with plastic wrap or store in an airtight container to maintain freshness.",
+        "refrigerator": "Store leftover salad in an airtight container for up to 3 days. The flavors deepen over time, but the veggies may soften slightly. Serve chilled or bring to room temperature before eating for best taste.",
+        "freezer": "Freezing is not recommended as the fresh vegetables and herbs lose texture and become watery upon thawing. Beans may also become mushy. It’s best enjoyed fresh or refrigerated.",
+        "reheating": "Since this is a no-cook salad, reheating is unnecessary. If desired, bring to room temperature before serving. Avoid microwaving as it will wilt the fresh vegetables and herbs.",
+        "make_ahead_strategy": "You can prepare the beans, chop the vegetables, and make the dressing 1-2 days ahead. Store them separately and combine just before serving to keep the salad fresh and crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried beans instead of canned?",
+            "answer": "Absolutely! Just soak and cook dried beans until tender before using. This will take longer but can enhance flavor and texture. Make sure to cool the beans completely before mixing with other ingredients to keep the salad fresh."
+        },
+        {
+            "question": "How long can I store this salad in the fridge?",
+            "answer": "Stored in an airtight container, this salad keeps well for up to 3 days in the refrigerator. The flavors actually improve after a day, but the veggies may soften slightly over time."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Definitely! Cucumbers, corn, or avocado work beautifully here. Just add them fresh and adjust seasoning if needed. Avoid watery veggies that could make the salad soggy if stored too long."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Fresh herbs really brighten the salad, but if unavailable, you can use dried herbs sparingly. Use about one-third the amount of dried herbs and add them earlier so they rehydrate and release flavor."
+        },
+        {
+            "question": "How can I make this salad spicy?",
+            "answer": "Add diced jalapeños, a pinch of cayenne pepper, or a drizzle of hot sauce to the dressing. Start small and taste as you go to keep the heat balanced with the fresh flavors."
+        },
+        {
+            "question": "Is this salad suitable for meal prep?",
+            "answer": "Yes! Prepare all components in advance but mix the dressing and herbs in just before serving to keep the salad fresh and prevent sogginess. Store ingredients separately in airtight containers."
+        },
+        {
+            "question": "Can I substitute lemon juice with vinegar?",
+            "answer": "You can use mild vinegar like white wine or apple cider vinegar, but lemon juice offers a fresher, brighter acidity. Vinegar tends to have a sharper bite that may overpower the delicate flavors."
+        },
+        {
+            "question": "What’s the best way to prevent the onion from being too strong?",
+            "answer": "Soak chopped onion in cold water for 10 minutes before adding it to the salad. This mellows the sharpness and reduces pungency, making it more palatable."
+        }
+    ],
+    "conclusion": "I hope you enjoy this fresh, no-cook bean salad as much as I do! It’s simple, tasty, and perfect for any busy day. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "no cook bean salad",
+        "secondary_keywords": [
+            "easy bean salad",
+            "healthy no cook salad",
+            "how to make bean salad",
+            "best no cook bean salad recipe",
+            "quick bean salad"
+        ],
+        "internal_links": [
+            {
+                "text": "summer quinoa salad",
+                "anchor": "summer-quinoa-salad"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple and Delicious No-Cook Bean Salad Recipe"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Zesty Herb Bean Salad for Light Lunches and Dinners"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Protein-Packed No-Cook Bean Salad You’ll Love"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick No-Cook Bean Salad Ready in Minutes!"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick No-Cook Bean Salad Ready in Minutes!"
+        },
+        {
+            "fileName": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images/easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick No-Cook Bean Salad Ready in Minutes!"
+        }
+    ],
+    "id": "post_1783638544_994",
+    "slug": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals",
+    "isOnline": true,
+    "createdAt": "2026-07-10T00:21:27+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-10T00:21:27+01:00",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "easy-no-cook-bean-salad-recipe-with-fresh-herbs-for-quick-healthy-meals/images",
+    "has_reel": true
+}

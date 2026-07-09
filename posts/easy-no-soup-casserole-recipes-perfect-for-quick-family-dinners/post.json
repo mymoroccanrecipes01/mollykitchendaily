@@ -1,0 +1,354 @@
+{
+    "title": "Fresh and Cozy Chicken Casserole with Homemade Sauce in Under an Hour",
+    "promptIMG": "Food photography: Fresh and Cozy Chicken Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken casserole skips canned soups and leans on fresh veggies and a creamy homemade sauce. It’s a comforting, wholesome dinner perfect for busy weeknights when you want something hearty but quick.",
+    "hashtags": "#chickencasserole #homemadecomfort #weeknightdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Make This Cozy Chicken Casserole Tonight – No Canned Soup Needed!",
+            "description": "Skip the canned soup! This fresh chicken casserole is creamy, comforting, and ready in under an hour. Perfect for busy nights when you want homemade flavor fast. Save this recipe and try it today! 🍲🐔 #chickencasserole #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Healthy Homemade Chicken Casserole Recipe for Quick Family Dinners",
+            "description": "Looking for a wholesome dinner? This casserole uses fresh ingredients and a creamy sauce made from scratch. It’s comforting, easy to make, and loved by the whole family. Discover how simple it is to bring fresh flavors home! 🥘❤️ #familydinner #homemade #quickmeals"
+        },
+        {
+            "title": "Creamy Chicken Casserole That’s Better Than Store-Bought Soup Versions",
+            "description": "Ditch the canned soup and make this creamy chicken casserole with fresh veggies and a homemade sauce. It’s a game changer for weeknight dinners. Try it now and taste the difference! 🍽️✨ #comfortfood #homemadecasserole #easyweeknightmeals"
+        },
+        {
+            "title": "Quick Chicken Casserole with Fresh Ingredients – Ready in Under an Hour",
+            "description": "This quick chicken casserole uses fresh ingredients and a creamy homemade sauce for a comforting meal. Perfect for busy evenings when you want something hearty but simple. Give it a go and enjoy! 🍗🌿 #quickdinner #chickenrecipes #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds boneless skinless chicken breasts, cut into bite-sized pieces",
+        "2 tablespoons olive oil",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "2 cups fresh mushrooms, sliced",
+        "1 cup carrots, diced",
+        "1 cup celery, diced",
+        "1/4 cup all-purpose flour",
+        "2 cups low-sodium chicken broth",
+        "1 cup whole milk",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "2 cups cooked rice or egg noodles",
+        "1 cup shredded mozzarella cheese",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 generous servings",
+    "introduction": "I remember the first time I tried making a chicken casserole without reaching for canned soup—it felt like a revelation! Casseroles often get a bad rap for relying on those processed shortcuts, but this recipe flips the script. Using fresh veggies and a homemade creamy sauce, it’s a comforting dish that feels wholesome and satisfying. What I love about this version is how the sauce thickens perfectly without lumps, thanks to gently cooking the flour with the veggies before adding broth. It’s a little trick I picked up after a few clumpy attempts. Plus, the Parmesan adds a subtle depth that makes the sauce irresistibly rich but not heavy. The chicken stays juicy, and the fresh herbs brighten everything up. I usually serve this on a weeknight when I want a homey meal that’s quick but still feels special. It’s great for casual family dinners or even when friends drop by unexpectedly. Honestly, it’s become one of those dishes I know I can count on when I want comfort food minus the canned soup guilt.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating olive oil over medium heat in a large skillet or Dutch oven. Add the chopped onion and cook until softened and translucent, about 5 minutes. This step is crucial because it builds the flavor base for the sauce. Avoid browning the onions too much here; you want them tender so they blend smoothly later. Stir occasionally to prevent sticking or burning, which can create bitterness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and fragrant without any brown spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic, sliced mushrooms, diced carrots, and celery to the pan. Cook for another 5-7 minutes until the mushrooms release their moisture and veggies soften slightly. This step adds fresh vegetable flavors and moisture to the casserole. Don’t rush it—letting the mushrooms cook down prevents a watery sauce later on.",
+            "timing": "7 minutes",
+            "doneness_cue": "Vegetables should be tender and mushrooms shrunk with most liquid evaporated."
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle the flour evenly over the cooked vegetables and stir thoroughly to coat everything. Cook for 1-2 minutes to remove the raw flour taste. This creates a roux that will thicken the sauce when you add liquid. Stir constantly to avoid flour clumps forming and ensure even cooking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Flour should be fully absorbed, and mixture looks slightly pasty but not dry."
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly pour in the chicken broth while whisking continuously to avoid lumps. Once combined, add the milk and stir again. Bring the mixture to a gentle simmer over medium-low heat. This gradual addition and whisking are key to a smooth, creamy sauce. High heat or rushing can cause separation or lumps.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce should thicken slightly and be smooth without lumps."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cut chicken pieces to the sauce along with dried thyme, salt, and pepper. Cover and let simmer for 10-12 minutes, stirring occasionally, until chicken is cooked through and sauce thickens further. Simmering gently ensures tender chicken and lets flavors meld. Avoid boiling vigorously to prevent tough meat.",
+            "timing": "12 minutes",
+            "doneness_cue": "Chicken should be opaque and tender; sauce thick and creamy."
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the grated Parmesan cheese until melted and fully incorporated. This adds richness and a subtle savory depth to the sauce. Make sure the sauce isn’t boiling when you add cheese to prevent it from clumping or separating.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce becomes glossy and slightly thicker with cheese fully melted."
+        },
+        {
+            "step": 7,
+            "instruction": "Fold in the cooked rice or egg noodles gently to coat them evenly with the sauce. Mixing carefully prevents breaking the pasta or rice. This step makes the casserole hearty and filling.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice or noodles are warm and evenly coated without clumps."
+        },
+        {
+            "step": 8,
+            "instruction": "Transfer the mixture to a greased casserole dish. Sprinkle shredded mozzarella cheese evenly on top. This final layer melts and browns in the oven, adding a lovely texture contrast and flavor boost.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese layer is uniform and covers the casserole completely."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake in a preheated 375°F (190°C) oven for 15 minutes or until the cheese is bubbly and golden. Keep an eye on it to avoid burning the cheese. This step finishes cooking and adds a delicious, cheesy crust.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cheese is bubbling, golden brown, and casserole is hot throughout."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Fresh Chicken Casserole Works So Well",
+        "content": "<p>This casserole succeeds because it replaces canned soups with a homemade sauce built on classic cooking techniques, ensuring fresh flavors and a creamy texture without additives. The foundation is a proper roux—flour cooked in oil and vegetables—which thickens the sauce gently and evenly, avoiding lumps and artificial taste. Cooking the vegetables first allows natural sugars to develop, adding sweetness and depth.</p><p>The gradual addition of chicken broth and milk with constant whisking is essential to prevent lumps and create a smooth, velvety sauce. Simmering the sauce with chicken pieces allows the flavors to meld and the chicken to stay tender without drying out. Parmesan cheese enriches the sauce with umami and creaminess, while the final baking step melts mozzarella on top, adding a golden crust that contrasts with the creamy interior.</p><p>Each ingredient plays a role: fresh vegetables provide texture and freshness, the roux thickens, dairy adds richness, and the baking step finishes the dish with a visually appealing and tasty cheese topping. This method avoids the overly salty or artificial flavors canned soups often bring, resulting in a balanced, wholesome meal perfect for any occasion.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh, boneless, skinless chicken breasts for tenderness and even cooking. Cutting into uniform pieces ensures they cook through simultaneously, preventing dryness. Avoid frozen chicken unless fully thawed to maintain texture and flavor.",
+            "fresh vegetables": "Use firm, fresh carrots, celery, onions, and mushrooms for the best flavor and texture. These veggies add natural sweetness and umami, creating a rich base. Avoid canned or frozen to keep the casserole bright and fresh.",
+            "flour": "All-purpose flour is ideal for making the roux that thickens the sauce. Cook it with the veggies first to remove the raw taste and prevent clumping. Using a gluten-free flour blend is possible but may require adjustments in thickening time.",
+            "chicken broth": "Low-sodium chicken broth lets you control the salt level and adds savory depth. Homemade broth is best but store-bought works well if quality is good. Avoid broths with added MSG or excess salt to keep flavors balanced.",
+            "Parmesan cheese": "Freshly grated Parmesan adds a sharp, nutty flavor and creamy texture that elevates the sauce. Pre-grated cheese often contains anti-caking agents that might affect melting, so grating fresh is preferred."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Cook the flour with the veggies before adding liquid.",
+            "reason": "This step creates a roux that thickens the sauce naturally and prevents a raw flour taste. If you skip it, the sauce might be lumpy or taste pasty. Cooking the flour evenly also helps the sauce develop a smooth, creamy texture."
+        },
+        {
+            "tip": "Add liquids slowly while whisking constantly.",
+            "reason": "Gradual addition with whisking avoids lumps and ensures the flour disperses evenly. Pouring all the liquid at once can cause clumps, ruining the sauce’s consistency and appearance."
+        },
+        {
+            "tip": "Simmer the chicken gently rather than boiling.",
+            "reason": "Gentle simmering cooks the chicken through without toughening it. Boiling aggressively can dry out the meat and make it rubbery, affecting the casserole’s overall texture."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated Parmesan melts smoothly and adds authentic flavor. Pre-grated cheeses often contain additives that hinder melting and can create a grainy texture."
+        },
+        {
+            "tip": "Let the casserole rest briefly before serving.",
+            "reason": "Resting allows the sauce to thicken slightly and flavors to meld. Serving immediately can result in a runny sauce and less balanced taste."
+        },
+        {
+            "tip": "Use cooked rice or noodles that are slightly undercooked.",
+            "reason": "They’ll finish cooking in the casserole without becoming mushy. Overcooked pasta or rice can break down and create a gummy texture."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when sautéing veggies.",
+            "reason": "Crowding traps moisture, causing veggies to steam instead of sauté. Proper browning enhances flavor and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding all liquid at once causing lumps",
+            "why_it_happens": "Many cooks rush and pour broth and milk too quickly without whisking, leading to clumps of flour.",
+            "fix": "Add liquid in small increments while whisking constantly. This ensures the roux absorbs liquid evenly, resulting in a smooth sauce."
+        },
+        {
+            "mistake": "Boiling chicken vigorously",
+            "why_it_happens": "Impatience or high heat leads to tough, rubbery chicken.",
+            "fix": "Simmer gently on medium-low, cover the pan, and check tenderness to keep chicken juicy."
+        },
+        {
+            "mistake": "Using canned soup instead of fresh ingredients",
+            "why_it_happens": "Convenience often tempts cooks to skip fresh prep.",
+            "fix": "Embrace fresh veggies and homemade sauce for better flavor and control over salt and additives."
+        },
+        {
+            "mistake": "Not cooking the flour enough",
+            "why_it_happens": "Skipping the step to cook flour with veggies leads to raw flour taste.",
+            "fix": "Cook flour for 1-2 minutes after adding to veggies to remove raw flavor."
+        },
+        {
+            "mistake": "Overcooking pasta or rice before adding",
+            "why_it_happens": "Overcooked starch breaks down and creates mushiness.",
+            "fix": "Cook pasta or rice al dente, so it holds up during baking without becoming gummy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Version",
+            "description": "Replace chicken with hearty vegetables like zucchini, cauliflower, and chickpeas. Use vegetable broth instead of chicken broth and add extra herbs for flavor. The texture will be chunkier and more rustic but still creamy and satisfying.",
+            "technical_note": "Cooking times may be shorter since no meat is involved; watch for veggie tenderness."
+        },
+        {
+            "name": "Spicy Cajun Twist",
+            "description": "Add Cajun seasoning to the sauce and use smoked sausage instead of chicken. Include diced bell peppers and jalapeños for heat. This version is bolder and smoky, perfect for spice lovers.",
+            "technical_note": "Adjust spice levels carefully and consider lowering salt due to sausage salt content."
+        },
+        {
+            "name": "Gluten-Free Casserole",
+            "description": "Use gluten-free flour or cornstarch to thicken the sauce and gluten-free pasta or rice. This keeps the casserole accessible without sacrificing creaminess or flavor.",
+            "technical_note": "Cornstarch thickens faster; add it diluted in cold liquid at the end of cooking."
+        },
+        {
+            "name": "Cheesy Broccoli Chicken Casserole",
+            "description": "Add steamed broccoli florets into the mix before baking and increase the cheese topping for an extra cheesy finish. It’s a great way to sneak in veggies while keeping it indulgent.",
+            "technical_note": "Make sure broccoli is tender but not mushy to avoid wateriness."
+        },
+        {
+            "name": "Herb-Infused Cream Sauce",
+            "description": "Infuse the milk with fresh herbs like rosemary and sage before adding to the sauce. Strain the herbs out and proceed as usual. This adds a fragrant, fresh note to the dish.",
+            "technical_note": "Don’t boil the milk with herbs; warm gently to extract flavor without bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "20g",
+        "fiber_grams": "4g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria can grow, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The sauce may thicken and firm up when cold; reheat gently to restore creaminess. It tastes better warmed than cold.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of milk or broth to loosen the sauce, stirring occasionally. Alternatively, microwave in short bursts, stirring in between. Avoid overheating which can curdle the sauce.",
+        "make_ahead_strategy": "You can prepare the sauce and cook the chicken a day ahead, storing them separately. Assemble and bake right before serving for best texture and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Just cut them into similar-sized pieces and follow the same cooking times. The flavor will be richer but just as delicious."
+        },
+        {
+            "question": "What can I substitute for Parmesan cheese?",
+            "answer": "Pecorino Romano or Asiago are good alternatives with a similar sharpness. If you want a milder taste, shredded mild cheddar works but changes the flavor profile. Avoid pre-grated cheese with anti-caking agents for best melt."
+        },
+        {
+            "question": "Is it okay to use frozen vegetables?",
+            "answer": "You can, but frozen veggies add extra moisture which may thin the sauce. Thaw and drain them well before cooking to avoid a watery casserole.",
+            "  ": "Frozen veggies might also cook faster, so adjust sauté time accordingly."
+        },
+        {
+            "question": "How do I make this casserole spicier?",
+            "answer": "Add crushed red pepper flakes or a dash of hot sauce to the sauce while simmering. Alternatively, include diced jalapeños with the veggies. Start small and taste as you go to control heat."
+        },
+        {
+            "question": "Can I prepare this casserole completely ahead of time?",
+            "answer": "Yes! You can assemble the casserole fully and refrigerate it for up to 24 hours before baking. This can even enhance flavor as ingredients meld. Just add a few extra minutes to baking time if baking straight from the fridge."
+        },
+        {
+            "question": "What’s the best way to thicken the sauce if it’s too runny?",
+            "answer": "Mix a small amount of flour or cornstarch with cold water to make a slurry, then stir it into the simmering sauce. Cook for a few more minutes until thickened. Avoid adding too much at once to prevent lumps."
+        },
+        {
+            "question": "Can I make this dairy-free?",
+            "answer": "Yes, substitute milk with unsweetened plant milk like almond or oat, and use dairy-free cheese alternatives. Use nutritional yeast to add umami flavor. The texture will be slightly different but still tasty."
+        },
+        {
+            "question": "What side dishes go well with this casserole?",
+            "answer": "Simple green salads, steamed veggies, or crusty bread complement this rich casserole nicely. A light vinaigrette cuts through the creaminess, balancing the meal."
+        }
+    ],
+    "conclusion": "I hope you give this fresh chicken casserole a try—it’s a comforting, wholesome meal that’s easy enough for weeknights but special enough for company. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "fresh chicken casserole recipe",
+        "secondary_keywords": [
+            "homemade chicken casserole",
+            "easy chicken casserole",
+            "how to make chicken casserole",
+            "best chicken casserole recipe",
+            "quick chicken casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade creamy sauce technique",
+                "anchor": "homemade-creamy-sauce-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Quick Chicken Casserole with Fresh Ingredients – Ready in Under an Hour"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Creamy Chicken Casserole That’s Better Than Store-Bought Soup Versions"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Make This Cozy Chicken Casserole Tonight – No Canned Soup Needed!"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Healthy Homemade Chicken Casserole Recipe for Quick Family Dinners"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Make This Cozy Chicken Casserole Tonight – No Canned Soup Needed!"
+        },
+        {
+            "fileName": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images/easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Make This Cozy Chicken Casserole Tonight – No Canned Soup Needed!"
+        }
+    ],
+    "id": "post_1783638764_322",
+    "slug": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-10T00:21:27+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-10T00:21:27+01:00",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-no-soup-casserole-recipes-perfect-for-quick-family-dinners/images",
+    "has_reel": true
+}

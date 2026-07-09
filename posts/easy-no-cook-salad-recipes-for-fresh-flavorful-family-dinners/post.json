@@ -1,0 +1,346 @@
+{
+    "title": "Fresh and Zesty No-Cook Summer Salad for Quick Meals",
+    "promptIMG": "Food photography: Fresh and Zesty No-Cook Summer Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-cook salad is a lifesaver on hot days when you want something fresh but filling. A splash of lemon juice adds a bright zing that wakes up the flavors. Great for quick lunches or light dinners!",
+    "hashtags": "#nocooksalad #freshrecipes #quickmeals",
+    "board_name": "Easy Salad Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Easy No-Cook Lemon Salad!",
+            "description": "Looking for a fresh and simple salad that doesn’t require any cooking? This lemony no-cook salad is perfect for busy days and tastes amazing. Save this recipe and try it out today! 🥗🍋 #FreshSalad #NoCookMeals #HealthyEating"
+        },
+        {
+            "title": "Quick & Delicious No-Cook Salad to Beat the Heat Fast",
+            "description": "No cooking, no fuss — just crisp veggies and a zesty lemon dressing. Perfect for a light lunch or dinner when you want something fresh and satisfying. Discover this easy recipe now! 🌿🥒 #SummerSalad #QuickRecipes #NoCook"
+        },
+        {
+            "title": "The Ultimate No-Cook Salad with a Splash of Citrus Magic",
+            "description": "This salad is a game-changer for hot days or busy schedules. The lemon juice adds a refreshing kick that makes every bite delicious. Try it today and enjoy freshness in minutes! 🍋✨ #LemonSalad #EasyMeals #HealthyLunch"
+        },
+        {
+            "title": "Simple No-Cook Salad That’s Perfect for Light, Fresh Meals",
+            "description": "When you want something light but tasty, this no-cook salad hits the spot. Easy to make and packed with fresh flavors, especially that bright lemon touch. Save it for your next quick meal! 🥗💚 #NoCookRecipe #FreshAndEasy #HealthyFood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "2 cups mixed salad greens, fresh",
+        "1 cup cherry tomatoes, halved",
+        "1 cucumber, sliced thin",
+        "1/4 red onion, thinly sliced",
+        "1/4 cup feta cheese, crumbled",
+        "2 tablespoons olive oil, extra virgin",
+        "1 tablespoon fresh lemon juice",
+        "Salt and pepper to taste",
+        "1 tablespoon fresh parsley, chopped"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this no-cook salad on a scorching summer afternoon when the last thing I wanted was to turn on the stove. Since then, it’s become my go-to for days when I crave something fresh but satisfying without any heat involved. What I love about this version is the simple splash of lemon juice that really wakes up the veggies and adds a brightness that’s hard to beat. Plus, it’s super quick to throw together, so it’s perfect for busy lunches or a light dinner. I’ve tried other no-cook salads before, but this one strikes the perfect balance between fresh, tangy, and a little savory thanks to the feta. The key trick I learned is to slice the veggies thinly — it makes every bite feel like a breeze and helps the dressing coat everything evenly. The end result is a crisp, colorful salad that feels like a little escape to summer in every forkful. If you want something fuss-free but bursting with flavor, this salad really hits the spot.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and drying all your veggies thoroughly. This step is crucial because excess water can dilute the dressing and make the salad soggy. Use a salad spinner if you have one to get them really dry. Then, slice the cucumber and red onion thinly so they blend well with the other ingredients. Thin slices help the flavors mingle better and make the salad easier to eat. Avoid thick chunks here, as they can overpower the lighter greens.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggies are evenly sliced and dry to the touch without any pooling water"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the salad greens, halved cherry tomatoes, sliced cucumber, and onion. Toss gently to mix. This ensures every bite gets a bit of each element and sets the stage for even seasoning later. Be careful not to bruise the greens by tossing too vigorously — gentle folding preserves their crisp texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ingredients are evenly distributed without bruising the greens"
+        },
+        {
+            "step": 3,
+            "instruction": "Drizzle the olive oil and fresh lemon juice over the salad. The olive oil adds richness while the lemon juice brings a fresh zing that brightens the whole dish. Use fresh lemon juice for the best flavor — bottled just doesn’t compare. Toss everything gently again to coat the veggies evenly. This step is key because the dressing should lightly cover the salad but not drown it.",
+            "timing": "3 minutes",
+            "doneness_cue": "Salad ingredients glisten lightly with dressing and smell fresh and citrusy"
+        },
+        {
+            "step": 4,
+            "instruction": "Season the salad with salt and freshly ground black pepper to taste. Salt helps bring out the natural sweetness of the tomatoes and balances the lemon’s acidity. Pepper adds a subtle kick. Be careful not to over-salt, especially if your feta is salty. It’s best to start with a little and adjust after tasting.",
+            "timing": "1 minute",
+            "doneness_cue": "Seasoning is balanced without overpowering the fresh flavors"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the crumbled feta cheese and chopped fresh parsley over the top. The feta adds a creamy, salty contrast that complements the crisp veggies, while parsley adds a fresh herbaceous note. If you want, you could also add a few fresh mint leaves for an extra pop of flavor. This finishing touch makes the salad feel complete and vibrant.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad looks colorful and inviting with feta and herbs evenly scattered"
+        },
+        {
+            "step": 6,
+            "instruction": "Give the salad one final gentle toss to combine the cheese and herbs with the rest without breaking the greens. This helps distribute the flavors evenly while keeping the salad’s fresh texture intact. Avoid over-mixing here to prevent wilting.",
+            "timing": "1 minute",
+            "doneness_cue": "Salad is evenly mixed but still crisp and fresh-looking"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately for the best texture and flavor. If you need to hold it for a short time, cover and refrigerate but know the greens will soften slightly. This salad is best enjoyed fresh to appreciate the crispness and bright lemon zing that make it so refreshing.",
+            "timing": "0 minutes",
+            "doneness_cue": "Salad is fresh, crisp, and vibrant when served"
+        },
+        {
+            "step": 8,
+            "instruction": "If desired, add toasted nuts or seeds like pine nuts or sunflower seeds for an extra crunch. Toasting nuts enhances their flavor and adds a lovely textural contrast to the salad’s softness. This is optional but highly recommended for a more complex bite.",
+            "timing": "5 minutes (optional)",
+            "doneness_cue": "Nuts are golden brown and fragrant without burning"
+        },
+        {
+            "step": 9,
+            "instruction": "For a heartier meal, toss in some cooked quinoa or chickpeas. This adds protein and fiber, making the salad more filling without losing its fresh vibe. Just be sure to cool cooked ingredients before mixing to avoid wilting the greens.",
+            "timing": "5 minutes (optional prep)",
+            "doneness_cue": "Added grains or beans are fully cooled and evenly mixed"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Cook Salad Stands Out",
+        "content": "<p>What makes this salad truly shine is the balance of texture and flavor achieved without any cooking. The crispness of fresh greens and thinly sliced vegetables provides a satisfying crunch that contrasts beautifully with the creamy, salty feta. The lemon juice acts as a natural flavor enhancer, its acidity brightening the vegetables and balancing the richness of the olive oil. This interplay creates a refreshing yet filling dish that feels light but satisfying.</p><p>The careful slicing technique is essential — thin, uniform pieces allow the dressing to coat each bite evenly, ensuring no flavor is missed. Additionally, the gentle tossing preserves the integrity of the greens, preventing bruising and sogginess. The use of extra virgin olive oil adds a fruity depth that complements the lemon’s brightness, while salt and pepper awaken the natural sweetness and subtle bitterness of the ingredients.</p><p>Adding fresh herbs like parsley or optional toasted nuts introduces layers of aroma and texture, elevating the salad beyond a simple side dish. The absence of any cooking means all the vitamins and enzymes in the raw veggies remain intact, boosting the nutritional profile. This salad is not only quick and easy but also a wonderful example of how simple ingredients and thoughtful technique can create something truly delicious and wholesome.</p>",
+        "ingredient_notes": {
+            "salad greens": "Choose fresh, crisp greens like baby spinach, arugula, or mixed spring greens. Look for vibrant leaves without wilting or browning. These greens provide a tender base with slight peppery or sweet notes, which balance the other ingredients. Avoid iceberg lettuce since it tends to be watery and lacks flavor.",
+            "cherry tomatoes": "Opt for ripe, firm cherry tomatoes that are bright in color and free from blemishes. Their natural sweetness and juiciness add a burst of flavor and moisture to the salad. Halving them releases their juices gently, enhancing the dressing without making the salad soggy.",
+            "cucumber": "English or seedless cucumbers work best because they have fewer seeds and thinner skins, which keeps the salad crisp and refreshing. Slice thinly to avoid overwhelming the other textures. Peeling is optional but recommended if the skin is thick or waxed.",
+            "feta cheese": "Use a good-quality feta, preferably from sheep or goat milk, which has a creamy texture and tangy flavor that complements the salad. Crumble it finely so it disperses evenly. Avoid overly salty or crumbly varieties, as they can overpower the dish.",
+            "lemon juice": "Freshly squeezed lemon juice is key for vibrant acidity and brightness. Bottled lemon juice lacks the fresh aroma and can taste flat or bitter. The acidity helps balance the richness of the olive oil and feta and wakes up the flavors of the vegetables."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry your greens thoroughly before assembling the salad.",
+            "reason": "Excess moisture can dilute the dressing and make the salad soggy quickly. Using a salad spinner or patting the greens dry with paper towels ensures the dressing clings well and the salad stays crisp longer."
+        },
+        {
+            "tip": "Slice vegetables thinly and uniformly.",
+            "reason": "Thin slices allow the dressing to coat the veggies evenly and help flavors meld better. Uniformity also ensures consistent texture and prevents any overpowering chunks that can detract from the salad's balance."
+        },
+        {
+            "tip": "Use fresh lemon juice instead of bottled.",
+            "reason": "Fresh lemon juice has a brighter, more vibrant flavor and aroma. Bottled juice often tastes flat or bitter due to preservatives and processing, which can dull the salad's fresh zing."
+        },
+        {
+            "tip": "Add the dressing just before serving.",
+            "reason": "Dressing the salad too early can cause the greens and veggies to wilt and lose their crispness. Tossing right before eating keeps everything fresh and crunchy."
+        },
+        {
+            "tip": "Use good-quality extra virgin olive oil.",
+            "reason": "High-quality olive oil has fruitier, more nuanced flavors that enhance the salad. Cheap oils can taste greasy or bland, which diminishes the overall taste experience."
+        },
+        {
+            "tip": "Season gradually and taste as you go.",
+            "reason": "Salt and pepper can quickly overpower fresh ingredients. Adding a little at a time and tasting helps you find the perfect seasoning balance without going too far."
+        },
+        {
+            "tip": "Gently toss the salad to avoid bruising.",
+            "reason": "Vigorous tossing can break delicate greens and cause wilting. Gentle folding preserves the texture and appearance, keeping the salad vibrant and appetizing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using wet or soggy greens",
+            "why_it_happens": "People often skip drying their greens properly after washing, assuming a quick rinse is enough.",
+            "fix": "Dry greens completely with a salad spinner or paper towels before assembling. This prevents the dressing from getting diluted and keeps the salad crisp and fresh."
+        },
+        {
+            "mistake": "Overdressing the salad",
+            "why_it_happens": "It’s tempting to pour on a lot of dressing for flavor, but this can drown the veggies.",
+            "fix": "Use measured amounts of olive oil and lemon juice, then toss gently. Add more if needed after tasting instead of all at once."
+        },
+        {
+            "mistake": "Skipping thin slicing",
+            "why_it_happens": "Sometimes chopping is rushed or done unevenly, resulting in uneven texture and flavor distribution.",
+            "fix": "Take time to slice cucumbers and onions thinly and uniformly to ensure each bite is balanced and pleasant."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Convenience leads many to grab bottled juice, not realizing the flavor difference.",
+            "fix": "Always use fresh lemon juice for the best brightness and aroma; it makes a noticeable difference in taste."
+        },
+        {
+            "mistake": "Not seasoning gradually",
+            "why_it_happens": "Adding all the salt and pepper at once can lead to an overly salty or spicy salad.",
+            "fix": "Add seasoning little by little, tasting as you go. This helps you hit the perfect balance without overpowering the fresh ingredients."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mediterranean No-Cook Salad",
+            "description": "Add kalamata olives, diced roasted red peppers, and a sprinkle of oregano for a Mediterranean twist. This variation brings deeper savory and briny notes that complement the fresh veggies beautifully.",
+            "technical_note": "No changes to technique needed, just toss in the extra ingredients with the dressing before serving."
+        },
+        {
+            "name": "No-Cook Protein Boost Salad",
+            "description": "Include canned chickpeas or shredded rotisserie chicken to add protein and make the salad a filling meal. This turns the salad into a balanced lunch without losing its fresh appeal.",
+            "technical_note": "Make sure any cooked protein is cooled completely before mixing to keep greens crisp."
+        },
+        {
+            "name": "Spicy No-Cook Salad",
+            "description": "Add thinly sliced jalapeños or a pinch of red pepper flakes for a spicy kick. This variation livens up the salad while maintaining its refreshing qualities.",
+            "technical_note": "Add spicy ingredients gradually and taste to avoid overwhelming the fresh flavors."
+        },
+        {
+            "name": "Creamy Avocado No-Cook Salad",
+            "description": "Dice ripe avocado and gently fold it in for a creamy texture that pairs wonderfully with the zesty lemon dressing. This adds healthy fats and richness.",
+            "technical_note": "Add avocado last and toss gently to avoid mashing it."
+        },
+        {
+            "name": "Asian-Inspired No-Cook Salad",
+            "description": "Swap lemon juice for rice vinegar and add sliced scallions, shredded carrots, and sesame seeds. Drizzle with a little toasted sesame oil for a fresh Asian flair.",
+            "technical_note": "Use the same gentle tossing technique to preserve texture and evenly distribute flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "16g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best eaten fresh but can sit at room temperature for up to 1 hour if covered to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 2 days. Note that the greens may wilt and the salad will lose some crispness. It’s still tasty chilled or served at room temperature.",
+        "freezer": "Not recommended to freeze this salad as the fresh vegetables and dressing will lose texture and flavor upon thawing.",
+        "reheating": "No reheating needed or advised. If you prefer, let the salad sit at room temperature for 10 minutes before serving to soften the flavors.",
+        "make_ahead_strategy": "You can wash and slice the vegetables a day ahead and store them separately in airtight containers in the fridge. Assemble and dress the salad just before serving to keep it fresh and crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use bottled lemon juice instead of fresh?",
+            "answer": "While you can use bottled lemon juice in a pinch, fresh lemon juice delivers a brighter, fresher flavor that really lifts the salad. Bottled juice often tastes flat or slightly bitter, which can dull the overall taste."
+        },
+        {
+            "question": "How long can I store this salad after dressing it?",
+            "answer": "Once dressed, the salad is best eaten within a couple of hours. The greens and veggies will start to wilt and become soggy if left too long. For best texture, dress just before serving."
+        },
+        {
+            "question": "Can I add other vegetables to this salad?",
+            "answer": "Absolutely! Feel free to add thinly sliced bell peppers, radishes, or shredded carrots. Just keep in mind that some veggies release more water, which can affect the salad’s crispness."
+        },
+        {
+            "question": "What can I substitute for feta cheese?",
+            "answer": "If you want to avoid dairy, try crumbled firm tofu with a sprinkle of salt or a vegan cheese alternative. Goat cheese also works well if you prefer a milder flavor."
+        },
+        {
+            "question": "Is it okay to prepare the salad a day ahead?",
+            "answer": "You can prep the veggies a day ahead but store them separately without dressing. Assemble and dress the salad just before serving to keep it fresh and crisp."
+        },
+        {
+            "question": "Can I add protein to make this a full meal?",
+            "answer": "Yes! Adding canned chickpeas, cooked chicken, or even hard-boiled eggs makes this salad more filling without losing its fresh vibe."
+        },
+        {
+            "question": "How can I make the salad spicier?",
+            "answer": "Try adding thin slices of jalapeño, a pinch of red pepper flakes, or a drizzle of hot sauce. Add gradually and taste to avoid overpowering the fresh flavors."
+        },
+        {
+            "question": "What’s the best way to toss the salad without bruising it?",
+            "answer": "Use gentle folding motions with large utensils or your hands rather than vigorous stirring. This preserves the integrity of delicate greens and keeps the salad crisp."
+        }
+    ],
+    "conclusion": "Give this no-cook salad a try next time you want something fresh and fuss-free. I’d love to hear how it turns out for you—don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "no cook fresh salad",
+        "secondary_keywords": [
+            "easy no cook salad",
+            "quick fresh salad recipe",
+            "how to make no cook salad",
+            "best no cook salad recipe",
+            "healthy no cook salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple lemon vinaigrette recipe",
+                "anchor": "simple-lemon-vinaigrette"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Brighten Your Day with This Easy No-Cook Lemon Salad!"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Brighten Your Day with This Easy No-Cook Lemon Salad!"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Brighten Your Day with This Easy No-Cook Lemon Salad!"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple No-Cook Salad That’s Perfect for Light, Fresh Meals"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Ultimate No-Cook Salad with a Splash of Citrus Magic"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images/easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Quick & Delicious No-Cook Salad to Beat the Heat Fast"
+        }
+    ],
+    "id": "post_1783638309_878",
+    "slug": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-10T00:21:27+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-10T00:21:27+01:00",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "easy-no-cook-salad-recipes-for-fresh-flavorful-family-dinners/images",
+    "has_reel": true
+}
