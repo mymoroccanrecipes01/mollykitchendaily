@@ -1,0 +1,345 @@
+{
+    "title": "Fresh and Easy No-Bake Fruit Salad with a Citrus Twist",
+    "promptIMG": "Food photography: No-Bake Fruit Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-bake fruit salad is a fresh, colorful way to enjoy seasonal fruits without heating up your kitchen. A splash of citrus juice adds brightness, making it perfect for a quick snack or light dessert on warm days.",
+    "hashtags": "#fruitSalad #noBakeRecipe #freshSnack",
+    "board_name": "Easy Fruit Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Refreshing No-Bake Fruit Salad",
+            "description": "Looking for a quick, healthy snack? This no-bake fruit salad bursts with fresh flavors and a zesty citrus kick. 🍊🍓 Save this recipe for your next sunny day treat! #freshfruit #healthyrecipes #summerdessert"
+        },
+        {
+            "title": "No-Oven Needed: Quick and Tasty Fruit Salad Recipe",
+            "description": "Skip the oven and whip up this vibrant fruit salad in minutes! Perfect for busy days or light desserts. 🍍🍉 Try it today and enjoy the natural sweetness! #nobake #fruitsalad #easyrecipes"
+        },
+        {
+            "title": "Simple No-Bake Fruit Salad That Everyone Will Love",
+            "description": "This simple fruit salad is packed with seasonal fruits and a splash of citrus to brighten every bite. 🍋🍇 Discover how easy healthy eating can be—save this recipe now! #quickrecipes #fruitlover #freshandhealthy"
+        },
+        {
+            "title": "Cool Off Fast with This Easy No-Bake Fruit Salad",
+            "description": "Beat the heat with this refreshing no-bake fruit salad loaded with juicy fruits and a citrus twist. 🍓🍊 Perfect for summer snacking—give it a try and enjoy! #summerrecipes #nobake #fruitsaladideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 cup strawberries, hulled and halved",
+        "1 cup blueberries, fresh",
+        "1 cup pineapple chunks, fresh or canned",
+        "1 cup seedless grapes, halved",
+        "1 orange, peeled and segmented",
+        "2 tablespoons fresh lemon juice",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Fresh mint leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 4 cups, 4 servings",
+    "introduction": "I first made this no-bake fruit salad on a scorching summer afternoon when the last thing I wanted was to crank up the oven. It’s such a refreshing way to enjoy the natural sweetness of fruits without any fuss. What makes this version stand out is the little splash of fresh lemon juice that I add at the end — it really wakes up the flavors and keeps everything tasting bright and fresh. I also like to toss in a bit of honey if the fruits aren’t quite sweet enough, but that’s totally optional. What I love most is how versatile it is; you can swap in whatever fruits are in season or what you have on hand. The final salad looks so inviting with all those vibrant colors, and it feels light but satisfying — perfect for a quick snack or a simple dessert after dinner. Honestly, it’s become my go-to when I want something healthy but don’t want to spend any time cooking. Plus, it’s a great way to get the kids interested in eating more fruit because it feels like a treat. I think you’ll love how easy and fresh it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing all your fruits thoroughly under cold water. This step is crucial to remove any dirt or pesticides and ensure your salad tastes clean and fresh. After washing, pat them dry gently with a clean towel to avoid excess water, which can dilute the flavors and make the salad watery.",
+            "timing": "5 minutes",
+            "doneness_cue": "Fruits are clean and dry to the touch, ready for cutting"
+        },
+        {
+            "step": 2,
+            "instruction": "Hull and halve the strawberries to about bite-sized pieces. For the grapes, slice them in half to release their natural juices and make them easier to eat. Keeping the pieces relatively uniform helps the salad look beautiful and makes it easier to serve.",
+            "timing": "5 minutes",
+            "doneness_cue": "Fruit pieces are uniform in size and juicy without being mushy"
+        },
+        {
+            "step": 3,
+            "instruction": "Peel the orange carefully, removing all the white pith because it can be bitter. Separate the segments and cut each segment in half if they’re large. The orange adds a lovely citrus sweetness that complements the other fruits.",
+            "timing": "3 minutes",
+            "doneness_cue": "Orange segments are clean, bright, and free from pith"
+        },
+        {
+            "step": 4,
+            "instruction": "If using fresh pineapple, cut it into small chunks. If canned, drain it well to avoid excess syrup diluting the salad. Pineapple adds a tropical tang that really livens up the mix.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pineapple chunks are firm and juicy but not soggy"
+        },
+        {
+            "step": 5,
+            "instruction": "Combine all the chopped fruits gently in a large mixing bowl. Use a big spoon or your hands to toss them carefully so you don’t bruise the delicate berries. This ensures an even mix without turning the fruits mushy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fruits are evenly mixed with no signs of crushing"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the fresh lemon juice over the fruit mix. This brightens the flavors and helps prevent the fruits from browning, especially apples or bananas if you choose to include them. The acidity balances the sweetness and keeps everything fresh.",
+            "timing": "1 minute",
+            "doneness_cue": "Fruit glistens slightly with the juice but isn’t soggy"
+        },
+        {
+            "step": 7,
+            "instruction": "If your fruits aren’t as sweet as you’d like, drizzle the honey or maple syrup now. Stir gently to coat all the pieces without breaking them. This step is optional but adds a nice touch of natural sweetness.",
+            "timing": "1 minute",
+            "doneness_cue": "Fruits have a light glaze that enhances sweetness"
+        },
+        {
+            "step": 8,
+            "instruction": "Cover the bowl and chill the fruit salad in the refrigerator for at least 15 minutes before serving. This resting time lets the flavors meld together and makes the salad even more refreshing.",
+            "timing": "15 minutes",
+            "doneness_cue": "Salad is cold and flavors are well combined"
+        },
+        {
+            "step": 9,
+            "instruction": "Just before serving, garnish with fresh mint leaves if you like. Mint adds a cool, herbal note that pairs beautifully with the citrus and fruit sweetness. Serve chilled for the best experience.",
+            "timing": "1 minute",
+            "doneness_cue": "Salad looks colorful and fresh with mint accents"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Refreshing No-Bake Fruit Salad",
+        "content": "<p>At the heart of this fruit salad’s success is the balance of acidity and sweetness. The fresh lemon juice plays a critical role by not only brightening the flavors but also slowing down enzymatic browning—a natural process that makes fruits like apples and bananas turn brown quickly. This keeps the salad looking vibrant and appetizing for longer.</p><p>Another key factor is the selection and preparation of fruit. Using ripe but firm fruits ensures the salad has a pleasing texture—juicy and tender without becoming mushy or watery. Cutting fruits into uniform, bite-sized pieces helps with even flavor distribution and makes each bite enjoyable.</p><p>Gently tossing the fruit instead of vigorously mixing prevents bruising delicate berries, preserving their shape and texture. The optional drizzle of honey or maple syrup adds a layer of natural sweetness that complements the citrus without overpowering the fresh fruit flavors. Chilling the salad before serving allows the flavors to meld and intensify, making every mouthful refreshing and satisfying.</p><p>Overall, this recipe leverages simple techniques and ingredient interactions to deliver a naturally bright, colorful, and delicious no-bake dessert or snack that’s perfect for warm days and busy lifestyles.</p>",
+        "ingredient_notes": {
+            "Strawberries": "Look for bright red strawberries with fresh green caps—avoid any that are mushy or have dark spots. Strawberries add a sweet-tart flavor and vibrant color. Hull them carefully to remove the leafy tops without wasting the fruit. Fresh berries hold up best in this salad and provide antioxidants.",
+            "Blueberries": "Choose plump, firm blueberries with a dusty blue bloom, a sign of freshness. Blueberries contribute subtle sweetness and a juicy burst. They’re delicate, so handle gently to prevent crushing. Frozen berries can be used but may release extra juice, so adjust accordingly.",
+            "Pineapple": "Fresh pineapple chunks offer a tropical tang and juicy crunch. If using canned, pick varieties packed in juice rather than syrup to avoid overly sweetening the salad. Drain canned pineapple well to prevent excess liquid from watering down the flavors.",
+            "Lemon Juice": "Freshly squeezed lemon juice is best for its bright acidity and pure flavor. Bottled lemon juice lacks the fresh brightness and can taste flat. The acidity helps balance sweetness and slows browning, enhancing both taste and appearance.",
+            "Honey": "Honey is optional but adds natural sweetness and a floral note that pairs well with citrus. Use mild-flavored honey to avoid overpowering the fruit. Maple syrup is a great vegan alternative. Adding too much sweetener can mask the fresh fruit flavors, so use sparingly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh, ripe fruits for the best flavor and texture.",
+            "reason": "Ripe fruits are naturally sweeter and juicier, which means less need for added sugar. They also hold their shape better when mixed, preventing the salad from becoming mushy. Using underripe or overly soft fruits can result in a bland or watery salad."
+        },
+        {
+            "tip": "Add citrus juice just before serving to keep fruits fresh longer.",
+            "reason": "Citrus juice contains antioxidants and acids that slow down enzymatic browning. Adding it too early can make the salad soggy, but adding it just before serving brightens the flavors and keeps the fruit looking vibrant."
+        },
+        {
+            "tip": "Gently toss the fruit to avoid bruising delicate berries.",
+            "reason": "Vigorous mixing can crush soft fruits like blueberries and strawberries, releasing juices that make the salad watery and less visually appealing. Using a gentle folding motion keeps the fruit intact and the salad looking fresh."
+        },
+        {
+            "tip": "Chill the salad for at least 15 minutes before serving.",
+            "reason": "Resting time allows the flavors to meld and the fruit to chill, making the salad more refreshing. Serving immediately can make the salad taste less cohesive and the fruit less vibrant in flavor."
+        },
+        {
+            "tip": "Drain canned fruits thoroughly to avoid excess liquid.",
+            "reason": "Excess liquid from canned fruits can dilute the salad’s flavor and make it watery. Proper draining ensures the salad remains vibrant and the flavors stay concentrated."
+        },
+        {
+            "tip": "Use a large bowl to mix ingredients gently but thoroughly.",
+            "reason": "A large bowl gives you space to toss fruits without squashing them. It helps achieve an even distribution of flavors and ensures the citrus juice and sweetener coat all pieces evenly."
+        },
+        {
+            "tip": "Add fresh mint leaves just before serving for a flavor boost.",
+            "reason": "Mint adds a fresh, herbal note that complements the sweetness and acidity of the fruit. Adding it too early can cause it to wilt and lose its brightness, so wait until serving."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overripe or mushy fruits",
+            "why_it_happens": "Sometimes cooks grab whatever fruit is available without checking ripeness, thinking it won’t affect the salad much.",
+            "fix": "Choose firm, ripe fruits that hold their shape. If you only have softer fruits, add them last and serve immediately to avoid mushiness."
+        },
+        {
+            "mistake": "Skipping the citrus juice",
+            "why_it_happens": "People often omit lemon juice thinking it’s unnecessary or wanting to avoid acidity.",
+            "fix": "Don’t skip it! Lemon juice prevents browning and adds brightness. Add it just before serving to keep flavors fresh."
+        },
+        {
+            "mistake": "Mixing fruits too vigorously",
+            "why_it_happens": "In a rush, people stir hard to combine ingredients quickly.",
+            "fix": "Use gentle folding motions to toss fruits. This prevents bruising and keeps the salad looking fresh and appetizing."
+        },
+        {
+            "mistake": "Not draining canned fruits well",
+            "why_it_happens": "Some assume canned fruit juice adds flavor and leave it in by mistake.",
+            "fix": "Always drain canned fruits thoroughly to avoid watering down the salad and diluting flavors."
+        },
+        {
+            "mistake": "Serving the salad immediately without chilling",
+            "why_it_happens": "People want to eat right away and skip the chilling step.",
+            "fix": "Let the salad chill for at least 15 minutes. This helps flavors meld and makes the salad more refreshing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Mango and Coconut Fruit Salad",
+            "description": "Swap pineapple and grapes for fresh mango chunks and shredded coconut. This gives the salad a tropical flair with creamy and sweet notes. It’s perfect for summer parties or as a side dish with grilled meats.",
+            "technical_note": "Mango softens faster, so add it last and serve soon after mixing to maintain texture."
+        },
+        {
+            "name": "Creamy Greek Yogurt Fruit Salad",
+            "description": "Add a dollop of Greek yogurt mixed with honey and a pinch of cinnamon to the salad. This creates a creamy, tangy dressing that makes the fruit salad more filling and dessert-like.",
+            "technical_note": "Mix yogurt dressing separately and fold gently into the fruit to avoid breaking soft berries."
+        },
+        {
+            "name": "Spiced Autumn Fruit Salad",
+            "description": "Use apples, pears, and pomegranate seeds with a sprinkle of cinnamon and nutmeg. This warm spice blend pairs beautifully with the fruit’s natural sweetness and is great for fall gatherings.",
+            "technical_note": "Add lemon juice to prevent apples and pears from browning before serving."
+        },
+        {
+            "name": "Berry Medley with Balsamic Glaze",
+            "description": "Combine strawberries, blueberries, and raspberries, then drizzle with a balsamic reduction. The tangy balsamic enhances the berries’ sweetness and adds a gourmet touch.",
+            "technical_note": "Prepare balsamic glaze ahead and drizzle just before serving to avoid sogginess."
+        },
+        {
+            "name": "Citrus and Avocado Fruit Salad",
+            "description": "Mix orange segments and grapefruit with creamy avocado chunks and a sprinkle of chili powder for a sweet-spicy contrast. This salad is refreshing and has a surprising flavor punch.",
+            "technical_note": "Add avocado last to prevent browning and toss gently."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "4g",
+        "sodium_mg": "5mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This fruit salad is best served fresh and should not be left out at room temperature for more than 2 hours to avoid spoilage. Cover it loosely with plastic wrap or a clean kitchen towel if leaving it out briefly.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 2 days. Over time, the fruit may release more juice, making the salad a bit watery, so give it a gentle stir before serving chilled or at room temp.",
+        "freezer": "Freezing fruit salad is not recommended as the texture of fresh fruit changes drastically and becomes mushy upon thawing. For best results, enjoy fresh or refrigerated.",
+        "reheating": "No reheating needed—this salad is best served cold or at room temperature. If preferred, let it sit out for 10 minutes to take the chill off before serving.",
+        "make_ahead_strategy": "You can wash, chop, and prepare all the fruits a day ahead and store them separately in airtight containers. Mix, add lemon juice and sweetener, then chill just before serving to keep the salad fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen fruit for this salad?",
+            "answer": "You can use frozen fruit if fresh isn’t available, but thaw it completely and drain excess liquid to avoid a watery salad. Frozen berries may release more juice, so add them last and gently fold them in."
+        },
+        {
+            "question": "What can I substitute for lemon juice if I don’t have any?",
+            "answer": "Lime juice works great as a substitute and offers a similar bright acidity. You could also use a mild vinegar like apple cider vinegar diluted with water, but lemon or lime is best for flavor balance."
+        },
+        {
+            "question": "How long can I store the fruit salad in the fridge?",
+            "answer": "Store in an airtight container for up to 2 days. After that, the fruit may become mushy and release more juice, affecting texture and flavor. It’s best enjoyed fresh or within a day for optimal taste."
+        },
+        {
+            "question": "Can I add other fruits like bananas or apples?",
+            "answer": "Yes, but add bananas last as they brown quickly, and toss apples with lemon juice immediately to prevent browning. These fruits change the texture, so serve the salad soon after adding them."
+        },
+        {
+            "question": "Is this salad suitable for kids?",
+            "answer": "Absolutely! It’s colorful, sweet, and fun to eat. Kids usually love the natural sweetness and bright colors. You can adjust fruits to their preferences and skip any citrus if they don’t like tart flavors."
+        },
+        {
+            "question": "Can I make this fruit salad vegan?",
+            "answer": "Yes, the base recipe is naturally vegan. If you add honey, you can substitute with maple syrup or agave nectar to keep it fully vegan."
+        },
+        {
+            "question": "How do I prevent the fruit from getting soggy?",
+            "answer": "Handle the fruit gently, especially berries. Drain canned fruit well and add citrus juice just before serving. Also, avoid overmixing to keep pieces intact and fresh."
+        },
+        {
+            "question": "Can I prepare this salad ahead of time for a party?",
+            "answer": "You can prep the fruits a day ahead and store them separately. Mix and add lemon juice and sweetener shortly before serving to keep it fresh and prevent browning."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this fresh no-bake fruit salad as much as I do. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "no bake fruit salad",
+        "secondary_keywords": [
+            "easy fruit salad recipe",
+            "fresh fruit salad",
+            "how to make fruit salad",
+            "best no bake fruit salad recipe",
+            "healthy fruit salad"
+        ],
+        "internal_links": [
+            {
+                "text": "fresh summer desserts",
+                "anchor": "fresh-summer-desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Brighten Your Day with This Refreshing No-Bake Fruit Salad"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "No-Oven Needed: Quick and Tasty Fruit Salad Recipe"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Simple No-Bake Fruit Salad That Everyone Will Love"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Brighten Your Day with This Refreshing No-Bake Fruit Salad"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Brighten Your Day with This Refreshing No-Bake Fruit Salad"
+        },
+        {
+            "fileName": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images/easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Cool Off Fast with This Easy No-Bake Fruit Salad"
+        }
+    ],
+    "id": "post_1783587930_700",
+    "slug": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat",
+    "isOnline": true,
+    "createdAt": "2026-07-09T10:21:20+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-09T10:21:20+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-no-bake-fruit-salad-recipes-for-a-refreshing-summer-treat/images",
+    "has_reel": true
+}

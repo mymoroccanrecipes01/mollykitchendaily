@@ -1,0 +1,345 @@
+{
+    "title": "Fresh and Easy No-Cook Salad with Crunchy Nuts and Creamy Avocado",
+    "promptIMG": "Food photography: No-Cook Salad with Nuts and Avocado, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-cook salad is my go-to when I want something light but satisfying. The creamy avocado pairs perfectly with crunchy nuts, adding texture and richness without any heat. Ideal for a quick lunch or easy dinner!",
+    "hashtags": "#nocooksalad #healthyrecipes #quickmeals",
+    "board_name": "Easy Healthy Salads",
+    "pin_variations": [
+        {
+            "title": "Quick No-Cook Salad Loaded with Avocado and Nuts You’ll Love",
+            "description": "Looking for a fresh lunch idea? This no-cook salad combines creamy avocado and crunchy nuts for a texture-packed meal in minutes. Save this recipe for your next busy day! 🥑🥗 #nocooksalad #healthy #quickrecipes"
+        },
+        {
+            "title": "How to Make a Delicious No-Cook Salad with Avocado and Nuts",
+            "description": "No stove? No problem! This easy salad uses fresh ingredients like avocado and nuts to keep things tasty and healthy. Try it today and enjoy a light, satisfying meal. 🥗✨ #healthyeating #nocook #easyrecipes"
+        },
+        {
+            "title": "The Ultimate No-Cook Salad for Light Dinners and Quick Lunches",
+            "description": "Fresh, crunchy, and creamy all in one bowl. This no-cook salad with nuts and avocado is perfect when you want a meal that’s ready fast and full of flavor. Discover now and make your week easier! 🥑🌰 #quickmeals #saladrecipe #healthy"
+        },
+        {
+            "title": "Simple No-Cook Salad with Avocado and Nuts for Busy Days",
+            "description": "When time’s tight, this no-cook salad is a lifesaver. Creamy avocado and crunchy nuts give it a rich texture without any cooking needed. Give it a try and save for later! 🥗💚 #easymeals #nocookrecipes #healthylunch"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "2 ripe avocados, peeled and diced",
+        "1 cup mixed salad greens, washed and dried",
+        "1/2 cup cherry tomatoes, halved",
+        "1/4 cup red onion, thinly sliced",
+        "1/3 cup toasted walnuts or pecans, roughly chopped",
+        "1 tablespoon fresh lemon juice",
+        "2 tablespoons olive oil",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this no-cook salad during a sweltering summer when the last thing I wanted was to turn on the stove. What started as a quick lunch evolved into a family favorite because it’s so fresh and satisfying. The trick I learned early on was toasting the nuts just a bit to bring out their flavor and add a wonderful crunch that contrasts beautifully with the creamy avocado. I also love how the lemon juice brightens everything up and keeps the avocado from browning too quickly. This salad is perfect when you want something healthy but fuss-free, especially on busy days or warm evenings when you crave freshness without heat. It’s light yet filling, with just the right balance of textures and flavors. Plus, it’s so quick to throw together that it’s become my go-to when I want a meal that feels homemade but requires minimal effort. I think you’ll love how simple ingredients come together in such a satisfying way!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by toasting the nuts lightly in a dry skillet over medium heat for 3-5 minutes. Stir frequently to prevent burning and watch for a fragrant nutty aroma. Toasting enhances their flavor and crunch, which adds a delightful contrast to the softness of the avocado. Avoid overheating as nuts can turn bitter quickly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Nuts should be golden brown and aromatic but not burnt"
+        },
+        {
+            "step": 2,
+            "instruction": "While the nuts cool, prepare the salad base by washing and drying your greens thoroughly to avoid sogginess. Then halve the cherry tomatoes and thinly slice the red onion. Freshness here is key to keep the salad crisp and vibrant. Make sure to pat the veggies dry to prevent watering down the dressing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Greens are crisp with no excess moisture; tomatoes and onions are evenly cut"
+        },
+        {
+            "step": 3,
+            "instruction": "Next, dice the ripe avocados just before assembling the salad to prevent browning. Coat the avocado pieces lightly with lemon juice to preserve their bright green color and add a zesty flavor. This also helps keep the avocado fresh longer once combined with other ingredients.",
+            "timing": "3 minutes",
+            "doneness_cue": "Avocado pieces are evenly diced, bright green, and lightly coated with lemon juice"
+        },
+        {
+            "step": 4,
+            "instruction": "In a large bowl, combine the salad greens, cherry tomatoes, red onion, and avocado. Gently toss to mix without mashing the avocado. Handling the avocado delicately maintains its creamy texture throughout the salad.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients are evenly combined without avocado getting mushy"
+        },
+        {
+            "step": 5,
+            "instruction": "Drizzle the olive oil over the salad and season with salt and freshly ground black pepper to taste. Toss gently again to coat all ingredients evenly. The olive oil adds richness and helps marry the flavors, while seasoning enhances the natural taste of each component.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad looks lightly glossy and is evenly seasoned"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the toasted nuts on top right before serving to keep their crunch intact. Adding them too early can cause them to soften and lose texture. This final touch adds depth and a satisfying bite to the salad.",
+            "timing": "1 minute",
+            "doneness_cue": "Nuts are scattered on top and remain crunchy"
+        },
+        {
+            "step": 7,
+            "instruction": "Give the salad one last gentle toss just before plating to distribute the nuts without breaking up the avocado. This keeps the salad visually appealing and texturally balanced.",
+            "timing": "1 minute",
+            "doneness_cue": "Salad is evenly mixed but avocado pieces remain intact"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately for the best flavor and texture. If you need to wait, cover tightly and refrigerate, but note that the avocado may start to brown and nuts may soften after some time.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Salad remains fresh, vibrant, and crisp at serving"
+        },
+        {
+            "step": 9,
+            "instruction": "Optionally, add a squeeze of fresh lemon or a sprinkle of herbs like cilantro or parsley for extra brightness and aroma. These small additions can elevate the salad and tailor it to your taste preferences.",
+            "timing": "1 minute",
+            "doneness_cue": "Herbs are fresh and fragrant, enhancing overall salad aroma"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No-Cook Salad Succeeds",
+        "content": "<p>This salad works because it balances textures and flavors without any heat, relying on fresh, high-quality ingredients. The creamy avocado provides richness, while the toasted nuts add crunch and a toasty depth of flavor. The lemon juice not only brightens the taste but also helps prevent the avocado from browning, which is crucial for maintaining visual appeal and freshness.</p><p>Toasting the nuts triggers the Maillard reaction, which develops complex nutty aromas and a satisfying crunch that contrasts beautifully with the softness of the avocado and the crispness of the greens. This contrast in texture keeps every bite interesting and pleasurable.</p><p>The olive oil acts as a flavor carrier, helping to meld the ingredients together without overpowering their natural tastes. Salt and pepper enhance the individual components’ flavors, making the salad taste more vibrant and cohesive.</p><p>Finally, the technique of gently tossing prevents the avocado from breaking down, preserving its creamy texture. Each step is designed to highlight the freshness of the ingredients while creating a balanced and satisfying salad experience.</p>",
+        "ingredient_notes": {
+            "avocado": "Choose ripe but firm avocados with a slightly soft yield when gently pressed. Overripe avocados can become mushy and lose their texture in the salad. The creamy texture and mild flavor of avocado add richness and balance the crunch from the nuts. If unavailable, ripe pears can be a substitute, but the flavor and texture will differ.",
+            "toasted nuts": "Select raw walnuts or pecans for toasting to control the flavor intensity. Toasting enhances their natural oils and aroma, adding depth to the salad. Avoid pre-toasted or salted nuts to maintain control over seasoning and texture. Nuts also provide healthy fats and protein, making the salad more filling.",
+            "lemon juice": "Freshly squeezed lemon juice is best for its bright, clean acidity and ability to prevent avocado oxidation. Bottled lemon juice lacks the same freshness and can impart a slightly bitter or artificial taste. The acidity balances richness and keeps flavors lively.",
+            "olive oil": "Use extra virgin olive oil for its fruity, peppery notes and health benefits. It enriches the salad without overpowering. Lower quality oils may taste greasy or bland, impacting the overall flavor balance.",
+            "mixed salad greens": "A mix of tender greens like baby spinach, arugula, and romaine adds variety in texture and flavor. Freshness is key—wilted greens can make the salad soggy and unappealing. Washing and drying thoroughly ensures crispness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast nuts just before assembling the salad for maximum crunch.",
+            "reason": "Toasting nuts releases their oils and aromas, making them more flavorful and crunchy. If toasted too far in advance, they can absorb moisture from the air and become soft, reducing the enjoyable texture contrast in the salad."
+        },
+        {
+            "tip": "Coat avocado with lemon juice immediately after dicing.",
+            "reason": "Avocado oxidizes quickly and turns brown when exposed to air. Lemon juice’s acidity slows this process, keeping the avocado green and fresh-looking longer, which improves both appearance and flavor."
+        },
+        {
+            "tip": "Dry salad greens thoroughly before mixing to prevent sogginess.",
+            "reason": "Water clinging to the leaves dilutes the dressing and makes the salad limp. Using a salad spinner or patting dry with towels ensures crisp, fresh greens that hold up well when tossed."
+        },
+        {
+            "tip": "Use gentle tossing motions to mix ingredients.",
+            "reason": "Rough handling breaks down delicate avocado pieces and bruises greens, resulting in a mushy texture and less appealing presentation. Gentle tossing preserves texture and appearance."
+        },
+        {
+            "tip": "Add nuts just before serving to maintain crunch.",
+            "reason": "If nuts sit too long in the salad, they absorb moisture and lose their crispness. Adding them last keeps their texture intact, enhancing the overall eating experience."
+        },
+        {
+            "tip": "Use fresh lemon juice rather than bottled for best flavor.",
+            "reason": "Fresh lemon juice has a brighter, more natural flavor and better acidity balance. Bottled lemon juice can taste flat or bitter, which may dull the salad’s vibrant notes."
+        },
+        {
+            "tip": "Serve the salad immediately after preparation.",
+            "reason": "The combination of fresh ingredients tastes best right away. Over time, avocado browns and nuts soften, which negatively affects flavor and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using overripe avocado that’s too mushy",
+            "why_it_happens": "Many assume any ripe avocado works, but overripe ones break down too easily, turning the salad mushy.",
+            "fix": "Choose avocados that yield slightly under gentle pressure but hold their shape. Dice carefully and toss gently to preserve texture."
+        },
+        {
+            "mistake": "Skipping drying the salad greens",
+            "why_it_happens": "It’s tempting to skip drying to save time, but wet greens dilute dressing and cause sogginess.",
+            "fix": "Use a salad spinner or pat greens dry with clean towels before assembling to keep the salad crisp and fresh."
+        },
+        {
+            "mistake": "Adding nuts too early",
+            "why_it_happens": "Adding nuts when mixing can cause them to absorb moisture and lose crunch.",
+            "fix": "Toast nuts just before serving and sprinkle them on top at the last moment to maintain their crisp texture."
+        },
+        {
+            "mistake": "Not using lemon juice on avocado",
+            "why_it_happens": "Without acid, avocado oxidizes and turns brown quickly, making the salad look unappetizing.",
+            "fix": "Toss avocado pieces immediately with fresh lemon juice to keep their color and freshness."
+        },
+        {
+            "mistake": "Over-tossing the salad",
+            "why_it_happens": "Vigorous tossing damages delicate avocado and bruises greens.",
+            "fix": "Use gentle folding motions to mix ingredients evenly without breaking textures."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Protein with Grilled Chicken",
+            "description": "For a more filling meal, toss in sliced grilled chicken breast. It adds a savory element that pairs nicely with the creamy avocado and nuts, turning the salad into a complete lunch or dinner.",
+            "technical_note": "Ensure chicken is cooled before mixing to avoid wilting greens or warming the salad."
+        },
+        {
+            "name": "Swap Nuts for Seeds",
+            "description": "If you’re nut-free, toasted pumpkin or sunflower seeds work great to add crunch and nutrition. They provide a slightly different texture and subtle flavor but keep the salad satisfying.",
+            "technical_note": "Toast seeds lightly to enhance flavor but watch carefully as seeds can burn faster than nuts."
+        },
+        {
+            "name": "Add Fresh Herbs for Brightness",
+            "description": "Mix in chopped fresh basil, cilantro, or parsley to add herbal notes that brighten the salad. This adds complexity and freshness, making it even more vibrant and tasty.",
+            "technical_note": "Add herbs last to preserve their delicate flavor and appearance."
+        },
+        {
+            "name": "Make It Spicy with Chili Flakes",
+            "description": "Sprinkle some red chili flakes or diced fresh chili for a kick of heat. This adds excitement and balances the creamy richness of the avocado.",
+            "technical_note": "Adjust spice level to taste and add chili flakes sparingly to avoid overpowering the salad."
+        },
+        {
+            "name": "Use Mixed Baby Greens Instead of Romaine",
+            "description": "Swap out romaine for a mix of baby spinach, arugula, and kale for a peppery, nutrient-dense base. This changes the flavor profile slightly and adds more texture variety.",
+            "technical_note": "Ensure all greens are well washed and dried to maintain crispness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "28g",
+        "fiber_grams": "7g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best eaten fresh but can sit at room temperature for up to 1 hour if covered to avoid drying out. Beyond that, ingredients may lose freshness and texture.",
+        "refrigerator": "Store in an airtight container for up to 1 day. The avocado may brown slightly, and nuts can soften. Serve chilled or at room temperature for best flavor.",
+        "freezer": "Freezing is not recommended for this salad as avocado and fresh greens do not freeze well and will become mushy upon thawing.",
+        "reheating": "No reheating needed or recommended. Serve fresh or chilled to enjoy the best texture and flavor.",
+        "make_ahead_strategy": "Toast nuts and chop vegetables a day ahead, but dice avocado and assemble salad just before serving to maintain freshness and prevent browning."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute avocado with something else?",
+            "answer": "You can use ripe pears or mango for a different creamy texture and sweetness, but the flavor will change. Avocado’s mild richness and buttery texture are unique, so substitutes won’t replicate the exact taste."
+        },
+        {
+            "question": "How do I keep the avocado from turning brown?",
+            "answer": "Toss diced avocado immediately with fresh lemon juice to slow oxidation. Also, prepare the avocado just before serving and avoid exposing it to air for too long."
+        },
+        {
+            "question": "Can I use pre-toasted nuts?",
+            "answer": "Yes, but fresh toasting brings out more flavor. If using pre-toasted nuts, check they’re not stale or overly salted, which could affect the salad’s taste."
+        },
+        {
+            "question": "Is this salad suitable for meal prep?",
+            "answer": "You can prep all ingredients except avocado in advance. Add avocado and nuts just before eating to keep the salad fresh and textures intact."
+        },
+        {
+            "question": "What dressing goes best with this salad?",
+            "answer": "A simple olive oil and lemon juice dressing works best here. It enhances the natural flavors without overpowering the delicate avocado and nuts."
+        },
+        {
+            "question": "Can I add protein to make it a main dish?",
+            "answer": "Absolutely! Grilled chicken, shrimp, or chickpeas are great additions that complement the salad and make it more filling."
+        },
+        {
+            "question": "What if I don’t like nuts?",
+            "answer": "You can omit them or replace with crunchy seeds like pumpkin or sunflower seeds for texture without nuts."
+        },
+        {
+            "question": "How long can leftovers be kept?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 1 day. The avocado may brown and nuts soften, so it’s best eaten fresh."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this fresh no-cook salad as much as I do! It’s simple, tasty, and perfect for any day—don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "no cook avocado salad",
+        "secondary_keywords": [
+            "easy no cook salad",
+            "healthy avocado salad",
+            "how to make no cook salad",
+            "best no cook salad recipe",
+            "quick no cook salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple homemade salad dressing",
+                "anchor": "simple-homemade-salad-dressing"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick No-Cook Salad Loaded with Avocado and Nuts You’ll Love"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Ultimate No-Cook Salad for Light Dinners and Quick Lunches"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick No-Cook Salad Loaded with Avocado and Nuts You’ll Love"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick No-Cook Salad Loaded with Avocado and Nuts You’ll Love"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple No-Cook Salad with Avocado and Nuts for Busy Days"
+        },
+        {
+            "fileName": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images/easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make a Delicious No-Cook Salad with Avocado and Nuts"
+        }
+    ],
+    "id": "post_1783587549_610",
+    "slug": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals",
+    "isOnline": true,
+    "createdAt": "2026-07-09T10:21:20+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-09T10:21:20+01:00",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "easy-no-cook-salad-recipes-for-fresh-and-flavorful-weeknight-meals/images",
+    "has_reel": true
+}
