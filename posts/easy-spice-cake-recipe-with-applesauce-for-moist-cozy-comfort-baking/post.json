@@ -1,0 +1,349 @@
+{
+    "title": "Cozy Spice Cake with Applesauce That Stays Moist and Tender",
+    "promptIMG": "Food photography: Cozy Spice Cake with Applesauce, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spice cake is a warm hug on a plate, thanks to the applesauce that keeps it perfectly moist without any added oil. The blend of cinnamon and nutmeg makes it ideal for chilly afternoons or family dessert nights.",
+    "hashtags": "#spicecake #applesauce #moistcake #cozydessert",
+    "board_name": "Comfort Food Desserts",
+    "pin_variations": [
+        {
+            "title": "Moist Spice Cake with Applesauce – Your New Fall Favorite!",
+            "description": "Fall in love with this moist and tender spice cake made with natural applesauce. It’s the perfect cozy treat to bake tonight! 🍎🍰 Save this recipe for your next family gathering. #spicecake #fallbaking #applesauserecipes #moistcake"
+        },
+        {
+            "title": "How to Make a Moist and Tender Spice Cake with Applesauce",
+            "description": "Discover the secret to a super moist spice cake without any oil. Applesauce does all the magic here! Try it today and enjoy the warm spices and tender crumb. 🍂✨ #spicecake #easybaking #applesauce #dessertideas"
+        },
+        {
+            "title": "Easy Spice Cake with Applesauce – Perfect for Cozy Nights In",
+            "description": "This easy spice cake stays moist and tender thanks to applesauce. It’s a comforting dessert you’ll want to make again and again. Try it tonight and share the love! ❤️🍎 #spicecake #comfortfood #applesauce #homemadedessert"
+        },
+        {
+            "title": "Tender, Moist Spice Cake with Applesauce – No Oil Needed!",
+            "description": "Say goodbye to dry cakes! This spice cake uses applesauce for natural moisture and sweetness. Perfect for chilly days when you want something warm and delicious. Save this recipe now! 🍰🍁 #spicecake #moistcake #applesauce #bakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1 1/2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "1/4 teaspoon salt",
+        "1 cup unsweetened applesauce",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/2 cup buttermilk"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I first tried this spice cake recipe on a chilly fall weekend when I wanted something warm and comforting but without all the heaviness of oil or butter. The twist here is using unsweetened applesauce, which not only keeps the cake moist but adds a subtle fruity sweetness that pairs beautifully with the cinnamon and nutmeg. I’ve made plenty of spice cakes before that ended up dry or dense, but this one turns out tender every single time thanks to the balance of baking powder and baking soda and the liquid from the buttermilk. Plus, the vanilla extract gives it a lovely aromatic depth that makes it feel special. The texture is soft, almost like a tender crumb, and it’s just right for serving with a cup of tea or coffee on a cozy afternoon. Honestly, the first time I made it, I was worried it might be too dense because of the applesauce, but it rose beautifully and stayed moist for days. It’s become my go-to recipe when I need a simple, fuss-free dessert that feels homemade and comforting. If you love warm spices and moist cake that isn’t too sweet, you’re going to really enjoy this one.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan. This step is crucial because a properly preheated oven ensures even baking, and greasing the pan prevents the cake from sticking, which can ruin the texture and presentation. I like to use a little butter and then lightly dust with flour for the best release. Avoid skipping this, or you might struggle to get your cake out intact.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated and pan is evenly greased with no dry spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, cinnamon, nutmeg, cloves, and salt until evenly combined. This dry mix is the backbone of your cake’s flavor and texture. Sifting or whisking helps prevent clumps, ensures even distribution of spices, and promotes a uniform rise. If you rush this or don’t mix well, you could end up with uneven flavor pockets or dense spots.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully mixed with no visible clumps or streaks"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the eggs and sugar together until pale and slightly fluffy. This aeration adds lightness to the cake. Then mix in the applesauce and vanilla extract until smooth. The applesauce replaces oil here, adding moisture and natural sweetness without heaviness. Be sure to fully combine but don’t overbeat, or you risk a tougher crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth with a light texture and no streaks of egg or sugar"
+        },
+        {
+            "step": 4,
+            "instruction": "Alternate adding the dry ingredients and buttermilk to the wet mixture, starting and ending with the dry. Mix gently after each addition just until combined. This technique prevents overworking the batter, which can develop gluten and make the cake tough. The buttermilk adds acidity, which reacts with the baking soda for a tender crumb and subtle tang.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, slightly thick, and no flour pockets remain"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. This ensures an even rise and a nice flat surface for frosting or serving. Tap the pan gently on the counter to release any large air bubbles that could cause holes in the cake.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is evenly spread with a smooth surface and no big bubbles"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake for 28-32 minutes until a toothpick inserted in the center comes out clean or with a few moist crumbs. Avoid opening the oven door too early, or the cake might sink. The baking time can vary slightly based on your oven, so start checking at 25 minutes to avoid overbaking.",
+            "timing": "30 minutes",
+            "doneness_cue": "Toothpick test clean or with a few moist crumbs, top is golden brown"
+        },
+        {
+            "step": 7,
+            "instruction": "Let the cake cool in the pan for 10 minutes, then run a knife around the edge and turn it out onto a wire rack to cool completely. Cooling in the pan too long can trap steam and make the bottom soggy. Turning it out helps the cake set and keeps the texture just right.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake releases easily from pan and feels firm but tender"
+        },
+        {
+            "step": 8,
+            "instruction": "Once cooled, you can dust the top with powdered sugar or frost with cream cheese frosting if desired. The spice cake pairs beautifully with a tangy frosting, but it’s also delicious on its own. Just make sure the cake is fully cooled before frosting to avoid melting.",
+            "timing": "10 minutes",
+            "doneness_cue": "Frosting or dusting is smooth and evenly applied"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve with a warm cup of tea or coffee for the ultimate cozy experience. This cake keeps well for several days when stored properly, so it’s great for making ahead. Enjoy the tender crumb and warm spices in every bite!",
+            "timing": "0 minutes",
+            "doneness_cue": "Cake is moist, tender, and aromatic when served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spice Cake Stays Moist and Tender",
+        "content": "<p>This spice cake recipe succeeds because it balances moisture, leavening, and spice perfectly. The key ingredient is unsweetened applesauce, which replaces oil or butter to keep the cake moist without added fat. Applesauce adds natural sweetness and tenderizes the crumb by contributing liquid and pectin, which helps retain moisture during baking.</p><p>The combination of baking powder and baking soda is carefully measured to provide just enough rise without creating large air pockets that can dry out the cake. Baking soda reacts with the acidic buttermilk to produce carbon dioxide gas, which lightens the batter while the baking powder provides additional lift. This dual leavening ensures the cake is fluffy yet dense enough to feel substantial.</p><p>The spices—cinnamon, nutmeg, and cloves—are added in moderate amounts to create warmth and depth without overpowering the apple flavor. Mixing the dry spices evenly into the flour prevents clumping and ensures every bite has a balanced taste. The vanilla extract adds a subtle aromatic layer that complements the spices.</p><p>Finally, the technique of alternating dry ingredients with buttermilk during mixing helps prevent overdeveloping gluten, which would result in a tough cake. Gentle folding keeps the crumb tender and soft. Cooling the cake properly before frosting or serving preserves its moist texture and prevents sogginess.</p>",
+        "ingredient_notes": {
+            "unsweetened applesauce": "Choose a high-quality unsweetened applesauce with a smooth texture and natural apple flavor. It functions as a fat substitute, adding moisture and a subtle sweetness. Avoid varieties with added sugars or preservatives, as these can affect the cake’s flavor and texture. Applesauce also contributes pectin, which helps keep the crumb tender and moist during baking.",
+            "all-purpose flour": "Use all-purpose flour for a balanced protein content that provides structure without making the cake too dense. Sifting or whisking the flour before mixing helps aerate it and remove lumps, promoting an even crumb. Avoid using cake flour exclusively, as it may make the cake too delicate, or bread flour, which can toughen the texture due to higher gluten.",
+            "buttermilk": "Buttermilk adds acidity that reacts with baking soda to create lift and a tender crumb. It also imparts a slight tang that balances the sweetness and spices. When choosing buttermilk, opt for fresh or cultured varieties. If unavailable, you can make a substitute by adding 1 tablespoon of lemon juice or vinegar to 1 cup of milk and letting it sit for 5 minutes.",
+            "baking powder and baking soda": "The combination of baking powder and baking soda provides controlled leavening. Baking soda activates immediately when combined with acidic ingredients like buttermilk, while baking powder works in two phases (when wet and when heated). Using both ensures the cake rises evenly and has a light texture without large holes or dense spots.",
+            "spices (cinnamon, nutmeg, cloves)": "Fresh, high-quality ground spices are essential for a vibrant flavor. Old or stale spices can taste dull and flat. The warm spices in this recipe create a comforting aroma and depth that pairs perfectly with the applesauce. Be careful not to overdo cloves, as they can overpower other flavors. A balanced blend enhances without overwhelming."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always measure flour by spooning it into the cup and leveling off instead of scooping directly.",
+            "reason": "Scooping flour directly with a measuring cup can compact it, leading to too much flour and a dry, dense cake. Spoon and level gives you a lighter, more accurate measurement, which keeps the crumb tender and moist."
+        },
+        {
+            "tip": "Use room temperature eggs and buttermilk for better mixing.",
+            "reason": "Cold ingredients can cause the batter to curdle or mix unevenly, affecting texture and rise. Room temperature ingredients blend more smoothly, helping the cake rise evenly and develop a consistent crumb."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the flour.",
+            "reason": "Overmixing develops gluten in the flour, making the cake tough and chewy instead of tender. Mixing just until combined keeps the crumb soft and light."
+        },
+        {
+            "tip": "Let the cake cool completely before frosting or slicing.",
+            "reason": "Cutting or frosting a warm cake can cause it to crumble or the frosting to melt. Cooling sets the crumb and makes the cake easier to handle, resulting in cleaner slices and a better presentation."
+        },
+        {
+            "tip": "Use fresh spices for the best flavor.",
+            "reason": "Spices lose potency over time. Freshly ground or recently purchased spices deliver the warm, aromatic notes essential to this cake’s flavor profile."
+        },
+        {
+            "tip": "Tap the cake pan gently before baking to release air bubbles.",
+            "reason": "Air bubbles can cause holes or uneven texture. Tapping helps the batter settle into an even layer, producing a uniform crumb."
+        },
+        {
+            "tip": "Grease and flour your pan well to prevent sticking.",
+            "reason": "A properly prepared pan ensures the cake releases cleanly without tearing or sticking, preserving its shape and texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the cake",
+            "why_it_happens": "Many bakers leave the cake in the oven too long, thinking it will be more cooked through. This often happens because ovens vary and timers aren’t checked closely.",
+            "fix": "Start checking the cake 5 minutes before the recommended baking time by inserting a toothpick in the center. Remove the cake as soon as it comes out clean or with a few moist crumbs. Overbaking dries out the cake and ruins the tender crumb."
+        },
+        {
+            "mistake": "Not measuring flour correctly",
+            "why_it_happens": "It’s easy to scoop flour directly with the cup, which packs it too tightly and adds extra flour.",
+            "fix": "Spoon the flour into your measuring cup and level it off with a knife. This prevents adding too much flour, which can make the cake dry and dense."
+        },
+        {
+            "mistake": "Skipping the pan greasing step",
+            "why_it_happens": "Sometimes it’s tempting to skip greasing to save time or calories.",
+            "fix": "Always grease and flour your pan or use parchment paper. This prevents sticking and breakage when removing the cake."
+        },
+        {
+            "mistake": "Using old spices",
+            "why_it_happens": "Spices lose flavor over months, and many bakers don’t check their spice freshness.",
+            "fix": "Replace spices every 6 months to a year. Fresh spices deliver the warm, vibrant flavor that this cake depends on."
+        },
+        {
+            "mistake": "Mixing batter too vigorously after adding flour",
+            "why_it_happens": "In an effort to combine ingredients quickly, many overmix batter.",
+            "fix": "Mix gently and only until the flour disappears. Overmixing develops gluten and toughens the cake."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped nuts",
+            "description": "Stir in 1/2 cup chopped walnuts or pecans for a crunchy texture and nutty flavor. It adds a nice contrast to the soft crumb and complements the spices beautifully.",
+            "technical_note": "Fold nuts in gently at the end of mixing to avoid overworking the batter."
+        },
+        {
+            "name": "Use pumpkin puree instead of applesauce",
+            "description": "Swap applesauce for an equal amount of pumpkin puree for a richer flavor and deeper orange color. Pumpkin’s subtle sweetness and moisture work well with the spices for a fall twist.",
+            "technical_note": "Pumpkin puree is thicker, so you might want to slightly reduce the flour (by about 2 tablespoons) to keep the right batter consistency."
+        },
+        {
+            "name": "Add raisins or dried cranberries",
+            "description": "Mix 1/3 cup raisins or dried cranberries into the batter for bursts of chewy sweetness. These dried fruits soak up some moisture but add a lovely texture and flavor contrast.",
+            "technical_note": "Toss dried fruit in a little flour before adding to prevent sinking to the bottom."
+        },
+        {
+            "name": "Top with cream cheese frosting",
+            "description": "Spread a tangy cream cheese frosting over the cooled cake to add richness and balance the warm spices. It turns the cake into a showstopping dessert perfect for special occasions.",
+            "technical_note": "Ensure the cake is completely cooled before frosting to avoid melting."
+        },
+        {
+            "name": "Make cupcakes instead of a cake",
+            "description": "Divide the batter into lined muffin tins and bake for about 18-22 minutes for spice cupcakes. This makes a fun, portable treat perfect for parties or lunchboxes.",
+            "technical_note": "Check doneness earlier due to smaller size; toothpick should come out clean."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake keeps well at room temperature for up to 2 days when covered loosely with a cake dome or wrapped with plastic wrap. Avoid direct sunlight or heat, which can dry it out.",
+        "refrigerator": "Store in an airtight container or wrapped tightly for up to 5 days. The cake may firm up slightly but will stay moist. You can serve it cold or bring to room temperature before eating.",
+        "freezer": "Freeze wrapped tightly in plastic wrap and then foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Freezing may slightly change texture but the cake will remain delicious.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Adding a small dab of butter or a splash of milk can help restore moisture during reheating.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated before baking. Alternatively, bake the cake and store it frozen or refrigerated, then frost or dust with sugar just before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute applesauce with oil or butter?",
+            "answer": "Yes, but keep in mind that applesauce adds moisture with less fat, so replacing it with oil or butter will make the cake richer and denser. Use about 3/4 cup of oil or melted butter to replace 1 cup of applesauce. You may also want to reduce the sugar slightly to balance sweetness."
+        },
+        {
+            "question": "What if I don’t have buttermilk?",
+            "answer": "You can make a simple buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1 cup of milk. Let it sit for 5 minutes until it curdles slightly. This acidity activates the baking soda and helps tenderize the cake."
+        },
+        {
+            "question": "How do I know when the cake is done?",
+            "answer": "Insert a toothpick or skewer into the center of the cake. If it comes out clean or with just a few moist crumbs, it’s done. If there’s wet batter, it needs more time. Avoid overbaking to keep the cake moist."
+        },
+        {
+            "question": "Can I use gluten-free flour?",
+            "answer": "Yes, but results may vary. Use a gluten-free all-purpose blend that includes xanthan gum for best texture. The cake may be slightly more crumbly but still tasty. Adjust baking time as needed."
+        },
+        {
+            "question": "Why does my cake sometimes sink in the middle?",
+            "answer": "This usually happens when the oven temperature is too low, or the cake is underbaked. Make sure your oven is fully preheated and don’t open the door early during baking. Also, measure leavening agents carefully."
+        },
+        {
+            "question": "Can I add frosting or glaze?",
+            "answer": "Absolutely! Cream cheese frosting or a simple powdered sugar glaze pairs wonderfully with the warm spices. Just ensure the cake is completely cooled before applying to avoid melting or sliding."
+        },
+        {
+            "question": "How long will the cake stay fresh?",
+            "answer": "Stored properly in an airtight container, the cake stays fresh for up to 5 days in the fridge. It also freezes well for up to 3 months. Bring to room temperature before serving for best flavor."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "To make it vegan, replace eggs with flax eggs (1 tablespoon ground flaxseed mixed with 3 tablespoons water per egg) and use plant-based milk with vinegar as buttermilk substitute. Use vegan applesauce and check spices for additives."
+        }
+    ],
+    "conclusion": "Give this spice cake a try and enjoy the cozy, tender bites with your loved ones. Don’t forget to share how it turned out—I’d love to hear your thoughts!",
+    "seo": {
+        "primary_keyword": "spice cake with applesauce",
+        "secondary_keywords": [
+            "moist spice cake recipe",
+            "easy apple spice cake",
+            "how to make spice cake",
+            "best spice cake recipe",
+            "applesauce cake recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make moist cakes",
+                "anchor": "moist-cake-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_1.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_2.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_3.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Moist Spice Cake with Applesauce – Your New Fall Favorite!"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Moist Spice Cake with Applesauce – Your New Fall Favorite!"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Tender, Moist Spice Cake with Applesauce – No Oil Needed!"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make a Moist and Tender Spice Cake with Applesauce"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Moist Spice Cake with Applesauce – Your New Fall Favorite!"
+        },
+        {
+            "fileName": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images/easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Spice Cake with Applesauce – Perfect for Cozy Nights In"
+        }
+    ],
+    "id": "post_1783898075_475",
+    "slug": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking",
+    "isOnline": true,
+    "createdAt": "2026-07-13T00:28:44+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-13T00:28:44+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-spice-cake-recipe-with-applesauce-for-moist-cozy-comfort-baking/images",
+    "has_reel": true
+}

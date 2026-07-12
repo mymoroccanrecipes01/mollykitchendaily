@@ -1,0 +1,365 @@
+{
+    "title": "Warm Spice Cake with Tangy Cream Cheese Frosting for Cozy Moments",
+    "promptIMG": "Food photography: Warm Spice Cake with Cream Cheese Frosting, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spice cake is the perfect cozy treat, bursting with cinnamon, nutmeg, and cloves. Topped with a tangy cream cheese frosting that balances the spices beautifully. Great for chilly afternoons or holiday gatherings!",
+    "hashtags": "#spicecake #comfortdessert #creamcheesefrosting",
+    "board_name": "Comfort Food Desserts",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Classic Spice Cake and Cream Cheese Frosting!",
+            "description": "Nothing beats the warm flavors of this spice cake topped with luscious cream cheese frosting. Easy to make and perfect for sharing! Save this recipe and try it today 🧡🍰 #spicecake #dessertlover #bakingfun"
+        },
+        {
+            "title": "Discover the Ultimate Spiced Cake with Cream Cheese Frosting",
+            "description": "Looking for a comforting dessert? This spice cake with tangy cream cheese frosting hits all the right notes. Perfect for holiday dinners or weekend treats. Give it a go and share the love! 🎉🍂 #comfortfood #cake #creamcheesefrosting"
+        },
+        {
+            "title": "Easy Homemade Spice Cake That Will Wow Your Guests",
+            "description": "Whip up this fragrant spice cake topped with smooth cream cheese frosting in no time! It’s a crowd-pleaser that feels like a warm hug in every bite. Try it now and impress your friends! 🍰✨ #spicedcake #homemade #dessertideas"
+        },
+        {
+            "title": "Your New Favorite Spice Cake Recipe with Cream Cheese Frosting",
+            "description": "This spice cake is packed with cozy spices and finished with a tangy cream cheese frosting that’s just perfect. Ideal for chilly days or celebrations. Save this recipe and enjoy every bite! 🍂💛 #cake #comfortdessert #bakinglove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 1/2 cups all-purpose flour, sifted",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 tablespoon ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1/2 teaspoon ground cloves",
+        "1/2 teaspoon ground ginger",
+        "1 cup unsalted butter, softened",
+        "1 cup brown sugar, packed",
+        "3 large eggs",
+        "1 cup buttermilk",
+        "1 teaspoon vanilla extract",
+        "For the frosting:",
+        "8 ounces cream cheese, softened",
+        "1/2 cup unsalted butter, softened",
+        "3 cups powdered sugar, sifted",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "One 9-inch two-layer cake, 8 servings",
+    "introduction": "I first baked this spice cake years ago during a chilly fall weekend, and it immediately became a family favorite. What I love about this recipe is how it balances warm aromatic spices like cinnamon, nutmeg, and cloves without being overpowering. It’s that perfect cozy cake that feels like a hug in dessert form. Over time, I tweaked the frosting to be a tangy cream cheese blend rather than just a sugary glaze, and that’s what really takes it over the top. The cream cheese brings a subtle sharpness that cuts through the sweetness and complements the spices beautifully. One trick I learned is to sift the dry ingredients well and fold them gently into the wet mix, which keeps the cake tender and moist. Also, letting the cake layers cool completely before frosting prevents any melting or sliding. The finished cake is moist, fragrant, and topped with a smooth, creamy frosting that’s just the right balance of sweet and tangy. It’s perfect for holiday celebrations, a weekend treat, or any time you want to feel cozy and indulged. Honestly, this cake has saved me on many occasions when I needed a reliable dessert that impresses but isn’t complicated. I’m excited to share this with you — I think you’ll love how simple yet special it feels!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans to ensure the cakes release easily after baking. Properly preparing the pans prevents sticking and helps the cakes bake evenly. Avoid skipping this step as it can ruin the cake’s shape and texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pans are evenly greased and floured with no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, sift together the flour, baking powder, baking soda, salt, cinnamon, nutmeg, cloves, and ginger. Sifting not only mixes the spices evenly but also aerates the flour, which helps create a lighter cake texture. Be sure to mix well so the spices are distributed uniformly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are combined into a smooth, even mixture without clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and brown sugar together on medium speed until light and fluffy, about 3-4 minutes. This creaming step is crucial because it incorporates air into the batter, which helps the cake rise and gives it a tender crumb. If you rush this or don’t beat long enough, the cake can turn out dense.",
+            "timing": "4 minutes",
+            "doneness_cue": "Mixture turns pale and fluffy, with no visible sugar granules"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, beating well after each addition to ensure they are fully incorporated. This gradual addition helps maintain the emulsion and prevents the batter from curdling. If you add eggs too quickly, the batter can separate, affecting texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter looks smooth and glossy with no streaks of egg"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the vanilla extract for flavor depth. Then, alternately add the dry ingredients and buttermilk to the butter mixture, starting and ending with dry ingredients. Fold gently using a spatula or beat on low speed to avoid overmixing. Overmixing can develop gluten and make the cake tough, while undermixing leads to uneven texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth and uniform, with no lumps or streaks of flour"
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the batter evenly between the prepared pans and smooth the tops with a spatula. This ensures even baking and level layers for stacking. Tap the pans lightly on the counter to release any large air bubbles that might cause holes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter surface is smooth and evenly distributed in pans"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cakes in the preheated oven for 28-32 minutes. Start checking at 28 minutes by inserting a toothpick in the center — it should come out clean or with a few moist crumbs. Baking too long dries the cake; too short leaves it undercooked and gummy.",
+            "timing": "28-32 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out mostly clean with moist crumbs"
+        },
+        {
+            "step": 8,
+            "instruction": "Allow the cakes to cool in the pans for 10 minutes, then run a knife around the edges and invert onto wire racks to cool completely. Cooling fully prevents the frosting from melting and sliding off. Patience here is key for a neat, professional-looking cake.",
+            "timing": "1 hour",
+            "doneness_cue": "Cakes are completely cool to the touch and firm"
+        },
+        {
+            "step": 9,
+            "instruction": "For the frosting, beat the softened cream cheese and butter together until smooth and creamy. Gradually add the powdered sugar and vanilla, beating until fluffy. The cream cheese adds tang and moisture, balancing the spices. Don’t overbeat or it can become too soft and hard to spread.",
+            "timing": "10 minutes",
+            "doneness_cue": "Frosting is smooth, thick, and spreadable without lumps"
+        },
+        {
+            "step": 10,
+            "instruction": "Spread a generous layer of frosting on one cake layer, then top with the second layer and cover the entire cake with the remaining frosting. Use a spatula to create swirls or smooth it out as you like. Chill briefly if the frosting feels too soft to handle.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake is evenly frosted with no bare spots and firm to the touch"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spice Cake is So Perfectly Moist and Flavorful",
+        "content": "<p>This spice cake achieves its tender crumb and deep flavor through a careful balance of ingredients and technique. The combination of baking powder and baking soda provides proper leavening: baking powder releases carbon dioxide slowly when heated, while baking soda reacts immediately with the acidic buttermilk. This dual action helps the cake rise evenly without collapsing.</p><p>The spices—cinnamon, nutmeg, cloves, and ginger—are all ground finely and mixed thoroughly with the flour. This ensures the flavors are evenly distributed and infuse the batter during baking. Sifting the dry ingredients aerates the mixture, contributing to a lighter texture by preventing dense pockets of flour.</p><p>Creaming the butter and sugar is a vital step that incorporates air into the batter, creating tiny bubbles that expand during baking and give the cake its soft, airy crumb. Adding eggs gradually maintains the emulsion, preventing the batter from breaking and ensuring a smooth texture. The buttermilk provides acidity that tenderizes gluten development, keeps the cake moist, and reacts with baking soda for lift.</p><p>The cream cheese frosting is not just a sweet topping but a flavor counterpoint. Its tanginess cuts through the warm spices and sweetness, balancing the overall taste. Beating the cream cheese and butter until smooth before adding sugar creates a creamy, stable frosting that spreads easily without melting or becoming runny. Altogether, these elements and techniques come together to produce a moist, flavorful cake that feels both comforting and sophisticated.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour with moderate protein content (around 10-12%) to provide enough structure without making the cake tough. Sifting the flour before use helps aerate it and remove lumps, which contributes to a lighter, tender crumb. Avoid using bread flour as it has too much gluten and can make the cake dense.",
+            "buttermilk": "Buttermilk’s acidity is key for reacting with baking soda to leaven the cake and tenderize the gluten. It also adds moisture and a subtle tang that enhances the spice flavors. If you don’t have buttermilk, mix 1 cup milk with 1 tablespoon lemon juice or vinegar and let it sit for 5 minutes as a substitute.",
+            "cream cheese": "Use full-fat cream cheese for the frosting to achieve a creamy texture and rich tang. Low-fat versions tend to be watery and won’t whip up well. Make sure it’s softened to room temperature to avoid lumps and ensure the frosting is smooth and spreadable.",
+            "spices": "Freshly ground spices offer the most vibrant flavor in this cake. Pre-ground spices lose potency over time, so if possible, grind whole cinnamon sticks or nutmeg fresh. The blend of cinnamon, nutmeg, cloves, and ginger creates a warm, balanced spice profile that’s not too overpowering.",
+            "brown sugar": "Using brown sugar instead of white sugar adds moisture and a subtle molasses flavor that complements the spices. It also helps keep the cake moist and tender. Make sure to pack the brown sugar firmly when measuring for consistent sweetness and texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature ingredients for better mixing.",
+            "reason": "Room temperature butter, eggs, and cream cheese blend more easily and evenly with other ingredients. This prevents curdling and ensures a smooth batter and frosting. Cold ingredients can cause lumps and uneven texture."
+        },
+        {
+            "tip": "Don’t overmix the batter once flour is added.",
+            "reason": "Overmixing develops gluten, which makes cakes tough and dense rather than tender. Mixing just until combined keeps the crumb soft and light."
+        },
+        {
+            "tip": "Sift dry ingredients together before adding to wet.",
+            "reason": "Sifting aerates the flour and spices and removes lumps, resulting in a lighter cake and even spice distribution."
+        },
+        {
+            "tip": "Use fresh spices for the best flavor.",
+            "reason": "Spices lose potency over time, so freshly ground cinnamon, nutmeg, and cloves offer a brighter, warmer flavor that really elevates the cake."
+        },
+        {
+            "tip": "Let the cake layers cool completely before frosting.",
+            "reason": "Frosting warm cake causes it to melt and slide off, ruining the appearance and texture."
+        },
+        {
+            "tip": "Beat butter and sugar until fluffy for a tender crumb.",
+            "reason": "Creaming incorporates air which expands during baking, making the cake light and moist."
+        },
+        {
+            "tip": "Use buttermilk or a buttermilk substitute for moisture and rise.",
+            "reason": "The acidity reacts with baking soda to tenderize the cake and promote an even rise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding eggs too quickly",
+            "why_it_happens": "Many rush through adding eggs without beating properly between additions, causing the batter to curdle or separate.",
+            "fix": "Add eggs one at a time, beating well after each to maintain a smooth emulsion and prevent texture issues."
+        },
+        {
+            "mistake": "Overbaking the cake",
+            "why_it_happens": "It’s easy to leave the cake in the oven too long, drying it out.",
+            "fix": "Start checking for doneness at the minimum baking time using a toothpick. Pull it out as soon as it comes out clean or with moist crumbs."
+        },
+        {
+            "mistake": "Frosting warm cake layers",
+            "why_it_happens": "Impatience to frost immediately leads to melting and sliding frosting.",
+            "fix": "Let the cakes cool completely on wire racks before frosting to keep the topping stable."
+        },
+        {
+            "mistake": "Skipping sifting of dry ingredients",
+            "why_it_happens": "Some skip sifting thinking it’s unnecessary, but this step aerates and blends spices evenly.",
+            "fix": "Always sift flour and spices together to avoid clumps and dense spots in the cake."
+        },
+        {
+            "mistake": "Using cold cream cheese for frosting",
+            "why_it_happens": "Cold cream cheese is hard to beat and often creates lumps.",
+            "fix": "Soften cream cheese at room temperature before mixing for a smooth, creamy frosting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Apple Spice Cake",
+            "description": "Add 1 cup of finely chopped peeled apples to the batter for a moist, fruity twist. The apples add natural sweetness and a tender texture that pairs wonderfully with the spices and cream cheese frosting.",
+            "technical_note": "Fold the apples in gently after mixing the batter to avoid overmixing. You may need to bake a few minutes longer due to added moisture."
+        },
+        {
+            "name": "Walnut Spice Cake",
+            "description": "Stir in 1 cup of toasted chopped walnuts for crunch and a nutty flavor. Walnuts complement the warm spices and add a pleasant texture contrast to the soft cake and creamy frosting.",
+            "technical_note": "Fold nuts in after combining wet and dry ingredients. Toasting them beforehand enhances flavor."
+        },
+        {
+            "name": "Gluten-Free Spice Cake",
+            "description": "Swap all-purpose flour for a gluten-free flour blend to make this cake suitable for gluten-sensitive diets. The texture will be slightly different but still deliciously moist and flavorful.",
+            "technical_note": "Use a blend with xanthan gum included for structure. Avoid overmixing to prevent crumbly texture."
+        },
+        {
+            "name": "Vegan Spice Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flax + 3 tbsp water per egg) and use vegan butter and cream cheese alternatives. This version keeps the warm spice flavor with a plant-based twist.",
+            "technical_note": "Flax eggs need time to gel before adding. Baking time may be slightly longer; watch for doneness carefully."
+        },
+        {
+            "name": "Orange-Spiced Cake",
+            "description": "Add 1 tablespoon of orange zest to the batter and 1 teaspoon orange juice to the frosting for a bright citrus note that pairs beautifully with the warm spices.",
+            "technical_note": "Zest before juicing to avoid bitterness. Incorporate zest with dry ingredients for even flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "58g",
+        "fat_grams": "18g",
+        "fiber_grams": "2g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can safely sit covered at room temperature for up to 2 days. Keep it wrapped tightly with plastic wrap or in a cake dome to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 5 days. The frosting firms up when chilled, which some prefer. Let the cake come to room temperature before serving for best flavor.",
+        "freezer": "Wrap the cake tightly in plastic wrap and then foil, freezing for up to 3 months. Thaw overnight in the fridge and bring to room temperature before serving. Freezing may slightly change the frosting texture.",
+        "reheating": "For a warm slice, microwave a piece for 15-20 seconds or warm in a low oven (300°F) for 10 minutes. Avoid overheating to keep the cake moist. Add a small splash of milk if the cake feels dry.",
+        "make_ahead_strategy": "Bake the cake layers a day ahead and store wrapped at room temperature or in the fridge. Prepare the frosting separately and frost the cake the day you plan to serve for freshest taste and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes! Substitute the all-purpose flour with a gluten-free flour blend that includes xanthan gum for structure. The texture will be slightly different but still moist and delicious. Avoid overmixing to keep the cake tender."
+        },
+        {
+            "question": "What can I use if I don’t have buttermilk?",
+            "answer": "You can make a buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1 cup of milk. Let it sit for 5 minutes before using. This acidity helps tenderize the cake and activates the baking soda."
+        },
+        {
+            "question": "How do I prevent the frosting from melting?",
+            "answer": "Make sure the cake layers are completely cooled before frosting. Also, keep the frosting cool and only bring it to room temperature before spreading. If it’s too soft, chill it briefly to firm up before frosting."
+        },
+        {
+            "question": "Can I make this cake ahead of time?",
+            "answer": "Absolutely! You can bake the layers up to 2 days ahead and keep them wrapped at room temperature or refrigerated. Prepare the frosting separately and assemble the cake the day you plan to serve for best freshness."
+        },
+        {
+            "question": "Why is my cake dense instead of light?",
+            "answer": "This usually happens if the batter is overmixed after adding flour or if the butter and sugar weren’t creamed long enough. Make sure to mix just until combined and cream butter and sugar until fluffy for a tender crumb."
+        },
+        {
+            "question": "Can I substitute the cream cheese frosting?",
+            "answer": "Yes, you can swap it for a simple vanilla buttercream or a powdered sugar glaze. However, the cream cheese frosting adds a lovely tang that balances the spices, so I recommend trying it at least once!"
+        },
+        {
+            "question": "How long does the cake keep fresh?",
+            "answer": "At room temperature, the cake stays fresh for about 2 days when covered well. Refrigerated, it lasts up to 5 days, but the frosting firms up. You can also freeze the cake for up to 3 months."
+        },
+        {
+            "question": "Can I add nuts or fruit to the batter?",
+            "answer": "Yes! Chopped nuts like walnuts or pecans add crunch, and apples or raisins add moisture and sweetness. Fold them gently into the batter to avoid overmixing and adjust baking time slightly."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this cozy spice cake as much as I do! Don’t forget to let me know how it turns out and share your tweaks.",
+    "seo": {
+        "primary_keyword": "spice cake with cream cheese frosting",
+        "secondary_keywords": [
+            "easy spice cake recipe",
+            "how to make spice cake",
+            "best cream cheese frosting",
+            "homemade spice cake",
+            "simple spice cake dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make cream cheese frosting",
+                "anchor": "cream-cheese-frosting"
+            },
+            {
+                "text": "easy homemade cake recipes",
+                "anchor": "easy-homemade-cakes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_9.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Cozy Up with This Classic Spice Cake and Cream Cheese Frosting!"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_5.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Discover the Ultimate Spiced Cake with Cream Cheese Frosting"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_6.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Homemade Spice Cake That Will Wow Your Guests"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_7.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Your New Favorite Spice Cake Recipe with Cream Cheese Frosting"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_4.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Cozy Up with This Classic Spice Cake and Cream Cheese Frosting!"
+        },
+        {
+            "fileName": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_8.webp",
+            "relativePath": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images/the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Cozy Up with This Classic Spice Cake and Cream Cheese Frosting!"
+        }
+    ],
+    "id": "post_1783897959_995",
+    "slug": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings",
+    "isOnline": true,
+    "createdAt": "2026-07-13T00:28:44+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-13T00:28:44+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "the-best-spice-cake-recipe-with-cream-cheese-frosting-for-cozy-family-gatherings/images",
+    "has_reel": true
+}
