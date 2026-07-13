@@ -1,0 +1,348 @@
+{
+    "title": "Sweet and Juicy Summer Peach Crisp with a Buttery Oat Topping",
+    "promptIMG": "Food photography: Summer Peach Crisp, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach crisp celebrates the natural sweetness of ripe peaches with a crunchy oat topping. It’s super simple to make and perfect for lazy weekend afternoons or casual dinners. The secret? A pinch of cinnamon that just lifts the whole dish!",
+    "hashtags": "#peachcrisp #summerdessert #easybaking",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Discover the Best Summer Peach Crisp Recipe You’ll Love!",
+            "description": "Nothing beats a warm peach crisp on a sunny day! 🍑 This recipe is quick, simple, and packed with juicy peaches and a buttery oat topping. Save this for your next dessert craving! #peachdessert #summerrecipes #easybaking"
+        },
+        {
+            "title": "How to Make a Perfect Peach Crisp with a Crunchy Topping",
+            "description": "Learn my go-to peach crisp recipe that’s bursting with flavor and texture. 🍑✨ Easy to whip up and always a crowd-pleaser. Try it today and enjoy a slice of summer! #peachcrisp #homemadedessert #summerbaking"
+        },
+        {
+            "title": "Simple Peach Crisp Recipe for a Cozy Weekend Treat",
+            "description": "Looking for a dessert that’s both comforting and fresh? This peach crisp hits the spot with juicy peaches and a crispy oat topping. Perfect for sharing or savoring solo! Save this recipe now! 🍑💛 #peachdessert #weekendtreat #easyrecipes"
+        },
+        {
+            "title": "Juicy Peach Crisp with a Buttery Oat Topping You Can’t Resist",
+            "description": "This peach crisp is my summer favorite — sweet peaches, warm cinnamon, and a crunchy oat topping. It’s so easy to make and perfect for any occasion. Give it a try and share your thoughts! 🍑🥄 #peachcrisp #summerdessert #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 40,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh peaches, peeled and sliced",
+        "1/4 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "1 tablespoon lemon juice, freshly squeezed",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon vanilla extract",
+        "1 cup old-fashioned rolled oats",
+        "1/2 cup all-purpose flour",
+        "1/2 cup brown sugar, packed",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cubed"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this peach crisp a few summers ago when I had an abundance of ripe peaches from a local farmer’s market. I wanted something easy and fuss-free but still bursting with fresh peach flavor. After a few trials, I found this version that balances juicy peaches with a crunchy, buttery oat topping perfectly. What sets this recipe apart is using old-fashioned rolled oats for that hearty texture and a touch of cinnamon in both the filling and topping to add warmth without overpowering the peaches. I also like to add a splash of lemon juice to brighten the fruit’s natural sweetness. The finished crisp is golden on top with bubbling peach juices underneath — juicy, sweet, and just a little tart. It’s great warm from the oven with a scoop of vanilla ice cream or just on its own for a light dessert. I’ve made it for casual get-togethers and quiet Sunday afternoons, and it always feels like a little celebration of summer. Honestly, the first time I rushed peeling the peaches, the texture was off, so take your time there — it really makes a difference. This crisp is one of those recipes that feels like a hug in dessert form, and I’m excited for you to try it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by peeling and slicing your fresh peaches. Peeling is important because the skin can get tough and detract from the soft, juicy texture we want in the filling. Use a paring knife or blanch peaches briefly in boiling water to loosen the skins. Slice them evenly to ensure they cook uniformly, which helps the filling become tender but not mushy.",
+            "timing": 15,
+            "doneness_cue": "Peach slices should be tender but still hold their shape after cooking."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the sliced peaches with granulated sugar, brown sugar, lemon juice, cinnamon, and vanilla extract. This mixture sweetens and flavors the peaches while the lemon juice brightens the natural fruit flavors and prevents browning. Stir gently to coat all slices evenly without bruising them.",
+            "timing": 5,
+            "doneness_cue": "Peaches should be evenly coated, and the mixture should look juicy and fragrant."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your oven to 350°F (175°C). While it heats, grease a 9-inch baking dish with butter or nonstick spray to prevent sticking and help the topping brown nicely.",
+            "timing": 5,
+            "doneness_cue": "Oven fully preheated and baking dish ready for filling."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the peach mixture into the prepared baking dish, spreading it out evenly so every bite has fruit. The even layer ensures the topping cooks consistently and the peaches bake through properly.",
+            "timing": 3,
+            "doneness_cue": "Peach layer is level and evenly distributed in the dish."
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate bowl, combine the oats, flour, brown sugar, cinnamon, and salt for the topping. Mix these dry ingredients well to distribute flavors and ensure the topping bakes evenly.",
+            "timing": 5,
+            "doneness_cue": "Dry topping ingredients are thoroughly combined with no clumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the cold cubed butter to the dry topping mixture. Use a pastry cutter or your fingers to work the butter into the oats and flour until the mixture resembles coarse crumbs. This step creates that crumbly, buttery texture that crisps up beautifully in the oven. Avoid melting the butter by working quickly.",
+            "timing": 8,
+            "doneness_cue": "Topping has a crumbly texture with visible small butter bits."
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle the oat topping evenly over the peach filling, covering the fruit completely. This layer will bake up crispy and golden, contrasting the soft peaches underneath.",
+            "timing": 2,
+            "doneness_cue": "Topping fully covers the peach layer with no gaps."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the crisp in the preheated oven for about 35-40 minutes. The topping should turn golden brown and the peach juices will bubble around the edges. This bubbling signals the filling is cooked and thickened nicely.",
+            "timing": 40,
+            "doneness_cue": "Topping is golden and crisp; peach juices are bubbling."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the crisp from the oven and let it cool for at least 10 minutes before serving. This resting time allows the filling to set slightly, making it easier to serve and enhancing the flavors.",
+            "timing": 10,
+            "doneness_cue": "Filling is slightly thickened and not too runny when scooped."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peach Crisp Is So Delicious",
+        "content": "<p>The success of this peach crisp lies in the balance between the juicy fruit filling and the crunchy oat topping. Peaches contain a high water content, which can make desserts soggy if not handled carefully. By tossing sliced peaches with sugar and lemon juice, we not only sweeten the fruit but also draw out excess moisture that thickens during baking, preventing a watery filling.</p><p>The oat topping combines rolled oats, flour, and cold butter, which when baked, undergoes the Maillard reaction—a chemical process that creates the golden-brown color and nutty flavor. The cold butter chunks melt slowly, forming pockets of buttery crispness. Using old-fashioned rolled oats instead of quick oats ensures a chewy texture that contrasts nicely with the soft peaches.</p><p>Cinnamon is added to both the filling and topping to infuse warmth and depth of flavor without overpowering the peaches. The lemon juice brightens the sweetness and acts as a natural preservative, preventing the fruit from browning before baking. Lastly, allowing the crisp to rest after baking lets the peach juices thicken further, resulting in a luscious, spoonable texture.</p><p>Each step is intentional to create a dessert that’s both comforting and fresh, highlighting the natural sweetness of summer peaches while adding texture and warmth through the topping.</p>",
+        "ingredient_notes": {
+            "Fresh Peaches": "Choose ripe but firm peaches for this recipe. They should yield slightly to gentle pressure but not be mushy. Overripe peaches can become too soft and watery, making the filling soggy. If fresh peaches aren’t available, frozen thawed peaches can be used, but drain excess liquid to avoid a runny crisp.",
+            "Old-Fashioned Rolled Oats": "Rolled oats provide a chewy, hearty texture in the topping that quick oats can’t match. They hold up well during baking without turning to mush. Avoid instant oats here as they lack structure and won’t crisp properly.",
+            "Unsalted Butter": "Cold, unsalted butter cut into small cubes is essential for the crumbly topping texture. It melts slowly during baking, creating pockets of crispness. Using salted butter can alter the flavor balance, so unsalted is preferred. Keep butter cold to prevent greasy topping.",
+            "Brown Sugar": "Brown sugar adds moisture and a subtle molasses flavor to the topping and filling, deepening the overall taste. It also helps the topping caramelize and brown evenly. Use packed brown sugar to ensure consistent sweetness and texture.",
+            "Lemon Juice": "Fresh lemon juice brightens the peach flavor and prevents oxidation, which keeps the fruit looking fresh and vibrant. It also balances the sweetness, adding a subtle tartness that enhances the overall flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Take your time peeling the peaches carefully.",
+            "reason": "The peach skin can become tough and detract from the soft texture you want in the filling. Blanching peaches in boiling water for 30 seconds loosens the skins, making peeling much easier and preserving the fruit’s delicate texture."
+        },
+        {
+            "tip": "Use cold butter for the topping and work quickly.",
+            "reason": "Cold butter creates small pockets of fat that melt during baking, producing a crisp and flaky topping. If the butter warms up too much, the topping can become greasy and dense instead of crumbly and light."
+        },
+        {
+            "tip": "Don’t skip the lemon juice in the filling.",
+            "reason": "Lemon juice brightens the natural sweetness of the peaches and prevents them from turning brown while prepping. It also adds a subtle acidity that balances the sugar, making the dessert taste fresher and more vibrant."
+        },
+        {
+            "tip": "Let the crisp rest after baking before serving.",
+            "reason": "Resting allows the peach juices to thicken and settle, making it easier to scoop and enhancing the flavor. Serving immediately can result in a runny filling that doesn’t hold together well."
+        },
+        {
+            "tip": "Use old-fashioned rolled oats instead of quick oats.",
+            "reason": "Rolled oats maintain a chewy texture after baking, adding a pleasant contrast to the soft peaches. Quick oats tend to break down too much and can create a mushy topping."
+        },
+        {
+            "tip": "Adjust sugar levels based on peach sweetness.",
+            "reason": "Peach sweetness varies by season and variety. Taste your peaches and reduce sugar if they’re very sweet or increase slightly if they’re tart to keep the balance just right."
+        },
+        {
+            "tip": "Bake until the topping is deep golden brown.",
+            "reason": "A golden brown topping indicates the Maillard reaction has taken place, creating rich flavors and a satisfying crunch. Baking less will leave the topping pale and soft."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the peeling step",
+            "why_it_happens": "Many assume peach skins will soften enough during baking, but they often remain tough and chewy, ruining the texture.",
+            "fix": "Always peel your peaches either by blanching or careful knife work to ensure a smooth, tender filling."
+        },
+        {
+            "mistake": "Using melted or warm butter for the topping",
+            "why_it_happens": "Rushing or softening butter makes it blend too much with dry ingredients, losing the crumbly texture.",
+            "fix": "Keep butter cold and cut into small cubes. Work quickly to combine it with oats and flour to maintain the right texture."
+        },
+        {
+            "mistake": "Not letting the crisp rest before serving",
+            "why_it_happens": "Impatience leads to serving immediately, resulting in a runny filling that doesn’t hold shape.",
+            "fix": "Allow at least 10 minutes cooling time so the juices thicken and flavors meld."
+        },
+        {
+            "mistake": "Overloading the topping",
+            "why_it_happens": "Adding too much topping can overwhelm the fruit and prevent even baking.",
+            "fix": "Use the amount specified to balance fruit and topping layers for perfect texture."
+        },
+        {
+            "mistake": "Ignoring peach ripeness",
+            "why_it_happens": "Using underripe or overripe peaches affects sweetness and texture negatively.",
+            "fix": "Select peaches that are ripe but firm for the best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add a Nutty Twist with Chopped Pecans",
+            "description": "Mix chopped pecans into the oat topping for extra crunch and a toasty flavor. This adds a lovely texture contrast and a rich nutty note that pairs beautifully with peaches.",
+            "technical_note": "Add 1/3 cup chopped pecans to the topping mixture before cutting in the butter. Bake as directed, watching the topping so nuts don’t burn."
+        },
+        {
+            "name": "Gluten-Free Peach Crisp",
+            "description": "Swap all-purpose flour for almond flour or a gluten-free baking blend and use certified gluten-free oats. This keeps the topping crumbly and delicious without gluten.",
+            "technical_note": "Almond flour may brown faster, so check the topping around 30 minutes to avoid burning."
+        },
+        {
+            "name": "Spiced Peach Crisp with Ginger and Nutmeg",
+            "description": "Add 1/2 teaspoon freshly grated ginger and 1/4 teaspoon nutmeg to the peach filling for a warm, aromatic flavor twist that feels cozy and festive.",
+            "technical_note": "Incorporate spices with the cinnamon in the filling step for even flavor distribution."
+        },
+        {
+            "name": "Peach Crisp with a Hint of Bourbon",
+            "description": "Stir in 1 tablespoon of bourbon into the peach mixture for a subtle boozy depth that enhances the natural sweetness and adds complexity.",
+            "technical_note": "Add bourbon with the vanilla extract and lemon juice. Bake as usual."
+        },
+        {
+            "name": "Vegan Peach Crisp",
+            "description": "Use coconut oil in place of butter and maple syrup instead of brown sugar to make a dairy-free and vegan-friendly version that’s just as tasty.",
+            "technical_note": "Chill coconut oil before mixing to mimic cold butter texture for the topping."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This peach crisp can be kept at room temperature for up to 2 hours covered loosely with foil or a clean towel. Longer than that risks spoilage due to the fresh fruit filling.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The topping may soften slightly, but reheating in the oven restores crispness nicely. It can be eaten cold but tastes best warm.",
+        "freezer": "Freeze the crisp in an airtight container or wrapped tightly with plastic wrap and foil for up to 3 months. Thaw overnight in the fridge before reheating. Freezing may soften the topping slightly but flavor remains great.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through and topping is crisp again. Avoid microwaving if possible, as it can make the topping soggy. Add a splash of water or lemon juice if filling seems dry.",
+        "make_ahead_strategy": "You can prepare the peach filling and topping separately 1-2 days ahead. Store filling in the fridge and topping in an airtight container. Assemble and bake fresh on the day you want to serve for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this recipe?",
+            "answer": "Yes, you can use frozen peaches if fresh aren’t available, but thaw them completely and drain excess liquid well before assembling. Frozen peaches release more water, so draining helps prevent a soggy crisp."
+        },
+        {
+            "question": "Do I have to peel the peaches?",
+            "answer": "Peeling is recommended because peach skins can be tough and chewy after baking, which affects the texture of the filling. Blanching peaches in hot water for 30 seconds makes peeling easier and keeps the filling tender."
+        },
+        {
+            "question": "Can I make this crisp gluten-free?",
+            "answer": "Absolutely! Substitute the all-purpose flour with almond flour or a gluten-free baking mix, and make sure to use certified gluten-free rolled oats. The topping will still crisp nicely with these swaps."
+        },
+        {
+            "question": "How do I store leftover peach crisp?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 4 days. Reheat in the oven to regain the crisp topping. Avoid leaving it at room temperature for more than 2 hours due to the fresh fruit."
+        },
+        {
+            "question": "What’s the best way to reheat peach crisp?",
+            "answer": "Reheat in a 350°F oven for about 15-20 minutes until warmed through and the topping crisps back up. Microwaving is quicker but can make the topping soggy, so oven reheating is preferred."
+        },
+        {
+            "question": "Can I add nuts to the topping?",
+            "answer": "Yes! Chopped pecans or walnuts add a lovely crunch and flavor. Mix them into the oat topping before cutting in the butter for even distribution."
+        },
+        {
+            "question": "Why is my peach crisp watery?",
+            "answer": "Watery filling usually means the peaches released too much juice or weren’t thickened properly. Tossing peaches with sugar and lemon juice helps draw out moisture, but letting the crisp rest after baking also allows juices to thicken."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, swap butter for cold coconut oil and use maple syrup or coconut sugar instead of brown sugar. Chill the coconut oil before mixing to mimic the butter’s texture for a crumbly topping."
+        }
+    ],
+    "conclusion": "I hope you love this peach crisp as much as my family does! It’s a simple way to enjoy fresh peaches, so give it a try and let me know how it turns out.",
+    "seo": {
+        "primary_keyword": "summer peach crisp recipe",
+        "secondary_keywords": [
+            "easy peach dessert",
+            "how to make peach crisp",
+            "best peach crisp recipe",
+            "simple peach crisp"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade fruit crisp tips",
+                "anchor": "homemade-fruit-crisp-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_1.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_2.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_3.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Discover the Best Summer Peach Crisp Recipe You’ll Love!"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Discover the Best Summer Peach Crisp Recipe You’ll Love!"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Juicy Peach Crisp with a Buttery Oat Topping You Can’t Resist"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Simple Peach Crisp Recipe for a Cozy Weekend Treat"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make a Perfect Peach Crisp with a Crunchy Topping"
+        },
+        {
+            "fileName": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images/easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Discover the Best Summer Peach Crisp Recipe You’ll Love!"
+        }
+    ],
+    "id": "post_1783983913_291",
+    "slug": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly",
+    "isOnline": true,
+    "createdAt": "2026-07-14T00:21:25+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-14T00:21:25+01:00",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "easy-fresh-peach-desserts-that-capture-summers-juicy-sweetness-perfectly/images",
+    "has_reel": true
+}
