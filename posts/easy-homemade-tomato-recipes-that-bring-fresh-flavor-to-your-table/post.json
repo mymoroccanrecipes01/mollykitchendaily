@@ -1,0 +1,343 @@
+{
+    "title": "Fresh Heirloom Tomato Salad with Basil and Olive Oil Drizzle",
+    "promptIMG": "Food photography: Fresh Heirloom Tomato Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This tomato salad is all about fresh heirlooms and fragrant basil with a simple olive oil drizzle. It really lets the tomatoes shine and makes a perfect light lunch or side dish on warm days.",
+    "hashtags": "#tomatosalad #freshrecipes #summerfood",
+    "board_name": "Fresh Tomato Recipes",
+    "pin_variations": [
+        {
+            "title": "Celebrate Summer with This Bright Heirloom Tomato Salad",
+            "description": "Bright, juicy tomatoes paired with fresh basil and olive oil make this salad a summer favorite. It’s easy to throw together and tastes like sunshine in a bowl. Save this recipe for your next cookout! 🍅🌿 #tomatosalad #summerrecipes #freshfood"
+        },
+        {
+            "title": "Simple Heirloom Tomato Salad That Bursts with Flavor",
+            "description": "Ready in minutes, this tomato salad highlights the natural sweetness of heirlooms with a touch of basil and olive oil. Perfect for a quick lunch or side. Try it today and enjoy fresh flavors! 🍴🌞 #easyrecipes #tomatosalad #freshingredients"
+        },
+        {
+            "title": "The Secret to the Best Tomato Salad? Fresh Basil & Olive Oil",
+            "description": "I love how just a drizzle of olive oil and fresh basil can make heirloom tomatoes sing. This salad is light, fresh, and perfect for any meal. Discover the magic of simplicity — give it a try! 🥗✨ #healthyrecipes #tomatosalad #summerfood"
+        },
+        {
+            "title": "Vibrant Heirloom Tomato Salad You’ll Want Every Day",
+            "description": "Juicy tomatoes, fragrant basil, and the perfect olive oil drizzle come together in this vibrant salad. It’s my go-to for a quick, refreshing bite. Save this recipe and enjoy fresh flavors all season long! 🍅💚 #freshsalads #tomatorecipes #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups heirloom tomatoes, assorted colors, sliced",
+        "1/4 cup fresh basil leaves, torn",
+        "3 tablespoons extra virgin olive oil",
+        "1 tablespoon balsamic vinegar (optional)",
+        "Salt, to taste",
+        "Freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this heirloom tomato salad last summer when I stumbled upon a local farmer’s market bursting with the most vibrant, juicy tomatoes I’d ever seen. I wanted to do something simple that really let those tomatoes shine without drowning them in a heavy dressing. What I love about this version is how the fresh basil and a good-quality olive oil just elevate the natural sweetness and texture of the tomatoes. I remember one time I tried tossing the salad with too much vinegar and it overwhelmed the delicate flavors — lesson learned! Now I stick to just a light drizzle and a sprinkle of salt and pepper, and it always comes out perfectly balanced. The salad is so fresh and colorful, it’s a great addition to any meal or even a light lunch on its own. The key is using ripe, fresh tomatoes and not overcomplicating the dressing. I think you’ll love how simple ingredients can make such a delicious dish.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your heirloom tomatoes gently under cold water. Pat them dry with a clean towel to prevent excess moisture, which can dilute the flavors and make the salad watery. Then slice the tomatoes into varying sizes depending on your preference — some thicker slices for a juicy bite, some thinner for more delicate texture. Using a variety of colors adds visual appeal and a range of subtle flavors that make the salad more interesting.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomatoes sliced evenly with vibrant colors visible and no excess juice pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the sliced tomatoes in a large bowl and sprinkle with a pinch of salt and freshly ground black pepper. The salt helps to draw out some moisture and intensify the tomato’s natural sweetness, while the pepper adds a subtle kick. Be careful not to over-season at this point — you can always add more later. Toss gently to combine without breaking up the tomatoes.",
+            "timing": "3 minutes",
+            "doneness_cue": "Tomatoes lightly coated with seasoning, looking glossy but intact"
+        },
+        {
+            "step": 3,
+            "instruction": "Tear fresh basil leaves by hand instead of chopping with a knife to avoid bruising and releasing bitterness. Add the basil to the tomatoes and toss gently again. The aroma of fresh basil will start to mingle beautifully with the tomatoes, adding a fragrant herbal note that complements the sweetness perfectly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Basil leaves evenly distributed and vibrant green, not wilted"
+        },
+        {
+            "step": 4,
+            "instruction": "Drizzle the extra virgin olive oil evenly over the salad. Use a good quality olive oil for its fruity, peppery flavor that adds richness without overpowering the tomatoes. If you like, add a splash of balsamic vinegar for a touch of acidity and depth, but this is optional depending on your taste. Toss everything gently one last time to combine all the flavors.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad coated lightly and evenly with oil, glistening without pooling"
+        },
+        {
+            "step": 5,
+            "instruction": "Let the salad rest at room temperature for about 10 minutes before serving. This resting time lets the flavors meld together and the tomatoes soften slightly, enhancing the overall taste. Avoid refrigerating right away as cold temperatures can mute the flavors and make the tomatoes mealy.",
+            "timing": "10 minutes",
+            "doneness_cue": "Salad has a fresh aroma and tomatoes look slightly softened but not mushy"
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the salad before serving and adjust the seasoning if needed. Sometimes a little more salt or pepper is needed depending on the tomatoes’ ripeness. This final tweak helps balance the flavors perfectly. Serve in a colorful bowl or on a rustic platter to showcase the beautiful tomato colors.",
+            "timing": "3 minutes",
+            "doneness_cue": "Balanced flavor with bright tomato taste and fresh herbal notes"
+        },
+        {
+            "step": 7,
+            "instruction": "Pair this salad with crusty bread or alongside grilled meats or fish for a light, refreshing side. It’s also fantastic as a simple lunch with some fresh mozzarella or burrata cheese added on top. The creamy cheese adds another layer of texture and richness that complements the tomatoes wonderfully.",
+            "timing": "0 minutes (serving suggestion)",
+            "doneness_cue": "Salad served attractively with complementary dishes"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to prepare the salad ahead of time, slice the tomatoes and store them separately from the basil and dressing. Add the basil and olive oil just before serving to keep everything fresh and prevent the basil from wilting or the tomatoes becoming soggy.",
+            "timing": "0 minutes (prep tip)",
+            "doneness_cue": "Ingredients fresh and vibrant at serving time"
+        },
+        {
+            "step": 9,
+            "instruction": "For extra flavor, try adding a sprinkle of toasted pine nuts or a few thin slices of red onion. These add crunch and a bit of sharpness to the salad, making it even more interesting. Just be mindful not to overpower the delicate tomato flavor with too many additions.",
+            "timing": "5 minutes (optional)",
+            "doneness_cue": "Additional toppings harmonize without masking tomato taste"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Tomato Salad Shines Every Time",
+        "content": "<p>At first glance, this tomato salad looks straightforward, but the success lies in the quality of ingredients and simple techniques that bring out the best in each component. Fresh heirloom tomatoes have a complex flavor profile, combining natural sweetness with subtle acidity. The salt draws out moisture and enhances those flavors without making the salad watery. Using extra virgin olive oil adds richness and a peppery note, which balances the tomatoes’ brightness, while fresh basil contributes a fragrant herbal lift that complements the fruitiness.</p><p>The technique of tearing basil instead of chopping helps prevent bruising and bitterness, preserving the herb’s delicate aroma. Also, letting the salad rest at room temperature allows the flavors to meld and the tomatoes to soften just enough without losing their structure. This resting time is key to achieving a harmonious blend of textures and tastes.</p><p>Choosing ripe, colorful heirloom tomatoes not only makes the salad visually appealing but ensures a range of flavors, from sweet to tangy. The optional balsamic vinegar adds a subtle acidic complexity, but it’s best added sparingly to avoid overpowering the fresh ingredients. The balance between acid, fat, salt, and herbaceous notes creates a salad that feels fresh yet satisfying.</p><p>Overall, this recipe succeeds because it respects the natural qualities of each ingredient and uses minimal intervention to highlight their best characteristics. It’s a celebration of summer’s bounty in a bowl, simple but deeply flavorful.</p>",
+        "ingredient_notes": {
+            "Heirloom Tomatoes": "When selecting heirloom tomatoes, look for firm but ripe fruit with vibrant colors and no soft spots. These tomatoes are prized for their complex flavor compared to standard varieties. They should feel heavy for their size and smell fragrant. Avoid overly green or mushy tomatoes as they lack sweetness and texture. Freshness is key, so buy from local markets if possible and use within a day or two for best flavor.",
+            "Fresh Basil": "Choose bright green basil leaves without any black spots or wilting. Fresh basil adds a sweet, peppery aroma that’s essential to this salad. Avoid pre-cut or packaged basil that may be bruised. Tearing the leaves by hand releases less bitter oils than chopping. If you don’t have fresh basil, a small amount of fresh oregano or mint can substitute but the flavor will differ.",
+            "Extra Virgin Olive Oil": "A good quality extra virgin olive oil is crucial here as it adds fruity, peppery notes and richness. Look for oils labeled 'cold pressed' and stored in dark bottles to preserve freshness. Cheap or refined olive oils lack flavor and can taste greasy. The oil acts as a flavor carrier and mouthfeel enhancer, so its quality directly impacts the salad’s success.",
+            "Balsamic Vinegar": "Using a high-quality balsamic vinegar adds subtle sweetness and acidity that complements the tomatoes. Avoid cheaper vinegars with harsh or overly sour notes. Aged balsamic has a thicker consistency and richer flavor but should be used sparingly to avoid overpowering the salad. This ingredient is optional and can be skipped for a more straightforward flavor.",
+            "Salt and Pepper": "Simple seasoning with sea salt or kosher salt and freshly ground black pepper is essential to bring out the tomato’s natural sweetness and balance flavors. Avoid iodized table salt which can taste metallic. Don’t over-salt early on; it’s better to season gradually to avoid drawing out too much moisture too quickly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature tomatoes for best flavor",
+            "reason": "Tomatoes taste sweeter and more flavorful at room temperature. Cold tomatoes from the fridge can mute their natural aroma and make the texture mealy. Letting them sit out for 20-30 minutes before assembling the salad enhances the overall eating experience."
+        },
+        {
+            "tip": "Tear basil leaves instead of chopping",
+            "reason": "Tearing basil preserves the leaf’s essential oils and prevents bruising, which can release bitter flavors. Chopping with a knife damages the cells and alters the taste, so tearing by hand results in a fresher, brighter herb aroma."
+        },
+        {
+            "tip": "Don’t overdress the salad",
+            "reason": "Adding too much olive oil or vinegar can weigh down the tomatoes and mask their natural sweetness. A light drizzle is enough to enhance flavors and texture without overpowering the delicate balance of the salad."
+        },
+        {
+            "tip": "Let the salad rest before serving",
+            "reason": "Allowing the salad to rest at room temperature for 10 minutes lets the flavors meld and the tomatoes soften slightly, improving taste and texture. Serving immediately might result in less integrated flavors."
+        },
+        {
+            "tip": "Use a sharp knife for slicing tomatoes",
+            "reason": "A sharp knife cuts cleanly without crushing the tomatoes, preserving their shape and juices. A dull knife can bruise the fruit, leading to a mushy texture and loss of flavor."
+        },
+        {
+            "tip": "Add a pinch of sugar if tomatoes are too acidic",
+            "reason": "If your tomatoes taste overly tart, a small pinch of sugar can balance the acidity without making the salad sweet. This trick helps even out flavors when tomatoes aren’t perfectly ripe."
+        },
+        {
+            "tip": "Serve with crusty bread or fresh cheese",
+            "reason": "Pairing this salad with crusty bread or creamy cheese like burrata adds texture and richness, making it a more substantial meal. The bread also soaks up the flavorful juices, enhancing enjoyment."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or flavorless tomatoes",
+            "why_it_happens": "People often use whatever tomatoes are on hand without considering ripeness or quality, assuming the dressing will fix the flavor.",
+            "fix": "Choose ripe, fragrant heirloom tomatoes or varieties known for their flavor. If you must use less ripe tomatoes, consider roasting them first to develop sweetness."
+        },
+        {
+            "mistake": "Overdressing the salad",
+            "why_it_happens": "Sometimes cooks add too much olive oil or vinegar thinking it adds flavor, but it can overwhelm the delicate tomato taste.",
+            "fix": "Start with a small amount of oil and vinegar, then taste. Add more only if needed. The goal is a light coating, not a heavy soak."
+        },
+        {
+            "mistake": "Chopping basil instead of tearing",
+            "why_it_happens": "Using a knife seems faster or more precise, but it bruises the leaves and releases bitter compounds.",
+            "fix": "Always tear basil leaves gently by hand just before adding to the salad for the freshest flavor."
+        },
+        {
+            "mistake": "Serving salad cold from the fridge",
+            "why_it_happens": "Many people think salads should be chilled, but cold tomatoes lose flavor and texture.",
+            "fix": "Let the salad come to room temperature before serving to maximize aroma and sweetness."
+        },
+        {
+            "mistake": "Not seasoning enough",
+            "why_it_happens": "Some avoid salt or pepper fearing it will overpower the salad, but under-seasoning leads to blandness.",
+            "fix": "Season gradually, tasting as you go, to enhance the natural flavors without masking them."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Fresh Mozzarella or Burrata",
+            "description": "Top the tomato salad with torn pieces of fresh mozzarella or creamy burrata cheese for a richer texture and more satisfying meal. The cheese adds a mild, milky contrast to the sweet tomatoes and fragrant basil, making it a perfect summer lunch or appetizer.",
+            "technical_note": "Add cheese just before serving to keep it fresh and prevent it from breaking down in the salad."
+        },
+        {
+            "name": "Include Thinly Sliced Red Onions",
+            "description": "Add thin slices of red onion for a bit of sharpness and crunch. The onion’s bite contrasts nicely with the sweet tomatoes and soft basil, creating a more complex flavor profile. Soak the slices in cold water for 10 minutes first to mellow their intensity if desired.",
+            "technical_note": "Drain onions well to avoid excess moisture diluting the salad."
+        },
+        {
+            "name": "Drizzle with Aged Balsamic Reduction",
+            "description": "Instead of plain balsamic vinegar, drizzle a thick aged balsamic reduction over the salad for a sweet and tangy glaze that intensifies the flavor and adds visual appeal. This variation feels a bit more special and dressy.",
+            "technical_note": "Use sparingly as the reduction is concentrated and can overpower if overused."
+        },
+        {
+            "name": "Add Toasted Pine Nuts or Walnuts",
+            "description": "Sprinkle toasted pine nuts or chopped walnuts to add crunch and a nutty flavor. The nuts bring texture contrast and richness, making the salad more filling and interesting.",
+            "technical_note": "Toast nuts lightly in a dry pan until golden brown to bring out their flavor without burning."
+        },
+        {
+            "name": "Mix in Fresh Cucumber Slices",
+            "description": "Add thin cucumber slices for extra crunch and refreshing coolness. This variation makes the salad even lighter and more hydrating, ideal for hot days.",
+            "technical_note": "Peel cucumbers if skin is thick or waxed to avoid bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This tomato salad is best enjoyed fresh but can sit at room temperature for up to 2 hours if covered to prevent drying out. Beyond that, bacterial growth can increase, so it’s safer to refrigerate.",
+        "refrigerator": "Store leftovers in an airtight container for up to 1 day. Keep basil separate if possible to avoid wilting. The salad may lose some texture and flavor when chilled, so bring to room temperature before serving.",
+        "freezer": "Freezing is not recommended for this salad as tomatoes become mushy and lose flavor when thawed. For best results, enjoy fresh or refrigerated.",
+        "reheating": "No reheating needed. Serve at room temperature for optimal flavor and texture.",
+        "make_ahead_strategy": "Slice tomatoes and store in a container without dressing up to 1 day ahead. Keep basil and dressing separate. Assemble just before serving to maintain freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular tomatoes instead of heirlooms?",
+            "answer": "Yes, you can use regular tomatoes, but the flavor might be less complex and sweet. Choose the ripest, freshest tomatoes available and adjust seasoning accordingly to boost flavor."
+        },
+        {
+            "question": "How do I keep the basil from wilting?",
+            "answer": "Add basil just before serving and tear it by hand instead of chopping. Store it separately from the tomatoes and dressing. This keeps the leaves fresh and vibrant longer."
+        },
+        {
+            "question": "Can I add other herbs besides basil?",
+            "answer": "Absolutely! Fresh oregano, mint, or parsley can be used for different flavor profiles. Each herb will change the taste slightly, so use what you enjoy most."
+        },
+        {
+            "question": "Is balsamic vinegar necessary?",
+            "answer": "No, balsamic vinegar is optional. It adds acidity and depth but the salad is delicious with just olive oil, salt, and pepper if you prefer a simpler flavor."
+        },
+        {
+            "question": "How long can I store this salad?",
+            "answer": "Best eaten fresh, but you can store leftovers in the fridge for up to 1 day. Basil and dressing should be added fresh to avoid sogginess and wilting."
+        },
+        {
+            "question": "Can I prepare this salad ahead for a party?",
+            "answer": "Prepare tomatoes sliced and seasoned ahead but keep basil and dressing separate until just before serving. This prevents the salad from becoming watery or wilted."
+        },
+        {
+            "question": "What’s the best olive oil to use?",
+            "answer": "Choose a high-quality extra virgin olive oil that’s fresh and stored in a dark bottle. This ensures fruity, peppery notes that enhance the salad without overpowering it."
+        },
+        {
+            "question": "How do I prevent the salad from getting watery?",
+            "answer": "Avoid over-salting early, don’t add dressing too soon, and serve at room temperature. Also, slice tomatoes with a sharp knife to minimize juice loss."
+        }
+    ],
+    "conclusion": "I hope you enjoy this fresh heirloom tomato salad as much as I do. Give it a try and let me know how it turns out — I’d love to hear your twists!",
+    "seo": {
+        "primary_keyword": "heirloom tomato salad recipe",
+        "secondary_keywords": [
+            "fresh tomato salad",
+            "easy tomato salad recipe",
+            "how to make tomato salad",
+            "best heirloom tomato salad",
+            "simple tomato salad"
+        ],
+        "internal_links": [
+            {
+                "text": "fresh basil pesto recipe",
+                "anchor": "fresh-basil-pesto"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Celebrate Summer with This Bright Heirloom Tomato Salad"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Secret to the Best Tomato Salad? Fresh Basil & Olive Oil"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Simple Heirloom Tomato Salad That Bursts with Flavor"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Vibrant Heirloom Tomato Salad You’ll Want Every Day"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Celebrate Summer with This Bright Heirloom Tomato Salad"
+        },
+        {
+            "fileName": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images/easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Celebrate Summer with This Bright Heirloom Tomato Salad"
+        }
+    ],
+    "id": "post_1784159380_638",
+    "slug": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table",
+    "isOnline": true,
+    "createdAt": "2026-07-16T00:55:38+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-16T00:55:38+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-homemade-tomato-recipes-that-bring-fresh-flavor-to-your-table/images",
+    "has_reel": true
+}

@@ -1,0 +1,348 @@
+{
+    "title": "Rustic Peach Galette with Buttery Flaky Crust Perfect for Summer",
+    "promptIMG": "Food photography: Rustic Peach Galette, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach galette is my favorite simple dessert when peaches are in season. The buttery flaky crust and juicy peaches make it perfect for weekend treats or casual get-togethers. No fuss, just pure homey goodness!",
+    "hashtags": "#peachgalette #summerdessert #easybaking",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "How to Make the Perfect Peach Galette in Under an Hour",
+            "description": "Love fresh peaches? This galette is flaky, buttery, and packed with sweet peach flavor. It’s easy to make and looks stunning on any table. Save this recipe and impress your friends! 🍑🥧 #peachdessert #homemadebaking #summerrecipes"
+        },
+        {
+            "title": "Simple Rustic Peach Galette Recipe for Weekend Baking Fun",
+            "description": "Want a dessert that’s easy and delicious? Try this rustic peach galette with a flaky crust and juicy fruit filling. Perfect for lazy afternoons or casual dinners. Try it today and enjoy the sweet taste of summer! 🍑✨ #rusticdessert #fruitgalette #easyrecipes"
+        },
+        {
+            "title": "Juicy Peach Galette with Buttery Crust You’ll Want to Make Again",
+            "description": "This peach galette is such a crowd-pleaser! The buttery crust and fresh peaches come together beautifully. It’s simple enough for beginners and delicious enough to become a family favorite. Discover now and bake away! 🥧❤️ #peachrecipe #summerbaking #dessertideas"
+        },
+        {
+            "title": "Easy Peach Galette Recipe for Fresh Summer Flavors Every Time",
+            "description": "Nothing beats the taste of ripe peaches wrapped in flaky, buttery crust. This galette recipe is straightforward and yields a delightful dessert perfect for any occasion. Save it for your next baking adventure! 🍑🍴 #summerdesserts #easygalette #fruitrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 1/4 cups all-purpose flour, chilled",
+        "1/2 teaspoon salt",
+        "1 tablespoon granulated sugar",
+        "8 tablespoons unsalted butter, cold and cut into cubes",
+        "3-4 tablespoons ice water",
+        "4 large ripe peaches, sliced",
+        "1/4 cup granulated sugar",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon cornstarch",
+        "1 egg, beaten (for egg wash)",
+        "1 tablespoon coarse sugar (optional, for sprinkling)"
+    ],
+    "yield": "One 9-inch galette, serves 6",
+    "introduction": "I first made this peach galette a few summers ago when I stumbled upon a basket of perfectly ripe peaches at the farmer’s market. I wanted a dessert that felt homemade but wasn’t too complicated or intimidating — this galette hit the spot perfectly. What I love about this recipe is how the flaky, buttery crust complements the juicy sweetness of the peaches without overpowering them. It’s a rustic kind of dessert that doesn’t need to be perfect or fancy, which takes the pressure off baking days. Plus, the technique I use for the crust — chilling the butter and handling the dough gently — is a little trick I learned from my grandma and it really makes the difference in getting that tender, flaky texture. The peaches get just a touch of sugar and vanilla, so the fruit shines through. When it’s baked, the edges are golden and crisp, and the filling bubbles lightly, making it irresistible. It’s become my go-to for weekend baking when I want something comforting and fresh. Honestly, I’ve tried more complicated peach desserts, but this simple galette always wins my heart (and my family’s too). I think you’ll enjoy how easy it is and how naturally delicious it tastes.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the crust. In a large bowl, whisk together the flour, salt, and sugar to evenly distribute the ingredients. Then add the cold, cubed butter. Using a pastry cutter or your fingertips, quickly cut the butter into the flour until the mixture resembles coarse crumbs with some pea-sized bits of butter remaining. This texture is key because those butter bits melt during baking and create flakiness. Avoid overworking the dough to keep it tender. Once combined, slowly add the ice water, one tablespoon at a time, mixing gently until the dough just holds together. Too much water can make the dough tough, so add carefully. Form the dough into a disk, wrap it in plastic, and chill for at least 30 minutes to firm up the butter and relax the gluten.",
+            "timing": "15 minutes",
+            "doneness_cue": "Dough should hold together without being sticky or crumbly and feel firm when pressed."
+        },
+        {
+            "step": 2,
+            "instruction": "While the dough chills, prepare the peach filling. In a large bowl, toss the sliced peaches with sugar, vanilla extract, and cornstarch. The sugar sweetens the fruit, while the cornstarch helps absorb excess juices during baking to prevent a soggy crust. Toss gently to coat all the slices evenly. Let the mixture sit for 10-15 minutes to macerate, which enhances the peach’s natural juices and flavor. This step is important because it softens the peaches slightly and ensures the filling thickens nicely in the oven.",
+            "timing": "15 minutes",
+            "doneness_cue": "Peach slices will look glossy and slightly softened but not mushy."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your oven to 400°F (200°C). On a lightly floured surface, roll out the chilled dough into a roughly 12-inch circle about 1/8 inch thick. Don’t worry about making it perfectly round — the rustic shape adds charm. Carefully transfer the dough to a parchment-lined baking sheet. If the dough feels too soft or sticky while rolling, pop it back in the fridge for 10 minutes to firm up. This helps prevent shrinkage during baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dough is rolled thinly and evenly with a rough circular shape."
+        },
+        {
+            "step": 4,
+            "instruction": "Spoon the peach filling into the center of the dough, leaving a 2-inch border all around. Use a slotted spoon if possible to avoid too much liquid. This border is what you’ll fold over the peaches to create the galette’s signature rustic edge. Folding the edges inward not only frames the fruit but also helps keep the juices contained during baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peach filling is piled in the center with a clean border of dough all around."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold the dough edges over the peaches in sections, pleating as you go to create a gathered look. This step is about embracing imperfection — the folds add rustic character and keep the filling snug. Make sure the dough edge is sealed well enough so it doesn’t unravel while baking but don’t press too hard or you’ll lose the flakiness. If any juice leaks out, that’s okay; it caramelizes and adds flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Edges are neatly folded over the peaches with visible pleats."
+        },
+        {
+            "step": 6,
+            "instruction": "Brush the exposed dough edges with the beaten egg to give the crust a beautiful golden color and slight sheen when baked. If you like a little extra crunch and sparkle, sprinkle coarse sugar over the crust after the egg wash. This finishing touch makes the galette feel special and adds texture contrast.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough edges are evenly coated with egg wash and sprinkled with sugar if desired."
+        },
+        {
+            "step": 7,
+            "instruction": "Place the galette in the preheated oven and bake for 30-35 minutes. The high temperature helps the crust crisp up nicely while the peaches soften and bubble. Keep an eye on the crust color — if it’s browning too quickly, you can loosely tent it with foil partway through baking. You want a golden, flaky crust and juicy, bubbling filling. The aroma of baked peaches and butter will fill your kitchen, signaling it's almost ready.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Crust is golden brown, and peach juices are bubbling around the edges."
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, remove the galette from the oven and let it cool on the baking sheet for at least 15 minutes. Cooling allows the filling to thicken slightly and makes it easier to slice. Serving it warm or at room temperature is best, but it also tastes great cold. This rest time is key for the best texture and flavor balance.",
+            "timing": "15 minutes",
+            "doneness_cue": "Galette is warm to the touch and filling is set but still juicy."
+        },
+        {
+            "step": 9,
+            "instruction": "Slice the galette into wedges and serve as is or with a scoop of vanilla ice cream or dollop of whipped cream. The contrast of the cold cream with the warm, flaky crust and sweet peaches is pure comfort. Enjoy immediately for the best taste and texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Slices hold together well and cream melts slightly when added."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Peach Galette’s Success",
+        "content": "<p>One of the reasons this peach galette turns out so well is the balance between the crust and the fruit filling. The key is the cold butter in the dough, which creates pockets of fat that melt during baking, producing a flaky and tender crust. If the butter warms too much during mixing, it won’t form those pockets and the crust becomes dense. Chilling the dough also relaxes the gluten, preventing toughness and shrinkage when rolled out.</p><p>The peach filling is another critical element. Tossing the peach slices with sugar and cornstarch before baking helps draw out natural juices and thickens them during cooking. The cornstarch acts as a thickening agent, absorbing excess liquid and preventing the crust from becoming soggy. Letting the peaches macerate allows the sugar to dissolve and flavor to deepen, which gives the filling a luscious texture and vibrant taste.</p><p>Baking the galette at a relatively high temperature ensures the crust crisps quickly while the peaches soften without turning to mush. The egg wash on the crust promotes a golden, shiny finish and the sprinkle of coarse sugar adds a subtle crunch and sparkle. Folding the dough over the filling creates a rustic edge that keeps the juices contained and adds structural integrity. Overall, these techniques and ingredient interactions create a harmonious dessert that’s flaky, juicy, and irresistibly delicious.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a good-quality all-purpose flour with moderate protein content (around 10-12%). This gives enough gluten to hold the dough together but not so much that the crust becomes tough. Avoid bread flour or cake flour as they can alter texture significantly. Store flour in a cool, dry place to keep it fresh.",
+            "unsalted butter": "Use cold, unsalted butter straight from the fridge. Unsalted butter lets you control the salt level precisely and cold butter creates flaky layers by melting slowly during baking. Avoid margarine or spreads as they have higher water content and won’t produce the same texture. Cubing the butter evenly helps with quick, uniform mixing.",
+            "peaches": "Choose ripe but firm peaches with vibrant color and fragrant aroma. Overripe peaches can become mushy and watery, which affects the filling’s texture. If peaches aren’t in season, you can substitute with nectarines or firm plums, but adjust sugar accordingly since sweetness varies.",
+            "cornstarch": "Cornstarch is essential for thickening the peach juices as they bake. It absorbs liquid and prevents the crust from getting soggy. Use pure cornstarch, not a blend. If you want a gluten-free option, tapioca starch works similarly but may give a slightly different texture.",
+            "egg for egg wash": "Use a fresh whole egg beaten with a splash of water or milk for the egg wash. This promotes a shiny, golden crust. Skip it if you want a matte finish but the visual appeal will be lessened. Be careful not to let the egg wash drip onto the fruit, or it may burn."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter and water ice cold when making the dough.",
+            "reason": "Cold butter stays solid longer during mixing, which is crucial for forming flaky layers. Warm butter blends too much into the flour, resulting in a denser crust. Cold water helps maintain the dough temperature and prevents gluten from developing too quickly."
+        },
+        {
+            "tip": "Don’t overmix the dough when adding water.",
+            "reason": "Overmixing activates gluten strands excessively, making the crust tough. Mixing just until the dough comes together ensures tenderness. It’s okay if the dough looks a bit shaggy before chilling — it will come together as it rests."
+        },
+        {
+            "tip": "Use a slotted spoon to transfer peach slices to the crust.",
+            "reason": "Removing excess liquid before filling keeps the crust from getting soggy. The juices left behind can be saved and reduced into a syrup or drizzled over the baked galette for extra flavor."
+        },
+        {
+            "tip": "Chill the dough after rolling it out if it feels too soft.",
+            "reason": "Chilling firms up the butter again, preventing the dough from shrinking or tearing when folded and baked. It also makes handling easier and improves flakiness."
+        },
+        {
+            "tip": "Use an egg wash on the crust edges for a golden finish.",
+            "reason": "Egg wash promotes browning through the Maillard reaction and adds a subtle sheen that makes the galette look more appetizing. Skip it if you prefer a rustic matte look."
+        },
+        {
+            "tip": "Bake at a high temperature to crisp the crust quickly.",
+            "reason": "High heat causes steam to escape rapidly from the butter layers, creating flakiness. It also caramelizes the fruit sugars nicely without overcooking the peaches."
+        },
+        {
+            "tip": "Let the galette cool before slicing.",
+            "reason": "Cooling allows the filling to set slightly, making slicing cleaner and preventing the juices from running everywhere. It also improves flavor melding."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter when making the dough",
+            "why_it_happens": "Many home cooks don’t chill butter long enough or handle it too much, causing it to soften or melt before baking.",
+            "fix": "Always keep butter cold and work quickly. Chill the dough if it becomes too soft during mixing or rolling. This prevents a greasy, dense crust."
+        },
+        {
+            "mistake": "Adding too much water to the dough",
+            "why_it_happens": "Rushing the mixing process or mismeasuring liquid leads to sticky dough that’s hard to handle.",
+            "fix": "Add water gradually, mixing gently until the dough holds together but isn’t wet or sticky. You can add a teaspoon at a time if needed."
+        },
+        {
+            "mistake": "Skipping the cornstarch in the filling",
+            "why_it_happens": "Some think sugar alone will thicken the juices, but it doesn’t prevent a soggy crust.",
+            "fix": "Always toss peaches with cornstarch before filling. This absorbs excess liquid and keeps the crust crisp."
+        },
+        {
+            "mistake": "Not letting the filling macerate",
+            "why_it_happens": "Impatience or skipping this step misses out on flavor development and juice extraction.",
+            "fix": "Allow the peach mixture to rest for 10-15 minutes before assembling. This enhances sweetness and texture."
+        },
+        {
+            "mistake": "Baking at too low a temperature",
+            "why_it_happens": "Low oven heat causes the crust to cook slowly and become soggy, and the fruit to overcook.",
+            "fix": "Preheat oven fully to 400°F and bake at this temperature for crisp crust and nicely cooked peaches."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Peach Galette",
+            "description": "Add a mix of fresh berries like blueberries or raspberries to the peach filling for a colorful burst of flavor. The tart berries complement the sweetness of the peaches and add extra juiciness. Adjust sugar slightly if berries are very tart.",
+            "technical_note": "Berries release more juice, so increase cornstarch by 1 teaspoon to avoid sogginess and watch baking time to prevent burning."
+        },
+        {
+            "name": "Almond Peach Galette",
+            "description": "Sprinkle sliced almonds over the peach filling before folding the crust. The nuts add a lovely crunch and nutty aroma that pairs beautifully with peaches. You can also add a teaspoon of almond extract to the filling for extra depth.",
+            "technical_note": "To prevent almonds from burning, sprinkle them on top halfway through baking or toast lightly before adding."
+        },
+        {
+            "name": "Gluten-Free Peach Galette",
+            "description": "Use a gluten-free all-purpose flour blend to make the crust suitable for gluten-sensitive diets. The texture will be slightly different but still flaky and delicious. Chill the dough well and handle gently to avoid crumbling.",
+            "technical_note": "Gluten-free dough can be more fragile; adding a tablespoon of xanthan gum to the flour blend helps improve elasticity."
+        },
+        {
+            "name": "Spiced Peach Galette",
+            "description": "Add warm spices like cinnamon, nutmeg, and a pinch of ground ginger to the peach filling for a cozy, autumnal twist. This variation works great when peaches are less sweet or if you want a deeper flavor profile.",
+            "technical_note": "Use about 1 teaspoon total of mixed spices and reduce sugar slightly to balance the warmth."
+        },
+        {
+            "name": "Honey Peach Galette",
+            "description": "Replace granulated sugar in the filling with honey for a floral sweetness that complements the peaches beautifully. Honey also adds moisture and a richer flavor. Drizzle a little honey over the baked galette before serving for an extra touch.",
+            "technical_note": "Honey browns faster than sugar, so watch the crust carefully during baking to avoid over-darkening."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The galette can be kept covered at room temperature for up to 2 days. Keeping it covered with a clean cloth or loosely wrapped prevents the crust from drying out. However, best enjoyed within the first day for optimal flakiness.",
+        "refrigerator": "Store leftover galette in an airtight container in the fridge for up to 4 days. The crust may lose some crispness but the flavor remains delicious. Reheat gently in a low oven to revive the crust or enjoy cold with cream.",
+        "freezer": "Freeze the baked galette wrapped tightly in plastic wrap and aluminum foil for up to 2 months. To thaw, place in the refrigerator overnight. Reheat in a 350°F oven until warmed through and crust is crisp again, about 10-15 minutes.",
+        "reheating": "Reheat slices in a preheated 350°F oven on a baking sheet for 10-15 minutes. Avoid the microwave if possible as it softens the crust. If needed, add a splash of cream or honey when serving to enhance moisture and flavor.",
+        "make_ahead_strategy": "You can prepare the dough and peach filling separately up to 2 days ahead. Keep the dough wrapped and chilled, and store the filling covered in the fridge. Assemble and bake the galette on the day you want to serve for the freshest crust and best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this galette?",
+            "answer": "Frozen peaches can be used but they release more water, which may make the crust soggy. Thaw them completely and drain excess juice before tossing with sugar and cornstarch. You might also want to increase the cornstarch slightly to help thicken the filling during baking."
+        },
+        {
+            "question": "What if my dough cracks when rolling it out?",
+            "answer": "Cracking usually means the dough is too cold or dry. Let it sit at room temperature for 5-10 minutes to soften slightly, then gently press the cracks together with your fingers. If it’s still too dry, sprinkle a tiny bit of water and knead lightly before rolling again."
+        },
+        {
+            "question": "How do I prevent the crust from getting soggy?",
+            "answer": "Using cornstarch in the filling to absorb juices is key. Also, avoid piling too much liquid onto the dough by draining the fruit well. Baking at a high temperature helps crisp the crust quickly before juices soak in."
+        },
+        {
+            "question": "Can I make the galette vegan?",
+            "answer": "Yes! Substitute the butter with a cold vegan butter or coconut oil and use a plant-based milk or aquafaba for the egg wash. The texture might be slightly different but still delicious."
+        },
+        {
+            "question": "How do I store leftover galette?",
+            "answer": "Store galette in an airtight container in the fridge for up to 4 days. The crust will soften but reheating in the oven helps restore crispness. You can also freeze baked galette for longer storage."
+        },
+        {
+            "question": "Can I add other fruits to this galette?",
+            "answer": "Absolutely! Mixed berries, plums, or nectarines all work beautifully. Just adjust sugar and cornstarch amounts based on the juiciness and sweetness of the fruits you use."
+        },
+        {
+            "question": "Why is my crust tough instead of flaky?",
+            "answer": "This usually happens when the dough is overworked or the butter was too warm. Handle the dough gently and keep ingredients cold. Also, don’t skip chilling the dough before rolling it out."
+        },
+        {
+            "question": "Can I prepare the galette a day ahead?",
+            "answer": "You can assemble the galette and keep it refrigerated overnight before baking. Let it sit at room temperature for 15 minutes before baking to ensure even cooking. This is great for planning ahead."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this peach galette as much as I do! It’s a simple way to celebrate summer’s best fruit — don’t forget to share your baking adventures with me!",
+    "seo": {
+        "primary_keyword": "rustic peach galette recipe",
+        "secondary_keywords": [
+            "easy peach dessert",
+            "summer fruit galette",
+            "how to make peach galette",
+            "best peach galette recipe",
+            "easy galette recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "flaky pie crust recipe",
+                "anchor": "flaky-pie-crust"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "How to Make the Perfect Peach Galette in Under an Hour"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "How to Make the Perfect Peach Galette in Under an Hour"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Simple Rustic Peach Galette Recipe for Weekend Baking Fun"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Juicy Peach Galette with Buttery Crust You’ll Want to Make Again"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "How to Make the Perfect Peach Galette in Under an Hour"
+        },
+        {
+            "fileName": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images/easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Easy Peach Galette Recipe for Fresh Summer Flavors Every Time"
+        }
+    ],
+    "id": "post_1784159264_581",
+    "slug": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer",
+    "isOnline": true,
+    "createdAt": "2026-07-16T00:55:38+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-16T00:55:38+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-homemade-peach-galette-with-buttery-flaky-crust-perfect-for-summer/images",
+    "has_reel": true
+}
