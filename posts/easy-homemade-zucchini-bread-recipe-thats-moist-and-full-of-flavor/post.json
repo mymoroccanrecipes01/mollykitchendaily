@@ -1,0 +1,348 @@
+{
+    "title": "Moist and Flavorful Zucchini Bread with a Hint of Cinnamon",
+    "promptIMG": "Food photography: Moist Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This zucchini bread is my absolute favorite for a quick, moist snack. The fresh shredded zucchini combined with cinnamon gives it a cozy warmth. It’s great for breakfast or a little afternoon pick-me-up!",
+    "hashtags": "#zucchinibread #baking #easyrecipes",
+    "board_name": "Easy Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "The Best Moist Zucchini Bread You’ll Ever Try!",
+            "description": "This zucchini bread is super moist and packed with flavor thanks to fresh zucchini and a sprinkle of cinnamon. Perfect for breakfast or a snack. Save this recipe and try it today! 🥒🍞 #zucchinibread #bakinglove #snacktime"
+        },
+        {
+            "title": "Quick Zucchini Bread Recipe for Busy Mornings",
+            "description": "Need a fast, delicious breakfast? This zucchini bread is just the thing—moist, flavorful, and easy to make. Give it a go and discover your new favorite morning treat! 🌞🍴 #easybaking #morningrecipes #zucchinibread"
+        },
+        {
+            "title": "Cozy Cinnamon Zucchini Bread to Warm Your Day",
+            "description": "Love cinnamon and zucchini? This bread combines both in a moist, tender loaf that’s perfect for afternoon tea or a sweet snack. Don’t miss out—try it now and enjoy the cozy vibes! 🍂✨ #cinnamonbread #homemadebaking #zucchinilove"
+        },
+        {
+            "title": "Simple Homemade Zucchini Bread That Everyone Will Love",
+            "description": "This zucchini bread recipe is straightforward and yields a moist, flavorful loaf. Great for family breakfasts or sharing with friends. Save it for your next baking day! 🥒❤️ #homemadebread #easyrecipes #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "2 cups fresh zucchini, shredded and squeezed dry",
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "2 large eggs",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1/2 cup chopped walnuts (optional)"
+    ],
+    "yield": "One 9x5 inch loaf, about 8 slices",
+    "introduction": "I first tried making zucchini bread years ago when I had a surplus of zucchini from my garden and wanted a way to use it up without it going to waste. The first few attempts were a bit dry or bland, but once I discovered the importance of shredding the zucchini finely and squeezing out excess moisture, the texture improved dramatically. Adding cinnamon was a game changer for me, giving it a warm, inviting flavor that feels like a hug in bread form. What I love about this recipe is how simple it is—no fancy ingredients, just straightforward pantry staples and fresh zucchini. The oil keeps it moist, and the mix of sugars adds depth without being too sweet. Plus, tossing in walnuts adds a nice crunch if you’re feeling fancy. When it’s done, the loaf is golden brown with a tender crumb and just the right amount of spice. It’s perfect for breakfast, an afternoon snack, or even a casual dessert. I hope you enjoy making and eating it as much as my family and I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by shredding your zucchini using the fine side of a grater. This helps the zucchini blend smoothly into the batter without large chunks that can make the bread soggy. After shredding, place the zucchini in a clean kitchen towel and squeeze out as much moisture as possible. This step is crucial because excess water can make the bread dense and prevent it from baking properly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Zucchini should feel relatively dry and not dripping when squeezed"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, baking soda, baking powder, salt, and cinnamon. Combining these dry ingredients ensures even distribution of the leavening agents and spices, which helps the bread rise evenly and have consistent flavor throughout.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully mixed with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the eggs, then add the granulated sugar, brown sugar, vegetable oil, and vanilla extract. Whisk until the mixture is smooth and slightly thickened. This wet mixture provides the structure and moisture for the bread and helps dissolve the sugars evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are well combined and slightly pale"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly fold the dry ingredients into the wet mixture. Mix gently just until combined; overmixing can develop gluten and make the bread tough. It’s okay if a few streaks of flour remain. This careful mixing keeps the bread tender and soft.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is mostly uniform with no large flour pockets"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the shredded zucchini and walnuts if using. The zucchini adds moisture and a subtle vegetable sweetness, while walnuts provide a crunchy contrast. Make sure the zucchini is evenly distributed so every bite has that moist texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Zucchini and nuts are evenly mixed throughout the batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour a 9x5 inch loaf pan or line it with parchment paper. Proper preparation prevents sticking and helps the bread release cleanly after baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is at temperature and pan is fully prepped"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. This ensures an even rise and a nice shape. Avoid tapping the pan aggressively, as this can cause air bubbles that lead to holes in the bread.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter evenly spread without large air pockets"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 50 to 60 minutes, checking around 50 minutes with a toothpick inserted in the center. The toothpick should come out clean or with a few moist crumbs but no wet batter. If it’s underbaked, the bread may be gummy and dense.",
+            "timing": "50-60 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out mostly clean"
+        },
+        {
+            "step": 9,
+            "instruction": "Allow the bread to cool in the pan for about 15 minutes before transferring to a wire rack. Cooling in the pan lets it set, but removing it too soon can cause it to break apart. Once on the wire rack, it cools evenly and prevents sogginess.",
+            "timing": "15 minutes",
+            "doneness_cue": "Bread feels firm and slightly pulled away from pan edges"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Bread Is So Moist and Flavorful",
+        "content": "<p>Zucchini bread’s success hinges on balancing moisture with structure. Fresh zucchini contains a lot of water, so shredding finely and squeezing out excess moisture is essential to avoid a soggy loaf. This step ensures the bread rises well and has a tender crumb rather than being dense and wet.</p><p>The combination of baking soda and baking powder provides a reliable rise. Baking soda reacts with the acidic brown sugar, creating carbon dioxide bubbles that lighten the bread, while baking powder offers additional leavening to keep it fluffy. Using both creates a perfect balance.</p><p>The oil in this recipe is key to keeping the bread moist longer than butter would. Oil coats the flour proteins and prevents gluten from forming too strongly, which keeps the texture soft. Plus, the cinnamon adds warmth and depth, making the flavor more complex and inviting.</p><p>Finally, gentle mixing techniques prevent overdeveloping gluten, which would toughen the loaf. Folding the zucchini and nuts in last preserves their texture and moisture, giving the bread a pleasant bite and flavor contrast.</p>",
+        "ingredient_notes": {
+            "fresh zucchini": "Choose firm, medium-sized zucchinis with smooth skin for shredding. Larger ones tend to have more seeds and watery flesh, which can affect texture. Always shred finely and squeeze excess moisture to prevent a soggy bread.",
+            "all-purpose flour": "Use standard all-purpose flour for a good balance of protein that provides structure without making the bread heavy. Avoid bread flour, which has too much gluten, or cake flour, which lacks structure.",
+            "baking soda and baking powder": "Baking soda reacts with acidic ingredients like brown sugar to create lift, while baking powder adds extra leavening. Using both ensures the bread rises evenly and stays light.",
+            "vegetable oil": "Oil keeps the bread moist and tender longer than butter. It coats flour proteins, limiting gluten formation. Neutral oils like vegetable or canola work best to avoid overpowering the bread’s flavor.",
+            "ground cinnamon": "Cinnamon adds warmth and subtle spice that complements zucchini’s mild flavor. Use fresh ground cinnamon for best aroma. It also enhances the perception of sweetness without extra sugar."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini well to remove excess water before adding to the batter.",
+            "reason": "Removing moisture prevents the bread from becoming soggy or dense. If excess water remains, it dilutes the batter and interferes with proper gluten development and leavening, resulting in a gummy texture."
+        },
+        {
+            "tip": "Mix the batter just until the flour is incorporated to avoid overworking.",
+            "reason": "Overmixing develops gluten strands which toughen the bread. A tender crumb comes from gentle folding and leaving some streaks of flour; this keeps the texture soft and moist."
+        },
+        {
+            "tip": "Use a toothpick to check doneness starting at 50 minutes of baking.",
+            "reason": "Baking times can vary by oven and pan. Checking early prevents overbaking, which dries out the bread. The toothpick should come out with moist crumbs but no raw batter for ideal texture."
+        },
+        {
+            "tip": "Add walnuts or pecans for extra crunch and flavor contrast.",
+            "reason": "Nuts provide texture variety and a nutty flavor that balances the soft, moist bread. They also add healthy fats and nutrients, making the loaf more satisfying."
+        },
+        {
+            "tip": "Let the bread cool in the pan for 10-15 minutes before removing.",
+            "reason": "Cooling allows the bread to set so it doesn’t crumble when unmolding. Removing too soon can cause it to fall apart, while cooling fully in the pan prevents sogginess from trapped steam."
+        },
+        {
+            "tip": "Use fresh cinnamon for the best flavor impact.",
+            "reason": "Pre-ground cinnamon loses potency over time. Freshly ground cinnamon delivers a brighter aroma and richer taste, enhancing the bread’s warm, cozy profile."
+        },
+        {
+            "tip": "Store the bread wrapped tightly or in an airtight container.",
+            "reason": "Proper storage keeps moisture in and prevents the bread from drying out or absorbing fridge odors. This maintains freshness and flavor for several days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing enough moisture from the zucchini",
+            "why_it_happens": "Many assume shredded zucchini can be added as is, not realizing its high water content affects texture.",
+            "fix": "After shredding, wrap zucchini in a clean towel and press firmly to remove excess liquid. This step is key to preventing a soggy, dense loaf."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In an effort to combine ingredients thoroughly, cooks often stir too vigorously or too long.",
+            "fix": "Mix just until dry ingredients disappear. Stop as soon as the batter is combined to keep the bread tender."
+        },
+        {
+            "mistake": "Baking at the wrong temperature",
+            "why_it_happens": "Ovens can run hotter or cooler than the set temperature, or cooks may rush and bake at too high heat.",
+            "fix": "Use an oven thermometer to ensure correct temperature. Bake at 350°F for even cooking and moist crumb."
+        },
+        {
+            "mistake": "Skipping the cinnamon or spices",
+            "why_it_happens": "Some omit spices thinking they’re optional, missing out on flavor depth.",
+            "fix": "Add cinnamon as directed; it enhances the bread’s warmth and balances the zucchini’s mildness."
+        },
+        {
+            "mistake": "Removing the bread from the pan too soon",
+            "why_it_happens": "Impatience can lead to trying to unmold while the bread is still hot and fragile.",
+            "fix": "Let the bread cool for at least 15 minutes in the pan before transferring to a rack to avoid breaking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Chip Zucchini Bread",
+            "description": "Add 1 cup of semi-sweet chocolate chips to the batter for a sweet twist. The chocolate melts into pockets of gooey richness, complementing the moist zucchini base perfectly.",
+            "technical_note": "Fold chips in gently to avoid breaking and distribute evenly. Baking time remains the same."
+        },
+        {
+            "name": "Gluten-Free Zucchini Bread",
+            "description": "Swap all-purpose flour for a gluten-free blend with xanthan gum. This keeps the bread tender and moist while making it safe for gluten-sensitive diets.",
+            "technical_note": "Gluten-free flours absorb liquids differently; you may need to add a tablespoon more oil or zucchini for moisture."
+        },
+        {
+            "name": "Spiced Zucchini Bread with Nutmeg and Cloves",
+            "description": "Enhance the cinnamon with 1/2 teaspoon nutmeg and 1/4 teaspoon ground cloves for a deeper, spicier flavor profile that’s perfect for fall.",
+            "technical_note": "Add spices with the dry ingredients. The baking time and texture stay the same."
+        },
+        {
+            "name": "Lemon Zucchini Bread",
+            "description": "Add zest of one lemon and 1 tablespoon lemon juice to the wet ingredients for a bright, fresh flavor that lifts the bread’s richness.",
+            "technical_note": "Lemon juice adds acidity, which can slightly enhance rise. No baking time changes needed."
+        },
+        {
+            "name": "Vegan Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use a plant-based oil. This makes a moist, delicious loaf without animal products.",
+            "technical_note": "Allow flax eggs to gel for 5 minutes before mixing. Baking time may increase by 5 minutes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Zucchini bread can be safely kept at room temperature for up to 2 days when wrapped tightly in plastic wrap or stored in an airtight container to prevent drying out.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The bread may firm up slightly when chilled; allow it to come to room temperature or warm briefly before serving for best texture.",
+        "freezer": "Wrap the cooled bread tightly in plastic wrap and then foil or place in a freezer bag. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature to maintain moisture and texture.",
+        "reheating": "Reheat slices in a toaster oven or microwave for 15-20 seconds until warm. Adding a small pat of butter or a drizzle of honey can enhance flavor and moisture during reheating.",
+        "make_ahead_strategy": "You can prepare the batter and refrigerate it for up to 24 hours before baking, though the bread will rise best if baked fresh. Alternatively, bake ahead and freeze slices individually for quick snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "You can use frozen zucchini but make sure to thaw it completely and squeeze out all the moisture before adding it to the batter. Frozen zucchini tends to release more water, so removing excess liquid is crucial to avoid a soggy loaf."
+        },
+        {
+            "question": "Why is my zucchini bread dense and heavy?",
+            "answer": "This usually happens if there’s too much moisture in the batter or if it’s overmixed. Make sure to squeeze out zucchini water well and mix just until combined to keep the crumb light and tender."
+        },
+        {
+            "question": "Can I substitute oil with butter?",
+            "answer": "Yes, melted butter can be used instead of oil, but it may make the bread slightly less moist and give it a richer flavor. Use the same amount and melt it before mixing for best results."
+        },
+        {
+            "question": "How do I know when the bread is done baking?",
+            "answer": "Insert a toothpick into the center about 50 minutes in. It should come out clean or with a few moist crumbs but no raw batter. If it comes out wet, bake for a few more minutes and check again."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend that includes xanthan gum to mimic gluten’s structure. You might need to adjust moisture slightly by adding a bit more oil or zucchini."
+        },
+        {
+            "question": "What’s the best way to store leftover zucchini bread?",
+            "answer": "Wrap it tightly in plastic wrap or store in an airtight container at room temperature for up to 2 days, or refrigerate for up to 5 days. For longer storage, freeze it well wrapped."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes, walnuts, pecans, or chocolate chips are great additions. Fold them in gently at the end of mixing to distribute evenly without overworking the batter."
+        },
+        {
+            "question": "How do I keep the bread moist longer?",
+            "answer": "Using oil instead of butter and not overbaking helps keep moisture in. Also, storing it wrapped tightly at room temperature or in the fridge slows drying out."
+        }
+    ],
+    "conclusion": "I hope you enjoy this cozy zucchini bread as much as my family does. Give it a try and let me know how your loaf turns out!",
+    "seo": {
+        "primary_keyword": "moist zucchini bread recipe",
+        "secondary_keywords": [
+            "easy zucchini bread",
+            "how to make zucchini bread",
+            "best zucchini bread recipe",
+            "healthy zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "how to shred zucchini properly",
+                "anchor": "shredding-zucchini-guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "The Best Moist Zucchini Bread You’ll Ever Try!"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple Homemade Zucchini Bread That Everyone Will Love"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "The Best Moist Zucchini Bread You’ll Ever Try!"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Cozy Cinnamon Zucchini Bread to Warm Your Day"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "The Best Moist Zucchini Bread You’ll Ever Try!"
+        },
+        {
+            "fileName": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images/easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Quick Zucchini Bread Recipe for Busy Mornings"
+        }
+    ],
+    "id": "post_1784122926_816",
+    "slug": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor",
+    "isOnline": true,
+    "createdAt": "2026-07-15T15:01:33+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-15T15:01:33+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-homemade-zucchini-bread-recipe-thats-moist-and-full-of-flavor/images",
+    "has_reel": true
+}

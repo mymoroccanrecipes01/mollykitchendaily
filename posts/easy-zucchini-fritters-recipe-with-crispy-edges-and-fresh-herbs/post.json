@@ -1,0 +1,346 @@
+{
+    "title": "Easy Crispy Zucchini Fritters with Fresh Herbs for a Quick Lunch",
+    "promptIMG": "Food photography: Zucchini fritters, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These zucchini fritters are my go-to for a quick, fresh lunch. Crispy outside, tender inside, with a burst of parsley that brightens every bite. Great anytime you want something light but satisfying!",
+    "hashtags": "#zucchinifritters #easyrecipes #vegetarian",
+    "board_name": "Quick Vegetable Recipes",
+    "pin_variations": [
+        {
+            "title": "Crispy Zucchini Fritters You Can Make in 30 Minutes",
+            "description": "Love crispy, tender fritters? Try this easy zucchini recipe packed with fresh herbs 🌿 and ready in just half an hour. Save this for your next light meal! #zucchinifritters #quickmeals #herbrecipes"
+        },
+        {
+            "title": "How To Make Perfect Zucchini Fritters Every Time",
+            "description": "Struggling with soggy fritters? Discover my simple trick for crispy edges and a tender center. Try it today and impress your family! 🍴🥒 #crispyfritters #zucchinirecipes #easycooking"
+        },
+        {
+            "title": "Fresh Herb Zucchini Fritters: A Simple Side Dish Idea",
+            "description": "Looking for a fresh, easy side? These zucchini fritters with parsley add a bright touch to any meal. Quick to whip up and delicious to eat. Discover now! 🌱✨ #sidedishes #vegetarianrecipes #freshherbs"
+        },
+        {
+            "title": "Light & Delicious Zucchini Fritters to Brighten Your Day",
+            "description": "These fritters are crispy, herb-filled bites of yum! Perfect for lunch or a snack. Give them a try and save this recipe for easy weeknight cooking! 🥒💚 #healthyrecipes #zucchini #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "3 medium zucchinis, grated",
+        "1 teaspoon salt",
+        "2 large eggs, beaten",
+        "1/2 cup all-purpose flour",
+        "1/4 cup grated Parmesan cheese",
+        "1/4 cup fresh parsley, chopped",
+        "2 cloves garlic, minced",
+        "1/4 teaspoon black pepper",
+        "Olive oil for frying"
+    ],
+    "yield": "Approximately 12 fritters, 4 servings",
+    "introduction": "I first stumbled upon zucchini fritters during a summer when my garden was overflowing with zucchinis. At first, I tried a few recipes that left me with soggy, floppy pancakes that just didn't hit the mark. After some trial and error, I found that salting the grated zucchini and letting it sit to draw out moisture made all the difference. Plus, adding fresh parsley and a bit of Parmesan brings a nice depth of flavor that's simple but so satisfying. These fritters come out golden and crisp on the outside, with a soft, flavorful center. They’re perfect for a light lunch or a quick side dish when you want something fresh but with a bit of comfort. Honestly, they’re a total crowd-pleaser and so easy to whip up on a weeknight. I love serving them with a dollop of Greek yogurt or a squeeze of lemon to brighten the flavors even more. Once you try this version, I think you’ll agree it’s the best way to enjoy zucchini any day of the week.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by grating the zucchinis using the large holes of a box grater. Place the grated zucchini in a colander and sprinkle with the salt. Let it sit for about 10 minutes to draw out excess moisture. This step is crucial because zucchini is very watery, and removing that moisture helps the fritters crisp up instead of turning soggy. After resting, press down firmly with your hands or a clean kitchen towel to squeeze out as much liquid as possible. Skipping this will result in a mushy texture, so take your time here.",
+            "timing": "15 minutes",
+            "doneness_cue": "Zucchini feels much drier and lighter after squeezing out the water"
+        },
+        {
+            "step": 2,
+            "instruction": "Transfer the dried zucchini to a large bowl. Add the beaten eggs, flour, grated Parmesan, chopped parsley, minced garlic, and black pepper. Stir everything together gently until just combined. The eggs and flour act as binders to hold the fritters together, while the Parmesan adds a subtle savory note. Overmixing can make the batter tough, so mix until the ingredients are evenly distributed but still light.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is sticky but holds shape when scooped"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat about 2 tablespoons of olive oil in a large non-stick skillet over medium heat. The oil needs to be hot enough to sizzle when the batter hits the pan but not smoking. This temperature ensures the fritters develop a golden crust while cooking through inside. If the oil is too cool, the fritters will absorb too much oil and become greasy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Oil shimmers and makes a gentle sizzling sound"
+        },
+        {
+            "step": 4,
+            "instruction": "Scoop about 2 tablespoons of the batter per fritter and carefully drop it into the hot oil, flattening slightly with the back of a spoon to form a patty. Avoid overcrowding the pan to keep the temperature steady. Cook for about 3-4 minutes on the first side without moving them so they can form a crisp crust. Resist the urge to flip too soon, or they might break apart.",
+            "timing": "4 minutes",
+            "doneness_cue": "Edges turn golden brown and crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Flip each fritter gently using a spatula and cook the other side for another 3-4 minutes until golden and cooked through. The fritters should feel firm when pressed lightly and have a nice crust on both sides. If the fritters crumble, the batter might be too wet or the pan too hot.",
+            "timing": "4 minutes",
+            "doneness_cue": "Both sides are evenly golden and firm"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer cooked fritters to a plate lined with paper towels to drain excess oil. This keeps them from becoming greasy and helps maintain their crispiness. Let them rest for a minute or two before serving so they hold together better.",
+            "timing": "2 minutes",
+            "doneness_cue": "Fritters are no longer shiny with oil and feel crisp"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve your zucchini fritters warm with a dollop of sour cream, Greek yogurt, or a squeeze of fresh lemon juice. These accompaniments add a creamy or tangy contrast to the crispy fritters, enhancing their flavor. They're great as a light lunch, snack, or side dish alongside grilled meats or salads.",
+            "timing": "Immediate",
+            "doneness_cue": "Fritters are warm and flavorful with complementary toppings"
+        },
+        {
+            "step": 8,
+            "instruction": "If making ahead, reheat fritters in a hot skillet with a little oil for 1-2 minutes per side to restore crispness. Avoid microwaving as it makes them soggy. Proper reheating brings back that fresh-from-the-pan texture and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Fritters regain crisp edges and warm through"
+        },
+        {
+            "step": 9,
+            "instruction": "For a variation, try adding finely chopped scallions or dill to the batter for extra flavor. You can also swap Parmesan for feta cheese for a tangier twist. Just keep the moisture balance in mind to maintain the right texture.",
+            "timing": "Optional prep",
+            "doneness_cue": "Flavor enhancements complement the base without affecting texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "What Makes These Zucchini Fritters So Perfect",
+        "content": "<p>Zucchini naturally contains a lot of water, which can make fritters soggy if not handled properly. The key to success is salting the grated zucchini and letting it rest, which draws out excess moisture through osmosis. This step concentrates the flavors and prevents the fritters from falling apart during cooking. Pressing out the liquid afterward ensures a firmer batter that crisps beautifully.</p><p>The eggs and flour in the batter act as binders, holding the fritters together while allowing them to stay tender inside. The flour also helps absorb any remaining moisture. Parmesan cheese adds a subtle umami depth and helps with the golden crust through Maillard reactions when fried. Fresh parsley brightens the flavor, balancing the richness of the cheese and eggs.</p><p>Cooking the fritters in hot oil at a controlled medium heat is crucial. Too low, and they soak up oil and become greasy; too high, and the outsides burn before the inside cooks. Waiting until the edges are golden before flipping ensures a crisp exterior that holds its shape. Draining on paper towels removes excess oil, keeping them light and crisp.</p><p>Finally, serving with a tangy element like lemon juice or yogurt adds contrast and freshness that elevates the dish. This balance of texture and flavor is what makes this recipe stand out from many other zucchini fritter versions.</p>",
+        "ingredient_notes": {
+            "Zucchini": "Look for firm, medium-sized zucchinis without blemishes or soft spots. Smaller zucchinis tend to be less watery and more tender. Grating them fresh and salting immediately helps remove excess moisture, essential for crisp fritters. Avoid pre-shredded zucchini as it may be too wet or old.",
+            "Eggs": "Use large, fresh eggs as they bind the batter and provide structure. Eggs also add moisture and richness. Substituting with flax or chia eggs can work for vegans but may change texture. Make sure eggs are well-beaten for even distribution.",
+            "All-purpose flour": "Flour absorbs moisture and binds the mixture. Using all-purpose flour balances texture, but you can experiment with whole wheat or gluten-free blends, keeping in mind they may alter the fritters’ tenderness and browning.",
+            "Parmesan cheese": "Freshly grated Parmesan adds a savory depth and helps with browning due to its protein and fat content. Pre-grated cheese often contains anti-caking agents that can affect melting and texture, so freshly grate for best results.",
+            "Fresh parsley": "Bright, fresh parsley leaves bring a fresh herbal note that lightens the fritters. Flat-leaf parsley is preferred for its robust flavor. Avoid dried parsley, which won’t deliver the same brightness or texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always salt and rest the grated zucchini before cooking.",
+            "reason": "This step draws out excess moisture through osmosis, preventing soggy fritters. If you skip it, the batter will be too wet, resulting in fritters that fall apart or stay mushy after frying."
+        },
+        {
+            "tip": "Press the zucchini firmly after salting to remove as much liquid as possible.",
+            "reason": "Squeezing out moisture ensures a firmer batter that crisps nicely. Without pressing, the fritters will retain too much water, making them dense and greasy."
+        },
+        {
+            "tip": "Use a non-stick skillet and moderate heat for frying.",
+            "reason": "Non-stick pans prevent sticking and allow easy flipping. Medium heat ensures the fritters cook through without burning the exterior, keeping them golden and tender inside."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying.",
+            "reason": "Crowding lowers the pan temperature, causing the fritters to absorb more oil and become greasy instead of crispy. Fry in batches for best texture."
+        },
+        {
+            "tip": "Let fritters drain on paper towels after frying.",
+            "reason": "This removes excess oil, keeping the fritters light and crisp rather than oily and heavy."
+        },
+        {
+            "tip": "Add fresh herbs like parsley right before cooking.",
+            "reason": "Fresh herbs release their flavor best when added last. Cooking herbs too long can dull their brightness and color."
+        },
+        {
+            "tip": "Reheat fritters in a skillet, not microwave.",
+            "reason": "Microwaving makes fritters soggy by steaming them. Reheating in a pan restores crispness and warms evenly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from zucchini",
+            "why_it_happens": "Many assume grating alone is enough, but zucchini’s high water content means extra steps are needed to avoid soggy fritters.",
+            "fix": "Salt the grated zucchini and let it rest for at least 10 minutes, then press out all excess liquid thoroughly before mixing the batter. This ensures a crispier final product."
+        },
+        {
+            "mistake": "Using too high heat when frying",
+            "why_it_happens": "In a rush, cooks often crank up the heat, hoping to speed cooking, but this burns the outside while leaving the inside raw.",
+            "fix": "Maintain medium heat so the fritters cook evenly, turning golden brown without burning. Adjust heat if fritters brown too fast before cooking through."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Eager to combine ingredients, some mix too vigorously, developing gluten and toughening the fritters.",
+            "fix": "Mix ingredients gently until just combined. Overmixing breaks down the zucchini and toughens the texture."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to save time, cooks add too many fritters at once, lowering oil temperature.",
+            "fix": "Fry in batches with space between fritters. This keeps oil hot and fritters crispy."
+        },
+        {
+            "mistake": "Skipping the resting step after frying",
+            "why_it_happens": "Some serve fritters immediately, but they may be too hot and soft.",
+            "fix": "Let fritters rest briefly on paper towels to drain oil and firm up before serving."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Scallions and Dill",
+            "description": "Mix finely chopped scallions and fresh dill into the batter for a fresh, aromatic twist. This adds a little zing and herbaceous depth without changing the basic texture of the fritters.",
+            "technical_note": "Add herbs just before cooking to preserve their bright flavor and avoid sogginess."
+        },
+        {
+            "name": "Swap Parmesan for Feta Cheese",
+            "description": "Replace Parmesan with crumbled feta for a tangier, creamier flavor. Feta adds a salty punch and makes the fritters a bit softer, perfect for Mediterranean-inspired meals.",
+            "technical_note": "Because feta is moister, reduce added salt slightly and press zucchini extra well."
+        },
+        {
+            "name": "Make Gluten-Free Using Almond Flour",
+            "description": "Substitute all-purpose flour with almond flour for a gluten-free version. Almond flour adds a nutty flavor but can make fritters more delicate, so handle gently while frying.",
+            "technical_note": "Batter will be looser; fry carefully and consider smaller fritters to prevent breaking."
+        },
+        {
+            "name": "Add Corn Kernels for Sweetness",
+            "description": "Fold in fresh or frozen corn kernels for a sweet crunch that contrasts nicely with the tender zucchini. This adds texture and a pop of color to the fritters.",
+            "technical_note": "Corn adds moisture, so ensure zucchini is very dry to keep batter firm."
+        },
+        {
+            "name": "Spicy Zucchini Fritters",
+            "description": "Add a pinch of cayenne pepper or finely chopped jalapeño to the batter for a spicy kick. This variation livens up the fritters and pairs well with cooling yogurt sauce.",
+            "technical_note": "Adjust spice level carefully; too much can overpower the delicate zucchini flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "8g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Zucchini fritters can safely sit at room temperature for up to 2 hours. Cover them loosely with foil or a clean kitchen towel to prevent drying out. Avoid leaving them out longer to reduce risk of bacterial growth.",
+        "refrigerator": "Store fritters in an airtight container in the fridge for up to 3 days. They may lose some crispness but can be reheated in a skillet to regain texture. Eating cold is possible but less enjoyable due to softness.",
+        "freezer": "Freeze fritters in a single layer on a parchment-lined tray, then transfer to a freezer-safe container or bag for up to 2 months. Wrap well to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat fritters in a non-stick skillet over medium heat with a splash of oil for 1-2 minutes per side until warmed through and crisp. Avoid microwaving as it makes them soggy.",
+        "make_ahead_strategy": "You can grate and salt the zucchini 1 day ahead and store it wrapped in the fridge. Mix the batter and fry just before serving to keep fritters fresh and crispy."
+    },
+    "faq": [
+        {
+            "question": "Can I make zucchini fritters without eggs?",
+            "answer": "Yes, you can substitute eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) or chia eggs. Let the mixture sit to thicken before mixing into the batter. Keep in mind the texture may be slightly denser and less fluffy."
+        },
+        {
+            "question": "Why are my fritters falling apart when frying?",
+            "answer": "This usually happens when the zucchini isn’t drained enough or there’s not enough binder like eggs and flour. Make sure to salt and squeeze out moisture thoroughly and don’t skip the eggs or flour. Also, avoid flipping too early before they form a crust."
+        },
+        {
+            "question": "Can I bake zucchini fritters instead of frying?",
+            "answer": "You can bake them at 400°F (200°C) on a parchment-lined baking sheet for about 20 minutes, flipping halfway through. They won’t be as crispy as fried but still delicious and a bit lighter."
+        },
+        {
+            "question": "What can I serve with zucchini fritters?",
+            "answer": "They pair wonderfully with Greek yogurt, sour cream, tzatziki, or a squeeze of lemon juice. They also go well alongside salads, grilled meats, or as a snack with dipping sauces."
+        },
+        {
+            "question": "How do I keep fritters crispy after cooking?",
+            "answer": "Drain them on paper towels immediately after frying to remove excess oil. Serve right away or keep warm in a low oven (about 200°F/95°C) on a wire rack to prevent sogginess."
+        },
+        {
+            "question": "Can I use frozen zucchini for fritters?",
+            "answer": "Frozen zucchini can work if thoroughly thawed and squeezed dry, but fresh zucchini generally yields better texture. Frozen tends to be wetter and softer, which can make the fritters mushy."
+        },
+        {
+            "question": "How do I prevent fritters from being greasy?",
+            "answer": "Use enough oil to shallow fry and maintain medium heat. Don’t overcrowd the pan to keep oil temperature steady. Drain fritters on paper towels after frying to absorb extra oil."
+        },
+        {
+            "question": "Is it okay to use a different herb instead of parsley?",
+            "answer": "Absolutely! Fresh dill, cilantro, or basil can all add unique flavors. Just use fresh herbs and add them at the end to keep their bright taste."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these zucchini fritters as much as I do. They’re a simple, fresh way to enjoy veggies—give them a try and let me know how they turn out!",
+    "seo": {
+        "primary_keyword": "easy zucchini fritters recipe",
+        "secondary_keywords": [
+            "crispy zucchini fritters",
+            "herb zucchini fritters",
+            "how to make zucchini fritters",
+            "best zucchini fritters recipe",
+            "easy vegetable fritters"
+        ],
+        "internal_links": [
+            {
+                "text": "how to properly grate zucchini",
+                "anchor": "grate-zucchini-correctly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Light & Delicious Zucchini Fritters to Brighten Your Day"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How To Make Perfect Zucchini Fritters Every Time"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Crispy Zucchini Fritters You Can Make in 30 Minutes"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Fresh Herb Zucchini Fritters: A Simple Side Dish Idea"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Crispy Zucchini Fritters You Can Make in 30 Minutes"
+        },
+        {
+            "fileName": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images/easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Crispy Zucchini Fritters You Can Make in 30 Minutes"
+        }
+    ],
+    "id": "post_1784123245_712",
+    "slug": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs",
+    "isOnline": true,
+    "createdAt": "2026-07-15T15:01:33+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-15T15:01:33+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-zucchini-fritters-recipe-with-crispy-edges-and-fresh-herbs/images",
+    "has_reel": true
+}
