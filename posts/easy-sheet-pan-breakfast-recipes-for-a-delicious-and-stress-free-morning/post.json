@@ -1,0 +1,346 @@
+{
+    "title": "Easy Sheet Pan Breakfast with Crispy Edges and Hearty Flavors",
+    "promptIMG": "Food photography: sheet pan breakfast, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan breakfast is my go-to for busy mornings—everything cooks together with minimal cleanup. The secret? Timing everything just right for those crispy edges. A cozy, filling start to your day!",
+    "hashtags": "#sheetpanbreakfast #easybreakfast #morningmeals",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Easy Sheet Pan Breakfast",
+            "description": "Busy morning? This sheet pan breakfast has you covered with hearty flavors and crispy edges. Save this recipe for fuss-free mornings! 🍳🔥 #sheetpanbreakfast #easyrecipes #breakfastideas"
+        },
+        {
+            "title": "Crispy and Delicious Sheet Pan Breakfast You’ll Love",
+            "description": "Wake up to a perfectly cooked breakfast all in one pan. Try this recipe today and enjoy a fuss-free morning meal! 🥓🍅 #breakfastrecipes #sheetpanmeals #quickbreakfast"
+        },
+        {
+            "title": "One-Pan Breakfast Magic: Simple, Tasty, and Quick",
+            "description": "Discover how easy mornings can be with this sheet pan breakfast. Crispy edges and hearty flavors await—give it a try! 🍽️✨ #easybreakfast #onepanmeal #morningboost"
+        },
+        {
+            "title": "Sheet Pan Breakfast: Your New Favorite Morning Hack",
+            "description": "No mess, no stress—just delicious breakfast done right. Save this recipe for your next busy morning! 🥚🍽️ #sheetpanbreakfast #morningmeal #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 large eggs, cold",
+        "8 ounces breakfast sausage, sliced",
+        "2 medium red potatoes, diced",
+        "1 cup cherry tomatoes, halved",
+        "1 small red onion, sliced",
+        "1 tablespoon olive oil",
+        "1 teaspoon smoked paprika",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I’ve been making this sheet pan breakfast for years now, especially when mornings get hectic. The first time I tried tossing everything on one pan, I was skeptical—would the potatoes cook through? Would the eggs get rubbery? But the trick I learned is all about layering and timing. Potatoes go in first, then sausage, and finally the eggs right at the end to keep them tender. What makes this version stand out is the smoky paprika that gives a subtle warmth without overpowering the fresh veggies. I also like to use cherry tomatoes because they roast beautifully and add a juicy pop. When it’s done, you get crispy edges on the potatoes and sausage, soft eggs, and a colorful plate that feels like a treat. It’s the kind of breakfast that’s both comforting and easy enough to whip up on a weekday. Plus, cleaning one pan? Total win.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Start by tossing the diced red potatoes with olive oil, smoked paprika, salt, and pepper. Spread them evenly on a large sheet pan. This step is crucial because potatoes take the longest to cook, and coating them with oil and spices ensures they crisp up nicely in the oven. Avoid overcrowding the pan, or the potatoes will steam instead of roast. Spread them in a single layer for the best texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Potatoes should be golden brown and crisp on the edges when ready."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced breakfast sausage and red onion around the partially cooked potatoes on the sheet pan. Return to the oven and roast for another 10 minutes. The sausage will release flavorful oils that help caramelize the veggies, and the onion softens and sweetens. Keep an eye to ensure the sausage browns but doesn’t burn. Stirring halfway through helps everything cook evenly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Sausage should be browned and cooked through, onions translucent and slightly caramelized."
+        },
+        {
+            "step": 3,
+            "instruction": "Scatter the halved cherry tomatoes over the sausage and potato mixture. Carefully crack the eggs over the pan, spacing them apart. Return to the oven and roast for 8-10 minutes, depending on how runny you like your yolks. This final step cooks the eggs gently without overcooking the other ingredients. Watch the whites set but the yolks remain soft if you prefer them runny.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Egg whites should be opaque and set, yolks slightly jiggly if runny."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the sheet pan from the oven and sprinkle fresh chopped parsley over the top. Let it rest for a couple of minutes before serving. This rest allows the eggs to settle and flavors to meld. Plus, the parsley adds a fresh, herbal brightness that balances the smoky sausage and roasted potatoes.",
+            "timing": "2 minutes",
+            "doneness_cue": "Eggs and veggies have settled, and parsley looks vibrant and fresh."
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the sheet pan breakfast right from the pan or transfer to plates with a spatula, making sure to get a bit of everything. This meal is best enjoyed warm, so dig in quickly to savor the crispy edges and creamy eggs. Pair with your favorite hot sauce or a sprinkle of cheese if you like.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is hot and fresh, with a pleasing mix of textures and colors."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add extra veggies like bell peppers or spinach, toss them in with the onions and sausage in step 2. These add freshness and bulk without changing cooking times much. Just be sure to slice veggies evenly for consistent roasting.",
+            "timing": "N/A",
+            "doneness_cue": "Veggies should be tender but not mushy."
+        },
+        {
+            "step": 7,
+            "instruction": "To get even crispier potatoes, try parboiling diced potatoes for 5 minutes before roasting. This softens them slightly so the oven can crisp the outsides faster without drying them out. Drain and toss with oil and spices before spreading on the pan.",
+            "timing": "5 minutes parboil + prep time",
+            "doneness_cue": "Potatoes have a fluffy interior and golden, crunchy exterior."
+        },
+        {
+            "step": 8,
+            "instruction": "For a dairy twist, sprinkle shredded cheddar or parmesan over the eggs in the last 2 minutes of baking. The cheese will melt beautifully and add richness. Be careful not to overcook, or the cheese might brown too much.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is melted and bubbly, lightly golden."
+        },
+        {
+            "step": 9,
+            "instruction": "Before serving, taste and adjust seasoning with a pinch of salt or pepper if needed. Sometimes the sausage is salty enough, so go easy. Fresh cracked black pepper adds a nice finishing touch and a little bite.",
+            "timing": "N/A",
+            "doneness_cue": "Balanced seasoning enhancing all flavors."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Breakfast Comes Together So Well",
+        "content": "<p>This recipe works because it balances cooking times and textures carefully on one pan, turning a simple set of breakfast staples into a cohesive, flavorful meal. The key lies in layering ingredients by their cooking needs—potatoes first, sausage and onions next, then eggs and tomatoes last. This prevents undercooked potatoes or overdone eggs, which are common pitfalls in one-pan dishes.</p><p>Potatoes crisp up when roasted with enough oil and space on the pan; overcrowding causes steaming instead of browning. The Maillard reaction—the chemical browning of proteins and sugars—produces those golden, crispy edges and rich flavors in the sausage and potatoes. Adding smoked paprika enhances this effect by introducing a subtle smoky warmth that complements the caramelized vegetables without overpowering them.</p><p>Eggs are added last to avoid rubbery textures. Roasting eggs gently in the oven allows whites to set softly while yolks can remain runny, which is hard to achieve in a skillet over direct heat. The fresh cherry tomatoes burst and soften quickly, adding juicy acidity that cuts through the richness of the sausage and potatoes. Finishing with fresh parsley brightens the whole dish, providing herbal contrast and a fresh aroma.</p><p>Overall, this recipe showcases how timing, ingredient placement, and seasoning come together to create a satisfying, effortless breakfast that’s both hearty and balanced.</p>",
+        "ingredient_notes": {
+            "red potatoes": "Choose firm, waxy red potatoes with smooth skin and no green spots. Their waxy texture holds shape well during roasting, ensuring crispy edges while keeping a creamy interior. Avoid starchy potatoes, which can become mealy or fall apart during baking. For best results, dice evenly about 1-inch pieces to cook uniformly.",
+            "breakfast sausage": "Opt for freshly ground pork breakfast sausage with a good fat content (around 20%) to keep it juicy. The fat renders during roasting, flavoring the potatoes and onions. Pre-sliced sausage links or patties work but slice them evenly for consistent cooking. Avoid overly lean sausage which can dry out and lose flavor.",
+            "eggs": "Use fresh large eggs straight from the fridge for best texture and appearance. Cold eggs added last help prevent overcooking. Roasting eggs gently in the oven sets whites without toughness while preserving yolk creaminess. For runnier yolks, reduce cooking time slightly.",
+            "cherry tomatoes": "Choose ripe, firm cherry tomatoes that hold their shape but will soften and burst during roasting. Their natural sweetness balances savory sausage and smoky spices. Avoid overly soft or bruised tomatoes which can become mushy.",
+            "smoked paprika": "A key spice that adds subtle smokiness and depth without heat. Opt for high-quality, bright red smoked paprika for best flavor. It complements the sausage and roasted veggies perfectly, enhancing the overall aroma and taste without overpowering."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when roasting potatoes.",
+            "reason": "Crowding traps moisture and causes the potatoes to steam instead of roast, preventing crispy edges. Spreading them out in a single layer exposes more surface area to the hot oven air, triggering the Maillard reaction that creates that desirable golden crust."
+        },
+        {
+            "tip": "Add eggs last and watch the timing closely.",
+            "reason": "Eggs cook quickly and can easily become rubbery if overbaked. Adding them at the end and monitoring closely allows the whites to set while keeping yolks creamy or runny, depending on preference, resulting in a more pleasant texture."
+        },
+        {
+            "tip": "Use smoked paprika to boost flavor without heat.",
+            "reason": "Smoked paprika adds a complex smoky note that enhances the savory sausage and roasted potatoes. It’s a subtle way to deepen flavor without making the dish spicy, balancing the sweetness of the tomatoes and onions."
+        },
+        {
+            "tip": "Let the dish rest a few minutes before serving.",
+            "reason": "Resting allows residual heat to finish cooking eggs gently and lets flavors meld. It also helps the dish cool slightly so you don’t burn your mouth and the textures settle for a better eating experience."
+        },
+        {
+            "tip": "Parboil potatoes for extra crispiness.",
+            "reason": "Briefly boiling diced potatoes softens their interior, so when roasted, they crisp on the outside while staying tender inside. This step speeds cooking and improves texture dramatically, especially for larger potato pieces."
+        },
+        {
+            "tip": "Use fresh herbs as a finishing touch.",
+            "reason": "Fresh parsley or chives add brightness and a fresh flavor contrast to the rich sausage and potatoes. Adding herbs at the end preserves their color and aroma, elevating the dish visually and taste-wise."
+        },
+        {
+            "tip": "Rotate the pan halfway through cooking.",
+            "reason": "Ovens often have hot spots which can cause uneven cooking. Rotating the pan ensures all ingredients brown evenly and prevents some areas from burning while others stay undercooked."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the sheet pan",
+            "why_it_happens": "It’s tempting to cram everything on one pan to save time, but this traps moisture, causing steaming instead of roasting.",
+            "fix": "Use a larger sheet pan or roast ingredients in batches to allow air circulation. Spread ingredients in a single layer so they brown and crisp properly."
+        },
+        {
+            "mistake": "Adding eggs too early",
+            "why_it_happens": "Some think adding eggs at the beginning saves time, but eggs cook much faster than potatoes or sausage.",
+            "fix": "Add eggs in the last 8-10 minutes of roasting to prevent overcooked, rubbery whites and yolks."
+        },
+        {
+            "mistake": "Using low-fat or lean sausage",
+            "why_it_happens": "Choosing lean sausage to be healthier can result in dry, tough meat that lacks flavor.",
+            "fix": "Select sausage with a good fat content (15-20%) to keep it juicy and flavorful during roasting."
+        },
+        {
+            "mistake": "Skipping seasoning the potatoes",
+            "why_it_happens": "Potatoes can taste bland if not properly seasoned before roasting.",
+            "fix": "Toss potatoes thoroughly with oil, salt, pepper, and smoked paprika to ensure every bite is flavorful."
+        },
+        {
+            "mistake": "Not rotating the pan",
+            "why_it_happens": "Ovens often cook unevenly, leading to uneven browning or burning.",
+            "fix": "Rotate the sheet pan halfway through the cook time to promote even roasting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Veggie-Packed Sheet Pan Breakfast",
+            "description": "Add bell peppers, zucchini, or spinach with the onions and sausage for extra veggies. These add freshness and color without changing cooking time much. Expect a more vibrant plate with a variety of textures and flavors.",
+            "technical_note": "Slice vegetables evenly to ensure even roasting and avoid adding watery veggies that can make the pan soggy."
+        },
+        {
+            "name": "Spicy Chorizo and Potato Breakfast",
+            "description": "Swap breakfast sausage for spicy chorizo to add a smoky, spicy kick. Pair with diced jalapeños or hot sauce for heat lovers. This variation brings a bold flavor twist and deeper color.",
+            "technical_note": "Chorizo tends to release more oil; drain excess if needed to prevent sogginess."
+        },
+        {
+            "name": "Cheesy Sheet Pan Breakfast",
+            "description": "Sprinkle shredded cheddar or parmesan cheese over the eggs during the last few minutes of baking. The melted cheese adds richness and a gooey texture that pairs perfectly with the crispy potatoes.",
+            "technical_note": "Add cheese near the end to avoid burning and ensure it melts evenly."
+        },
+        {
+            "name": "Sweet Potato and Herb Breakfast",
+            "description": "Replace red potatoes with diced sweet potatoes and add fresh rosemary or thyme. This gives a sweeter, earthier flavor and a colorful twist. The texture is creamier with a hint of herbaceous aroma.",
+            "technical_note": "Sweet potatoes cook slightly faster; check for doneness a few minutes earlier."
+        },
+        {
+            "name": "Vegan Sheet Pan Breakfast",
+            "description": "Use plant-based sausage and tofu cubes instead of eggs. Add mushrooms and kale for hearty texture. Season with smoked paprika and nutritional yeast for flavor. This variation is perfect for vegan diets but remains satisfying.",
+            "technical_note": "Press tofu to remove excess moisture and roast longer for a firmer texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This sheet pan breakfast can safely sit out for up to 2 hours if covered loosely with foil or a clean towel. Beyond that, bacteria growth increases, so refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The potatoes may lose some crispness and eggs firm up when cold. Reheat gently to avoid drying out, preferably in the oven or microwave with a splash of water.",
+        "freezer": "Freeze cooked components separately if possible, especially eggs which may change texture. Wrap tightly in freezer-safe containers or bags for up to 2 months. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through, adding a splash of water to keep eggs moist. Microwave on medium power with a cover to avoid drying. Avoid overheating, which toughens eggs and dries potatoes.",
+        "make_ahead_strategy": "Dice potatoes and prep sausage and veggies a day ahead, storing separately. Assemble and bake fresh in the morning for best texture and flavor. Eggs should be added just before baking to keep them tender."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen potatoes instead of fresh?",
+            "answer": "Frozen diced potatoes can be used but may release more moisture, leading to less crispiness. Pat them dry thoroughly before tossing with oil and spices. You might also need to roast a few minutes longer to achieve the desired texture."
+        },
+        {
+            "question": "How do I get runny yolks without undercooked egg whites?",
+            "answer": "Roast eggs at 400°F for about 8 minutes, watching closely. The whites should be set but tender, while yolks remain slightly jiggly. If you prefer firmer yolks, add 1-2 minutes to the cooking time."
+        },
+        {
+            "question": "What’s the best way to prevent sausage from drying out?",
+            "answer": "Choose sausage with moderate fat content and avoid overcooking. Roasting at 400°F with other ingredients allows fat to render slowly, keeping it juicy. Don’t slice sausage too thinly, as thinner pieces cook faster and dry out more easily."
+        },
+        {
+            "question": "Can I prepare this recipe completely ahead of time?",
+            "answer": "You can prep all ingredients ahead but add eggs right before baking for best texture. Potatoes and sausage can be diced and mixed with spices a day ahead and refrigerated. Assemble and bake fresh to avoid soggy eggs."
+        },
+        {
+            "question": "How do I make this recipe gluten-free?",
+            "answer": "This recipe is naturally gluten-free if you use gluten-free sausage. Always check labels to ensure no fillers or seasonings contain gluten. The rest of the ingredients—potatoes, eggs, veggies—are naturally gluten-free."
+        },
+        {
+            "question": "Can I swap the sausage for bacon?",
+            "answer": "Yes! Arrange bacon strips on the pan with the potatoes and veggies. Bacon cooks faster and can become crispy quickly, so monitor closely and possibly add it halfway through the potato roasting to avoid burning."
+        },
+        {
+            "question": "What’s the best way to store leftovers to keep flavors fresh?",
+            "answer": "Store leftovers in airtight containers in the fridge and consume within 3 days. To preserve flavor, reheat gently and add fresh herbs or a squeeze of lemon juice before serving to brighten the dish."
+        },
+        {
+            "question": "Can I add cheese to this recipe?",
+            "answer": "Absolutely! Sprinkle shredded cheese over the eggs in the last 2 minutes of baking for a melty, rich addition. Avoid adding cheese too early to prevent burning or drying out."
+        }
+    ],
+    "conclusion": "Give this sheet pan breakfast a try for your next busy morning—it’s an easy, flavorful way to start the day. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast recipe",
+        "secondary_keywords": [
+            "easy sheet pan breakfast",
+            "one pan breakfast ideas",
+            "how to make sheet pan breakfast",
+            "best sheet pan breakfast recipe",
+            "quick sheet pan breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast casserole",
+                "anchor": "easy-breakfast-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Sheet Pan Breakfast: Your New Favorite Morning Hack"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Start Your Day Right with This Easy Sheet Pan Breakfast"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Crispy and Delicious Sheet Pan Breakfast You’ll Love"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Start Your Day Right with This Easy Sheet Pan Breakfast"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Start Your Day Right with This Easy Sheet Pan Breakfast"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images/easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "One-Pan Breakfast Magic: Simple, Tasty, and Quick"
+        }
+    ],
+    "id": "post_1784284768_267",
+    "slug": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning",
+    "isOnline": true,
+    "createdAt": "2026-07-17T11:43:18+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-17T11:43:18+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-sheet-pan-breakfast-recipes-for-a-delicious-and-stress-free-morning/images",
+    "has_reel": true
+}
