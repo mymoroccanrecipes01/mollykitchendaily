@@ -1,0 +1,346 @@
+{
+    "title": "Sheet Pan Breakfast Crunchwrap with Sausage and Cheese for Easy Mornings",
+    "promptIMG": "Food photography: Sheet Pan Breakfast Crunchwrap, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan breakfast crunchwrap is a lifesaver on busy mornings. Loaded with fluffy eggs, gooey cheese, and savory sausage, it’s all toasted to crispy perfection. Perfect for brunch or a weekend treat!",
+    "hashtags": "#breakfast #crunchwrap #easybrunch",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Wake Up to This Crispy Breakfast Crunchwrap – Perfect for Busy Mornings!",
+            "description": "Start your day right with this crispy, cheesy breakfast crunchwrap loaded with eggs and sausage. It’s super simple to make and feeds a crowd. Save this recipe for your next brunch! 🥓🍳🧀 #BreakfastIdeas #EasyMeals #BrunchRecipes"
+        },
+        {
+            "title": "Sheet Pan Breakfast Crunchwrap – A Crowd-Pleasing Brunch Favorite!",
+            "description": "Hosting brunch? This sheet pan crunchwrap is your new best friend. Crispy edges, melty cheese, and savory sausage make it irresistible. Try it today and wow your guests! 🥞✨ #BrunchGoals #SheetPanMeals #ComfortFood"
+        },
+        {
+            "title": "Easy Sheet Pan Breakfast Crunchwrap That Everyone Will Love",
+            "description": "Looking for a fuss-free breakfast? This crunchwrap bakes all at once with eggs, cheese, and sausage. It’s hearty, delicious, and perfect for busy mornings. Discover now and enjoy! 🍳🧀🔥 #EasyBreakfast #FamilyMeals #MorningEats"
+        },
+        {
+            "title": "Cheesy Sausage Breakfast Crunchwrap Made Simple on a Sheet Pan",
+            "description": "Craving a cheesy, savory breakfast? This sheet pan crunchwrap is packed with sausage and eggs, all toasted crispy in one go. Save this recipe and make your mornings easier! 🥓🧀🍳 #BreakfastRecipe #SheetPanDinner #QuickMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 large flour tortillas",
+        "8 large eggs, whisked",
+        "1 cup shredded cheddar cheese",
+        "1 cup cooked breakfast sausage, crumbled",
+        "1/2 cup diced green onions",
+        "1/4 cup sour cream",
+        "1 tablespoon butter",
+        "Salt and pepper to taste",
+        "Optional: hot sauce for serving"
+    ],
+    "yield": "4 large crunchwraps, serves 4",
+    "introduction": "I first stumbled upon this sheet pan breakfast crunchwrap recipe when I needed a quick, no-fuss meal to feed a hungry family on a weekend morning. I’d tried individual wraps before, but they were time-consuming and messy. This one-pan method changed everything. What makes it stand out is how everything cooks together evenly, and the edges get perfectly crispy while the insides stay soft and cheesy. I love that it combines fluffy eggs, melty cheddar, and savory sausage all toasted up on a single sheet pan – less cleanup, more yum! The trick I learned was to use a little butter brushed on the tortillas before baking to get that golden crunch. Plus, adding diced green onions gives a fresh burst of flavor that balances the richness. When it’s done, you get this beautiful golden crunchwrap that’s hearty, satisfying, and so easy to slice and serve. It’s become my go-to for weekend brunches or anytime I want a crowd-pleasing breakfast without standing over the stove for ages. Honestly, it feels like a treat but is so simple to pull off. If you love breakfast that’s both comforting and effortless, you’ll really enjoy this one.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Line a large sheet pan with parchment paper or a silicone baking mat to prevent sticking and help with easy cleanup. This preparation ensures your crunchwraps don’t stick and bake evenly. Don’t skip this step because the direct heat on the pan can cause the tortillas to burn or stick, ruining the texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and pan lined with parchment"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, whisk the eggs with a pinch of salt and pepper until fully combined and slightly frothy. Whisking introduces air, which helps make the eggs fluffy when cooked. Avoid rushing this step; under-whisked eggs can turn rubbery instead of light and tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Eggs are pale yellow and frothy"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat a nonstick skillet over medium heat and melt the butter. Pour in the whisked eggs and gently scramble them, stirring occasionally until just set but still soft. Stop cooking before they are fully firm because they will continue to cook in the oven and you want them moist inside the crunchwrap.",
+            "timing": "5 minutes",
+            "doneness_cue": "Eggs are mostly set but still moist and soft"
+        },
+        {
+            "step": 4,
+            "instruction": "Lay out the tortillas on the prepared sheet pan. Spread a thin layer of sour cream in the center of each tortilla, leaving about 2 inches from the edge. The sour cream acts as a glue and adds tangy creaminess. Don’t use too much or the tortillas will get soggy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sour cream evenly spread but not dripping over edges"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the scrambled eggs evenly over the sour cream on each tortilla. Top the eggs with crumbled cooked sausage and shredded cheddar cheese. Layering like this ensures every bite has balanced flavors and textures. If you rush, the cheese may melt unevenly or the sausage won’t be distributed well.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly layered ingredients without overfilling"
+        },
+        {
+            "step": 6,
+            "instruction": "Fold the edges of each tortilla up and over the filling to create a sealed crunchwrap shape. It doesn’t have to be perfect; just tuck the edges in to hold the filling. This folding traps steam so the eggs stay moist while the outside crisps up.",
+            "timing": "7 minutes",
+            "doneness_cue": "Tortillas folded up with filling enclosed"
+        },
+        {
+            "step": 7,
+            "instruction": "Brush the tops of each crunchwrap lightly with melted butter. This helps the tortillas brown beautifully and develop a crispy texture in the oven. Skipping this step results in a softer, less golden crunchwrap.",
+            "timing": "3 minutes",
+            "doneness_cue": "Butter evenly brushed with a slight sheen"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the crunchwraps in the preheated oven for 15-20 minutes or until the tortillas are golden brown and crispy. Keep an eye on them to prevent burning. The baking melts the cheese fully and crisps the tortilla edges for that perfect crunch.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Crunchwraps are golden, crispy, and cheese is melted"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove from the oven and let the crunchwraps rest for 2-3 minutes before slicing. This resting time helps the filling set slightly so it doesn’t spill out when cut. Serve warm with optional hot sauce for a spicy kick.",
+            "timing": "3 minutes",
+            "doneness_cue": "Crunchwraps cool slightly and hold shape when sliced"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Sheet Pan Breakfast Crunchwrap Works So Well",
+        "content": "<p>This recipe is a masterclass in balancing textures and flavors while keeping things simple. The secret lies in cooking the eggs just right before assembling, so they stay tender and fluffy inside the crunchwrap instead of drying out. The folding technique traps moisture, allowing the eggs and sausage to stay juicy while the outside crisps up beautifully.</p><p>Another key factor is the use of butter brushed on the tortillas before baking. This fat encourages Maillard browning, producing that irresistible golden crust and enhancing flavor complexity. Without it, the tortillas would remain soft and pale, lacking the satisfying crunch that makes this dish so special.</p><p>Layering the ingredients in a specific order also helps. The sour cream acts as an adhesive, preventing the fillings from slipping out, while adding a slight tang that cuts through the richness. The cheese melts fully during baking, binding everything together and adding gooey indulgence.</p><p>Finally, baking everything together on a sheet pan is a brilliant timesaver that ensures even heat distribution. This method lets you feed a crowd without standing over the stove, and it produces consistent results every time. The combination of soft egg, savory sausage, creamy cheese, and crispy tortilla creates a harmonious bite that’s both comforting and exciting.</p>",
+        "ingredient_notes": {
+            "eggs": "Look for fresh large eggs with vibrant yolks for best flavor and texture. Eggs provide the fluffy, tender protein base; older eggs tend to be watery and cook up rubbery. Whisking well incorporates air, which helps create a light scramble. Avoid overcooking to keep them moist inside the crunchwrap.",
+            "breakfast sausage": "Choose high-quality pork sausage with a good balance of fat for flavor and moisture. Pre-cooking and crumbling the sausage ensures it’s evenly distributed and fully cooked before baking. Leaner sausages can dry out, so a bit of fat is important to keep the filling juicy.",
+            "flour tortillas": "Use large, fresh flour tortillas that are pliable but not overly soft or dry. They need to fold easily without cracking and crisp nicely in the oven. Avoid corn tortillas here as they don’t fold well and won’t get the same crunch.",
+            "cheddar cheese": "Sharp or medium cheddar shredded fresh melts beautifully, providing creamy texture and tangy flavor. Pre-shredded cheese often has anti-caking agents that can affect melting quality; shredding your own yields better results.",
+            "butter": "Real butter adds richness and promotes the Maillard reaction on the tortilla surface, giving that golden-brown crust and enhanced flavor. Using margarine or oil can work but may not produce the same depth of flavor or crispiness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the eggs before assembling.",
+            "reason": "Eggs continue cooking in the oven, so undercooking slightly ensures they finish moist and tender inside the crunchwrap. Overcooked eggs become rubbery and dry, ruining the texture contrast."
+        },
+        {
+            "tip": "Brush melted butter on tortillas before baking.",
+            "reason": "Butter helps the tortillas brown evenly and get crispy through the Maillard reaction, adding flavor and texture that oil or skipping fat won’t replicate."
+        },
+        {
+            "tip": "Use parchment paper or a silicone mat on your sheet pan.",
+            "reason": "This prevents sticking and makes cleanup a breeze. It also helps distribute heat evenly and keeps the tortillas from burning on the pan surface."
+        },
+        {
+            "tip": "Fold the tortilla edges tightly around the filling.",
+            "reason": "Tight folding traps steam and moisture inside, keeping the filling juicy while the outer shell crisps up. Loose folds can lead to filling leaks and uneven texture."
+        },
+        {
+            "tip": "Let the crunchwraps rest a few minutes after baking.",
+            "reason": "Resting helps the filling set, making slicing cleaner and preventing the contents from spilling out when cut."
+        },
+        {
+            "tip": "Use sharp cheddar cheese for better melting and flavor.",
+            "reason": "Sharp cheddar melts smoothly and adds a nice tang that balances the richness of sausage and eggs, elevating the overall taste."
+        },
+        {
+            "tip": "Add diced green onions for a fresh flavor pop.",
+            "reason": "Green onions cut through the richness and add a subtle crunch, brightening the dish and making it taste more complex."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking eggs before assembly",
+            "why_it_happens": "Many cooks want to fully scramble eggs ahead of time to save baking time, but this dries them out.",
+            "fix": "Cook eggs until just set but still moist, then finish cooking in the oven. This keeps eggs tender and prevents dryness."
+        },
+        {
+            "mistake": "Skipping the butter on tortillas",
+            "why_it_happens": "Some assume oil or no fat will crisp the tortillas fine, but it doesn’t brown the same.",
+            "fix": "Brush melted butter on each tortilla before baking for perfect golden crispness and flavor."
+        },
+        {
+            "mistake": "Folding tortillas loosely",
+            "why_it_happens": "To avoid tearing, some don’t fold edges tightly enough, causing filling to spill.",
+            "fix": "Fold edges snugly around filling to trap moisture and keep crunchwrap intact."
+        },
+        {
+            "mistake": "Using corn tortillas instead of flour",
+            "why_it_happens": "Corn tortillas are traditional for tacos but aren’t flexible enough for folding here.",
+            "fix": "Use large flour tortillas that fold easily and crisp nicely in the oven."
+        },
+        {
+            "mistake": "Overfilling the crunchwraps",
+            "why_it_happens": "Trying to pack too much filling leads to tearing or leaking during baking.",
+            "fix": "Distribute filling evenly and keep a 2-inch border to allow folding without spillage."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Crunchwrap",
+            "description": "Swap sausage for sautéed mushrooms and bell peppers. Add black beans for protein and a smoky chipotle sauce for flavor. This keeps the crunchwrap hearty but meat-free.",
+            "technical_note": "Sauté veggies until tender and moisture evaporates to avoid soggy crunchwraps."
+        },
+        {
+            "name": "Spicy Southwest Crunchwrap",
+            "description": "Add diced jalapeños and a sprinkle of cumin and chili powder to the eggs. Use pepper jack cheese for extra heat. Serve with salsa and avocado slices.",
+            "technical_note": "Adjust spice level carefully to keep flavors balanced without overpowering."
+        },
+        {
+            "name": "Cheesy Bacon Crunchwrap",
+            "description": "Replace sausage with crispy bacon and add extra cheddar and mozzarella blend for gooey cheesiness. Great for bacon lovers seeking a rich breakfast.",
+            "technical_note": "Cook bacon until crispy to prevent sogginess inside the crunchwrap."
+        },
+        {
+            "name": "Healthy Whole Wheat Crunchwrap",
+            "description": "Use whole wheat tortillas and turkey sausage for a lighter version. Add fresh spinach for extra greens. This option is nutritious without sacrificing taste.",
+            "technical_note": "Whole wheat tortillas may be less pliable; warm them slightly before folding."
+        },
+        {
+            "name": "Sweet Breakfast Crunchwrap",
+            "description": "Fill with scrambled eggs, cream cheese, and a drizzle of maple syrup. Add cooked apples or berries for a sweet twist on the classic savory crunchwrap.",
+            "technical_note": "Use less salt in eggs and balance sweetness carefully to avoid clashing flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Crunchwraps can sit at room temperature for up to 2 hours covered loosely to avoid drying out. Longer than this risks food safety issues, especially with eggs and sausage inside.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. They may lose some crispiness but reheat well in the oven or toaster oven to restore crunch.",
+        "freezer": "Wrap each crunchwrap tightly in plastic wrap and foil, then freeze for up to 2 months. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat in a 350°F oven for 10-12 minutes to crisp up the tortilla again. Avoid microwaving as it makes the tortilla soggy. Add a splash of water and cover loosely if reheating in microwave to keep eggs moist.",
+        "make_ahead_strategy": "You can prepare the filling and assemble crunchwraps up to a day ahead, then bake fresh when ready. Store assembled crunchwraps covered in the fridge and bake just before serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! Use gluten-free flour tortillas to make this crunchwrap gluten-free. Just make sure your sausage and other ingredients are labeled gluten-free. The texture will be slightly different but still tasty and crispy."
+        },
+        {
+            "question": "How can I make this recipe dairy-free?",
+            "answer": "To make it dairy-free, substitute cheese with your favorite dairy-free cheese alternative and use a dairy-free spread instead of butter. Skip the sour cream or use a plant-based version. The flavor will be a bit different but still delicious."
+        },
+        {
+            "question": "Can I prepare this the night before?",
+            "answer": "Absolutely. You can scramble the eggs and cook the sausage ahead, then assemble the crunchwraps and cover tightly in the fridge. Bake fresh in the morning for best texture and flavor."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat in a 350°F oven or toaster oven for 10-12 minutes to restore crispiness. Microwaving is faster but makes the tortilla soggy, so if you must microwave, cover loosely and add a splash of water."
+        },
+        {
+            "question": "Can I add veggies to this recipe?",
+            "answer": "Yes! Diced bell peppers, spinach, or mushrooms sautéed and added to the filling work great. Just cook veggies well to avoid excess moisture that could make the crunchwrap soggy."
+        },
+        {
+            "question": "What if my crunchwraps fall apart during baking?",
+            "answer": "Make sure you fold the tortillas tightly around the filling and don’t overfill. Using sour cream as a glue helps keep everything sealed. Also, be gentle when moving the sheet pan in and out of the oven."
+        },
+        {
+            "question": "Why are my eggs rubbery inside the crunchwrap?",
+            "answer": "This usually happens from overcooking the eggs before assembling. Cook them until just set and slightly moist, then finish baking in the oven to keep them tender."
+        },
+        {
+            "question": "Can I freeze assembled crunchwraps before baking?",
+            "answer": "Yes, wrap them tightly and freeze up to 2 months. Thaw overnight in the fridge and bake as usual. This is great for meal prep and quick breakfasts later."
+        }
+    ],
+    "conclusion": "I hope you love this sheet pan breakfast crunchwrap as much as my family does! Give it a try and let me know how it turns out – it’s a total game changer for easy, delicious mornings.",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast crunchwrap",
+        "secondary_keywords": [
+            "easy breakfast crunchwrap",
+            "breakfast crunchwrap recipe",
+            "how to make breakfast crunchwrap",
+            "best sheet pan breakfast",
+            "quick breakfast recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy scrambled eggs technique",
+                "anchor": "easy-scrambled-eggs-technique"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Sheet Pan Breakfast Crunchwrap – A Crowd-Pleasing Brunch Favorite!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Wake Up to This Crispy Breakfast Crunchwrap – Perfect for Busy Mornings!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Cheesy Sausage Breakfast Crunchwrap Made Simple on a Sheet Pan"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Wake Up to This Crispy Breakfast Crunchwrap – Perfect for Busy Mornings!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Wake Up to This Crispy Breakfast Crunchwrap – Perfect for Busy Mornings!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images/easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Sheet Pan Breakfast Crunchwrap That Everyone Will Love"
+        }
+    ],
+    "id": "post_1784330503_807",
+    "slug": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal",
+    "isOnline": true,
+    "createdAt": "2026-07-18T00:32:13+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-18T00:32:13+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-sheet-pan-breakfast-crunchwrap-recipe-for-a-crowd-pleasing-morning-meal/images",
+    "has_reel": true
+}

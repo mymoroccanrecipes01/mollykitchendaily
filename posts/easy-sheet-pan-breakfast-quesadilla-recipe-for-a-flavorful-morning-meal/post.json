@@ -1,0 +1,347 @@
+{
+    "title": "Easy Sheet Pan Breakfast Quesadillas with Crispy Edges and Gooey Cheese",
+    "promptIMG": "Food photography: Sheet Pan Breakfast Quesadillas, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan breakfast quesadilla is a lifesaver for busy mornings. Everything cooks together on one pan, giving you crispy, cheesy edges and melty goodness inside. Perfect for a weekend brunch or a quick family meal!",
+    "hashtags": "#breakfastquesadilla #sheetpanrecipe #easybreakfast",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Crispy Breakfast Quesadillas Ready in 30 Minutes!",
+            "description": "Love a quick, delicious breakfast? These sheet pan quesadillas come out perfectly crispy and cheesy every time. Save this recipe for your next brunch or busy morning! 🧀🔥 #breakfastideas #easyrecipes #quesadilla"
+        },
+        {
+            "title": "One-Pan Breakfast Quesadilla Hack You Need to Try Today",
+            "description": "Say goodbye to morning chaos! This sheet pan quesadilla recipe is super simple and yields crispy, gooey bites everyone will love. Try it today and enjoy a stress-free breakfast. 🌞🥑 #sheetpanmeals #breakfasthacks #familyfriendly"
+        },
+        {
+            "title": "Weekend Brunch Made Simple with Sheet Pan Quesadillas",
+            "description": "Hosting brunch? These quesadillas bake all at once on a sheet pan, making life easier and mornings tastier. Discover this easy recipe and impress your guests! 🥓🧀 #brunchrecipes #easybreakfast #sheetpan"
+        },
+        {
+            "title": "Quick & Tasty Sheet Pan Breakfast Quesadillas for Busy Mornings",
+            "description": "Need a quick breakfast fix? These sheet pan quesadillas are packed with melty cheese and crispy edges, ready in 30 minutes. Save this recipe and try it tomorrow! 🍳🌮 #quickbreakfast #easyrecipes #quesadilla"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "6 large flour tortillas",
+        "8 large eggs, lightly beaten",
+        "1 cup cooked breakfast sausage, crumbled",
+        "1 cup shredded cheddar cheese",
+        "1 cup shredded Monterey Jack cheese",
+        "1/2 cup diced bell peppers (red or green)",
+        "1/4 cup diced onions",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste",
+        "Optional: salsa and sour cream for serving"
+    ],
+    "yield": "Approximately 8 quesadilla wedges, 4 servings",
+    "introduction": "I first stumbled upon this sheet pan breakfast quesadilla recipe on a hectic weekend when I needed something quick but satisfying. What I love most is how everything bakes together on one pan, which means less mess and a wonderfully crispy, cheesy finish. It’s a far cry from the usual stovetop scramble and individually cooked quesadillas. The trick I learned is to spread the eggs evenly and not overload the pan, so the quesadillas bake evenly and the edges get that perfect crunch. I’ve made this several times for my family, and it’s become a go-to weekend brunch or even a quick weekday breakfast when time’s tight. The combination of gooey cheese, savory sausage, and colorful veggies makes it feel like a special treat but without any fuss. Plus, serving it with salsa and sour cream makes it even better. Honestly, the crispy edges are my favorite part; they add such a satisfying texture contrast to the soft inside. If you’re craving a breakfast that’s easy but feels indulgent, this one’s for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Line a large sheet pan with parchment paper or a silicone baking mat to prevent sticking. This step is crucial because it ensures your quesadillas won’t stick and makes cleanup much easier. Also, preheating the oven allows the pan to be hot enough for the tortillas to crisp up nicely instead of steaming. Avoid skipping this, or you might end up with soggy quesadillas.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and pan lined, ready for assembly"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium skillet, heat 1 tablespoon of olive oil over medium heat. Add diced onions and bell peppers, sautéing until softened and fragrant—about 5 minutes. This step adds a sweet, aromatic base and softens the veggies so they bake evenly with the eggs. Cooking them raw in the oven can result in crunchy vegetables, which might be off-putting in a quesadilla.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions translucent and peppers softened, no raw crunchy texture"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, whisk the eggs with salt and pepper. Stir in the cooked sausage, sautéed veggies, and half of the shredded cheeses. Mixing everything evenly ensures every bite has a balance of flavors and textures. Be careful not to overmix or the eggs will become tough when baked.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients evenly combined, mixture smooth and uniform"
+        },
+        {
+            "step": 4,
+            "instruction": "Lay three tortillas flat on the prepared sheet pan, slightly overlapping them to form a base layer. This overlapping helps to hold the filling without spilling over. If the tortillas are too far apart, the filling might leak between them during baking, making a mess.",
+            "timing": "3 minutes",
+            "doneness_cue": "Tortillas evenly arranged with slight overlap, covering pan area"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the egg mixture evenly over the tortillas, spreading gently with a spatula to cover all. Then sprinkle the remaining cheese over the top. Spreading the filling evenly is key to consistent cooking and to avoid soggy spots. The cheese on top melts and browns, creating that irresistible golden crust.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling smooth and evenly spread, cheese visibly scattered on top"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the remaining three tortillas on top, again overlapping slightly to cover the filling. Lightly brush the top tortillas with the remaining tablespoon of olive oil. The oil helps the tortillas crisp up beautifully and develop a golden color instead of drying out or remaining pale.",
+            "timing": "3 minutes",
+            "doneness_cue": "Top tortillas fully covering filling, brushed with oil"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the quesadilla in the preheated oven for 20-25 minutes. Keep an eye on the edges—they should turn golden brown and crisp. Baking gently cooks the eggs through while melting the cheese and crisping the tortillas. Avoid opening the oven door too often, or the heat will drop and affect cooking time.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Edges golden brown and crispy, cheese melted and bubbly"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from the oven and let it rest for 5 minutes before slicing. Resting allows the eggs to set fully, making it easier to cut without the filling spilling out. Cutting too soon can cause a messy, runny quesadilla, so patience here really pays off.",
+            "timing": "5 minutes",
+            "doneness_cue": "Filling set and firm, quesadilla holds shape when sliced"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice into wedges using a sharp knife or pizza cutter. Serve warm with your favorite salsa and sour cream. The quesadilla is best enjoyed fresh for that perfect balance of crispy and gooey textures, but leftovers reheat well too. If you want to add a fresh touch, sprinkle chopped cilantro or avocado on top.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean wedge slices with minimal filling spill, ready to serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind Perfect Sheet Pan Breakfast Quesadillas",
+        "content": "<p>This recipe hinges on a few key techniques that guarantee a crispy, cheesy, and evenly cooked quesadilla every time. First, preheating the oven and using a lined sheet pan prevents sogginess and sticking, letting the tortillas crisp up nicely. The overlapping tortillas create a sturdy base and lid that holds the filling well without leaking during baking.</p><p>The sautéing of onions and peppers before baking softens them and releases their natural sweetness, which blends beautifully with the savory sausage and eggs. Cooking these veggies raw in the oven could leave them crunchy or unevenly cooked, spoiling the texture balance.</p><p>Mixing the eggs with the filling ingredients before layering ensures even distribution of flavors and prevents dry patches. The cheese on top melts and browns, forming a golden crust that contrasts with the soft interior. Brushing the top tortillas with olive oil promotes browning via the Maillard reaction, enhancing both flavor and appearance.</p><p>Finally, letting the quesadilla rest after baking allows the eggs to set fully, preventing the filling from running out when sliced. This step is crucial for neat, satisfying servings. Altogether, these steps create a breakfast dish that’s both flavorful and visually appealing, with minimal effort and cleanup.</p>",
+        "ingredient_notes": {
+            "large flour tortillas": "Look for fresh, pliable tortillas that are not too thick or too thin. Medium-large size works best to hold plenty of filling without tearing. Flour tortillas crisp better in the oven than corn tortillas in this recipe, giving you those coveted golden edges.",
+            "large eggs": "Use fresh, large eggs for best texture and flavor. Eggs provide structure and richness to the filling. Be sure to whisk them lightly to incorporate air, which helps keep the baked filling tender instead of rubbery.",
+            "breakfast sausage": "Cooked and crumbled breakfast sausage adds savory, meaty flavor and a bit of fat to keep the filling moist. You can use pork or turkey sausage based on preference. Ensure it’s fully cooked before mixing to avoid any undercooked bites.",
+            "shredded cheddar and Monterey Jack cheese": "A blend of sharp cheddar and mild Monterey Jack melts beautifully, balancing flavor and creaminess. Freshly shredded cheese melts more evenly than pre-shredded varieties that sometimes contain anti-caking agents.",
+            "olive oil": "Brushing olive oil on the top tortillas encourages browning and crispiness through the Maillard reaction. It also prevents the tortillas from drying out in the oven, keeping them tender yet crisp."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the sheet pan to ensure even cooking.",
+            "reason": "If the pan is too crowded, heat circulation suffers, resulting in uneven cooking where some parts stay soggy while others crisp. Giving the tortillas space lets hot air crisp them uniformly."
+        },
+        {
+            "tip": "Use a pizza cutter for clean, easy slicing.",
+            "reason": "A sharp pizza cutter glides through the quesadilla without dragging the filling or tearing the tortillas, giving you neat wedges perfect for serving."
+        },
+        {
+            "tip": "Let the quesadilla rest before cutting.",
+            "reason": "Resting allows the egg filling to set firmly, preventing it from oozing out when sliced. Cutting too soon leads to messy portions and loss of filling."
+        },
+        {
+            "tip": "Sauté veggies before mixing into the eggs.",
+            "reason": "Pre-cooking onions and peppers softens them and enhances sweetness, ensuring they cook fully and blend well in the baked filling."
+        },
+        {
+            "tip": "Brush the top tortillas with olive oil.",
+            "reason": "This encourages even browning and crisp texture on top through the Maillard reaction, improving both flavor and presentation."
+        },
+        {
+            "tip": "Use freshly shredded cheese for best melt.",
+            "reason": "Pre-shredded cheese often contains anti-caking agents that can prevent smooth melting, so shredding your own ensures creamy, gooey cheese."
+        },
+        {
+            "tip": "Don’t rush the baking time.",
+            "reason": "Baking long enough lets the eggs cook through and the edges crisp perfectly. Undercooked eggs can taste raw, and insufficient crisping leaves soggy tortillas."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the pre-sauté of vegetables",
+            "why_it_happens": "Some cooks assume vegetables can be baked raw to save time, not realizing this leads to unevenly cooked, crunchy veggies.",
+            "fix": "Always sauté onions and peppers first until softened. This step ensures the vegetables cook fully and blend well with the eggs, improving overall texture and flavor."
+        },
+        {
+            "mistake": "Overfilling the quesadilla",
+            "why_it_happens": "It’s tempting to add lots of filling, but too much causes spilling and sogginess.",
+            "fix": "Distribute the filling evenly and avoid piling it too high. Use the specified quantities to maintain structure and crisp edges."
+        },
+        {
+            "mistake": "Using cold ingredients straight from the fridge",
+            "why_it_happens": "Cold eggs or sausage can lower the baking temperature locally, affecting even cooking.",
+            "fix": "Let eggs and cooked sausage sit at room temperature briefly before assembly to promote even baking."
+        },
+        {
+            "mistake": "Not brushing tortillas with oil",
+            "why_it_happens": "Some skip this step thinking it’s unnecessary, leading to dry, pale tortillas.",
+            "fix": "Brush the top tortillas lightly with olive oil to encourage golden crispiness and better flavor."
+        },
+        {
+            "mistake": "Cutting the quesadilla immediately after baking",
+            "why_it_happens": "Impatience leads to messy slices and filling spills.",
+            "fix": "Let the quesadilla rest at least 5 minutes before slicing to let the filling set and hold together."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Sheet Pan Quesadilla",
+            "description": "Replace the sausage with sautéed mushrooms or black beans for a hearty vegetarian option. Add extra veggies like spinach or zucchini for freshness. The texture will be slightly softer but still delicious.",
+            "technical_note": "Sauté mushrooms thoroughly to remove excess moisture, preventing sogginess in the quesadilla."
+        },
+        {
+            "name": "Spicy Chorizo Breakfast Quesadilla",
+            "description": "Swap breakfast sausage for spicy chorizo to add a smoky heat. Add diced jalapeños if you like it extra spicy. This variation brings a bold kick and richer flavor.",
+            "technical_note": "Cook chorizo fully and drain excess fat to avoid greasy filling."
+        },
+        {
+            "name": "Cheese Lover’s Quesadilla",
+            "description": "Double up on cheese varieties—try adding mozzarella or pepper jack. This makes the quesadilla extra gooey and melty, perfect for cheese fans.",
+            "technical_note": "Watch baking time closely since extra cheese can brown faster."
+        },
+        {
+            "name": "Gluten-Free Breakfast Quesadilla",
+            "description": "Use gluten-free tortillas instead of flour ones. The texture will be a bit different—often softer—but it’s a great option for gluten-free diets.",
+            "technical_note": "Choose sturdy gluten-free tortillas to avoid tearing during baking."
+        },
+        {
+            "name": "Southwest Style Quesadilla",
+            "description": "Add corn kernels, black beans, and a sprinkle of cumin and chili powder to the filling for a flavorful Southwest twist. Garnish with fresh cilantro and avocado.",
+            "technical_note": "Reduce salt slightly as beans and corn add natural sweetness and saltiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the quesadilla at room temperature for up to 2 hours covered loosely with foil or a clean towel. Beyond that, bacteria growth risks increase, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The quesadilla may lose some crispness but reheats well. Warm in the oven or toaster oven to regain crunch or enjoy cold with salsa.",
+        "freezer": "Wrap tightly in plastic wrap and foil to prevent freezer burn, then freeze for up to 2 months. Thaw overnight in the fridge before reheating for best texture.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through and edges crisp again. Avoid microwaving as it tends to make the tortillas soggy and chewy.",
+        "make_ahead_strategy": "You can prepare the filling and sauté veggies 1 day ahead and refrigerate. Assemble the quesadilla on the sheet pan the next morning and bake fresh for best results."
+    },
+    "faq": [
+        {
+            "question": "Can I use corn tortillas instead of flour?",
+            "answer": "Corn tortillas tend to be less flexible and can crack during baking, leading to a messier quesadilla. Flour tortillas are preferred for this sheet pan method because they crisp nicely and hold the filling well. If using corn tortillas, warm them first to increase pliability and consider layering carefully to prevent breakage."
+        },
+        {
+            "question": "Can I make this vegetarian?",
+            "answer": "Absolutely! Swap the sausage for sautéed mushrooms, black beans, or even tofu crumbles. Just make sure to cook the veggies well before mixing with the eggs to avoid excess moisture and uneven cooking."
+        },
+        {
+            "question": "How do I prevent the quesadilla from getting soggy?",
+            "answer": "Pre-cooking the veggies and sausage removes excess moisture, and brushing the tortillas with olive oil helps crisp them. Also, baking at the right temperature without overcrowding the pan ensures the tortillas crisp up instead of steaming."
+        },
+        {
+            "question": "Can I prepare this the night before?",
+            "answer": "You can prep the filling the night before and store it in the fridge. Assemble the quesadilla and bake fresh the next morning for best texture. Avoid assembling too early as the tortillas might get soggy from the filling."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat in a 350°F oven for 10-15 minutes to restore crispiness. Avoid microwaving as it tends to make the tortillas chewy and limp."
+        },
+        {
+            "question": "Can I add other fillings like spinach or tomatoes?",
+            "answer": "Yes! Just be mindful to sauté watery vegetables like spinach or tomatoes beforehand to reduce moisture. This helps maintain the quesadilla’s crisp texture."
+        },
+        {
+            "question": "How do I know when the quesadilla is done baking?",
+            "answer": "Look for golden brown, crispy edges and melted, bubbly cheese on top. The eggs inside should be fully set and firm to the touch."
+        },
+        {
+            "question": "Can I make this vegan?",
+            "answer": "To make a vegan version, use tofu scramble instead of eggs, vegan cheese, and plant-based sausage substitutes. The baking method remains the same but texture and flavor will differ slightly."
+        }
+    ],
+    "conclusion": "Give this sheet pan breakfast quesadilla a try—you’ll love how easy and delicious it is! Don’t forget to share how it turns out with your family or friends.",
+    "seo": {
+        "primary_keyword": "sheet pan breakfast quesadilla",
+        "secondary_keywords": [
+            "easy breakfast quesadilla",
+            "sheet pan breakfast recipe",
+            "how to make breakfast quesadilla",
+            "best sheet pan quesadilla recipe",
+            "quick breakfast quesadilla"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast casserole",
+                "anchor": "easy-breakfast-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Crispy Breakfast Quesadillas Ready in 30 Minutes!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Crispy Breakfast Quesadillas Ready in 30 Minutes!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Quick & Tasty Sheet Pan Breakfast Quesadillas for Busy Mornings"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "One-Pan Breakfast Quesadilla Hack You Need to Try Today"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Crispy Breakfast Quesadillas Ready in 30 Minutes!"
+        },
+        {
+            "fileName": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images/easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Weekend Brunch Made Simple with Sheet Pan Quesadillas"
+        }
+    ],
+    "id": "post_1784330000_610",
+    "slug": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal",
+    "isOnline": true,
+    "createdAt": "2026-07-18T00:32:13+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-18T00:32:13+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-sheet-pan-breakfast-quesadilla-recipe-for-a-flavorful-morning-meal/images",
+    "has_reel": true
+}
