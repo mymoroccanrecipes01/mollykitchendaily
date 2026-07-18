@@ -1,0 +1,344 @@
+{
+    "title": "Simple and Fresh Zucchini Stir-Fry with Garlic and Herbs",
+    "promptIMG": "Food photography: Zucchini Stir-Fry with Garlic and Herbs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This quick zucchini stir-fry is a fresh, light dinner that highlights the veggie's natural sweetness. Garlic and herbs add a flavorful punch with minimal fuss. Perfect for busy weeknights or when you want an easy, healthy meal.",
+    "hashtags": "#zucchinirecipes #vegetarian #quickdinner",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Quick Zucchini Stir-Fry for Busy Weeknights",
+            "description": "Whip up this simple zucchini stir-fry in under 30 minutes! 🌿 Garlic and fresh herbs make it bursting with flavor. Save this easy recipe for your next light dinner. #zucchini #vegetarianrecipes #quickmeals"
+        },
+        {
+            "title": "Fresh and Flavorful Zucchini Stir-Fry Recipe",
+            "description": "Looking for a fresh, healthy dinner? This zucchini stir-fry is packed with garlic and herbs, perfect for busy nights or light meals. Try it today and enjoy easy cooking! 🥒🍴 #vegetarian #easyrecipes #healthymeals"
+        },
+        {
+            "title": "Easy Vegetarian Zucchini Stir-Fry Everyone Will Love",
+            "description": "Simple, fresh, and delicious zucchini stir-fry with garlic and herbs. Ready in 30 minutes, it's a perfect weeknight meal. Discover this quick veggie dish now! 🌱🥢 #vegetarianmeals #quickdinner #zucchinilove"
+        },
+        {
+            "title": "Light and Tasty Zucchini Stir-Fry in 30 Minutes",
+            "description": "This zucchini stir-fry is light but full of flavor thanks to garlic and fresh herbs. Great for quick dinners or healthy eating. Save it for your next easy meal! 🥒✨ #quickvegetarian #healthyrecipes #zucchinidinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "3 medium zucchinis, sliced into half-moons",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 teaspoon fresh thyme leaves",
+        "1 teaspoon fresh parsley, chopped",
+        "Salt and freshly ground black pepper, to taste",
+        "1 tablespoon lemon juice"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this zucchini stir-fry when I needed a quick, fresh dinner on a busy weeknight. I loved how just a few simple ingredients could bring out zucchini's natural flavor without overwhelming it. Unlike heavier recipes, this one keeps things light and vibrant, making it perfect for when you want something healthy but satisfying. The trick I learned early on is to slice the zucchini just right—not too thick so it cooks quickly, but thick enough to keep a nice bite. Also, adding fresh herbs at the end really brightens the dish in a way dried herbs just can't match. It’s perfect served alongside a grain or just on its own for a light meal. I’ve made it countless times, and every time it’s a hit because it’s just so easy and tasty. If you’re like me and appreciate food that’s fuss-free but full of flavor, this recipe will quickly become a favorite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing the zucchinis thoroughly and slicing them into half-moons about a quarter-inch thick. This thickness allows the zucchini to cook evenly without turning mushy. If the slices are too thin, they’ll lose their texture and become soggy, but too thick and they won’t soften properly. A sharp knife or mandoline helps get consistent slices. Preparing the zucchini this way ensures they cook quickly and absorb the flavors of the garlic and herbs nicely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Uniform, quarter-inch thick slices with smooth edges"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat the olive oil in a large skillet over medium heat. Once shimmering, add the minced garlic and sauté gently for about one minute. You want to soften the garlic and release its aromatic oils without browning it, which can make it bitter. Stir frequently and watch carefully because garlic can burn quickly. This step is crucial because the garlic flavor infuses the oil, which then coats the zucchini for a fragrant base.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is soft and fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sliced zucchini to the skillet in a single layer if possible. Cook over medium heat, stirring occasionally, for about 7 to 8 minutes. The goal here is to soften the zucchini while keeping some bite and avoiding excess moisture release. If you crowd the pan too much, the zucchini will steam instead of sauté, resulting in a soggy texture. Stir gently to coat the slices evenly with the garlicky oil.",
+            "timing": "8 minutes",
+            "doneness_cue": "Zucchini is tender but still slightly firm and glossy"
+        },
+        {
+            "step": 4,
+            "instruction": "Season the zucchini with salt and freshly ground black pepper to taste. Salt draws out moisture and deepens the flavors, so don't skip it. Add the fresh thyme leaves and stir well to combine. Fresh herbs add a burst of brightness and complexity, making the dish feel fresh and vibrant. Avoid adding herbs too early, as prolonged cooking can dull their flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Seasoning evenly distributed and herbs visibly fresh"
+        },
+        {
+            "step": 5,
+            "instruction": "Turn off the heat and stir in the chopped fresh parsley and lemon juice. The lemon juice adds a subtle tang and lifts the flavors, balancing the richness of the olive oil and garlic. Adding parsley at this stage preserves its bright green color and fresh taste. Toss everything gently to combine and serve immediately for the best texture and flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley is vibrant and lemon juice evenly coats the zucchini"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the zucchini stir-fry warm as a light main dish or a side. It pairs beautifully with grains like quinoa or rice, or alongside grilled proteins. If you want to add a little crunch, sprinkle some toasted pine nuts or chopped almonds on top right before serving. This adds texture contrast and a nutty flavor that complements the soft zucchini.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish plated with optional garnish and ready to eat"
+        },
+        {
+            "step": 7,
+            "instruction": "If you’re prepping ahead, cool the stir-fry completely before storing it in an airtight container. When reheating, use medium heat on the stovetop to gently warm it without overcooking. Adding a splash of water or olive oil during reheating helps restore moisture lost in the fridge. Avoid microwaving uncovered as it can dry out the zucchini quickly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Warm but not mushy, with a fresh aroma"
+        },
+        {
+            "step": 8,
+            "instruction": "For a bit of variation, try adding a pinch of red pepper flakes during the garlic sauté for a subtle heat. This small addition transforms the dish into something with a little kick, perfect if you like spicy flavors. Just don’t add too much at once; you can always add more later if you want more heat.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic oil lightly tinged with red pepper flakes"
+        },
+        {
+            "step": 9,
+            "instruction": "Lastly, taste the stir-fry before serving and adjust seasoning as needed. Sometimes the lemon juice or salt might need a little extra to balance the flavors perfectly. Trust your palate to guide you here—this final seasoning step really makes the dish shine.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced, bright flavor with no single element overpowering"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Zucchini Stir-Fry is So Delicious and Simple",
+        "content": "<p>Zucchini is a wonderfully versatile vegetable that cooks quickly and absorbs flavors beautifully, but it can easily become soggy if overcooked. This recipe works because it balances gentle sautéing with precise timing to keep the zucchini tender yet firm. The key is to slice the zucchini evenly and not overcrowd the pan, allowing for proper browning and moisture evaporation. This technique prevents the zucchini from steaming and losing its texture.</p><p>Using olive oil as the cooking fat adds richness and helps carry the flavors of garlic and herbs throughout the dish. Garlic is sautéed just until fragrant, releasing its essential oils without burning, which would turn it bitter. Fresh herbs like thyme and parsley are added late in the cooking process to maintain their bright, fresh flavors and vibrant colors, elevating the dish’s taste and appearance.</p><p>The addition of lemon juice at the end is a simple but transformative step. The acidity brightens the flavor profile, cutting through the richness of the oil and balancing the natural sweetness of the zucchini. This small touch makes the dish feel fresh and lively, perfect for a light meal or side. Altogether, these techniques and ingredient choices create a quick, healthy, and flavorful stir-fry that celebrates zucchini in its best light.</p>",
+        "ingredient_notes": {
+            "Zucchini": "When selecting zucchini, look for ones that are firm, medium-sized, and free from soft spots or blemishes. Smaller zucchinis tend to have a sweeter flavor and less watery texture, making them ideal for sautéing. Avoid large, older zucchini as they can be bitter and have tough seeds. Proper slicing thickness (about 1/4 inch) ensures even cooking and a pleasant bite.",
+            "Olive Oil": "Extra virgin olive oil is preferred for its robust flavor and health benefits. It acts as a flavor carrier for the garlic and herbs and helps in sautéing without overpowering the zucchini. Avoid using oils with a high smoke point but neutral taste, as they won’t add the same depth. Keep the heat moderate to prevent the oil from burning and affecting the dish’s flavor.",
+            "Garlic": "Fresh garlic cloves deliver the essential pungency and aroma for this recipe. Minced finely, garlic infuses the oil quickly but must be watched carefully during cooking to avoid burning. Burnt garlic turns bitter and ruins the dish. If you want a milder garlic flavor, you can lightly crush the cloves and remove them after infusing the oil.",
+            "Fresh Herbs": "Fresh thyme and parsley bring brightness and complexity to the stir-fry. Thyme adds earthy notes, while parsley offers a clean, fresh finish. Using fresh herbs instead of dried ensures vibrant color and flavor. Add them towards the end of cooking to preserve their delicate oils and prevent dullness from heat.",
+            "Lemon Juice": "Freshly squeezed lemon juice adds acidity that balances the richness of the olive oil and the natural sweetness of zucchini. Bottled lemon juice lacks the brightness and can introduce off-flavors. Adding lemon juice at the end preserves its fresh, sharp character and brightens the entire dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice zucchini evenly about 1/4 inch thick for perfect texture.",
+            "reason": "Even slices ensure the zucchini cooks uniformly, preventing some pieces from becoming mushy while others remain underdone. This thickness is ideal to soften the zucchini without losing its natural bite, maintaining a pleasing texture that’s not watery or limp."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when sautéing zucchini.",
+            "reason": "Crowding traps steam and causes the zucchini to steam rather than sauté, resulting in a soggy texture. Cooking in batches or using a large skillet helps evaporate moisture quickly and allows the zucchini to brown slightly, adding flavor and better texture."
+        },
+        {
+            "tip": "Add fresh herbs at the end of cooking for maximum flavor.",
+            "reason": "Fresh herbs contain volatile oils that dissipate with prolonged heat. Adding them late preserves their bright color and fresh, vibrant taste. This step elevates the dish by adding complexity and freshness that dried herbs or early additions cannot achieve."
+        },
+        {
+            "tip": "Use medium heat to cook garlic gently until fragrant.",
+            "reason": "Garlic burns quickly at high heat, turning bitter and unpleasant. Cooking it gently in olive oil releases its aroma and flavor without burning. This infuses the oil, which then flavors the zucchini evenly, ensuring a balanced and pleasant garlic taste."
+        },
+        {
+            "tip": "Add lemon juice just before serving to brighten flavors.",
+            "reason": "Lemon juice’s acidity cuts through the richness and enhances flavors but loses its brightness if cooked too long. Adding it at the end preserves its fresh, tangy character, making the dish taste lively and balanced."
+        },
+        {
+            "tip": "Stir gently to avoid breaking zucchini slices during cooking.",
+            "reason": "Zucchini is delicate and can easily break apart if stirred too vigorously. Gentle stirring helps maintain the shape and texture of the slices, resulting in a visually appealing dish with satisfying mouthfeel."
+        },
+        {
+            "tip": "Use a sharp knife or mandoline for consistent slices.",
+            "reason": "Consistent slicing ensures even cooking times and texture. Uneven pieces lead to some slices overcooking while others remain underdone, negatively affecting the dish’s overall quality and presentation."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking zucchini until mushy",
+            "why_it_happens": "Many cooks assume zucchini should be cooked until very soft, but overcooking releases too much water and breaks down its structure, resulting in a soggy, unappetizing dish.",
+            "fix": "Cook zucchini just until tender but still slightly firm, about 7-8 minutes over medium heat. Watch for a glossy surface and gentle give when pressed. Remove from heat promptly to avoid mushiness."
+        },
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Garlic cooks very quickly and can burn if the heat is too high or if left unattended, causing bitterness that spoils the dish.",
+            "fix": "Sauté garlic over medium or medium-low heat and stir constantly. Remove from heat as soon as it becomes fragrant and lightly golden, before it darkens."
+        },
+        {
+            "mistake": "Using dried herbs instead of fresh",
+            "why_it_happens": "Dried herbs lose their bright flavor and color when cooked for long periods, leading to a dull taste and appearance.",
+            "fix": "Use fresh thyme and parsley, adding them near the end of cooking to preserve their vibrant flavor and color."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Adding too much zucchini at once causes steaming rather than sautéing, making the dish watery and limp.",
+            "fix": "Cook zucchini in batches if necessary, leaving space in the pan so moisture can evaporate and the slices can brown lightly."
+        },
+        {
+            "mistake": "Skipping seasoning",
+            "why_it_happens": "Some forget to season with salt and pepper, resulting in a bland dish that doesn’t highlight the zucchini’s natural sweetness.",
+            "fix": "Season during cooking and taste before serving, adjusting salt and pepper to enhance the overall flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Zucchini Stir-Fry",
+            "description": "Add 1/4 teaspoon red pepper flakes or a diced fresh chili during the garlic sauté to give the dish a gentle heat. This variation adds complexity and warmth without overpowering the fresh zucchini flavor.",
+            "technical_note": "Be careful not to burn the chili or pepper flakes; add them with the garlic and sauté gently for best results."
+        },
+        {
+            "name": "Zucchini with Cherry Tomatoes",
+            "description": "Toss in halved cherry tomatoes during the last 3 minutes of cooking. The tomatoes add sweetness and juiciness, complementing the zucchini and herbs beautifully for a summery side dish.",
+            "technical_note": "Add tomatoes late to avoid overcooking and turning them mushy."
+        },
+        {
+            "name": "Zucchini and Feta Cheese Stir-Fry",
+            "description": "Sprinkle crumbled feta cheese on top right before serving for a salty, creamy contrast. This adds richness and a Mediterranean twist to the simple stir-fry.",
+            "technical_note": "Add feta just before plating to keep its texture intact."
+        },
+        {
+            "name": "Garlic and Lemon Zucchini Noodles",
+            "description": "Use a spiralizer to make zucchini noodles instead of slices, then sauté quickly with garlic and lemon juice. This variation is great for a low-carb pasta alternative with a fresh, light flavor.",
+            "technical_note": "Cook noodles briefly to prevent sogginess; 2-3 minutes is enough."
+        },
+        {
+            "name": "Zucchini Stir-Fry with Pine Nuts",
+            "description": "Toast pine nuts separately and sprinkle over the finished dish for a nutty crunch. This adds texture contrast and a rich flavor that pairs well with the tender zucchini.",
+            "technical_note": "Toast nuts gently in a dry skillet until golden, watching carefully to avoid burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir-fry can safely sit out for up to 2 hours if covered to prevent contamination. Beyond that, it’s best to refrigerate to keep it fresh and safe to eat.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The zucchini may release some water and soften when chilled, so it’s best reheated gently on the stovetop with a splash of olive oil to refresh the texture.",
+        "freezer": "Freezing zucchini stir-fry is not recommended as zucchini’s high water content causes it to become mushy after thawing. For best results, enjoy fresh or refrigerated.",
+        "reheating": "Reheat gently in a skillet over medium heat, stirring occasionally. Add a small splash of olive oil or water if the mixture seems dry. Avoid microwaving uncovered as it can dry out the dish and change texture.",
+        "make_ahead_strategy": "You can prep and slice zucchini up to a day ahead, storing it in an airtight container in the fridge. Garlic can be minced ahead too. Cook the stir-fry fresh for best texture and flavor; if needed, reheat gently."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this stir-fry?",
+            "answer": "Frozen zucchini tends to release a lot of water when thawed, which can make the stir-fry soggy. If you use frozen, be sure to thaw and drain it very well, then cook in smaller batches to evaporate excess moisture. Fresh zucchini is definitely preferred for best texture."
+        },
+        {
+            "question": "How do I prevent the zucchini from being too watery?",
+            "answer": "Avoid overcrowding the pan and cook over medium heat to allow moisture to evaporate. Also, slicing zucchini evenly helps it cook uniformly without releasing excess water. Salt draws out moisture, so season gradually to control texture."
+        },
+        {
+            "question": "Can I add other vegetables to this stir-fry?",
+            "answer": "Yes! Cherry tomatoes, bell peppers, or mushrooms work well. Add firmer veggies earlier and delicate ones like tomatoes near the end to prevent overcooking. Adjust cooking times to keep everything tender but not mushy."
+        },
+        {
+            "question": "How do I make this dish vegan?",
+            "answer": "This recipe is naturally vegan as written. Just avoid adding optional toppings like feta cheese, and use olive oil or your preferred plant-based oil for cooking."
+        },
+        {
+            "question": "Is this dish gluten-free?",
+            "answer": "Yes, zucchini stir-fry with garlic and herbs contains no gluten and is safe for gluten-free diets. Just make sure any added ingredients or toppings are gluten-free as well."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can prep vegetables a day ahead but it’s best to cook the stir-fry fresh. If you need to store leftovers, refrigerate promptly and reheat gently to maintain texture and flavor."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat on the stovetop over medium heat with a splash of olive oil or water to prevent drying out. Avoid microwaving uncovered, which can toughen the zucchini and dry the dish."
+        },
+        {
+            "question": "How can I add protein to this meal?",
+            "answer": "Serve with cooked quinoa, chickpeas, or grilled tofu to make it more filling. Adding nuts or seeds like toasted pine nuts also boosts protein and adds texture."
+        }
+    ],
+    "conclusion": "Give this zucchini stir-fry a try — it’s simple, fresh, and so satisfying! I’d love to hear how it turns out for you, so don’t forget to share your thoughts.",
+    "seo": {
+        "primary_keyword": "easy zucchini stir-fry recipe",
+        "secondary_keywords": [
+            "quick zucchini recipes",
+            "vegetarian zucchini dishes",
+            "how to make zucchini stir-fry",
+            "best zucchini stir-fry recipe",
+            "easy vegetarian stir-fry"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic pasta recipe",
+                "anchor": "simple-garlic-pasta"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Light and Tasty Zucchini Stir-Fry in 30 Minutes"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick Zucchini Stir-Fry for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Fresh and Flavorful Zucchini Stir-Fry Recipe"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Vegetarian Zucchini Stir-Fry Everyone Will Love"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick Zucchini Stir-Fry for Busy Weeknights"
+        },
+        {
+            "fileName": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images/easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick Zucchini Stir-Fry for Busy Weeknights"
+        }
+    ],
+    "id": "post_1784416180_751",
+    "slug": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-19T00:28:33+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-19T00:28:33+01:00",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-simple-zucchini-recipes-vegetarian-for-flavorful-weeknight-dinners/images",
+    "has_reel": true
+}

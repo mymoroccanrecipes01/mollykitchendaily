@@ -1,0 +1,343 @@
+{
+    "title": "Simple Garlic Sautéed Zucchini with Fresh Tomatoes for a Light Dinner",
+    "promptIMG": "Food photography: Garlic Sautéed Zucchini with Fresh Tomatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This quick zucchini sauté is a fresh and healthy dinner that’s light but full of flavor. Garlic and juicy tomatoes add a perfect touch, making it great for busy weeknights or a simple summer meal.",
+    "hashtags": "#zucchinirecipe #healthydinner #quickmeals",
+    "board_name": "Easy Vegetable Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Tasty Garlic Zucchini You’ll Love Tonight!",
+            "description": "Looking for a healthy dinner that’s ready in no time? This sautéed zucchini with garlic and tomatoes is your new go-to! Save this recipe for easy weeknights 🍅🧄 #quickrecipes #healthyeats #zucchini"
+        },
+        {
+            "title": "Light & Flavorful Zucchini Sauté With Fresh Tomatoes",
+            "description": "Enjoy a simple, fresh veggie dish that’s packed with flavor and super easy to make. Try this garlic zucchini sauté tonight and taste the difference! Save it now for your next dinner 🍽️🌿 #veggierecipes #easymeals #dinnerideas"
+        },
+        {
+            "title": "Healthy Weeknight Dinner: Garlic Zucchini & Tomatoes",
+            "description": "Whip up this quick sautéed zucchini with garlic and tomatoes for a light, nutritious meal. Perfect for busy nights when you want something fresh and satisfying. Try it today! 🥒🍅 #healthydinner #quickveggies #easyrecipes"
+        },
+        {
+            "title": "Savor Summer Veggies with This Quick Zucchini Sauté",
+            "description": "Bright, fresh, and delicious—this garlic zucchini sauté with juicy tomatoes is a summer staple you’ll want anytime. Discover this easy recipe and save it for your next meal! 🌞🧄 #summerrecipes #zucchinilove #easycooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "2 medium zucchinis, sliced into thin rounds",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup cherry tomatoes, halved",
+        "Salt and pepper to taste",
+        "1 tablespoon fresh basil, chopped (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this garlic sautéed zucchini with fresh tomatoes on a whim one busy weeknight when I had just a few veggies left in the fridge. I was craving something light but satisfying, and this dish delivered in the best way. What makes this version stand out for me is the way the garlic is gently cooked until fragrant but not burnt, which creates a wonderful base flavor. Then, tossing in the tomatoes at the right moment adds a juicy brightness that balances out the tender zucchini perfectly. I’ve learned that slicing the zucchini thinly helps it cook evenly and quickly, so you get a soft, silky texture without turning mushy. Plus, a quick stir keeps everything fresh and vibrant. The final dish looks colorful and inviting, with the red tomatoes popping against the green zucchini. It’s become a favorite for those nights when I want something healthy but don’t want to fuss over complicated steps. Honestly, it’s a simple recipe that feels like a little celebration of summer veggies anytime you make it.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet over medium heat until shimmering but not smoking. This step is crucial because the oil temperature affects how the garlic releases its flavor. Adding the garlic too early or at too high heat can cause it to burn and taste bitter. Once the oil is ready, add the minced garlic and sauté gently, stirring often, for about 1-2 minutes until it’s golden and fragrant. Watch closely because garlic cooks fast and can turn from perfect to burnt quickly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is lightly golden and aromatic but not brown or crispy"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced zucchini to the skillet and toss it with the garlic and oil. Spread the zucchini out in an even layer and let it cook undisturbed for 3-4 minutes to develop a slight caramelization before stirring. This helps build flavor by allowing natural sugars to brown. Stir occasionally after that, cooking until zucchini is tender but still has a slight bite. Avoid overcooking to prevent sogginess.",
+            "timing": "7 minutes",
+            "doneness_cue": "Zucchini is tender with a slight golden edge and still retains shape"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the halved cherry tomatoes to the skillet and gently stir them in. The heat will soften the tomatoes just enough to release their juices without losing their shape. Cook for an additional 2-3 minutes until tomatoes are warmed through and slightly softened. This step brightens the dish with fresh acidity and moisture, balancing the richness of the sautéed garlic and zucchini.",
+            "timing": "3 minutes",
+            "doneness_cue": "Tomatoes are warm and tender but still intact, releasing a bit of juice"
+        },
+        {
+            "step": 4,
+            "instruction": "Season the mixture with salt and freshly ground black pepper to taste. Adding seasoning at this stage helps the flavors meld together. Taste and adjust if needed. If you like, sprinkle fresh chopped basil on top just before serving for a fragrant herbal note that complements the garlic and tomatoes beautifully.",
+            "timing": "1 minute",
+            "doneness_cue": "Seasoning is balanced and fresh herbs are vibrant and fragrant"
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the skillet from heat and transfer the sautéed zucchini and tomatoes to a serving dish. Let it rest for a minute to allow the flavors to settle. This brief resting enhances the overall taste and texture, making it more harmonious on the palate.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish looks colorful and inviting with slight moisture from tomatoes"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve immediately as a side dish or light main with crusty bread or a grain like quinoa. Because the zucchini retains some bite and the tomatoes add juiciness, this dish pairs well with protein or can stand alone for a light meal. The fresh, vibrant flavors shine brightest when eaten right away.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Dish is warm, fresh, and flavorful"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a bit of texture contrast, sprinkle toasted pine nuts or a handful of grated Parmesan cheese on top before serving. This adds a lovely crunch or umami boost that takes the dish up a notch. Just be mindful of adding salty ingredients if you’ve already seasoned well.",
+            "timing": "Optional, 1-2 minutes",
+            "doneness_cue": "Toppings are evenly distributed and enhance flavor"
+        },
+        {
+            "step": 8,
+            "instruction": "For a bit of extra flavor, try adding a pinch of red pepper flakes while sautéing the garlic. It gives a subtle spicy kick that pairs beautifully with the fresh veggies. Adjust the amount to your taste, starting small to avoid overpowering the delicate zucchini.",
+            "timing": "During garlic sauté",
+            "doneness_cue": "Garlic oil has a slight warmth with no bitterness"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your zucchini properly before slicing to remove any residue or dirt. Using a sharp knife ensures even slices, which helps the zucchini cook uniformly. Uneven pieces can lead to some parts overcooked while others remain underdone, affecting texture and taste.",
+            "timing": "Prep step before cooking",
+            "doneness_cue": "Zucchini slices are uniform and clean"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Zucchini Sauté Is So Delicious",
+        "content": "<p>This recipe works beautifully because it balances simplicity with technique to bring out the best flavors and textures of zucchini and tomatoes. The key is in how the garlic is gently cooked first to infuse the oil without burning, which creates a fragrant base that flavors every bite. Garlic contains sulfur compounds that release their aroma when heated slowly; too high heat ruins that delicate flavor.</p><p>Next, the zucchini is cooked just enough to develop a slight caramelization. This Maillard reaction creates subtle sweetness and complexity, while still keeping the zucchini tender but not mushy. Slicing the zucchini thin and cooking it in an even layer encourages uniform heat distribution, preventing sogginess.</p><p>Adding tomatoes toward the end allows their juices to mingle with the garlic oil and zucchini, brightening the dish with natural acidity and moisture. Tomatoes also have umami compounds that deepen the overall flavor complexity. The fresh basil at the finish adds an herbal brightness, providing a fresh contrast to the cooked veggies.</p><p>Overall, this dish showcases how minimal ingredients combined with mindful cooking techniques can transform simple vegetables into a satisfying and flavorful meal. It’s a great example of how heat, timing, and layering flavors make all the difference.</p>",
+        "ingredient_notes": {
+            "Zucchini": "Look for firm, medium-sized zucchinis with smooth, unblemished skin. Smaller zucchinis tend to be sweeter and less watery, which helps prevent the dish from becoming soggy. When slicing, aim for uniform thin rounds to ensure even cooking and tender texture without mushiness.",
+            "Garlic": "Fresh garlic cloves are essential for that fragrant, rich flavor. Avoid pre-minced garlic in jars, which can taste dull and sometimes bitter. Mince finely to maximize flavor release during sautéing. Cook gently over medium heat to prevent burning, as burnt garlic imparts bitterness.",
+            "Cherry Tomatoes": "Use ripe, juicy cherry tomatoes for their natural sweetness and acidity. Their small size allows them to soften quickly without disintegrating. If unavailable, grape tomatoes work well too. Adding them later in cooking preserves their fresh flavor and texture.",
+            "Olive Oil": "Extra virgin olive oil is best for its fruity flavor and healthy fats. It also has a moderate smoke point suitable for sautéing garlic and vegetables gently. Using a good quality oil enhances overall taste and mouthfeel of the dish.",
+            "Fresh Basil": "Fresh basil adds a fragrant herbal note that complements the garlic and tomatoes perfectly. Use it fresh and add at the end to preserve its bright flavor and vibrant green color. Dried basil won't provide the same fresh lift."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a wide skillet to spread veggies evenly.",
+            "reason": "Spreading zucchini in a single layer allows even heat exposure and proper caramelization. Crowding the pan traps moisture, leading to steaming instead of sautéing, which makes the vegetables soggy rather than tender with a slight crust."
+        },
+        {
+            "tip": "Don’t rush cooking the garlic.",
+            "reason": "Garlic needs gentle heat to release its sweet aroma and flavor. Cooking it too fast or on high heat causes it to brown too quickly and turn bitter, which ruins the delicate base flavor of the dish."
+        },
+        {
+            "tip": "Add tomatoes last to keep their freshness.",
+            "reason": "Tomatoes cook quickly and release moisture that can make the dish watery if added too early. Adding them near the end preserves their texture and bright acidity, balancing the richness of the sautéed zucchini and garlic."
+        },
+        {
+            "tip": "Season gradually and taste as you go.",
+            "reason": "Salt enhances flavor but adding too much at once can’t be undone. Adjusting seasoning in stages lets you find the perfect balance, especially as tomatoes release juices that dilute saltiness."
+        },
+        {
+            "tip": "Use a sharp knife for even slicing.",
+            "reason": "Even slices cook at the same rate, ensuring consistent texture throughout. A dull knife crushes the zucchini, releasing excess moisture and leading to uneven cooking."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "The zucchini retains its tender-crisp texture and the tomatoes stay fresh when served right away. Letting it sit causes the vegetables to soften further and lose their vibrant appearance."
+        },
+        {
+            "tip": "Toast pine nuts or sprinkle Parmesan for extra flavor.",
+            "reason": "Adding a crunchy or savory element at the end adds texture contrast and depth, making a simple vegetable dish feel more indulgent and satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Many cooks turn the heat too high or add garlic to cold oil, causing it to brown unevenly or burn quickly, which results in a bitter taste that overpowers the dish.",
+            "fix": "Heat the oil over medium heat until shimmering, then add garlic and stir constantly for 1-2 minutes until fragrant and golden. Remove from heat if it starts browning too fast."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to cook too many zucchini slices at once traps steam and prevents browning, leading to soggy, unevenly cooked vegetables.",
+            "fix": "Use a large skillet and cook zucchini in batches if needed. Spread slices in a single layer to allow caramelization and even cooking."
+        },
+        {
+            "mistake": "Adding tomatoes too early",
+            "why_it_happens": "Adding tomatoes at the start makes them break down completely and release too much liquid, turning the dish watery and losing fresh flavor.",
+            "fix": "Add tomatoes near the end of cooking, just long enough to warm and soften slightly but still keep their shape."
+        },
+        {
+            "mistake": "Cutting zucchini unevenly",
+            "why_it_happens": "Using a dull knife or cutting too thick/thin results in uneven cooking where some pieces are mushy and others undercooked.",
+            "fix": "Use a sharp knife and slice zucchini into uniform thin rounds about 1/4 inch thick for consistent texture."
+        },
+        {
+            "mistake": "Not seasoning enough",
+            "why_it_happens": "Vegetables can taste bland without proper salt and pepper, and the natural sweetness of zucchini and tomatoes needs balance.",
+            "fix": "Season gradually and taste at multiple stages, adjusting salt and pepper to enhance the natural flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Garlic Zucchini Sauté",
+            "description": "Add a pinch of crushed red pepper flakes when sautéing the garlic for a subtle heat that livens up the dish. This variation pairs well with a squeeze of fresh lemon juice at the end for brightness.",
+            "technical_note": "Be careful not to burn the red pepper flakes along with the garlic; add them just after the garlic starts to soften."
+        },
+        {
+            "name": "Zucchini Sauté with Feta Cheese",
+            "description": "Sprinkle crumbled feta cheese over the finished dish for a tangy, salty contrast that complements the fresh zucchini and tomatoes. It adds creaminess and a Mediterranean twist.",
+            "technical_note": "Add feta just before serving to keep its texture and prevent melting."
+        },
+        {
+            "name": "Garlic Zucchini with Mushrooms",
+            "description": "Include sliced mushrooms sautéed alongside zucchini for an earthier flavor and meaty texture. This variation makes the dish heartier and suitable as a main course.",
+            "technical_note": "Cook mushrooms first until browned and their moisture evaporates before adding zucchini."
+        },
+        {
+            "name": "Herbed Zucchini and Tomato Sauté",
+            "description": "Mix fresh herbs like thyme, oregano, or parsley along with basil for a more complex herbal flavor profile. This works well if you want to experiment with garden-fresh herbs.",
+            "technical_note": "Add sturdier herbs earlier in cooking and delicate herbs like basil at the end to preserve freshness."
+        },
+        {
+            "name": "Zucchini Sauté with Lemon and Pine Nuts",
+            "description": "Finish the dish with a squeeze of lemon juice and toasted pine nuts for a bright, nutty crunch that elevates the simple sauté into a more elegant side.",
+            "technical_note": "Toast pine nuts separately to avoid burning and add lemon juice right before serving to keep its brightness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "9g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This zucchini sauté can be safely kept at room temperature for about 2 hours if covered to prevent contamination. Beyond that, it’s best to refrigerate to maintain freshness and safety.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The zucchini may soften further, so reheat gently or enjoy cold as a salad. Reheating in a skillet helps restore some texture.",
+        "freezer": "Freezing is not recommended as zucchini’s high water content leads to mushy texture upon thawing. If you do freeze, store in a tightly sealed container for up to 1 month and thaw overnight in the fridge.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring occasionally, or microwave in short bursts to avoid overcooking. Adding a splash of olive oil or water can help refresh texture and prevent drying out.",
+        "make_ahead_strategy": "You can prep the zucchini and tomatoes sliced and minced 1 day ahead, stored separately in the fridge. Cook the dish fresh to maintain texture and flavor. Garlic can be minced ahead but add fresh during cooking for the best aroma."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this recipe?",
+            "answer": "Frozen zucchini tends to release excess water and become mushy when cooked, which can alter the texture of this sauté. If you must use frozen, thaw and drain it very well before cooking, but fresh zucchini is best for maintaining the tender-crisp texture."
+        },
+        {
+            "question": "What can I substitute if I don’t have fresh basil?",
+            "answer": "If fresh basil isn’t available, you can use a small amount of dried basil added earlier in cooking, though it won’t have the same bright flavor. Alternatively, fresh parsley or oregano can add a nice herbal note."
+        },
+        {
+            "question": "How do I prevent the zucchini from becoming soggy?",
+            "answer": "Avoid overcrowding the pan and cook the zucchini in batches if needed. Also, cook over medium heat without stirring constantly to allow caramelization. Thin, uniform slices help it cook evenly without becoming mushy."
+        },
+        {
+            "question": "Can I add other vegetables to this sauté?",
+            "answer": "Absolutely! Vegetables like bell peppers, mushrooms, or spinach can be added. Just adjust cooking times accordingly—cook harder veggies first and delicate ones last to maintain texture."
+        },
+        {
+            "question": "Is this dish suitable for meal prep?",
+            "answer": "Yes, but the texture changes when refrigerated. It’s best to store components separately and reheat gently. Alternatively, enjoy it cold as a salad or side. For best texture, prepare fresh if possible."
+        },
+        {
+            "question": "What type of olive oil should I use?",
+            "answer": "Extra virgin olive oil is preferred for its flavor and health benefits. It has a moderate smoke point suitable for gentle sautéing. Avoid oils with strong flavors that may overpower the dish."
+        },
+        {
+            "question": "Can I make this vegan?",
+            "answer": "Yes, this recipe is naturally vegan. If you add toppings like Parmesan cheese in variations, simply omit or substitute with vegan cheese or nutritional yeast."
+        },
+        {
+            "question": "How do I add more protein to this meal?",
+            "answer": "Pair this sauté with grilled chicken, tofu, or chickpeas to boost protein content. You can also stir in cooked quinoa or lentils for a vegetarian protein source."
+        }
+    ],
+    "conclusion": "I hope you give this simple garlic sautéed zucchini with tomatoes a try soon—it’s such a fresh, easy way to enjoy veggies. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "garlic sautéed zucchini recipe",
+        "secondary_keywords": [
+            "easy zucchini recipes",
+            "healthy vegetable side dish",
+            "how to make sautéed zucchini",
+            "best zucchini sauté recipe",
+            "quick zucchini dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Roasted Vegetables",
+                "anchor": "easy-roasted-vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Quick & Tasty Garlic Zucchini You’ll Love Tonight!"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Savor Summer Veggies with This Quick Zucchini Sauté"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Quick & Tasty Garlic Zucchini You’ll Love Tonight!"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Quick & Tasty Garlic Zucchini You’ll Love Tonight!"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Healthy Weeknight Dinner: Garlic Zucchini & Tomatoes"
+        },
+        {
+            "fileName": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images/simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Light & Flavorful Zucchini Sauté With Fresh Tomatoes"
+        }
+    ],
+    "id": "post_1784416004_935",
+    "slug": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-07-19T00:28:33+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-19T00:28:33+01:00",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "simple-zucchini-recipes-for-dinner-that-are-quick-healthy-and-delicious/images",
+    "has_reel": true
+}
