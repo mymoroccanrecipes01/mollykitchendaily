@@ -1,0 +1,350 @@
+{
+    "title": "Desert Heat Chili: A Fiery, Soul-Warming Beef Stew",
+    "promptIMG": "Food photography: Desert Heat Chili, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chili brings a smoky, spicy punch with tender beef and fresh jalapeños that warm you up from the inside out. Perfect for chilly nights when you want something hearty and full of flavor.",
+    "hashtags": "#chili #southwestflavors #comfortfood",
+    "board_name": "Hearty Beef Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Spicy Desert Heat Chili Tonight!",
+            "description": "Looking for a dinner that warms your soul? This Desert Heat Chili is packed with smoky spices and tender beef that'll make your taste buds dance. Save this recipe and try it today! 🌶️🍲 #chili #comfortfood #spicyrecipes #easymeals"
+        },
+        {
+            "title": "How to Make the Best Fiery Beef Chili for Family Dinners",
+            "description": "This chili is my go-to for chilly evenings — smoky, spicy, and loaded with tender beef and jalapeños. Perfect for a comforting meal everyone will love. Discover now and add some heat to your dinner! 🔥🥄 #beefchili #southwestcooking #familymeals #heartyrecipes"
+        },
+        {
+            "title": "Spice Up Your Weeknight with Desert Heat Chili",
+            "description": "Craving something bold and satisfying? This chili recipe combines smoky spices with fresh peppers for a fiery kick. It’s quick, easy, and perfect for warming up after a long day. Try it tonight! 🌶️🍅 #spicychili #weeknightdinner #comfortfoodrecipes"
+        },
+        {
+            "title": "Tender Beef and Smoky Heat: The Ultimate Chili Recipe",
+            "description": "This chili hits all the right notes—smoky, spicy, and hearty. I love how the fresh jalapeños add just the right amount of heat. Save this recipe for your next cozy dinner! 🍲🔥 #chilirecipe #southwestflavors #beefrecipes #comfortmeals"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound ground beef, lean",
+        "1 tablespoon olive oil",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "2 fresh jalapeños, seeded and chopped",
+        "1 can (14 oz) diced tomatoes",
+        "1 can (15 oz) kidney beans, drained and rinsed",
+        "2 tablespoons chili powder",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon cumin",
+        "1/4 teaspoon cayenne pepper",
+        "Salt and black pepper to taste",
+        "1 cup beef broth"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this Desert Heat Chili on a chilly autumn evening when I craved something bold yet comforting. After a few tweaks over time, this version became my family's favorite go-to chili. What makes it stand out is the fresh jalapeños that add a lively kick balanced perfectly by smoky paprika and cumin. I learned early on that browning the beef well before adding spices really deepens the flavor, and letting it simmer gently allows the ingredients to meld beautifully. The finished chili is rich and hearty, with tender beef chunks and just enough heat to keep you cozy without overwhelming your palate. It’s become a staple for weekend dinners or when friends come over craving something warming and satisfying. Plus, it’s quick enough to whip up on a busy weeknight, which is a total win in my book. I always serve it with a sprinkle of cheese and a dollop of sour cream, but it’s just as good on its own. If you love chilis that pack a punch and comfort you at the same time, this recipe will become your new favorite too.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the diced onion and sauté until translucent, about 5 minutes. This step is crucial because cooking the onion slowly releases its natural sweetness, which balances the chili’s heat. Avoid rushing this part to prevent raw onion flavor, and stir often to cook evenly without browning too quickly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions look translucent and slightly soft but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and chopped jalapeños to the pot. Stir and cook for another 2 minutes until fragrant. Garlic cooks quickly, so watch closely to avoid burning, which can cause bitterness. The fresh jalapeños bring a bright heat that sets this chili apart, so don’t skip them!",
+            "timing": "2 minutes",
+            "doneness_cue": "Aromatic garlic scent with softened jalapeños"
+        },
+        {
+            "step": 3,
+            "instruction": "Increase the heat to medium-high and add the ground beef. Break it up with a wooden spoon and cook until browned and no longer pink, about 8-10 minutes. Browning the beef properly develops rich flavors through Maillard reactions, which are essential for a deep chili taste. Avoid stirring too often to allow nice searing.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Beef is evenly browned with no pink spots"
+        },
+        {
+            "step": 4,
+            "instruction": "Drain any excess fat from the pot to prevent greasy chili. This keeps the texture clean and the flavors balanced, especially with lean beef. Skipping this can make the chili overly oily and heavy.",
+            "timing": "2 minutes",
+            "doneness_cue": "No visible pools of fat in the pot"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the chili powder, smoked paprika, cumin, cayenne pepper, salt, and black pepper. Toast the spices with the meat and aromatics for 1-2 minutes to release their full flavor. This blooming technique intensifies the spices and adds depth to the dish.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices smell fragrant and coat the beef evenly"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the diced tomatoes, kidney beans, and beef broth. Stir everything together and bring to a gentle simmer. Using broth instead of water adds savory notes and richness. Simmering allows flavors to meld and the chili to thicken.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture bubbles gently without boiling vigorously"
+        },
+        {
+            "step": 7,
+            "instruction": "Reduce heat to low and cover the pot partially. Let the chili simmer for 20 minutes, stirring occasionally. This slow simmer tenderizes the beef and lets the flavors marry. Covering partially prevents excess liquid evaporation while maintaining a thick texture.",
+            "timing": "20 minutes",
+            "doneness_cue": "Chili thickens and beef is tender"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with more salt, pepper, or cayenne if you want extra heat. This final tweak is important to balance flavors perfectly. Chili should be bold but harmonious.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning with a touch of heat"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the chili hot with your favorite toppings like shredded cheese, sour cream, or fresh cilantro. The toppings add creaminess and freshness, complementing the spicy, smoky base. Enjoy with cornbread or tortilla chips for a complete meal.",
+            "timing": "0 minutes",
+            "doneness_cue": "Chili presented steaming with vibrant toppings"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chili Packs So Much Flavor",
+        "content": "<p>One of the key reasons this chili tastes so rich and satisfying is the way the beef is browned before adding any liquids. Browning triggers the Maillard reaction, a chemical process that creates complex flavor compounds and deepens the meat’s natural taste. Skipping this step or rushing it results in bland chili with a boiled meat flavor.</p><p>The fresh jalapeños are another game-changer. They add a bright, fresh heat that dried chili powders can’t replicate alone. The balance of smoky paprika and cumin complements these peppers, providing layers of warmth without overpowering the palate. Toasting these spices in the fat releases their essential oils, making the dish more aromatic and flavorful.</p><p>Simmering the chili gently for 20 minutes allows the ingredients to meld and the liquid to reduce to a perfect thickness. This slow cooking softens the beef and beans, creating a hearty texture that’s comforting and filling. Using beef broth instead of water adds umami depth and richness, elevating the overall taste.</p><p>Finally, seasoning adjustments at the end ensure the chili hits the right balance of saltiness and heat. Because chili powders and peppers vary in strength, tasting and tweaking is essential to avoid a flat or overly spicy dish. This flexibility is what makes the recipe approachable and customizable.</p>",
+        "ingredient_notes": {
+            "ground beef": "Choose lean ground beef with about 85% lean content to balance flavor and fat. Too fatty and the chili gets greasy, too lean and it might dry out. Browning the beef well develops rich flavors through the Maillard reaction, critical for a deep chili taste.",
+            "jalapeños": "Fresh jalapeños provide vibrant heat and a slight vegetal note. Removing seeds reduces intensity if you prefer milder chili. They add a fresh dimension that dried spices alone can’t achieve, making the chili lively and balanced.",
+            "chili powder": "Opt for a good quality chili powder made from ground dried chilies and spices. It brings warmth and subtle smokiness. Toasting it in fat releases oils that enhance aroma and flavor, so don’t add it directly to liquids without blooming first.",
+            "smoked paprika": "Smoked paprika adds a distinctive smoky flavor that mimics charring and deepens the chili’s profile. Use sweet or hot smoked paprika depending on your heat preference. It’s a key ingredient that elevates this chili above ordinary recipes.",
+            "beef broth": "Beef broth enriches the chili by adding savory umami notes and depth. Using broth instead of water makes the sauce taste fuller and more satisfying. Homemade or low-sodium store-bought broth works best to control salt levels."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the beef in batches to avoid steaming.",
+            "reason": "Crowding the pan traps moisture, causing the beef to steam instead of brown. Proper browning creates crusty bits packed with flavor that dissolve into the chili, so cook the beef in smaller batches for the best taste."
+        },
+        {
+            "tip": "Toast spices in oil before adding liquids.",
+            "reason": "Heating spices in oil releases their essential oils and enhances their aroma. This technique, called blooming, intensifies the chili’s flavor and prevents the spices from tasting raw or dull."
+        },
+        {
+            "tip": "Simmer chili gently, don’t boil aggressively.",
+            "reason": "A gentle simmer allows flavors to meld and prevents the meat from toughening. Boiling can break down ingredients too harshly and thin the sauce, so keep the heat low and steady."
+        },
+        {
+            "tip": "Adjust seasoning at the end after simmering.",
+            "reason": "Flavors concentrate during cooking, so seasoning early can lead to over or under salting. Tasting and adjusting at the end ensures the perfect balance of salt and heat."
+        },
+        {
+            "tip": "Use fresh jalapeños for authentic heat.",
+            "reason": "Dried peppers have a different flavor profile and less fresh heat. Fresh jalapeños add brightness and lively spice that lifts the whole dish."
+        },
+        {
+            "tip": "Drain excess fat after browning the beef.",
+            "reason": "Too much fat can make the chili greasy and heavy. Removing excess fat keeps the texture clean and allows the spices and other ingredients to shine."
+        },
+        {
+            "tip": "Serve with cooling toppings like sour cream or cheese.",
+            "reason": "Spicy chilis benefit from creamy toppings that temper heat and add richness, balancing the bold flavors and making each bite more enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step for the beef.",
+            "why_it_happens": "Many cooks want to save time and add the beef directly to the pot, assuming it will cook through fine. This is a common shortcut that sacrifices flavor.",
+            "fix": "Take the extra 8-10 minutes to brown the beef in batches. The Maillard reaction creates deep, savory flavors essential to a good chili. Don’t stir too often and let the beef develop a rich crust."
+        },
+        {
+            "mistake": "Adding spices directly to cold liquids.",
+            "why_it_happens": "Some think spices can just be thrown in anytime without impact. This often results in muted or raw-tasting spices.",
+            "fix": "Toast spices in hot oil or fat before adding liquids. This blooms the spices, releasing oils and maximizing flavor."
+        },
+        {
+            "mistake": "Using canned jalapeños instead of fresh.",
+            "why_it_happens": "Canned peppers are convenient and readily available, but they lack the brightness and fresh heat of fresh jalapeños.",
+            "fix": "Use fresh jalapeños for a lively, crisp heat. Seed them if you want milder chili but keep the fresh flavor."
+        },
+        {
+            "mistake": "Boiling the chili vigorously.",
+            "why_it_happens": "Rushing the cooking process or high heat can cause a rolling boil, which breaks down textures and thins the sauce too much.",
+            "fix": "Maintain a gentle simmer by lowering the heat. This keeps the chili thick and tenderizes the beef without overcooking."
+        },
+        {
+            "mistake": "Not adjusting seasoning after cooking.",
+            "why_it_happens": "Assuming the initial seasoning is enough without tasting at the end is a common oversight.",
+            "fix": "Always taste after simmering and add salt, pepper, or cayenne as needed to balance flavors perfectly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Desert Heat Chili",
+            "description": "Replace beef with a mix of diced mushrooms and extra beans for a hearty vegetarian version. Add a splash of soy sauce for umami depth. The texture is slightly different but still rich and satisfying.",
+            "technical_note": "Cook mushrooms separately to brown them well before adding to the chili for best flavor."
+        },
+        {
+            "name": "Spicy Chicken Desert Heat Chili",
+            "description": "Swap beef for diced chicken thighs for a lighter but still flavorful chili. Adjust cooking time to avoid drying out the chicken. The smoky spices complement poultry beautifully.",
+            "technical_note": "Brown chicken pieces until golden, then simmer gently to keep them tender."
+        },
+        {
+            "name": "Smoky Chipotle Desert Heat Chili",
+            "description": "Add 1-2 chopped chipotle peppers in adobo sauce for smoky heat with a slight tang. This intensifies the chili’s smoky flavor and adds complexity.",
+            "technical_note": "Reduce cayenne powder slightly to balance the extra heat from chipotle."
+        },
+        {
+            "name": "Slow Cooker Desert Heat Chili",
+            "description": "After browning beef and sautéing aromatics, transfer everything to a slow cooker and cook on low for 6-8 hours. The long cook time deepens flavors and makes the beef incredibly tender.",
+            "technical_note": "Add beans in the last hour to prevent them from becoming mushy."
+        },
+        {
+            "name": "Desert Heat Chili with Sweet Potatoes",
+            "description": "Add diced sweet potatoes for a touch of natural sweetness and extra nutrients. They complement the chili’s heat and add a nice texture contrast.",
+            "technical_note": "Add sweet potatoes early in the simmering stage so they cook through and soften."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "8g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This chili can safely sit out covered for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Cover with a lid or foil to keep out contaminants.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. Flavor often deepens after a day, but the texture may thicken. Reheat gently on the stove or microwave, adding a splash of broth if needed.",
+        "freezer": "Freeze chili in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat, stirring occasionally until warmed through. Add a little broth or water if it’s too thick. Avoid overheating which can dry out the beef and dull flavors.",
+        "make_ahead_strategy": "You can prepare the chili base a day ahead, refrigerate, then reheat and add fresh toppings just before serving. This allows flavors to meld overnight and saves time on busy days."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground turkey instead of beef?",
+            "answer": "Absolutely! Ground turkey works fine as a leaner alternative, though it has a milder flavor. Brown it well to develop some color and flavor, and consider adding a bit more seasoning or smoked paprika to boost richness."
+        },
+        {
+            "question": "How spicy is this chili? Can I make it milder?",
+            "answer": "This chili has a moderate heat from fresh jalapeños and cayenne. To make it milder, remove all seeds from the jalapeños and reduce or omit the cayenne pepper. You can always add more spice later if desired."
+        },
+        {
+            "question": "Can I skip the beans?",
+            "answer": "Yes, you can omit beans if you prefer a meatier chili. Just reduce the liquid slightly to keep the sauce thick. Beans add fiber and texture, but the chili is still delicious without them."
+        },
+        {
+            "question": "What toppings go best with this chili?",
+            "answer": "Classic toppings like shredded cheddar cheese, sour cream, chopped cilantro, or sliced green onions work great. For extra texture, try crushed tortilla chips or a squeeze of lime juice."
+        },
+        {
+            "question": "Can I prepare this chili in a slow cooker?",
+            "answer": "Definitely! Brown the beef and sauté the aromatics first, then transfer everything to a slow cooker. Cook on low for 6-8 hours. Add beans in the last hour to avoid them getting mushy."
+        },
+        {
+            "question": "How do I thicken the chili if it’s too watery?",
+            "answer": "Simmer uncovered for a few extra minutes to reduce liquid, or stir in a small amount of masa harina or cornmeal to thicken it up. Avoid adding too much at once to prevent a gritty texture."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store chili in an airtight container in the refrigerator for up to 4 days or freeze for up to 3 months. Reheat gently on the stove with a splash of broth to maintain moisture."
+        },
+        {
+            "question": "Can I make this chili vegetarian?",
+            "answer": "Yes! Substitute the beef with hearty vegetables like mushrooms or extra beans. Adding umami boosters like soy sauce or smoked paprika helps maintain a rich flavor."
+        }
+    ],
+    "conclusion": "I hope you love this Desert Heat Chili as much as my family does! Give it a try and let me know how it warms up your dinner table.",
+    "seo": {
+        "primary_keyword": "desert heat chili recipe",
+        "secondary_keywords": [
+            "spicy beef chili",
+            "southwest chili recipe",
+            "how to make chili",
+            "best chili recipe",
+            "easy chili recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade chili powder blend",
+                "anchor": "homemade-chili-powder"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Cozy Up with This Spicy Desert Heat Chili Tonight!"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Tender Beef and Smoky Heat: The Ultimate Chili Recipe"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Cozy Up with This Spicy Desert Heat Chili Tonight!"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Cozy Up with This Spicy Desert Heat Chili Tonight!"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make the Best Fiery Beef Chili for Family Dinners"
+        },
+        {
+            "fileName": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images/desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Spice Up Your Weeknight with Desert Heat Chili"
+        }
+    ],
+    "id": "post_1784502731_237",
+    "slug": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-20T00:30:05+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-20T00:30:05+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "desert-heat-recipe-authentic-spicy-southwest-chili-for-cozy-family-dinners/images",
+    "has_reel": true
+}

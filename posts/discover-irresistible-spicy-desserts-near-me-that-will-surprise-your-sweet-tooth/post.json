@@ -1,0 +1,348 @@
+{
+    "title": "Spicy Chocolate Chili Brownies That Bring the Heat and Sweetness Together",
+    "promptIMG": "Food photography: Spicy Chocolate Chili Brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies mix rich chocolate with a gentle chili kick that sneaks up on you. I love serving them warm with a scoop of vanilla ice cream for a cozy night in or a fun twist at parties. So addictive!",
+    "hashtags": "#chocolatebrownies #spicydessert #homemadebaking",
+    "board_name": "Chocolate Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Dessert Game with These Spicy Chocolate Brownies!",
+            "description": "Love chocolate with a kick? These chili brownies are perfect for spice lovers craving something sweet and bold. Save this recipe and try it tonight! 🌶️🍫 #spicychocolate #brownies #dessertlover"
+        },
+        {
+            "title": "Discover the Perfect Blend of Heat and Sweet in These Brownies",
+            "description": "If you want a dessert that's unexpectedly delicious, these spicy chocolate brownies are it. The chili adds a subtle heat that pairs beautifully with rich cocoa. Give them a try and impress your friends! 🔥🍫 #chilibrownies #bakingfun #sweetandspicy"
+        },
+        {
+            "title": "Try These Fiery Chocolate Chili Brownies for a Cozy Treat",
+            "description": "These brownies are my go-to when I want something comforting but with a little edge. The hint of chili is just right, not overpowering. Save this recipe and enjoy a warm slice tonight! 🍫❤️ #homemadebrownies #spicytreat #dessertideas"
+        },
+        {
+            "title": "Spicy Chocolate Brownies That Will Surprise Your Taste Buds",
+            "description": "Ready to spice up your baking? These chili-infused brownies bring a perfect balance of heat and sweetness. Perfect for a cozy night or sharing with friends. Try it today and thank me later! 🌶️🍰 #spicedessert #chocolatefix #bakinglove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 9,
+    "ingredients": [
+        "1 cup (2 sticks) unsalted butter, melted",
+        "2 cups granulated sugar",
+        "4 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "3/4 cup unsweetened cocoa powder",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon baking powder",
+        "1 teaspoon chili powder",
+        "1/4 teaspoon cayenne pepper (adjust to taste)",
+        "1 cup semi-sweet chocolate chips"
+    ],
+    "yield": "Approximately 9 large brownies, 9 servings",
+    "introduction": "I first stumbled upon the idea of adding chili to chocolate brownies when I was browsing a local bakery’s menu years ago. I was skeptical at first, but curiosity got the best of me. The first bite was a revelation — the deep richness of chocolate paired with a subtle, warming heat that lingered just enough to keep you intrigued. Ever since then, I've been perfecting my own spicy chocolate chili brownie recipe, tweaking the chili levels just right so it complements rather than overwhelms. What sets my version apart is the balance: the butter and sugar create a fudgy, moist texture, while the chili powder and cayenne add a surprising but gentle kick. I also like to melt the butter first and mix it with sugar to get that glossy, dense crumb. These brownies come out rich, tender, and perfectly spiced — not too fiery, just enough to make you smile with each bite. They’re perfect for chilly evenings or when you want to impress guests with something a little different. Trust me, once you try these, you’ll want to keep this recipe handy for every special occasion or just a cozy night in.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x9-inch baking pan or line it with parchment paper. This ensures your brownies don’t stick and come out cleanly after baking, making serving easier. Preparing the pan ahead also means you can pour the batter in right away, keeping the melted butter from cooling and firming up.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased or parchment is smoothly fitted with no wrinkles"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the melted butter and sugar until combined and slightly glossy. This step is key because the melted butter coats the sugar granules, helping dissolve them slightly for a fudgier, less grainy texture. Don’t rush this — a thorough mix helps the sugar integrate well.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture looks smooth and shiny with no clumps of sugar"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs one at a time, whisking well after each addition. This gradual incorporation helps the eggs emulsify into the butter and sugar mixture, creating a smooth batter that traps air for a tender crumb. If you add eggs too fast, the batter can curdle, affecting texture.",
+            "timing": "4 minutes",
+            "doneness_cue": "Batter is thick, glossy, and slightly fluffy"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the vanilla extract for flavor depth. Vanilla helps balance the chocolate and chili flavors, adding warmth and sweetness that complements the spice. Use pure vanilla extract for the best aroma.",
+            "timing": "1 minute",
+            "doneness_cue": "Vanilla is evenly mixed without streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate bowl, sift together the flour, cocoa powder, salt, baking powder, chili powder, and cayenne pepper. Sifting ensures no lumps and evenly distributes the chili spices throughout the dry mix. This step is crucial for a consistent spicy flavor in every bite and to avoid clumps of cocoa or baking powder.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients appear smooth and well blended"
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually fold the dry ingredients into the wet mixture using a spatula. Fold gently to avoid overmixing, which can make brownies tough. You want the ingredients just combined for a tender, fudgy texture. Overmixing develops gluten and dries out the batter.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter looks even with no streaks of flour"
+        },
+        {
+            "step": 7,
+            "instruction": "Fold in the chocolate chips last to distribute pockets of melty chocolate throughout the brownies. Adding them last prevents melting during mixing and ensures they stay intact for texture contrast.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are evenly scattered without melting"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared pan, smoothing the top with a spatula to ensure even thickness. This helps brownies bake uniformly, avoiding dry edges or undercooked centers.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter surface is flat and smooth"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 25-30 minutes until a toothpick inserted near the center comes out with a few moist crumbs but no raw batter. Overbaking dries the brownies, and underbaking leaves them gooey. The chili heat intensifies slightly as the brownies cool, so keep that in mind when testing doneness.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Edges set and slightly pulling away; toothpick test passes"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spicy Chocolate Chili Brownie Works",
+        "content": "<p>The magic behind these brownies lies in the balance of rich chocolate and the subtle heat from chili spices. Butter and sugar are creamed together while melted, which helps dissolve sugar granules and creates a fudgy, glossy batter that bakes into a moist crumb. The melted butter also contributes to the dense, luxurious texture that brownies are known for.</p> <p>The chili powder and cayenne pepper add complexity without overpowering the chocolate. Capsaicin, the compound responsible for chili's heat, activates heat receptors on your tongue, but when paired with the sweetness of sugar and bitterness of cocoa, it creates a pleasant warmth that enhances the overall flavor. The key is moderation — too much chili can mask the chocolate, while too little won’t be noticeable.</p> <p>Sifting the dry ingredients ensures an even distribution of cocoa and chili powders, preventing clumps and ensuring consistent flavor and texture throughout. The baking powder provides just enough lift to keep the brownies tender and moist, without making them cakey. Adding chocolate chips last preserves the texture contrast, so you get melty pockets of chocolate in each bite.</p> <p>Finally, the baking time is critical — baking just until moist crumbs appear on a toothpick keeps the center fudgy while the edges set nicely. Overbaking dries them out and dulls the chili’s subtle heat. The result is a perfectly balanced brownie that surprises with a smooth chocolate base and a gentle, lingering warmth that keeps you coming back for more.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter with at least 80% fat content for the best richness and texture. Butter provides moisture and helps create that dense, fudgy crumb. Using unsalted allows you to control the saltiness precisely, which is important when balancing chili heat. Melt it gently to avoid browning, which can change flavor.",
+            "granulated sugar": "Regular granulated sugar dissolves well in melted butter, contributing sweetness and structure. Sugar also helps tenderize the brownies by interfering with gluten formation. Using too coarse or alternative sugars can change texture and sweetness balance, so stick to granulated for consistent results.",
+            "cocoa powder": "Use unsweetened, natural cocoa powder for a deep chocolate flavor that pairs well with chili. Dutch-processed cocoa is milder and less acidic, which might soften the chili's impact. Sift cocoa powder to prevent lumps and ensure even mixing. Fresh cocoa powder has a stronger flavor, so check the expiration date.",
+            "chili powder and cayenne pepper": "Chili powder adds smoky warmth and complexity, while cayenne provides sharper heat. Adjust cayenne carefully; a little goes a long way. Use fresh spices for best flavor. These spices activate heat receptors, enhancing the chocolate's richness rather than overwhelming it. Avoid pre-mixed chili powders with added salt or other spices that could alter flavor.",
+            "chocolate chips": "Semi-sweet chocolate chips melt during baking to create gooey pockets, adding texture contrast. Use good-quality chips with at least 50% cocoa content for balance. Avoid chips with stabilizers or artificial ingredients that can affect melt and taste. Stir them in last to keep their shape intact."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for better emulsification.",
+            "reason": "Cold eggs can cause the melted butter and sugar mixture to seize or curdle, leading to a grainy batter. Room temperature eggs blend more smoothly, creating a uniform, glossy batter that traps air and results in tender brownies."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add flour.",
+            "reason": "Overmixing develops gluten in the flour, which makes brownies tough and cakey rather than fudgy and tender. Folding gently until just combined preserves the soft texture you want."
+        },
+        {
+            "tip": "Line your baking pan with parchment paper extending over edges.",
+            "reason": "This creates easy handles to lift the entire batch out after baking, preventing cracks and breakage. It also ensures even baking and clean edges."
+        },
+        {
+            "tip": "Let brownies cool completely before cutting.",
+            "reason": "Brownies continue to set as they cool; cutting too soon can cause them to crumble or stick. Cooling allows the chocolate to firm up for clean slices."
+        },
+        {
+            "tip": "Adjust chili heat to taste by starting with less cayenne.",
+            "reason": "Chili heat intensifies as brownies cool, so starting mild prevents overpowering the chocolate. You can always add more next time once you know your preferred heat level."
+        },
+        {
+            "tip": "Use a toothpick test for doneness, not just time.",
+            "reason": "Ovens vary, so relying on a toothpick ensures you don’t overbake. Look for moist crumbs, not wet batter, for perfect fudgy brownies."
+        },
+        {
+            "tip": "For extra moisture, add a tablespoon of espresso powder.",
+            "reason": "Espresso powder enhances chocolate flavor without tasting like coffee. It deepens richness and balances the chili’s heat, making the overall flavor more complex."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies.",
+            "why_it_happens": "Many assume longer baking means better texture, but brownies dry out quickly once overbaked. It’s easy to rely on baking time instead of checking doneness.",
+            "fix": "Use the toothpick test starting at 25 minutes. Remove when moist crumbs stick to the toothpick, not wet batter. This keeps brownies fudgy and soft."
+        },
+        {
+            "mistake": "Adding too much chili powder or cayenne.",
+            "why_it_happens": "Spice levels are subjective, and it’s tempting to add a lot thinking it will balance with chocolate. But too much heat overwhelms the sweet and bitter notes.",
+            "fix": "Start with smaller amounts and taste the batter (without eggs) to gauge heat. Adjust gradually in future batches."
+        },
+        {
+            "mistake": "Skipping sifting of dry ingredients.",
+            "why_it_happens": "It’s a step some skip to save time, not realizing it prevents lumps and uneven mixing.",
+            "fix": "Take a few minutes to sift cocoa, flour, and spices together for smooth batter and consistent flavor."
+        },
+        {
+            "mistake": "Using salted butter without adjusting salt in recipe.",
+            "why_it_happens": "Salted butter varies in salt content, which can throw off the recipe’s balance, especially with chili heat.",
+            "fix": "Use unsalted butter and add salt separately as called for to control seasoning precisely."
+        },
+        {
+            "mistake": "Cutting brownies too soon after baking.",
+            "why_it_happens": "Impatience leads to crumbling and messy slices because the brownies haven’t set.",
+            "fix": "Let them cool fully in the pan before slicing. For faster results, chill in the fridge for 30 minutes."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mexican Hot Chocolate Brownies",
+            "description": "Add 1 teaspoon cinnamon and a pinch of nutmeg to the dry ingredients for a warm, aromatic twist reminiscent of Mexican hot chocolate. Swap semi-sweet chips with dark chocolate chunks for more intensity.",
+            "technical_note": "Cinnamon adds subtle sweetness and spice, so reduce cayenne slightly to balance flavors."
+        },
+        {
+            "name": "Vegan Spicy Brownies",
+            "description": "Replace butter with coconut oil and use flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg). Use dairy-free chocolate chips. These swaps keep the brownies fudgy and spicy without animal products.",
+            "technical_note": "Coconut oil solidifies when cooled, so bake slightly less to prevent dryness."
+        },
+        {
+            "name": "Nutty Chili Brownies",
+            "description": "Fold in 1/2 cup toasted pecans or walnuts with the chocolate chips for added crunch and nutty flavor that pairs beautifully with chili heat and chocolate richness.",
+            "technical_note": "Toasted nuts release oils that enhance flavor but add them last to avoid sogginess."
+        },
+        {
+            "name": "White Chocolate Chili Brownies",
+            "description": "Swap cocoa powder for 1 cup white chocolate chips melted into the butter, and reduce or omit cayenne for a creamy, sweet, and mildly spicy treat with a different flavor profile.",
+            "technical_note": "White chocolate lacks bitterness, so chili heat will feel stronger; adjust spice accordingly."
+        },
+        {
+            "name": "Gluten-Free Chili Brownies",
+            "description": "Use a 1:1 gluten-free baking flour blend in place of all-purpose flour. These brownies keep their fudgy texture and spicy kick, perfect for gluten-sensitive friends.",
+            "technical_note": "Check that your baking powder is gluten-free to avoid cross-contamination."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "42g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownies can safely sit covered at room temperature for up to 2 days. Use an airtight container or wrap tightly in plastic wrap to prevent drying out. They remain moist and flavorful but may lose some of their warmth and melty texture.",
+        "refrigerator": "Store brownies in an airtight container in the fridge for up to 5 days. The chili flavor mellows slightly when cold. Reheat gently in the microwave for 15-20 seconds or in a warm oven to revive softness and bring out the spice.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and foil for up to 3 months. To prevent freezer burn, ensure no air pockets remain. Thaw overnight in the fridge and warm briefly before serving to restore gooey texture.",
+        "reheating": "Reheat brownies on a baking sheet in a 300°F oven for 10 minutes or in the microwave for short bursts (15 seconds). Adding a small splash of milk or water before reheating can help maintain moisture. Avoid overheating which can dry them out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated in the baking pan, covered tightly with plastic wrap. Bake fresh the next day for best texture. Alternatively, bake and freeze brownies, then thaw and reheat as needed."
+    },
+    "faq": [
+        {
+            "question": "Can I make these brownies without chili if I don’t like spicy food?",
+            "answer": "Absolutely! You can omit the chili powder and cayenne for classic chocolate brownies. The recipe will still yield rich, fudgy brownies. The chili just adds an interesting twist if you want to try something different."
+        },
+        {
+            "question": "What type of chili powder is best to use?",
+            "answer": "Use a mild to medium chili powder without added salt or other spices for a clean heat that complements chocolate. Avoid blends with cumin or garlic if you want pure chili flavor. Adjust cayenne pepper to control the spice level."
+        },
+        {
+            "question": "Can I substitute the all-purpose flour with whole wheat flour?",
+            "answer": "Yes, but whole wheat flour will make the brownies denser and slightly nuttier. For best results, use half whole wheat and half all-purpose flour. Also, add a bit more moisture if needed, as whole wheat absorbs more liquid."
+        },
+        {
+            "question": "How do I know when the brownies are done baking?",
+            "answer": "Use the toothpick test starting at 25 minutes. Insert a toothpick near the center; it should come out with moist crumbs but no wet batter. This ensures fudgy brownies without dryness."
+        },
+        {
+            "question": "Can I double this recipe to bake in a larger pan?",
+            "answer": "Yes, you can double it for a 9x13-inch pan. Keep the same baking temperature but increase baking time by 5-10 minutes. Check doneness early to avoid overbaking."
+        },
+        {
+            "question": "What if my batter looks grainy after mixing butter and sugar?",
+            "answer": "This can happen if the butter was too hot or the sugar hasn’t dissolved properly. Make sure melted butter is warm, not hot, and whisk well. Grainy batter usually still bakes fine but aim for smoothness for best texture."
+        },
+        {
+            "question": "Can I use dark chocolate instead of semi-sweet chips?",
+            "answer": "Yes! Dark chocolate with 60-70% cocoa works beautifully and adds richness. It pairs well with the chili heat but can be slightly less sweet, so adjust sugar if you want it sweeter."
+        },
+        {
+            "question": "How spicy will these brownies be for someone not used to heat?",
+            "answer": "The heat is mild and builds gradually after eating. If you’re sensitive, start with half the cayenne and chili powder. The sweetness and chocolate balance the spice well, so it’s more of a warming sensation than overwhelming heat."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these spicy chocolate chili brownies as much as I do. Don’t forget to let me know how they turn out and if you added your own twist!",
+    "seo": {
+        "primary_keyword": "spicy chocolate chili brownies",
+        "secondary_keywords": [
+            "chili chocolate brownies",
+            "spicy brownie recipe",
+            "how to make chili brownies",
+            "best spicy brownies recipe",
+            "easy chocolate chili brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "fudgy chocolate brownie recipe",
+                "anchor": "fudgy-chocolate-brownie-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_1.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_1.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_2.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_2.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_3.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_3.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_8.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Up Your Dessert Game with These Spicy Chocolate Brownies!"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_5.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Discover the Perfect Blend of Heat and Sweet in These Brownies"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_9.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Up Your Dessert Game with These Spicy Chocolate Brownies!"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_6.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Try These Fiery Chocolate Chili Brownies for a Cozy Treat"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_7.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Spicy Chocolate Brownies That Will Surprise Your Taste Buds"
+        },
+        {
+            "fileName": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_4.webp",
+            "relativePath": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images/discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Warm Up Your Dessert Game with These Spicy Chocolate Brownies!"
+        }
+    ],
+    "id": "post_1784502558_760",
+    "slug": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth",
+    "isOnline": true,
+    "createdAt": "2026-07-20T00:30:05+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-20T00:30:05+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "discover-irresistible-spicy-desserts-near-me-that-will-surprise-your-sweet-tooth/images",
+    "has_reel": true
+}
