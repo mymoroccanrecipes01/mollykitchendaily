@@ -1,0 +1,348 @@
+{
+    "title": "Easy and Delicious Blueberry Oat Muffins for a Healthy Snack",
+    "promptIMG": "Food photography: Blueberry Oat Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These blueberry oat muffins are perfect for a quick breakfast or guilt-free snack. They’re packed with fresh blueberries and whole oats for natural sweetness and texture. I love how moist and tender they turn out every time!",
+    "hashtags": "#blueberrymuffins #healthysnacks #easybaking",
+    "board_name": "Healthy Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Moist Blueberry Oat Muffins You’ll Crave Every Morning",
+            "description": "Wake up to these moist blueberry oat muffins packed with fresh fruit and wholesome oats. They’re super easy to make and perfect for busy mornings. Save this recipe and try it today! 🫐🥣 #blueberrymuffins #breakfastideas #healthybaking"
+        },
+        {
+            "title": "Wholesome Blueberry Muffins That Are Actually Good for You!",
+            "description": "Craving something sweet but healthy? These blueberry oat muffins hit the spot with natural sweetness and hearty texture. Bake a batch and enjoy guilt-free snacking anytime! 🍽️💙 #healthysnacks #blueberryrecipes #easyrecipes"
+        },
+        {
+            "title": "Quick Blueberry Oat Muffins for Busy Weekday Mornings",
+            "description": "Need a fast and wholesome breakfast? These blueberry oat muffins come together quickly and keep you full with oats and fresh berries. Discover this recipe now and save for later! ⏰🫐 #quickbreakfast #blueberrymuffins #snackideas"
+        },
+        {
+            "title": "Simple Blueberry Muffins with Oats You Can Make Today",
+            "description": "Simple, tasty, and packed with blueberries and oats, these muffins are a snack or breakfast winner. Try this easy recipe and enjoy a healthy treat anytime! Don’t forget to save it! 🥧💜 #blueberrymuffins #healthybaking #snacktime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "1 1/2 cups rolled oats",
+        "1 cup whole wheat flour",
+        "1/2 cup brown sugar, packed",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup plain Greek yogurt",
+        "1/4 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups fresh blueberries"
+    ],
+    "yield": "12 muffins",
+    "introduction": "I first stumbled on this blueberry oat muffin recipe during a weekend brunch with friends when I wanted something wholesome yet delicious. Unlike typical muffins loaded with sugar and white flour, this version uses whole wheat flour and oats for added fiber and texture. The Greek yogurt keeps them moist without needing too much oil or butter, which is a game changer. One trick I learned is folding in the blueberries gently to prevent them from bursting and turning the batter blue. The result is these tender, slightly sweet muffins bursting with juicy blueberries in every bite. They’ve become my go-to for a quick breakfast or a snack to bring on hikes or road trips. I think you’ll love how satisfying and naturally sweet they are without feeling heavy or overly sugary. Plus, they’re easy enough to whip up on a Sunday and enjoy all week long.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C) and line a muffin tin with paper liners or grease it lightly. This step is important to ensure your muffins don’t stick and come out cleanly. A well-preheated oven also helps the muffins rise properly and develop a nice golden crust. If your oven isn’t hot enough, the muffins might turn out dense or pale, so don’t skip this.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated and muffin tin is ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the rolled oats, whole wheat flour, brown sugar, baking powder, baking soda, and salt. Whisk these dry ingredients together to distribute the leavening agents evenly. This helps the muffins rise uniformly and prevents pockets of baking soda or powder from causing bitter spots or uneven texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well mixed and no lumps remain"
+        },
+        {
+            "step": 3,
+            "instruction": "In another bowl, whisk together the Greek yogurt, vegetable oil, eggs, and vanilla extract until smooth and creamy. Mixing these wet ingredients well ensures the eggs are incorporated fully, which helps the muffins bind together and keeps them tender. If you rush this step, you might get uneven texture or streaks of egg in the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet mixture is smooth and homogeneous"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the wet ingredients into the dry ingredients and gently fold them together using a spatula. Be careful not to overmix; stir just until you no longer see dry flour. Overmixing develops gluten in the flour, which can make muffins tough instead of tender and fluffy. The batter will be slightly thick and lumpy, which is perfect.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined but still a bit lumpy"
+        },
+        {
+            "step": 5,
+            "instruction": "Gently fold in the fresh blueberries last. This step is crucial to prevent the berries from breaking open and turning the batter blue. Use a light hand and fold just enough to distribute them evenly. If you fold too vigorously, you’ll lose those beautiful bursts of whole blueberries in the muffins.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly distributed throughout the batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon the batter evenly into the muffin cups, filling each about three-quarters full. This allows room for the muffins to rise without overflowing. If you fill the cups too full, muffins may bake unevenly or spill over, making a mess and uneven tops.",
+            "timing": "5 minutes",
+            "doneness_cue": "All muffin cups are filled evenly and neatly"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the muffins in the preheated oven for 25-30 minutes. The baking time depends on your oven, so start checking around 25 minutes. The muffins are done when they’re golden on top and a toothpick inserted into the center comes out clean or with a few moist crumbs. Avoid opening the oven door early or often, as this can cause them to collapse.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden tops and clean toothpick test"
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, remove the muffins from the oven and let them cool in the tin for 5 minutes. This resting time helps the muffins firm up a bit, making them easier to remove without breaking. Then transfer them to a wire rack to cool completely. Cooling prevents sogginess from trapped steam and keeps the texture just right.",
+            "timing": "10 minutes",
+            "doneness_cue": "Muffins are cool enough to handle and not steaming"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the muffins warm or at room temperature. They’re delicious on their own or with a smear of butter or a drizzle of honey. Store leftovers in an airtight container at room temperature for up to 3 days, or freeze for longer storage. Enjoy them as a healthy breakfast or snack anytime you need a little sweet boost!",
+            "timing": "Immediate serving or storage",
+            "doneness_cue": "Muffins taste moist and fresh"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Blueberry Oat Muffins Turn Out Perfect Every Time",
+        "content": "<p>The magic behind these blueberry oat muffins lies in the balance of wholesome ingredients and simple techniques that enhance texture and flavor. The rolled oats add hearty chewiness and fiber, making these muffins more satisfying than standard recipes that rely solely on flour. Oats also absorb moisture, which helps keep the muffins tender without becoming dense.</p><p>Using whole wheat flour instead of all-purpose flour introduces a subtle nuttiness and more complex flavor, plus extra nutrients. The Greek yogurt is the secret ingredient that provides moisture and a slight tang, which balances the sweetness and keeps the crumb soft. It also reacts with the baking soda to give the muffins a gentle rise.</p><p>Gently folding in the blueberries at the end preserves their shape and bursts of juicy flavor. Overmixing the batter is avoided to prevent gluten overdevelopment, which would make the muffins tough. The careful timing and oven temperature ensure the muffins bake evenly, develop a golden crust, and remain moist inside. Each step works together to create a wholesome, flavorful muffin that’s perfect for breakfast or a healthy snack.</p>",
+        "ingredient_notes": {
+            "Rolled Oats": "Look for old-fashioned rolled oats rather than quick oats for this recipe. Rolled oats provide the ideal texture — chewy but not mushy — and help absorb moisture to keep the muffins tender. Instant oats are too fine and can lead to a gummy texture. Store oats in an airtight container to keep them fresh and prevent them from absorbing odors.",
+            "Whole Wheat Flour": "Choose a finely milled whole wheat flour for a lighter texture and milder flavor. Coarser flours can make muffins dense and heavy. Whole wheat adds nuttiness and fiber, improving nutrition and flavor complexity. If you prefer, you can substitute half with all-purpose flour for a lighter crumb, but the recipe is best with mostly whole wheat.",
+            "Greek Yogurt": "Use plain, full-fat Greek yogurt for moisture and richness. It adds a subtle tang that balances the sweetness and reacts with baking soda to help the muffins rise. Avoid flavored yogurts as they can add unwanted sweetness or flavors. If you don’t have Greek yogurt, sour cream is a good substitute but may slightly alter texture.",
+            "Fresh Blueberries": "Fresh blueberries are preferred over frozen for this recipe to avoid excess moisture that can make muffins soggy. Look for plump, firm berries without wrinkles or blemishes. If using frozen, do not thaw before folding in to prevent color bleeding and excess moisture. Gently fold them in to keep them intact.",
+            "Baking Powder and Baking Soda": "Both leavening agents are critical here—baking powder provides lift and baking soda reacts with the yogurt’s acidity for extra rise. Using the right amounts ensures the muffins rise properly without a bitter aftertaste. Always check your leavening agents are fresh as old baking powder or soda can cause flat muffins."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter once you add wet and dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which makes muffins tough and chewy instead of tender and fluffy. Stir just until the flour disappears and the batter is lumpy for the best texture."
+        },
+        {
+            "tip": "Use fresh blueberries and fold them in gently at the end.",
+            "reason": "Fresh berries hold their shape better and don’t release as much juice during baking, which keeps muffins from becoming soggy or blue all over. Folding gently prevents bursting and uneven color."
+        },
+        {
+            "tip": "Preheat your oven fully before baking.",
+            "reason": "A properly preheated oven helps the muffins rise quickly and develop a golden crust. If the oven is too cool, muffins bake unevenly and can turn out dense or pale."
+        },
+        {
+            "tip": "Line your muffin tin with paper liners or grease it well.",
+            "reason": "This prevents sticking and ensures muffins come out cleanly without breaking. It also makes cleanup faster and easier."
+        },
+        {
+            "tip": "Let muffins cool in the pan briefly before transferring to a wire rack.",
+            "reason": "This resting time lets the muffins firm up so they don’t fall apart. Cooling on a rack prevents steam from making the bottoms soggy."
+        },
+        {
+            "tip": "Use full-fat Greek yogurt for moisture and flavor.",
+            "reason": "The fat content keeps muffins tender and rich while the yogurt’s acidity reacts with baking soda to create lift. Low-fat yogurts can dry out the muffins."
+        },
+        {
+            "tip": "Avoid thawing frozen blueberries before adding.",
+            "reason": "Thawing releases juice that can discolor the batter and make muffins soggy. Add frozen berries straight into the batter and fold gently."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many people think mixing longer makes the batter smoother, but it actually develops gluten and toughens muffins.",
+            "fix": "Mix just until combined. Use a spatula to fold ingredients gently and stop as soon as you don’t see dry flour. A few lumps are okay."
+        },
+        {
+            "mistake": "Using frozen blueberries thawed",
+            "why_it_happens": "Thawing releases juice that can turn batter blue and make muffins soggy.",
+            "fix": "Add frozen blueberries directly to the batter without thawing. Fold them in gently to keep berries intact."
+        },
+        {
+            "mistake": "Skipping oven preheating",
+            "why_it_happens": "Sometimes we want to save time, but baking in a cool oven affects rise and browning.",
+            "fix": "Always preheat oven fully before baking. Use an oven thermometer if you suspect your oven runs hot or cold."
+        },
+        {
+            "mistake": "Filling muffin cups too full",
+            "why_it_happens": "Overfilling causes batter to spill and muffins to bake unevenly.",
+            "fix": "Fill cups about 3/4 full to allow space for rising without overflow."
+        },
+        {
+            "mistake": "Not letting muffins cool before removing",
+            "why_it_happens": "Removing hot muffins can cause them to break apart.",
+            "fix": "Let muffins cool in pan for 5 minutes, then transfer to wire rack to cool completely."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Blueberry Oat Muffins",
+            "description": "Add the zest of one lemon and a tablespoon of lemon juice to the wet ingredients for a bright citrus twist. This pairs beautifully with the blueberries and adds a fresh flavor dimension.",
+            "technical_note": "Lemon juice’s acidity may slightly increase rise due to reaction with baking soda, so keep baking times the same but watch for golden tops."
+        },
+        {
+            "name": "Vegan Blueberry Muffins",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use plant-based yogurt and oil. The texture will be slightly denser but still moist and delicious.",
+            "technical_note": "Flax eggs don’t provide as much rise, so expect a denser crumb; bake slightly longer if needed."
+        },
+        {
+            "name": "Gluten-Free Blueberry Muffins",
+            "description": "Use a gluten-free all-purpose flour blend in place of whole wheat flour and oats certified gluten-free. These muffins will have a slightly different texture but remain tasty and moist.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so you may need to add a tablespoon of extra yogurt or milk."
+        },
+        {
+            "name": "Blueberry Walnut Oat Muffins",
+            "description": "Fold in 1/2 cup chopped walnuts along with the blueberries for added crunch and nutty flavor. Walnuts pair wonderfully with oats and berries.",
+            "technical_note": "Chop nuts finely to ensure even distribution and prevent sinking."
+        },
+        {
+            "name": "Spiced Blueberry Oat Muffins",
+            "description": "Add 1 teaspoon cinnamon and a pinch of nutmeg to the dry ingredients for a warm, cozy flavor perfect for fall or winter mornings.",
+            "technical_note": "Spices can deepen flavor but don’t affect baking time; just mix evenly with dry ingredients."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "6g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to prevent drying out. They stay moist and fresh for snacking within this time frame.",
+        "refrigerator": "You can refrigerate muffins in an airtight container for up to 5 days. Chilling may firm them up and slightly change texture, so it’s best to warm them briefly before serving to regain softness.",
+        "freezer": "Freeze muffins individually wrapped in plastic wrap and placed in a freezer bag for up to 3 months. This prevents freezer burn and preserves freshness. Thaw at room temperature or warm in the microwave before eating.",
+        "reheating": "Reheat muffins in the microwave for 15-20 seconds or in a 350°F oven for 5-7 minutes. Adding a small pat of butter or a splash of milk before warming helps restore moisture and softness.",
+        "make_ahead_strategy": "Prepare the dry and wet ingredients separately a day ahead and store them covered in the fridge. Combine and bake fresh the next day for best texture and flavor. You can also bake muffins ahead and freeze them for quick breakfasts."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, but use frozen blueberries straight from the freezer without thawing to prevent excess moisture and color bleeding. Fold them gently into the batter to keep them intact. Expect slightly moister muffins."
+        },
+        {
+            "question": "What can I substitute for Greek yogurt?",
+            "answer": "Plain sour cream or buttermilk works well as substitutes because they provide moisture and acidity. If using buttermilk, reduce baking soda slightly. Regular yogurt can be used but may make muffins less thick."
+        },
+        {
+            "question": "How do I make these muffins vegan?",
+            "answer": "Replace eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg) and use plant-based yogurt and oil. The texture will be a bit denser but still moist and tasty. Adjust baking time if needed."
+        },
+        {
+            "question": "Can I make these muffins gluten-free?",
+            "answer": "Yes, substitute with a gluten-free flour blend and gluten-free oats. You might need to add a little extra liquid as gluten-free flours absorb moisture differently. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How do I prevent blueberries from sinking?",
+            "answer": "Toss blueberries lightly in a tablespoon of flour before folding into the batter. This helps suspend them evenly throughout the muffins instead of sinking to the bottom."
+        },
+        {
+            "question": "Can I add nuts or other mix-ins?",
+            "answer": "Absolutely! Chopped walnuts, pecans, or even chocolate chips work great. Add about 1/2 cup and fold in gently with the blueberries to keep distribution even."
+        },
+        {
+            "question": "How long do these muffins keep fresh?",
+            "answer": "At room temperature, muffins stay fresh for about 3 days in an airtight container. Refrigerated, they last up to 5 days but may firm up, so warm before serving."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Yes, doubling works well. Just be sure to mix dry and wet ingredients thoroughly and bake in batches if your oven can’t fit all muffins at once for even cooking."
+        }
+    ],
+    "conclusion": "I hope you enjoy these blueberry oat muffins as much as my family does! Give them a try and let me know how they turn out — I’d love to hear your tweaks and favorites.",
+    "seo": {
+        "primary_keyword": "blueberry oat muffins",
+        "secondary_keywords": [
+            "healthy blueberry muffins",
+            "easy oat muffins recipe",
+            "how to make blueberry muffins",
+            "best blueberry oat muffins recipe",
+            "easy blueberry muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade granola recipe",
+                "anchor": "homemade-granola"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_1.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_2.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_3.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Moist Blueberry Oat Muffins You’ll Crave Every Morning"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_9.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Moist Blueberry Oat Muffins You’ll Crave Every Morning"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Wholesome Blueberry Muffins That Are Actually Good for You!"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Moist Blueberry Oat Muffins You’ll Crave Every Morning"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Quick Blueberry Oat Muffins for Busy Weekday Mornings"
+        },
+        {
+            "fileName": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images/healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Simple Blueberry Muffins with Oats You Can Make Today"
+        }
+    ],
+    "id": "post_1784588842_524",
+    "slug": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make",
+    "isOnline": true,
+    "createdAt": "2026-07-21T00:30:39+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-21T00:30:39+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "healthy-blueberry-recipes-weight-watchers-will-actually-love-to-make/images",
+    "has_reel": true
+}
