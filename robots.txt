@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /base
+Disallow: /base.html
+Disallow: /*?page=
+Disallow: /*?src=
+Disallow: /*?id=
 
 Sitemap: https://mollykitchendaily.lummyrecipes.com/sitemap.xml
 Sitemap: https://mollykitchendaily.lummyrecipes.com/posts/sitemap-posts.xml

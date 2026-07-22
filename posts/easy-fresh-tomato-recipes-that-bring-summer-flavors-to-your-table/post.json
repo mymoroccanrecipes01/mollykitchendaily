@@ -1,0 +1,344 @@
+{
+    "title": "Simple Fresh Tomato Salad with Herbs That Tastes Like Summer",
+    "promptIMG": "Food photography: Fresh Tomato Salad with Herbs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This fresh tomato salad is a total summer winner—ripe tomatoes, fragrant herbs, and a splash of olive oil make it light but bursting with flavor. Great for quick lunches or as a side for dinner.",
+    "hashtags": "#tomatosalad #summerrecipes #freshandeasy",
+    "board_name": "Easy Summer Salads",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Fresh Tomato Herb Salad Recipe",
+            "description": "Looking for a fresh, easy salad? This tomato herb combo is super simple and full of vibrant flavor 🍅🌿. Perfect for summer lunches or quick dinners. Save this recipe to try soon! #freshsalad #summermeals #easyrecipes"
+        },
+        {
+            "title": "How to Make a Fresh Tomato Salad with Herbs in 10 Minutes",
+            "description": "Ready in just 10 minutes, this fresh tomato salad is perfect for those busy days. Juicy tomatoes and fresh herbs come together for a tasty, light meal. Discover now and add some summer freshness to your plate! 🍅✨ #quickrecipes #tomatosalad #healthyfood"
+        },
+        {
+            "title": "Fresh Tomato Salad That’s Perfect for Light Lunches or Dinners",
+            "description": "This salad is all about fresh tomatoes and herbs tossed with olive oil for a bright, healthy dish. It’s simple, satisfying, and makes a great side or light main. Try it today and taste summer! 🥗☀️ #summerrecipes #freshfood #easymeals"
+        },
+        {
+            "title": "Summer’s Best Fresh Tomato Salad with Herbs You’ll Love",
+            "description": "Juicy tomatoes, fresh herbs, and just a bit of olive oil make this salad a summer staple. It’s easy, fresh, and perfect for any meal. Save this one and enjoy a burst of flavor anytime! 🌿🍅 #tomatosalad #summerfood #healthyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 large ripe tomatoes, chopped",
+        "1/4 cup fresh basil leaves, chopped",
+        "2 tablespoons fresh parsley, chopped",
+        "3 tablespoons extra virgin olive oil",
+        "1 tablespoon red wine vinegar",
+        "1 small garlic clove, minced",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this fresh tomato salad on a hot summer day when I wanted something light but still satisfying. Using ripe, juicy tomatoes and fresh herbs from my garden made all the difference. What sets this salad apart is the simplicity and freshness — no heavy dressings, just a little olive oil and vinegar to let the tomatoes shine. I’ve tried versions with store-bought herbs, but nothing beats the bright flavor of fresh basil and parsley. The secret I learned is to let the salad sit for about 10 minutes after tossing so the flavors marry beautifully. The finished salad looks vibrant and tastes like summer in a bowl — bright, fresh, and just a little tangy. It’s perfect for a quick lunch or as a simple side for grilled meats or fish. Plus, it’s so easy that I often make it last minute. Honestly, sometimes the simplest recipes are the best!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and chopping your tomatoes into bite-sized pieces. Using ripe tomatoes is key because they provide the juicy sweetness that defines this salad. When chopping, try to keep the pieces uniform so each bite is balanced. Avoid over-handling the tomatoes to prevent them from becoming mushy. This step sets the foundation for the salad’s texture and flavor, so take your time to pick the best tomatoes you can find.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tomatoes are uniformly chopped with no mushy or overly soft pieces"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, finely chop the fresh basil and parsley. Fresh herbs add fragrance and brightness that dried herbs just can’t match. Be gentle while chopping to avoid bruising the leaves, which can make them bitter. Adding the herbs at this stage allows their oils to infuse the salad when mixed later. If you don’t have fresh herbs, you can substitute with a teaspoon of dried, but the flavor won’t be as vibrant.",
+            "timing": "5 minutes",
+            "doneness_cue": "Herbs are finely chopped and ready to be mixed in without bruising or discoloration"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, combine the chopped tomatoes and herbs. This gives you a chance to see how the colors and textures come together. Mixing in a bowl that’s big enough prevents crushing the tomatoes and helps everything blend evenly. This step prepares the salad for the dressing and ensures every bite has a good herb-to-tomato ratio.",
+            "timing": "2 minutes",
+            "doneness_cue": "Tomatoes and herbs are evenly distributed in the bowl without crushing"
+        },
+        {
+            "step": 4,
+            "instruction": "In a small bowl, whisk together the olive oil, red wine vinegar, minced garlic, salt, and pepper. This simple dressing is crucial because it enhances the natural flavors without overpowering them. Whisking emulsifies the oil and vinegar slightly, creating a balanced dressing that clings nicely to the tomatoes. Be sure to use good-quality olive oil for the best taste.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dressing is smooth, slightly thickened, and well combined"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the dressing over the tomato and herb mixture and gently toss to coat everything evenly. Use a light hand to avoid breaking down the tomatoes. Tossing properly ensures each bite has a consistent flavor without soggy patches. This gentle mixing is key to keeping the salad fresh and vibrant.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salad is evenly coated with dressing and looks glossy without excess liquid pooling"
+        },
+        {
+            "step": 6,
+            "instruction": "Let the salad sit at room temperature for about 10 minutes before serving. This resting time allows the flavors to meld and the garlic to mellow, making the salad taste more harmonious. If you serve it immediately, the flavors might seem a bit sharp or disconnected. This step makes a noticeable difference in flavor depth.",
+            "timing": "10 minutes",
+            "doneness_cue": "Salad smells fragrant and the flavors taste blended when sampled"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the salad and adjust seasoning if needed. Sometimes tomatoes vary in sweetness or acidity, so a pinch more salt or a splash of vinegar might be needed. Tasting and adjusting at the end ensures the salad suits your personal preference and the specific tomatoes used.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with no overpowering acidity or blandness"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the salad chilled or at room temperature alongside grilled chicken, fish, or crusty bread. This salad is versatile and can be a light lunch or a refreshing side dish. The fresh ingredients make it especially satisfying on warm days.",
+            "timing": "Immediate",
+            "doneness_cue": "Salad looks fresh and vibrant on the plate, ready to enjoy"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to store leftovers, transfer the salad to an airtight container and refrigerate. The tomatoes will release juice, so stir gently before serving again. It’s best eaten within a day to enjoy the freshest texture and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Salad is stored properly with minimal juice separation"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Fresh Tomato Salad Shines",
+        "content": "<p>Tomatoes are the star of this salad, and their ripeness and freshness directly impact the final flavor. Using vine-ripened tomatoes means you get natural sweetness and juiciness that balance the acidity and dressing. The olive oil acts as a flavor carrier, coating the tomatoes and herbs to create a luscious mouthfeel. It also helps mellow the sharpness of the vinegar and garlic.</p><p>Herbs like basil and parsley bring aromatic oils that elevate the simple ingredients, adding complexity without overwhelming the palate. The acid in the red wine vinegar brightens everything and helps break down the tomato flesh slightly, releasing more flavor and juice. Letting the salad rest after tossing allows these interactions to develop fully, making the taste more harmonious.</p><p>The gentle mixing technique is crucial; over-tossing can crush the tomatoes and create a mushy texture. Instead, careful folding preserves their shape and texture. This balance between texture and flavor is what keeps the salad fresh and inviting. Altogether, these elements create a simple but sophisticated dish that feels like summer in every bite.</p>",
+        "ingredient_notes": {
+            "Ripe Tomatoes": "Look for tomatoes that are heavy for their size and have a deep, vibrant color with no green spots. Heirloom or vine-ripened varieties work best because they offer a sweeter, more intense flavor. Avoid tomatoes that are overly soft or bruised, as they can make the salad watery and less appealing.",
+            "Fresh Basil": "Choose bright green leaves without blemishes or wilting. Fresh basil adds a sweet, peppery aroma that dried basil can’t replicate. Chop gently to avoid bruising, which can release bitter compounds. If fresh isn't available, freeze-dried basil is a better substitute than dried herbs.",
+            "Extra Virgin Olive Oil": "Use a good quality, cold-pressed extra virgin olive oil. Its fruity, slightly peppery notes complement the tomatoes and herbs beautifully. Cheap or refined olive oils lack flavor and can make the salad taste dull. Olive oil also helps emulsify the dressing, giving it a silky texture.",
+            "Red Wine Vinegar": "Red wine vinegar provides acidity that balances the sweetness of the tomatoes. Look for a vinegar with a smooth, mellow flavor rather than a harsh, sharp one. White wine or balsamic vinegar can be used but will change the salad’s flavor profile significantly.",
+            "Garlic": "Fresh garlic adds a subtle pungency and depth of flavor. Mince finely to distribute the flavor evenly without overpowering the salad. Avoid pre-minced garlic in jars, which tends to be less fresh and can alter the taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use the freshest tomatoes you can find, preferably heirloom or vine-ripened.",
+            "reason": "Fresh tomatoes have the best balance of sweetness and acidity, which is essential for this salad. Older or less ripe tomatoes tend to be bland or mealy, which can make the salad watery and dull. The flavor intensity of fresh tomatoes carries the whole dish."
+        },
+        {
+            "tip": "Let the salad rest for 10 minutes after mixing.",
+            "reason": "Resting allows the flavors to meld and the acidity to soften the garlic and herbs. This step also helps the tomatoes release some juice, creating a flavorful dressing naturally. Skipping this can result in a less harmonious taste."
+        },
+        {
+            "tip": "Chop herbs gently and add them last.",
+            "reason": "Over-chopping or bruising herbs releases bitter compounds and diminishes their fresh flavor. Adding them last preserves their aroma and bright color, enhancing the salad’s visual appeal and taste."
+        },
+        {
+            "tip": "Use a light hand when tossing the salad.",
+            "reason": "Tomatoes are delicate and can easily turn mushy if mixed aggressively. Gentle folding keeps the tomatoes intact while ensuring even coating with dressing, maintaining a pleasing texture."
+        },
+        {
+            "tip": "Season with salt just before serving.",
+            "reason": "Salt draws out moisture from tomatoes, so adding it too early can make the salad watery. Seasoning last keeps the salad fresh and prevents dilution of flavors."
+        },
+        {
+            "tip": "Opt for extra virgin olive oil for the dressing.",
+            "reason": "Higher quality olive oil has richer flavor and better mouthfeel, which lifts the salad. Using lower quality oils can make the dish taste flat or greasy."
+        },
+        {
+            "tip": "Use fresh garlic minced finely for even flavor distribution.",
+            "reason": "Fresh garlic adds a bright pungency that balances the sweetness of tomatoes. Coarser pieces or pre-minced garlic can taste harsh or uneven, overpowering the salad."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or mealy tomatoes",
+            "why_it_happens": "People often grab tomatoes that look fine but lack flavor or texture because they’re not fully ripe or have been stored too long.",
+            "fix": "Choose tomatoes that are heavy, fragrant, and have a rich color. If only underripe tomatoes are available, consider roasting them first to concentrate flavor or using a sweeter vinegar to balance acidity."
+        },
+        {
+            "mistake": "Overmixing and crushing the tomatoes",
+            "why_it_happens": "In a rush to combine ingredients, it’s easy to toss too vigorously, breaking down the fragile tomato flesh.",
+            "fix": "Use a gentle folding motion with a large spoon or spatula. Toss just enough to coat everything evenly without mashing the tomatoes."
+        },
+        {
+            "mistake": "Adding salt too early",
+            "why_it_happens": "Salt draws out moisture, so seasoning too soon can make the salad watery and dilute flavors.",
+            "fix": "Add salt right before serving to preserve texture and keep the salad fresh."
+        },
+        {
+            "mistake": "Using dried herbs instead of fresh",
+            "why_it_happens": "Sometimes fresh herbs aren’t on hand, but dried herbs don’t provide the same brightness.",
+            "fix": "If fresh herbs aren’t available, use a small amount of freeze-dried herbs or increase the quantity of dried herbs slightly, but expect less vibrant flavor."
+        },
+        {
+            "mistake": "Skipping the resting time after dressing",
+            "why_it_happens": "Impatience or lack of knowledge about flavor development leads to serving the salad immediately.",
+            "fix": "Let the salad rest at room temperature for 10 minutes so flavors meld and the garlic mellows. This step noticeably improves the taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Fresh Mozzarella Cheese",
+            "description": "Toss in bite-sized fresh mozzarella balls for a creamy texture and mild flavor that pairs beautifully with tomatoes and herbs. It turns the salad into a more filling dish perfect for lunch or a light dinner.",
+            "technical_note": "Add cheese just before serving to keep it from melting or becoming watery."
+        },
+        {
+            "name": "Make It Spicy with Chili Flakes",
+            "description": "Sprinkle some red chili flakes or finely chopped fresh chili for a subtle heat that livens up the salad. This variation adds a nice contrast to the sweetness of the tomatoes.",
+            "technical_note": "Add chili flakes to the dressing to distribute heat evenly."
+        },
+        {
+            "name": "Use Balsamic Vinegar Instead of Red Wine Vinegar",
+            "description": "Switching to balsamic vinegar adds a sweeter, richer flavor profile with a bit of depth. It’s a great twist if you prefer a slightly less acidic salad.",
+            "technical_note": "Reduce the quantity slightly as balsamic is more potent and sweet."
+        },
+        {
+            "name": "Include Cucumber for Extra Crunch",
+            "description": "Add diced cucumber for a refreshing crunch. This variation makes the salad even more hydrating and perfect for hot days.",
+            "technical_note": "Drain cucumber well to avoid watering down the salad."
+        },
+        {
+            "name": "Add Toasted Pine Nuts for Texture",
+            "description": "Sprinkle toasted pine nuts on top for a nutty crunch that contrasts nicely with the soft tomatoes and herbs. It also adds a bit of richness.",
+            "technical_note": "Toast nuts separately and add just before serving to keep them crisp."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "7g",
+        "fat_grams": "13g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad can safely sit out for up to 2 hours covered, perfect for serving at picnics or outdoor meals. Keep it covered to avoid contamination and maintain freshness.",
+        "refrigerator": "Store leftovers in an airtight container for up to 1 day. The tomatoes will release juice and soften, so stir gently before serving. It’s best eaten cold or at room temperature, as reheating isn’t recommended.",
+        "freezer": "Freezing is not recommended as tomatoes lose their texture and become mushy after thawing. It’s better to enjoy this salad fresh.",
+        "reheating": "This salad is best served cold or at room temperature. Reheating breaks down the fresh ingredients and ruins the texture.",
+        "make_ahead_strategy": "You can chop tomatoes and herbs up to a day ahead and store separately in the fridge. Prepare the dressing and combine everything just before serving to keep the salad fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned tomatoes instead of fresh?",
+            "answer": "Canned tomatoes aren’t ideal because they lack the fresh texture and brightness needed for this salad. They tend to be softer and more watery, which can make the salad soggy. If you must use canned, drain them well and consider adding a bit more vinegar to balance the flavor."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Fresh herbs bring essential aroma and flavor, but if unavailable, you can use dried herbs. Use about a third of the amount compared to fresh since dried herbs are more concentrated. The flavor won’t be as vibrant, but it’ll still be tasty."
+        },
+        {
+            "question": "Can I add other vegetables to this salad?",
+            "answer": "Absolutely! Cucumbers, bell peppers, or red onions make great additions. Just be mindful of their water content and chop them uniformly. Adding crunchy elements can enhance texture and make the salad more substantial."
+        },
+        {
+            "question": "How do I prevent the salad from getting watery?",
+            "answer": "Use ripe but firm tomatoes and avoid overmixing. Adding salt just before serving prevents drawing out too much moisture. Also, don’t prepare the salad too far in advance to keep it fresh."
+        },
+        {
+            "question": "Is this salad suitable for meal prep?",
+            "answer": "It’s best fresh but you can prep the components separately and combine before eating. The tomatoes release juice over time, which can make the salad soggy if mixed too early."
+        },
+        {
+            "question": "What can I substitute for red wine vinegar?",
+            "answer": "White wine vinegar or apple cider vinegar can work but will change the flavor slightly. Use the same quantity and taste before adjusting seasoning."
+        },
+        {
+            "question": "Can I add cheese to this salad?",
+            "answer": "Yes! Fresh mozzarella, feta, or burrata are excellent additions. Add cheese just before serving to keep it fresh and prevent it from melting or becoming watery."
+        },
+        {
+            "question": "How should I store leftovers?",
+            "answer": "Store in an airtight container in the fridge for up to one day. The salad will release juice and soften, so gently stir before serving. It’s best eaten cold or at room temperature."
+        }
+    ],
+    "conclusion": "Give this fresh tomato salad a try—it's a simple way to enjoy summer’s best flavors. I’d love to hear how yours turns out, so don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "fresh tomato salad recipe",
+        "secondary_keywords": [
+            "easy tomato salad",
+            "summer tomato salad",
+            "how to make tomato salad",
+            "best fresh tomato salad recipe",
+            "simple tomato salad"
+        ],
+        "internal_links": [
+            {
+                "text": "fresh herb salad dressing",
+                "anchor": "fresh-herb-salad-dressing"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make a Fresh Tomato Salad with Herbs in 10 Minutes"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Fresh Tomato Salad That’s Perfect for Light Lunches or Dinners"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Brighten Your Day with This Fresh Tomato Herb Salad Recipe"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Brighten Your Day with This Fresh Tomato Herb Salad Recipe"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Summer’s Best Fresh Tomato Salad with Herbs You’ll Love"
+        },
+        {
+            "fileName": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images/easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Brighten Your Day with This Fresh Tomato Herb Salad Recipe"
+        }
+    ],
+    "id": "post_1784762190_231",
+    "slug": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table",
+    "isOnline": true,
+    "createdAt": "2026-07-23T00:32:10+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-23T00:32:10+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-fresh-tomato-recipes-that-bring-summer-flavors-to-your-table/images",
+    "has_reel": true
+}
