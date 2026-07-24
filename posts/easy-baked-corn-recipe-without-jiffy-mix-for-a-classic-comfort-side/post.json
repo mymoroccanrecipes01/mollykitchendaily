@@ -1,0 +1,348 @@
+{
+    "title": "Creamy Cheesy Baked Corn with Fresh Kernels and a Homemade Touch",
+    "promptIMG": "Food photography: creamy cheesy baked corn, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked corn is pure comfort—loaded with fresh kernels and gooey cheese. It’s easy to make from scratch and perfect for cozy dinners or holidays. I love how creamy it turns out without any boxed mixes!",
+    "hashtags": "#bakedcorn #comfortfood #homemadesides",
+    "board_name": "Comfort Food Sides",
+    "pin_variations": [
+        {
+            "title": "Melted Cheese and Fresh Corn Baked to Perfection",
+            "description": "Discover this creamy baked corn recipe that’s bursting with fresh corn flavor and melty cheese. It’s a family favorite and super simple to whip up. Save this for your next cozy dinner! 🧀🌽 #bakedcorn #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Skip the Box Mix: Homemade Creamy Baked Corn You’ll Love",
+            "description": "Tired of boxed corn casseroles? Try this fresh, cheesy baked corn made with real ingredients. It’s rich, creamy, and the perfect side for any meal. Try it today and taste the difference! 🥄✨ #homemadesides #cornrecipe #comfortfood"
+        },
+        {
+            "title": "Easy Baked Corn with Cheese and Fresh Kernels for Family Meals",
+            "description": "This cheesy baked corn is loaded with fresh kernels and creamy goodness. It’s quick, easy, and everyone asks for seconds! Perfect for weeknights or holiday dinners. Save this recipe now! 🍽️💛 #familydinner #easyrecipes #bakedcorn"
+        },
+        {
+            "title": "Cozy Up with This Creamy Homemade Baked Corn Casserole",
+            "description": "Warm up your dinner table with this creamy, cheesy baked corn. Made from scratch with fresh corn kernels, it’s comfort food that feels like a hug. Don’t miss out—give it a try! 🌽🧀 #comfortfood #homemadesides #corncasserole"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "3 cups fresh corn kernels (about 4 ears)",
+        "1 cup shredded sharp cheddar cheese",
+        "1/2 cup sour cream, room temperature",
+        "1/4 cup unsalted butter, melted",
+        "1/4 cup whole milk",
+        "2 tablespoons all-purpose flour",
+        "1 tablespoon granulated sugar",
+        "1/2 teaspoon kosher salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon smoked paprika (optional)",
+        "1/2 cup diced green bell pepper (optional for added crunch)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this baked corn recipe on a chilly fall evening when I wanted something warm and comforting without fussing over complicated ingredients. Instead of reaching for a boxed mix, I decided to use fresh corn and real cheese, and honestly, it turned out even better than I expected. The fresh kernels give it a sweet pop in every bite, and the melted cheddar adds that perfect savory richness. One trick I learned is to mix the flour with the melted butter before adding it to the other ingredients—that helps thicken the casserole and keeps it creamy without being runny. Plus, I like adding a little smoked paprika for a subtle depth of flavor, but that’s totally optional. When it comes out of the oven, the top is golden and bubbly, and the inside is luxuriously creamy. It’s a side dish that feels special enough for holidays but easy enough for weeknights. I love serving it alongside roasted chicken or a simple grilled steak. Honestly, every time I make it, my family asks for seconds, which is always a good sign!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 375°F (190°C) and greasing a medium baking dish with butter or non-stick spray. This step is crucial because a well-greased dish prevents sticking and helps the edges brown nicely. While the oven heats, gather your fresh corn kernels and shred your cheese. Using fresh corn instead of frozen or canned gives the casserole a bright, sweet flavor and a nice texture contrast. Avoid skipping the greasing or you might struggle to serve the casserole cleanly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated and baking dish evenly greased with no dry spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, whisk together the melted butter and flour until smooth. This creates a simple roux that will thicken the casserole as it bakes, preventing it from being watery. If you add the flour directly to the wet ingredients without mixing it into the butter first, you risk clumping and an uneven texture. Take your time here to ensure the mixture is lump-free for the best creamy consistency.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, thick paste with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, combine the fresh corn kernels, sour cream, milk, sugar, salt, pepper, and smoked paprika if using. Stir in the melted butter and flour mixture you just made. The sour cream adds richness and tang, balancing the sweetness of the corn, while the milk thins the mixture just enough to be creamy but not watery. Mixing all these ingredients thoroughly ensures the flavors are evenly distributed and the texture is uniform.",
+            "timing": "5 minutes",
+            "doneness_cue": "Well combined creamy mixture with no dry spots or clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the shredded cheddar cheese and diced green bell pepper if using. The cheese melts into the casserole during baking, creating that irresistible gooey texture, while the bell pepper adds a slight crunch and fresh flavor contrast. Be gentle when folding so you don’t break up the corn kernels. Adding the cheese last helps it integrate evenly throughout the dish.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese and veggies evenly distributed without breaking corn kernels"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the mixture into your prepared baking dish and smooth the top with a spatula. Spreading it evenly ensures uniform cooking and a nice golden crust on top. If the mixture is lumpy or uneven, some spots may cook faster than others, leading to inconsistent texture. Take a moment here to get it level.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly spread mixture with smooth surface"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the baking dish in the preheated oven and bake uncovered for about 25-30 minutes. Baking uncovered allows the top to brown and the cheese to bubble, creating a delicious crust. Avoid opening the oven door too often, as it can lower the temperature and affect cooking time. Keep an eye on the color; when the top is golden and bubbling, it’s ready.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden brown, bubbly top with set edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Once baked, remove the casserole from the oven and let it rest for 5-10 minutes before serving. This rest time lets the casserole set up and makes it easier to serve without it falling apart. It also allows the flavors to meld and the texture to become perfectly creamy. Resist the urge to dig in immediately!",
+            "timing": "5-10 minutes",
+            "doneness_cue": "Casserole is set, not runny, and easier to slice"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve warm as a comforting side dish with your favorite main course. This baked corn pairs wonderfully with roasted meats, grilled chicken, or even a hearty vegetarian plate. Garnish with fresh herbs like parsley or chives if you want a pop of color and freshness. It’s always a crowd-pleaser and perfect for family dinners or holiday feasts.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish served warm with garnish"
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container in the refrigerator for up to 3 days. Reheat gently in the oven or microwave with a splash of milk to restore creaminess. Avoid overheating, which can dry out the casserole. This recipe reheats beautifully, making it perfect for make-ahead meals or quick weeknight dinners.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers moist and creamy after reheating"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Baked Corn Recipe Works So Well",
+        "content": "<p>This baked corn recipe shines because of the balance between fresh ingredients and simple cooking techniques. Using fresh corn kernels instead of canned or frozen adds a natural sweetness and a pleasant texture that canned corn can’t match. The fresh kernels burst with juice as they bake, adding moisture and flavor to the casserole.</p><p>The magic thickening step comes from whisking flour into melted butter to make a roux before mixing it with dairy. This technique is critical because it prevents lumps and ensures the casserole thickens evenly as it bakes, resulting in a creamy but stable texture that holds its shape when served.</p><p>Cheese is another key player here. Sharp cheddar melts smoothly and adds a rich, savory depth to the dish. The cheese also helps create a golden, bubbly crust on top, which contrasts beautifully with the creamy interior. The option to add smoked paprika introduces a subtle smoky warmth that elevates the flavor profile without overpowering the natural sweetness of the corn.</p><p>Finally, baking uncovered encourages evaporation on the surface, which thickens the top layer and creates a slightly crisp texture. The resting period after baking allows residual heat to finish setting the casserole, preventing it from being too runny or falling apart when served. Altogether, these elements combine to deliver a comforting, flavorful side dish that’s both simple and satisfying.</p>",
+        "ingredient_notes": {
+            "fresh corn kernels": "When buying fresh corn, look for ears with bright green husks and moist silk. Fresh kernels are sweet and juicy, which adds natural moisture and flavor to the casserole. If fresh corn isn’t available, frozen is a decent substitute but avoid canned as it’s often too soft and watery, which can affect texture.",
+            "sharp cheddar cheese": "Choose a good-quality sharp cheddar for its bold flavor and excellent melting properties. Mild cheeses won’t provide the same depth of flavor or the golden crust on top. Grate your own cheese if possible, as pre-shredded cheese often contains anti-caking agents that can affect melting.",
+            "sour cream": "Sour cream adds tanginess and richness, balancing the sweetness of the corn. Using full-fat sour cream yields the creamiest texture, but low-fat versions can work if you prefer. Avoid fat-free as it tends to separate when heated, impacting texture negatively.",
+            "all-purpose flour": "Flour acts as a thickener when combined with melted butter to form a roux. Using all-purpose flour is best because it has the right protein content for thickening without making the dish gummy. Gluten-free alternatives may require adjustments in quantity and technique.",
+            "unsalted butter": "Butter provides flavor and helps create the roux that thickens the casserole. Using unsalted butter lets you control the salt level precisely. It also adds a subtle richness that complements the corn and cheese perfectly."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk flour into melted butter before mixing with other ingredients.",
+            "reason": "This step creates a smooth roux that thickens the casserole evenly. If you add flour directly to wet ingredients, it can clump and produce a gritty texture. Properly making the roux ensures the baked corn is creamy and stable."
+        },
+        {
+            "tip": "Use freshly grated cheddar cheese instead of pre-shredded.",
+            "reason": "Pre-shredded cheese often contains anti-caking agents that prevent smooth melting, which can cause a grainy texture. Freshly grated cheese melts better and creates a gooey, luscious casserole topping."
+        },
+        {
+            "tip": "Don’t cover the casserole while baking.",
+            "reason": "Baking uncovered allows moisture to evaporate from the surface, which helps form a golden, slightly crisp crust. Covering traps steam, making the top soggy and preventing that appealing baked texture."
+        },
+        {
+            "tip": "Let the casserole rest 5-10 minutes after baking.",
+            "reason": "Resting allows the dish to set, making it easier to serve without falling apart. It also lets the flavors meld and the texture become perfectly creamy instead of runny."
+        },
+        {
+            "tip": "Add smoked paprika for subtle smoky depth.",
+            "reason": "This spice enhances the natural sweetness of the corn without overpowering it, adding complexity and warmth that elevate the overall flavor."
+        },
+        {
+            "tip": "Use fresh corn kernels for best texture and sweetness.",
+            "reason": "Fresh corn bursts with juice and has a firmer bite compared to canned or frozen. This freshness is key to the dish’s bright, sweet flavor and pleasant mouthfeel."
+        },
+        {
+            "tip": "Grease your baking dish thoroughly.",
+            "reason": "Proper greasing prevents sticking, especially around the edges, making serving easier and preserving the casserole’s beautiful shape."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the roux and adding flour directly to wet ingredients.",
+            "why_it_happens": "Many cooks try to save time or overlook the importance of this step, assuming the flour will thicken during baking regardless.",
+            "fix": "Always whisk flour into melted butter first to form a smooth paste before adding liquids. This ensures even thickening and prevents clumps that ruin the texture."
+        },
+        {
+            "mistake": "Using canned corn instead of fresh or frozen.",
+            "why_it_happens": "Canned corn is convenient but often softer and waterier, which can make the casserole soggy.",
+            "fix": "Opt for fresh or frozen corn. If using frozen, thaw and drain excess moisture. This keeps the casserole creamy but not watery."
+        },
+        {
+            "mistake": "Covering the casserole while baking.",
+            "why_it_happens": "Some people cover dishes to prevent drying out, but this traps steam and prevents browning.",
+            "fix": "Bake uncovered to allow the top to brown and develop a nice crust. This adds texture and flavor."
+        },
+        {
+            "mistake": "Not letting the dish rest after baking.",
+            "why_it_happens": "Eager cooks sometimes serve immediately, causing the casserole to be too soft or runny.",
+            "fix": "Allow 5-10 minutes resting time so the casserole sets properly and is easier to serve."
+        },
+        {
+            "mistake": "Using pre-shredded cheese.",
+            "why_it_happens": "Pre-shredded cheese contains additives that can affect melting.",
+            "fix": "Grate cheese fresh for the best melting and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Jalapeño Cheddar Baked Corn",
+            "description": "Add finely diced jalapeños to the mix for a spicy kick. The heat contrasts nicely with the sweet corn and creamy cheese. This version is perfect if you want to add some excitement to a classic side.",
+            "technical_note": "Be mindful of jalapeño quantity to balance heat; too much can overpower the dish."
+        },
+        {
+            "name": "Bacon and Green Onion Baked Corn",
+            "description": "Fold in cooked, crumbled bacon and chopped green onions for a smoky, savory twist. The bacon adds crunch and umami while the green onions bring fresh brightness.",
+            "technical_note": "Drain bacon fat well to avoid greasiness and adjust salt accordingly."
+        },
+        {
+            "name": "Vegan Baked Corn Casserole",
+            "description": "Swap sour cream for coconut yogurt and use vegan cheese alternatives. Use olive oil instead of butter. This keeps the casserole creamy and delicious while fitting a plant-based diet.",
+            "technical_note": "Texture may be slightly different; bake a bit longer to set properly."
+        },
+        {
+            "name": "Herbed Baked Corn with Parmesan",
+            "description": "Add fresh herbs like thyme and rosemary plus Parmesan cheese instead of cheddar. This gives a fragrant, savory flavor that pairs well with roasted meats.",
+            "technical_note": "Parmesan is saltier and less melty, so reduce salt slightly."
+        },
+        {
+            "name": "Creamy Corn and Potato Bake",
+            "description": "Mix in thinly sliced potatoes for extra heartiness. The potatoes absorb flavors and add a comforting texture, making this a perfect side for chilly nights.",
+            "technical_note": "Slice potatoes thinly and par-cook slightly before baking to ensure softness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This baked corn can safely sit out at room temperature for up to 2 hours. Cover loosely with foil or a clean cloth to keep debris out. Beyond 2 hours, refrigerate to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The casserole thickens and firms up when cold, so reheat gently with a splash of milk or butter to restore creaminess. It’s still tasty served warm or at room temperature.",
+        "freezer": "Freeze the baked corn in a freezer-safe container for up to 2 months. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the refrigerator before reheating to maintain texture.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through, covering with foil to prevent drying. Alternatively, microwave in short bursts, stirring halfway and adding a splash of milk or cream to keep it moist. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "Prepare the casserole mixture up to 1 day in advance and keep covered in the refrigerator. When ready, pour into the baking dish and bake as directed. This saves time on busy days and allows flavors to meld."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen corn instead of fresh?",
+            "answer": "Yes, frozen corn works well if fresh isn’t available. Just thaw it completely and drain any excess water to avoid a watery casserole. Frozen corn retains much of the sweetness and texture, though fresh is best for peak flavor."
+        },
+        {
+            "question": "What if I don’t have sour cream?",
+            "answer": "You can substitute sour cream with Greek yogurt or crème fraîche for similar tang and creaminess. If using yogurt, opt for full-fat to maintain richness. Avoid low-fat or flavored varieties as they can alter texture and taste."
+        },
+        {
+            "question": "How do I make this recipe dairy-free?",
+            "answer": "Use vegan cheese alternatives and replace sour cream with coconut cream or a plant-based yogurt. Swap butter for olive oil or vegan margarine. The texture might be slightly different, but it will still be delicious and creamy."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Diced bell peppers, jalapeños, or green onions add great flavor and texture. Just be mindful of moisture content; drain vegetables well to keep the casserole from becoming too wet."
+        },
+        {
+            "question": "Why is my casserole watery after baking?",
+            "answer": "This usually happens if the roux isn’t made properly or if excess moisture from ingredients isn’t drained. Make sure to whisk flour into melted butter before adding liquids and drain any thawed frozen corn or added veggies well."
+        },
+        {
+            "question": "Can I double this recipe for a larger crowd?",
+            "answer": "Yes, doubling works fine. Use a larger baking dish and increase baking time slightly, checking doneness by the bubbly, golden top. Stir gently if mixing ingredients in a bigger bowl to keep texture consistent."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat in the oven at 350°F covered with foil to keep moisture, adding a splash of milk if needed. Microwaving works too but can dry the edges. Avoid overheating to maintain creaminess."
+        },
+        {
+            "question": "Can I prepare the casserole ahead of time?",
+            "answer": "Definitely! Mix all ingredients and refrigerate covered for up to 24 hours before baking. This can enhance flavors and save time on serving day. Just give it a good stir before transferring to your baking dish."
+        }
+    ],
+    "conclusion": "I hope you give this creamy baked corn a try—it’s one of those dishes that feels like a warm hug on a plate. Let me know how it turns out and if it becomes a family favorite like it did for me!",
+    "seo": {
+        "primary_keyword": "creamy baked corn recipe",
+        "secondary_keywords": [
+            "homemade baked corn",
+            "cheesy corn casserole",
+            "how to make baked corn",
+            "best baked corn recipe",
+            "easy baked corn"
+        ],
+        "internal_links": [
+            {
+                "text": "easy cheesy potato casserole",
+                "anchor": "easy-cheesy-potato-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_1.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_2.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_3.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Skip the Box Mix: Homemade Creamy Baked Corn You’ll Love"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Baked Corn with Cheese and Fresh Kernels for Family Meals"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Melted Cheese and Fresh Corn Baked to Perfection"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Cozy Up with This Creamy Homemade Baked Corn Casserole"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Melted Cheese and Fresh Corn Baked to Perfection"
+        },
+        {
+            "fileName": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images/easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Melted Cheese and Fresh Corn Baked to Perfection"
+        }
+    ],
+    "id": "post_1784904865_795",
+    "slug": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side",
+    "isOnline": true,
+    "createdAt": "2026-07-24T15:56:59+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-24T15:56:59+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-baked-corn-recipe-without-jiffy-mix-for-a-classic-comfort-side/images",
+    "has_reel": true
+}
