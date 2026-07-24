@@ -1,0 +1,345 @@
+{
+    "title": "Fresh Peach Salsa with a Kick of Jalapeño – Perfect Summer Snack!",
+    "promptIMG": "Food photography: Fresh Peach Salsa with Jalapeño, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This peach salsa blends sweet, tangy, and spicy flavors with fresh jalapeños adding a subtle heat. It's super easy to whip up and perfect for summer barbecues or a quick chip dip when guests arrive unexpectedly.",
+    "hashtags": "#peachsalsa #summersnacks #freshrecipes",
+    "board_name": "Easy Summer Snacks",
+    "pin_variations": [
+        {
+            "title": "Sweet and Spicy Peach Salsa to Brighten Your Summer Parties",
+            "description": "Looking for a fresh, vibrant salsa with a little heat? This peach salsa combines juicy fruit and jalapeños for a perfect balance. Save this recipe for your next get-together! 🍑🌶️ #peachsalsa #summerrecipes #partyfood"
+        },
+        {
+            "title": "Quick Peach Salsa Recipe That’s Bursting with Flavor and Heat",
+            "description": "Try this easy peach salsa for a snack that’s both sweet and spicy. It takes just minutes and is a crowd-pleaser at any gathering. Discover how simple fresh ingredients can be so delicious! 🍑🔥 #freshsalsa #easyrecipes #snackideas"
+        },
+        {
+            "title": "How to Make Peach Salsa with a Spicy Jalapeño Twist",
+            "description": "This peach salsa recipe is a game changer—juicy peaches meet zesty jalapeños for a flavor explosion. Perfect for dipping or topping your favorite grilled dishes. Try it today and impress your friends! 🌶️🍑 #peachsalsa #homemadesalsa #summerfood"
+        },
+        {
+            "title": "Fresh Peach Salsa: A Sweet and Spicy Dip You’ll Love",
+            "description": "Sweet peaches and a hint of jalapeño heat make this salsa irresistible. It’s super simple and perfect for summer snacking. Save this recipe and enjoy a fresh twist on salsa anytime! 🍑🌶️ #summerdip #peachsalsa #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "3 ripe peaches, peeled and diced",
+        "1/2 red onion, finely chopped",
+        "1 jalapeño, seeded and minced",
+        "1/4 cup fresh cilantro, chopped",
+        "1 lime, juiced",
+        "1 tablespoon honey",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper"
+    ],
+    "yield": "Approximately 2 cups, 6 servings",
+    "introduction": "I first stumbled upon this peach salsa recipe during a summer cookout a few years ago, and it quickly became a family favorite. What makes this version stand out is the perfect balance between the natural sweetness of ripe peaches and the subtle heat from fresh jalapeños. I’ve tried other fruit salsas before, but this one always feels fresh and vibrant, thanks to the lime juice and a touch of honey that rounds out the flavors. The trick I learned is to seed the jalapeño carefully to control the heat level, so it’s not overpowering but just enough to give the salsa a nice kick. When you make this, expect a colorful, chunky salsa that tastes like summer in a bowl — perfect for dipping tortilla chips or spooning over grilled chicken or fish. I love how easy it is to throw together in just 15 minutes, and it’s a great way to use up peaches when they’re in season. Plus, it’s naturally gluten-free and vegan, which makes it a crowd-pleaser for all kinds of gatherings. Just a heads up: don’t skip the lime juice; it really brightens the whole salsa and keeps the peaches from browning too fast. It’s simple, fresh, and always a hit — I promise you’ll want to make it again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by peeling and dicing the peaches into small, bite-sized pieces. Peeling is important because the skin can be a little tough and bitter, which might throw off the sweet flavor balance. Use a sharp knife or a vegetable peeler to get the skin off easily. Once diced, place the peaches in a medium mixing bowl. This step ensures your salsa has a soft, juicy texture without any chewy bits.",
+            "timing": 10,
+            "doneness_cue": "Peaches should be uniformly diced and juicy but not mushy."
+        },
+        {
+            "step": 2,
+            "instruction": "Finely chop half a red onion and add it to the bowl. Onion adds a sharp, savory contrast that balances the sweetness of the peaches. Make sure to chop it finely so it blends well without overwhelming the other flavors. If you want a milder onion flavor, rinse the chopped onion under cold water and drain before adding.",
+            "timing": 5,
+            "doneness_cue": "Onion pieces should be small and evenly distributed."
+        },
+        {
+            "step": 3,
+            "instruction": "Seed and mince one fresh jalapeño pepper. Removing the seeds controls the heat level, so if you prefer more spice, leave some seeds in. Mince it finely to spread the heat evenly throughout the salsa. Adding jalapeño gives the salsa a lively kick that complements the sweetness perfectly.",
+            "timing": 5,
+            "doneness_cue": "Jalapeño should be finely minced and mixed through the salsa."
+        },
+        {
+            "step": 4,
+            "instruction": "Chop about a quarter cup of fresh cilantro and add it to the bowl. Cilantro adds a fresh, herbaceous note that brightens the salsa. Be sure to chop it finely so it melds well with the other ingredients and doesn’t overpower the peaches.",
+            "timing": 2,
+            "doneness_cue": "Cilantro should appear fresh and evenly mixed in."
+        },
+        {
+            "step": 5,
+            "instruction": "Squeeze the juice of one lime over the mixture. Lime juice adds essential acidity that balances the sweetness and prevents the peaches from browning quickly. Make sure to strain out any seeds. This step is crucial for freshness and flavor brightness.",
+            "timing": 2,
+            "doneness_cue": "Salsa will have a light citrus aroma and slight tang."
+        },
+        {
+            "step": 6,
+            "instruction": "Drizzle one tablespoon of honey into the bowl. Honey rounds out the flavors, adding a natural sweetness that complements the peaches without being cloying. Stir gently to combine, ensuring every bite has a balanced sweet-tart-spicy flavor.",
+            "timing": 1,
+            "doneness_cue": "Salsa looks glossy and well-coated."
+        },
+        {
+            "step": 7,
+            "instruction": "Season the salsa with half a teaspoon of salt and a quarter teaspoon of freshly ground black pepper. Salt enhances all the natural flavors, while pepper adds a subtle depth. Taste and adjust seasoning as needed — sometimes a little extra salt or lime juice makes all the difference.",
+            "timing": 2,
+            "doneness_cue": "Salsa tastes balanced with no one flavor dominating."
+        },
+        {
+            "step": 8,
+            "instruction": "Gently toss all the ingredients together until well combined. Be careful not to mash the peaches; you want to keep the chunks intact for texture. Mixing thoroughly ensures the flavors meld beautifully and every spoonful is consistent.",
+            "timing": 3,
+            "doneness_cue": "Salsa is evenly mixed with vibrant colors visible."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the salsa rest for about 10 minutes at room temperature before serving. This short resting time allows the flavors to marry and develop depth. If you refrigerate immediately, the flavors won’t be as pronounced. Serve with tortilla chips or as a topping for grilled meats or fish.",
+            "timing": 10,
+            "doneness_cue": "Salsa smells fragrant and flavors taste well blended."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peach Salsa is a Summer Favorite",
+        "content": "<p>At the heart of this recipe is the balance of sweet, spicy, and acidic flavors that make fruit salsas so refreshing and addictive. The peaches provide a juicy sweetness with a soft texture that contrasts beautifully with the crisp, sharp bite of red onion. The jalapeño introduces a subtle heat that wakes up your palate without overwhelming the delicate fruitiness. This interplay of flavors is key to a great salsa.</p><p>The lime juice is more than just a flavor booster; it plays a vital role in preserving the peaches' vibrant color by slowing oxidation. Plus, the acidity balances the sweetness and adds a bright, tangy note that lifts the entire dish. Honey is used here instead of sugar to add a natural, floral sweetness that complements the peaches without feeling heavy or artificial.</p><p>Mixing the ingredients gently preserves the peaches’ texture, preventing the salsa from becoming mushy. The salt enhances all the flavors by drawing out the juices from the fruit and vegetables, making the salsa juicier and more flavorful. Finally, letting the salsa rest before serving allows the flavors to meld and develop, giving you a more harmonious taste experience.</p><p>Overall, this salsa is a celebration of fresh summer produce and simple, effective seasoning techniques. It’s a great example of how thoughtful ingredient choices and timing can elevate a simple recipe into something special.</p>",
+        "ingredient_notes": {
+            "Peaches": "When selecting peaches for salsa, look for ripe but firm fruit with a fragrant aroma. Overripe peaches can become too mushy and watery, which affects the salsa’s texture. Peeling the skin is important as it can be tough and slightly bitter, potentially overpowering the delicate sweetness. Fresh peaches offer natural sugars and juiciness that form the base of this salsa’s flavor.",
+            "Jalapeño": "Fresh jalapeños provide a crisp, bright heat that complements the sweetness of the peaches. Removing the seeds and membranes controls the spice level; leaving some seeds adds more heat. Choose firm jalapeños without wrinkles or soft spots. Mince finely to distribute heat evenly and avoid large spicy bites that can overwhelm the salsa’s balance.",
+            "Lime Juice": "Lime juice adds essential acidity which brightens flavors and helps prevent browning of the peaches. Use freshly squeezed lime juice for the best flavor—bottled juice can be too harsh or artificial-tasting. The acid also helps break down some of the fruit’s sugars slightly, enhancing the overall taste complexity.",
+            "Honey": "Honey acts as a natural sweetener that blends seamlessly with the peaches’ natural sugars. It adds a subtle floral note and smooth sweetness without the graininess or sharpness of granulated sugar. Opt for mild-flavored honey to avoid overpowering the salsa. Honey also helps balance the acidity and heat for a well-rounded flavor.",
+            "Red Onion": "Red onion provides a sharp, slightly sweet bite that contrasts well with the mellow peaches. Finely chopping the onion ensures it integrates smoothly into the salsa without dominating. Rinsing the chopped onion can mellow its pungency if desired. Freshness is key—the onion should be crisp and free of any soft or brown edges for the best flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe but firm peaches for the best texture.",
+            "reason": "Peaches that are too soft will break down and make the salsa watery and mushy, while underripe peaches lack sweetness and juiciness. Choosing the right ripeness keeps the salsa chunky and flavorful."
+        },
+        {
+            "tip": "Remove seeds from jalapeños to control spice level.",
+            "reason": "The seeds and membranes contain most of the heat, so removing them allows you to tailor the salsa’s spiciness. This prevents the salsa from becoming too hot and lets the peach flavor shine."
+        },
+        {
+            "tip": "Let the salsa rest 10 minutes before serving.",
+            "reason": "Resting allows the flavors to meld and develop complexity. It also helps the acidity from lime juice to slightly soften the onion and jalapeño, making the salsa taste more balanced."
+        },
+        {
+            "tip": "Peel peaches to avoid bitter skin in the salsa.",
+            "reason": "The skin can be tough and bitter, which might clash with the sweet and spicy flavors. Peeling ensures a smoother texture and a sweeter, more pleasant bite."
+        },
+        {
+            "tip": "Use fresh lime juice instead of bottled.",
+            "reason": "Fresh lime juice offers bright, clean acidity without the preservatives or off-flavors found in bottled juice, which can negatively impact the salsa’s freshness."
+        },
+        {
+            "tip": "Finely chop all ingredients for even flavor distribution.",
+            "reason": "Smaller pieces ensure that every bite has a balanced mix of flavors and textures. Larger chunks can lead to uneven bites and overpowering single ingredients."
+        },
+        {
+            "tip": "Adjust salt and honey to taste after mixing.",
+            "reason": "Salt enhances and balances sweetness and acidity, so tasting and adjusting after combining all ingredients guarantees the best flavor tailored to your preference."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe or overripe peaches.",
+            "why_it_happens": "People often grab peaches that are too hard or too soft without checking ripeness, thinking any peach will do.",
+            "fix": "Choose peaches that yield slightly to gentle pressure but aren’t mushy. If peaches are underripe, let them ripen a day or two before making salsa for optimal sweetness and texture."
+        },
+        {
+            "mistake": "Not removing jalapeño seeds and membranes.",
+            "why_it_happens": "Some cooks underestimate how spicy those parts are or forget to remove them.",
+            "fix": "Slice the jalapeño carefully and scrape out seeds and white membranes with a spoon or knife to control heat. Taste a small piece first to gauge spiciness."
+        },
+        {
+            "mistake": "Skipping the lime juice.",
+            "why_it_happens": "Sometimes it’s overlooked as optional or forgotten in a rush.",
+            "fix": "Always add fresh lime juice; it brightens the salsa and prevents peaches from browning. If you don’t have lime, lemon juice can work as a last resort."
+        },
+        {
+            "mistake": "Chopping ingredients too roughly.",
+            "why_it_happens": "In a hurry, some just roughly chop, resulting in uneven texture and flavor distribution.",
+            "fix": "Take a few extra minutes to finely chop peaches, onions, jalapeños, and cilantro. This ensures every bite is balanced and enhances the eating experience."
+        },
+        {
+            "mistake": "Not letting the salsa rest before serving.",
+            "why_it_happens": "Impatience or lack of awareness about flavor development.",
+            "fix": "Allow salsa to sit at room temperature for 10 minutes after mixing. This resting time lets flavors marry and creates a more harmonious taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mango Peach Salsa",
+            "description": "Swap half the peaches with ripe mango for a tropical twist. Mango adds a creamy sweetness and slightly different texture, making the salsa even more vibrant and exotic.",
+            "technical_note": "Mango is softer than peaches, so chop a bit larger to keep texture contrast. Adjust lime and honey slightly to balance mango’s sweetness."
+        },
+        {
+            "name": "Spicy Peach Salsa with Habanero",
+            "description": "For those who love serious heat, replace jalapeño with a small amount of minced habanero. This amps up the spice significantly, so use sparingly and taste as you go.",
+            "technical_note": "Habanero is much hotter, so finely mince and add gradually. Consider wearing gloves to avoid skin irritation."
+        },
+        {
+            "name": "Peach Salsa with Cucumber",
+            "description": "Add diced cucumber for extra crunch and refreshing coolness. This variation lightens the salsa and adds a juicy bite that pairs well with spicy jalapeño.",
+            "technical_note": "Drain cucumber well to prevent watery salsa. Use firm, seedless varieties for best texture."
+        },
+        {
+            "name": "Peach Salsa with Avocado",
+            "description": "Fold in diced avocado just before serving for creamy richness. The avocado balances heat and adds a smooth texture that pairs beautifully with the sweet peaches.",
+            "technical_note": "Add avocado last to prevent browning and gently toss to avoid mashing."
+        },
+        {
+            "name": "Grilled Peach Salsa",
+            "description": "Lightly grill peach slices before dicing to introduce smoky flavor and caramelized sweetness. This variation adds depth and complexity, perfect for fall barbecues.",
+            "technical_note": "Cool peaches completely after grilling before mixing to keep salsa fresh."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "65 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "16g",
+        "fat_grams": "0.2g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This peach salsa can safely sit at room temperature for up to 2 hours when covered. Beyond that, it’s best to refrigerate to keep fresh and prevent spoilage.",
+        "refrigerator": "Store in an airtight container in the refrigerator for up to 3 days. The flavors deepen over time, but the peaches may release more juice, making the salsa a bit looser. Serve chilled or at room temperature.",
+        "freezer": "Freezing is not recommended as peaches and fresh herbs lose texture and flavor when thawed. For best quality, enjoy fresh within a few days.",
+        "reheating": "This salsa is best served cold or at room temperature and does not require reheating. If using as a topping on warm dishes, add just before serving to maintain freshness.",
+        "make_ahead_strategy": "You can prep all ingredients except lime juice and honey 1 day ahead, store chopped peaches and jalapeños separately in airtight containers. Add lime juice, honey, and mix just before serving to keep flavors bright."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peaches for this salsa?",
+            "answer": "Frozen peaches tend to be softer and release more liquid when thawed, which can make the salsa watery. If you use frozen, thaw and drain excess juice well, then adjust seasoning accordingly. Fresh peaches give the best texture and flavor."
+        },
+        {
+            "question": "How spicy is this salsa? Can I make it milder?",
+            "answer": "The heat comes from jalapeños and can be adjusted easily by removing all seeds and membranes or using less jalapeño. For a milder version, substitute with a sweet bell pepper or omit the pepper entirely."
+        },
+        {
+            "question": "What can I serve with this peach salsa?",
+            "answer": "It’s fantastic with tortilla chips, grilled chicken, fish tacos, or even as a topping on salads. The sweet and spicy flavors add a fresh twist to many dishes."
+        },
+        {
+            "question": "Can I prepare this salsa in advance?",
+            "answer": "Yes, but it’s best to mix all ingredients just before serving to keep peaches fresh and prevent browning. If prepping ahead, keep chopped ingredients separate and combine when ready."
+        },
+        {
+            "question": "Is this salsa gluten-free and vegan?",
+            "answer": "Absolutely! All ingredients are naturally gluten-free and vegan, making it a great option for various dietary needs."
+        },
+        {
+            "question": "Can I substitute honey with another sweetener?",
+            "answer": "Sure, you can use maple syrup or agave nectar as alternatives. Each will slightly change the flavor profile, but they maintain the natural sweetness needed to balance the salsa."
+        },
+        {
+            "question": "Why do I need to peel the peaches?",
+            "answer": "Peach skin can be tough and a little bitter, which may affect the salsa’s texture and flavor. Peeling ensures a smoother, sweeter salsa that tastes fresh and clean."
+        },
+        {
+            "question": "How do I store leftover salsa?",
+            "answer": "Keep leftovers in an airtight container in the fridge for up to 3 days. Stir before serving as juices may separate. It’s best enjoyed fresh but still tasty after a day or two."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this peach salsa as much as I do! It’s a simple, fresh way to brighten up any snack or meal. Don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "peach salsa recipe",
+        "secondary_keywords": [
+            "fresh peach salsa",
+            "easy fruit salsa",
+            "how to make peach salsa",
+            "best peach salsa recipe",
+            "easy peach salsa"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade salsa techniques",
+                "anchor": "homemade-salsa-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Sweet and Spicy Peach Salsa to Brighten Your Summer Parties"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "How to Make Peach Salsa with a Spicy Jalapeño Twist"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Fresh Peach Salsa: A Sweet and Spicy Dip You’ll Love"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Sweet and Spicy Peach Salsa to Brighten Your Summer Parties"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Quick Peach Salsa Recipe That’s Bursting with Flavor and Heat"
+        },
+        {
+            "fileName": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images/easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Sweet and Spicy Peach Salsa to Brighten Your Summer Parties"
+        }
+    ],
+    "id": "post_1784886413_135",
+    "slug": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor",
+    "isOnline": true,
+    "createdAt": "2026-07-24T10:49:29+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-24T10:49:29+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-homemade-peach-salsa-recipe-thats-bursting-with-fresh-flavor/images",
+    "has_reel": true
+}
