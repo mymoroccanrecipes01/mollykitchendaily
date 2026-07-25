@@ -1,0 +1,343 @@
+{
+    "title": "Creamy Watermelon Lemonade That’s Perfect for Hot Summer Days",
+    "promptIMG": "Food photography: Creamy Watermelon Lemonade, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy watermelon lemonade is just what you need on a scorching day. The splash of cream gives it a silky texture that’s surprisingly refreshing. I love serving it chilled at backyard picnics or lazy afternoons.",
+    "hashtags": "#watermelonlemonade #summerdrinks #refreshingbeverages",
+    "board_name": "Refreshing Summer Drinks",
+    "pin_variations": [
+        {
+            "title": "Discover This Creamy Watermelon Lemonade Recipe for Summer Bliss",
+            "description": "Looking for a unique twist on lemonade? This creamy watermelon version is silky, fruity, and so refreshing! Save this recipe and try it today for your next picnic or BBQ. 🍉🍋🥤 #summerdrinks #watermelon #lemonade"
+        },
+        {
+            "title": "Cool Off with This Smooth and Creamy Watermelon Lemonade",
+            "description": "Beat the heat with this luscious watermelon lemonade that’s creamy but light. Perfect for hot days and easy to make. Discover now and keep your summer cool! 🍹🌞 #refreshingdrink #summerrecipes #easybeverages"
+        },
+        {
+            "title": "Silky Watermelon Lemonade That’s a Game Changer This Summer",
+            "description": "This isn’t your ordinary lemonade — the cream adds a dreamy texture you’ll love. Perfect for backyard parties or a relaxing afternoon. Try it today and see why it’s a summer favorite! 🍉✨ #watermelonlemonade #summerfun #drinkrecipes"
+        },
+        {
+            "title": "Make This Creamy Watermelon Lemonade Your New Summer Go-To!",
+            "description": "This creamy watermelon lemonade is insanely refreshing and simple to whip up. It’s the perfect way to cool down and impress guests. Save the recipe and enjoy all summer long! 🍋💦🍉 #summerdrinks #easyrecipes #refreshing"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 cups fresh watermelon, cubed and chilled",
+        "1/2 cup freshly squeezed lemon juice",
+        "1/4 cup granulated sugar (adjust to taste)",
+        "1/2 cup heavy cream",
+        "2 cups cold water",
+        "Ice cubes, as needed",
+        "Fresh mint leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this creamy watermelon lemonade recipe a few summers ago when I wanted something different than the usual tart lemonade. I’d tried watermelon lemonade before, but adding cream was a game changer — it gave the drink this silky, luscious mouthfeel without making it heavy. The trick I learned was to use just a splash of heavy cream; too much and it overpowers the fresh fruit flavors, but just enough adds a smooth twist that’s surprisingly refreshing. I love making this for outdoor gatherings or when I just want a cooling treat after a hot day. The finished drink is beautifully pink, light, and balanced — fruity but creamy, with a subtle sweetness that’s not cloying. It’s a little indulgent yet still perfectly thirst-quenching, and I think you’ll find it hard to go back to regular lemonade after trying this!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by cutting fresh watermelon into cubes and chilling them well. Using chilled watermelon helps keep the drink cold and refreshing without diluting the flavor with too much ice later. Blend the watermelon cubes until smooth using a high-speed blender. This step is important because it releases all the juicy sweetness and natural water content from the fruit, which forms the base of your lemonade. Make sure to blend until completely smooth; any chunks will affect the texture of the final drink.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, liquid puree with no visible chunks"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, strain the watermelon puree through a fine mesh sieve into a large pitcher. This removes the pulp and seeds, giving you a silky smooth base. Press the pulp gently with a spoon to extract as much juice as possible without forcing solids through. Straining is key to achieving that creamy, smooth texture that makes this lemonade special. If you skip this step, the drink might feel gritty or overly pulpy, which isn’t as pleasant.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clear, smooth pink juice with no pulp or seeds"
+        },
+        {
+            "step": 3,
+            "instruction": "Add freshly squeezed lemon juice to the strained watermelon juice. Fresh lemon juice brightens the flavor with a tangy zing that balances the watermelon’s natural sweetness. Avoid bottled lemon juice here because it can taste artificial and dull the fresh vibe of the drink. Stir gently to combine the two liquids evenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Evenly mixed pink lemonade base with balanced tartness"
+        },
+        {
+            "step": 4,
+            "instruction": "Dissolve granulated sugar into cold water to make a simple syrup, then add it to the watermelon-lemon mixture. Stir well to ensure the sugar is fully dissolved. Adjust sweetness by tasting — watermelon can vary in sweetness, so you might want less or more sugar. This step is essential because granulated sugar doesn’t dissolve well directly in cold liquids, and undissolved sugar will leave a gritty texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sweetened lemonade base with no grainy sugar texture"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly pour in the heavy cream while stirring gently. The cream adds a rich, silky texture that’s surprisingly light when balanced with the fruit and lemon juice. Pouring it slowly while stirring helps it incorporate smoothly without curdling. If you add the cream too quickly or stir vigorously, it might separate or look curdled, which affects the drink’s appearance and mouthfeel.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smooth, creamy pink lemonade with uniform color"
+        },
+        {
+            "step": 6,
+            "instruction": "Add ice cubes to the pitcher or individual glasses to chill the lemonade further. Adding ice right before serving prevents the drink from diluting too much during blending or mixing. If you add ice too early, it melts and waters down the flavor. Serve immediately or keep chilled in the fridge until ready to enjoy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cold, refreshing drink with no watery taste"
+        },
+        {
+            "step": 7,
+            "instruction": "Garnish with fresh mint leaves or lemon slices if desired. This adds a lovely aroma and makes the presentation more inviting. The mint also complements the fruity, creamy flavors with a subtle herbaceous note.",
+            "timing": "1 minute",
+            "doneness_cue": "Attractive, fresh garnish enhancing the drink’s appeal"
+        },
+        {
+            "step": 8,
+            "instruction": "Give the lemonade a gentle stir before pouring into glasses to ensure all ingredients are well combined. Sometimes the cream can settle slightly, so a quick stir revives the smooth texture. Pour carefully to keep the creamy texture consistent in each serving.",
+            "timing": "1 minute",
+            "doneness_cue": "Evenly mixed, creamy lemonade in each glass"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your creamy watermelon lemonade immediately for the best flavor and texture. The creaminess tends to fade if left too long, and the fresh fruit flavors are brightest right after mixing. If you need to store it, keep it covered in the fridge and stir gently before serving again.",
+            "timing": "Immediate",
+            "doneness_cue": "Fresh, cool, and creamy drink with vibrant flavors"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Watermelon Lemonade Stands Out",
+        "content": "<p>One of the secrets to this recipe’s success is the balance of fresh ingredients and careful technique. Watermelon itself is mostly water with natural sugars and subtle flavor, so blending and straining it properly extracts the purest juice without pulp, which makes the drink smooth rather than gritty. The acidity from freshly squeezed lemon juice is essential to brighten the sweetness and add complexity.</p><p>The simple syrup step ensures the sugar dissolves completely, avoiding graininess that can spoil the mouthfeel. Adding cream might sound unusual in lemonade, but when done right, it creates a luscious texture that feels indulgent yet refreshing. The cream acts as an emulsifier, binding the water-based fruit juices and lemon juice together into a silky, harmonious drink.</p><p>Temperature control is also key — chilling the watermelon before blending and adding ice last keeps the drink cold and prevents dilution. The gentle stirring when adding cream and before serving ensures a uniform texture without curdling. This recipe’s success lies in these small but crucial details that transform a simple summer drink into something special.</p>",
+        "ingredient_notes": {
+            "Fresh Watermelon": "Choose a ripe, seedless watermelon that's heavy for its size and has a deep green rind with a creamy yellow spot where it rested on the ground. Ripe watermelon is sweet and juicy, which is essential because it forms the bulk of the drink’s flavor and liquid. Avoid watermelons that are underripe or mealy, as they will produce a bland juice. When handling, keep the watermelon chilled to maintain freshness and prevent dilution when blended.",
+            "Lemon Juice": "Use freshly squeezed lemons rather than bottled juice to get the bright, vibrant acidity that balances the watermelon’s sweetness. Fresh lemon juice has natural oils and a crisp flavor that bottled versions lack. It’s best to squeeze and strain the juice to avoid pulp, which could affect texture. The lemon’s acidity also helps preserve the drink’s color and freshness when stored briefly.",
+            "Granulated Sugar": "Sugar sweetens the tart lemon and juicy watermelon, but it must be fully dissolved to avoid a gritty texture. Making a simple syrup by dissolving sugar in water first ensures smooth sweetness. You can adjust the amount based on the watermelon’s natural sweetness and your taste preference. Alternative sweeteners like honey or agave can be used, but they may alter the flavor and mouthfeel.",
+            "Heavy Cream": "A splash of heavy cream adds a rich, silky texture that sets this lemonade apart. Heavy cream has enough fat to emulsify with the watery fruit juices without curdling when added slowly and stirred gently. Avoid using milk or half-and-half as they can separate more easily and produce a less creamy texture. The cream also softens the tartness, making the drink feel more indulgent but still light and refreshing.",
+            "Cold Water": "Cold water dilutes the concentrated fruit and sugar mixture to a pleasant drinking consistency. Using cold water helps keep the lemonade chilled and refreshing. Avoid warm or room temperature water, which could dissolve sugar unevenly and warm up the drink, affecting its texture and flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your watermelon before blending.",
+            "reason": "Cold watermelon helps keep the final drink cool without needing to add excessive ice, which can dilute the flavor. Blending chilled fruit also results in a fresher taste and better texture."
+        },
+        {
+            "tip": "Strain your watermelon juice for a silky texture.",
+            "reason": "Removing pulp prevents a gritty or chunky mouthfeel. Straining ensures the lemonade is smooth and appealing, especially when combined with cream."
+        },
+        {
+            "tip": "Add cream slowly while stirring gently.",
+            "reason": "Slow addition and gentle stirring prevent curdling. This technique helps the cream emulsify with the acidic lemon juice and watery fruit juice, creating a smooth, luscious texture."
+        },
+        {
+            "tip": "Make simple syrup instead of adding granulated sugar directly.",
+            "reason": "Sugar dissolves poorly in cold liquids; making simple syrup ensures no graininess and even sweetness throughout the lemonade."
+        },
+        {
+            "tip": "Use fresh lemon juice for brightness.",
+            "reason": "Fresh lemon juice has vibrant acidity and natural oils that enhance flavor and aroma, unlike bottled juice which can taste flat or artificial."
+        },
+        {
+            "tip": "Serve immediately after mixing.",
+            "reason": "The creamy texture and fresh flavors are best enjoyed right away. Letting it sit too long can cause separation and dullness."
+        },
+        {
+            "tip": "Garnish with fresh mint or lemon slices.",
+            "reason": "Garnishes add visual appeal and a subtle aromatic lift that complements the creamy watermelon lemonade’s flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding the cream too quickly or stirring vigorously.",
+            "why_it_happens": "Many assume cream can be mixed in like any other liquid, but acidic mixtures like lemonade can cause cream to curdle if handled roughly.",
+            "fix": "Pour the cream slowly in a thin stream while gently stirring to allow it to emulsify. This prevents separation and keeps the texture smooth."
+        },
+        {
+            "mistake": "Not straining the watermelon juice.",
+            "why_it_happens": "People often want to save time and skip straining, assuming blended fruit is fine as is.",
+            "fix": "Use a fine mesh sieve to remove pulp and seeds for a smooth texture. Press gently to extract maximum juice without pulp."
+        },
+        {
+            "mistake": "Using bottled lemon juice.",
+            "why_it_happens": "Convenience leads many to use bottled juice, but it lacks fresh acidity and flavor complexity.",
+            "fix": "Always squeeze fresh lemons for bright, natural flavor and aroma that bottled juice cannot replicate."
+        },
+        {
+            "mistake": "Adding sugar directly to cold liquid.",
+            "why_it_happens": "Sugar doesn’t dissolve well in cold liquids, leaving a grainy texture.",
+            "fix": "Make a simple syrup by dissolving sugar in warm water first, then cool and add to the lemonade mixture."
+        },
+        {
+            "mistake": "Adding too much ice early on.",
+            "why_it_happens": "Adding ice before blending or mixing can water down the drink as ice melts.",
+            "fix": "Blend and mix all ingredients first, then add ice just before serving to keep flavors concentrated."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mint-Infused Creamy Watermelon Lemonade",
+            "description": "Add a handful of fresh mint leaves to the blender with watermelon for a refreshing herbal twist. This variation adds a cool, fragrant note that pairs beautifully with the creamy texture and bright lemon.",
+            "technical_note": "Blend the mint leaves with watermelon, then strain as usual. Watch for bitterness if you use too much mint."
+        },
+        {
+            "name": "Coconut Cream Watermelon Lemonade",
+            "description": "Swap heavy cream for coconut cream to make a dairy-free version with tropical flair. The coconut adds subtle sweetness and richness, perfect for a summery vibe.",
+            "technical_note": "Use full-fat coconut cream and blend well to avoid separation. The drink will have a slightly different texture but remains creamy."
+        },
+        {
+            "name": "Sparkling Creamy Watermelon Lemonade",
+            "description": "Top the lemonade with sparkling water or club soda for a fizzy, light version. It’s extra refreshing and great for parties or brunch.",
+            "technical_note": "Add sparkling water just before serving to keep bubbles lively and avoid curdling."
+        },
+        {
+            "name": "Spicy Ginger Creamy Watermelon Lemonade",
+            "description": "Add freshly grated ginger to the blender for a spicy kick that contrasts nicely with the creamy sweetness. This variation adds warmth and complexity.",
+            "technical_note": "Use a small amount of ginger to avoid overpowering. Strain well to remove fibrous bits."
+        },
+        {
+            "name": "Honey-Sweetened Creamy Watermelon Lemonade",
+            "description": "Replace granulated sugar with honey for a natural sweetener that adds floral notes. This version is slightly thicker and richer in flavor.",
+            "technical_note": "Dissolve honey in warm water before mixing to ensure even sweetness and avoid graininess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "10mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This lemonade is best enjoyed immediately. If left at room temperature, it should be consumed within two hours to avoid spoilage, especially due to the dairy content. Keep it covered to prevent contamination.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 2 days. The cream may separate slightly, so stir gently before serving. The flavor remains fresh but the texture is best right after making.",
+        "freezer": "Not recommended to freeze creamy lemonade as the texture will degrade, causing separation and graininess upon thawing.",
+        "reheating": "This drink is served cold and should not be reheated. If too cold or thick, let it sit at room temperature for a few minutes and stir gently before serving.",
+        "make_ahead_strategy": "You can prepare the watermelon juice, lemon juice, and simple syrup up to 1 day ahead and keep refrigerated. Add cream and ice just before serving for best texture and freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use milk instead of heavy cream?",
+            "answer": "Milk is thinner and more likely to curdle when combined with acidic lemon juice, so it won’t produce the same creamy texture. Heavy cream’s fat content helps emulsify and create that silky mouthfeel. If avoiding dairy, try coconut cream as a substitute."
+        },
+        {
+            "question": "How do I make this lemonade less sweet?",
+            "answer": "Simply reduce the amount of sugar or simple syrup you add. Since watermelon is naturally sweet, you might find less sugar is needed. Taste as you go to find the perfect balance for your palate."
+        },
+        {
+            "question": "Why does the cream sometimes curdle?",
+            "answer": "Curdling happens when cream is added too quickly or stirred too vigorously into acidic liquids. To avoid this, add cream slowly in a thin stream while stirring gently to let it emulsify smoothly."
+        },
+        {
+            "question": "Can I prepare this lemonade in advance?",
+            "answer": "You can prepare the fruit juice and syrup components a day ahead and keep them refrigerated. Add cream and ice right before serving to maintain the creamy texture and freshness."
+        },
+        {
+            "question": "Is it necessary to strain the watermelon juice?",
+            "answer": "Straining removes pulp and seeds, giving a smooth, silky texture that complements the creaminess. Skipping this step can result in a gritty or chunky drink that’s less pleasant."
+        },
+        {
+            "question": "What if I don’t have fresh lemons?",
+            "answer": "Fresh lemon juice is best for bright acidity and flavor. Bottled lemon juice can taste flat or artificial and may affect texture. If you must use bottled, choose a high-quality one and adjust sweetness accordingly."
+        },
+        {
+            "question": "How long will leftovers keep?",
+            "answer": "Stored in the fridge in an airtight container, leftovers keep for up to 2 days. The texture may change slightly as the cream separates, so stir gently before serving."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes! Substitute heavy cream with coconut cream or another plant-based cream alternative. This will change the flavor slightly but keep the creamy texture."
+        }
+    ],
+    "conclusion": "Give this creamy watermelon lemonade a try — it’s a refreshing, unique twist on a summer classic. I’d love to hear how yours turns out, so don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "creamy watermelon lemonade",
+        "secondary_keywords": [
+            "summer watermelon drink",
+            "how to make watermelon lemonade",
+            "best watermelon lemonade recipe",
+            "easy creamy lemonade"
+        ],
+        "internal_links": [
+            {
+                "text": "classic homemade lemonade recipe",
+                "anchor": "classic-lemonade-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_1.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_2.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_3.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Silky Watermelon Lemonade That’s a Game Changer This Summer"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Cool Off with This Smooth and Creamy Watermelon Lemonade"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Discover This Creamy Watermelon Lemonade Recipe for Summer Bliss"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Discover This Creamy Watermelon Lemonade Recipe for Summer Bliss"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Discover This Creamy Watermelon Lemonade Recipe for Summer Bliss"
+        },
+        {
+            "fileName": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images/creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Make This Creamy Watermelon Lemonade Your New Summer Go-To!"
+        }
+    ],
+    "id": "post_1785022117_326",
+    "slug": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer",
+    "isOnline": true,
+    "createdAt": "2026-07-26T00:47:44+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-26T00:47:44+01:00",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "creamy-watermelon-lemonade-recipe-thats-refreshingly-easy-and-perfect-for-summer/images",
+    "has_reel": true
+}
