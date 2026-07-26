@@ -1,0 +1,354 @@
+{
+    "title": "Easy Air Fryer Chicken Stir Fry with Crispy Veggies and Noodles",
+    "promptIMG": "Food photography: Air Fryer Chicken Stir Fry with Noodles, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This air fryer chicken stir fry is a quick weeknight hero. Juicy chicken and crispy veggies get perfectly cooked before being tossed with silky noodles and a savory sauce. Ready in under 30 minutes—dinner solved!",
+    "hashtags": "#airfryerstirfry #chickenrecipes #quickdinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "30-Minute Air Fryer Chicken Stir Fry You’ll Love Tonight",
+            "description": "Craving something fast and flavorful? This air fryer chicken stir fry with noodles is packed with crispy veggies and tender chicken. Ready in under 30 minutes, it’s perfect for busy nights! 🍜🔥 Save this recipe now! #quickdinner #airfryercooking #healthymeals",
+            "hashtags": "#quickdinner #airfryercooking #healthymeals #weeknightrecipes #easymeals"
+        },
+        {
+            "title": "How to Make Crispy Veggie & Chicken Stir Fry in the Air Fryer",
+            "description": "Discover the secret to perfectly crispy veggies and juicy chicken in this air fryer stir fry. Tossed with silky noodles and a savory sauce, it’s a quick and delicious dinner idea. Try it today and impress your family! 🍽️✨ #airfryerstirfry #chickenrecipes #weeknightdinner",
+            "hashtags": "#airfryerstirfry #chickenrecipes #weeknightdinner #easyrecipes #familymeals"
+        },
+        {
+            "title": "Quick & Easy Air Fryer Noodle Stir Fry with Chicken and Veggies",
+            "description": "Need dinner fast? This air fryer noodle stir fry has juicy chicken, crisp veggies, and a tasty sauce all ready in under 30 minutes. Perfect for a no-fuss weeknight meal! 👩‍🍳💨 Give it a try and save it for later! #easymeals #airfryerrecipes #stirfry",
+            "hashtags": "#easymeals #airfryerrecipes #stirfry #quickrecipes #dinnerideas"
+        },
+        {
+            "title": "Weeknight Win: Crispy Air Fryer Chicken Stir Fry with Noodles",
+            "description": "Say goodbye to soggy stir fry! This recipe uses the air fryer to get chicken and veggies perfectly crispy, then combines them with noodles and a flavorful sauce. Ready fast and tastes amazing. Save this one! 🍗🥢 #weeknightmeals #airfryercooking #stirfryrecipes",
+            "hashtags": "#weeknightmeals #airfryercooking #stirfryrecipes #healthyfood #quickdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 boneless skinless chicken breasts, cut into bite-sized pieces",
+        "2 cups broccoli florets",
+        "1 red bell pepper, sliced",
+        "1 medium carrot, julienned",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "2 tablespoons soy sauce",
+        "1 tablespoon hoisin sauce",
+        "1 teaspoon sesame oil",
+        "8 ounces rice noodles",
+        "2 tablespoons vegetable oil",
+        "Salt and pepper to taste",
+        "Sesame seeds and chopped green onions for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this air fryer chicken stir fry on a frantic weeknight when I had zero time but major hunger. I was tired of soggy stir fry from the pan and wanted something with crispy veggies and juicy chicken—without the fuss. Using the air fryer was a game changer. The chicken comes out tender, the veggies crisp, and everything cooks evenly without standing over the stove. What makes this version different is tossing everything with silky rice noodles and a homemade sauce that’s tangy and a little sweet. It’s quick, less messy, and hits all the right notes for a comforting dinner. Plus, you can prep most ingredients ahead, so it’s perfect for busy families or anyone craving a fast, delicious meal. The trick I learned? Air frying the chicken and veggies separately to get that crisp texture, then combining everything at the end. The finished dish is colorful, packed with flavor, and satisfying without being heavy. I think you’ll love how simple it is to get a restaurant-quality stir fry right at home!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing your chicken pieces—pat them dry with paper towels to remove excess moisture. This helps the chicken crisp up nicely in the air fryer instead of steaming. Season with salt and pepper and toss with a tablespoon of vegetable oil to promote even browning. Preheating the air fryer to 400°F ensures the chicken cooks quickly and develops a nice golden crust. Arrange the chicken in a single layer, avoiding overcrowding which can cause sogginess. Cooking in batches might be necessary. This step is crucial because dry, well-oiled chicken will get that perfect texture we want.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken pieces are golden brown on the outside and no longer pink inside when cut."
+        },
+        {
+            "step": 2,
+            "instruction": "While the chicken cooks, prep your veggies. Toss broccoli, bell pepper slices, and julienned carrots with the remaining vegetable oil, salt, and pepper. Once the chicken is done, remove it and air fry the veggies at 400°F for about 8 minutes. This high heat crisps the outside while keeping the insides tender. Keep an eye so they don’t burn; shaking the basket halfway helps even cooking. This separate cooking step prevents the veggies from becoming mushy and keeps their vibrant color and crunch.",
+            "timing": "8 minutes",
+            "doneness_cue": "Veggies are bright, slightly charred on edges, and tender-crisp when pierced with a fork."
+        },
+        {
+            "step": 3,
+            "instruction": "Cook the rice noodles according to package instructions, usually soaking in hot water until tender but still slightly firm. Drain and rinse with cold water to stop the cooking and prevent sticking. Toss with a drizzle of sesame oil to keep them separate and add flavor. Properly cooked noodles provide a silky texture that balances the crispy chicken and veggies perfectly. Avoid overcooking or the noodles will become mushy and overpower the dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Noodles are soft but still hold shape without breaking apart."
+        },
+        {
+            "step": 4,
+            "instruction": "Mix together the sauce ingredients: soy sauce, hoisin sauce, minced garlic, and grated ginger. This blend adds both sweetness and umami depth to the stir fry. The fresh ginger gives it a zingy brightness, while hoisin adds a subtle sweetness that balances the salty soy. Stir well to combine and set aside. Making the sauce ahead lets the flavors meld, which really shines in the final dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce is smooth and well blended with no lumps."
+        },
+        {
+            "step": 5,
+            "instruction": "In a large mixing bowl, combine the cooked chicken, crispy veggies, and noodles. Pour the sauce over and gently toss everything together so each piece is coated evenly. Be gentle to avoid breaking the noodles. The warmth of the chicken and veggies helps the sauce soak in without making the noodles soggy. This final toss brings all elements together for a harmonious balance of flavors and textures.",
+            "timing": "3 minutes",
+            "doneness_cue": "All ingredients are coated uniformly with sauce and look glossy."
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the stir fry to a serving dish and garnish with a sprinkle of toasted sesame seeds and chopped green onions. These finishing touches add a nutty crunch and fresh bite that elevate the dish’s flavor and presentation. Don’t skip this step—it makes the meal feel special and restaurant-quality.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks vibrant with colorful garnishes and inviting aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately while warm. If you want extra heat, add a splash of chili oil or sriracha. The contrast of textures—crispy chicken, crunchy veggies, and silky noodles—makes every bite satisfying. This dish pairs well with a simple side salad or steamed rice if you want to stretch it further.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is hot and ready to enjoy."
+        },
+        {
+            "step": 8,
+            "instruction": "If prepping ahead, cook chicken and veggies but hold off mixing with noodles and sauce until ready to serve. Reheat gently in the air fryer or skillet to maintain crispness. Toss with fresh noodles and sauce last minute to keep textures perfect.",
+            "timing": "varies",
+            "doneness_cue": "Reheated components remain crisp and flavorful."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your air fryer basket promptly after use to prevent buildup of oils and bits. This keeps your appliance working efficiently and avoids flavor transfer in future recipes. A quick wipe with a damp cloth and mild detergent usually does the trick.",
+            "timing": "5 minutes",
+            "doneness_cue": "Basket is clean and ready for next use."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Air Fryer Stir Fry Works So Well",
+        "content": "<p>This recipe shines because the air fryer cooks the chicken and veggies separately at high heat, which crisps their exterior without overcooking the interior. Unlike traditional stir frying, where everything hits the pan at once and can steam or get soggy, the air fryer’s circulating hot air promotes Maillard browning on the chicken and caramelization on the vegetables. This creates layers of flavor and texture that feel restaurant-quality yet are easy to achieve at home.</p><p>The sauce balances salty, sweet, and aromatic notes from soy, hoisin, garlic, and ginger. These ingredients work synergistically: soy sauce provides umami, hoisin adds sweetness and depth, garlic offers pungency, and ginger gives a fresh zing. Tossing the cooked ingredients with the sauce off heat prevents the noodles from becoming mushy and keeps the dish vibrant.</p><p>Rice noodles are soaked rather than boiled to maintain their delicate texture and prevent overcooking. Tossing noodles with sesame oil after draining keeps them from sticking and adds a subtle nutty flavor that complements the air-fried components. The final toss combines everything gently to coat but not break the noodles, preserving their silky mouthfeel alongside the crispy chicken and veggies.</p><p>Separating cooking steps and using the air fryer also cuts down on oil usage and cleanup, making this stir fry a healthier and more convenient option without sacrificing flavor or texture. It’s a smart approach that yields a balanced, satisfying meal every time.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh boneless skinless chicken breasts for tender, juicy meat. Patting them dry before cooking removes surface moisture, which is essential for crisping in the air fryer. Avoid frozen chicken unless fully thawed, as excess water causes steaming instead of browning. If desired, you can substitute chicken thighs for more flavor, but adjust cooking time accordingly.",
+            "broccoli florets": "Pick firm, bright green broccoli with tight florets for the best texture. Smaller florets cook more evenly and crisp up better in the air fryer. Avoid limp or yellowing stalks as they won’t crisp well. You can substitute with other sturdy veggies like cauliflower or snap peas, but adjust timing based on density.",
+            "rice noodles": "Opt for thin or medium-width rice noodles soaked in hot water rather than boiled to prevent them from becoming mushy. Rinsing in cold water after soaking stops residual cooking and helps maintain their delicate texture. Tossing with a little sesame oil keeps noodles from sticking and adds flavor. Avoid overcooking, which leads to clumping and loss of silkiness.",
+            "soy sauce": "Use naturally brewed soy sauce for depth of flavor and balanced saltiness. Light soy sauce works well here for seasoning without overpowering. Avoid low-quality or overly salty brands as they can dominate the dish. Tamari is a good gluten-free alternative. The soy sauce’s umami enhances the savory notes of chicken and veggies.",
+            "hoisin sauce": "Hoisin adds a subtle sweetness and complexity that balances the salty soy and sharp ginger. Choose a good-quality hoisin with natural ingredients for the best flavor. It thickens the sauce slightly, helping it cling to the noodles and proteins. If you can’t find hoisin, a mix of honey and a small amount of soy sauce can substitute but the flavor won’t be quite the same."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry the chicken thoroughly before air frying.",
+            "reason": "Removing surface moisture is key for achieving a crispy exterior. If the chicken is wet, it steams instead of browns, resulting in a soggy texture. This simple step ensures the Maillard reaction happens properly, giving you that golden crust and rich flavor."
+        },
+        {
+            "tip": "Cook veggies separately from the chicken in the air fryer.",
+            "reason": "Different ingredients have different cooking times and moisture levels. Cooking veggies alone prevents overcrowding, allowing hot air to circulate and crisp the vegetables rather than steaming them. This keeps their color bright and texture crunchy."
+        },
+        {
+            "tip": "Soak rice noodles instead of boiling them.",
+            "reason": "Boiling can easily overcook rice noodles, making them mushy and sticky. Soaking in hot water softens them gently, preserving their delicate texture. Rinsing with cold water stops cooking immediately and helps separate the strands."
+        },
+        {
+            "tip": "Add sesame oil to noodles after draining.",
+            "reason": "A little sesame oil prevents noodles from sticking together and adds a subtle nutty flavor that complements the stir fry. It also helps the sauce adhere better when tossed with noodles and other ingredients."
+        },
+        {
+            "tip": "Toss ingredients gently when combining with sauce.",
+            "reason": "Rice noodles are fragile and can break easily. Gentle tossing ensures the noodles stay intact and maintain their silky texture, while the sauce coats everything evenly for balanced flavor."
+        },
+        {
+            "tip": "Preheat the air fryer before cooking chicken.",
+            "reason": "Preheating ensures the chicken hits a hot environment immediately, which helps develop a crispy crust quickly and seals in juices. Skipping this can cause uneven cooking and dryness."
+        },
+        {
+            "tip": "Use fresh ginger and garlic for the sauce.",
+            "reason": "Fresh aromatics provide vibrant flavor and a spicy zing that dried powders can’t match. They brighten the sauce and lift the whole dish, making it taste fresher and more complex."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the air fryer basket.",
+            "why_it_happens": "It’s tempting to cook everything at once to save time, but overcrowding traps steam, preventing crisping.",
+            "fix": "Cook chicken and veggies in batches if needed, leaving space around pieces. This allows hot air to circulate properly for even browning and crispiness."
+        },
+        {
+            "mistake": "Skipping drying the chicken before cooking.",
+            "why_it_happens": "Many assume rinsing is enough, but moisture on the surface causes steaming.",
+            "fix": "Use paper towels to pat chicken dry thoroughly before seasoning and cooking to promote browning."
+        },
+        {
+            "mistake": "Overcooking rice noodles.",
+            "why_it_happens": "Boiling noodles too long makes them mushy and sticky.",
+            "fix": "Soak noodles in hot water just until tender, then rinse with cold water to stop cooking immediately."
+        },
+        {
+            "mistake": "Mixing sauce with hot noodles too early.",
+            "why_it_happens": "Hot noodles absorb sauce quickly and get soggy.",
+            "fix": "Toss sauce with chicken and veggies first, then combine with noodles gently off heat."
+        },
+        {
+            "mistake": "Using low-quality soy or hoisin sauce.",
+            "why_it_happens": "Cheap sauces can be overly salty or artificial-tasting.",
+            "fix": "Choose naturally brewed soy sauce and good-quality hoisin for balanced flavor and better depth."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Air Fryer Stir Fry",
+            "description": "Add 1-2 teaspoons of sriracha or chili garlic sauce to the stir fry sauce for a spicy kick. You can also sprinkle crushed red pepper flakes on top before serving. This variation adds heat and depth, perfect if you like a little fire in your meals.",
+            "technical_note": "Adjust the amount of spicy sauce to taste and toss gently to avoid overpowering the other flavors."
+        },
+        {
+            "name": "Vegetarian Air Fryer Stir Fry",
+            "description": "Skip the chicken and double the veggies, adding mushrooms and snap peas for extra texture. Toss with tofu cubes air fried until golden. This version is just as satisfying and packed with plant-based protein.",
+            "technical_note": "Press tofu well before air frying to remove moisture and ensure crispiness."
+        },
+        {
+            "name": "Peanut Sauce Stir Fry",
+            "description": "Swap the hoisin and soy sauce for a creamy peanut sauce made with peanut butter, soy sauce, lime juice, and a touch of honey. It adds a rich, nutty flavor that’s delicious with the crispy chicken and veggies.",
+            "technical_note": "Thin the peanut sauce with warm water to desired consistency before tossing."
+        },
+        {
+            "name": "Low-Carb Zucchini Noodle Stir Fry",
+            "description": "Replace rice noodles with spiralized zucchini noodles for a lighter, low-carb option. Cook zucchini noodles separately for just 1-2 minutes to keep them crisp and avoid sogginess when mixed with hot ingredients.",
+            "technical_note": "Zucchini noodles release water quickly, so cook briefly and drain excess moisture."
+        },
+        {
+            "name": "Honey-Garlic Glazed Stir Fry",
+            "description": "Add a tablespoon of honey to the sauce for a sweet glaze that caramelizes lightly on the chicken and veggies. This gives the dish a sticky, flavorful finish that’s irresistible.",
+            "technical_note": "Monitor cooking closely after adding honey to prevent burning due to sugar content."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "750mg",
+        "note": "Nutritional values are estimates based on typical ingredient brands and may vary depending on exact portions and substitutions."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond that, bacteria risk increases so refrigeration is best.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The noodles may absorb sauce and soften over time. Reheat gently in a skillet or air fryer to revive some crispness, adding a splash of water or broth if too dry.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the refrigerator before reheating gently.",
+        "reheating": "Reheat in a hot skillet over medium heat or in the air fryer at 350°F for 5-7 minutes to restore crispiness. Avoid microwaving as it can make noodles soggy. Add a splash of water or broth if the dish feels dry.",
+        "make_ahead_strategy": "Cook and cool chicken and veggies separately a day ahead. Store noodles and sauce separately. On serving day, warm chicken and veggies in the air fryer, then toss with noodles and sauce for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen chicken for this recipe?",
+            "answer": "It’s best to use fully thawed chicken for even cooking and crispiness. Frozen chicken releases excess moisture which can cause steaming instead of browning in the air fryer. If you must use frozen, thaw completely in the fridge first and pat dry thoroughly before cooking."
+        },
+        {
+            "question": "What if I don’t have an air fryer?",
+            "answer": "You can cook the chicken and veggies in a hot skillet or wok using a little oil. Cook chicken first until browned, then stir fry veggies separately to keep them crisp. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How do I prevent noodles from sticking together?",
+            "answer": "After cooking, rinse the noodles under cold water and toss with a little sesame oil. This coats the strands and prevents clumping. Also, avoid overcooking noodles as mushy noodles tend to stick more."
+        },
+        {
+            "question": "Can I make this stir fry gluten-free?",
+            "answer": "Yes! Use gluten-free tamari instead of soy sauce and ensure your hoisin sauce is gluten-free or substitute with a mix of honey and gluten-free soy sauce. Double-check noodle ingredients too—rice noodles are naturally gluten-free."
+        },
+        {
+            "question": "What veggies work best in this stir fry?",
+            "answer": "Broccoli, bell peppers, carrots, snap peas, and mushrooms are all great choices. Choose firm, fresh veggies that crisp up nicely in the air fryer. Avoid watery veggies like zucchini unless you add them last to prevent sogginess."
+        },
+        {
+            "question": "How spicy is this recipe? Can I adjust it?",
+            "answer": "This base recipe is mild and kid-friendly. You can easily add heat by mixing in sriracha, chili flakes, or fresh chilies to the sauce or as garnish. Adjust to taste depending on your spice preference."
+        },
+        {
+            "question": "Why do I need to cook chicken and veggies separately?",
+            "answer": "They have different cooking times and moisture levels. Cooking separately prevents steaming and ensures both get crispy without overcooking. Combining them too early can make veggies soggy and chicken dry."
+        },
+        {
+            "question": "Can I substitute noodles with rice or quinoa?",
+            "answer": "Yes, cooked rice or quinoa can be served alongside instead of noodles. Keep in mind the texture will be different—noodles add a silky, chewy element that rice or quinoa don’t replicate exactly."
+        }
+    ],
+    "conclusion": "Give this air fryer chicken stir fry a go—you’ll love how easy and tasty it is! Don’t forget to share your results and tweaks; I always enjoy hearing your kitchen wins.",
+    "seo": {
+        "primary_keyword": "air fryer chicken stir fry",
+        "secondary_keywords": [
+            "easy chicken stir fry",
+            "quick air fryer dinners",
+            "how to make stir fry noodles",
+            "best air fryer stir fry recipe",
+            "easy air fryer chicken recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade stir fry sauce recipe",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Quick & Easy Air Fryer Noodle Stir Fry with Chicken and Veggies"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "30-Minute Air Fryer Chicken Stir Fry You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make Crispy Veggie & Chicken Stir Fry in the Air Fryer"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "30-Minute Air Fryer Chicken Stir Fry You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "30-Minute Air Fryer Chicken Stir Fry You’ll Love Tonight"
+        },
+        {
+            "fileName": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images/easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Weeknight Win: Crispy Air Fryer Chicken Stir Fry with Noodles"
+        }
+    ],
+    "id": "post_1785107903_256",
+    "slug": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-07-27T00:28:01+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-27T00:28:01+01:00",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-air-fryer-stir-fry-recipes-with-noodles-for-quick-weeknight-dinners/images",
+    "has_reel": true
+}
