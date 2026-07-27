@@ -1,0 +1,345 @@
+{
+    "title": "Quick and Cozy Breakfast Scramble to Start Your Busy Mornings Right",
+    "promptIMG": "Food photography: Breakfast Scramble, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This breakfast scramble is my lifesaver on hectic mornings. It’s packed with veggies and cheese, whipped up in under 15 minutes. Great for a quick, nourishing start that keeps you fueled.",
+    "hashtags": "#breakfast #quickmeals #healthystart",
+    "board_name": "Easy Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day with This Easy Veggie Breakfast Scramble!",
+            "description": "Looking for a fast, healthy breakfast? This veggie scramble is loaded with flavor and ready in no time. Save this recipe and enjoy a wholesome morning boost! 🥚🌿 #BreakfastIdeas #QuickMeals #HealthyEating"
+        },
+        {
+            "title": "Busy Morning? Try This Quick and Tasty Breakfast Scramble Now!",
+            "description": "No time to mess around? This scramble comes together in 15 minutes and tastes amazing. Perfect for busy days when you need a nutritious lift. Try it today! 🍳✨ #EasyBreakfast #MorningFuel #QuickRecipes"
+        },
+        {
+            "title": "Whip Up This Cozy Breakfast Scramble for a Comforting Start",
+            "description": "Craving something warm and satisfying? This breakfast scramble hits the spot with fresh veggies and melty cheese. Discover this easy recipe and brighten your morning! 🥄🌞 #ComfortFood #BreakfastRecipe #SimpleMeals"
+        },
+        {
+            "title": "Fuel Your Day Fast with This Simple and Delicious Breakfast Scramble",
+            "description": "Need a quick, nourishing breakfast? This scramble is packed with protein and veggies, ready in a flash. Save this for your next busy morning! 🍅🥚 #HealthyBreakfast #QuickAndEasy #MealPrep"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 5,
+    "servings": 2,
+    "ingredients": [
+        "4 large eggs, beaten",
+        "1/4 cup milk, any kind",
+        "1/2 cup cherry tomatoes, halved",
+        "1/4 cup bell pepper, diced",
+        "1/4 cup spinach, chopped",
+        "1/4 cup shredded cheddar cheese",
+        "1 tablespoon olive oil",
+        "Salt and pepper, to taste"
+    ],
+    "yield": "2 servings",
+    "introduction": "I've always loved a good breakfast scramble — it's quick, comforting, and endlessly adaptable. This recipe came about on a hectic weekday when I needed something nourishing but fuss-free. Instead of the usual plain eggs, I like adding fresh veggies like cherry tomatoes, bell peppers, and spinach to brighten it up and sneak in some nutrients. The trick I learned is to whisk the eggs with a bit of milk; it makes the scramble fluffier and creamier. I also use olive oil instead of butter for a lighter feel and a subtle fruity flavor. The cheese melts in beautifully, tying everything together. The finished scramble is moist but not runny, with vibrant colors and a lovely balance of textures. It's perfect for busy mornings when you want something homemade but don’t have time to stand over the stove for long. Plus, it reheats well if you want to make a little extra for the next day. I think you’ll love how fast and satisfying it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whisking the eggs with the milk in a bowl until the mixture is smooth and slightly frothy. This step is crucial because the milk adds moisture, making the scramble tender and fluffy rather than rubbery. Whisking incorporates air, which helps create that light texture we all love. Avoid over-beating, though, or the eggs might become too watery. Once combined, season lightly with salt and pepper to enhance the flavors of the eggs and veggies.",
+            "timing": "3 minutes",
+            "doneness_cue": "Egg mixture should look uniform, slightly frothy, and pale yellow."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat the olive oil in a medium non-stick skillet over medium heat. Once shimmering, add the diced bell peppers and sauté for about 2 minutes until they start to soften. This gentle cooking releases their sweetness and prevents them from remaining crunchy in the scramble. If you add them too late or skip this step, the peppers might stay raw and overpower the dish. After the peppers soften, toss in the cherry tomatoes and spinach, cooking just until the spinach wilts and tomatoes soften slightly, about 1 minute.",
+            "timing": "4 minutes",
+            "doneness_cue": "Veggies should be tender but still vibrant in color, not mushy."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the beaten egg mixture evenly over the cooked veggies in the skillet. Let it sit undisturbed for about 20 seconds so the edges start to set. This step helps create those soft curds we want in a scramble. Resist the urge to stir immediately, or the eggs won’t have a chance to form texture. Once the edges begin to firm up, gently stir with a spatula, folding the eggs from the edges toward the center.",
+            "timing": "2 minutes",
+            "doneness_cue": "Eggs start to thicken at edges but remain slightly runny on top."
+        },
+        {
+            "step": 4,
+            "instruction": "Keep gently stirring and folding the eggs every 10-15 seconds, allowing them to cook evenly without drying out. The key here is patience; rushing will cause the eggs to become rubbery. When the eggs are mostly cooked but still a little moist, sprinkle the shredded cheddar cheese over the top. The residual heat will melt the cheese, adding creaminess and a rich flavor. Stir once more to combine everything.",
+            "timing": "3 minutes",
+            "doneness_cue": "Eggs look soft, creamy, and slightly glossy with melted cheese."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the skillet from heat just before the eggs look fully set, as they will continue cooking from residual heat. Overcooking is a common mistake that leads to dry, tough scramble. Let it rest for a minute in the pan, then season with additional salt and pepper if needed. Serve immediately with toast or fresh fruit for a balanced breakfast.",
+            "timing": "1 minute",
+            "doneness_cue": "Eggs are soft, moist, and slightly shiny without excess liquid."
+        },
+        {
+            "step": 6,
+            "instruction": "For extra flavor, try adding fresh herbs like chives or parsley just before serving. They add a fresh, aromatic touch that brightens the dish beautifully. Chop finely and sprinkle on top once the eggs are plated. This step is optional but highly recommended for a restaurant-quality finish at home.",
+            "timing": "1 minute",
+            "doneness_cue": "Herbs look fresh and vibrant, enhancing the dish visually and aromatically."
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to prepare ahead, cook the scramble without cheese and store it in an airtight container in the fridge. When reheating, add cheese at the end to keep it melty and fresh. Reheat gently on low heat or in short bursts in the microwave to avoid overcooking.",
+            "timing": "N/A",
+            "doneness_cue": "Reheated scramble should be warm and creamy, not dry."
+        },
+        {
+            "step": 8,
+            "instruction": "To make it vegan, substitute eggs with a chickpea flour batter and use plant-based cheese. The cooking technique remains similar but watch the batter closely as it firms up differently than eggs. This swap is great for those avoiding animal products but wanting a similar texture and flavor profile.",
+            "timing": "N/A",
+            "doneness_cue": "Vegan scramble should be firm but tender, with golden spots."
+        },
+        {
+            "step": 9,
+            "instruction": "Feel free to customize the veggies based on season or preference—mushrooms, zucchini, or onions work well too. Just sauté them first to soften and develop flavor before adding eggs. This flexibility makes the scramble a perfect canvas for whatever’s in your fridge.",
+            "timing": "N/A",
+            "doneness_cue": "Vegetables are tender and well-integrated with eggs."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Breakfast Scramble Works Perfectly Every Time",
+        "content": "<p>Eggs are the star here, and the key to a fluffy scramble lies in how you treat them before cooking. Adding milk dilutes the proteins slightly, which prevents the eggs from becoming rubbery and helps create a tender texture. Whisking incorporates air, which expands during cooking, giving the scramble volume and lightness.</p><p>Cooking the veggies first is essential because it softens them and brings out their natural sweetness through gentle caramelization. This step also prevents excess moisture from the raw vegetables diluting the eggs, which would make the scramble watery. The timing of adding tomatoes and spinach is strategic; they cook quickly and retain their vibrant color and texture.</p><p>The gentle folding technique during cooking allows the eggs to form soft curds without drying out. Stirring too vigorously or too often breaks down the curds into a uniform mass, losing the desired texture. Removing the pan from heat just before the eggs are fully set ensures they stay creamy, as residual heat finishes the cooking. The melted cheese adds richness and a slight tang, complementing the veggies and eggs perfectly.</p><p>Olive oil, chosen over butter, imparts a subtle fruity flavor and keeps the scramble lighter. It also handles medium heat well without burning, which is important to cook the eggs gently. This balance of ingredients and technique results in a scramble that’s moist, flavorful, and satisfying every time.</p>",
+        "ingredient_notes": {
+            "eggs": "Choose fresh, large eggs for the best texture and flavor. Fresh eggs have firmer whites and yolks that hold together better, which contributes to a fluffier scramble. Older eggs tend to spread more in the pan, making the scramble less cohesive. Organic or free-range eggs often have richer flavor and deeper yolk color, enhancing the dish visually and taste-wise.",
+            "milk": "Whole milk adds creaminess, but you can use 2% or even plant-based milk if you prefer. Milk’s water content helps regulate the eggs’ protein coagulation, resulting in a softer texture. Avoid using too much milk, or the eggs will become watery and won’t set properly. The milk also helps prevent curds from becoming tough during cooking.",
+            "olive oil": "Use a good-quality extra virgin olive oil with a mild, fruity flavor. Olive oil withstands medium heat well and adds a subtle depth without overpowering the eggs. Avoid using oils with low smoke points, as overheating can cause bitter flavors. Olive oil also keeps the scramble lighter compared to butter, which adds richness but more saturated fat.",
+            "vegetables": "Fresh, crisp vegetables like cherry tomatoes, bell peppers, and spinach provide texture, color, and nutrients. Sautéing them beforehand softens their fibers and releases natural sugars, enhancing sweetness and preventing watery scramble. Choose ripe, firm veggies to avoid soggy results. Frozen vegetables can be used but should be thawed and drained thoroughly to keep the scramble from becoming watery.",
+            "cheddar cheese": "Sharp cheddar melts beautifully, adding creamy richness and a slight tang that complements the eggs and veggies. Use freshly shredded cheese rather than pre-shredded to avoid additives that inhibit melting. You can substitute with other cheeses like Monterey Jack or mozzarella for different flavors and textures, but cheddar’s balance of flavor and meltability is ideal."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk eggs and milk until slightly frothy before cooking.",
+            "reason": "Whisking incorporates air bubbles that expand during cooking, making the scramble lighter and fluffier. The milk adds moisture, preventing toughness. Skipping this results in denser, rubbery eggs."
+        },
+        {
+            "tip": "Sauté vegetables separately before adding eggs.",
+            "reason": "Cooking veggies first softens them and releases sweetness. It also reduces moisture that would otherwise make the scramble watery. Adding raw veggies directly can result in uneven texture and sogginess."
+        },
+        {
+            "tip": "Cook eggs over medium to medium-low heat.",
+            "reason": "Gentle heat allows eggs to coagulate slowly, forming tender curds without drying out. High heat cooks eggs too fast, causing rubbery texture and uneven cooking."
+        },
+        {
+            "tip": "Remove pan from heat just before eggs are fully set.",
+            "reason": "Residual heat finishes cooking the eggs, keeping them moist and creamy. Leaving eggs on heat too long causes overcooking and dryness."
+        },
+        {
+            "tip": "Use a non-stick skillet and a silicone spatula.",
+            "reason": "Non-stick pans prevent sticking and make gentle folding easier. Silicone spatulas are flexible and won’t break curds, preserving the scramble’s soft texture."
+        },
+        {
+            "tip": "Add cheese at the end of cooking.",
+            "reason": "Adding cheese too early can cause it to separate or burn. Adding it last allows it to melt smoothly into the warm eggs, creating a luscious texture."
+        },
+        {
+            "tip": "Season lightly at the start and adjust at the end.",
+            "reason": "Salt draws moisture from eggs and veggies, affecting texture. Seasoning early helps flavor develop but too much can make scramble watery. Tasting and adjusting at the end ensures balanced seasoning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking eggs on too high heat",
+            "why_it_happens": "Many cooks rush to finish breakfast quickly and crank up the heat, thinking it saves time.",
+            "fix": "Use medium or medium-low heat and be patient. Slow cooking forms tender curds and prevents dryness. If eggs cook too fast, remove pan from heat sooner."
+        },
+        {
+            "mistake": "Skipping sautéing vegetables",
+            "why_it_happens": "People often want to save time or simplify steps by adding raw veggies directly.",
+            "fix": "Take a few extra minutes to soften veggies first. This enhances flavor and prevents watery scramble. Cook veggies until tender but not mushy."
+        },
+        {
+            "mistake": "Over-beating eggs with milk",
+            "why_it_happens": "Trying to make eggs fluffy, some beat eggs aggressively until very liquid.",
+            "fix": "Whisk gently until combined and slightly frothy. Over-beating breaks down proteins too much, resulting in watery eggs that don’t set well."
+        },
+        {
+            "mistake": "Adding cheese too early",
+            "why_it_happens": "Eager to have melty cheese, some add it at the start.",
+            "fix": "Add cheese near the end to avoid separation or burning. Melt cheese on warm eggs off heat for best texture."
+        },
+        {
+            "mistake": "Not removing from heat before fully cooked",
+            "why_it_happens": "Assuming eggs are done only when firm leads to overcooking.",
+            "fix": "Take pan off heat when eggs are still slightly runny; they’ll finish cooking off heat, staying moist."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom and Swiss Cheese Scramble",
+            "description": "Swap bell peppers and tomatoes for sautéed mushrooms and use Swiss cheese instead of cheddar. This gives a nuttier, earthier flavor and a creamier cheese texture. Mushrooms add umami and a meaty bite, perfect for mushroom lovers.",
+            "technical_note": "Cook mushrooms until golden to release moisture before adding eggs, ensuring scramble isn’t watery."
+        },
+        {
+            "name": "Spicy Southwest Scramble",
+            "description": "Add diced jalapeños, corn, and black beans with a sprinkle of cumin and chili powder. Top with pepper jack cheese and fresh cilantro for a spicy, vibrant twist. Great for fans of bold flavors and Tex-Mex cuisine.",
+            "technical_note": "Sauté spicy peppers gently to mellow heat before combining with eggs."
+        },
+        {
+            "name": "Herbed Goat Cheese and Asparagus Scramble",
+            "description": "Use tender asparagus tips and dollops of creamy goat cheese. Fresh herbs like tarragon or chives brighten the dish. This version is elegant and light, perfect for weekend brunch.",
+            "technical_note": "Blanch asparagus briefly before sautéing to keep texture crisp-tender."
+        },
+        {
+            "name": "Vegan Chickpea Flour Scramble",
+            "description": "Replace eggs with a batter of chickpea flour, water, and spices. Add your favorite veggies and nutritional yeast for cheesy flavor. This scramble is protein-packed and perfect for vegan diets.",
+            "technical_note": "Cook batter slowly to firm up without burning; texture differs from eggs but is similarly satisfying."
+        },
+        {
+            "name": "Italian Style Scramble with Sun-Dried Tomatoes and Basil",
+            "description": "Add chopped sun-dried tomatoes and fresh basil to the eggs. Finish with Parmesan cheese for a Mediterranean flair. This scramble pairs well with crusty bread and a cup of espresso.",
+            "technical_note": "Rehydrate sun-dried tomatoes before cooking to soften and release flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "24g",
+        "fiber_grams": "2g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The scramble can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly to keep it safe.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The scramble may firm up and lose some creaminess when cold; reheat gently to restore softness. Avoid overheating to prevent dryness.",
+        "freezer": "Freeze cooked scramble in a freezer-safe container for up to 1 month. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating gently on the stovetop or microwave.",
+        "reheating": "Reheat on low heat in a non-stick skillet or microwave in short bursts, stirring in between. Add a splash of milk or water to help restore moisture and creaminess. Avoid high heat to prevent rubbery texture.",
+        "make_ahead_strategy": "You can prepare and sauté the vegetables 1-2 days ahead and store separately. Whisk eggs fresh before cooking to keep scramble fluffy. On the day, combine and cook quickly for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I make this scramble ahead of time?",
+            "answer": "Yes! You can prepare the veggies a day ahead and store them in the fridge. Whisk the eggs fresh before cooking for best texture. Cook the scramble just before eating to keep it fluffy and moist."
+        },
+        {
+            "question": "What if I don’t have milk? Can I skip it?",
+            "answer": "You can skip milk or substitute with water or plant-based milk. Milk helps make the eggs creamier and fluffier, but water will still give decent results. The texture might be slightly less tender without milk."
+        },
+        {
+            "question": "How do I avoid watery scramble from vegetables?",
+            "answer": "Sauté vegetables first to release moisture and soften them. Using raw veggies directly adds water during cooking, resulting in a watery scramble. Make sure to cook off excess liquid before adding eggs."
+        },
+        {
+            "question": "Can I use butter instead of olive oil?",
+            "answer": "Butter adds richness and flavor but has a lower smoke point, so cook on medium-low heat to avoid burning. Olive oil keeps the scramble lighter and handles heat better, but butter is a tasty alternative."
+        },
+        {
+            "question": "Why is my scramble rubbery sometimes?",
+            "answer": "Overcooking eggs or using high heat causes rubbery texture. Cook gently over medium or medium-low heat and remove from heat when eggs are just set to keep them tender and moist."
+        },
+        {
+            "question": "Can I add other cheeses?",
+            "answer": "Absolutely! Cheddar melts well, but mozzarella, Monterey Jack, or feta can be delicious too. Choose cheeses that melt smoothly to maintain creamy texture."
+        },
+        {
+            "question": "Is this recipe good for meal prep?",
+            "answer": "Yes, it reheats well if you store the scramble in airtight containers. Add cheese fresh when reheating to keep it melty. Reheat gently to avoid dryness."
+        },
+        {
+            "question": "How do I make this vegan?",
+            "answer": "Use chickpea flour batter instead of eggs and plant-based cheese. Cook veggies as usual and gently cook the chickpea batter until firm. Nutritional yeast adds cheesy flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy this quick breakfast scramble as much as I do—it’s a simple way to start your day with something tasty and nourishing. Don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "quick breakfast scramble",
+        "secondary_keywords": [
+            "easy breakfast scramble",
+            "healthy breakfast recipes",
+            "how to make breakfast scramble",
+            "best breakfast scramble recipe",
+            "quick and easy breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "simple veggie omelette recipe",
+                "anchor": "simple-veggie-omelette"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Busy Morning? Try This Quick and Tasty Breakfast Scramble Now!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Fuel Your Day Fast with This Simple and Delicious Breakfast Scramble"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Start Your Day with This Easy Veggie Breakfast Scramble!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Start Your Day with This Easy Veggie Breakfast Scramble!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Start Your Day with This Easy Veggie Breakfast Scramble!"
+        },
+        {
+            "fileName": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images/quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Whip Up This Cozy Breakfast Scramble for a Comforting Start"
+        }
+    ],
+    "id": "post_1785146575_896",
+    "slug": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time",
+    "isOnline": true,
+    "createdAt": "2026-07-27T11:05:29+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-27T11:05:29+01:00",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "quick-breakfast-recipes-that-make-mornings-easy-and-delicious-every-time/images",
+    "has_reel": true
+}
