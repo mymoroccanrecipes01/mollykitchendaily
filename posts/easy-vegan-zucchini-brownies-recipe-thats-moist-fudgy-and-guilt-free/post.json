@@ -1,0 +1,346 @@
+{
+    "title": "Fudgy Vegan Zucchini Brownies That Everyone Will Love",
+    "promptIMG": "Food photography: vegan zucchini brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These vegan zucchini brownies are super moist and fudgy thanks to the hidden zucchini. They’re dairy-free, egg-free, and perfect for a cozy snack or sharing with friends on a chill afternoon.",
+    "hashtags": "#veganbrownies #zucchinibrownies #plantbasedtreats",
+    "board_name": "Easy Vegan Desserts",
+    "pin_variations": [
+        {
+            "title": "Irresistible Vegan Zucchini Brownies You Need to Try Today!",
+            "description": "Looking for a moist, fudgy vegan brownie? These zucchini brownies are packed with flavor and super easy to make. Save this recipe for your next cozy baking day! 🍫🌿 #veganbaking #brownies #moistdesserts"
+        },
+        {
+            "title": "Secret Ingredient Zucchini Brownies That Taste Like Heaven",
+            "description": "You won’t believe these brownies have zucchini in them! They’re rich, fudgy, and perfect for a guilt-free treat. Discover the secret and try it today! 🍃🍫 #zucchinibrownies #veganrecipes #healthytreats"
+        },
+        {
+            "title": "Moist Vegan Brownies with a Twist of Zucchini - Easy & Delicious",
+            "description": "These brownies are so moist and fudgy thanks to zucchini! Perfect for plant-based bakers wanting something different. Give it a go and impress your friends! 🌱🍫 #veganbrownies #plantbaseddessert #easyrecipes"
+        },
+        {
+            "title": "How to Make Moist Vegan Brownies with Hidden Veggies",
+            "description": "Want brownies that are moist, fudgy, and secretly healthy? This zucchini brownie recipe hits all the marks. Try it now and save for later! 🍫🥒 #veganbaking #browniesrecipe #hiddenveggies"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup grated zucchini, squeezed dry",
+        "1 cup all-purpose flour",
+        "1/2 cup cocoa powder, unsweetened",
+        "3/4 cup sugar",
+        "1/2 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/2 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "1/4 cup almond milk (or any plant milk)"
+    ],
+    "yield": "Approximately 8 brownies",
+    "introduction": "I first stumbled upon zucchini brownies years ago when I was looking for ways to sneak veggies into desserts without sacrificing flavor. At first, I was skeptical—brownies with veggies? But the zucchini adds moisture without any veggie taste, which is a total win. This version is my favorite because it’s super fudgy and uses simple pantry staples. The trick I learned is to grate the zucchini finely and squeeze out excess water so the batter isn’t too wet, which keeps the brownies from turning out soggy. Also, using oil instead of vegan butter keeps them moist and tender. When baked, they have this rich, fudgy texture with a subtle hint of earthiness that just works. These brownies are perfect for an afternoon pick-me-up or sharing with friends who might not even realize they’re eating veggies. I love how versatile they are—you can dress them up with nuts or chocolate chips or keep them simple. Honestly, these brownies have become a staple in my kitchen and a crowd-pleaser every time I make them.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by grating the zucchini finely using a box grater. Once grated, place the zucchini in a clean kitchen towel or cheesecloth and squeeze out as much moisture as possible. This step is crucial because excess water can make the brownies too wet and prevent them from baking properly. You want the zucchini to add moisture but not sogginess. If you skip this, the texture will suffer and the brownies might be gummy or undercooked in the center.",
+            "timing": "10 minutes",
+            "doneness_cue": "Zucchini feels damp but not dripping wet after squeezing"
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease or line an 8x8 inch baking pan with parchment paper. This ensures easy removal of the brownies later and prevents sticking. Proper oven temperature is important for even baking and that classic fudgy texture. Rushing this step or baking at too low a temperature can make the brownies dense or underbaked.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oven reaches temperature and pan is fully greased or lined"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, whisk together the flour, cocoa powder, sugar, baking powder, and salt until well combined. This dry mix forms the base of your brownies. Make sure to sift or break up any cocoa lumps to avoid clumps in the batter. Mixing thoroughly helps with even rising and consistent texture throughout the brownies.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no visible clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, combine the vegetable oil, vanilla extract, and almond milk. Whisk these wet ingredients together to create a smooth liquid base. Using oil keeps the brownies tender and moist, while the almond milk helps bind everything without dairy. Vanilla adds subtle flavor depth.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wet ingredients are fully combined and smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the wet ingredients into the dry ingredients and stir gently with a spatula or wooden spoon. Mix just until combined; overmixing can develop gluten and make the brownies tough. The batter should be thick but spreadable. Fold in the grated zucchini evenly so it’s distributed throughout the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is uniform in color with zucchini pieces evenly mixed"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the batter into the prepared baking pan and spread it out evenly with your spatula. Leveling the batter helps it bake uniformly and prevents thin spots. Smooth the top gently without compressing it too much to maintain a light crumb.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter surface is smooth and even in the pan"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the brownies in the preheated oven for 25-30 minutes. Keep an eye on them starting at 25 minutes—insert a toothpick in the center; it should come out with a few moist crumbs but not wet batter. This ensures fudginess without being raw. Baking too long will dry them out, too short and they’ll be underdone.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Toothpick comes out with moist crumbs, edges pull away slightly from pan"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the brownies from the oven and let them cool completely in the pan on a wire rack. Cooling allows the brownies to set and makes cutting easier. If you try to cut them warm, they might crumble or stick.",
+            "timing": "30 minutes",
+            "doneness_cue": "Brownies are firm to touch and cooled to room temperature"
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, lift the brownies out using the parchment paper and cut into squares with a sharp knife. Wipe the knife clean between cuts for neat edges. These brownies keep well in an airtight container for several days or can be frozen for later treats.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, even brownie squares with fudgy texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Zucchini Brownie Recipe Delivers Perfect Fudginess",
+        "content": "<p>These brownies rely on a balance of moisture and structure to achieve their signature fudgy texture without eggs or dairy. The zucchini acts as a natural moisture booster, adding water content that keeps the brownies from drying out during baking. However, the key is squeezing out excess water to prevent sogginess, which would ruin the texture.</p><p>The use of vegetable oil instead of vegan butter or margarine contributes to tenderness because oil remains liquid at room temperature, unlike solid fats that can create a cakier texture. This liquid fat coats the flour proteins, limiting gluten development and keeping the crumb soft.</p><p>Combining cocoa powder with baking powder provides the right lift without making the brownies fluffy or cakey. The baking powder reacts with the acidity in the cocoa and creates tiny gas bubbles that keep the brownies light and moist rather than dense and heavy.</p><p>Finally, gently folding the wet and dry ingredients together rather than vigorous mixing prevents overworking the batter, which could lead to toughness. The subtle vanilla enhances flavor depth, balancing the earthiness of the zucchini and richness of the cocoa.</p>",
+        "ingredient_notes": {
+            "grated zucchini": "When selecting zucchini, choose fresh, firm ones without blemishes. Medium-sized zucchinis work best as they have a good water content and mild flavor. Grating finely and squeezing out excess moisture is critical to avoid a wet batter. The zucchini adds moisture and subtle earthiness without an overpowering vegetable taste.",
+            "all-purpose flour": "All-purpose flour offers the right protein content to provide structure without making the brownies cakey. Avoid using cake flour as it contains less protein and can result in overly soft brownies. For gluten-free versions, a blend of gluten-free flours can be used but expect a slightly different texture.",
+            "cocoa powder": "Use unsweetened cocoa powder for rich chocolate flavor without added sugar. Dutch-processed cocoa will yield a smoother taste but may require adjusting the baking powder because of its neutral pH. Natural cocoa adds brightness and acidity that reacts with baking powder for lift.",
+            "vegetable oil": "Neutral vegetable oils like canola or sunflower are ideal as they don’t add flavor but provide moisture and tenderness. Avoid olive oil due to its strong taste. Oil remains liquid at room temperature, which helps brownies stay soft and fudgy longer than solid fats.",
+            "baking powder": "Baking powder creates the necessary lift to balance the dense ingredients like cocoa and zucchini. Make sure your baking powder is fresh for proper rising. Using too much can cause an unpleasant metallic taste, while too little will make the brownies dense."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the zucchini well to remove excess water before adding it to the batter.",
+            "reason": "Excess moisture can make the brownies soggy and prevent them from baking properly. Removing water ensures the batter consistency is right and the final texture stays fudgy but not wet."
+        },
+        {
+            "tip": "Use room temperature ingredients for better mixing and texture.",
+            "reason": "Cold ingredients can cause uneven mixing and clumps, affecting texture. Room temperature oil and milk combine smoothly with dry ingredients, creating a uniform batter."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, which can make brownies tough and chewy instead of soft and tender."
+        },
+        {
+            "tip": "Line your baking pan with parchment paper for easy removal.",
+            "reason": "This prevents sticking and helps lift the brownies out cleanly without breaking, preserving their fudgy edges."
+        },
+        {
+            "tip": "Check the brownies a few minutes before the minimum baking time.",
+            "reason": "Ovens vary; checking early prevents overbaking which dries out the brownies and ruins the fudgy texture."
+        },
+        {
+            "tip": "Let the brownies cool completely before cutting.",
+            "reason": "Cooling allows the brownies to set fully. Cutting warm brownies can cause them to crumble or stick to the knife."
+        },
+        {
+            "tip": "Experiment with mix-ins like nuts or vegan chocolate chips for added texture.",
+            "reason": "Adding nuts or chips adds crunch and flavor contrast, making the brownies more interesting without affecting the core fudgy texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not removing enough moisture from the zucchini",
+            "why_it_happens": "People often want to skip this step to save time or underestimate how much water zucchini holds.",
+            "fix": "Grate the zucchini finely and use a clean towel or cheesecloth to squeeze out as much water as possible. This step is essential for the right brownie texture."
+        },
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "It’s tempting to bake until the toothpick is completely clean, but this can dry out fudgy brownies.",
+            "fix": "Remove brownies when a toothpick inserted in the center comes out with moist crumbs, not completely dry. This keeps them soft and fudgy."
+        },
+        {
+            "mistake": "Using the wrong type of fat",
+            "why_it_happens": "Some may substitute butter or coconut oil without considering texture changes.",
+            "fix": "Use neutral vegetable oil for the best moist and tender crumb. Butter or coconut oil can change texture and flavor."
+        },
+        {
+            "mistake": "Mixing batter too vigorously",
+            "why_it_happens": "Trying to get a smooth batter quickly can lead to overmixing.",
+            "fix": "Mix gently until just combined to avoid tough brownies caused by gluten development."
+        },
+        {
+            "mistake": "Not preheating the oven properly",
+            "why_it_happens": "Starting with a cold oven affects rising and texture.",
+            "fix": "Always preheat the oven fully to 350°F before baking for even cooking and proper texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Chip Zucchini Brownies",
+            "description": "Add 1/2 cup vegan chocolate chips folded into the batter before baking for extra melty pockets of chocolate. This adds richness and texture without changing the moist fudgy base.",
+            "technical_note": "Fold chips gently to avoid overmixing. Bake as usual but watch closely as chips can brown quickly."
+        },
+        {
+            "name": "Nutty Zucchini Brownies",
+            "description": "Stir in 1/2 cup chopped walnuts or pecans for a crunchy contrast to the fudgy brownies. Nuts add a lovely earthy flavor that complements the zucchini and cocoa.",
+            "technical_note": "Add nuts with the zucchini for even distribution. Toast nuts lightly beforehand for deeper flavor."
+        },
+        {
+            "name": "Spiced Zucchini Brownies",
+            "description": "Sprinkle 1 teaspoon cinnamon and 1/4 teaspoon cayenne pepper into the dry ingredients for a warm, spicy twist that balances the chocolate and veggie flavors beautifully.",
+            "technical_note": "Mix spices thoroughly with dry ingredients to ensure even flavor throughout the brownies."
+        },
+        {
+            "name": "Gluten-Free Zucchini Brownies",
+            "description": "Swap all-purpose flour for a gluten-free blend 1:1. Expect a slightly different texture—still fudgy but a bit more crumbly. Great for gluten-sensitive friends!",
+            "technical_note": "Make sure your gluten-free flour blend contains xanthan gum for structure or add 1/4 teaspoon separately."
+        },
+        {
+            "name": "Peanut Butter Swirl Zucchini Brownies",
+            "description": "Drop dollops of peanut butter on top of the batter and swirl gently with a knife before baking. This adds creamy pockets of peanut flavor that pair wonderfully with chocolate.",
+            "technical_note": "Swirl lightly so you keep the marbled effect without overmixing the batter."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "10g",
+        "fiber_grams": "3g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These brownies keep well at room temperature for up to 2 days if stored in an airtight container away from direct sunlight. Covering them prevents drying out and preserves their fudgy texture.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The brownies may firm up and lose some moisture but still taste great. You can eat them cold or warm briefly to soften.",
+        "freezer": "Freeze brownies for up to 3 months. Wrap tightly in plastic wrap and place in a freezer-safe container or bag to prevent freezer burn. Thaw at room temperature or overnight in the fridge before serving.",
+        "reheating": "Reheat brownies in the microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes to restore softness. Avoid overheating as it can dry them out. Adding a small splash of plant milk can help if they seem dry.",
+        "make_ahead_strategy": "You can grate the zucchini and prepare the batter 1 day ahead, then store it in the fridge covered tightly. Bake fresh the next day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute zucchini with another vegetable?",
+            "answer": "Yes, grated carrots or pumpkin puree can work as substitutes, but they will slightly change the flavor and moisture. Carrots add sweetness while pumpkin adds earthiness. Always squeeze out excess water if using fresh veggies."
+        },
+        {
+            "question": "What if I don’t have almond milk?",
+            "answer": "You can use any plant-based milk like soy, oat, or coconut milk. Just choose unsweetened varieties to control the sweetness. Water can be used in a pinch, but milk adds richness and improves texture."
+        },
+        {
+            "question": "How do I make these brownies gluten-free?",
+            "answer": "Use a gluten-free all-purpose flour blend with xanthan gum included, or add 1/4 teaspoon xanthan gum if your blend doesn’t contain it. This helps mimic the structure gluten provides and prevents crumbling."
+        },
+        {
+            "question": "Can I use coconut oil instead of vegetable oil?",
+            "answer": "Yes, but coconut oil has a distinct flavor and solidifies when cold, which can change the texture. If using coconut oil, melt it first and cool slightly before mixing to keep the batter consistent."
+        },
+        {
+            "question": "How do I know when the brownies are done?",
+            "answer": "Insert a toothpick in the center; it should come out with moist crumbs but no wet batter. The edges will start to pull away slightly from the pan. This indicates fudgy brownies without underbaking."
+        },
+        {
+            "question": "Can I add chocolate chips or nuts?",
+            "answer": "Absolutely! Fold in 1/2 cup vegan chocolate chips or chopped nuts for extra texture and flavor. Add them after mixing the wet and dry ingredients but before pouring the batter into the pan."
+        },
+        {
+            "question": "Why do my brownies turn out dry sometimes?",
+            "answer": "Dry brownies usually mean they were overbaked or the zucchini wasn’t moist enough. Make sure to follow baking times closely and squeeze zucchini properly but not too much, as a little moisture is needed."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Yes, you can double the ingredients and bake in a larger pan or two standard pans. Adjust baking time by checking at 25 minutes and then every 5 minutes until done."
+        }
+    ],
+    "conclusion": "I hope you give these vegan zucchini brownies a try—they’re a delicious way to enjoy a fudgy treat with a veggie twist. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "vegan zucchini brownies",
+        "secondary_keywords": [
+            "moist vegan brownies",
+            "easy zucchini brownies",
+            "how to make vegan brownies",
+            "best vegan zucchini brownies recipe",
+            "healthy vegan brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan chocolate chip cookies",
+                "anchor": "vegan-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Irresistible Vegan Zucchini Brownies You Need to Try Today!"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "How to Make Moist Vegan Brownies with Hidden Veggies"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Secret Ingredient Zucchini Brownies That Taste Like Heaven"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Irresistible Vegan Zucchini Brownies You Need to Try Today!"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Moist Vegan Brownies with a Twist of Zucchini - Easy & Delicious"
+        },
+        {
+            "fileName": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images/easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Irresistible Vegan Zucchini Brownies You Need to Try Today!"
+        }
+    ],
+    "id": "post_1785367530_802",
+    "slug": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free",
+    "isOnline": true,
+    "createdAt": "2026-07-30T00:41:32+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-07-30T00:41:32+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-vegan-zucchini-brownies-recipe-thats-moist-fudgy-and-guilt-free/images",
+    "has_reel": true
+}
