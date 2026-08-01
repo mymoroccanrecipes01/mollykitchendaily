@@ -1,0 +1,344 @@
+{
+    "title": "Fresh and Zesty Cucumber Salsa That Brightens Every Taco Night",
+    "promptIMG": "Food photography: Fresh Cucumber Salsa, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This fresh cucumber salsa is my quick fix for adding a crisp, tangy crunch to tacos. Made with just a handful of fresh ingredients and a splash of lime, it’s perfect for summer dinners or any casual meal.",
+    "hashtags": "#cucumbersalsa #freshsalsa #tacotime",
+    "board_name": "Easy Salsa Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Taco Night with This Easy Cucumber Salsa Recipe",
+            "description": "Looking for a fresh salsa that’s quick and bursting with flavor? This cucumber salsa is incredibly simple and perfect for summer meals. Save this recipe and try it tonight! 🌮🍋 #FreshSalsa #EasyRecipes #TacoNight"
+        },
+        {
+            "title": "How to Make Crisp Cucumber Salsa That Everyone Will Love",
+            "description": "This cucumber salsa is packed with fresh crunch and a zesty lime kick. Perfect for tacos or as a light dip. Try it today and add a refreshing twist to your meals! 🥒✨ #CucumberSalsa #HealthySnacks #SummerEats"
+        },
+        {
+            "title": "Quick and Refreshing Cucumber Salsa for Your Next Taco Party",
+            "description": "Whip up this fresh cucumber salsa in minutes — it’s crisp, tangy, and perfect for taco nights or summer gatherings. Discover this easy recipe and impress your friends! 🌿🌶️ #SalsaRecipe #TacoParty #FreshFlavors"
+        },
+        {
+            "title": "The Easiest Fresh Cucumber Salsa to Make at Home Anytime",
+            "description": "Fresh, simple, and full of zing! This cucumber salsa is a breeze to make and adds a delicious crunch to tacos or grilled dishes. Save it for your next meal prep! 🥒🍽️ #EasySalsa #CucumberRecipe #WeeknightDinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "2 medium cucumbers, peeled and diced",
+        "1 small red onion, finely chopped",
+        "1 jalapeño, seeded and minced",
+        "1/4 cup fresh cilantro, chopped",
+        "Juice of 1 lime",
+        "Salt to taste",
+        "Freshly ground black pepper to taste"
+    ],
+    "yield": "Approximately 2 cups, 4 servings",
+    "introduction": "I first stumbled upon this fresh cucumber salsa during a hot summer evening when I wanted something light and crisp to complement my spicy tacos. After a few tweaks, it turned into my go-to salsa that brings a refreshing twist to any meal. What makes this version stand out is the way the cucumbers stay crunchy and juicy, thanks to peeling and dicing them just right. Plus, the lime juice not only adds zing but also helps keep everything vibrant and fresh. I love that it’s so quick to make—no cooking required—and yet it feels like you’ve crafted something special. The balance of cool cucumber, a little heat from the jalapeño, and the brightness from cilantro makes every bite pop. Whenever I serve this salsa, whether at a casual taco night or a summer barbecue, it always gets rave reviews. The salsa looks lively with its mix of green and purple hues, which is just as delightful as its taste. Honestly, it’s one of those recipes that’s simple but feels like a little celebration in a bowl.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by peeling the cucumbers to remove the waxy skin, which can sometimes be bitter or tough. Then dice them into small, uniform pieces — about 1/4 inch cubes work best. This size ensures each bite has a nice crunch without being too watery. Peeling and dicing carefully helps maintain the salsa’s crisp texture and prevents it from getting soggy quickly. Avoid cutting them too large or too small for the best mouthfeel.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cucumber pieces should be firm, evenly diced, and juicy but not mushy."
+        },
+        {
+            "step": 2,
+            "instruction": "Finely chop the red onion and jalapeño next. Removing the seeds from the jalapeño is key to controlling the heat, so be sure to scrape them out with a small spoon or knife. The onion adds a sharp bite that balances the cool cucumber, while the jalapeño brings a gentle kick. Mixing these ingredients finely ensures their flavors blend well throughout the salsa without overpowering any single bite.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onion and jalapeño should be minced finely and evenly distributed."
+        },
+        {
+            "step": 3,
+            "instruction": "Roughly chop the fresh cilantro and add it to the bowl. Cilantro brings a bright, herbaceous note that wakes up the other ingredients. If you’re not a fan, parsley can be a mild substitute, but cilantro truly makes the flavor pop. Tossing it in at this stage ensures it stays fresh and green, avoiding any wilting that can happen if added too early.",
+            "timing": "2 minutes",
+            "doneness_cue": "Herbs appear fresh and vibrant, evenly mixed with other ingredients."
+        },
+        {
+            "step": 4,
+            "instruction": "Squeeze the juice of one fresh lime over the mixture. The acidity of the lime juice is a game-changer—it brightens everything and helps keep the cucumbers from releasing too much water too quickly. The lime also adds a subtle tang that pairs perfectly with the cooling cucumber and spicy jalapeño. Stir gently but thoroughly to combine all the flavors evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salsa looks glossy and fresh with a slight sheen from the lime juice."
+        },
+        {
+            "step": 5,
+            "instruction": "Season with salt and freshly ground black pepper to taste. Salt is crucial here as it enhances all the flavors and helps draw out a bit of moisture from the cucumbers, marrying the salsa’s texture and taste. Start with a small pinch and adjust as needed. Remember, you can always add more, but it’s hard to fix if it gets too salty.",
+            "timing": "1 minute",
+            "doneness_cue": "Salsa tastes balanced with a bright, savory finish."
+        },
+        {
+            "step": 6,
+            "instruction": "Let the salsa rest for at least 10 minutes before serving. This resting time allows the flavors to meld beautifully, and the slight softening of ingredients creates a harmonious texture. If you serve it immediately, it’s still tasty but the flavors won’t have fully developed. Cover and refrigerate if you’re prepping ahead.",
+            "timing": "10 minutes",
+            "doneness_cue": "Flavors smell blended and the salsa has a cohesive taste."
+        },
+        {
+            "step": 7,
+            "instruction": "Before serving, give the salsa a gentle stir and taste again. Adjust seasoning if needed — sometimes a little more lime or salt can brighten it up right before plating. This final check ensures the salsa is perfectly balanced and fresh. Serve chilled or at room temperature depending on your preference.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salsa tastes fresh, tangy, and well-seasoned."
+        },
+        {
+            "step": 8,
+            "instruction": "Pair this cucumber salsa with tacos, grilled meats, or as a crunchy topping on salads. It’s also fantastic as a light dip with tortilla chips. The refreshing crunch and zingy flavor complement rich or spicy dishes well, adding a fresh contrast that’s hard to beat.",
+            "timing": "0 minutes",
+            "doneness_cue": "Salsa enhances the dish it accompanies with bright, fresh notes."
+        },
+        {
+            "step": 9,
+            "instruction": "Store any leftovers in an airtight container in the fridge. The salsa will keep its freshness for a couple of days but is best enjoyed within 24 hours for peak texture. If it gets watery, just drain a little liquid before serving again to maintain that crisp bite.",
+            "timing": "0 minutes",
+            "doneness_cue": "Salsa remains fresh and crisp after storage with minimal liquid separation."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cucumber Salsa Stands Out",
+        "content": "<p>The secret behind this cucumber salsa’s success lies in balancing moisture and texture. Cucumbers are naturally high in water, so peeling and careful dicing prevent the salsa from becoming soggy. The lime juice not only adds brightness but also slows enzymatic browning and softening, keeping the cucumbers crisp longer.</p><p>Salt plays a dual role: it seasons and draws out just enough moisture to marry flavors without making the salsa watery. The finely minced onion and jalapeño add layers of flavor and heat without overwhelming the fresh cucumber. Cilantro’s herbal brightness ties everything together, creating a vibrant and refreshing salsa.</p><p>Resting the salsa before serving allows the ingredients to meld, softening the sharp edges of raw onion and jalapeño while infusing the cucumbers with a subtle kick. This step is crucial for flavor harmony and a balanced texture. The result is a salsa that’s crunchy, tangy, and perfectly seasoned — a refreshing contrast to heavier dishes.</p><p>Overall, this recipe thrives because it respects the delicate nature of cucumbers and uses acidity, salt, and fresh herbs to enhance rather than mask the natural flavors. It’s simple but thoughtfully constructed to deliver maximum freshness and brightness in every bite.</p>",
+        "ingredient_notes": {
+            "Cucumbers": "Choose firm, fresh cucumbers without soft spots or blemishes. English or Persian cucumbers work well due to their thin skins and fewer seeds, which means less bitterness and watery texture. Peeling helps remove any wax coating or tough skin, ensuring a crisp bite. Avoid overly large or old cucumbers which can be watery and less flavorful.",
+            "Red Onion": "Use a small red onion for its mild sweetness and vibrant color. Red onions add a pleasant sharpness without overpowering the salsa. Slice finely to distribute flavor evenly. If you prefer a milder taste, soak chopped onion in cold water for a few minutes to reduce pungency before adding.",
+            "Jalapeño": "Fresh jalapeño peppers bring controlled heat and a fresh, grassy flavor. Removing seeds and membranes reduces spiciness, making the salsa approachable for most palates. Always wash your hands after handling jalapeños to avoid irritation. Substitute with serrano for more heat or omit for a milder salsa.",
+            "Cilantro": "Fresh, bright cilantro leaves create an herbal lift that complements the cool cucumber. Avoid wilted or yellowing leaves as they can impart a bitter taste. If you’re not a cilantro fan, chopped fresh parsley is a good substitute but changes the flavor profile. Add just before serving to keep the herb fresh and vibrant.",
+            "Lime Juice": "Freshly squeezed lime juice is essential for acidity and brightness. Bottled lime juice lacks the fresh citrus zing and can taste flat. The acid also helps preserve the salsa’s color and texture by slowing oxidation. Use just enough to balance flavors without making the salsa too wet."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always peel cucumbers for the best texture and flavor.",
+            "reason": "The peel can be bitter or waxy, which affects the salsa’s crispness and taste. Peeling ensures a tender yet crunchy bite and prevents any unpleasant bitterness that might overshadow the fresh ingredients."
+        },
+        {
+            "tip": "Seed the jalapeño to control the heat level.",
+            "reason": "Most of the heat is concentrated in the seeds and white membranes. Removing them allows you to enjoy the fresh pepper flavor without overwhelming spiciness, making the salsa more versatile for different tastes."
+        },
+        {
+            "tip": "Use fresh lime juice instead of bottled for maximum brightness.",
+            "reason": "Fresh lime juice has a vibrant, natural acidity that bottled versions lack. It enhances flavor and helps maintain the salsa’s fresh appearance and crisp texture by slowing enzymatic browning."
+        },
+        {
+            "tip": "Let the salsa rest before serving.",
+            "reason": "Resting allows flavors to meld and the sharpness of raw onion and jalapeño to mellow. This step creates a balanced, harmonious salsa instead of a harsh, one-dimensional mix of ingredients."
+        },
+        {
+            "tip": "Chop ingredients uniformly for even flavor distribution.",
+            "reason": "Consistent size ensures each spoonful has a balanced taste and texture. Uneven chopping can lead to bites dominated by one flavor or texture, which disrupts the eating experience."
+        },
+        {
+            "tip": "Taste and adjust seasoning just before serving.",
+            "reason": "Flavors evolve as the salsa rests, so a final seasoning adjustment ensures it’s perfectly balanced in salt and acidity, enhancing the overall freshness and zing."
+        },
+        {
+            "tip": "Store salsa in an airtight container to keep it fresh.",
+            "reason": "Exposure to air accelerates moisture loss and flavor degradation. Airtight storage slows this process, preserving the salsa’s crisp texture and bright taste for longer."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using unpeeled cucumbers causing bitterness and sogginess.",
+            "why_it_happens": "Many assume leaving the skin on adds color and nutrition, but wax coating or thick skin can make the salsa bitter and watery.",
+            "fix": "Always peel cucumbers before dicing. This removes bitterness and wax, ensuring the salsa stays crisp and fresh-tasting."
+        },
+        {
+            "mistake": "Skipping the lime juice or using bottled juice.",
+            "why_it_happens": "Some cooks overlook acidity’s role or opt for convenience with bottled juice, which lacks fresh flavor.",
+            "fix": "Use freshly squeezed lime juice to brighten flavors and help maintain the salsa’s crisp texture."
+        },
+        {
+            "mistake": "Not removing jalapeño seeds resulting in overpowering heat.",
+            "why_it_happens": "Assuming all pepper parts are edible and flavorful, many leave seeds in, making the salsa too spicy for some.",
+            "fix": "Carefully remove seeds and membranes to control heat, making the salsa enjoyable for more people."
+        },
+        {
+            "mistake": "Not letting salsa rest before serving.",
+            "why_it_happens": "In the rush to eat, some serve immediately, missing out on flavor melding benefits.",
+            "fix": "Let salsa rest at least 10 minutes to blend flavors and soften sharp edges for better taste."
+        },
+        {
+            "mistake": "Chopping ingredients unevenly causing inconsistent texture.",
+            "why_it_happens": "Lack of attention to uniformity leads to some bites being too strong or watery.",
+            "fix": "Chop all ingredients to similar sizes for balanced flavor and texture in every bite."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tomato and Corn Cucumber Salsa",
+            "description": "Add diced tomatoes and fresh corn kernels for a colorful, sweet twist. This variation adds a juicy pop and slight sweetness that pairs beautifully with grilled meats and tacos.",
+            "technical_note": "Add tomatoes and corn after cucumbers and mix gently to avoid crushing the tomatoes, which can release excess liquid."
+        },
+        {
+            "name": "Mango Cucumber Salsa",
+            "description": "Incorporate diced ripe mango for a tropical sweetness that balances the spicy jalapeño. This salsa variation is perfect for summer parties or seafood dishes.",
+            "technical_note": "Use firm mango to maintain texture and add it last to keep the fruit intact."
+        },
+        {
+            "name": "Avocado Cucumber Salsa",
+            "description": "Mix in cubed avocado for creaminess and richness. This version is heartier and works great as a side or even a light salad topping.",
+            "technical_note": "Add avocado just before serving to prevent browning and gently fold it in for even distribution."
+        },
+        {
+            "name": "Spicy Cilantro Lime Cucumber Salsa",
+            "description": "Boost the heat by adding extra jalapeño or a pinch of cayenne pepper, and increase cilantro for a more herbaceous punch. Ideal for those who love a spicy kick.",
+            "technical_note": "Adjust jalapeño quantity gradually and taste as you go to keep heat balanced."
+        },
+        {
+            "name": "Greek Style Cucumber Salsa",
+            "description": "Add crumbled feta cheese, chopped kalamata olives, and a drizzle of olive oil for a Mediterranean-inspired salsa. It’s tangy, salty, and fresh all at once.",
+            "technical_note": "Add feta and olives last to maintain their texture and avoid breaking the cheese."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "45 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "9g",
+        "fat_grams": "0.5g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cucumber salsa is best served fresh and should not be left out at room temperature for more than 1-2 hours. Keep it covered to avoid contamination and drying out.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 2 days. The salsa will keep its flavor but may become slightly watery; just drain excess liquid before serving. It’s best served chilled or at room temperature.",
+        "freezer": "Freezing is not recommended as cucumbers release water and become mushy upon thawing, which ruins the salsa’s fresh texture.",
+        "reheating": "No reheating is needed or recommended for this salsa. Serve chilled or at room temperature for best flavor and texture.",
+        "make_ahead_strategy": "You can prepare the salsa a few hours ahead and refrigerate it. Add the lime juice and salt just before serving to keep it fresh and crisp. Avoid mixing in delicate herbs like cilantro too early."
+    },
+    "faq": [
+        {
+            "question": "Can I use English cucumbers without peeling?",
+            "answer": "English cucumbers have thinner skins and fewer seeds, so you can leave the peel on if you prefer. However, peeling still helps keep the salsa crisp and prevents any waxy bitterness from the skin. If you do leave the peel, wash cucumbers thoroughly first."
+        },
+        {
+            "question": "How spicy is this salsa? Can I make it milder?",
+            "answer": "The heat level depends on how much jalapeño you add and whether you include the seeds. Removing all seeds and membranes makes it quite mild. You can also omit the jalapeño entirely for a fresh, no-spice version."
+        },
+        {
+            "question": "Can I prepare this salsa a day in advance?",
+            "answer": "Yes, but it’s best to add lime juice and seasonings just before serving to keep the cucumbers crisp. The salsa may release some water overnight, so drain excess liquid before serving to maintain texture."
+        },
+        {
+            "question": "What can I substitute for cilantro if I don’t like it?",
+            "answer": "Fresh parsley is a good mild substitute, though it changes the flavor profile. You can also try fresh mint or basil for a different but tasty twist."
+        },
+        {
+            "question": "How do I prevent the salsa from getting watery?",
+            "answer": "Peeling the cucumbers and dicing them uniformly helps. Also, avoid adding too much lime juice at once and drain any excess liquid before serving. Resting the salsa allows moisture to settle, so drain if needed."
+        },
+        {
+            "question": "Is this salsa good on other dishes besides tacos?",
+            "answer": "Absolutely! It’s great on grilled chicken or fish, as a topping for salads, or served with chips as a fresh dip. Its light, refreshing flavor pairs well with many dishes."
+        },
+        {
+            "question": "Can I add other vegetables to this salsa?",
+            "answer": "Yes, adding diced tomatoes, corn, or bell peppers works well and adds color and flavor. Just be mindful that juicy veggies like tomatoes can increase moisture, so adjust lime and salt accordingly."
+        },
+        {
+            "question": "How do I keep the salsa bright and green-looking?",
+            "answer": "Use fresh ingredients and add cilantro last. The lime juice helps prevent browning. Store the salsa in an airtight container and avoid prolonged exposure to air or heat."
+        }
+    ],
+    "conclusion": "Give this fresh cucumber salsa a try—it’s a simple way to brighten up your meals and impress friends. I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "fresh cucumber salsa recipe",
+        "secondary_keywords": [
+            "easy cucumber salsa",
+            "how to make cucumber salsa",
+            "best fresh salsa recipe",
+            "healthy salsa recipe",
+            "quick cucumber salsa"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade guacamole recipe",
+                "anchor": "homemade-guacamole-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_2.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Brighten Your Taco Night with This Easy Cucumber Salsa Recipe"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How to Make Crisp Cucumber Salsa That Everyone Will Love"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "The Easiest Fresh Cucumber Salsa to Make at Home Anytime"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Brighten Your Taco Night with This Easy Cucumber Salsa Recipe"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Brighten Your Taco Night with This Easy Cucumber Salsa Recipe"
+        },
+        {
+            "fileName": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images/easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Quick and Refreshing Cucumber Salsa for Your Next Taco Party"
+        }
+    ],
+    "id": "post_1785625657_472",
+    "slug": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor",
+    "isOnline": true,
+    "createdAt": "2026-08-02T00:28:35+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-02T00:28:35+01:00",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-homemade-cucumber-salsa-for-tacos-that-adds-fresh-crunch-and-flavor/images",
+    "has_reel": true
+}
