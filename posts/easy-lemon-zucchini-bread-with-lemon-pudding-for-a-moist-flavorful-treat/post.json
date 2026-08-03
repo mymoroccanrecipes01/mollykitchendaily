@@ -1,0 +1,357 @@
+{
+    "title": "Moist Lemon Zucchini Bread with a Tangy Lemon Pudding Glaze",
+    "promptIMG": "Food photography: Lemon Zucchini Bread with Lemon Pudding Glaze, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon zucchini bread is my favorite for a fresh, citrusy treat that’s wonderfully moist thanks to a creamy lemon pudding glaze. Perfect for a cozy afternoon tea or a bright breakfast on weekend mornings.",
+    "hashtags": "#lemonbread #zucchinibread #homemadebaking #citruslove",
+    "board_name": "Easy Zucchini Recipes",
+    "pin_variations": [
+        {
+            "title": "Deliciously Moist Lemon Zucchini Bread You’ll Crave Every Morning",
+            "description": "This lemon zucchini bread with a creamy lemon pudding glaze is bursting with flavor and super moist. Perfect for breakfast or a sweet snack! Save this recipe and try it today 🍋🍞 #lemonbread #zucchinibread #bakinglove #easyrecipes"
+        },
+        {
+            "title": "How To Make The Best Lemon Zucchini Bread with Pudding Glaze",
+            "description": "Learn the secret to ultra moist lemon zucchini bread topped with a tangy pudding glaze. It’s easy, fresh, and perfect with your afternoon tea ☕️🍋 Don’t miss out—discover now! #homemade #lemonbaking #zucchini #comfortfood"
+        },
+        {
+            "title": "Simple Lemon Zucchini Bread Recipe with a Twist of Citrus Magic",
+            "description": "This lemon zucchini bread is bursting with fresh citrus flavor and topped with a luscious lemon pudding glaze. It’s a quick, delicious treat you’ll want to bake again and again! 🍋💛 Try it today! #zucchinibread #lemonlove #easybaking #sweetbread"
+        },
+        {
+            "title": "Fresh & Zesty Lemon Zucchini Bread That’s Perfect For Any Time",
+            "description": "Brighten your day with this moist lemon zucchini bread glazed with creamy lemon pudding. It’s a crowd-pleaser at brunch or tea time. Save this recipe and bake soon! 🍋✨ #lemonpudding #zucchinibread #bakingfromscratch #freshflavors"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup granulated sugar",
+        "1/2 cup vegetable oil",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup grated zucchini, squeezed dry",
+        "1 tablespoon lemon zest (from about 1 lemon)",
+        "1/4 cup fresh lemon juice",
+        "For the lemon pudding glaze:",
+        "1 packet lemon instant pudding mix (about 3.4 oz)",
+        "1 cup cold milk"
+    ],
+    "yield": "One 9x5 inch loaf, about 8 servings",
+    "introduction": "I stumbled upon this lemon zucchini bread recipe a few years ago when I was craving something bright and fresh but also super moist. I’d tried a few zucchini breads before, but they often felt a bit dry or bland. The game changer here is the lemon pudding glaze—it’s such a clever trick that keeps the bread tender and adds a tangy, creamy layer of flavor on top that’s just irresistible. I love making this loaf when friends come over for afternoon tea or when I want to start the weekend with a sweet breakfast that’s not too heavy. The zucchini adds moisture without being noticeable, so even picky eaters tend to love it. The lemon zest and juice brighten everything up, and the pudding glaze is a smooth finish that feels a little fancy but is so easy to whip up. Honestly, I once forgot to squeeze the zucchini properly and ended up with a soggy loaf—lesson learned! Now I’m careful to drain it well, which keeps the texture perfect. When it’s done, you get this golden, tender bread with a soft, luscious glaze that’s bursting with citrus goodness. It’s one of those recipes I always come back to when I want a comforting yet fresh treat.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5-inch loaf pan well. This ensures the bread won’t stick and will come out cleanly. Using a non-stick spray or butter with a light dusting of flour works perfectly. Don’t skip this step because the batter is moist and sticky, which can cause it to cling to the pan if not prepared properly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan surface is evenly greased and ready for batter"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking powder, baking soda, and salt. Sifting helps aerate the flour and removes lumps, which makes the bread lighter and ensures even mixing of the leavening agents. This step is key for a tender crumb and even rise.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat together the sugar and vegetable oil until well combined. Then add the eggs one at a time, beating well after each addition. This creates a smooth, emulsified base that will give the bread a moist texture. Adding eggs slowly helps prevent curdling and ensures the batter is silky.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth and slightly thickened"
+        },
+        {
+            "step": 4,
+            "instruction": "Mix in the vanilla extract, lemon zest, and lemon juice to the wet ingredients. This fresh lemon boost is what makes the bread zingy and bright. The zest carries essential oils that give intense aroma while the juice adds natural acidity to balance the sweetness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Wet mixture is fragrant and evenly combined"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold the grated zucchini into the wet mixture gently. Make sure the zucchini is well drained to avoid excess moisture, which can make the bread soggy. Folding carefully keeps the batter airy and prevents overmixing, which can toughen the crumb.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini is evenly dispersed without deflating batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, folding just until combined. Overmixing at this stage can activate gluten and result in a dense, chewy bread. The batter should be slightly thick but pourable with no streaks of flour.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is uniform and thick but not overworked"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This ensures even baking and a nice golden crust. Tap the pan gently on the counter to release any large air bubbles trapped inside.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter surface is level and free of large air bubbles"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 50-55 minutes or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Avoid opening the oven too early, as this can cause the bread to collapse. The top should be golden and spring back lightly when pressed.",
+            "timing": "50 minutes",
+            "doneness_cue": "Golden crust and clean toothpick test"
+        },
+        {
+            "step": 9,
+            "instruction": "While the bread is baking, prepare the lemon pudding glaze by whisking the instant pudding mix with cold milk until smooth and thickened, about 2 minutes. This glaze adds a creamy, tangy layer that keeps the bread moist and adds extra lemon flavor. Chill briefly if needed to thicken before glazing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Glaze is smooth, thick but spreadable"
+        },
+        {
+            "step": 10,
+            "instruction": "Once the bread has cooled for about 10 minutes, spread the lemon pudding glaze evenly over the top. This step is best done while the bread is still warm so the glaze can slightly soak in without melting away completely. Let the bread cool completely before slicing.",
+            "timing": "10 minutes",
+            "doneness_cue": "Glaze is set but still soft and glossy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Zucchini Bread Stands Out",
+        "content": "<p>What makes this lemon zucchini bread truly special is the balance of moisture, texture, and bright citrus flavor. The grated zucchini adds natural moisture and subtle earthiness without overpowering the lemon notes. It also contributes to a tender crumb by adding water content that keeps the bread soft and fresh longer.</p><p>The lemon pudding glaze is a clever addition that enhances both flavor and texture. Instant pudding mix contains starches and sugars that create a creamy, slightly gelatinous layer, preventing the bread from drying out and adding a luscious mouthfeel. This glaze also intensifies the lemon zing, making the bread feel fresh and vibrant rather than heavy.</p><p>The use of both lemon zest and fresh lemon juice ensures layered citrus complexity. Zest carries essential oils that are more aromatic and potent, while juice provides acidity that balances sweetness and activates leavening agents like baking soda for a light rise. Properly draining the zucchini is a crucial technique to avoid sogginess, as excess moisture can break down the crumb structure.</p><p>Lastly, the gentle folding of dry ingredients into wet avoids overdeveloping gluten, which would make the bread tough. The result is a tender, moist loaf with a bright citrus punch and a soft, creamy glaze that feels indulgent but not heavy.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour for this recipe to provide the right balance of protein for structure without making the bread too dense. Sifting the flour before measuring helps aerate it and ensures even mixing with leavening agents, leading to a lighter crumb.",
+            "grated zucchini": "Use fresh zucchini that’s firm and not overly watery. Grate finely and then squeeze out as much moisture as possible using a clean kitchen towel or cheesecloth. This step is key to prevent the bread from becoming soggy while still adding moisture and subtle flavor.",
+            "lemon zest and juice": "Fresh lemon zest is packed with essential oils that give intense aroma and flavor, so always zest lemons before juicing them. Fresh lemon juice adds acidity that balances sweetness and activates baking soda, helping the bread rise properly and giving it a bright, fresh taste.",
+            "instant lemon pudding mix": "This ingredient adds a creamy texture and extra lemon flavor while helping to lock moisture into the bread through its starch content. Use a good quality instant pudding mix and whisk with cold milk until thick to get the perfect glaze consistency.",
+            "vegetable oil": "Using vegetable oil instead of butter keeps the bread moist and tender because oil stays liquid at room temperature, unlike butter which solidifies. This helps maintain a soft crumb and extends freshness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the grated zucchini well before adding to the batter.",
+            "reason": "Excess water in zucchini leads to a soggy loaf that won’t set properly. Removing moisture ensures the bread stays tender but firm enough to slice cleanly."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice for the best citrus flavor.",
+            "reason": "Zest contains aromatic oils that bottled lemon juice lacks, and fresh juice provides natural acidity that activates baking soda for better rise and brightness."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten, which makes the bread tough and dense. Gentle folding keeps the crumb soft and tender."
+        },
+        {
+            "tip": "Let the bread cool slightly before spreading the pudding glaze.",
+            "reason": "Applying glaze when the bread is warm helps it soak in a bit but prevents melting away completely, giving a creamy, glossy finish."
+        },
+        {
+            "tip": "Use a light oil like vegetable or canola for moistness.",
+            "reason": "Oils remain liquid at room temperature, helping keep the bread soft longer compared to butter which can harden and dry out the crumb."
+        },
+        {
+            "tip": "Preheat your oven fully before baking.",
+            "reason": "An oven that’s not hot enough can cause the bread to rise unevenly or become dense. Proper temperature ensures a nice crust and even bake."
+        },
+        {
+            "tip": "Tap the filled loaf pan on the counter before baking.",
+            "reason": "This releases trapped air bubbles that can cause holes or uneven texture in the finished bread."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining the zucchini thoroughly",
+            "why_it_happens": "Many assume grated zucchini can be added directly, forgetting it contains a lot of water that affects batter consistency.",
+            "fix": "After grating, wrap zucchini in a clean towel and squeeze firmly to remove excess liquid. This prevents sogginess and helps the bread bake evenly."
+        },
+        {
+            "mistake": "Overmixing after adding dry ingredients",
+            "why_it_happens": "It’s easy to think more mixing means better combined batter, but it actually develops gluten and toughens the bread.",
+            "fix": "Fold dry ingredients gently into wet until just combined. Stop mixing as soon as you see no more flour streaks."
+        },
+        {
+            "mistake": "Applying glaze while bread is too hot",
+            "why_it_happens": "Rushing to glaze right out of the oven can cause the glaze to melt and slide off.",
+            "fix": "Let the bread cool about 10 minutes before spreading glaze so it absorbs nicely without running."
+        },
+        {
+            "mistake": "Using old or dry lemon zest",
+            "why_it_happens": "Using pre-grated or old zest loses essential oils and flavor intensity.",
+            "fix": "Always zest fresh lemons just before mixing to capture bright citrus aroma."
+        },
+        {
+            "mistake": "Not preheating the oven properly",
+            "why_it_happens": "Starting with a cold oven can cause uneven baking and poor rise.",
+            "fix": "Make sure the oven is fully preheated to 350°F before placing the batter inside."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Lemon Zucchini Bread",
+            "description": "Add 1 cup fresh or frozen blueberries to the batter for a fruity twist. The berries add bursts of sweetness and color, complementing the lemon perfectly. Fold them in gently to avoid breaking.",
+            "technical_note": "Baking time may increase by 5 minutes; check doneness with a toothpick."
+        },
+        {
+            "name": "Gluten-Free Lemon Zucchini Bread",
+            "description": "Substitute all-purpose flour with a gluten-free blend that includes xanthan gum. This keeps the texture similar while making the bread safe for gluten-sensitive eaters.",
+            "technical_note": "Gluten-free batters can be more fragile; avoid overmixing and consider slightly reducing baking powder."
+        },
+        {
+            "name": "Vegan Lemon Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use a plant-based milk for the pudding glaze. Oil remains the same for moisture.",
+            "technical_note": "Flax eggs add a slight nuttiness and may alter crumb density slightly."
+        },
+        {
+            "name": "Lemon Poppy Seed Zucchini Bread",
+            "description": "Stir in 2 tablespoons poppy seeds for a subtle crunch and nutty flavor that pairs beautifully with lemon and zucchini.",
+            "technical_note": "Poppy seeds don’t affect baking time but add texture and visual appeal."
+        },
+        {
+            "name": "Spiced Lemon Zucchini Bread",
+            "description": "Add 1 teaspoon ground cinnamon and 1/4 teaspoon ground nutmeg to the dry ingredients for a warm spice note that balances the citrus zing.",
+            "technical_note": "Spices intensify flavor; avoid adding too much to keep lemon front and center."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "310 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This bread can safely sit covered at room temperature for up to 2 days. Keep it wrapped tightly in plastic wrap or in an airtight container to prevent drying out. Avoid leaving it uncovered as it will harden.",
+        "refrigerator": "Store the bread in an airtight container in the fridge for up to 5 days. The glaze may firm up and the crumb will be denser when cold. Warm slices gently before serving for best texture.",
+        "freezer": "Wrap the cooled bread tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw at room temperature wrapped to keep moisture. Reheat slices in a toaster oven or microwave to restore softness.",
+        "reheating": "Warm slices in a toaster oven at 300°F for 5-7 minutes or microwave for 20-30 seconds. Adding a tiny splash of milk before microwaving can refresh moisture. Avoid overheating which dries it out.",
+        "make_ahead_strategy": "You can prepare the batter and grate zucchini a day ahead and store covered in the fridge. Bake fresh the next day for best rise. The glaze is best made just before serving but can be whisked and refrigerated a few hours ahead."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini instead of fresh?",
+            "answer": "You can use frozen zucchini, but be sure to thaw it completely and squeeze out as much moisture as possible before adding to the batter. Frozen zucchini tends to release more water, so proper draining is essential to avoid a soggy loaf."
+        },
+        {
+            "question": "What if I don’t have instant lemon pudding mix for the glaze?",
+            "answer": "If you don’t have instant pudding mix, you can make a simple glaze with powdered sugar mixed with lemon juice and a bit of milk to achieve a similar tangy sweetness. It won’t be as creamy but still adds a nice lemon finish."
+        },
+        {
+            "question": "How do I know when the bread is done baking?",
+            "answer": "Insert a toothpick or skewer into the center of the loaf. If it comes out clean or with just a few moist crumbs, the bread is done. The crust should be golden and spring back lightly when pressed."
+        },
+        {
+            "question": "Can I substitute the vegetable oil with butter?",
+            "answer": "Yes, you can substitute melted butter for oil, but the bread might be a bit less moist and have a different texture. Oil helps keep the loaf tender longer because it stays liquid at room temperature."
+        },
+        {
+            "question": "Why does the bread sometimes turn out dense or heavy?",
+            "answer": "Dense bread often results from overmixing the batter, which develops gluten, or from not using enough leavening agents. Also, excess moisture from undrained zucchini can weigh it down. Be gentle when folding ingredients and drain zucchini well."
+        },
+        {
+            "question": "Can I make this bread into muffins instead?",
+            "answer": "Absolutely! Divide the batter into a lined muffin tin and bake at 350°F for about 20-25 minutes. Keep an eye on them and test doneness with a toothpick. Muffins will be smaller, so adjust baking time accordingly."
+        },
+        {
+            "question": "What’s the best way to store leftover bread?",
+            "answer": "Wrap leftovers tightly in plastic wrap or place in an airtight container. Store at room temperature for up to 2 days or refrigerate for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        },
+        {
+            "question": "Is there a gluten-free version of this recipe?",
+            "answer": "Yes, you can substitute all-purpose flour with a gluten-free flour blend that contains xanthan gum. The texture may be slightly different but still delicious. Avoid overmixing and consider slightly less baking powder for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this lemon zucchini bread as much as I do! Don’t forget to share your baking stories and tweaks—I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "lemon zucchini bread recipe",
+        "secondary_keywords": [
+            "moist zucchini bread",
+            "lemon bread with glaze",
+            "how to make lemon zucchini bread",
+            "best lemon zucchini bread recipe",
+            "easy lemon zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "Best Homemade Zucchini Bread",
+                "anchor": "best-homemade-zucchini-bread"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_1.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_2.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_3.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Deliciously Moist Lemon Zucchini Bread You’ll Crave Every Morning"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Deliciously Moist Lemon Zucchini Bread You’ll Crave Every Morning"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How To Make The Best Lemon Zucchini Bread with Pudding Glaze"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Simple Lemon Zucchini Bread Recipe with a Twist of Citrus Magic"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Fresh & Zesty Lemon Zucchini Bread That’s Perfect For Any Time"
+        },
+        {
+            "fileName": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images/easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Deliciously Moist Lemon Zucchini Bread You’ll Crave Every Morning"
+        }
+    ],
+    "id": "post_1785798386_549",
+    "slug": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat",
+    "isOnline": true,
+    "createdAt": "2026-08-04T00:26:20+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-04T00:26:20+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-lemon-zucchini-bread-with-lemon-pudding-for-a-moist-flavorful-treat/images",
+    "has_reel": true
+}
