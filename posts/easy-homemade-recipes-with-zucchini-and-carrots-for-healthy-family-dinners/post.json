@@ -96,7 +96,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Recipe Shines with Fresh Veggies",
-        "content": "<p>One of the key reasons this zucchini and carrot stir fry works so well is the balance of cooking times and techniques that preserve the natural texture and flavor of the vegetables. Carrots are denser and take longer to soften, so adding them first ensures they cook through without the zucchini becoming mushy. Zucchini has a high water content, so cooking it gently over medium heat prevents it from releasing too much moisture, which could otherwise make the dish soggy.</p><p>The use of garlic and fresh thyme infused in olive oil early on is a classic flavor-building technique. Heating the herbs and garlic in oil extracts their essential oils and aromas, which then coat the vegetables during cooking, giving the dish depth without overpowering the delicate veggie flavors. Adding lemon juice at the end introduces acidity that brightens the dish and balances the natural sweetness of the carrots and zucchini, enhancing the overall flavor profile.</p><p>Finally, fresh parsley as a garnish adds a subtle peppery freshness and makes the dish visually appealing. This recipe relies on minimal seasoning to let the vegetables shine, making it a healthy and light option that still feels satisfying. The timing and order of ingredient additions are essential to achieving the perfect texture contrast and vibrant colors that make this stir fry so inviting.</p>",
+        "content": "<p>One of the key reasons this zucchini and carrot stir fry works so well is the balance of cooking times and techniques that preserve the natural texture and flavor of the vegetables. Carrots are denser and take longer to soften, so adding them first ensures they cook through without the zucchini becoming mushy. Zucchini has a high water content, so cooking it gently over medium heat prevents it from releasing too much moisture, which could otherwise make the dish soggy.<\/p><p>The use of garlic and fresh thyme infused in olive oil early on is a classic flavor-building technique. Heating the herbs and garlic in oil extracts their essential oils and aromas, which then coat the vegetables during cooking, giving the dish depth without overpowering the delicate veggie flavors. Adding lemon juice at the end introduces acidity that brightens the dish and balances the natural sweetness of the carrots and zucchini, enhancing the overall flavor profile.<\/p><p>Finally, fresh parsley as a garnish adds a subtle peppery freshness and makes the dish visually appealing. This recipe relies on minimal seasoning to let the vegetables shine, making it a healthy and light option that still feels satisfying. The timing and order of ingredient additions are essential to achieving the perfect texture contrast and vibrant colors that make this stir fry so inviting.<\/p>",
         "ingredient_notes": {
             "Zucchini": "When selecting zucchini, look for firm, medium-sized ones with smooth, unblemished skin. Smaller zucchini tend to be sweeter and less watery, which is ideal for stir frying. Overly large zucchini can be seedy and watery, which affects texture and flavor. Slice uniformly to ensure even cooking and prevent mushiness.",
             "Carrots": "Choose fresh, firm carrots with bright orange color and no cracks. They add natural sweetness and crunch to the dish. Thin slicing helps them cook faster and blend well with zucchini. Avoid carrots that are soft or woody, as they won’t soften evenly during the stir fry.",
@@ -262,27 +262,87 @@
     "images": [
         {
             "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
-            "filePath": "posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
-            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_1.webp",
             "originalUrl": "openai-generated",
             "order": 1,
             "type": "main"
         },
         {
             "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
-            "filePath": "posts/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
-            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "template": "classic",
+            "title": "Quick & Tasty Zucchini Carrot Stir Fry for Busy Evenings"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_5.webp",
+            "order": 5,
+            "type": "template",
+            "template": "classic",
+            "title": "Brighten Your Dinner with This Easy Zucchini and Carrot Stir Fry"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_6.webp",
+            "order": 6,
+            "type": "template",
+            "template": "classic",
+            "title": "Healthy Weeknight Dinner: Garlic Herb Zucchini and Carrots"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_7.webp",
+            "order": 7,
+            "type": "template",
+            "template": "classic",
+            "title": "Simple Stir Fry with Zucchini and Carrots That Everyone Will Love"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_8.webp",
+            "order": 8,
+            "type": "recipe_card",
+            "template": "recipe_card",
+            "title": "Quick & Tasty Zucchini Carrot Stir Fry for Busy Evenings"
+        },
+        {
+            "fileName": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/Mollykitchendaily\/posts\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images\/easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners_Mollykitchendaily_image_9.webp",
+            "order": 9,
+            "type": "overlay_list",
+            "template": "overlay_list",
+            "title": "Quick & Tasty Zucchini Carrot Stir Fry for Busy Evenings"
         }
     ],
     "id": "post_1785884862_242",
     "slug": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners",
-    "isOnline": false,
-    "createdAt": "2026-08-04T23:07:42+00:00",
+    "isOnline": true,
+    "createdAt": "2026-08-05T11:17:44+01:00",
     "author_id": "author_001",
-    "updatedAt": "2026-08-05T00:26:52+01:00",
+    "updatedAt": "2026-08-05T11:17:44+01:00",
     "category_id": "cat_1761230383_494",
-    "image_dir": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners/images"
+    "image_dir": "easy-homemade-recipes-with-zucchini-and-carrots-for-healthy-family-dinners\/images"
 }
