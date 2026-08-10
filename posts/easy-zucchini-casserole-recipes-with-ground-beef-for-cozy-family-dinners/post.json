@@ -1,0 +1,350 @@
+{
+    "title": "Hearty Zucchini Casserole with Ground Beef and Cheese Layers",
+    "promptIMG": "Food photography: Hearty Zucchini Casserole with Ground Beef, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This zucchini casserole is my go-to comfort meal—ground beef melds with fresh zucchini and a creamy, cheesy sauce. It’s simple but feels special, perfect for cozy weeknights when you want something filling without fuss.",
+    "hashtags": "#zucchininight #comfortfood #easyweeknightdinner",
+    "board_name": "Easy Ground Beef Dinners",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Easy Zucchini and Beef Casserole Tonight!",
+            "description": "Looking for a comforting dinner that's simple to make? This cheesy zucchini casserole with savory ground beef hits all the right notes. Save this recipe and try it tonight! 🥘🧀 #easyrecipes #comfortfood #dinnerideas"
+        },
+        {
+            "title": "Why This Zucchini Casserole Is the Perfect Weeknight Dinner",
+            "description": "Tender zucchini, flavorful beef, and melty cheese come together in this easy casserole. It’s hearty, satisfying, and ready in under an hour. Discover this recipe and make dinner stress-free! 🍽️❤️ #weeknightmeals #groundbeefrecipes #easycasserole"
+        },
+        {
+            "title": "Simple Zucchini and Beef Bake You’ll Make Again and Again",
+            "description": "If you love cozy casseroles, this zucchini and ground beef bake is a winner. Creamy, cheesy, and packed with flavor—give it a try and see why it’s a family favorite! Save for later! 🥒🍖🧀 #familydinner #casserolerecipe #comfortfoodlover"
+        },
+        {
+            "title": "Make Dinner Easy with This Cheesy Zucchini and Beef Casserole",
+            "description": "Need a fuss-free, filling dinner? This zucchini casserole with ground beef and cheese is just that. Perfect for busy nights when you want something homemade and delicious. Try it today! 🍳🧀 #easyweeknightdinner #groundbeefcasserole #cheesyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb ground beef, lean",
+        "3 medium zucchinis, thinly sliced",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 cup shredded cheddar cheese",
+        "1 cup shredded mozzarella cheese",
+        "1 cup milk",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons butter",
+        "Salt and pepper to taste",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon paprika",
+        "Olive oil for sautéing"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried a zucchini casserole years ago when I wanted a cozy, no-fuss dinner that felt satisfying but didn’t take forever. Since then, I’ve tweaked the recipe to make it just right for my family. What sets this version apart? The layering technique — fresh zucchini slices alternate with a savory ground beef mix and a luscious homemade cheese sauce. That sauce is the secret to keeping everything creamy and rich without feeling heavy. Plus, I like to season the beef with oregano and paprika for a subtle warmth that complements the zucchini’s mild flavor. I’ll admit, my first attempt was a bit watery because I didn’t slice the zucchini thin enough or drain it properly, but once I fixed that, the casserole came out perfectly tender and cheesy every time. The finished dish is golden on top with bubbling cheese and tender layers underneath, making it just the right kind of comforting for weeknight dinners or casual weekends. I love how it feels both hearty and fresh, and it’s a great way to sneak in some veggies without anyone complaining. If you’re looking for a simple, satisfying meal that’s easy to prep and bake, this casserole might just become your new favorite.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by slicing the zucchinis thinly—about 1/8 inch thick works best. This ensures they cook evenly and don’t release too much water during baking, which could make the casserole soggy. Lay the slices out on a clean kitchen towel or paper towels and sprinkle lightly with salt. Let them sit for 10 minutes to draw out excess moisture, then pat dry thoroughly. This step is crucial to avoid a watery dish and to concentrate the zucchini’s flavor.",
+            "timing": "15 minutes",
+            "doneness_cue": "Zucchini slices will feel less wet and somewhat pliable but not soggy."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat a tablespoon of olive oil in a skillet over medium heat. Add the chopped onion and cook until translucent, about 4 minutes. Stir in minced garlic and cook for another minute until fragrant. Add the ground beef, breaking it apart with a spoon, and cook until browned and no longer pink, around 7-8 minutes. Season with salt, pepper, oregano, and paprika. Cooking the beef thoroughly and seasoning well builds the casserole's savory base—don’t rush this step.",
+            "timing": "10 minutes",
+            "doneness_cue": "Beef should be browned with no pink remaining and onions soft and fragrant."
+        },
+        {
+            "step": 3,
+            "instruction": "While the beef cooks, prepare the cheese sauce. Melt butter in a small saucepan over medium heat. Once melted, whisk in the flour and cook for about a minute, stirring constantly to form a roux. Slowly whisk in the milk, ensuring no lumps form. Continue whisking until the mixture thickens and coats the back of a spoon, about 4-5 minutes. This sauce will add creaminess and help bind the casserole layers together.",
+            "timing": "7 minutes",
+            "doneness_cue": "Sauce should be thick, smooth, and creamy without lumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the cheese sauce from heat and stir in half of the shredded cheddar and all of the mozzarella until melted and smooth. Set aside. This melty cheese blend adds richness and a stretchy texture that makes the casserole irresistible.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese fully melted and sauce glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Preheat your oven to 375°F (190°C). Lightly grease a 9x9 inch baking dish with olive oil or butter to prevent sticking and help with browning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dish is evenly coated and ready for layering."
+        },
+        {
+            "step": 6,
+            "instruction": "Start assembling the casserole by layering half of the zucchini slices in the bottom of the dish. Spread the cooked ground beef mixture evenly over the zucchini layer. Then pour half of the cheese sauce over the beef, spreading gently with a spoon to cover. Repeat the layers with the remaining zucchini and cheese sauce. This layering ensures every bite has a balanced mix of flavors and textures.",
+            "timing": "10 minutes",
+            "doneness_cue": "Layers are evenly distributed and the top is covered with cheese sauce."
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle the remaining cheddar cheese over the top of the casserole for a golden, bubbly crust. This final cheese layer creates a deliciously crispy topping once baked.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese evenly spread and ready to melt."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the casserole in the preheated oven for 25-30 minutes until the cheese is golden and bubbling and the zucchini is tender when pierced with a fork. Baking melds the flavors and cooks the zucchini perfectly without making it mushy.",
+            "timing": "30 minutes",
+            "doneness_cue": "Top is golden brown and casserole bubbles around edges."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the casserole rest for 5-10 minutes after baking before serving. This helps it set, making it easier to cut clean slices and allowing flavors to settle.",
+            "timing": "10 minutes",
+            "doneness_cue": "Casserole is warm but firm enough to slice neatly."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Hearty Zucchini Casserole",
+        "content": "<p>This zucchini casserole succeeds because of careful moisture control and layering that balances textures and flavors. Zucchini naturally contains a lot of water, so salting and draining the slices before baking prevents the casserole from becoming watery. This simple step draws out excess liquid and concentrates the vegetable's flavor, which is often overlooked in similar recipes.</p><p>The ground beef is browned with aromatics like onion and garlic, which develops deep savory notes through the Maillard reaction — that browning adds complexity and umami to the dish. Seasoning the beef well with oregano and paprika introduces warmth and earthiness that complements the mild zucchini.</p><p>The cheese sauce is a classic béchamel base with melted cheddar and mozzarella stirred in. This sauce not only adds creaminess but also acts as a binder, holding the layers together. The flour in the roux thickens the milk, ensuring the sauce clings to the beef and veggies rather than pooling at the bottom. The blend of cheddar and mozzarella provides a balance of sharpness and stretchiness, creating a luscious texture.</p><p>Baking the casserole at a moderate temperature allows the layers to meld without overcooking the zucchini, preserving a tender but not mushy texture. The final rest period lets the casserole set, making it easier to serve and enhancing flavor melding. Together, these techniques create a comforting dish that’s both fresh and satisfying.</p>",
+        "ingredient_notes": {
+            "ground beef": "Choose lean ground beef with around 85% lean meat to keep the casserole flavorful without excess grease. Too fatty beef can make the dish oily, while very lean beef might dry out. Browning the beef properly develops savory flavors through the Maillard reaction, so cook it until nicely browned but not burnt.",
+            "zucchini": "Select firm, medium-sized zucchinis with bright skin and no soft spots. Thinly slicing and salting them before use is key to removing excess moisture, which helps prevent sogginess in the casserole. Avoid large, overly mature zucchinis, as they tend to be watery and seedy.",
+            "cheddar cheese": "Use sharp or medium cheddar for a punch of flavor that cuts through the creaminess. Freshly shredded cheese melts better and avoids clumping compared to pre-shredded varieties that often contain anti-caking agents.",
+            "milk": "Whole milk works best for the béchamel sauce, providing richness and helping the sauce thicken smoothly. Using low-fat or skim milk can result in a thinner sauce that lacks body.",
+            "all-purpose flour": "Flour is essential for making the roux, which thickens the cheese sauce. Cook it briefly with butter to eliminate the raw flour taste before adding milk. Using too much flour can create a pasty sauce, so measure carefully."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Salt and drain the zucchini slices before assembling the casserole.",
+            "reason": "Zucchini contains a lot of water, which can make your casserole watery if not handled properly. Salting draws out excess moisture, and draining or patting dry prevents sogginess, ensuring a tender but not mushy texture."
+        },
+        {
+            "tip": "Brown the ground beef thoroughly with onions and garlic.",
+            "reason": "Browning creates complex flavors through the Maillard reaction, which enhances the savory depth of the casserole. Cooking the beef well also prevents it from releasing excess moisture during baking."
+        },
+        {
+            "tip": "Make a smooth béchamel cheese sauce instead of just sprinkling cheese.",
+            "reason": "The sauce binds the layers and adds creaminess without heaviness. Whisking the roux and milk ensures a thick, silky base that melts cheese evenly and prevents clumping."
+        },
+        {
+            "tip": "Use a mix of cheddar and mozzarella cheeses.",
+            "reason": "Cheddar adds sharpness and flavor, while mozzarella provides stretch and creaminess. Together, they create a balanced, luscious melt that makes the casserole irresistible."
+        },
+        {
+            "tip": "Let the casserole rest after baking before serving.",
+            "reason": "Resting allows the layers to set, making it easier to slice and serve clean portions. It also helps the flavors meld and prevents the cheese from being too runny."
+        },
+        {
+            "tip": "Use thin zucchini slices for even cooking.",
+            "reason": "Thin slices cook faster and more evenly, ensuring the zucchini becomes tender without turning mushy. Thick slices risk uneven cooking and can release more water."
+        },
+        {
+            "tip": "Preheat the oven fully before baking.",
+            "reason": "An evenly preheated oven ensures the casserole cooks consistently throughout, helping the cheese brown nicely on top without drying out the interior layers."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining zucchini before baking.",
+            "why_it_happens": "Many cooks overlook zucchini’s high water content and skip salting or drying it, assuming it won’t affect the dish much.",
+            "fix": "Slice zucchini thinly, sprinkle with salt, and let it sit for 10 minutes. Then pat dry thoroughly with paper towels before layering. This prevents excess moisture from making the casserole watery."
+        },
+        {
+            "mistake": "Skipping browning the ground beef properly.",
+            "why_it_happens": "Rushing through cooking or crowding the pan causes beef to steam rather than brown, leading to bland flavor and excess liquid.",
+            "fix": "Cook beef in batches if needed over medium-high heat, stirring occasionally until nicely browned and no pink remains. This boosts flavor and reduces moisture."
+        },
+        {
+            "mistake": "Adding cheese directly without making a sauce.",
+            "why_it_happens": "Some assume sprinkling shredded cheese on top is enough, missing the richness a béchamel sauce provides.",
+            "fix": "Make a simple roux-based cheese sauce to bind ingredients and add creamy texture. It also helps cheese melt evenly and avoid clumping."
+        },
+        {
+            "mistake": "Baking at too high a temperature.",
+            "why_it_happens": "To speed up cooking, some bake casseroles too hot, which can dry out the top while leaving inside undercooked.",
+            "fix": "Bake at 375°F (190°C) to allow even cooking and melting. This temperature balances browning and tenderness."
+        },
+        {
+            "mistake": "Cutting casserole immediately after baking.",
+            "why_it_happens": "Impatience leads to serving right out of the oven, causing runny slices and messy portions.",
+            "fix": "Let the casserole rest 5-10 minutes after baking to set and firm up for clean slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Zucchini and Beef Casserole",
+            "description": "Add a diced jalapeño or 1/2 teaspoon cayenne pepper to the ground beef while cooking for a nice kick. You can also sprinkle crushed red pepper flakes over the cheese topping before baking. This variation adds a warming heat that pairs wonderfully with the creamy cheese sauce.",
+            "technical_note": "Adjust spice level carefully; too much heat can overpower the delicate zucchini flavor."
+        },
+        {
+            "name": "Vegetarian Zucchini Casserole",
+            "description": "Replace ground beef with cooked lentils or a plant-based ground meat substitute. Use vegetable broth in the cheese sauce and add extra mushrooms or bell peppers for texture. This keeps the casserole hearty and satisfying without meat.",
+            "technical_note": "Ensure plant-based proteins are well seasoned and cooked to avoid blandness."
+        },
+        {
+            "name": "Herbed Zucchini and Beef Bake",
+            "description": "Mix fresh herbs like thyme, rosemary, and parsley into the beef mixture and sprinkle chopped herbs on top before baking. This freshens the flavor profile and adds an aromatic lift to the dish.",
+            "technical_note": "Fresh herbs should be added near the end of cooking to preserve their brightness."
+        },
+        {
+            "name": "Zucchini and Beef Casserole with Tomato Sauce",
+            "description": "Add a layer of marinara or tomato sauce between the zucchini and beef layers for a tangy twist. This adds moisture and a slightly acidic contrast to the creamy cheese sauce, making the casserole more complex.",
+            "technical_note": "Reduce added salt since tomato sauce can be salty."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Substitute all-purpose flour with a gluten-free flour blend or cornstarch for thickening the cheese sauce. Ensure all other ingredients (like broth or seasoning) are gluten-free to keep it safe for dietary needs.",
+            "technical_note": "Cornstarch requires a slightly different technique: mix with cold liquid first and cook until thickened."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "28g",
+        "fiber_grams": "3g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The casserole can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean kitchen towel. Beyond that, it’s best to refrigerate to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The casserole may firm up and flavors deepen overnight. Reheat gently in the oven or microwave, adding a splash of milk if it feels dry.",
+        "freezer": "Freeze the casserole in a tightly sealed container or wrapped well in foil and plastic wrap for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven covered with foil for 15-20 minutes until warmed through, or microwave individual portions on medium power, stirring occasionally. Adding a little milk or broth helps restore creaminess. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the beef mixture and cheese sauce up to 2 days ahead and refrigerate separately. Slice and salt zucchini on the day of assembly to keep it fresh. Assemble just before baking for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this casserole?",
+            "answer": "Frozen zucchini tends to release a lot of water when thawed, which can make the casserole watery. If you must use frozen, thaw it completely, drain and pat dry very well before layering. Fresh zucchini is always best for texture."
+        },
+        {
+            "question": "What can I substitute for ground beef?",
+            "answer": "Ground turkey or chicken can work but may be leaner and less flavorful, so add extra seasoning. For a vegetarian option, cooked lentils or plant-based crumbles are great substitutes that keep the texture hearty."
+        },
+        {
+            "question": "How do I prevent the casserole from being soggy?",
+            "answer": "The key is salting and draining zucchini slices before baking to remove excess moisture. Also, browning the beef thoroughly reduces liquid release. Avoid overcrowding the pan or baking dish, which traps steam and causes sogginess."
+        },
+        {
+            "question": "Can I make this casserole ahead and freeze it?",
+            "answer": "Yes! Assemble the casserole and freeze before baking. Wrap tightly to prevent freezer burn. When ready, thaw overnight in the fridge and bake as directed, adding a few extra minutes if needed."
+        },
+        {
+            "question": "What’s the best cheese to use?",
+            "answer": "A combination of sharp cheddar and mozzarella works well—cheddar for flavor and mozzarella for meltiness. Freshly shredded cheese melts better than pre-shredded. You can experiment with other cheeses like Monterey Jack or Gruyère."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Absolutely. Substitute all-purpose flour with a gluten-free blend or cornstarch for the cheese sauce. Just be careful with other ingredients to ensure they’re gluten-free, especially processed cheeses or broths."
+        },
+        {
+            "question": "How long does it keep in the fridge?",
+            "answer": "Stored in an airtight container, the casserole will keep well for up to 3 days. The flavors often improve after a day. Reheat gently to avoid drying it out."
+        },
+        {
+            "question": "Is there a way to add more veggies?",
+            "answer": "Definitely! You can add diced bell peppers, mushrooms, or spinach to the beef mixture for extra nutrition and flavor. Just sauté them with the onions before adding the beef."
+        }
+    ],
+    "conclusion": "Give this zucchini casserole a try—you’ll love how comforting and easy it is. Don’t forget to share how it turns out for you!",
+    "seo": {
+        "primary_keyword": "zucchini casserole with ground beef",
+        "secondary_keywords": [
+            "easy ground beef casserole",
+            "zucchini bake recipe",
+            "how to make zucchini casserole",
+            "best zucchini casserole recipe",
+            "easy zucchini dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "classic beef and vegetable casserole",
+                "anchor": "classic-beef-vegetable-casserole"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Simple Zucchini and Beef Bake You’ll Make Again and Again"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Cozy Up with This Easy Zucchini and Beef Casserole Tonight!"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Cozy Up with This Easy Zucchini and Beef Casserole Tonight!"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Cozy Up with This Easy Zucchini and Beef Casserole Tonight!"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Make Dinner Easy with This Cheesy Zucchini and Beef Casserole"
+        },
+        {
+            "fileName": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images/easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Why This Zucchini Casserole Is the Perfect Weeknight Dinner"
+        }
+    ],
+    "id": "post_1786403355_806",
+    "slug": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners",
+    "isOnline": true,
+    "createdAt": "2026-08-11T00:32:04+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-11T00:32:04+01:00",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "easy-zucchini-casserole-recipes-with-ground-beef-for-cozy-family-dinners/images",
+    "has_reel": true
+}

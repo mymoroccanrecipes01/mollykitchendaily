@@ -1,0 +1,350 @@
+{
+    "title": "Snickerdoodle Zucchini Bread with a Cozy Coconut Oil Twist",
+    "promptIMG": "Food photography: Snickerdoodle Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This snickerdoodle zucchini bread is a moist, flavorful spin on a classic favorite. The coconut oil adds a gentle richness that keeps every bite tender. Great for breakfast or a comforting afternoon snack!",
+    "hashtags": "#snickerdoodlezucchinibread #moistbread #comfortbaking",
+    "board_name": "Easy Zucchini Bread Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Moist Snickerdoodle Zucchini Bread!",
+            "description": "Looking for a tender, flavorful zucchini bread? This snickerdoodle version with coconut oil is perfect for your next breakfast or snack. Save this recipe and try it today! 🍞🌿 #zucchinibread #snickerdoodle #bakinglove"
+        },
+        {
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Want Every Day",
+            "description": "Say goodbye to dry zucchini bread! This recipe uses coconut oil for a soft crumb and warm cinnamon sugar flavors. Discover now and add it to your cozy baking list. 🍂✨ #comfortfood #snickerdoodlebread #easyrecipes"
+        },
+        {
+            "title": "The Best Snickerdoodle Zucchini Bread for Fall Mornings",
+            "description": "Perfectly spiced, tender, and moist—this zucchini bread is elevated with coconut oil and classic snickerdoodle flavors. Try it today and enjoy a slice with your coffee! ☕🍃 #fallbaking #zucchinibread #snickerdoodle"
+        },
+        {
+            "title": "Tender Snickerdoodle Zucchini Bread That Feels Like Home",
+            "description": "This zucchini bread recipe is a cozy twist on a classic, packed with cinnamon sugar and made tender with coconut oil. Save this one for your next baking day! 🧡🍞 #homemadebread #snickerdoodle #bakingrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 tablespoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1/2 cup coconut oil, melted and cooled",
+        "3/4 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups finely shredded zucchini, squeezed dry",
+        "1/4 cup sour cream or Greek yogurt",
+        "2 teaspoons cinnamon sugar for topping"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I've been making zucchini bread for years, but this snickerdoodle version quickly became my family's favorite. The first time I added coconut oil instead of butter, it transformed the texture—so tender and moist without being greasy. Plus, the cinnamon sugar swirl on top gives it that nostalgic snickerdoodle vibe that feels like a warm hug. I remember the first batch I baked; I was worried the zucchini might make it too dense, but shredding it finely and squeezing out excess moisture was a total game changer. I also mix in a little sour cream to keep it luscious and soft. What makes this recipe stand out is balancing the spices with the natural sweetness of zucchini, plus the subtle richness from coconut oil that you don’t get with regular oil. When it’s fresh out of the oven, the aroma alone is enough to make you want a second slice. It’s perfect for a cozy weekend breakfast or an afternoon treat with tea. I love how versatile it is—warm or at room temperature, it never disappoints. If you’re looking for a simple, comforting loaf with a fun twist, this is the one I recommend trying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x5 inch loaf pan with coconut oil or line it with parchment paper. This ensures your bread doesn’t stick and comes out cleanly. Proper greasing is crucial because zucchini bread batter is moist, which can cause sticking if skipped. Using parchment paper also makes cleanup easier, giving you perfect edges every time.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan is evenly greased or parchment is fully fitted inside the loaf pan."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, salt, cinnamon, and nutmeg. This dry mix builds the flavor base and the leavening necessary for a tender crumb. Whisking helps distribute the spices evenly throughout the batter, so every bite has that classic snickerdoodle warmth. Be sure to sift or whisk thoroughly to avoid clumps.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no visible lumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the melted coconut oil with granulated sugar and brown sugar until combined but not fluffy. Coconut oil adds moisture and subtle richness, but it won’t cream like butter, so don’t overbeat here. Mixing sugars with the oil dissolves some sugar crystals, which helps keep the bread moist and tender.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sugar and oil mixture looks smooth and slightly glossy."
+        },
+        {
+            "step": 4,
+            "instruction": "Add eggs one at a time to the sugar-oil mixture, beating well after each addition. This helps emulsify the batter and traps air for a light texture. Then stir in vanilla extract for depth of flavor. Make sure the eggs are at room temperature to blend smoothly and avoid curdling the batter.",
+            "timing": "4 minutes",
+            "doneness_cue": "Batter is smooth and slightly thickened without streaks of egg."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the shredded zucchini and sour cream gently into the wet mixture. The zucchini adds moisture and texture, while sour cream contributes tenderness and a slight tang that balances the sweetness. Be careful not to overmix here; gentle folding keeps the bread light and prevents it from becoming dense.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini is evenly distributed with no large clumps; batter looks cohesive."
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually add the dry ingredients to the wet zucchini mixture, folding carefully until just combined. Overmixing activates gluten, which can make the bread tough. Stop folding as soon as you see no flour streaks. The batter should be thick but pourable.",
+            "timing": "3 minutes",
+            "doneness_cue": "No visible pockets of flour; batter is thick and smooth."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Sprinkle the cinnamon sugar evenly over the surface. This topping caramelizes during baking, creating a slightly crunchy, sweet crust that’s signature to snickerdoodle treats. Don’t skip this step—it adds a beautiful finishing touch both in flavor and appearance.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is level in pan with an even layer of cinnamon sugar on top."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 45 to 50 minutes. Start checking at 40 minutes by inserting a toothpick in the center; it should come out clean or with a few moist crumbs. Baking at 350°F gives the bread time to cook through without drying out the edges. Avoid opening the oven too often, as this can cause uneven rising.",
+            "timing": "45 minutes",
+            "doneness_cue": "Toothpick inserted in center comes out mostly clean; top is golden brown."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the bread cool in the pan for about 15 minutes before transferring to a wire rack. Cooling allows the crumb to set and makes slicing easier without crumbling. If you cut it too soon, the bread might fall apart because it’s still fragile while warm. Once cooled, store in an airtight container to keep it fresh.",
+            "timing": "15 minutes",
+            "doneness_cue": "Loaf is firm to the touch and slices cleanly without crumbling."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Snickerdoodle Zucchini Bread Comes Out Perfect Every Time",
+        "content": "<p>This recipe strikes a delicate balance between moisture and structure, which is key for zucchini bread. The coconut oil replaces traditional butter or vegetable oil, adding a subtle richness without weighing down the crumb. Coconut oil is solid at room temperature but melts quickly, which helps trap air during mixing and contributes to tenderness.</p><p>Using finely shredded zucchini is essential because it distributes moisture evenly and prevents dense spots. Squeezing out excess water avoids a soggy texture while still keeping the bread moist. The addition of sour cream or Greek yogurt adds a touch of acidity that tenderizes the gluten network, resulting in a soft crumb and a slight tang that complements the warm spices.</p><p>The cinnamon and nutmeg blend is what gives this loaf its snickerdoodle identity. Cinnamon sugar sprinkled on top caramelizes during baking, creating a thin, crackly crust that contrasts beautifully with the soft interior. The baking soda acts as a leavening agent, reacting with the acidic sour cream to produce lift and lightness.</p><p>Finally, careful folding and mixing techniques prevent overworking the batter, which could otherwise develop too much gluten and create a tough loaf. This recipe’s success lies in combining these ingredient interactions and techniques to produce a moist, tender, flavorful zucchini bread every time.</p>",
+        "ingredient_notes": {
+            "coconut oil": "Look for virgin or unrefined coconut oil for the best flavor and nutrition. It should be melted and cooled before mixing to avoid cooking the eggs. Coconut oil adds moisture and a subtle tropical note that complements cinnamon well. If substituting, use melted butter or vegetable oil but expect a slightly different texture and flavor.",
+            "zucchini": "Choose fresh, firm zucchini without soft spots. Shred finely and squeeze out excess moisture using a clean towel or cheesecloth to prevent soggy batter. Zucchini adds moisture and a mild vegetal flavor, which balances the spices. Using coarser shreds may create uneven texture.",
+            "sour cream": "Adds moisture and acidity that tenderizes gluten, giving the bread a soft crumb and subtle tang. You can substitute Greek yogurt if needed. Avoid using low-fat versions, as full-fat provides the best texture and richness.",
+            "cinnamon sugar": "A mix of granulated sugar and cinnamon sprinkled on top caramelizes during baking, creating a signature snickerdoodle crunch. Use fresh cinnamon for the best aroma. Skipping this step loses the classic snickerdoodle crust effect.",
+            "baking soda": "Acts as a leavening agent by reacting with the acidic sour cream to produce carbon dioxide bubbles that help the bread rise. Be sure to measure carefully; too much can cause a metallic taste and too little results in dense bread."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze out zucchini moisture thoroughly before adding it to the batter.",
+            "reason": "Excess water in zucchini can make your bread soggy and dense. By squeezing it out, you ensure the right moisture balance so your loaf stays tender but not wet."
+        },
+        {
+            "tip": "Use room temperature eggs for smoother mixing.",
+            "reason": "Cold eggs can cause the coconut oil to solidify or curdle the batter. Letting eggs come to room temperature helps them blend seamlessly, resulting in a uniform texture."
+        },
+        {
+            "tip": "Don’t overmix the batter once the flour is added.",
+            "reason": "Overmixing develops gluten, which can make the bread tough. Fold gently until just combined for a tender crumb."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cutting warm zucchini bread can cause it to crumble because the crumb hasn’t set yet. Cooling allows the structure to firm up for clean slices."
+        },
+        {
+            "tip": "Add a cinnamon sugar topping for that classic snickerdoodle crunch.",
+            "reason": "This step adds texture and flavor contrast with caramelized sugar on top, making every bite more exciting."
+        },
+        {
+            "tip": "Use fresh spices for the best aroma and flavor.",
+            "reason": "Old spices lose potency and can make your bread taste flat. Fresh cinnamon and nutmeg brighten the snickerdoodle profile."
+        },
+        {
+            "tip": "Line your loaf pan with parchment paper for easy removal.",
+            "reason": "Zucchini bread is moist and sticky; parchment paper prevents sticking and helps maintain the loaf’s shape when removing it from the pan."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out enough moisture from zucchini",
+            "why_it_happens": "Many assume shredded zucchini won’t add too much water, but it contains a lot of moisture that can ruin the texture.",
+            "fix": "After shredding, place zucchini in a clean kitchen towel and squeeze firmly to remove excess liquid. This prevents soggy or gummy bread."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly for a smooth batter, but this develops gluten, making the bread tough.",
+            "fix": "Use a folding motion and stop mixing as soon as the flour disappears. A few streaks of flour are okay."
+        },
+        {
+            "mistake": "Skipping the cinnamon sugar topping",
+            "why_it_happens": "Sometimes overlooked as just decoration, but it’s key for that snickerdoodle signature crunch.",
+            "fix": "Don’t forget to sprinkle the cinnamon sugar evenly over the batter before baking for added texture and flavor."
+        },
+        {
+            "mistake": "Using cold eggs or coconut oil",
+            "why_it_happens": "Cold ingredients can cause the batter to seize or curdle, affecting texture.",
+            "fix": "Bring eggs and coconut oil to room temperature before mixing for a smooth, cohesive batter."
+        },
+        {
+            "mistake": "Cutting the bread too soon",
+            "why_it_happens": "Warm bread is fragile and prone to crumbling.",
+            "fix": "Allow the bread to cool completely in the pan and on a rack before slicing to hold its shape."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Snickerdoodle Zucchini Bread",
+            "description": "Add 1/2 cup chopped walnuts to the batter for a delightful crunch and nutty flavor that pairs beautifully with the cinnamon sugar topping. The nuts add texture and depth, making this loaf extra special.",
+            "technical_note": "Fold walnuts in gently with the zucchini to avoid overmixing; baking time remains the same."
+        },
+        {
+            "name": "Gluten-Free Snickerdoodle Zucchini Bread",
+            "description": "Swap the all-purpose flour for a 1-to-1 gluten-free flour blend. This makes the bread safe for gluten-sensitive folks while keeping it moist and tender. Expect a slightly different crumb texture but the same cozy flavors.",
+            "technical_note": "Add 1/4 teaspoon xanthan gum if your blend doesn’t contain it to help with structure."
+        },
+        {
+            "name": "Vegan Snickerdoodle Zucchini Bread",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use a plant-based yogurt instead of sour cream. Coconut oil stays the same. The loaf remains moist and flavorful, perfect for a vegan diet.",
+            "technical_note": "Flax eggs need a few minutes to thicken before adding; baking time may increase by 5 minutes."
+        },
+        {
+            "name": "Maple Cinnamon Zucchini Bread",
+            "description": "Swap granulated sugar for pure maple syrup for a deeper sweetness and add a teaspoon of ground ginger for warmth. This variation offers a cozy, autumnal twist with a richer flavor profile.",
+            "technical_note": "Reduce sour cream slightly to balance added liquid from maple syrup."
+        },
+        {
+            "name": "Lemon Zucchini Snickerdoodle Bread",
+            "description": "Add 1 tablespoon lemon zest and replace half the vanilla with lemon extract for a fresh, bright flavor contrast to the warm spices. This version feels lighter and spring-ready while keeping the moist texture.",
+            "technical_note": "Monitor baking closely as citrus can affect browning; tent with foil if browning too fast."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "250 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "10g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the bread covered loosely with a clean towel or in a bread box for up to 2 days. This protects it from drying out while allowing some air circulation to prevent sogginess.",
+        "refrigerator": "Store in an airtight container or wrapped tightly in plastic wrap for up to 5 days. The bread may firm up in the fridge; bring to room temperature or warm slightly before serving for best texture.",
+        "freezer": "Wrap the cooled loaf tightly in plastic wrap and then foil to freeze for up to 3 months. To thaw, leave at room temperature for several hours or overnight. Avoid microwaving frozen bread directly as it can become rubbery.",
+        "reheating": "Warm slices gently in a toaster oven or microwave for 15-20 seconds. Adding a tiny dab of butter or a splash of milk before warming can help restore moisture. Avoid overheating which dries out the bread.",
+        "make_ahead_strategy": "You can prepare the batter up to 24 hours ahead and keep it covered in the fridge. Stir gently before baking. Alternatively, bake the loaf fully, then freeze slices individually for quick snacks."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular vegetable oil instead of coconut oil?",
+            "answer": "Yes, you can substitute vegetable oil in equal amounts. However, coconut oil adds a subtle richness and helps the bread stay tender. Vegetable oil will work fine but the flavor and texture may be slightly less rich."
+        },
+        {
+            "question": "How do I prevent the bread from being too dense?",
+            "answer": "Make sure to squeeze out excess liquid from the zucchini and avoid overmixing the batter once flour is added. Overmixing develops gluten which makes the bread tough. Also, don’t pack the flour when measuring—use a spoon and level method."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Absolutely! Use a 1-to-1 gluten-free flour blend that contains xanthan gum or add it separately. The texture might be a bit different but still delicious. Baking time remains similar but check for doneness with a toothpick."
+        },
+        {
+            "question": "Why does my bread sometimes fall apart when sliced?",
+            "answer": "This usually happens if the bread is sliced before fully cooling. Let the loaf cool completely on a rack so the crumb sets. Also, make sure you’re not underbaking; a toothpick test helps confirm doneness."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes! Adding 1/2 cup chopped nuts or chocolate chips during the final fold-in adds texture and flavor. Just fold gently to avoid overmixing. Adjust baking time slightly if needed."
+        },
+        {
+            "question": "How do I store leftover bread?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge for 5 days. For longer storage, freeze well-wrapped slices up to 3 months."
+        },
+        {
+            "question": "Can I use frozen zucchini?",
+            "answer": "You can, but thaw and squeeze out all excess water very thoroughly before adding it to the batter. Frozen zucchini tends to release more moisture which can affect texture."
+        },
+        {
+            "question": "What if I don’t have sour cream?",
+            "answer": "Greek yogurt is a great substitute in equal amounts. It provides the same acidity and moisture to keep the bread tender and flavorful."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this snickerdoodle zucchini bread as much as my family does. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "snickerdoodle zucchini bread",
+        "secondary_keywords": [
+            "moist zucchini bread",
+            "coconut oil zucchini bread",
+            "how to make snickerdoodle zucchini bread",
+            "best zucchini bread recipe",
+            "easy zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "classic zucchini bread recipe",
+                "anchor": "classic-zucchini-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_1.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_2.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_3.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Tender Snickerdoodle Zucchini Bread That Feels Like Home"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Best Snickerdoodle Zucchini Bread for Fall Mornings"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Cozy Up with This Moist Snickerdoodle Zucchini Bread!"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Cozy Up with This Moist Snickerdoodle Zucchini Bread!"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Cozy Up with This Moist Snickerdoodle Zucchini Bread!"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images/easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Want Every Day"
+        }
+    ],
+    "id": "post_1786403036_453",
+    "slug": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves",
+    "isOnline": true,
+    "createdAt": "2026-08-11T00:32:04+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-11T00:32:04+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-snickerdoodle-zucchini-bread-with-coconut-oil-for-moist-spiced-loaves/images",
+    "has_reel": true
+}

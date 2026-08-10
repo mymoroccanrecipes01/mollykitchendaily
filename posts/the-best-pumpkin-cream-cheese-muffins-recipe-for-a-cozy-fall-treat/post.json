@@ -1,0 +1,353 @@
+{
+    "title": "Cozy Pumpkin Cream Cheese Muffins with a Luscious Swirl Inside",
+    "promptIMG": "Food photography: Pumpkin Cream Cheese Muffins, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These pumpkin cream cheese muffins are the ultimate cozy fall treat. Soft, moist, and featuring a rich cream cheese swirl, they’re perfect for breakfast or a comforting snack on chilly afternoons.",
+    "hashtags": "#pumpkinmuffins #fallbaking #creamcheesemuffins",
+    "board_name": "Easy Fall Baking",
+    "pin_variations": [
+        {
+            "title": "Irresistible Pumpkin Cream Cheese Muffins You Need This Fall",
+            "description": "These muffins are bursting with pumpkin flavor and a creamy cheese swirl that melts in your mouth. 🍂 Perfect for your morning coffee or a cozy snack. Save this recipe and bake some comfort today! #pumpkinrecipes #fallbaking #morningmuffins"
+        },
+        {
+            "title": "How To Make Moist Pumpkin Muffins with Cream Cheese Swirl",
+            "description": "Want fluffy, moist pumpkin muffins with a surprise cream cheese center? 🎃 This recipe is foolproof and comes together quickly. Try it today and enjoy a slice of fall! #pumpkinmuffins #easybaking #falltreats"
+        },
+        {
+            "title": "The Best Pumpkin Muffins with Cream Cheese - Soft & Delicious!",
+            "description": "These muffins are soft, tender, and have a creamy pumpkin-cream cheese combo you’ll love. 🧁 Perfect for breakfast or an afternoon pick-me-up. Discover the secret swirl now! #creamcheesemuffins #pumpkinbaking #cozyrecipes"
+        },
+        {
+            "title": "Fall Favorite: Pumpkin Muffins with a Cream Cheese Swirl Inside",
+            "description": "Pumpkin and cream cheese make the perfect pair in these moist, flavorful muffins. 🍁 Easy to make and perfect for sharing. Don’t miss out—bake a batch and spread the autumn vibes! #fallbaking #pumpkinlove #creamcheesetreats"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "1 3/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cloves",
+        "1/2 cup unsalted butter, melted and cooled",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 cup pumpkin puree (not pumpkin pie filling)",
+        "1 teaspoon vanilla extract",
+        "8 ounces cream cheese, softened",
+        "1/4 cup granulated sugar (for cream cheese mixture)",
+        "1 large egg yolk (for cream cheese mixture)",
+        "1/2 teaspoon vanilla extract (for cream cheese mixture)"
+    ],
+    "yield": "Approximately 12 muffins",
+    "introduction": "I first stumbled upon pumpkin cream cheese muffins a few years ago during a chilly October weekend when I was craving something that felt like a warm hug in food form. I experimented a bit, trying different pumpkin recipes, but nothing quite hit the spot until I added that luscious cream cheese swirl in the center. It’s what takes these muffins from good to unforgettable. The real pumpkin puree gives them that authentic fall flavor, and the cinnamon and warming spices add just the right touch of cozy. What makes my version stand out is the balance—the muffins are moist but not dense, with just the right amount of sweetness. One trick I swear by is making sure the cream cheese mixture is smooth and evenly swirled into the batter, so every bite has that creamy surprise. When they come out of the oven, they’re golden, tender, and smell like autumn itself. Honestly, these muffins have become a staple in my house for weekend breakfasts and afternoon snacks. Plus, they freeze well, so I always keep some on hand for those days when I need a quick, comforting pick-me-up.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a muffin tin with paper liners. This ensures your muffins bake evenly and don’t stick. Using liners also makes cleanup easier and helps the muffins keep their shape. Make sure your oven is fully preheated before baking, as a consistent temperature is key to even rising and a tender crumb. Avoid opening the oven door frequently while baking to keep the heat steady.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated to 350°F with muffin tin prepared"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, nutmeg, and cloves. Sifting the flour and spices helps to incorporate air and evenly distribute the leavening agents, which results in a lighter muffin. Mixing the spices with the dry ingredients ensures the warm flavors are balanced throughout the batter rather than clumping in one spot.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, whisk the melted butter and sugar together until smooth. Adding the sugar to the melted butter while it’s still warm helps it dissolve slightly, creating a smoother batter and tender crumb. Be careful not to overmix here; just blend until combined to avoid tough muffins.",
+            "timing": "3 minutes",
+            "doneness_cue": "Butter and sugar form a smooth, glossy mixture"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time, whisking well after each addition. This helps to emulsify the batter, trapping air for a light texture. Then stir in the pumpkin puree and vanilla extract until just combined. Overmixing once the pumpkin is added can lead to dense muffins, so fold gently.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth with no streaks of egg or pumpkin"
+        },
+        {
+            "step": 5,
+            "instruction": "Slowly add the dry ingredients to the wet ingredients, folding gently with a spatula until just combined. It’s important not to overmix here—overworking the batter develops gluten, which makes muffins tough. A few small lumps are okay. Stop mixing as soon as the flour disappears.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is combined with some small lumps, no dry flour visible"
+        },
+        {
+            "step": 6,
+            "instruction": "In a separate bowl, beat the softened cream cheese with sugar, egg yolk, and vanilla extract until smooth and creamy. This mixture will create the luscious swirl. Make sure the cream cheese is fully softened to avoid lumps and to make it easier to swirl into the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cream cheese mixture is smooth and homogenous"
+        },
+        {
+            "step": 7,
+            "instruction": "Fill each muffin cup halfway with pumpkin batter. Then dollop about a tablespoon of the cream cheese mixture on top. Use a toothpick or knife to swirl the cream cheese into the pumpkin batter gently. This swirl creates pockets of creamy richness throughout the muffin, making every bite special. Don’t over-swirl or the cream cheese will blend fully, losing the distinct swirl effect.",
+            "timing": "7 minutes",
+            "doneness_cue": "Muffin cups are filled evenly with visible cream cheese swirls"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 25-30 minutes until muffins are golden and a toothpick inserted into the pumpkin part (not the cream cheese swirl) comes out clean. The cream cheese swirl will stay moist and slightly creamy, which is perfect. Avoid overbaking as this dries out the muffins and toughens the cream cheese center.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden tops and clean toothpick from pumpkin batter area"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the muffins cool in the tin for 5 minutes before transferring to a wire rack to cool completely. Cooling in the tin allows the muffins to set slightly, preventing them from falling apart when removed. The wire rack cools them evenly, avoiding sogginess from trapped steam. Serve warm or at room temperature for the best texture and flavor.",
+            "timing": "15 minutes",
+            "doneness_cue": "Muffins are firm enough to handle and not steaming"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Pumpkin Muffin Recipe Succeeds",
+        "content": "<p>This pumpkin cream cheese muffin recipe works because it balances moisture, structure, and flavor in a way that keeps the muffins tender yet sturdy enough to hold the cream cheese swirl. The pumpkin puree adds natural moisture and subtle sweetness, which prevents the muffins from drying out, while the combination of baking powder and baking soda provides the right lift and crumb texture.</p><p>Using melted butter instead of oil gives the muffins a richer flavor and a slightly denser crumb, which pairs beautifully with the creamy swirl. The spices—cinnamon, nutmeg, and cloves—are distributed evenly through the sifted dry ingredients, allowing their warm aromas to bloom during baking without overpowering the pumpkin.</p><p>The cream cheese mixture is a key element. Incorporating egg yolk adds richness and helps it hold its shape during baking, creating pockets of luscious creaminess. Swirling it gently into the batter ensures you get distinct ribbons of cream cheese rather than it blending fully with the pumpkin, which enhances the eating experience. The technique of folding the wet and dry ingredients just until combined prevents gluten overdevelopment, keeping the muffins soft and tender.</p><p>Lastly, baking at a moderate temperature of 350°F allows the muffins to rise steadily and bake through without drying out or burning the delicate cream cheese swirl. Cooling the muffins properly helps them set and prevents sogginess, preserving their moist crumb and creamy center.</p>",
+        "ingredient_notes": {
+            "pumpkin puree": "Choose pure pumpkin puree, not pumpkin pie filling, which contains added sugars and spices. Pure pumpkin offers natural moisture and a subtle earthy sweetness essential for authentic flavor. It’s important that the puree is smooth and not watery to maintain the muffin’s texture. If using homemade puree, drain any excess liquid to avoid thinning the batter.",
+            "cream cheese": "Use full-fat cream cheese softened to room temperature for the best texture and flavor. Low-fat versions tend to be runnier and won’t hold the swirl shape as well. Softening it fully before mixing ensures a smooth, creamy swirl without lumps. Avoid overbeating to prevent incorporating too much air, which can cause the cream cheese to crack or bubble during baking.",
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without making the muffins dense. Avoid using cake flour, which is too soft, or bread flour, which is too strong. Sifting the flour with spices and leaveners helps prevent lumps and distributes ingredients evenly for consistent rise and texture.",
+            "butter": "Melted unsalted butter adds richness and depth of flavor compared to oil or margarine. It also helps create a tender crumb by coating the flour’s proteins, limiting gluten formation. Be sure to cool the butter slightly before mixing with eggs to prevent cooking them prematurely, which would affect texture.",
+            "baking powder and baking soda": "Using both baking powder and baking soda balances the acidity from the pumpkin and cream cheese to create an optimal rise. Baking soda reacts with acidic ingredients for quick lift, while baking powder adds additional leavening. Using the correct amounts ensures the muffins rise well without tasting metallic or soapy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your cream cheese is very soft before mixing.",
+            "reason": "Softened cream cheese blends smoothly with sugar and egg yolk, creating a creamy swirl without lumps. If it’s too cold, you’ll get chunks that don’t incorporate well, leading to uneven texture and an unattractive swirl."
+        },
+        {
+            "tip": "Don’t overmix the batter once you add the flour.",
+            "reason": "Overmixing develops gluten, which makes muffins tough and chewy. Gently folding until just combined keeps the crumb tender and allows the muffins to rise properly."
+        },
+        {
+            "tip": "Use fresh spices for the best flavor.",
+            "reason": "Spices like cinnamon and nutmeg lose potency over time, so fresh spices ensure your muffins have that warm, aromatic flavor that defines fall baking."
+        },
+        {
+            "tip": "Line your muffin tin with paper liners.",
+            "reason": "Liners help muffins bake evenly and make removal easier. Without liners, muffins might stick or break apart when you try to take them out."
+        },
+        {
+            "tip": "Swirl the cream cheese gently with a toothpick or knife.",
+            "reason": "Swirling creates beautiful ribbons of cream cheese without fully blending, so you get pockets of creamy richness in every bite."
+        },
+        {
+            "tip": "Cool muffins completely on a wire rack.",
+            "reason": "Cooling on a wire rack prevents steam from making the bottoms soggy and helps the muffins set properly."
+        },
+        {
+            "tip": "Store muffins in an airtight container at room temperature for up to two days.",
+            "reason": "This keeps them moist and fresh. Refrigeration can dry them out unless wrapped tightly, but freezing is great for longer storage."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pumpkin pie filling instead of pumpkin puree",
+            "why_it_happens": "Many people assume any canned pumpkin product will work, but pie filling contains added sugars and spices which throw off the recipe balance.",
+            "fix": "Always use pure pumpkin puree for consistent texture and flavor. If you only have pie filling, reduce added sugar and omit extra spices to compensate."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "It’s tempting to mix thoroughly to get a smooth batter, but this activates gluten and toughens muffins.",
+            "fix": "Fold the flour in gently until just combined. A few small lumps are okay and will disappear during baking."
+        },
+        {
+            "mistake": "Not softening the cream cheese enough",
+            "why_it_happens": "Rushing this step can leave lumps and prevent a smooth swirl.",
+            "fix": "Let cream cheese sit at room temperature for at least 30 minutes or microwave briefly in short bursts to soften."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot, or home cooks raise temperature to speed baking, causing uneven cooking and cracked cream cheese.",
+            "fix": "Use an oven thermometer and stick to 350°F. Bake until a toothpick in the pumpkin part comes out clean."
+        },
+        {
+            "mistake": "Swirling the cream cheese too much",
+            "why_it_happens": "Trying to create a perfect pattern can cause the cream cheese to fully mix with the batter, losing the swirl effect.",
+            "fix": "Use gentle, minimal swirling motions just to create marbled ribbons."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Maple Pecan Pumpkin Cream Cheese Muffins",
+            "description": "Add 1/2 cup chopped pecans and 1/4 cup pure maple syrup to the batter for a nutty, sweet twist. The maple syrup complements the pumpkin and cream cheese beautifully, while pecans add crunch and texture.",
+            "technical_note": "Reduce sugar slightly to balance the maple syrup’s sweetness. Fold nuts in last to avoid overmixing."
+        },
+        {
+            "name": "Spiced Pumpkin Chocolate Chip Muffins",
+            "description": "Stir 1/2 cup mini dark chocolate chips into the batter for a chocolatey surprise. The warm spices in the pumpkin batter pair wonderfully with bittersweet chocolate, making these muffins a decadent treat.",
+            "technical_note": "Add chips gently at the end to prevent them from sinking to the bottom."
+        },
+        {
+            "name": "Gluten-Free Pumpkin Cream Cheese Muffins",
+            "description": "Swap all-purpose flour for a gluten-free blend with xanthan gum. This keeps the muffins tender and moist without compromising on flavor or structure.",
+            "technical_note": "Check that your gluten-free blend includes xanthan gum or add 1/2 teaspoon separately for best texture."
+        },
+        {
+            "name": "Vegan Pumpkin Cream Cheese Muffins",
+            "description": "Use a vegan cream cheese and substitute eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg). Use coconut oil instead of butter for a plant-based version that’s rich and flavorful.",
+            "technical_note": "Let flax eggs sit 5 minutes to gel. Expect a slightly denser texture but still delicious."
+        },
+        {
+            "name": "Orange Zest Pumpkin Cream Cheese Muffins",
+            "description": "Add 1 tablespoon fresh orange zest to the batter for a bright citrus note that lifts the warm spices. This variation feels fresh and festive, great for holiday mornings.",
+            "technical_note": "Be sure to zest only the orange peel, avoiding the bitter white pith."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "12g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store muffins in an airtight container at room temperature for up to two days. Keep them away from direct sunlight or heat sources to prevent drying out. If you want to keep them fresh longer, refrigeration or freezing is better.",
+        "refrigerator": "Keep muffins in an airtight container in the fridge for up to 5 days. Note that refrigeration can dry them out slightly, so warm them gently before serving or enjoy cold with a spread of butter.",
+        "freezer": "Freeze muffins in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge or at room temperature before reheating.",
+        "reheating": "Reheat muffins in a 350°F oven for 5-7 minutes or microwave for 20-30 seconds. Adding a small dab of butter or a splash of milk before heating helps keep them moist. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it refrigerated, but add the cream cheese swirl just before baking to maintain its texture. Alternatively, bake muffins fully, cool, and freeze for quick breakfasts."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned pumpkin pie filling instead of pumpkin puree?",
+            "answer": "It’s best to use pure pumpkin puree, not pie filling, because pie filling contains added sugars and spices that will alter the flavor and texture. If you only have pie filling, reduce the added sugar and omit the spices in the recipe to balance it out."
+        },
+        {
+            "question": "Why are my muffins dense instead of fluffy?",
+            "answer": "Dense muffins usually result from overmixing the batter after adding flour, which develops gluten and toughens the crumb. Be sure to fold gently just until combined, even if you see small lumps."
+        },
+        {
+            "question": "How do I get a visible cream cheese swirl?",
+            "answer": "Make sure your cream cheese is fully softened and mix it smoothly with sugar and egg yolk. Dollop it on top of the muffin batter and swirl gently with a toothpick or knife—over-swizzling can cause it to blend fully and lose the swirl effect."
+        },
+        {
+            "question": "Can I make these muffins gluten-free?",
+            "answer": "Yes! Use a good quality gluten-free flour blend that contains xanthan gum or add it separately. This will help mimic the texture of regular flour and keep the muffins tender."
+        },
+        {
+            "question": "How should I store leftover muffins?",
+            "answer": "Store them in an airtight container at room temperature for up to two days or refrigerate for up to five days. For longer storage, freeze them tightly wrapped for up to three months."
+        },
+        {
+            "question": "Can I prepare the batter ahead of time?",
+            "answer": "You can prepare the pumpkin batter a day ahead and keep it covered in the fridge, but add and swirl the cream cheese mixture just before baking for best results."
+        },
+        {
+            "question": "Why did my cream cheese swirl crack during baking?",
+            "answer": "This usually happens if the cream cheese is too cold or overbeaten, causing it to separate or crack. Make sure it’s softened and mixed gently, and swirl it gently into the batter."
+        },
+        {
+            "question": "Can I substitute oil for butter?",
+            "answer": "Yes, but butter adds richness and flavor that oil lacks. Using oil will make the muffins lighter in texture but less flavorful. If substituting, use an equal amount of neutral oil like vegetable or canola."
+        }
+    ],
+    "conclusion": "Give these pumpkin cream cheese muffins a try, and I promise they’ll become your new fall favorite. Don’t forget to share your baking adventures—I’d love to hear how they turn out!",
+    "seo": {
+        "primary_keyword": "pumpkin cream cheese muffins",
+        "secondary_keywords": [
+            "easy pumpkin muffins",
+            "fall muffin recipes",
+            "how to make pumpkin muffins",
+            "best pumpkin cream cheese muffins recipe",
+            "moist pumpkin muffins"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make perfect pumpkin bread",
+                "anchor": "perfect-pumpkin-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5600 words"
+    },
+    "images": [
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_1.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_2.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_3.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "How To Make Moist Pumpkin Muffins with Cream Cheese Swirl"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Irresistible Pumpkin Cream Cheese Muffins You Need This Fall"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Best Pumpkin Muffins with Cream Cheese - Soft & Delicious!"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Irresistible Pumpkin Cream Cheese Muffins You Need This Fall"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Irresistible Pumpkin Cream Cheese Muffins You Need This Fall"
+        },
+        {
+            "fileName": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images/the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "Fall Favorite: Pumpkin Muffins with a Cream Cheese Swirl Inside"
+        }
+    ],
+    "id": "post_1786403195_943",
+    "slug": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat",
+    "isOnline": true,
+    "createdAt": "2026-08-11T00:32:04+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-11T00:32:04+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "the-best-pumpkin-cream-cheese-muffins-recipe-for-a-cozy-fall-treat/images",
+    "has_reel": true
+}
