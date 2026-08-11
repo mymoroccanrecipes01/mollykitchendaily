@@ -1,0 +1,347 @@
+{
+    "title": "Classic Spiced Apple Crisp with Buttery Oat Topping",
+    "promptIMG": "Food photography: Spiced Apple Crisp, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This spiced apple crisp is my ultimate fall dessert. The oats get perfectly crispy while the cinnamon-scented apples stay juicy and soft. Best served warm with vanilla ice cream on a chilly evening!",
+    "hashtags": "#applecrisp #falldessert #comfortfood",
+    "board_name": "Easy Fall Desserts",
+    "pin_variations": [
+        {
+            "title": "Warm Spiced Apple Crisp You Can’t Resist This Fall",
+            "description": "Nothing beats the cozy vibes of this spiced apple crisp! Crisp oats and tender cinnamon apples make it a perfect autumn treat. Save this recipe and try it tonight 🍎🍂 #applecrisp #falldesserts #comfortfood"
+        },
+        {
+            "title": "Easy Apple Crisp with a Crunchy Oat Topping",
+            "description": "Looking for a simple fall dessert? This apple crisp has a buttery oat topping that crisps up beautifully. Serve it warm with ice cream for ultimate comfort. Try it today! 🍏✨ #easyrecipe #applecrisp #dessertideas"
+        },
+        {
+            "title": "The Best Spiced Apple Crisp for Cozy Nights In",
+            "description": "This apple crisp is my go-to for chilly evenings. Sweet cinnamon apples and a crunchy oat topping come together in minutes. Discover this easy fall favorite and enjoy! 🍂❤️ #fallrecipes #appledessert #comfortfood"
+        },
+        {
+            "title": "How to Make Perfect Spiced Apple Crisp Every Time",
+            "description": "Want a foolproof apple crisp? This recipe nails the perfect balance of tender fruit and crispy topping. Save it for your next cozy night dessert! 🍎👌 #applecrisprecipe #falldesserts #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups peeled and sliced tart apples (such as Granny Smith)",
+        "1/2 cup granulated sugar",
+        "1 tsp ground cinnamon",
+        "1/4 tsp ground nutmeg",
+        "1 tbsp lemon juice",
+        "1 cup old-fashioned rolled oats",
+        "1/2 cup all-purpose flour",
+        "1/2 cup packed light brown sugar",
+        "1/2 tsp salt",
+        "1/2 cup unsalted butter, cold and diced"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this spiced apple crisp years ago when I wanted a quick dessert that felt like fall in a bowl. What I love about this recipe is how the oat topping crisps up perfectly while the apples cook down tender and juicy, releasing all their cinnamon-scented goodness. The trick I learned early on was to use cold butter diced into the oat mixture and gently work it in to get that ideal crumbly texture. It really makes the difference between a soggy topping and one that’s golden and crunchy. Plus, tossing the apples with a touch of lemon juice keeps them bright and balances the sweetness. Every time I bake this, my kitchen smells like autumn, and it’s always a hit whether I serve it for a casual weeknight dessert or a cozy weekend treat. The warm crisp paired with vanilla ice cream is just unbeatable. If you’re looking for a comforting, easy-to-make dessert that’s full of seasonal flavors, this apple crisp is my go-to and I’m sure you’ll love it too.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This ensures the oven is hot enough to bake the crisp evenly, allowing the apples to soften while the topping crisps up nicely. Starting with a properly preheated oven is key because if it’s too cool, the topping can become soggy instead of crunchy. While the oven warms, prepare your ingredients so everything is ready to go.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches 350°F and is ready for baking"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the sliced apples with granulated sugar, cinnamon, nutmeg, and lemon juice. The sugar draws out the juices from the apples, creating a naturally sweet syrup, while the spices add warmth and depth. The lemon juice brightens the flavor and prevents the apples from browning. Make sure all apple slices are evenly coated for an even bake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Apples are well coated, slightly glossy from sugar and lemon juice"
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the apple mixture to a greased 9x9-inch baking dish, spreading it out evenly to ensure uniform cooking. Using a shallow dish helps the topping crisp up properly and the apples cook evenly. Avoid overcrowding the apples, which can lead to sogginess.",
+            "timing": "5 minutes",
+            "doneness_cue": "Apples are evenly spread in the dish, no gaps or clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, combine the oats, flour, brown sugar, and salt. These dry ingredients form the base of your crisp topping, providing sweetness and structure. Mixing them well ensures the butter will distribute evenly for a balanced texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are thoroughly mixed with no lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cold, diced butter to the oat mixture. Using a pastry cutter or your fingers, work the butter into the dry ingredients until the mixture resembles coarse crumbs. The cold butter creates pockets of fat that melt during baking, producing a tender, flaky, and crispy topping. Avoid overworking the butter or it will melt, leading to a greasy topping.",
+            "timing": "7 minutes",
+            "doneness_cue": "Mixture looks crumbly with small pea-sized butter bits throughout"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the oat topping evenly over the apples in the baking dish. Distribute it gently but thoroughly to cover all the apples. This even layer ensures the topping crisps uniformly and the apples underneath bake properly without drying out.",
+            "timing": "3 minutes",
+            "doneness_cue": "Topping covers apples completely with no bare spots"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the apple crisp in the preheated oven for 30 minutes. During baking, the butter melts, binding the topping ingredients and allowing the oats to toast, while the apples soften and release their juices. Resist opening the oven frequently to maintain steady heat and avoid disrupting the crisping process.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping is golden brown and apples are bubbling around edges"
+        },
+        {
+            "step": 8,
+            "instruction": "After baking, let the apple crisp cool on a wire rack for at least 10 minutes. This rest time allows the juices to thicken slightly so the crisp isn’t too runny when served. It also helps the topping firm up for that perfect crunch.",
+            "timing": "10 minutes",
+            "doneness_cue": "Juices have thickened and topping feels crisp to the touch"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with a scoop of vanilla ice cream or whipped cream for a classic pairing. The cold, creamy ice cream contrasts beautifully with the warm, spiced apples and crunchy topping, elevating the dessert to pure comfort food bliss.",
+            "timing": "0 minutes",
+            "doneness_cue": "Ice cream slightly melting over the warm crisp"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Apple Crisp’s Perfect Texture and Flavor",
+        "content": "<p>This apple crisp works so well because it balances moisture and crunch through careful ingredient choices and baking techniques. First, the apples are tossed with sugar and lemon juice. Sugar draws out the natural juices from the fruit, creating a syrup as it bakes, while lemon juice prevents browning and adds brightness, preventing the dessert from tasting too sweet or flat.</p><p>The oat topping is where the magic happens. Cold butter cut into the dry ingredients creates small pockets of fat that melt during baking. These pockets steam and crisp the oats, giving a tender yet crunchy texture. If the butter is too warm or overworked, it blends too much and the topping becomes greasy rather than crumbly.</p><p>Baking at 350°F allows the apples to soften without turning to mush and ensures the topping crisps evenly. The Maillard reaction browns the sugars and proteins in the oat topping, creating rich flavors and that golden color we associate with the perfect crisp. Resting the crisp after baking lets the apple juices thicken so the dessert isn’t runny but still juicy.</p><p>Overall, this recipe’s success lies in balancing moisture, texture, and flavor through ingredient chemistry and baking technique, resulting in a comforting dessert with a perfect crisp topping and tender, flavorful fruit beneath.</p>",
+        "ingredient_notes": {
+            "Apples": "For this crisp, tart apples like Granny Smith work best because their firm texture holds up well during baking and their natural tartness balances the sweet topping. When buying, look for apples that are firm with no bruises or soft spots. Avoid overly sweet or soft varieties, which can turn mushy and make the dessert too sweet.",
+            "Old-fashioned Rolled Oats": "Rolled oats provide the ideal texture for the topping—chewy and hearty. Instant oats are too fine and can lead to a mushy topping, while steel-cut oats won’t soften enough. Choose old-fashioned rolled oats for that classic oat crisp texture and toasty flavor.",
+            "Butter": "Using cold, unsalted butter is crucial. Cold butter cut into the dry ingredients creates a crumbly texture as it melts during baking. Unsalted butter lets you control the salt level precisely. Avoid melted or softened butter here, which can cause the topping to be greasy and dense instead of crisp and flaky.",
+            "Brown Sugar": "Light brown sugar adds moisture, sweetness, and a subtle molasses flavor that deepens the topping’s taste. It also helps the topping caramelize and brown during baking. Using white sugar alone would result in a less flavorful and less tender topping.",
+            "Lemon Juice": "A splash of lemon juice brightens the apple filling and prevents browning, keeping the apples fresh-looking and vibrant. It also balances the sweetness and enhances the fruit’s natural flavor, making the dessert more complex and less cloying."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use cold butter for the topping and cut it in quickly.",
+            "reason": "Cold butter creates small pockets of fat that melt during baking, giving the topping a flaky, crumbly texture. If the butter warms too much or is overworked, the topping becomes greasy and dense, losing that perfect crisp."
+        },
+        {
+            "tip": "Don’t overcrowd the apples in the baking dish.",
+            "reason": "Spreading the apples evenly ensures they cook uniformly and the topping crisps properly. Overcrowding traps excess moisture and can make the topping soggy instead of crunchy."
+        },
+        {
+            "tip": "Let the crisp rest before serving.",
+            "reason": "Resting allows the juices to thicken so the dessert isn’t runny and the topping firms up. Serving immediately can result in a watery filling and topping that falls apart."
+        },
+        {
+            "tip": "Use old-fashioned rolled oats, not quick oats.",
+            "reason": "Rolled oats stay chewy and provide structure to the topping. Quick oats break down too much and can lead to a mushy texture instead of a crisp one."
+        },
+        {
+            "tip": "Add a splash of lemon juice to the apples.",
+            "reason": "Lemon juice prevents browning and adds brightness that balances the sweetness, making the dessert taste fresher and more complex."
+        },
+        {
+            "tip": "Bake at 350°F for even cooking.",
+            "reason": "This temperature allows the apples to soften while the topping crisps without burning. Higher temps risk burning the topping before the apples are tender."
+        },
+        {
+            "tip": "Serve warm with vanilla ice cream.",
+            "reason": "The contrast of warm crisp and cold ice cream enhances the dessert experience, adding creaminess and balancing the cinnamon-spiced apples."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm or melted butter in the topping",
+            "why_it_happens": "Some cooks melt butter out of convenience or to mix faster, assuming it will blend better.",
+            "fix": "Always use cold, diced butter and cut it into the dry ingredients quickly. This creates the crumbly texture essential for a crisp topping. If butter is too warm, chill the mixture briefly before baking."
+        },
+        {
+            "mistake": "Overcrowding the baking dish with apples",
+            "why_it_happens": "It’s tempting to fit all apples in one pan without spreading them out evenly.",
+            "fix": "Use a shallow dish and spread apples evenly to avoid excess moisture buildup and ensure the topping crisps properly."
+        },
+        {
+            "mistake": "Skipping the lemon juice",
+            "why_it_happens": "Some may think lemon juice is unnecessary or will alter the flavor negatively.",
+            "fix": "Add lemon juice to keep apples from browning and to brighten the flavor, balancing sweetness. It’s a small step that improves the final taste and appearance."
+        },
+        {
+            "mistake": "Not letting the crisp rest before serving",
+            "why_it_happens": "Impatience leads to serving right out of the oven.",
+            "fix": "Allow 10 minutes resting time so juices thicken and topping firms up, preventing a soggy dessert."
+        },
+        {
+            "mistake": "Using quick oats instead of rolled oats",
+            "why_it_happens": "Quick oats seem like a faster option and are sometimes used interchangeably.",
+            "fix": "Stick to old-fashioned rolled oats for the right chew and texture in the topping."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped nuts to the topping",
+            "description": "Mix in 1/2 cup chopped walnuts or pecans with the oat topping for extra crunch and a nutty flavor. The nuts toast beautifully in the oven, adding depth and texture to the crisp.",
+            "technical_note": "Nuts add crunch but can brown faster, so watch the topping towards the end of baking to avoid burning."
+        },
+        {
+            "name": "Use a mix of apples and pears",
+            "description": "Replace half the apples with firm pears for a slightly sweeter, juicier filling. This variation adds complexity and a subtle floral note to the dessert.",
+            "technical_note": "Pears cook faster than apples, so slice them slightly thicker to keep texture consistent."
+        },
+        {
+            "name": "Make a gluten-free version",
+            "description": "Swap all-purpose flour for almond flour or gluten-free flour blend in the topping. This keeps the crisp naturally gluten-free without sacrificing flavor or texture.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you may need to adjust butter quantity slightly for proper crumb."
+        },
+        {
+            "name": "Add dried cranberries or raisins to the filling",
+            "description": "Stir in 1/3 cup dried cranberries or raisins with the apples for bursts of tart sweetness that complement the spices perfectly.",
+            "technical_note": "Soak dried fruit briefly in warm water to plump before mixing to avoid drying out the crisp."
+        },
+        {
+            "name": "Spice it up with ginger and cloves",
+            "description": "Add 1/2 tsp ground ginger and a pinch of ground cloves to the apple mixture for a warmer, more aromatic spice profile. Great for holiday twists.",
+            "technical_note": "Use spices sparingly; too much can overpower the fruit’s natural flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the apple crisp covered at room temperature for up to 2 hours safely. Beyond that, it’s best to refrigerate it to prevent spoilage.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The topping may soften but reheating in the oven can restore some crispness. It’s still delicious served cold, especially with a dollop of cream.",
+        "freezer": "Freeze the crisp in an airtight container or tightly wrapped foil for up to 2 months. To avoid freezer burn, wrap it well and place in a freezer-safe bag. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat the crisp in a 350°F oven for about 15 minutes until warmed through and topping regains crunch. Avoid microwaving as it softens the topping. Adding a small splash of water under the dish can help rehydrate the fruit during reheating.",
+        "make_ahead_strategy": "You can prepare the apple filling and topping separately a day ahead. Store the apple mixture in the fridge and keep the topping in an airtight container. Assemble and bake just before serving for the freshest texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen apples for this recipe?",
+            "answer": "Frozen apples can work in a pinch but they release more water, which can make the crisp soggy. If using frozen, thaw and drain excess liquid before mixing with sugar and spices to keep the topping crisp."
+        },
+        {
+            "question": "What type of apples are best for apple crisp?",
+            "answer": "Tart, firm apples like Granny Smith or Honeycrisp are ideal because they hold their shape when baked and balance sweetness well. Avoid very soft or overly sweet varieties that turn mushy."
+        },
+        {
+            "question": "How do I get a crunchy topping instead of soggy?",
+            "answer": "Use cold butter cut into oats and flour, avoid overcrowding the apples, bake at 350°F, and don’t open the oven frequently. Also, let the crisp rest after baking to allow juices to thicken."
+        },
+        {
+            "question": "Can I make this apple crisp vegan?",
+            "answer": "Yes! Substitute the butter with coconut oil or a vegan butter alternative. The texture will be slightly different but still delicious and crisp."
+        },
+        {
+            "question": "How long does apple crisp keep after baking?",
+            "answer": "It keeps well in the fridge for up to 4 days in an airtight container. The topping may soften but reheating in the oven restores some crispness."
+        },
+        {
+            "question": "Can I prepare the apple crisp ahead of time?",
+            "answer": "Absolutely! Prepare the filling and topping separately and store in the fridge. Assemble and bake just before serving for the best texture."
+        },
+        {
+            "question": "What can I serve with apple crisp besides ice cream?",
+            "answer": "Whipped cream, custard, or even a drizzle of caramel sauce all pair wonderfully with apple crisp for variety."
+        },
+        {
+            "question": "Is it okay to use quick oats instead of rolled oats?",
+            "answer": "Quick oats can be used but the topping will be less chewy and more crumbly. For best texture, stick with old-fashioned rolled oats."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this spiced apple crisp as much as I do! Don’t forget to share your cozy creations with me—I’d love to hear how it turns out.",
+    "seo": {
+        "primary_keyword": "spiced apple crisp recipe",
+        "secondary_keywords": [
+            "easy apple crisp",
+            "fall dessert recipes",
+            "how to make apple crisp",
+            "best apple crisp recipe",
+            "simple apple crisp"
+        ],
+        "internal_links": [
+            {
+                "text": "classic homemade apple pie recipe",
+                "anchor": "classic-apple-pie-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_1.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_1.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_2.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_2.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_3.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_3.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_6.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "The Best Spiced Apple Crisp for Cozy Nights In"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_5.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Easy Apple Crisp with a Crunchy Oat Topping"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_9.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Warm Spiced Apple Crisp You Can’t Resist This Fall"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_7.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "How to Make Perfect Spiced Apple Crisp Every Time"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_4.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Warm Spiced Apple Crisp You Can’t Resist This Fall"
+        },
+        {
+            "fileName": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_8.webp",
+            "relativePath": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images/perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Warm Spiced Apple Crisp You Can’t Resist This Fall"
+        }
+    ],
+    "id": "post_1786490164_900",
+    "slug": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping",
+    "isOnline": true,
+    "createdAt": "2026-08-12T00:33:25+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-12T00:33:25+01:00",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "perfect-fall-recipes-dessert-irresistible-spiced-apple-crisp-with-oat-topping/images",
+    "has_reel": true
+}
