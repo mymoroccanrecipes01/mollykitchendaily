@@ -1,0 +1,350 @@
+{
+    "title": "Snickerdoodle Zucchini Bread with a Cozy Cinnamon Sugar Swirl",
+    "promptIMG": "Food photography: Snickerdoodle Zucchini Bread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This zucchini bread is a fun twist on the classic snickerdoodle cookie, featuring a warm cinnamon sugar swirl that makes every bite cozy and moist. Perfect for breakfast or an afternoon treat with coffee.",
+    "hashtags": "#snickerdoodle #zucchinibread #comfortbaking #cozysnacks",
+    "board_name": "Comfort Baking Recipes",
+    "pin_variations": [
+        {
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Love to Bake",
+            "description": "Discover how to make this moist and flavorful snickerdoodle zucchini bread with a cinnamon sugar swirl. It’s perfect for breakfast or an anytime snack. Save this recipe and try it today! 🍞✨ #snickerdoodle #zucchinibread #bakinglove"
+        },
+        {
+            "title": "Cozy Cinnamon Swirled Zucchini Bread Recipe",
+            "description": "This zucchini bread with cinnamon sugar swirl is the ultimate cozy treat. Easy to bake and perfect for sharing with friends. Grab your ingredients and whip it up now! 🍂🍰 #comfortfood #homemadebread #snickerdoodlebread"
+        },
+        {
+            "title": "Easy Snickerdoodle Zucchini Bread for Breakfast or Snack",
+            "description": "Looking for a quick, tasty breakfast? This snickerdoodle zucchini bread is moist, sweet, and has just the right cinnamon kick. Try it today and enjoy the warmth! ☕🍞 #easyrecipes #bakingathome #zucchinibread"
+        },
+        {
+            "title": "The Best Snickerdoodle Zucchini Bread with Cinnamon Swirl",
+            "description": "Make your mornings special with this snickerdoodle zucchini bread featuring a cinnamon sugar swirl. It’s simple, delicious, and perfect with your morning coffee. Save this recipe now! 🌟🥖 #snickerdoodle #bakingrecipes #cozybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 50,
+    "servings": 8,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 tablespoon ground cinnamon",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "1/2 cup unsalted butter, melted",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups grated zucchini (about 1 medium zucchini), squeezed dry",
+        "1/2 cup sour cream",
+        "For the cinnamon sugar swirl: 1/4 cup granulated sugar mixed with 1 tablespoon ground cinnamon"
+    ],
+    "yield": "One 9x5 inch loaf, 8 servings",
+    "introduction": "I stumbled upon this snickerdoodle zucchini bread recipe a couple of summers ago when I had an abundance of zucchini from my garden and a craving for something sweet but not overpowering. I wanted to marry the soft, moist texture of zucchini bread with the comforting cinnamon sugar flavor of snickerdoodle cookies. After a few tries, I landed on this version, which has the perfect balance of spice, sweetness, and moisture. What sets this apart is the cinnamon sugar swirl layered right in the batter, giving each slice that classic snickerdoodle warmth. Plus, using sour cream adds a subtle tang and keeps the bread incredibly tender. I’ve found that squeezing out excess moisture from the zucchini is essential—too wet and the bread turns gummy. When baked, it develops a golden crust with a soft, fragrant crumb inside. It’s become one of my go-to recipes for breakfast or a cozy afternoon snack with tea. Trust me, this bread tastes like a warm hug on a plate!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease and flour a 9x5 inch loaf pan or line it with parchment paper. This step ensures your bread won’t stick and will come out easily after baking. Proper oven temperature is crucial for even cooking and that lovely golden crust. Avoid opening the oven door frequently during baking, as temperature fluctuations can cause the bread to collapse.",
+            "timing": "10 minutes",
+            "doneness_cue": "Loaf pan is well greased/floured and oven is fully preheated"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking soda, baking powder, salt, and 1 tablespoon of cinnamon. Sifting or whisking these dry ingredients helps distribute the leavening agents evenly, which is essential for a uniform rise and crumb texture. Make sure to mix well so no clumps of baking soda or cinnamon remain.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are well combined with no visible lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, combine the granulated sugar, brown sugar, and melted butter. Stir until smooth and well blended. Adding melted butter instead of softened butter gives a denser, moister crumb, which I prefer for zucchini bread. The mix should look creamy and slightly thick before adding eggs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sugar and butter mixture is smooth and uniform"
+        },
+        {
+            "step": 4,
+            "instruction": "Beat in eggs one at a time, then stir in vanilla extract. The eggs add structure and richness, while vanilla enhances the overall flavor profile. Mixing eggs in one at a time ensures they fully incorporate and prevent curdling. Avoid overmixing here to keep the batter tender.",
+            "timing": "3 minutes",
+            "doneness_cue": "Eggs and vanilla fully incorporated; batter is smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the dry ingredients alternately with the sour cream, starting and ending with the dry mix. This layering technique prevents overmixing, which can make the bread tough. The sour cream adds moisture and a subtle tang that balances the sweetness. Use a gentle folding motion to keep the batter light.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is thick but smooth and evenly mixed"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold in the grated zucchini, making sure it’s well drained to avoid sogginess. The zucchini adds moisture and a tender texture without overwhelming the flavor. If the zucchini is too wet, your bread may not set properly and could become dense or gummy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini is evenly dispersed without excess liquid"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour half the batter into the prepared loaf pan. Sprinkle half the cinnamon sugar mixture evenly over the batter. Pour the remaining batter on top, then sprinkle the rest of the cinnamon sugar. Use a knife or skewer to gently swirl the cinnamon sugar through the batter for a marbled effect. This swirl creates bursts of cinnamon sweetness throughout the bread and adds a pretty visual touch.",
+            "timing": "7 minutes",
+            "doneness_cue": "Batter layers with cinnamon sugar swirl visible and lightly marbled"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake for 50 to 60 minutes, or until a toothpick inserted in the center comes out clean or with just a few moist crumbs. Baking time can vary with ovens, so start checking at 50 minutes. The bread should have a golden brown crust and a springy texture when gently pressed. Avoid opening the oven early to prevent collapse.",
+            "timing": "50-60 minutes",
+            "doneness_cue": "Golden crust and clean toothpick test"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the bread cool in the pan for about 15 minutes before transferring it to a wire rack to cool completely. Cooling in the pan helps the bread set so it doesn’t crumble when removed. Once on the rack, air circulation prevents sogginess and keeps the crust crisp. Slice only when fully cooled for clean slices.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bread is firm and cool to the touch"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Snickerdoodle Zucchini Bread",
+        "content": "<p>This recipe balances moisture, structure, and flavor by carefully combining its ingredients and techniques. The grated zucchini provides natural moisture but must be squeezed dry to avoid a soggy crumb. The sour cream adds fat and acidity, which tenderizes the gluten and enhances the bread's softness. Using both baking soda and baking powder ensures a good rise: the baking soda reacts with the acidic sour cream, while the baking powder provides additional leavening for a light texture.</p><p>The cinnamon sugar swirl is a clever technique that adds bursts of warm spice without overpowering the bread. Swirling rather than mixing it fully into the batter creates pockets of sweetness, enhancing the eating experience. Melted butter contributes a denser, moister crumb compared to creamed butter, which is ideal for zucchini bread.</p><p>Temperature control is essential; baking at 350°F allows the bread to cook evenly without drying out. The Maillard reaction on the crust creates a golden-brown color and rich flavor, signaling perfect doneness. Cooling the bread in the pan before removing lets the structure set, preventing crumbling.</p><p>Each step is designed to build layers of flavor and texture, resulting in a moist, tender loaf with a cozy cinnamon aroma that feels like a warm hug in every bite.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a good-quality, unbleached all-purpose flour for this recipe. It provides the right protein content to build structure without making the bread tough. Bleached flours might alter the flavor and texture slightly. Sifting or whisking the flour ensures even mixing and aeration, which helps with rise and crumb.",
+            "grated zucchini": "Choose fresh, firm zucchini without blemishes. Grate it finely, then squeeze out excess moisture using a clean kitchen towel or cheesecloth. This is crucial to prevent the bread from becoming watery or dense. If zucchini is too wet, it will weigh down the batter and interfere with proper baking.",
+            "sour cream": "Sour cream adds moisture and a subtle tang that balances the sweetness and enriches the crumb. Use full-fat sour cream for the best texture. If you need a substitute, Greek yogurt can work but may slightly change the flavor profile. Avoid low-fat versions as they can dry out the bread.",
+            "cinnamon sugar swirl": "The cinnamon sugar mix is simple but vital for that snickerdoodle flavor. Use fresh ground cinnamon for the best aroma and flavor. The swirl technique adds visual appeal and pockets of spice throughout the bread, making each bite interesting and flavorful.",
+            "baking soda and baking powder": "Both leavening agents work together to create a tender, risen loaf. Baking soda reacts with the acidity of the sour cream, while baking powder provides an additional boost. Using both ensures proper lift and prevents the bread from being dense or flat."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Squeeze the zucchini well before adding it to the batter.",
+            "reason": "Excess moisture from zucchini can make the bread soggy and dense. Removing as much water as possible allows the bread to bake properly and keeps the crumb tender but not gummy."
+        },
+        {
+            "tip": "Use melted butter instead of softened butter.",
+            "reason": "Melted butter creates a moister, denser texture which complements the zucchini’s moisture. It also helps distribute fats evenly throughout the batter, resulting in a tender crumb."
+        },
+        {
+            "tip": "Don’t overmix the batter once the flour is added.",
+            "reason": "Overmixing develops gluten, making the bread tough. Folding gently preserves a light texture and keeps the bread tender and moist."
+        },
+        {
+            "tip": "Swirl the cinnamon sugar gently with a knife.",
+            "reason": "This technique creates pockets of cinnamon sugar that caramelize during baking, adding bursts of flavor and a pretty marbled look."
+        },
+        {
+            "tip": "Let the bread cool completely before slicing.",
+            "reason": "Cooling allows the structure to set so the bread slices cleanly and retains moisture without crumbling."
+        },
+        {
+            "tip": "Use fresh ground cinnamon for the best aroma.",
+            "reason": "Old cinnamon loses potency and flavor. Fresh cinnamon enhances the warm, cozy notes essential to this recipe."
+        },
+        {
+            "tip": "Preheat your oven fully before baking.",
+            "reason": "An oven at the right temperature ensures even rising and browning. Baking in a cold or uneven oven can cause dense or unevenly cooked bread."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not squeezing out zucchini moisture",
+            "why_it_happens": "Many assume that grated zucchini can be added as is, but it holds a lot of water that affects the bread’s texture.",
+            "fix": "After grating, place zucchini in a clean towel and squeeze firmly to remove water. This prevents sogginess and helps the bread bake evenly."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Eager cooks often mix too vigorously trying to combine ingredients quickly.",
+            "fix": "Fold gently until just combined after adding flour. Overmixing develops gluten, resulting in tough bread."
+        },
+        {
+            "mistake": "Skipping the cinnamon sugar swirl",
+            "why_it_happens": "Sometimes people mix the cinnamon sugar completely into the batter, losing the swirl effect.",
+            "fix": "Layer the batter and cinnamon sugar, then swirl gently with a knife. This creates delicious pockets of cinnamon flavor."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot or cooks raise temperature to speed baking.",
+            "fix": "Stick to 350°F and check doneness at 50 minutes. High heat can brown the crust too fast and leave the inside undercooked."
+        },
+        {
+            "mistake": "Cutting the bread too soon",
+            "why_it_happens": "Impatience leads to slicing while the bread is still warm.",
+            "fix": "Cool the bread fully on a wire rack to allow it to set. Warm bread can crumble and fall apart."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Walnut Snickerdoodle Zucchini Bread",
+            "description": "Add 1 cup chopped walnuts to the batter for a crunchy texture that complements the soft bread. The nuts add a pleasant contrast and extra protein, making it a more filling snack or breakfast option.",
+            "technical_note": "Fold nuts gently into the batter after adding zucchini to avoid overmixing."
+        },
+        {
+            "name": "Chocolate Chip Cinnamon Swirl Zucchini Bread",
+            "description": "Stir in 3/4 cup mini chocolate chips for a sweet twist. The chocolate pairs beautifully with cinnamon and zucchini, making this version a hit with kids and chocolate lovers.",
+            "technical_note": "Add chocolate chips last to prevent them from sinking to the bottom."
+        },
+        {
+            "name": "Gluten-Free Snickerdoodle Zucchini Bread",
+            "description": "Substitute the all-purpose flour with a gluten-free blend that includes xanthan gum. This keeps the texture moist and tender while accommodating gluten sensitivities.",
+            "technical_note": "Check the blend’s instructions for possible hydration adjustments."
+        },
+        {
+            "name": "Vegan Snickerdoodle Zucchini Bread",
+            "description": "Replace eggs with flax eggs and use coconut yogurt instead of sour cream. Use vegan butter or coconut oil to keep it dairy-free, and you’ll have a plant-based version that’s still moist and flavorful.",
+            "technical_note": "Flax eggs need a few minutes to gel before mixing in."
+        },
+        {
+            "name": "Spiced Snickerdoodle Zucchini Bread",
+            "description": "Add 1/2 teaspoon ground nutmeg and 1/4 teaspoon ground cloves to the dry ingredients for a deeper spice profile. This variation is perfect for fall or holiday baking with extra warmth.",
+            "technical_note": "Mix spices thoroughly with flour to evenly distribute flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "7g",
+        "fiber_grams": "3g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the bread wrapped tightly in plastic wrap or in an airtight container at room temperature for up to 2 days. Avoid leaving it uncovered to prevent drying out. It’s best eaten fresh but can last a couple of days this way.",
+        "refrigerator": "Keep the bread in an airtight container in the fridge for up to 5 days. The bread may firm up slightly when cold, so I recommend warming slices briefly in the microwave or toaster oven before serving to restore softness.",
+        "freezer": "Wrap the cooled loaf tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat slices gently to revive freshness.",
+        "reheating": "Warm slices in a toaster oven at 300°F for about 5-7 minutes or microwave for 20-30 seconds. Adding a tiny pat of butter or a splash of milk before heating can help keep the bread moist. Avoid overheating which can dry it out.",
+        "make_ahead_strategy": "You can grate and squeeze the zucchini a day ahead and store it in the fridge. The batter can be mixed and kept in the fridge overnight before baking the next day, which sometimes improves flavor depth. Just bring batter to room temperature before baking."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini for this bread?",
+            "answer": "Yes, but make sure to thaw and squeeze out all excess water thoroughly. Frozen zucchini tends to release more moisture, so removing as much liquid as possible is key to avoid a soggy loaf."
+        },
+        {
+            "question": "What if I don’t have sour cream? Can I substitute it?",
+            "answer": "You can substitute sour cream with full-fat Greek yogurt or buttermilk. Both add moisture and acidity needed for the rise and tender crumb. Avoid low-fat versions as they can dry out the bread."
+        },
+        {
+            "question": "Can I make this bread gluten-free?",
+            "answer": "Absolutely! Use a gluten-free all-purpose flour blend that contains xanthan gum for structure. The texture might be slightly different but still delicious. Adjust moisture if batter seems too thick or thin."
+        },
+        {
+            "question": "How do I know when the bread is done baking?",
+            "answer": "Insert a toothpick into the center; it should come out clean or with a few moist crumbs. The crust will be golden brown and spring back when pressed lightly."
+        },
+        {
+            "question": "Can I add nuts or chocolate chips?",
+            "answer": "Yes! Adding up to 1 cup of chopped nuts or chocolate chips is a great way to customize the bread. Fold them in gently after mixing the zucchini to keep the batter light."
+        },
+        {
+            "question": "Why is my bread dense or gummy?",
+            "answer": "This usually happens if the zucchini is too wet or the batter is overmixed. Always squeeze out excess moisture and fold the batter gently to avoid developing too much gluten."
+        },
+        {
+            "question": "Can I make mini loaves or muffins instead?",
+            "answer": "Definitely! Adjust baking time to about 20-25 minutes for muffins and 35-40 minutes for mini loaves. Keep an eye on them as smaller sizes bake faster."
+        },
+        {
+            "question": "How long does this bread keep fresh?",
+            "answer": "At room temperature, it stays fresh for about 2 days. Refrigerated, it lasts up to 5 days, and in the freezer up to 3 months when wrapped properly."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and savoring this snickerdoodle zucchini bread as much as I do! Don’t forget to share how yours turns out—I’d love to hear your thoughts and tweaks.",
+    "seo": {
+        "primary_keyword": "snickerdoodle zucchini bread",
+        "secondary_keywords": [
+            "cinnamon zucchini bread",
+            "easy zucchini bread recipe",
+            "how to make snickerdoodle bread",
+            "best zucchini bread recipe",
+            "moist zucchini bread"
+        ],
+        "internal_links": [
+            {
+                "text": "classic zucchini bread recipe",
+                "anchor": "classic-zucchini-bread"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5400 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_1.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_2.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_3.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_7.webp",
+            "type": "template",
+            "title": "The Best Snickerdoodle Zucchini Bread with Cinnamon Swirl"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_5.webp",
+            "type": "template",
+            "title": "Cozy Cinnamon Swirled Zucchini Bread Recipe"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_6.webp",
+            "type": "template",
+            "title": "Easy Snickerdoodle Zucchini Bread for Breakfast or Snack"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_4.webp",
+            "type": "template",
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Love to Bake"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Love to Bake"
+        },
+        {
+            "fileName": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/Mollykitchendaily/posts/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images/easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "title": "Moist Snickerdoodle Zucchini Bread You’ll Love to Bake"
+        }
+    ],
+    "id": "post_1786575965_967",
+    "slug": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist",
+    "isOnline": true,
+    "createdAt": "2026-08-13T00:33:06+01:00",
+    "author_id": "author_001",
+    "updatedAt": "2026-08-13T00:33:06+01:00",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-snickerdoodle-zucchini-bread-recipe-with-a-cinnamon-sugar-twist/images",
+    "has_reel": true
+}
